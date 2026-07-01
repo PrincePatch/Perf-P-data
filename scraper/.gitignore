@@ -1,0 +1,8 @@
+# Secrets : jamais commites.
+.env
+
+# Artefacts Python.
+__pycache__/
+*.pyc
+.venv/
+venv/

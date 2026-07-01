@@ -1,0 +1,59 @@
+# Configuration du pipeline de scraping gputracker.eu (item #10).
+# Tout est ajustable ici sans toucher au code.
+
+site:
+  base_url: "https://www.gputracker.eu"
+  lang: "en"
+  # User-Agent descriptif qui identifie le bot (exige par la politique de scraping).
+  user_agent: "PerfP-DataBot/1.0 (+https://github.com/PrincePatch/Perf-P; component price aggregation for the Perf P app)"
+  timeout_seconds: 30
+  # Limitation de debit : pause minimale (secondes) entre deux requetes.
+  rate_limit_seconds: 2.0
+  max_retries: 3
+
+# Dossier des donnees bundlees (CSV de repli benchmarks).
+data_dir: "data"
+
+# Source de benchmarks REELS (PassMark) fusionnee dans les items GPU/CPU.
+# index (GPU) = G3D Mark / G3D(RTX 4070) * 100 ; gamingIndex (CPU) = CPU Mark /
+# CPU Mark(Ryzen 7 7800X3D) * 100. Repli hors-ligne : scraper/data/benchmarks_*.csv.
+benchmarks:
+  enabled: true
+  rate_limit_seconds: 2.0
+
+# Categories a collecter.
+# GPU et CPU sont "propres" : le site regroupe une entree par modele -> mapping direct.
+# SSD et RAM sont experimentaux : le site les regroupe par facette (capacite), pas par
+# produit -> desactives par defaut. Voir docs/DATA_PIPELINE.md (limitations).
+categories:
+  - key: gpus
+    id: 1
+    slug: graphics-cards
+    schema: gpu
+    enabled: true
+    max_products: 40        # nb max de modeles collectes par run (0 = illimite)
+    max_detail_pages: 12    # nb max de pages detail visitees (offres par magasin)
+
+  - key: cpus
+    id: 2
+    slug: processors
+    schema: cpu
+    enabled: true
+    max_products: 40
+    max_detail_pages: 12
+
+  - key: ssds
+    id: 4
+    slug: ssd
+    schema: ssd
+    enabled: false          # experimental (regroupement par facette)
+    max_products: 20
+    max_detail_pages: 6
+
+  - key: rams
+    id: 11
+    slug: memory-ram
+    schema: ram
+    enabled: false          # experimental (regroupement par facette)
+    max_products: 20
+    max_detail_pages: 6

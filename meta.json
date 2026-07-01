@@ -1,0 +1,21 @@
+{
+  "source": "gputracker.eu",
+  "benchmarkSource": "PassMark (videocardbenchmark.net / cpubenchmark.net)",
+  "benchmarkOrigin": "passmark-live",
+  "references": {
+    "gpuIndex": "GeForce RTX 4070 = 100",
+    "cpuGamingIndex": "AMD Ryzen 7 7800X3D = 100"
+  },
+  "lastUpdated": "2026-07-01T06:00:00Z",
+  "categories": {
+    "gpus": 33
+  },
+  "benchmarkCoverage": {
+    "gpus": {
+      "matched": 33,
+      "total": 33,
+      "reference": 26882
+    }
+  },
+  "note": "Prix live agreges (gputracker.eu). index/gamingIndex = scores PassMark reels (null si non rapproche). tdp = fiche constructeur bundlee."
+}

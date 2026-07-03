@@ -1,5 +1,108 @@
 [
   {
+    "id": "amd-ryzen-3-3200",
+    "brand": "AMD",
+    "name": "AMD RYZEN 3 3200",
+    "gamingIndex": 20.4,
+    "cores": null,
+    "socket": null,
+    "price": 53.0,
+    "tdp": 65,
+    "priceMin": 53.0,
+    "prices": [
+      {
+        "shop": "proshop.de",
+        "price": 53.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/2/3093510/amd-ryzen-3-3200g-tray-cpu-4-kerne-3-6-ghz-amd-am4",
+        "inStock": true,
+        "lastSeen": "2026-07-03T19:10:25Z"
+      },
+      {
+        "shop": "proshop.at",
+        "price": 54.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/2/3095366/amd-ryzen-3-3200g-tray-cpu-4-kerne-3-6-ghz-amd-am4",
+        "inStock": true,
+        "lastSeen": "2026-07-03T19:10:25Z"
+      },
+      {
+        "shop": "proshop.pl",
+        "price": 59.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/2/3082950/amd-ryzen-3-3200g-tray-procesor-4-rdzeni-3-6-ghz-a",
+        "inStock": true,
+        "lastSeen": "2026-07-03T19:10:25Z"
+      },
+      {
+        "shop": "grosbill.com",
+        "price": 60.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/2/993629/amd-ryzen-3-3200g",
+        "inStock": false,
+        "lastSeen": "2026-07-03T19:10:25Z"
+      },
+      {
+        "shop": "proshop.fi",
+        "price": 62.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/2/3083679/amd-ryzen-3-3200g-tray-cpu-4-ydinta-3-6-ghz-amd-am",
+        "inStock": true,
+        "lastSeen": "2026-07-03T19:10:25Z"
+      },
+      {
+        "shop": "ldlc.com",
+        "price": 65.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/2/96296/amd-ryzen-3-3200g-wraith-stealth-edition-3-6-ghz-4",
+        "inStock": false,
+        "lastSeen": "2026-07-03T19:10:25Z"
+      },
+      {
+        "shop": "materiel.net",
+        "price": 65.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/2/1772258/amd-ryzen-3-3200g",
+        "inStock": false,
+        "lastSeen": "2026-07-03T19:10:25Z"
+      },
+      {
+        "shop": "coolmod.com",
+        "price": 65.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/2/1759224/amd-ryzen-3-3200g-wraith-stealth-4-0ghz-socket-am4",
+        "inStock": false,
+        "lastSeen": "2026-07-03T19:10:25Z"
+      },
+      {
+        "shop": "cybertek.fr",
+        "price": 70.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/2/120585/amd-ryzen-3-3200g",
+        "inStock": false,
+        "lastSeen": "2026-07-03T19:10:25Z"
+      },
+      {
+        "shop": "openit.be",
+        "price": 74.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/2/307304/amd-ryzen-3200g-processeur-yd3200c5fhbox",
+        "inStock": false,
+        "lastSeen": "2026-07-03T19:10:25Z"
+      },
+      {
+        "shop": "proshop.dk",
+        "price": 78.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/2/3095175/amd-ryzen-3-3200g-tray-cpu-4-kerner-3-6-ghz-amd-am",
+        "inStock": true,
+        "lastSeen": "2026-07-03T19:10:25Z"
+      }
+    ],
+    "sourceUrl": "https://www.gputracker.eu/en/search/category/2/processors/facet/7/cpu-reference/amd-ryzen-3-3200",
+    "lastUpdated": "2026-07-03T19:10:25Z"
+  },
+  {
     "id": "amd-ryzen-3-4100",
     "brand": "AMD",
     "name": "AMD RYZEN 3 4100",
@@ -16,7 +119,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/1459000/amd-ryzen-3-4100-wraith-stealth-cpu-4-kerne-3-8-gh",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "proshop.at",
@@ -24,7 +127,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/1457725/amd-ryzen-3-4100-wraith-stealth-cpu-4-kerne-3-8-gh",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "proshop.pl",
@@ -32,7 +135,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/1459138/amd-ryzen-3-4100-wraith-stealth-procesor-4-rdzeni-",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "proshop.fi",
@@ -40,7 +143,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/1457671/amd-ryzen-3-4100-wraith-stealth-prosessori-cpu-4-y",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "mindfactory.de",
@@ -48,7 +151,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/1544355/amd-ryzen-3-4100-4x-3-80ghz-so-am4-box",
         "inStock": false,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "compumsa.eu",
@@ -56,7 +159,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/1464751/amd-ryzen-3-4100-processeur-am4-4c-8t-3-8-4-0ghz-4",
         "inStock": false,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "megekko.nl",
@@ -64,7 +167,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/1459028/amd-ryzen-3-4100-processor",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "rueducommerce.fr",
@@ -72,7 +175,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/3324038/amd-ryzen-3-4100-3-8-ghz-4-0-ghz",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "coolmod.com",
@@ -80,7 +183,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/1461969/amd-ryzen-3-4100-4-0ghz-socket-am4-boxed",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "jacob.de",
@@ -88,7 +191,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/1522196/amd-ryzen-3-4100-38-ghz-100-100000510box",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "ldlc.com",
@@ -96,7 +199,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/1500819/amd-ryzen-3-4100-wraith-stealth-3-8-ghz-4-0-ghz",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "materiel.net",
@@ -104,7 +207,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/1502062/amd-ryzen-3-4100",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "arlt.com",
@@ -112,7 +215,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/1547821/amd-ryzen-3-4100-boxed-cpu",
         "inStock": false,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "box.co.uk",
@@ -120,7 +223,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/4019767/amd-ryzen-3-4100-socket-am4-processor-with-wraith-",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "proshop.dk",
@@ -128,7 +231,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/1459150/amd-ryzen-3-4100-wraith-stealth-cpu-4-kerner-3-8-g",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "topbiz.fr",
@@ -136,7 +239,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/4308313/amd-ryzen-3-4100-processeur-38-ghz-4-mo-l3-boite",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "topbiz.fr",
@@ -144,7 +247,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/4359298/amd-ryzen-3-4100-processeur-38-ghz-4-mo-l3-boite",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "bpm-power.com",
@@ -152,7 +255,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/1551340/cpu-amd-ryzen-3-4100-4-0ghz-4-core-6mb-65w-am4-con",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "jacob.de",
@@ -160,11 +263,11 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/1485062/amd-ryzen-3-4100-38-ghz-100-000000510",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       }
     ],
     "sourceUrl": "https://www.gputracker.eu/en/search/category/2/processors/facet/7/cpu-reference/amd-ryzen-3-4100",
-    "lastUpdated": "2026-07-03T13:50:31Z"
+    "lastUpdated": "2026-07-03T19:10:25Z"
   },
   {
     "id": "amd-ryzen-5-3400",
@@ -183,7 +286,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/4326688/amd-ryzen-5-3400g-3-7-ghz-4-2-ghz-version-tray",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "ldlc.com",
@@ -191,7 +294,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/4316031/amd-ryzen-5-3400g-3-7-ghz-4-2-ghz-version-tray",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "materiel.net",
@@ -199,7 +302,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/4316080/amd-ryzen-5-3400g-version-tray",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "grosbill.com",
@@ -207,15 +310,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/4664592/amd-ryzen-5-3400g-4-2ghz6moam4box",
         "inStock": false,
-        "lastSeen": "2026-07-03T13:50:31Z"
-      },
-      {
-        "shop": "coolmod.com",
-        "price": 69.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/2/1759012/amd-ryzen-5-3400g-wraith-spire-4-2ghz-socket-am4-b",
-        "inStock": false,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "cybertek.fr",
@@ -223,7 +318,15 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/4664642/amd-ryzen-5-3400g-4-2ghz6moam4box",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
+      },
+      {
+        "shop": "proshop.fi",
+        "price": 70.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/2/4063467/amd-ryzen-5-3400g-3-7-ghz-processor-box-cpu-4-ydin",
+        "inStock": true,
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "ldlc.com",
@@ -231,7 +334,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/4305314/amd-ryzen-5-3400g-wraith-spire-edition-3-7-ghz-4-2",
         "inStock": false,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "materiel.net",
@@ -239,7 +342,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/4397667/amd-ryzen-5-3400g-wraith-spire-edition",
         "inStock": false,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "proshop.de",
@@ -247,15 +350,15 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/4060567/amd-ryzen-5-3400g-3-7-ghz-processor-box-cpu-4-kern",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
-        "shop": "proshop.fi",
-        "price": 82.0,
+        "shop": "proshop.dk",
+        "price": 78.0,
         "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/2/4063467/amd-ryzen-5-3400g-3-7-ghz-processor-box-cpu-4-ydin",
+        "url": "https://www.gputracker.eu/si-click/2/4038833/amd-ryzen-5-3400g-3-7-ghz-processor-box-cpu-4-kern",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "proshop.pl",
@@ -263,7 +366,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/4037724/amd-ryzen-5-3400g-3-7-ghz-processor-box-procesor-4",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "proshop.at",
@@ -271,7 +374,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/4037771/amd-ryzen-5-3400g-3-7-ghz-processor-box-cpu-4-kern",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "jacob.de",
@@ -279,19 +382,11 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/339862/amd-ryzen-5-3400g-37-ghz-yd3400c5m4mfh",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
-      },
-      {
-        "shop": "proshop.dk",
-        "price": 93.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/2/4038833/amd-ryzen-5-3400g-3-7-ghz-processor-box-cpu-4-kern",
-        "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       }
     ],
     "sourceUrl": "https://www.gputracker.eu/en/search/category/2/processors/facet/7/cpu-reference/amd-ryzen-5-3400",
-    "lastUpdated": "2026-07-03T13:50:31Z"
+    "lastUpdated": "2026-07-03T19:10:25Z"
   },
   {
     "id": "amd-ryzen-5-4500",
@@ -310,7 +405,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/1544356/amd-ryzen-5-4500-6x-3-60ghz-so-am4-box",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "proshop.at",
@@ -318,7 +413,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/1457726/amd-ryzen-5-4500-wraith-stealth-cpu-6-kerne-3-6-gh",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "proshop.de",
@@ -326,7 +421,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/1459001/amd-ryzen-5-4500-wraith-stealth-cpu-6-kerne-3-6-gh",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "coolmod.com",
@@ -334,7 +429,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/1461970/amd-ryzen-5-4500-4-1ghz-socket-am4-boxed",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "reichelt.de",
@@ -342,15 +437,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/1630580/amd-r5-4500-amd-am4-ryzen-5-4500-6x-3-60ghz-boxed",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
-      },
-      {
-        "shop": "arlt.com",
-        "price": 73.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/2/1502030/amd-ryzentm-5-4500-boxed-cpu",
-        "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "compumsa.eu",
@@ -358,7 +445,15 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/1464752/amd-ryzen-5-4500-processeur-am4-6c-12t-3-6-4-1ghz-",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
+      },
+      {
+        "shop": "arlt.com",
+        "price": 73.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/2/1502030/amd-ryzentm-5-4500-boxed-cpu",
+        "inStock": true,
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "proshop.dk",
@@ -366,7 +461,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/1459151/amd-ryzen-5-4500-wraith-stealth-cpu-6-kerner-3-6-g",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "bpm-power.com",
@@ -374,7 +469,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/1551341/cpu-amd-ryzen-5-4500-renoir-3-6ghz-6-core-11mb-65w",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "proshop.pl",
@@ -382,7 +477,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/1459139/amd-ryzen-5-4500-wraith-stealth-procesor-6-rdzeni-",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "proshop.fi",
@@ -390,7 +485,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/1457672/amd-ryzen-5-4500-wraith-stealth-prosessori-cpu-6-y",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "box.co.uk",
@@ -398,7 +493,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/4019768/amd-ryzen-5-4500-socket-am4-processor-with-wraith-",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "jacob.de",
@@ -406,7 +501,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/1522197/amd-cpu-ryzen-5-4500-am4-box-100-100000644box",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "alternate.be",
@@ -414,7 +509,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/1459085/amd-ryzen-5-4500-36-ghz-41-ghz-turbo-boost-socket-",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "rueducommerce.fr",
@@ -422,7 +517,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/3324039/amd-ryzentm-5-4500",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "ldlc.com",
@@ -430,7 +525,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/1500095/amd-ryzen-5-4500-wraith-stealth-3-6-ghz-4-1-ghz",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "materiel.net",
@@ -438,23 +533,23 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/1500598/amd-ryzen-5-4500",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "bpm-power.com",
-        "price": 88.0,
+        "price": 93.0,
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/4726146/cpu-amd-ryzen-5-4500-am4-3-6ghz-11mb-l3-box-5-4500",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "proshop.de",
-        "price": 113.0,
+        "price": 109.0,
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/3292807/amd-ryzen-5-4500-tray-cpu-6-kerne-3-6-ghz-amd-am4-",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "alternate.de",
@@ -462,11 +557,11 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/1508831/amd-ryzentm-5-4500-prozessor",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       }
     ],
     "sourceUrl": "https://www.gputracker.eu/en/search/category/2/processors/facet/7/cpu-reference/amd-ryzen-5-4500",
-    "lastUpdated": "2026-07-03T13:50:31Z"
+    "lastUpdated": "2026-07-03T19:10:25Z"
   },
   {
     "id": "amd-ryzen-5-5500",
@@ -485,7 +580,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/3110871/amd-ryzen-5-5500-3-6ghz16moam4tray",
         "inStock": false,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "bpm-power.com",
@@ -493,15 +588,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/1527223/cpu-amd-ryzen-5-5500-box-am4-3-600ghz-100-10000045",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
-      },
-      {
-        "shop": "proshop.at",
-        "price": 78.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/2/1457727/amd-ryzen-5-5500-wraith-stealth-cpu-6-kerne-3-6-gh",
-        "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "proshop.de",
@@ -509,7 +596,15 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/1459002/amd-ryzen-5-5500-wraith-stealth-cpu-6-kerne-3-6-gh",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
+      },
+      {
+        "shop": "proshop.at",
+        "price": 78.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/2/1457727/amd-ryzen-5-5500-wraith-stealth-cpu-6-kerne-3-6-gh",
+        "inStock": true,
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "mindfactory.de",
@@ -517,7 +612,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/1544357/amd-ryzen-5-5500-6x-3-60ghz-so-am4-box",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "reichelt.de",
@@ -525,7 +620,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/2962597/amd-t-r5-5500-amd-am4-ryzen-5-5500-6x-3-60ghz-tray",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "coolmod.com",
@@ -533,7 +628,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/3378549/amd-ryzen-5-5500-4-2ghz-socket-am4-tray",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "cybertek.fr",
@@ -541,7 +636,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/3110351/amd-ryzen-5-5500-3-6ghz16moam4tray",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "proshop.pl",
@@ -549,7 +644,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/1459140/amd-ryzen-5-5500-wraith-stealth-procesor-6-rdzeni-",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "reichelt.de",
@@ -557,23 +652,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/1520878/amd-r5-5500-amd-am4-ryzen-5-5500-6x-3-60ghz-boxed",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
-      },
-      {
-        "shop": "alternate.fr",
-        "price": 82.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/2/1459194/amd-ryzen-5-5500-36-ghz-42-ghz-turbo-boost-socket-",
-        "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
-      },
-      {
-        "shop": "rueducommerce.fr",
-        "price": 83.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/2/4415359/amd-ryzen-5-5500-3-6-ghz-4-2-ghz",
-        "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "arlt.com",
@@ -581,7 +660,15 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/1499062/amd-ryzentm-5-5500-boxed-cpu",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
+      },
+      {
+        "shop": "rueducommerce.fr",
+        "price": 83.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/2/4415359/amd-ryzen-5-5500-3-6-ghz-4-2-ghz",
+        "inStock": true,
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "amazon.fr",
@@ -589,7 +676,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/2861226/amd-ryzen-5-5500-processeur-6-coeurs12-threads-65w",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "coolmod.com",
@@ -597,7 +684,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/1461971/amd-ryzen-5-5500-4-2ghz-socket-am4-boxed",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "proshop.dk",
@@ -605,7 +692,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/1459152/amd-ryzen-5-5500-wraith-stealth-cpu-6-kerner-3-6-g",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "proshop.fi",
@@ -613,7 +700,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/1457673/amd-ryzen-5-5500-wraith-stealth-prosessori-cpu-6-y",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "compumsa.eu",
@@ -621,7 +708,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/1464753/amd-ryzen-5-5500-processeur-am4-6c-12t-3-6-4-2ghz-",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "megekko.nl",
@@ -629,7 +716,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/1459030/amd-ryzen-5-5500-processor",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "ldlc.com",
@@ -637,11 +724,19 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/3466560/amd-ryzen-5-5500-3-6-ghz-4-2-ghz",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
+      },
+      {
+        "shop": "materiel.net",
+        "price": 88.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/2/3540735/amd-ryzen-5-5500-version-tray",
+        "inStock": true,
+        "lastSeen": "2026-07-03T19:10:25Z"
       }
     ],
     "sourceUrl": "https://www.gputracker.eu/en/search/category/2/processors/facet/7/cpu-reference/amd-ryzen-5-5500",
-    "lastUpdated": "2026-07-03T13:50:31Z"
+    "lastUpdated": "2026-07-03T19:10:25Z"
   },
   {
     "id": "amd-ryzen-5-5600",
@@ -660,7 +755,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/4060965/cpu-amd-ryzen-5-5600gt-am4-3-6ghz-16mb-l3-tray-100",
         "inStock": false,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "sww.nl",
@@ -668,15 +763,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/2885131/amd-ryzen-5-5600-3-5-ghz-processor-6-core",
         "inStock": false,
-        "lastSeen": "2026-07-03T13:50:31Z"
-      },
-      {
-        "shop": "alternate.fr",
-        "price": 111.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/2/1459195/amd-ryzen-5-5600-35-ghz-44-ghz-turbo-boost-socket-",
-        "inStock": false,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "reichelt.de",
@@ -684,7 +771,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/1816649/amd-t-r5-5600-amd-am4-ryzen-5-5600-6x-3-50ghz-tray",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "bpm-power.com",
@@ -692,7 +779,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/1500108/cpu-amd-ryzen-5-5600-3-5ghz-32mb-l3-box-100-100000",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "jacob.de",
@@ -700,7 +787,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/2288127/amd-ryzen-5-5600-35-ghz-100-000000927",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "mindfactory.de",
@@ -708,7 +795,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/1544360/amd-ryzen-5-5600-6x-3-50ghz-so-am4-box",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "alternate.de",
@@ -716,7 +803,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/2946091/amd-ryzentm-5-5600gt-prozessor",
         "inStock": false,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "megekko.nl",
@@ -724,7 +811,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/1459031/amd-ryzen-5-5600-processor",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "alternate.at",
@@ -732,7 +819,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/2946849/amd-ryzentm-5-5600gt-prozessor",
         "inStock": false,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "arlt.com",
@@ -740,15 +827,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/1460999/amd-ryzentm-5-5600-boxed-cpu",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
-      },
-      {
-        "shop": "alternate.fr",
-        "price": 131.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/2/2947140/amd-ryzen-5-5600gt-36-ghz-46-ghz-turbo-boost-socke",
-        "inStock": false,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "alternate.es",
@@ -756,7 +835,15 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/2946695/amd-ryzentm-5-5600gt-procesador",
         "inStock": false,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
+      },
+      {
+        "shop": "alternate.fr",
+        "price": 131.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/2/2947140/amd-ryzen-5-5600gt-36-ghz-46-ghz-turbo-boost-socke",
+        "inStock": false,
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "alternate.it",
@@ -764,7 +851,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/2946775/amd-ryzentm-5-5600gt-processore",
         "inStock": false,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "proshop.de",
@@ -772,7 +859,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/2946622/amd-ryzen-5-5600gt-wraith-stealth-cpu-6-kerne-3-6-",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "alternate.dk",
@@ -780,7 +867,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/2945947/amd-ryzentm-5-5600gt-processor",
         "inStock": false,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "reichelt.de",
@@ -788,7 +875,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/1520879/amd-r5-5600-amd-am4-ryzen-5-5600-6x-3-50ghz-boxed",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "proshop.at",
@@ -796,15 +883,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/2946937/amd-ryzen-5-5600gt-wraith-stealth-cpu-6-kerne-3-6-",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
-      },
-      {
-        "shop": "bpm-power.com",
-        "price": 137.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/2/3000850/cpu-amd-ryzen-5-5600gt-am4-3-6ghz-16mb-l3-box",
-        "inStock": false,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "proshop.pl",
@@ -812,11 +891,27 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/2946072/amd-ryzen-5-5600gt-wraith-stealth-procesor-6-rdzen",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
+      },
+      {
+        "shop": "sww.nl",
+        "price": 139.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/2/3314934/amd-ryzen-5-5600gt-3-6-ghz-processor-6-core-radeon",
+        "inStock": true,
+        "lastSeen": "2026-07-03T19:10:25Z"
+      },
+      {
+        "shop": "azerty.nl",
+        "price": 141.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/2/1799356/amd-ryzen-5-5600-processor",
+        "inStock": true,
+        "lastSeen": "2026-07-03T19:10:25Z"
       }
     ],
     "sourceUrl": "https://www.gputracker.eu/en/search/category/2/processors/facet/7/cpu-reference/amd-ryzen-5-5600",
-    "lastUpdated": "2026-07-03T13:50:31Z"
+    "lastUpdated": "2026-07-03T19:10:25Z"
   },
   {
     "id": "amd-ryzen-5-5600x",
@@ -835,7 +930,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/2664863/amd-ryzen-5-5600x-tray-cpu-6-kerne-3-7-ghz-amd-am4",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "reichelt.de",
@@ -843,7 +938,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/1816651/amd-t-r5-5600x-amd-am4-ryzen-5-5600x-6x-3-70ghz-tr",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "proshop.de",
@@ -851,7 +946,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/2664126/amd-ryzen-5-5600x-tray-cpu-6-kerne-3-7-ghz-amd-am4",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "proshop.pl",
@@ -859,15 +954,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/2663992/amd-ryzen-5-5600x-tray-procesor-6-rdzeni-3-7-ghz-a",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
-      },
-      {
-        "shop": "alternate.fr",
-        "price": 136.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/2/3404349/amd-ryzen-5-5600xt-37-ghz-46-ghz-turbo-boost-socke",
-        "inStock": false,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "jacob.de",
@@ -875,7 +962,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/544443/amd-ryzen-5-5600x-3-7-ghz-100-000000065",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "mindfactory.de",
@@ -883,7 +970,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/452537/amd-ryzen-5-5600x-6x-3-70ghz-so-am4-box",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "reichelt.de",
@@ -891,7 +978,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/4459881/amd-r5-5600xt-amd-am4-ryzen-5-5600xt-6x-3-70ghz-bo",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "bpm-power.com",
@@ -899,15 +986,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/454617/cpu-amd-ryzen-5-5600x-box-100-100000065box",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
-      },
-      {
-        "shop": "proshop.dk",
-        "price": 149.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/2/2665112/amd-ryzen-5-5600x-tray-cpu-6-kerner-3-7-ghz-amd-am",
-        "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "proshop.fi",
@@ -915,7 +994,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/2683135/amd-ryzen-5-5600x-tray-cpu-6-ydinta-3-7-ghz-amd-am",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "reichelt.de",
@@ -923,7 +1002,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/491038/amd-r5-5600x-amd-am4-ryzen-5-5600x-6x-3-70ghz-boxe",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "proshop.de",
@@ -931,7 +1010,15 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/432279/amd-ryzen-5-5600x-wraith-stealth-cpu-6-kerne-3-7-g",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
+      },
+      {
+        "shop": "proshop.dk",
+        "price": 151.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/2/2665112/amd-ryzen-5-5600x-tray-cpu-6-kerner-3-7-ghz-amd-am",
+        "inStock": true,
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "proshop.at",
@@ -939,7 +1026,15 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/904982/amd-ryzen-5-5600x-wraith-stealth-cpu-6-kerne-3-7-g",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
+      },
+      {
+        "shop": "coolmod.com",
+        "price": 157.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/2/1022756/amd-ryzen-5-5600x-4-6ghz-socket-am4-boxed",
+        "inStock": true,
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "jacob.de",
@@ -947,7 +1042,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/673861/amd-ryzen-5-5600x-3-7-ghz-100-100000065",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "proshop.pl",
@@ -955,7 +1050,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/953210/amd-ryzen-5-5600x-wraith-stealth-procesor-6-rdzeni",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "azerty.nl",
@@ -963,7 +1058,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/1799384/amd-ryzen-5-5600x-processor",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "megekko.nl",
@@ -971,7 +1066,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/451152/amd-ryzen-5-5600x-processor",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "alternate.de",
@@ -979,11 +1074,11 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/3404829/amd-ryzentm-5-5600xt-prozessor",
         "inStock": false,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       }
     ],
     "sourceUrl": "https://www.gputracker.eu/en/search/category/2/processors/facet/7/cpu-reference/amd-ryzen-5-5600x",
-    "lastUpdated": "2026-07-03T13:50:31Z"
+    "lastUpdated": "2026-07-03T19:10:25Z"
   },
   {
     "id": "amd-ryzen-5-7500",
@@ -1002,7 +1097,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/3340920/amd-ryzen-5-7500f-6x-3-70ghz-so-am5-tray",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "reichelt.de",
@@ -1010,15 +1105,15 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/2755959/amd-t-r5-7500f-amd-am5-ryzen-5-7500f-6x-3-70ghz-tr",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "proshop.de",
         "price": 126.0,
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/2603741/amd-ryzen-5-7500f-tray-cpu-6-kerne-3-7-ghz-amd-am5",
-        "inStock": false,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "inStock": true,
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "proshop.at",
@@ -1026,7 +1121,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/2604285/amd-ryzen-5-7500f-tray-cpu-6-kerne-3-7-ghz-amd-am5",
         "inStock": false,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "proshop.pl",
@@ -1034,7 +1129,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/2603766/amd-ryzen-5-7500f-tray-procesor-6-rdzeni-3-7-ghz-a",
         "inStock": false,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "jacob.de",
@@ -1042,7 +1137,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/2612478/amd-ryzen-5-7500f-37-ghz-100-000000597",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "compumsa.eu",
@@ -1050,7 +1145,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/3702914/amd-ryzen-5-7500f-processeur-am5-6c-12t-3-7-5-0ghz",
         "inStock": false,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "coolmod.com",
@@ -1058,7 +1153,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/3630283/amd-ryzen-5-7500f-5-0ghz-socket-am5-tray",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "ldlc.com",
@@ -1066,7 +1161,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/3709891/amd-ryzen-5-7500f-3-7-ghz-5-0-ghz",
         "inStock": false,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "materiel.net",
@@ -1074,7 +1169,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/3711222/amd-ryzen-5-7500f-version-tray",
         "inStock": false,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "grosbill.com",
@@ -1082,7 +1177,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/2640995/amd-ryzen-5-7500f",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "ldlc.com",
@@ -1090,7 +1185,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/2683398/amd-ryzen-5-7500f-wraith-stealth-3-7-ghz-5-0-ghz",
         "inStock": false,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "materiel.net",
@@ -1098,7 +1193,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/2796023/amd-ryzen-5-7500f",
         "inStock": false,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "cybertek.fr",
@@ -1106,7 +1201,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/4560478/amd-ryzen-5-7500f",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "proshop.dk",
@@ -1114,7 +1209,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/2603817/amd-ryzen-5-7500f-tray-cpu-6-kerner-3-7-ghz-amd-am",
         "inStock": false,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "proshop.fi",
@@ -1122,7 +1217,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/2603771/amd-ryzen-5-7500f-tray-cpu-6-ydinta-3-7-ghz-amd-am",
         "inStock": false,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "topbiz.fr",
@@ -1130,11 +1225,11 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/4492224/amd-ryzen-5-7500f-processeur-37-ghz-32-mo-l3",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       }
     ],
     "sourceUrl": "https://www.gputracker.eu/en/search/category/2/processors/facet/7/cpu-reference/amd-ryzen-5-7500",
-    "lastUpdated": "2026-07-03T13:50:31Z"
+    "lastUpdated": "2026-07-03T19:10:25Z"
   },
   {
     "id": "amd-ryzen-5-7500x3d",
@@ -1153,7 +1248,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/4391039/amd-ryzen-5-7500x3d-6x-4-00ghz-so-am5-wof",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "proshop.at",
@@ -1161,7 +1256,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/4254644/amd-ryzen-5-7500x3d-cpu-6-kerne-4-ghz-amd-am5-amd-",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "proshop.de",
@@ -1169,15 +1264,15 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/4254576/amd-ryzen-5-7500x3d-cpu-6-kerne-4-ghz-amd-am5-amd-",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
-        "shop": "coolmod.com",
+        "shop": "proshop.at",
         "price": 219.0,
         "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/2/4254559/amd-ryzen-5-7500x3d-4-5ghz-socket-am5-tray",
+        "url": "https://www.gputracker.eu/si-click/2/4254645/amd-ryzen-5-7500x3d-tray-cpu-6-kerne-4-ghz-amd-am5",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "megekko.nl",
@@ -1185,15 +1280,15 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/4254587/amd-ryzen-5-7500x3d-processor",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
-        "shop": "proshop.at",
-        "price": 220.0,
+        "shop": "coolmod.com",
+        "price": 219.0,
         "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/2/4254645/amd-ryzen-5-7500x3d-tray-cpu-6-kerne-4-ghz-amd-am5",
+        "url": "https://www.gputracker.eu/si-click/2/4254559/amd-ryzen-5-7500x3d-4-5ghz-socket-am5-tray",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "proshop.pl",
@@ -1201,7 +1296,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/4254648/amd-ryzen-5-7500x3d-procesor-6-rdzeni-4-ghz-amd-am",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "reichelt.de",
@@ -1209,7 +1304,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/4459884/amd-r5-7500x3d-amd-am5-ryzen-5-7500x3d-6x-4-00ghz-",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "coolmod.com",
@@ -1217,15 +1312,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/4254558/amd-ryzen-5-7500x3d-4-5ghz-socket-am5-boxed",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
-      },
-      {
-        "shop": "alternate.fr",
-        "price": 225.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/2/4254655/amd-ryzen-5-7500x3d-40-ghz-45-ghz-turbo-boost-sock",
-        "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "proshop.fi",
@@ -1233,7 +1320,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/4254490/amd-ryzen-5-7500x3d-cpu-6-ydinta-4-ghz-amd-am5-amd",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "alternate.nl",
@@ -1241,7 +1328,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/4254577/amd-ryzen-5-7500x3d-4-0-ghz-4-5-ghz-turbo-boost-so",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "proshop.de",
@@ -1249,7 +1336,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/4254942/amd-ryzen-5-7500x3d-tray-cpu-6-kerne-4-ghz-amd-am5",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "alternate.be",
@@ -1257,7 +1344,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/4254647/amd-ryzen-5-7500x3d-4-0-ghz-4-5-ghz-turbo-boost-so",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "proshop.fi",
@@ -1265,7 +1352,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/4255005/amd-ryzen-5-7500x3d-tray-cpu-6-ydinta-4-ghz-amd-am",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "novatech.co.uk",
@@ -1273,7 +1360,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/4254585/amd-ryzen-5-7500x3d-6-core-am5-processor-cpu",
         "inStock": false,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "proshop.dk",
@@ -1281,7 +1368,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/4254524/amd-ryzen-5-7500x3d-cpu-6-kerner-4-ghz-amd-am5-amd",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "rueducommerce.fr",
@@ -1289,7 +1376,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/4257663/amd-ryzen-5-7500x3d-4-0-ghz-4-5-ghz",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "jacob.de",
@@ -1297,11 +1384,19 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/4255912/amd-ryzen-5-7500x3d-box-100-100001904wof-100-10000",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
+      },
+      {
+        "shop": "compumsa.eu",
+        "price": 238.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/2/4255740/amd-ryzen-5-7500x3d-processeur-am5-6c-12t-4-4-5ghz",
+        "inStock": false,
+        "lastSeen": "2026-07-03T19:10:25Z"
       }
     ],
     "sourceUrl": "https://www.gputracker.eu/en/search/category/2/processors/facet/7/cpu-reference/amd-ryzen-5-7500x3d",
-    "lastUpdated": "2026-07-03T13:50:31Z"
+    "lastUpdated": "2026-07-03T19:10:25Z"
   },
   {
     "id": "amd-ryzen-5-7600",
@@ -1320,7 +1415,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/2152492/amd-ryzen-5-7600-6x-3-80ghz-so-am5-box",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "arlt.com",
@@ -1328,7 +1423,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/2118927/amd-ryzentm-5-7600-box",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "proshop.de",
@@ -1336,7 +1431,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/2801637/amd-ryzen-5-7600-tray-cpu-6-kerne-3-8-ghz-amd-am5-",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "proshop.at",
@@ -1344,7 +1439,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/2801643/amd-ryzen-5-7600-tray-cpu-6-kerne-3-8-ghz-amd-am5-",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "codima.be",
@@ -1352,7 +1447,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/4265182/amd-ryzen-5-7600-6c-12t-am5",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "coolmod.com",
@@ -1360,7 +1455,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/2112706/amd-ryzen-5-7600-5-1ghz-socket-am5-boxed",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "proshop.de",
@@ -1368,7 +1463,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/2119009/amd-ryzen-5-7600-wraith-stealth-cpu-6-kerne-4-ghz-",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "reichelt.de",
@@ -1376,7 +1471,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/2169977/amd-r5-7600-amd-am5-ryzen-5-7600-6x-3-8ghz-boxed",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "proshop.at",
@@ -1384,7 +1479,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/2119428/amd-ryzen-5-7600-wraith-stealth-cpu-6-kerne-4-ghz-",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "megekko.nl",
@@ -1392,7 +1487,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/2786669/amd-ryzen-5-7600-processor",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "proshop.pl",
@@ -1400,15 +1495,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/2801614/amd-ryzen-5-7600-tray-procesor-6-rdzeni-3-8-ghz-am",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
-      },
-      {
-        "shop": "reichelt.de",
-        "price": 180.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/2/3851811/amd-t-r5-7600-amd-am5-ryzen-5-7600-6x-3-8ghz-tray",
-        "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "alternate.be",
@@ -1416,7 +1503,15 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/2119121/amd-ryzen-5-7600-38-ghz-51-ghz-turbo-boost-socket-",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
+      },
+      {
+        "shop": "reichelt.de",
+        "price": 180.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/2/3851811/amd-t-r5-7600-amd-am5-ryzen-5-7600-6x-3-8ghz-tray",
+        "inStock": true,
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "proshop.pl",
@@ -1424,7 +1519,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/2119385/amd-ryzen-5-7600-wraith-stealth-procesor-6-rdzeni-",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "proshop.dk",
@@ -1432,7 +1527,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/2119059/amd-ryzen-5-7600-wraith-stealth-cpu-6-kerner-4-ghz",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "jacob.de",
@@ -1440,7 +1535,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/2099214/amd-ryzen-5-6-kerne-100-100001015box",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "compumsa.eu",
@@ -1448,7 +1543,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/2128851/amd-ryzen-5-7600-processeur-am5-6c-12t-3-8-5-1ghz-",
         "inStock": false,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "bpm-power.com",
@@ -1456,15 +1551,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/2767613/cpu-amd-ryzen-5-7600-3-8ghz-32mb-100-100001015box",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
-      },
-      {
-        "shop": "alternate.fr",
-        "price": 184.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/2/2119416/amd-ryzen-5-7600-40-ghz-52-ghz-turbo-boost-socket-",
-        "inStock": false,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "proshop.dk",
@@ -1472,11 +1559,19 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/2802419/amd-ryzen-5-7600-tray-cpu-6-kerner-3-8-ghz-amd-am5",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
+      },
+      {
+        "shop": "jacob.de",
+        "price": 188.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/2/2167343/amd-ryzen-5-7600-tray-am5-zen4-6x40-ghz-65w-r5-soc",
+        "inStock": true,
+        "lastSeen": "2026-07-03T19:10:25Z"
       }
     ],
     "sourceUrl": "https://www.gputracker.eu/en/search/category/2/processors/facet/7/cpu-reference/amd-ryzen-5-7600",
-    "lastUpdated": "2026-07-03T13:50:31Z"
+    "lastUpdated": "2026-07-03T19:10:25Z"
   },
   {
     "id": "amd-ryzen-5-7600x",
@@ -1495,7 +1590,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/1988338/cpu-amd-ryzen-5-7600x-4-7ghz5-3ghz-am5",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "mindfactory.de",
@@ -1503,15 +1598,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/2015697/amd-ryzen-5-7600x-6x-4-70ghz-so-am5-wof",
         "inStock": false,
-        "lastSeen": "2026-07-03T13:50:31Z"
-      },
-      {
-        "shop": "coolmod.com",
-        "price": 157.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/2/1813193/amd-ryzen-5-7600x-5-3ghz-socket-am5-boxed",
-        "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "proshop.de",
@@ -1519,7 +1606,15 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/2751141/amd-ryzen-5-7600x-tray-cpu-6-kerne-4-7-ghz-amd-am5",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
+      },
+      {
+        "shop": "coolmod.com",
+        "price": 157.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/2/1813193/amd-ryzen-5-7600x-5-3ghz-socket-am5-boxed",
+        "inStock": true,
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "proshop.at",
@@ -1527,15 +1622,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/2750539/amd-ryzen-5-7600x-tray-cpu-6-kerne-4-7-ghz-amd-am5",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
-      },
-      {
-        "shop": "arlt.com",
-        "price": 160.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/2/1954122/amd-ryzentm-5-7600x-box",
-        "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "reichelt.de",
@@ -1543,7 +1630,15 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/2028072/amd-r5-7600x-amd-am5-ryzen-5-7600x-6x-4-70ghz-boxe",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
+      },
+      {
+        "shop": "arlt.com",
+        "price": 160.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/2/1954122/amd-ryzentm-5-7600x-box",
+        "inStock": true,
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "megekko.nl",
@@ -1551,7 +1646,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/2786670/amd-ryzen-5-7600x-processor",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "jacob.de",
@@ -1559,7 +1654,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/1832889/amd-ryzen-5-7600x-47-ghz-100-000000593",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "compumsa.eu",
@@ -1567,7 +1662,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/1814484/amd-ryzen-5-7600x-processeur-am5-6c-12t-4-7-5-3ghz",
         "inStock": false,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "proshop.pl",
@@ -1575,23 +1670,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/2750408/amd-ryzen-5-7600x-tray-procesor-6-rdzeni-4-7-ghz-a",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
-      },
-      {
-        "shop": "proshop.at",
-        "price": 170.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/2/1812566/amd-ryzen-5-7600x-cpu-6-kerne-4-7-ghz-amd-am5-amd-",
-        "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
-      },
-      {
-        "shop": "proshop.de",
-        "price": 170.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/2/1812187/amd-ryzen-5-7600x-cpu-6-kerne-4-7-ghz-amd-am5-amd-",
-        "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "alternate.be",
@@ -1599,7 +1678,15 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/1812338/amd-ryzen-5-7600x-47-ghz-53-ghz-turbo-boost-socket",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
+      },
+      {
+        "shop": "proshop.de",
+        "price": 170.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/2/1812187/amd-ryzen-5-7600x-cpu-6-kerne-4-7-ghz-amd-am5-amd-",
+        "inStock": true,
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "jacob.de",
@@ -1607,7 +1694,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/1817712/amd-ryzen-5-7600x-47-ghz-100-100000593wof",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "azerty.nl",
@@ -1615,7 +1702,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/2708490/amd-ryzen-5-7600x-processor",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "proshop.pl",
@@ -1623,7 +1710,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/1812132/amd-ryzen-5-7600x-procesor-6-rdzeni-4-7-ghz-amd-am",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "codima.be",
@@ -1631,7 +1718,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/4265183/amd-ryzen-5-7600x-6c-12t-am5-no-fan",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "jacob.de",
@@ -1639,11 +1726,19 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/2223543/amd-am5-ryzen-5-7600x-tray-47ghz-6xcore-38mb-105w-",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
+      },
+      {
+        "shop": "proshop.fi",
+        "price": 180.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/2/3187002/amd-ryzen-5-7600x-tray-cpu-6-ydinta-4-7-ghz-amd-am",
+        "inStock": true,
+        "lastSeen": "2026-07-03T19:10:25Z"
       }
     ],
     "sourceUrl": "https://www.gputracker.eu/en/search/category/2/processors/facet/7/cpu-reference/amd-ryzen-5-7600x",
-    "lastUpdated": "2026-07-03T13:50:31Z"
+    "lastUpdated": "2026-07-03T19:10:25Z"
   },
   {
     "id": "amd-ryzen-5-8400",
@@ -1662,7 +1757,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/3340915/amd-ryzen-5-8400f-6x-4-20ghz-so-am5-tray",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "reichelt.de",
@@ -1670,7 +1765,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/3355633/amd-t-r5-8400f-amd-am5-ryzen-5-8400f-6x-4-20-ghz-t",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "proshop.at",
@@ -1678,7 +1773,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/3124258/amd-ryzen-5-8400f-tray-cpu-6-kerne-4-2-ghz-amd-am5",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "proshop.de",
@@ -1686,7 +1781,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/3155356/amd-ryzen-5-8400f-tray-cpu-6-kerne-4-2-ghz-amd-am5",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "proshop.pl",
@@ -1694,7 +1789,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/3129483/amd-ryzen-5-8400f-tray-procesor-6-rdzeni-4-2-ghz-a",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "jacob.de",
@@ -1702,7 +1797,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/3132114/amd-ryzen-5-8400f-42-ghz-100-000001591",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "proshop.dk",
@@ -1710,7 +1805,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/3155275/amd-ryzen-5-8400f-tray-cpu-6-kerner-4-2-ghz-amd-am",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "compumsa.eu",
@@ -1718,7 +1813,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/4096716/amd-ryzen-5-8400f-processeur-am5-6c-12t-4-2-4-7ghz",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "proshop.de",
@@ -1726,7 +1821,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/3121086/amd-ryzen-5-8400f-wraith-stealth-cpu-6-kerne-4-2-g",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "proshop.at",
@@ -1734,7 +1829,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/3121101/amd-ryzen-5-8400f-wraith-stealth-cpu-6-kerne-4-2-g",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "coolmod.com",
@@ -1742,7 +1837,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/4127724/amd-ryzen-5-8400f-4-7ghz-socket-am5-tray",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "proshop.pl",
@@ -1750,7 +1845,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/3121109/amd-ryzen-5-8400f-wraith-stealth-procesor-6-rdzeni",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "proshop.fi",
@@ -1758,7 +1853,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/3155365/amd-ryzen-5-8400f-tray-cpu-6-ydinta-4-2-ghz-amd-am",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "proshop.dk",
@@ -1766,7 +1861,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/3121111/amd-ryzen-5-8400f-wraith-stealth-cpu-6-kerner-4-2-",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "grosbill.com",
@@ -1774,7 +1869,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/4284643/amd-ryzen-5-8400f-4-7ghz22moam5tray",
         "inStock": false,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "proshop.fi",
@@ -1782,7 +1877,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/3121171/amd-ryzen-5-8400f-wraith-stealth-cpu-6-ydinta-4-2-",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "mindfactory.de",
@@ -1790,7 +1885,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/3340921/amd-ryzen-5-8400f-6x-4-20ghz-so-am5-box",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "cybertek.fr",
@@ -1798,7 +1893,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/4284773/amd-ryzen-5-8400f-4-7ghz22moam5tray",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "rueducommerce.fr",
@@ -1806,19 +1901,19 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/3527664/amd-ryzen-5-8400f-wraith-stealth-4-2-ghz-4-7-ghz-v",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       },
       {
         "shop": "reichelt.de",
         "price": 135.0,
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/3355634/amd-r5-8400f-amd-am5-ryzen-5-8400f-6x-4-20-ghz-box",
-        "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "inStock": false,
+        "lastSeen": "2026-07-03T19:10:25Z"
       }
     ],
     "sourceUrl": "https://www.gputracker.eu/en/search/category/2/processors/facet/7/cpu-reference/amd-ryzen-5-8400",
-    "lastUpdated": "2026-07-03T13:50:31Z"
+    "lastUpdated": "2026-07-03T19:10:25Z"
   },
   {
     "id": "amd-ryzen-5-8500",
@@ -1832,168 +1927,16 @@
     "priceMin": 120.0,
     "prices": [
       {
-        "shop": "proshop.at",
-        "price": 120.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/2/2946938/amd-ryzen-5-8500g-wraith-stealth-cpu-6-kerne-3-7-g",
-        "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
-      },
-      {
         "shop": "proshop.de",
         "price": 120.0,
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/2946623/amd-ryzen-5-8500g-wraith-stealth-cpu-6-kerne-3-7-g",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
-      },
-      {
-        "shop": "proshop.at",
-        "price": 123.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/2/3299631/amd-ryzen-5-8500g-tray-cpu-6-kerne-3-5-ghz-amd-am5",
-        "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
-      },
-      {
-        "shop": "mindfactory.de",
-        "price": 124.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/2/3340918/amd-ryzen-5-8500g-6x-3-50ghz-so-am5-box",
-        "inStock": false,
-        "lastSeen": "2026-07-03T13:50:31Z"
-      },
-      {
-        "shop": "bpm-power.com",
-        "price": 124.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/2/2959495/cpu-amd-ryzen-5-8500g-am5-zen4-6-core-3-5ghz-16mb-",
-        "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
-      },
-      {
-        "shop": "proshop.dk",
-        "price": 127.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/2/2946598/amd-ryzen-5-8500g-wraith-stealth-cpu-6-kerner-3-7-",
-        "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
-      },
-      {
-        "shop": "proshop.pl",
-        "price": 128.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/2/2946074/amd-ryzen-5-8500g-wraith-stealth-procesor-6-rdzeni",
-        "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
-      },
-      {
-        "shop": "proshop.fi",
-        "price": 129.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/2/2946797/amd-ryzen-5-8500g-wraith-stealth-cpu-6-ydinta-3-7-",
-        "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
-      },
-      {
-        "shop": "arlt.com",
-        "price": 130.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/2/2946783/amd-ryzentm-5-8500g-box",
-        "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
-      },
-      {
-        "shop": "jacob.de",
-        "price": 134.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/2/2961478/amd-ryzen-5-8500g-35-ghz-100-000000931",
-        "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
-      },
-      {
-        "shop": "proshop.de",
-        "price": 135.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/2/3306695/amd-ryzen-5-8500g-tray-cpu-6-kerne-3-5-ghz-amd-am5",
-        "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
-      },
-      {
-        "shop": "alternate.fr",
-        "price": 137.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/2/2947142/amd-ryzen-5-8500g-35-ghz-50-ghz-turbo-boost-socket",
-        "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
-      },
-      {
-        "shop": "reichelt.de",
-        "price": 138.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/2/2946536/amd-r5-8500g-amd-am5-ryzen-5-8500g-6x-3-50-ghz-box",
-        "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
-      },
-      {
-        "shop": "coolmod.com",
-        "price": 139.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/2/3630282/amd-ryzen-5-8500g-5-0ghz-socket-am5-boxed",
-        "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
-      },
-      {
-        "shop": "azerty.nl",
-        "price": 140.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/2/3246641/amd-ryzen-5-8500g-processor",
-        "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
-      },
-      {
-        "shop": "alternate.be",
-        "price": 140.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/2/2946045/amd-ryzen-5-8500g-35-ghz-50-ghz-turbo-boost-socket",
-        "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
-      },
-      {
-        "shop": "megekko.nl",
-        "price": 140.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/2/2945953/amd-ryzen-5-8500g-processor",
-        "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
-      },
-      {
-        "shop": "jacob.de",
-        "price": 142.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/2/2957787/amd-ryzen-5-8500g-35-ghz-100-100000931box",
-        "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
-      },
-      {
-        "shop": "compumsa.eu",
-        "price": 148.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/2/2948184/amd-ryzen-5-8500g-processeur-am5-24c-12t-3-5-5-0gh",
-        "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
-      },
-      {
-        "shop": "proshop.dk",
-        "price": 150.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/2/3306293/amd-ryzen-5-8500g-tray-cpu-6-kerner-3-5-ghz-amd-am",
-        "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       }
     ],
     "sourceUrl": "https://www.gputracker.eu/en/search/category/2/processors/facet/7/cpu-reference/amd-ryzen-5-8500",
-    "lastUpdated": "2026-07-03T13:50:31Z"
+    "lastUpdated": "2026-07-03T19:10:25Z"
   },
   {
     "id": "amd-ryzen-5-8600",
@@ -2007,16 +1950,16 @@
     "priceMin": 140.0,
     "prices": [
       {
-        "shop": "proshop.at",
+        "shop": "proshop.de",
         "price": 140.0,
         "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/2/2946940/amd-ryzen-5-8600g-wraith-stealth-cpu-6-kerne-4-35-",
+        "url": "https://www.gputracker.eu/si-click/2/2946625/amd-ryzen-5-8600g-wraith-stealth-cpu-6-kerne-4-35-",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       }
     ],
     "sourceUrl": "https://www.gputracker.eu/en/search/category/2/processors/facet/7/cpu-reference/amd-ryzen-5-8600",
-    "lastUpdated": "2026-07-03T13:50:31Z"
+    "lastUpdated": "2026-07-03T19:10:25Z"
   },
   {
     "id": "amd-ryzen-5-9600",
@@ -2035,11 +1978,11 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/3672040/amd-ryzen-5-9600-tray-cpu-6-kerne-3-9-ghz-amd-am5-",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       }
     ],
     "sourceUrl": "https://www.gputracker.eu/en/search/category/2/processors/facet/7/cpu-reference/amd-ryzen-5-9600",
-    "lastUpdated": "2026-07-03T13:50:31Z"
+    "lastUpdated": "2026-07-03T19:10:25Z"
   },
   {
     "id": "amd-ryzen-5-9600x",
@@ -2058,11 +2001,11 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/3340934/amd-ryzen-5-9600x-6x-3-90ghz-so-am5-wof",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       }
     ],
     "sourceUrl": "https://www.gputracker.eu/en/search/category/2/processors/facet/7/cpu-reference/amd-ryzen-5-9600x",
-    "lastUpdated": "2026-07-03T13:50:31Z"
+    "lastUpdated": "2026-07-03T19:10:25Z"
   },
   {
     "id": "amd-ryzen-7-5700",
@@ -2081,11 +2024,11 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/4572965/amd-ryzen-7-5700-4-6ghz-socket-am4-tray",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       }
     ],
     "sourceUrl": "https://www.gputracker.eu/en/search/category/2/processors/facet/7/cpu-reference/amd-ryzen-7-5700",
-    "lastUpdated": "2026-07-03T13:50:31Z"
+    "lastUpdated": "2026-07-03T19:10:25Z"
   },
   {
     "id": "amd-ryzen-7-5700x",
@@ -2099,16 +2042,16 @@
     "priceMin": 155.0,
     "prices": [
       {
-        "shop": "proshop.at",
+        "shop": "proshop.de",
         "price": 155.0,
         "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/2/3072100/amd-ryzen-7-5700x-tray-cpu-8-kerne-3-4-ghz-amd-am4",
+        "url": "https://www.gputracker.eu/si-click/2/3073125/amd-ryzen-7-5700x-tray-cpu-8-kerne-3-4-ghz-amd-am4",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       }
     ],
     "sourceUrl": "https://www.gputracker.eu/en/search/category/2/processors/facet/7/cpu-reference/amd-ryzen-7-5700x",
-    "lastUpdated": "2026-07-03T13:50:31Z"
+    "lastUpdated": "2026-07-03T19:10:25Z"
   },
   {
     "id": "amd-ryzen-7-5800x",
@@ -2127,11 +2070,11 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/2885139/amd-ryzen-7-5800x-3-8-ghz-processor-8-core",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       }
     ],
     "sourceUrl": "https://www.gputracker.eu/en/search/category/2/processors/facet/7/cpu-reference/amd-ryzen-7-5800x",
-    "lastUpdated": "2026-07-03T13:50:31Z"
+    "lastUpdated": "2026-07-03T19:10:25Z"
   },
   {
     "id": "amd-ryzen-7-5800x3d",
@@ -2140,21 +2083,21 @@
     "gamingIndex": 82.5,
     "cores": null,
     "socket": null,
-    "price": 335.0,
+    "price": 308.0,
     "tdp": 105,
-    "priceMin": 335.0,
+    "priceMin": 308.0,
     "prices": [
       {
-        "shop": "bpm-power.com",
-        "price": 335.0,
+        "shop": "amazon.de",
+        "price": 308.0,
         "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/2/4727462/cpu-amd-ryzen-7-5800x3d-am4-3-4ghz-96mb-l3-100-100",
+        "url": "https://www.gputracker.eu/si-click/2/4733829/amd-ryzen-7-5800x3d-10th-anniversary-edition-deskt",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       }
     ],
     "sourceUrl": "https://www.gputracker.eu/en/search/category/2/processors/facet/7/cpu-reference/amd-ryzen-7-5800x3d",
-    "lastUpdated": "2026-07-03T13:50:31Z"
+    "lastUpdated": "2026-07-03T19:10:25Z"
   },
   {
     "id": "amd-ryzen-7-7700",
@@ -2163,21 +2106,21 @@
     "gamingIndex": 100.2,
     "cores": null,
     "socket": null,
-    "price": 173.0,
+    "price": 174.0,
     "tdp": 65,
-    "priceMin": 173.0,
+    "priceMin": 174.0,
     "prices": [
       {
         "shop": "proshop.at",
-        "price": 173.0,
+        "price": 174.0,
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/2801644/amd-ryzen-7-7700-tray-cpu-8-kerne-3-8-ghz-amd-am5-",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       }
     ],
     "sourceUrl": "https://www.gputracker.eu/en/search/category/2/processors/facet/7/cpu-reference/amd-ryzen-7-7700",
-    "lastUpdated": "2026-07-03T13:50:31Z"
+    "lastUpdated": "2026-07-03T19:10:25Z"
   },
   {
     "id": "amd-ryzen-7-7700x",
@@ -2186,21 +2129,21 @@
     "gamingIndex": 103.6,
     "cores": null,
     "socket": null,
-    "price": 200.0,
+    "price": 199.0,
     "tdp": 105,
-    "priceMin": 200.0,
+    "priceMin": 199.0,
     "prices": [
       {
-        "shop": "proshop.de",
-        "price": 200.0,
+        "shop": "coolmod.com",
+        "price": 199.0,
         "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/2/2748204/amd-ryzen-7-7700x-tray-cpu-8-kerne-4-5-ghz-amd-am5",
+        "url": "https://www.gputracker.eu/si-click/2/3679429/amd-ryzen-7-7700x-5-4ghz-socket-am5-tray",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       }
     ],
     "sourceUrl": "https://www.gputracker.eu/en/search/category/2/processors/facet/7/cpu-reference/amd-ryzen-7-7700x",
-    "lastUpdated": "2026-07-03T13:50:31Z"
+    "lastUpdated": "2026-07-03T19:10:25Z"
   },
   {
     "id": "amd-ryzen-7-7800x3d",
@@ -2209,21 +2152,21 @@
     "gamingIndex": 100.0,
     "cores": null,
     "socket": null,
-    "price": 269.0,
+    "price": 278.0,
     "tdp": 120,
-    "priceMin": 269.0,
+    "priceMin": 278.0,
     "prices": [
       {
-        "shop": "alternate.fr",
-        "price": 269.0,
+        "shop": "reichelt.de",
+        "price": 278.0,
         "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/2/2915433/amd-ryzen-7-7800x3d-42-ghz-50-ghz-turbo-boost-sock",
+        "url": "https://www.gputracker.eu/si-click/2/2355477/amd-t-r7-7800x3d-amd-am5-ryzen-7-7800x3d-8x-4-20gh",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       }
     ],
     "sourceUrl": "https://www.gputracker.eu/en/search/category/2/processors/facet/7/cpu-reference/amd-ryzen-7-7800x3d",
-    "lastUpdated": "2026-07-03T13:50:31Z"
+    "lastUpdated": "2026-07-03T19:10:25Z"
   },
   {
     "id": "amd-ryzen-7-8700",
@@ -2242,11 +2185,11 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/3340928/amd-ryzen-7-8700f-8x-4-10ghz-so-am5-tray",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       }
     ],
     "sourceUrl": "https://www.gputracker.eu/en/search/category/2/processors/facet/7/cpu-reference/amd-ryzen-7-8700",
-    "lastUpdated": "2026-07-03T13:50:31Z"
+    "lastUpdated": "2026-07-03T19:10:25Z"
   },
   {
     "id": "amd-ryzen-7-9700x",
@@ -2265,11 +2208,11 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/3341183/amd-ryzen-7-9700x-tray-cpu-8-kerne-3-8-ghz-amd-am5",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       }
     ],
     "sourceUrl": "https://www.gputracker.eu/en/search/category/2/processors/facet/7/cpu-reference/amd-ryzen-7-9700x",
-    "lastUpdated": "2026-07-03T13:50:31Z"
+    "lastUpdated": "2026-07-03T19:10:25Z"
   },
   {
     "id": "amd-ryzen-7-9800x3d",
@@ -2288,11 +2231,11 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/3442852/amd-ryzen-7-9800x3d-8x-4-70ghz-so-am5-wof",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       }
     ],
     "sourceUrl": "https://www.gputracker.eu/en/search/category/2/processors/facet/7/cpu-reference/amd-ryzen-7-9800x3d",
-    "lastUpdated": "2026-07-03T13:50:31Z"
+    "lastUpdated": "2026-07-03T19:10:25Z"
   },
   {
     "id": "amd-ryzen-7-9850x3d",
@@ -2301,21 +2244,21 @@
     "gamingIndex": 120.6,
     "cores": null,
     "socket": null,
-    "price": 423.0,
+    "price": 420.0,
     "tdp": null,
-    "priceMin": 423.0,
+    "priceMin": 420.0,
     "prices": [
       {
         "shop": "proshop.at",
-        "price": 423.0,
+        "price": 420.0,
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/4421884/amd-ryzen-7-9850x3d-tray-cpu-8-kerne-4-7-ghz-amd-a",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       }
     ],
     "sourceUrl": "https://www.gputracker.eu/en/search/category/2/processors/facet/7/cpu-reference/amd-ryzen-7-9850x3d",
-    "lastUpdated": "2026-07-03T13:50:31Z"
+    "lastUpdated": "2026-07-03T19:10:25Z"
   },
   {
     "id": "amd-ryzen-9-5900x",
@@ -2334,11 +2277,11 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/3244134/amd-ryzen-9-5900xt-processor",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       }
     ],
     "sourceUrl": "https://www.gputracker.eu/en/search/category/2/processors/facet/7/cpu-reference/amd-ryzen-9-5900x",
-    "lastUpdated": "2026-07-03T13:50:31Z"
+    "lastUpdated": "2026-07-03T19:10:25Z"
   },
   {
     "id": "amd-ryzen-9-5950x",
@@ -2357,11 +2300,11 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/522967/cpu-amd-ryzen-9-5950x-box-am4-4900-ghz-wof-100-100",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       }
     ],
     "sourceUrl": "https://www.gputracker.eu/en/search/category/2/processors/facet/7/cpu-reference/amd-ryzen-9-5950x",
-    "lastUpdated": "2026-07-03T13:50:31Z"
+    "lastUpdated": "2026-07-03T19:10:25Z"
   },
   {
     "id": "amd-ryzen-9-7900",
@@ -2380,11 +2323,11 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/2152495/amd-ryzen-9-7900-12x-3-70ghz-so-am5-box",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       }
     ],
     "sourceUrl": "https://www.gputracker.eu/en/search/category/2/processors/facet/7/cpu-reference/amd-ryzen-9-7900",
-    "lastUpdated": "2026-07-03T13:50:31Z"
+    "lastUpdated": "2026-07-03T19:10:25Z"
   },
   {
     "id": "amd-ryzen-9-7900x",
@@ -2403,11 +2346,11 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/1814187/cpu-amd-ryzen-9-7900x-47ghz-am5-100-100000589wof-1",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       }
     ],
     "sourceUrl": "https://www.gputracker.eu/en/search/category/2/processors/facet/7/cpu-reference/amd-ryzen-9-7900x",
-    "lastUpdated": "2026-07-03T13:50:31Z"
+    "lastUpdated": "2026-07-03T19:10:25Z"
   },
   {
     "id": "amd-ryzen-9-9900x",
@@ -2426,11 +2369,11 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/3265441/amd-ryzen-9-9900x-cpu-12-kerne-4-4-ghz-amd-am5-amd",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       }
     ],
     "sourceUrl": "https://www.gputracker.eu/en/search/category/2/processors/facet/7/cpu-reference/amd-ryzen-9-9900x",
-    "lastUpdated": "2026-07-03T13:50:31Z"
+    "lastUpdated": "2026-07-03T19:10:25Z"
   },
   {
     "id": "amd-ryzen-9-9900x3d",
@@ -2449,11 +2392,11 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/3757092/amd-ryzen-9-9900x3d-12x-4-40ghz-so-am5-wof",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       }
     ],
     "sourceUrl": "https://www.gputracker.eu/en/search/category/2/processors/facet/7/cpu-reference/amd-ryzen-9-9900x3d",
-    "lastUpdated": "2026-07-03T13:50:31Z"
+    "lastUpdated": "2026-07-03T19:10:25Z"
   },
   {
     "id": "amd-ryzen-9-9950x",
@@ -2472,11 +2415,11 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/3663760/amd-t-r9-9950x-amd-am5-ryzen-9-9950x-16x-4-30-ghz-",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       }
     ],
     "sourceUrl": "https://www.gputracker.eu/en/search/category/2/processors/facet/7/cpu-reference/amd-ryzen-9-9950x",
-    "lastUpdated": "2026-07-03T13:50:31Z"
+    "lastUpdated": "2026-07-03T19:10:25Z"
   },
   {
     "id": "amd-ryzen-9-9950x3d",
@@ -2495,11 +2438,11 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/3759129/amd-ryzen-9-9950x3d-16x-4-30ghz-so-am5-wof",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       }
     ],
     "sourceUrl": "https://www.gputracker.eu/en/search/category/2/processors/facet/7/cpu-reference/amd-ryzen-9-9950x3d",
-    "lastUpdated": "2026-07-03T13:50:31Z"
+    "lastUpdated": "2026-07-03T19:10:25Z"
   },
   {
     "id": "amd-threadripper-7960x",
@@ -2518,11 +2461,11 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/2782440/amd-ryzen-threadripper-7960x-cpu-24-kerne-4-2-ghz-",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       }
     ],
     "sourceUrl": "https://www.gputracker.eu/en/search/category/2/processors/facet/7/cpu-reference/amd-threadripper-7960x",
-    "lastUpdated": "2026-07-03T13:50:31Z"
+    "lastUpdated": "2026-07-03T19:10:25Z"
   },
   {
     "id": "amd-threadripper-7970x",
@@ -2541,11 +2484,11 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/2782442/amd-ryzen-threadripper-7970x-cpu-32-kerne-4-ghz-am",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       }
     ],
     "sourceUrl": "https://www.gputracker.eu/en/search/category/2/processors/facet/7/cpu-reference/amd-threadripper-7970x",
-    "lastUpdated": "2026-07-03T13:50:31Z"
+    "lastUpdated": "2026-07-03T19:10:25Z"
   },
   {
     "id": "amd-threadripper-7980x",
@@ -2564,11 +2507,11 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/3377279/amd-ryzen-threadripper-7980x",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       }
     ],
     "sourceUrl": "https://www.gputracker.eu/en/search/category/2/processors/facet/7/cpu-reference/amd-threadripper-7980x",
-    "lastUpdated": "2026-07-03T13:50:31Z"
+    "lastUpdated": "2026-07-03T19:10:25Z"
   },
   {
     "id": "amd-threadripper-9960x",
@@ -2587,11 +2530,11 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/4064732/amd-ryzen-threadripper-9960x-24x-4-20ghz-so-str5-w",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       }
     ],
     "sourceUrl": "https://www.gputracker.eu/en/search/category/2/processors/facet/7/cpu-reference/amd-threadripper-9960x",
-    "lastUpdated": "2026-07-03T13:50:31Z"
+    "lastUpdated": "2026-07-03T19:10:25Z"
   },
   {
     "id": "amd-threadripper-9970x",
@@ -2610,33 +2553,10 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/2/4064736/amd-ryzen-threadripper-9970x-32x-4-00ghz-so-str5-w",
         "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
+        "lastSeen": "2026-07-03T19:10:25Z"
       }
     ],
     "sourceUrl": "https://www.gputracker.eu/en/search/category/2/processors/facet/7/cpu-reference/amd-threadripper-9970x",
-    "lastUpdated": "2026-07-03T13:50:31Z"
-  },
-  {
-    "id": "intel-core-i3-12100",
-    "brand": "Intel",
-    "name": "INTEL CORE I3 12100",
-    "gamingIndex": 36.4,
-    "cores": null,
-    "socket": null,
-    "price": 120.0,
-    "tdp": null,
-    "priceMin": 120.0,
-    "prices": [
-      {
-        "shop": "alternate.de",
-        "price": 120.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/2/1305507/intel-coretm-i3-12100-prozessor",
-        "inStock": true,
-        "lastSeen": "2026-07-03T13:50:31Z"
-      }
-    ],
-    "sourceUrl": "https://www.gputracker.eu/en/search/category/2/processors/facet/7/cpu-reference/intel-core-i3-12100",
-    "lastUpdated": "2026-07-03T13:50:31Z"
+    "lastUpdated": "2026-07-03T19:10:25Z"
   }
 ]

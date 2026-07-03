@@ -1,0 +1,178 @@
+[
+  {
+    "id": "stock",
+    "name": "Ventirad d'origine",
+    "kind": "Air",
+    "coolingW": 90,
+    "price": 0,
+    "brand": "Intel"
+  },
+  {
+    "id": "hyper212",
+    "name": "Cooler Master Hyper 212",
+    "kind": "Air",
+    "coolingW": 150,
+    "price": 35,
+    "brand": "Cooler Master"
+  },
+  {
+    "id": "pa120",
+    "name": "Thermalright Peerless PA120",
+    "kind": "Air",
+    "coolingW": 220,
+    "price": 45,
+    "brand": "Thermalright"
+  },
+  {
+    "id": "nh-d15",
+    "name": "Noctua NH-D15",
+    "kind": "Air",
+    "coolingW": 250,
+    "price": 110,
+    "brand": "Noctua"
+  },
+  {
+    "id": "aio240",
+    "name": "Arctic Liquid Freezer III 240",
+    "kind": "AIO 240",
+    "coolingW": 250,
+    "price": 85,
+    "brand": "Arctic"
+  },
+  {
+    "id": "aio360",
+    "name": "Arctic Liquid Freezer III 360",
+    "kind": "AIO 360",
+    "coolingW": 300,
+    "price": 110,
+    "brand": "Arctic"
+  },
+  {
+    "id": "kraken360",
+    "name": "NZXT Kraken Elite 360",
+    "kind": "AIO 360",
+    "coolingW": 320,
+    "price": 270,
+    "brand": "NZXT"
+  },
+  {
+    "id": "ak400",
+    "name": "DeepCool AK400",
+    "kind": "Air",
+    "coolingW": 180,
+    "price": 30,
+    "brand": "DeepCool"
+  },
+  {
+    "id": "ak620",
+    "name": "DeepCool AK620",
+    "kind": "Air",
+    "coolingW": 240,
+    "price": 60,
+    "brand": "DeepCool"
+  },
+  {
+    "id": "ph-t30",
+    "name": "Thermalright Phantom Spirit",
+    "kind": "Air",
+    "coolingW": 245,
+    "price": 40,
+    "brand": "Thermalright"
+  },
+  {
+    "id": "nh-u12s",
+    "name": "Noctua NH-U12S redux",
+    "kind": "Air",
+    "coolingW": 160,
+    "price": 55,
+    "brand": "Noctua"
+  },
+  {
+    "id": "aio280",
+    "name": "Corsair iCUE H115i (280)",
+    "kind": "AIO 280",
+    "coolingW": 280,
+    "price": 140,
+    "brand": "Corsair"
+  },
+  {
+    "id": "aio420",
+    "name": "Arctic Liquid Freezer III 420",
+    "kind": "AIO 420",
+    "coolingW": 350,
+    "price": 130,
+    "brand": "Arctic"
+  },
+  {
+    "id": "galahad360",
+    "name": "Lian Li Galahad II 360",
+    "kind": "AIO 360",
+    "coolingW": 310,
+    "price": 150,
+    "brand": "Lian Li"
+  },
+  {
+    "id": "assassin4",
+    "name": "DeepCool Assassin IV",
+    "kind": "Air",
+    "coolingW": 280,
+    "price": 95,
+    "brand": "DeepCool"
+  },
+  {
+    "id": "fuma3",
+    "name": "Scythe Fuma 3",
+    "kind": "Air",
+    "coolingW": 200,
+    "price": 60,
+    "brand": "Scythe"
+  },
+  {
+    "id": "nh-u9s",
+    "name": "Noctua NH-U9S",
+    "kind": "Air",
+    "coolingW": 140,
+    "price": 65,
+    "brand": "Noctua"
+  },
+  {
+    "id": "freezer36",
+    "name": "Arctic Freezer 36",
+    "kind": "Air",
+    "coolingW": 190,
+    "price": 25,
+    "brand": "Arctic"
+  },
+  {
+    "id": "aio240b",
+    "name": "be quiet! Pure Loop 2 240",
+    "kind": "AIO 240",
+    "coolingW": 240,
+    "price": 100,
+    "brand": "be quiet!"
+  },
+  {
+    "id": "aio360b",
+    "name": "Corsair iCUE H150i Elite 360",
+    "kind": "AIO 360",
+    "coolingW": 330,
+    "price": 200,
+    "brand": "Corsair"
+  },
+  {
+    "id": "aio420c",
+    "name": "Corsair iCUE H170i Elite 420",
+    "kind": "AIO 420",
+    "coolingW": 360,
+    "price": 250,
+    "brand": "Corsair"
+  },
+  {
+    "id": "stock_amd",
+    "name": "AMD Wraith Spire",
+    "kind": "Air",
+    "coolingW": 95,
+    "price": 0,
+    "brand": "AMD"
+  }
+]

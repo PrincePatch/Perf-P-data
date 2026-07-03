@@ -1,0 +1,222 @@
+[
+  {
+    "id": "hdd-7200",
+    "name": "Disque dur 7200 tr/min",
+    "kind": "HDD",
+    "readMBps": 160,
+    "price": 45,
+    "brand": "Seagate"
+  },
+  {
+    "id": "sata-870evo",
+    "name": "Samsung 870 EVO (SATA)",
+    "kind": "SATA SSD",
+    "readMBps": 560,
+    "price": 75,
+    "brand": "Samsung"
+  },
+  {
+    "id": "nvme-sn570",
+    "name": "WD Blue SN570 (Gen3)",
+    "kind": "NVMe Gen3",
+    "readMBps": 3500,
+    "price": 60,
+    "brand": "Western Digital"
+  },
+  {
+    "id": "nvme-980pro",
+    "name": "Samsung 980 Pro (Gen4)",
+    "kind": "NVMe Gen4",
+    "readMBps": 7000,
+    "price": 110,
+    "brand": "Samsung"
+  },
+  {
+    "id": "nvme-sn850x",
+    "name": "WD Black SN850X (Gen4)",
+    "kind": "NVMe Gen4",
+    "readMBps": 7300,
+    "price": 120,
+    "brand": "Western Digital"
+  },
+  {
+    "id": "nvme-t700",
+    "name": "Crucial T700 (Gen5)",
+    "kind": "NVMe Gen5",
+    "readMBps": 12400,
+    "price": 180,
+    "brand": "Crucial"
+  },
+  {
+    "id": "hdd-5400",
+    "name": "Disque dur 5400 tr/min",
+    "kind": "HDD",
+    "readMBps": 120,
+    "price": 40,
+    "brand": "Western Digital"
+  },
+  {
+    "id": "sata-mx500",
+    "name": "Crucial MX500 (SATA)",
+    "kind": "SATA SSD",
+    "readMBps": 560,
+    "price": 70,
+    "brand": "Crucial"
+  },
+  {
+    "id": "nvme-p3",
+    "name": "Crucial P3 (Gen3)",
+    "kind": "NVMe Gen3",
+    "readMBps": 3500,
+    "price": 55,
+    "brand": "Crucial"
+  },
+  {
+    "id": "nvme-p3plus",
+    "name": "Crucial P3 Plus (Gen4)",
+    "kind": "NVMe Gen4",
+    "readMBps": 5000,
+    "price": 65,
+    "brand": "Crucial"
+  },
+  {
+    "id": "nvme-990pro",
+    "name": "Samsung 990 Pro (Gen4)",
+    "kind": "NVMe Gen4",
+    "readMBps": 7450,
+    "price": 130,
+    "brand": "Samsung"
+  },
+  {
+    "id": "nvme-t500",
+    "name": "Crucial T500 (Gen4)",
+    "kind": "NVMe Gen4",
+    "readMBps": 7400,
+    "price": 105,
+    "brand": "Crucial"
+  },
+  {
+    "id": "nvme-990evo",
+    "name": "Samsung 990 EVO Plus (Gen5)",
+    "kind": "NVMe Gen5",
+    "readMBps": 7250,
+    "price": 95,
+    "brand": "Samsung"
+  },
+  {
+    "id": "nvme-t705",
+    "name": "Crucial T705 (Gen5)",
+    "kind": "NVMe Gen5",
+    "readMBps": 14500,
+    "price": 220,
+    "brand": "Crucial"
+  },
+  {
+    "id": "nvme-a440",
+    "name": "Lexar NM790 (Gen4)",
+    "kind": "NVMe Gen4",
+    "readMBps": 7400,
+    "price": 90,
+    "brand": "Lexar"
+  },
+  {
+    "id": "nvme-fury",
+    "name": "Kingston Fury Renegade",
+    "kind": "NVMe Gen4",
+    "readMBps": 7300,
+    "price": 115,
+    "brand": "Kingston"
+  },
+  {
+    "id": "nvme-sn770",
+    "name": "WD Black SN770 (Gen4)",
+    "kind": "NVMe Gen4",
+    "readMBps": 5150,
+    "price": 70,
+    "brand": "Western Digital"
+  },
+  {
+    "id": "sata-blue",
+    "name": "WD Blue 3D (SATA)",
+    "kind": "SATA SSD",
+    "readMBps": 560,
+    "price": 60,
+    "brand": "Western Digital"
+  },
+  {
+    "id": "nvme-p41",
+    "name": "Solidigm P41 Plus (Gen4)",
+    "kind": "NVMe Gen4",
+    "readMBps": 4125,
+    "price": 60,
+    "brand": "Solidigm"
+  },
+  {
+    "id": "nvme-firecuda",
+    "name": "Seagate FireCuda 540 (Gen5)",
+    "kind": "NVMe Gen5",
+    "readMBps": 9500,
+    "price": 160,
+    "brand": "Seagate"
+  },
+  {
+    "id": "hdd-barracuda",
+    "name": "Seagate BarraCuda 2 To",
+    "kind": "HDD",
+    "readMBps": 190,
+    "writeMBps": 180,
+    "sizeGb": 2000,
+    "price": 55,
+    "brand": "Seagate"
+  },
+  {
+    "id": "nvme-sn770-250",
+    "name": "WD Black SN770 250 Go",
+    "kind": "NVMe Gen4",
+    "readMBps": 4000,
+    "writeMBps": 2000,
+    "sizeGb": 250,
+    "price": 38,
+    "brand": "Western Digital"
+  },
+  {
+    "id": "nvme-p3-500",
+    "name": "Crucial P3 500 Go",
+    "kind": "NVMe Gen3",
+    "readMBps": 3500,
+    "writeMBps": 1900,
+    "sizeGb": 500,
+    "price": 40,
+    "brand": "Crucial"
+  },
+  {
+    "id": "nvme-980pro-2t",
+    "name": "Samsung 980 Pro 2 To",
+    "kind": "NVMe Gen4",
+    "readMBps": 7000,
+    "writeMBps": 5100,
+    "sizeGb": 2000,
+    "price": 170,
+    "brand": "Samsung"
+  },
+  {
+    "id": "nvme-sn850x-4t",
+    "name": "WD Black SN850X 4 To",
+    "kind": "NVMe Gen4",
+    "readMBps": 7300,
+    "writeMBps": 6600,
+    "sizeGb": 4000,
+    "price": 280,
+    "brand": "Western Digital"
+  },
+  {
+    "id": "sata-870-250",
+    "name": "Samsung 870 EVO 250 Go",
+    "kind": "SATA SSD",
+    "readMBps": 560,
+    "writeMBps": 530,
+    "sizeGb": 250,
+    "price": 40,
+    "brand": "Samsung"
+  }
+]

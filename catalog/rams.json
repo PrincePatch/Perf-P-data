@@ -1,0 +1,242 @@
+[
+  {
+    "id": "ddr4_16_3200c16",
+    "name": "16 Go DDR4-3200 CL16",
+    "sizeGb": 16,
+    "mhz": 3200,
+    "cl": 16,
+    "kind": "DDR4",
+    "price": 38,
+    "brand": "Corsair"
+  },
+  {
+    "id": "ddr4_32_3200c16",
+    "name": "32 Go DDR4-3200 CL16",
+    "sizeGb": 32,
+    "mhz": 3200,
+    "cl": 16,
+    "kind": "DDR4",
+    "price": 62,
+    "brand": "Corsair"
+  },
+  {
+    "id": "ddr4_32_3600c18",
+    "name": "32 Go DDR4-3600 CL18",
+    "sizeGb": 32,
+    "mhz": 3600,
+    "cl": 18,
+    "kind": "DDR4",
+    "price": 70,
+    "brand": "G.Skill"
+  },
+  {
+    "id": "ddr4_64_3600c18",
+    "name": "64 Go DDR4-3600 CL18",
+    "sizeGb": 64,
+    "mhz": 3600,
+    "cl": 18,
+    "kind": "DDR4",
+    "price": 125,
+    "brand": "G.Skill"
+  },
+  {
+    "id": "ddr5_16_5200c40",
+    "name": "16 Go DDR5-5200 CL40",
+    "sizeGb": 16,
+    "mhz": 5200,
+    "cl": 40,
+    "kind": "DDR5",
+    "price": 52,
+    "brand": "Kingston"
+  },
+  {
+    "id": "ddr5_32_5600c36",
+    "name": "32 Go DDR5-5600 CL36",
+    "sizeGb": 32,
+    "mhz": 5600,
+    "cl": 36,
+    "kind": "DDR5",
+    "price": 88,
+    "brand": "Corsair"
+  },
+  {
+    "id": "ddr5_32_6000c30",
+    "name": "32 Go DDR5-6000 CL30",
+    "sizeGb": 32,
+    "mhz": 6000,
+    "cl": 30,
+    "kind": "DDR5",
+    "price": 105,
+    "brand": "G.Skill"
+  },
+  {
+    "id": "ddr5_32_6400c32",
+    "name": "32 Go DDR5-6400 CL32",
+    "sizeGb": 32,
+    "mhz": 6400,
+    "cl": 32,
+    "kind": "DDR5",
+    "price": 120,
+    "brand": "G.Skill"
+  },
+  {
+    "id": "ddr5_48_6000c30",
+    "name": "48 Go DDR5-6000 CL30",
+    "sizeGb": 48,
+    "mhz": 6000,
+    "cl": 30,
+    "kind": "DDR5",
+    "price": 165,
+    "brand": "Corsair"
+  },
+  {
+    "id": "ddr5_64_6000c30",
+    "name": "64 Go DDR5-6000 CL30",
+    "sizeGb": 64,
+    "mhz": 6000,
+    "cl": 30,
+    "kind": "DDR5",
+    "price": 195,
+    "brand": "Corsair"
+  },
+  {
+    "id": "ddr5_32_7200c34",
+    "name": "32 Go DDR5-7200 CL34",
+    "sizeGb": 32,
+    "mhz": 7200,
+    "cl": 34,
+    "kind": "DDR5",
+    "price": 165,
+    "brand": "G.Skill"
+  },
+  {
+    "id": "ddr5_32_8000c38",
+    "name": "32 Go DDR5-8000 CL38",
+    "sizeGb": 32,
+    "mhz": 8000,
+    "cl": 38,
+    "kind": "DDR5",
+    "price": 210,
+    "brand": "G.Skill"
+  },
+  {
+    "id": "ddr5_96_6400c32",
+    "name": "96 Go DDR5-6400 CL32",
+    "sizeGb": 96,
+    "mhz": 6400,
+    "cl": 32,
+    "kind": "DDR5",
+    "price": 320,
+    "brand": "Kingston"
+  },
+  {
+    "id": "ddr5_128_5600c40",
+    "name": "128 Go DDR5-5600 CL40",
+    "sizeGb": 128,
+    "mhz": 5600,
+    "cl": 40,
+    "kind": "DDR5",
+    "price": 420,
+    "brand": "Crucial"
+  },
+  {
+    "id": "ddr4_16_3600c16",
+    "name": "16 Go DDR4-3600 CL16",
+    "sizeGb": 16,
+    "mhz": 3600,
+    "cl": 16,
+    "kind": "DDR4",
+    "price": 50,
+    "brand": "G.Skill"
+  },
+  {
+    "id": "ddr4_32_4000c18",
+    "name": "32 Go DDR4-4000 CL18",
+    "sizeGb": 32,
+    "mhz": 4000,
+    "cl": 18,
+    "kind": "DDR4",
+    "price": 95,
+    "brand": "G.Skill"
+  },
+  {
+    "id": "ddr5_32_6000c28",
+    "name": "32 Go DDR5-6000 CL28",
+    "sizeGb": 32,
+    "mhz": 6000,
+    "cl": 28,
+    "kind": "DDR5",
+    "price": 130,
+    "brand": "G.Skill"
+  },
+  {
+    "id": "ddr5_32_6400c30",
+    "name": "32 Go DDR5-6400 CL30",
+    "sizeGb": 32,
+    "mhz": 6400,
+    "cl": 30,
+    "kind": "DDR5",
+    "price": 140,
+    "brand": "Corsair"
+  },
+  {
+    "id": "ddr5_48_6400c32",
+    "name": "48 Go DDR5-6400 CL32",
+    "sizeGb": 48,
+    "mhz": 6400,
+    "cl": 32,
+    "kind": "DDR5",
+    "price": 185,
+    "brand": "G.Skill"
+  },
+  {
+    "id": "ddr5_64_6000c32",
+    "name": "64 Go DDR5-6000 CL32",
+    "sizeGb": 64,
+    "mhz": 6000,
+    "cl": 32,
+    "kind": "DDR5",
+    "price": 210,
+    "brand": "Kingston"
+  },
+  {
+    "id": "ddr5_16_6000c30",
+    "name": "16 Go DDR5-6000 CL30",
+    "sizeGb": 16,
+    "mhz": 6000,
+    "cl": 30,
+    "kind": "DDR5",
+    "price": 62,
+    "brand": "Corsair"
+  },
+  {
+    "id": "ddr3_8_1600c9",
+    "name": "8 Go DDR3-1600 CL9",
+    "sizeGb": 8,
+    "mhz": 1600,
+    "cl": 9,
+    "kind": "DDR3",
+    "price": 22,
+    "brand": "Crucial"
+  },
+  {
+    "id": "ddr3_16_1600c10",
+    "name": "16 Go DDR3-1600 CL10",
+    "sizeGb": 16,
+    "mhz": 1600,
+    "cl": 10,
+    "kind": "DDR3",
+    "price": 35,
+    "brand": "Corsair"
+  },
+  {
+    "id": "ddr3_16_1866c10",
+    "name": "16 Go DDR3-1866 CL10",
+    "sizeGb": 16,
+    "mhz": 1866,
+    "cl": 10,
+    "kind": "DDR3",
+    "price": 42,
+    "brand": "G.Skill"
+  }
+]

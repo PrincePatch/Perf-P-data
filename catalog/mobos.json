@@ -1,0 +1,263 @@
+[
+  {
+    "id": "b650-tomahawk",
+    "brand": "AMD",
+    "name": "MSI B650 Tomahawk WiFi",
+    "socket": "AM5",
+    "chipset": "B650",
+    "formFactor": "ATX",
+    "price": 219
+  },
+  {
+    "id": "x670e-hero",
+    "brand": "AMD",
+    "name": "ASUS ROG X670E Hero",
+    "socket": "AM5",
+    "chipset": "X670E",
+    "formFactor": "ATX",
+    "price": 499
+  },
+  {
+    "id": "b650m-ds3h",
+    "brand": "AMD",
+    "name": "Gigabyte B650M DS3H",
+    "socket": "AM5",
+    "chipset": "B650",
+    "formFactor": "mATX",
+    "price": 149
+  },
+  {
+    "id": "b550-aorus",
+    "brand": "AMD",
+    "name": "Gigabyte B550 Aorus Elite",
+    "socket": "AM4",
+    "chipset": "B550",
+    "formFactor": "ATX",
+    "price": 139
+  },
+  {
+    "id": "z790-edge",
+    "brand": "Intel",
+    "name": "MSI MPG Z790 Edge WiFi",
+    "socket": "LGA1700",
+    "chipset": "Z790",
+    "formFactor": "ATX",
+    "price": 289
+  },
+  {
+    "id": "b760-pro",
+    "brand": "Intel",
+    "name": "ASUS Prime B760-Plus",
+    "socket": "LGA1700",
+    "chipset": "B760",
+    "formFactor": "ATX",
+    "price": 159
+  },
+  {
+    "id": "z790-itx",
+    "brand": "Intel",
+    "name": "ASRock Z790 PG-ITX/TB4",
+    "socket": "LGA1700",
+    "chipset": "Z790",
+    "formFactor": "ITX",
+    "price": 269
+  },
+  {
+    "id": "b760m-mortar",
+    "brand": "Intel",
+    "name": "MSI MAG B760M Mortar",
+    "socket": "LGA1700",
+    "chipset": "B760",
+    "formFactor": "mATX",
+    "price": 169
+  },
+  {
+    "id": "z890-carbon",
+    "brand": "Intel",
+    "name": "MSI MPG Z890 Carbon WiFi",
+    "socket": "LGA1851",
+    "chipset": "Z890",
+    "formFactor": "ATX",
+    "price": 399
+  },
+  {
+    "id": "b860-gaming",
+    "brand": "Intel",
+    "name": "Gigabyte B860 Gaming X",
+    "socket": "LGA1851",
+    "chipset": "B860",
+    "formFactor": "ATX",
+    "price": 199
+  },
+  {
+    "id": "x870e-aorus",
+    "brand": "AMD",
+    "name": "Gigabyte X870E Aorus Elite",
+    "socket": "AM5",
+    "chipset": "X870E",
+    "formFactor": "ATX",
+    "price": 329
+  },
+  {
+    "id": "b650e-pg",
+    "brand": "AMD",
+    "name": "ASRock B650E PG Riptide",
+    "socket": "AM5",
+    "chipset": "B650E",
+    "formFactor": "ATX",
+    "price": 199
+  },
+  {
+    "id": "b650-steel",
+    "brand": "AMD",
+    "name": "ASRock B650 Steel Legend",
+    "socket": "AM5",
+    "chipset": "B650",
+    "formFactor": "ATX",
+    "price": 175
+  },
+  {
+    "id": "a620m",
+    "brand": "AMD",
+    "name": "ASUS Prime A620M-K",
+    "socket": "AM5",
+    "chipset": "A620",
+    "formFactor": "mATX",
+    "price": 95
+  },
+  {
+    "id": "b550m-pro",
+    "brand": "AMD",
+    "name": "MSI B550M Pro-VDH WiFi",
+    "socket": "AM4",
+    "chipset": "B550",
+    "formFactor": "mATX",
+    "price": 105
+  },
+  {
+    "id": "x570-aorus",
+    "brand": "AMD",
+    "name": "Gigabyte X570 Aorus Elite",
+    "socket": "AM4",
+    "chipset": "X570",
+    "formFactor": "ATX",
+    "price": 189
+  },
+  {
+    "id": "b450-tomahawk",
+    "brand": "AMD",
+    "name": "MSI B450 Tomahawk Max II",
+    "socket": "AM4",
+    "chipset": "B450",
+    "formFactor": "ATX",
+    "price": 89
+  },
+  {
+    "id": "z790-aorus",
+    "brand": "Intel",
+    "name": "Gigabyte Z790 Aorus Elite AX",
+    "socket": "LGA1700",
+    "chipset": "Z790",
+    "formFactor": "ATX",
+    "price": 259
+  },
+  {
+    "id": "z690-edge",
+    "brand": "Intel",
+    "name": "MSI MPG Z690 Edge WiFi",
+    "socket": "LGA1700",
+    "chipset": "Z690",
+    "formFactor": "ATX",
+    "price": 219
+  },
+  {
+    "id": "h610m",
+    "brand": "Intel",
+    "name": "ASUS Prime H610M-K",
+    "socket": "LGA1700",
+    "chipset": "H610",
+    "formFactor": "mATX",
+    "price": 89
+  },
+  {
+    "id": "z890-aorus",
+    "brand": "Intel",
+    "name": "Gigabyte Z890 Aorus Master",
+    "socket": "LGA1851",
+    "chipset": "Z890",
+    "formFactor": "ATX",
+    "price": 469
+  },
+  {
+    "id": "b650-pg-itx",
+    "brand": "AMD",
+    "name": "ASRock B650E PG-ITX",
+    "socket": "AM5",
+    "chipset": "B650E",
+    "formFactor": "ITX",
+    "price": 239
+  },
+  {
+    "id": "x670-strix",
+    "brand": "AMD",
+    "name": "ASUS ROG Strix X670E-E",
+    "socket": "AM5",
+    "chipset": "X670E",
+    "formFactor": "ATX",
+    "price": 449
+  },
+  {
+    "id": "b650m-mortar",
+    "brand": "AMD",
+    "name": "MSI B650M Mortar WiFi",
+    "socket": "AM5",
+    "chipset": "B650",
+    "formFactor": "mATX",
+    "price": 189
+  },
+  {
+    "id": "b550-tuf",
+    "brand": "AMD",
+    "name": "ASUS TUF B550-Plus",
+    "socket": "AM4",
+    "chipset": "B550",
+    "formFactor": "ATX",
+    "price": 129
+  },
+  {
+    "id": "z790-apex",
+    "brand": "Intel",
+    "name": "ASUS ROG Maximus Z790 Apex",
+    "socket": "LGA1700",
+    "chipset": "Z790",
+    "formFactor": "ATX",
+    "price": 629
+  },
+  {
+    "id": "b760-tuf",
+    "brand": "Intel",
+    "name": "ASUS TUF B760-Plus WiFi",
+    "socket": "LGA1700",
+    "chipset": "B760",
+    "formFactor": "ATX",
+    "price": 179
+  },
+  {
+    "id": "b760m-itx",
+    "brand": "Intel",
+    "name": "ASRock B760M-ITX/D4",
+    "socket": "LGA1700",
+    "chipset": "B760",
+    "formFactor": "ITX",
+    "price": 139
+  },
+  {
+    "id": "z890-itx",
+    "brand": "Intel",
+    "name": "ASUS ROG Strix Z890-I",
+    "socket": "LGA1851",
+    "chipset": "Z890",
+    "formFactor": "ITX",
+    "price": 379
+  }
+]

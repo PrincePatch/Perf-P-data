@@ -1,154 +1,242 @@
 [
   {
-    "id": "psu550b",
-    "name": "be quiet! System Power 550W",
+    "id": "be-quiet-system-power-10-550w",
+    "name": "be quiet! System Power 10 550W",
     "watt": 550,
     "rating": "80+ Bronze",
-    "price": 55,
-    "brand": "be quiet!"
+    "price": 60.0,
+    "brand": "be"
   },
   {
-    "id": "psu650g",
+    "id": "msi-mag-a550bn",
+    "name": "MSI MAG A550BN",
+    "watt": 550,
+    "rating": "80+ Bronze",
+    "price": 55.0,
+    "brand": "MSI"
+  },
+  {
+    "id": "corsair-cx650",
+    "name": "Corsair CX650",
+    "watt": 650,
+    "rating": "80+ Bronze",
+    "price": 70.0,
+    "brand": "Corsair"
+  },
+  {
+    "id": "be-quiet-pure-power-12-m-650w",
+    "name": "be quiet! Pure Power 12 M 650W",
+    "watt": 650,
+    "rating": "80+ Gold",
+    "price": 95.0,
+    "brand": "be"
+  },
+  {
+    "id": "seasonic-focus-gx-650",
+    "name": "Seasonic Focus GX-650",
+    "watt": 650,
+    "rating": "80+ Gold",
+    "price": 100.0,
+    "brand": "Seasonic"
+  },
+  {
+    "id": "corsair-rm650e",
     "name": "Corsair RM650e",
     "watt": 650,
     "rating": "80+ Gold",
-    "price": 95,
+    "price": 90.0,
     "brand": "Corsair"
   },
   {
-    "id": "psu750g",
+    "id": "msi-mag-a650gl",
+    "name": "MSI MAG A650GL",
+    "watt": 650,
+    "rating": "80+ Gold",
+    "price": 75.0,
+    "brand": "MSI"
+  },
+  {
+    "id": "corsair-rm750e",
     "name": "Corsair RM750e",
     "watt": 750,
     "rating": "80+ Gold",
-    "price": 110,
+    "price": 100.0,
     "brand": "Corsair"
   },
   {
-    "id": "psu850g",
-    "name": "be quiet! Pure Power 12 M 850W",
-    "watt": 850,
+    "id": "be-quiet-pure-power-12-m-750w",
+    "name": "be quiet! Pure Power 12 M 750W",
+    "watt": 750,
     "rating": "80+ Gold",
-    "price": 130,
-    "brand": "be quiet!"
+    "price": 110.0,
+    "brand": "be"
   },
   {
-    "id": "psu1000p",
-    "name": "Seasonic Focus GX-1000",
-    "watt": 1000,
+    "id": "seasonic-focus-gx-750",
+    "name": "Seasonic Focus GX-750",
+    "watt": 750,
     "rating": "80+ Gold",
-    "price": 175,
+    "price": 115.0,
     "brand": "Seasonic"
   },
   {
-    "id": "psu1200p",
-    "name": "Corsair HX1200i",
-    "watt": 1200,
-    "rating": "80+ Platinum",
-    "price": 260,
+    "id": "corsair-rm750x",
+    "name": "Corsair RM750x",
+    "watt": 750,
+    "rating": "80+ Gold",
+    "price": 125.0,
     "brand": "Corsair"
   },
   {
-    "id": "psu500bz",
-    "name": "MSI MAG A500BN",
-    "watt": 500,
-    "rating": "80+ Bronze",
-    "price": 45,
+    "id": "msi-mpg-a750g",
+    "name": "MSI MPG A750G",
+    "watt": 750,
+    "rating": "80+ Gold",
+    "price": 110.0,
     "brand": "MSI"
   },
   {
-    "id": "psu600b",
-    "name": "Corsair CV600",
-    "watt": 600,
-    "rating": "80+ Bronze",
-    "price": 60,
+    "id": "be-quiet-straight-power-12-750w",
+    "name": "be quiet! Straight Power 12 750W",
+    "watt": 750,
+    "rating": "80+ Platinum",
+    "price": 140.0,
+    "brand": "be"
+  },
+  {
+    "id": "corsair-rm850e",
+    "name": "Corsair RM850e",
+    "watt": 850,
+    "rating": "80+ Gold",
+    "price": 120.0,
     "brand": "Corsair"
   },
   {
-    "id": "psu700g",
-    "name": "be quiet! Pure Power 12 M 700W",
-    "watt": 700,
-    "rating": "80+ Gold",
-    "price": 105,
-    "brand": "be quiet!"
-  },
-  {
-    "id": "psu850p",
-    "name": "Seasonic Vertex GX-850",
+    "id": "corsair-rm850x",
+    "name": "Corsair RM850x",
     "watt": 850,
     "rating": "80+ Gold",
-    "price": 145,
+    "price": 150.0,
+    "brand": "Corsair"
+  },
+  {
+    "id": "seasonic-focus-gx-850",
+    "name": "Seasonic Focus GX-850",
+    "watt": 850,
+    "rating": "80+ Gold",
+    "price": 140.0,
     "brand": "Seasonic"
   },
   {
-    "id": "psu1000pt",
+    "id": "be-quiet-straight-power-12-850w",
+    "name": "be quiet! Straight Power 12 850W",
+    "watt": 850,
+    "rating": "80+ Platinum",
+    "price": 160.0,
+    "brand": "be"
+  },
+  {
+    "id": "nzxt-c850-gold",
+    "name": "NZXT C850 Gold",
+    "watt": 850,
+    "rating": "80+ Gold",
+    "price": 130.0,
+    "brand": "NZXT"
+  },
+  {
+    "id": "corsair-rm1000e",
+    "name": "Corsair RM1000e",
+    "watt": 1000,
+    "rating": "80+ Gold",
+    "price": 160.0,
+    "brand": "Corsair"
+  },
+  {
+    "id": "corsair-rm1000x",
+    "name": "Corsair RM1000x",
+    "watt": 1000,
+    "rating": "80+ Gold",
+    "price": 190.0,
+    "brand": "Corsair"
+  },
+  {
+    "id": "be-quiet-dark-power-13-1000w",
     "name": "be quiet! Dark Power 13 1000W",
     "watt": 1000,
     "rating": "80+ Titanium",
-    "price": 245,
-    "brand": "be quiet!"
+    "price": 260.0,
+    "brand": "be"
   },
   {
-    "id": "psu1300p",
-    "name": "Corsair HX1300i",
-    "watt": 1300,
-    "rating": "80+ Platinum",
-    "price": 300,
-    "brand": "Corsair"
-  },
-  {
-    "id": "psu450b",
-    "name": "be quiet! System Power 10 450W",
-    "watt": 450,
-    "rating": "80+ Bronze",
-    "price": 50,
-    "brand": "be quiet!"
-  },
-  {
-    "id": "psu550g",
-    "name": "Corsair RM550e",
-    "watt": 550,
-    "rating": "80+ Gold",
-    "price": 80,
-    "brand": "Corsair"
-  },
-  {
-    "id": "psu750p",
-    "name": "Seasonic Focus PX-750",
-    "watt": 750,
-    "rating": "80+ Platinum",
-    "price": 130,
+    "id": "seasonic-prime-tx-1000",
+    "name": "Seasonic Prime TX-1000",
+    "watt": 1000,
+    "rating": "80+ Titanium",
+    "price": 280.0,
     "brand": "Seasonic"
   },
   {
-    "id": "psu800t",
-    "name": "Corsair SF850L (SFX)",
-    "watt": 850,
-    "rating": "80+ Gold",
-    "price": 160,
+    "id": "corsair-hx1000i",
+    "name": "Corsair HX1000i",
+    "watt": 1000,
+    "rating": "80+ Platinum",
+    "price": 230.0,
     "brand": "Corsair"
   },
   {
-    "id": "psu1000g2",
-    "name": "MSI MPG A1000G",
-    "watt": 1000,
-    "rating": "80+ Gold",
-    "price": 165,
+    "id": "msi-meg-ai1300p",
+    "name": "MSI MEG Ai1300P",
+    "watt": 1300,
+    "rating": "80+ Platinum",
+    "price": 300.0,
     "brand": "MSI"
   },
   {
-    "id": "psu1200t",
-    "name": "Seasonic Prime TX-1200",
-    "watt": 1200,
+    "id": "corsair-ax1600i",
+    "name": "Corsair AX1600i",
+    "watt": 1600,
     "rating": "80+ Titanium",
-    "price": 330,
-    "brand": "Seasonic"
+    "price": 550.0,
+    "brand": "Corsair"
   },
   {
-    "id": "psu650b",
-    "name": "Cooler Master MWE 650 Bronze",
-    "watt": 650,
-    "rating": "80+ Bronze",
-    "price": 65,
-    "brand": "Cooler Master"
+    "id": "evga-supernova-1200-p6",
+    "name": "EVGA SuperNOVA 1200 P6",
+    "watt": 1200,
+    "rating": "80+ Platinum",
+    "price": 230.0,
+    "brand": "EVGA"
+  },
+  {
+    "id": "thermaltake-toughpower-gf3-1000w",
+    "name": "Thermaltake Toughpower GF3 1000W",
+    "watt": 1000,
+    "rating": "80+ Gold",
+    "price": 170.0,
+    "brand": "Thermaltake"
+  },
+  {
+    "id": "cooler-master-mwe-gold-750-v2",
+    "name": "Cooler Master MWE Gold 750 V2",
+    "watt": 750,
+    "rating": "80+ Gold",
+    "price": 95.0,
+    "brand": "Cooler"
+  },
+  {
+    "id": "gigabyte-ud1000gm-pg5",
+    "name": "Gigabyte UD1000GM PG5",
+    "watt": 1000,
+    "rating": "80+ Gold",
+    "price": 150.0,
+    "brand": "Gigabyte"
+  },
+  {
+    "id": "asus-rog-strix-1000w",
+    "name": "ASUS ROG Strix 1000W",
+    "watt": 1000,
+    "rating": "80+ Gold",
+    "price": 210.0,
+    "brand": "ASUS"
   }
 ]

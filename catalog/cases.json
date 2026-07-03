@@ -1,0 +1,445 @@
+[
+  {
+    "id": "nzxt-h5-flow",
+    "name": "NZXT H5 Flow",
+    "price": 95.0,
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "ITX"
+    ],
+    "maxCoolerMm": 165,
+    "maxRadiatorMm": 360,
+    "detail": "ATX/mATX/ITX · ventirad ≤165mm · AIO ≤360mm"
+  },
+  {
+    "id": "nzxt-h7-flow",
+    "name": "NZXT H7 Flow",
+    "price": 130.0,
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "ITX"
+    ],
+    "maxCoolerMm": 185,
+    "maxRadiatorMm": 360,
+    "detail": "ATX/mATX/ITX · ventirad ≤185mm · AIO ≤360mm"
+  },
+  {
+    "id": "nzxt-h9-flow",
+    "name": "NZXT H9 Flow",
+    "price": 160.0,
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "ITX",
+      "E-ATX"
+    ],
+    "maxCoolerMm": 165,
+    "maxRadiatorMm": 360,
+    "detail": "ATX/mATX/ITX/E-ATX · ventirad ≤165mm · AIO ≤360mm"
+  },
+  {
+    "id": "nzxt-h1-v2",
+    "name": "NZXT H1 V2",
+    "price": 180.0,
+    "formFactors": [
+      "ITX"
+    ],
+    "maxCoolerMm": 67,
+    "maxRadiatorMm": 140,
+    "detail": "ITX · ventirad ≤67mm · AIO ≤140mm"
+  },
+  {
+    "id": "fractal-north",
+    "name": "Fractal North",
+    "price": 140.0,
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "ITX"
+    ],
+    "maxCoolerMm": 170,
+    "maxRadiatorMm": 360,
+    "detail": "ATX/mATX/ITX · ventirad ≤170mm · AIO ≤360mm"
+  },
+  {
+    "id": "fractal-pop-air",
+    "name": "Fractal Pop Air",
+    "price": 90.0,
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "ITX"
+    ],
+    "maxCoolerMm": 170,
+    "maxRadiatorMm": 360,
+    "detail": "ATX/mATX/ITX · ventirad ≤170mm · AIO ≤360mm"
+  },
+  {
+    "id": "fractal-meshify-2",
+    "name": "Fractal Meshify 2",
+    "price": 150.0,
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "ITX",
+      "E-ATX"
+    ],
+    "maxCoolerMm": 185,
+    "maxRadiatorMm": 360,
+    "detail": "ATX/mATX/ITX/E-ATX · ventirad ≤185mm · AIO ≤360mm"
+  },
+  {
+    "id": "fractal-torrent",
+    "name": "Fractal Torrent",
+    "price": 190.0,
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "ITX",
+      "E-ATX"
+    ],
+    "maxCoolerMm": 166,
+    "maxRadiatorMm": 360,
+    "detail": "ATX/mATX/ITX/E-ATX · ventirad ≤166mm · AIO ≤360mm"
+  },
+  {
+    "id": "fractal-ridge-itx",
+    "name": "Fractal Ridge (ITX)",
+    "price": 150.0,
+    "formFactors": [
+      "ITX"
+    ],
+    "maxCoolerMm": 120,
+    "maxRadiatorMm": 280,
+    "detail": "ITX · ventirad ≤120mm · AIO ≤280mm"
+  },
+  {
+    "id": "corsair-4000d-airflow",
+    "name": "Corsair 4000D Airflow",
+    "price": 95.0,
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "ITX"
+    ],
+    "maxCoolerMm": 170,
+    "maxRadiatorMm": 360,
+    "detail": "ATX/mATX/ITX · ventirad ≤170mm · AIO ≤360mm"
+  },
+  {
+    "id": "corsair-5000d-airflow",
+    "name": "Corsair 5000D Airflow",
+    "price": 150.0,
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "ITX",
+      "E-ATX"
+    ],
+    "maxCoolerMm": 170,
+    "maxRadiatorMm": 360,
+    "detail": "ATX/mATX/ITX/E-ATX · ventirad ≤170mm · AIO ≤360mm"
+  },
+  {
+    "id": "corsair-2000d-airflow-itx",
+    "name": "Corsair 2000D Airflow (ITX)",
+    "price": 110.0,
+    "formFactors": [
+      "ITX"
+    ],
+    "maxCoolerMm": 80,
+    "maxRadiatorMm": 360,
+    "detail": "ITX · ventirad ≤80mm · AIO ≤360mm"
+  },
+  {
+    "id": "corsair-icue-3000d",
+    "name": "Corsair iCUE 3000D",
+    "price": 80.0,
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "ITX"
+    ],
+    "maxCoolerMm": 170,
+    "maxRadiatorMm": 360,
+    "detail": "ATX/mATX/ITX · ventirad ≤170mm · AIO ≤360mm"
+  },
+  {
+    "id": "lian-li-o11-dynamic",
+    "name": "Lian Li O11 Dynamic",
+    "price": 150.0,
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "ITX",
+      "E-ATX"
+    ],
+    "maxCoolerMm": 155,
+    "maxRadiatorMm": 360,
+    "detail": "ATX/mATX/ITX/E-ATX · ventirad ≤155mm · AIO ≤360mm"
+  },
+  {
+    "id": "lian-li-o11-dynamic-mini",
+    "name": "Lian Li O11 Dynamic Mini",
+    "price": 110.0,
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "ITX"
+    ],
+    "maxCoolerMm": 170,
+    "maxRadiatorMm": 360,
+    "detail": "ATX/mATX/ITX · ventirad ≤170mm · AIO ≤360mm"
+  },
+  {
+    "id": "lian-li-lancool-216",
+    "name": "Lian Li Lancool 216",
+    "price": 100.0,
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "ITX"
+    ],
+    "maxCoolerMm": 180,
+    "maxRadiatorMm": 360,
+    "detail": "ATX/mATX/ITX · ventirad ≤180mm · AIO ≤360mm"
+  },
+  {
+    "id": "lian-li-lancool-iii",
+    "name": "Lian Li Lancool III",
+    "price": 130.0,
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "ITX",
+      "E-ATX"
+    ],
+    "maxCoolerMm": 187,
+    "maxRadiatorMm": 360,
+    "detail": "ATX/mATX/ITX/E-ATX · ventirad ≤187mm · AIO ≤360mm"
+  },
+  {
+    "id": "lian-li-a4-h2o-itx",
+    "name": "Lian Li A4-H2O (ITX)",
+    "price": 140.0,
+    "formFactors": [
+      "ITX"
+    ],
+    "maxCoolerMm": 75,
+    "maxRadiatorMm": 240,
+    "detail": "ITX · ventirad ≤75mm · AIO ≤240mm"
+  },
+  {
+    "id": "cooler-master-nr200p-itx",
+    "name": "Cooler Master NR200P (ITX)",
+    "price": 100.0,
+    "formFactors": [
+      "ITX"
+    ],
+    "maxCoolerMm": 155,
+    "maxRadiatorMm": 280,
+    "detail": "ITX · ventirad ≤155mm · AIO ≤280mm"
+  },
+  {
+    "id": "cooler-master-q300l",
+    "name": "Cooler Master Q300L",
+    "price": 55.0,
+    "formFactors": [
+      "mATX",
+      "ITX"
+    ],
+    "maxCoolerMm": 159,
+    "maxRadiatorMm": 240,
+    "detail": "mATX/ITX · ventirad ≤159mm · AIO ≤240mm"
+  },
+  {
+    "id": "cooler-master-td500-mesh",
+    "name": "Cooler Master TD500 Mesh",
+    "price": 110.0,
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "ITX",
+      "E-ATX"
+    ],
+    "maxCoolerMm": 165,
+    "maxRadiatorMm": 360,
+    "detail": "ATX/mATX/ITX/E-ATX · ventirad ≤165mm · AIO ≤360mm"
+  },
+  {
+    "id": "cooler-master-haf-500",
+    "name": "Cooler Master HAF 500",
+    "price": 130.0,
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "ITX",
+      "E-ATX"
+    ],
+    "maxCoolerMm": 167,
+    "maxRadiatorMm": 360,
+    "detail": "ATX/mATX/ITX/E-ATX · ventirad ≤167mm · AIO ≤360mm"
+  },
+  {
+    "id": "be-quiet-pure-base-500dx",
+    "name": "be quiet! Pure Base 500DX",
+    "price": 100.0,
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "ITX"
+    ],
+    "maxCoolerMm": 190,
+    "maxRadiatorMm": 360,
+    "detail": "ATX/mATX/ITX · ventirad ≤190mm · AIO ≤360mm"
+  },
+  {
+    "id": "be-quiet-silent-base-802",
+    "name": "be quiet! Silent Base 802",
+    "price": 160.0,
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "ITX",
+      "E-ATX"
+    ],
+    "maxCoolerMm": 185,
+    "maxRadiatorMm": 360,
+    "detail": "ATX/mATX/ITX/E-ATX · ventirad ≤185mm · AIO ≤360mm"
+  },
+  {
+    "id": "phanteks-eclipse-g360a",
+    "name": "Phanteks Eclipse G360A",
+    "price": 100.0,
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "ITX",
+      "E-ATX"
+    ],
+    "maxCoolerMm": 170,
+    "maxRadiatorMm": 360,
+    "detail": "ATX/mATX/ITX/E-ATX · ventirad ≤170mm · AIO ≤360mm"
+  },
+  {
+    "id": "phanteks-evolv-x2",
+    "name": "Phanteks Evolv X2",
+    "price": 200.0,
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "ITX",
+      "E-ATX"
+    ],
+    "maxCoolerMm": 185,
+    "maxRadiatorMm": 420,
+    "detail": "ATX/mATX/ITX/E-ATX · ventirad ≤185mm · AIO ≤420mm"
+  },
+  {
+    "id": "montech-air-903-max",
+    "name": "Montech Air 903 Max",
+    "price": 95.0,
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "ITX",
+      "E-ATX"
+    ],
+    "maxCoolerMm": 175,
+    "maxRadiatorMm": 360,
+    "detail": "ATX/mATX/ITX/E-ATX · ventirad ≤175mm · AIO ≤360mm"
+  },
+  {
+    "id": "montech-sky-two",
+    "name": "Montech Sky Two",
+    "price": 100.0,
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "ITX"
+    ],
+    "maxCoolerMm": 175,
+    "maxRadiatorMm": 360,
+    "detail": "ATX/mATX/ITX · ventirad ≤175mm · AIO ≤360mm"
+  },
+  {
+    "id": "deepcool-ch510",
+    "name": "Deepcool CH510",
+    "price": 70.0,
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "ITX",
+      "E-ATX"
+    ],
+    "maxCoolerMm": 175,
+    "maxRadiatorMm": 360,
+    "detail": "ATX/mATX/ITX/E-ATX · ventirad ≤175mm · AIO ≤360mm"
+  },
+  {
+    "id": "deepcool-macube-110-matx",
+    "name": "Deepcool Macube 110 (mATX)",
+    "price": 60.0,
+    "formFactors": [
+      "mATX",
+      "ITX"
+    ],
+    "maxCoolerMm": 168,
+    "maxRadiatorMm": 240,
+    "detail": "mATX/ITX · ventirad ≤168mm · AIO ≤240mm"
+  },
+  {
+    "id": "thermaltake-versa-h18-matx",
+    "name": "Thermaltake Versa H18 (mATX)",
+    "price": 45.0,
+    "formFactors": [
+      "mATX",
+      "ITX"
+    ],
+    "maxCoolerMm": 155,
+    "maxRadiatorMm": 240,
+    "detail": "mATX/ITX · ventirad ≤155mm · AIO ≤240mm"
+  },
+  {
+    "id": "antec-df700-flux",
+    "name": "Antec DF700 Flux",
+    "price": 85.0,
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "ITX"
+    ],
+    "maxCoolerMm": 175,
+    "maxRadiatorMm": 360,
+    "detail": "ATX/mATX/ITX · ventirad ≤175mm · AIO ≤360mm"
+  },
+  {
+    "id": "hyte-y60",
+    "name": "Hyte Y60",
+    "price": 200.0,
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "ITX",
+      "E-ATX"
+    ],
+    "maxCoolerMm": 162,
+    "maxRadiatorMm": 360,
+    "detail": "ATX/mATX/ITX/E-ATX · ventirad ≤162mm · AIO ≤360mm"
+  },
+  {
+    "id": "hyte-y40",
+    "name": "Hyte Y40",
+    "price": 160.0,
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "ITX"
+    ],
+    "maxCoolerMm": 160,
+    "maxRadiatorMm": 360,
+    "detail": "ATX/mATX/ITX · ventirad ≤160mm · AIO ≤360mm"
+  }
+]

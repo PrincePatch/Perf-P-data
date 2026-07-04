@@ -1,69 +1,45 @@
 [
   {
-    "id": "amd-rx-6400",
-    "brand": "AMD",
-    "name": "AMD RX 6400",
-    "index": 28.8,
-    "vramGb": 4,
-    "price": 170.0,
-    "tdp": null,
-    "priceMin": 170.0,
-    "prices": [
-      {
-        "shop": "bpm-power.com",
-        "price": 170.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/1542674/scheda-video-amd-xfx-radeon-rx6400-swft105-gaming-",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "jacob.de",
-        "price": 183.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/1526235/xfx-speedster-swft105-radeon-rx-6400-grafikkarte-4",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "amazon.fr",
-        "price": 193.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3812087/xfx-speedster-swft105-radeon-rx-6400-gaming-carte-",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "bpm-power.com",
-        "price": 295.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/2175909/scheda-video-amd-hp-radeon-rx-6400-4gb-gddr6-6q3u4",
-        "inStock": false,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      }
-    ],
-    "image": "images/amd-rx-6400.png",
-    "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/amd-rx-6400",
-    "lastUpdated": "2026-07-04T02:23:51Z",
-    "imageSource": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/084/0191/0840191500169.png?signature=c66bf449db7f6b521b79832b25bec18e3385a4d8a85efab0355eafc3ab2a1517"
-  },
-  {
     "id": "amd-rx-7600",
     "brand": "AMD",
     "name": "AMD RX 7600",
     "index": 61.3,
     "vramGb": 8,
-    "price": 217.0,
+    "price": 253.0,
     "tdp": 165,
-    "priceMin": 217.0,
+    "priceMin": 253.0,
     "prices": [
       {
         "shop": "amazon.de",
-        "price": 217.0,
+        "price": 253.0,
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/1/3470730/asus-dual-radeon-rx-7600-evo-oc-edition-8gb-gddr6-",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "mindfactory.de",
+        "price": 259.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/4408902/8gb-powercolor-radeon-rx-7600-fighter-v2-aktiv-pci",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "mindfactory.de",
+        "price": 269.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/2425071/8gb-xfx-radeon-rx-7600-speedster-swft210-gaming-ak",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "mindfactory.de",
+        "price": 279.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/2425077/8gb-asrock-radeon-rx-7600-steel-legend-oc-aktiv-pc",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
         "shop": "bpm-power.com",
@@ -71,15 +47,23 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/1/4318042/scheda-video-amd-powercolor-radeon-rx-7600-fighter",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "arlt.com",
+        "price": 289.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/2793783/gigabyte-radeon-rx-7600-gaming-oc-8g",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
         "shop": "amazon.fr",
         "price": 289.0,
         "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3812090/xfx-speedster-swft210-carte-graphique-radeon-rx-76",
+        "url": "https://www.gputracker.eu/si-click/1/3589689/xfx-vga-8gb-radeon-rx7600-speedster-swft210-core-g",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
         "shop": "jacob.de",
@@ -87,7 +71,23 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/1/2435369/gigabyte-radeon-rx-7600-gaming-oc-gv-r76gaming-oc-",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "mindfactory.de",
+        "price": 291.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/3767483/8gb-asus-radeon-rx-7600-dual-evo-oc-aktiv-pcie-4-0",
+        "inStock": false,
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "arlt.com",
+        "price": 293.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/3725118/asus-dual-radeon-rx-7600-evo-oc",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
         "shop": "bpm-power.com",
@@ -95,15 +95,55 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/1/2526143/scheda-video-amd-gigabyte-radeon-rx-7600-gaming-8g",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
-        "shop": "amazon.fr",
+        "shop": "mindfactory.de",
+        "price": 296.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/2425070/8gb-sapphire-radeon-rx-7600-gaming-pulse-aktiv-pci",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "arlt.com",
+        "price": 298.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/2793780/xfx-speedster-swft-210-radeon-rx-7600-core-edition",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "proshop.de",
+        "price": 300.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/2533788/xfx-radeon-rx-7600-speedster-swft-210-core-8gb-gdd",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "proshop.de",
+        "price": 301.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/2535124/asrock-radeon-rx-7600-challenger-oc-8gb-gddr6-ram-",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "mindfactory.de",
         "price": 302.0,
         "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3581992/radeon-rx-7600-8go-gaming-oc",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "url": "https://www.gputracker.eu/si-click/1/2425074/8gb-asrock-radeon-rx-7600-challenger-oc-aktiv-pcie",
+        "inStock": false,
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "codima.be",
+        "price": 303.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/4265237/powercolor-fighter-amd-radeon-rx-7600-8gb-gddr6",
+        "inStock": false,
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
         "shop": "bpm-power.com",
@@ -111,101 +151,13 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/1/2456115/scheda-video-amd-sapphire-pulse-radeon-rx-7600-8gb",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "amazon.fr",
-        "price": 304.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3581999/asus-dual-radeontm-rx-7600-evo-oc-edition-8-go-gdd",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "reichelt.de",
-        "price": 309.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3018920/sap-11324-01-20g-sapphire-pulse-radeon-rx-7600-8gb",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "bpm-power.com",
-        "price": 311.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3601479/scheda-video-amd-asus-dual-radeon-rx-7600-evo-8gb-",
-        "inStock": false,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "jacob.de",
-        "price": 314.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3444891/asus-dual-radeon-rx-7600-evo-8gb-90yv0ld0-m0na00",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "bpm-power.com",
-        "price": 318.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/2474099/scheda-video-amd-asrock-radeon-rx7600-challenger-1",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "jacob.de",
-        "price": 319.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/4376902/grafikkarte-powercolor-fighter-rx7600-8g-f-rx-7600",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "jacob.de",
-        "price": 324.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/2454659/asrock-challenger-radeon-rx-7600-8gb-oc-90-ga41zz-",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "jacob.de",
-        "price": 326.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/2427779/xfx-speedster-swft210-radeon-rx-7600-rx-76pswftfy",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "amazon.fr",
-        "price": 328.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/2884997/sapphire-pulse-amd-radeontm-rx-7600-gaming-8gb-gdd",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "jacob.de",
-        "price": 335.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/2480151/vga-sapphire-pulse-radeon-rx-7600-8gb-gaming-gddr6",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "bpm-power.com",
-        "price": 338.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/2566477/scheda-video-asrock-radeon-rx-7600-8gb-gddr6-128bi",
-        "inStock": false,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       }
     ],
     "image": "images/amd-rx-7600.png",
     "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/amd-rx-7600",
-    "lastUpdated": "2026-07-04T02:23:51Z",
-    "imageSource": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/471/9331/4719331313425.png?signature=fd45212a633a4f6feadaeeb2fedd7cfc332788704ff4a42c520730976a9f6f1e"
+    "lastUpdated": "2026-07-04T08:29:06Z",
+    "imageSource": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/471/0483/4710483943201.png?signature=4a611c614a83d79fd39eb6d4cd2f9c3bc98ef251db2a9046bb2506af78aa0073"
   },
   {
     "id": "amd-rx-7900-xtx",
@@ -213,17 +165,41 @@
     "name": "AMD RX 7900 XTX",
     "index": 116.9,
     "vramGb": 24,
-    "price": 1699.0,
+    "price": 939.0,
     "tdp": 355,
-    "priceMin": 1699.0,
+    "priceMin": 939.0,
     "prices": [
+      {
+        "shop": "mindfactory.de",
+        "price": 939.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/2105883/24gb-asrock-radeon-rx-7900-xtx-phantom-gaming-oc-a",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "proshop.de",
+        "price": 1206.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/2986329/asrock-radeon-rx-7900-xtx-taichi-oc-24gb-gddr6-ram",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "proshop.de",
+        "price": 1297.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/3109771/sapphire-radeon-rx-7900-xtx-nitro-24gb-gddr6-ram-g",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
       {
         "shop": "amazon.fr",
         "price": 1699.0,
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/1/4629426/sapphire-nitro-amd-radeontm-rx-7900-xtx-gaming-oc-",
         "inStock": false,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
         "shop": "amazon.fr",
@@ -231,12 +207,13 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/1/3407591/asus-tuf-gaming-radeon-rx-7900-xtx-oc-edition-cart",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       }
     ],
-    "image": null,
+    "image": "images/amd-rx-7900-xtx.png",
     "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/amd-rx-7900-xtx",
-    "lastUpdated": "2026-07-04T02:23:51Z"
+    "lastUpdated": "2026-07-04T08:29:06Z",
+    "imageSource": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/471/0483/4710483941733.png?signature=ec28f177071017bd78339cbd2a87efedfe4b958b98b7eb82ef60cd2306d1b9ee"
   },
   {
     "id": "amd-rx-9060-xt",
@@ -244,25 +221,33 @@
     "name": "AMD RX 9060 XT",
     "index": 73.5,
     "vramGb": 8,
-    "price": 329.0,
+    "price": 323.0,
     "tdp": 150,
-    "priceMin": 329.0,
+    "priceMin": 323.0,
     "prices": [
+      {
+        "shop": "proshop.de",
+        "price": 323.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/3900627/sapphire-radeon-rx-9060-xt-pulse-oc-8gb-gddr6-ram-",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
       {
         "shop": "bpm-power.com",
         "price": 329.0,
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/1/4182557/scheda-video-amd-sapphire-pulse-radeon-rx-9060-xt-",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
-        "shop": "amazon.fr",
-        "price": 339.0,
+        "shop": "mindfactory.de",
+        "price": 337.0,
         "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3904500/gigabyte-radeon-rx-9060-xt-gaming-oc-8g-carte-grap",
+        "url": "https://www.gputracker.eu/si-click/1/4167578/8gb-sapphire-radeon-rx-9060-xt-pulse-aktiv-pcie-5-",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
         "shop": "ldlc.com",
@@ -270,7 +255,71 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/1/3900739/asrock-amd-radeon-rx-9060-xt-challenger-8gb-oc",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "mindfactory.de",
+        "price": 345.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/3936028/8gb-gigabyte-radeon-rx-9060-xt-gaming-oc-aktiv-pci",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "arlt.com",
+        "price": 345.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/3900903/sapphire-pulse-gaming-oc-amd-radeontm-rx-9060xt-8g",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "amazon.de",
+        "price": 345.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/3901048/gigabyte-radeon-rx-9060-xt-gaming-oc-8g-graphics-c",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "proshop.de",
+        "price": 347.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/3900623/powercolor-radeon-rx-9060-xt-reaper-8gb-gddr6-ram-",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "codima.be",
+        "price": 350.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/4265254/powercolor-reaper-radeon-rx-9060-xt-8gb",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "alternate.de",
+        "price": 351.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/4134722/asrock-radeon-rx-9060-xt-steel-legend-oc-8gb-grafi",
+        "inStock": false,
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "mindfactory.de",
+        "price": 351.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/3911876/8gb-sapphire-radeon-rx-9060-xt-pulse-aktiv-pcie-5-",
+        "inStock": false,
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "mindfactory.de",
+        "price": 352.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/3911874/8gb-powercolor-radeon-rx-9060-xt-reaper-aktiv-pcie",
+        "inStock": false,
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
         "shop": "bpm-power.com",
@@ -278,7 +327,15 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/1/4077704/scheda-video-amd-gigabyte-radeon-rx-9060-xt-gaming",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "proshop.de",
+        "price": 357.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/3901888/asus-radeon-rx-9060-xt-prime-oc-8gb-gddr6-ram-graf",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
         "shop": "jacob.de",
@@ -286,125 +343,53 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/1/4161693/sapphire-radeon-rx9060xt-pulse-gaming-gddr6-2xhdmi",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
-        "shop": "bpm-power.com",
-        "price": 368.0,
+        "shop": "mindfactory.de",
+        "price": 359.0,
         "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/4077736/scheda-video-amd-sapphire-radeon-rx-9060-xt-pulse-",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "jacob.de",
-        "price": 369.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3908530/sapphire-radeon-rx9060xt-pulse-gaming-oc-8gbgddr6-",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "reichelt.de",
-        "price": 369.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3913329/pcg-75988-powercolor-rx-9060-xt-reaper-8-gb",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "ldlc.com",
-        "price": 370.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3900742/gigabyte-radeon-rx-9060-xt-gaming-oc-8g",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "bpm-power.com",
-        "price": 371.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/4101865/scheda-video-amd-gigabyte-radeon-rx-9060-xt-8gb-gd",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "amazon.fr",
-        "price": 371.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3915660/sapphire-technology-carte-graphique-pulse-amd-rade",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "amazon.fr",
-        "price": 379.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3939688/xfx-carte-graphique-de-jeu-swift-amd-radeon-rx-906",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "jacob.de",
-        "price": 382.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3912091/gigabyte-radeon-rx-9060-xt-gaming-oc-gv-r9060xtgam",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "bpm-power.com",
-        "price": 387.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/4100439/scheda-vodeo-xfx-swift-9060-xt-gaming-oc-dual-vent",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "jacob.de",
-        "price": 388.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/4237665/gigabyte-radeon-rx-9060-xt-gaming-8g-grafikkarte-8",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "ldlc.com",
-        "price": 390.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3900740/powercolor-reaper-amd-radeon-rx-9060-xt-8gb",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "bpm-power.com",
-        "price": 391.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/4100438/scheda-video-xfx-radeon-rx-9060-xt-swift-oc-dual-v",
+        "url": "https://www.gputracker.eu/si-click/1/4269378/8gb-gigabyte-radeon-rx-9060-xt-gaming-8g-aktiv-pci",
         "inStock": false,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
-        "shop": "jacob.de",
-        "price": 393.0,
+        "shop": "arlt.com",
+        "price": 359.0,
         "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3908533/powercolor-rx-9060xt-reaper-ddr6-retail-8-192-mb-r",
+        "url": "https://www.gputracker.eu/si-click/1/3936780/gigabyte-radeon-rx-9060-xt-gaming-oc-8g-grafikkart",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
-        "shop": "ldlc.com",
-        "price": 400.0,
+        "shop": "arlt.com",
+        "price": 360.0,
         "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/4316128/gigabyte-radeon-rx-9060-xt-gaming-8g",
+        "url": "https://www.gputracker.eu/si-click/1/4373683/sapphire-pulse-radeon-rx-9060-xt-8gb-grafikkarte",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "proshop.de",
+        "price": 361.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/3900628/powercolor-radeon-rx-9060-xt-hellhound-oc-8gb-gddr",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "mindfactory.de",
+        "price": 367.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/3911878/8gb-powercolor-radeon-rx-9060-xt-hellhound-oc-akti",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
       }
     ],
     "image": "images/amd-rx-9060-xt.png",
     "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/amd-rx-9060-xt",
-    "lastUpdated": "2026-07-04T02:23:51Z",
-    "imageSource": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/489/5106/4895106297333.png?signature=ef6baac942547e9ddc9fe1a97bf56b68b75531f32c95b9397ddbf6089937c832"
+    "lastUpdated": "2026-07-04T08:29:06Z",
+    "imageSource": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/489/5106/4895106296404.png?signature=9bcf8879ea69a3fadaccf356ed860fbe1afa1f97e9cca1cd977128d29d39c8df"
   },
   {
     "id": "amd-rx-9070",
@@ -412,33 +397,41 @@
     "name": "AMD RX 9070",
     "index": 94.5,
     "vramGb": 12,
-    "price": 478.0,
+    "price": 556.0,
     "tdp": 220,
-    "priceMin": 478.0,
+    "priceMin": 556.0,
     "prices": [
-      {
-        "shop": "amazon.de",
-        "price": 478.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/4700491/asus-prime-radeon-rx-9070-gre-oc-edition-gaming-gr",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "amazon.de",
-        "price": 522.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/4727648/xfx-swift-amd-radeon-rx-9070-gre-white-gaming-edit",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
       {
         "shop": "bpm-power.com",
         "price": 556.0,
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/1/4671636/scheda-video-sapphire-pulse-amd-radeon-rx-9070-gre",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "amazon.de",
+        "price": 558.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/4700491/asus-prime-radeon-rx-9070-gre-oc-edition-gaming-gr",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "mindfactory.de",
+        "price": 559.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/4680189/12gb-xfx-radeon-rx-9070-gre-triple-fan-gaming-edit",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "alternate.de",
+        "price": 559.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/4663426/sapphire-radeon-rx-9070-gre-pulse-gaming-oc-grafik",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
         "shop": "ldlc.com",
@@ -446,7 +439,47 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/1/4664506/sapphire-pulse-amd-radeon-rx-9070-gre-gaming-oc-12",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "mindfactory.de",
+        "price": 570.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/4705384/12gb-gigabyte-radeon-rx-9070-gre-gaming-gddr6-2xhd",
+        "inStock": false,
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "mindfactory.de",
+        "price": 579.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/4680191/12gb-asrock-radeon-rx-9070-gre-steel-legend-dark-o",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "proshop.de",
+        "price": 580.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/4664686/powercolor-radeon-rx-9070-gre-reaper-12gb-gddr6-ra",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "arlt.com",
+        "price": 580.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/4664582/sapphire-pulse-amd-radeontm-rx-9070-gre-oc-12gb-gr",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "mindfactory.de",
+        "price": 589.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/4680192/12gb-powercolor-radeon-rx-9070-gre-hellhound-aktiv",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
         "shop": "jacob.de",
@@ -454,7 +487,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/1/4668877/sapphire-vga-12gb-rx9070gre-pulse-gaming-oc-2xhdmi",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
         "shop": "jacob.de",
@@ -462,116 +495,36 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/1/4700441/vga-gigabyte-radeon-rx-9070-gre-gaming-12gb-oc-gv-",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
-        "shop": "amazon.fr",
+        "shop": "mindfactory.de",
         "price": 599.0,
         "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/4727472/gigabyte-radeon-rx-9070-gre-gaming-oc-12g-carte-gr",
+        "url": "https://www.gputracker.eu/si-click/1/4680193/12gb-powercolor-radeon-rx-9070-gre-red-devil-aktiv",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
         "shop": "amazon.de",
-        "price": 611.0,
+        "price": 599.0,
         "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/4460302/acer-predator-bifrost-radeon-rx-9070-oc-amd-graphi",
+        "url": "https://www.gputracker.eu/si-click/1/4495688/gigabyte-radeon-rx-9070-gaming-16gb-graphics-card-",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
-        "shop": "bpm-power.com",
-        "price": 616.0,
+        "shop": "alternate.de",
+        "price": 599.0,
         "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3919018/scheda-video-amd-radeon-asrock-rx-9070-steel-legen",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "bpm-power.com",
-        "price": 617.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3770640/scheda-video-amd-xfx-radeon-rx-9070-swift-oc-rdna4",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "jacob.de",
-        "price": 624.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/4696828/vga-asrock-radeon-rx-9070-gre-12gb-steel-legend-da",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "amazon.fr",
-        "price": 629.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/4078460/xfx-carte-graphique-amd-radeon-rx-9070-swift-tripl",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "bpm-power.com",
-        "price": 630.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3770646/scheda-video-amd-asrock-rx-9070-challenger-16gb-gd",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "amazon.fr",
-        "price": 639.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3811889/asrock-amd-radeon-rx-9070-challenger-16-go-2520-mh",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "jacob.de",
-        "price": 648.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/4675548/asus-vga-12gb-rx9070-gre-oc-edition-3xdphdmi-prime",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "bpm-power.com",
-        "price": 648.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3704713/scheda-video-sapphire-pure-rx-9070-gaming-oc-16gb-",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "amazon.fr",
-        "price": 649.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3810436/xfx-carte-graphique-swift-amd-radeon-rx-9070-oc-wh",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "reichelt.de",
-        "price": 649.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3739628/xfx-rx-97swfb3w9-xfx-swift-radeon-rx-9070-white-tr",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "bpm-power.com",
-        "price": 649.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3714911/scheda-video-amd-gigabyte-radeon-rx-9070-gaming-oc",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "url": "https://www.gputracker.eu/si-click/1/4682989/gigabyte-radeon-rx-9070-gre-gaming-oc-grafikkarte",
+        "inStock": false,
+        "lastSeen": "2026-07-04T08:29:06Z"
       }
     ],
     "image": "images/amd-rx-9070.png",
     "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/amd-rx-9070",
-    "lastUpdated": "2026-07-04T02:23:51Z",
+    "lastUpdated": "2026-07-04T08:29:06Z",
     "imageSource": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/489/5106/4895106297777.png?signature=4fc215ddc0ab545b91dd30d4576db390e7771deb609d5178d83cfae22f8aa9ba"
   },
   {
@@ -580,49 +533,97 @@
     "name": "AMD RX 9070 XT",
     "index": 100.1,
     "vramGb": 16,
-    "price": 567.0,
+    "price": 648.0,
     "tdp": 304,
-    "priceMin": 567.0,
+    "priceMin": 648.0,
     "prices": [
       {
-        "shop": "amazon.de",
-        "price": 567.0,
+        "shop": "mindfactory.de",
+        "price": 648.0,
         "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3702444/asus-prime-radeon-rx-9070-xt-oc-edition-16gb-gddr6",
+        "url": "https://www.gputracker.eu/si-click/1/3774030/16gb-powercolor-radeon-rx-9070-xt-reaper-aktiv-pci",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "proshop.de",
+        "price": 650.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/4096320/sapphire-radeon-rx-9070-xt-pulse-16gb-gddr6-ram-gr",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
         "shop": "amazon.de",
-        "price": 589.0,
+        "price": 660.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/4326622/gigabyte-radeon-rx-9070-xt-gaming-oc-ice-16g-graph",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "amazon.de",
+        "price": 666.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/3758768/gigabyte-radeon-rx-9070-xt-gaming-oc-16g-graphics-",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "mindfactory.de",
+        "price": 669.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/3767500/16gb-powercolor-radeon-rx-9070-xt-hellhound-oc-akt",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "proshop.de",
+        "price": 669.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/3808565/asus-radeon-rx-9070-xt-prime-oc-16gb-gddr6-ram-gra",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "proshop.de",
+        "price": 673.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/4333357/asrock-radeon-rx-9070-xt-challenger-16gb-gddr6-ram",
+        "inStock": false,
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "mindfactory.de",
+        "price": 679.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/3767499/16gb-xfx-radeon-rx-9070-xt-swift-triple-fan-gaming",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "arlt.com",
+        "price": 679.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/3709595/sapphire-amd-radeontm-rx-9070xt-pulse-16gb",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "arlt.com",
+        "price": 681.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/4373688/gigabyte-radeon-rx-9070-xt-gaming-oc-ice-16g-grafi",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "amazon.de",
+        "price": 687.0,
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/1/4725021/gigabyte-radeon-rx-9070-xt-gaming-oc-16g-graphics-",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "amazon.de",
-        "price": 685.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/4731759/xfx-swift-amd-radeon-rx-9070xt-white-triple-fan-ga",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "amazon.de",
-        "price": 688.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/4486901/asus-upgrade-bundle-prime-radeon-rx-9070-xt-oc-edi",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "amazon.fr",
-        "price": 689.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/4313972/gigabyte-radeon-rx-9070-xt-gaming-oc-ice-16g-carte",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
         "shop": "ldlc.com",
@@ -630,109 +631,149 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/1/4316129/gigabyte-radeon-rx-9070-xt-gaming-16g",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
-        "shop": "amazon.fr",
+        "shop": "mindfactory.de",
+        "price": 696.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/3983415/16gb-gigabyte-radeon-rx-9070-xt-gaming-oc-16g-akti",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "arlt.com",
         "price": 699.0,
         "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/4362079/scheda-grafica-asrock-90-ga61zz-00uanf-radeon-rx-9",
+        "url": "https://www.gputracker.eu/si-click/1/3709357/asus-prime-rx9070xt-o16g-amd-radeontm-rx-9070xt",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
-        "shop": "ldlc.com",
-        "price": 700.0,
+        "shop": "codima.be",
+        "price": 699.0,
         "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3702598/gigabyte-radeon-rx-9070-xt-gaming-oc-16g",
+        "url": "https://www.gputracker.eu/si-click/1/4396431/xfx-swift-amd-radeon-rx-9070xt-triple-fan-gaming-e",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
-        "shop": "bpm-power.com",
-        "price": 706.0,
+        "shop": "alternate.de",
+        "price": 699.0,
         "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3704722/scheda-video-amd-gigabyte-radeon-rx-9070-xt-gaming",
-        "inStock": false,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "bpm-power.com",
-        "price": 707.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3821924/scheda-video-amd-xfx-rx-9070-xt-16gb-xfx-swift-gam",
+        "url": "https://www.gputracker.eu/si-click/1/3712757/gigabyte-radeon-rx-9070-xt-gaming-oc-grafikkarte",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "amazon.fr",
-        "price": 708.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/4158737/sapphire-nitro-amd-radeontm-rx-9070-xt-gaming-oc-1",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "amazon.fr",
-        "price": 709.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3810448/xfx-quicksilver-amd-radeon-rx-9070xt-gaming-editio",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "bpm-power.com",
-        "price": 710.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3716657/scheda-video-amd-asrock-radeon-rx-9070-xt-16gb-ste",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "bpm-power.com",
-        "price": 713.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3704718/scheda-video-amd-powercolor-reaper-rx9070xt-16g-a-",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "bpm-power.com",
-        "price": 714.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3759218/scheda-video-rx-9070-xt-16gb-xfx-quicksilver-gamin",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "bpm-power.com",
-        "price": 717.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3770649/scheda-video-amd-xfx-rx-9070-xt-16gb-xfx-swift-gam",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "jacob.de",
-        "price": 717.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3723964/powercolor-rx-9070xt-reaper-16gb-rx9070xt-16g-a-re",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "reichelt.de",
-        "price": 720.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3714733/asr-90ga5dzz-asrock-radeon-rx-9070-xt-steel-legend",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       }
     ],
     "image": "images/amd-rx-9070-xt.png",
     "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/amd-rx-9070-xt",
-    "lastUpdated": "2026-07-04T02:23:51Z",
-    "imageSource": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/471/9331/4719331357030.png?signature=0d6c06ae01047f71248e45f5fa0d6af911dc44b727bac2dc78f9154df67da3e3"
+    "lastUpdated": "2026-07-04T08:29:06Z",
+    "imageSource": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/471/3436/4713436175759.png?signature=b9b2369d42c62d09474e8c14e3e8d811ba1d3b072569043cf4a112fd16dc4afc"
+  },
+  {
+    "id": "intel-arc-a310",
+    "brand": "Intel",
+    "name": "INTEL ARC A310",
+    "index": 20.3,
+    "vramGb": 4,
+    "price": 117.0,
+    "tdp": null,
+    "priceMin": 117.0,
+    "prices": [
+      {
+        "shop": "proshop.de",
+        "price": 117.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/2746206/asrock-arc-a310-low-profile-4gb-gddr6-ram-grafikka",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "proshop.de",
+        "price": 130.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/3888365/sparkle-arc-a310-eco-4gb-gddr6-ram-grafikkarte",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "proshop.de",
+        "price": 131.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/3877532/sparkle-arc-a310-omni-view-4gb-gddr6-ram-grafikkar",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "mindfactory.de",
+        "price": 131.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/3852544/4gb-sparkle-intel-arc-a310-omni-view-retail",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "jacob.de",
+        "price": 132.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/4186716/asrock-intel-arc-a310-low-profile-4gb-90-g4nzz-00u",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "bpm-power.com",
+        "price": 134.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/3601478/scheda-video-intel-sparkle-intel-arc-a310-4gb-omni",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "amazon.fr",
+        "price": 135.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/3846477/asrock-carte-graphique-intel-arc-a310-4go-low-prof",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "bpm-power.com",
+        "price": 138.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/3211415/scheda-video-sparkle-sa310c-4g-a310-eco-4gb-gddr6-",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "amazon.fr",
+        "price": 140.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/3598852/sparkle-intel-arc-a310-eco-4-go-gddr6-50-w-tbp-pro",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "jacob.de",
+        "price": 144.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/3577899/sparkle-intel-arc-a310-omni-view-4gb-gddr6-grafikk",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "jacob.de",
+        "price": 149.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/3081023/sparkle-intel-arc-a310-4gb-eco-gddr6-vga-card-sa31",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
+      }
+    ],
+    "image": "images/intel-arc-a310.png",
+    "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/intel-arc-a310",
+    "lastUpdated": "2026-07-04T08:29:06Z",
+    "imageSource": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/471/0483/4710483943867.png?signature=b2ebcc924c15f5bfba0929b344493858f67b1c77daa8ff558f5ca5b9b6152f8a"
   },
   {
     "id": "intel-arc-a380",
@@ -740,17 +781,33 @@
     "name": "INTEL ARC A380",
     "index": 23.5,
     "vramGb": 6,
-    "price": 160.0,
+    "price": 155.0,
     "tdp": 75,
-    "priceMin": 160.0,
+    "priceMin": 155.0,
     "prices": [
+      {
+        "shop": "alternate.de",
+        "price": 155.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/2289350/asrock-intel-arc-a380-challenger-itx-6gb-oc-grafik",
+        "inStock": false,
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
       {
         "shop": "reichelt.de",
         "price": 160.0,
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/1/2236698/asr-90ga3kzz-asrock-intel-arc-a380-challenger-itx-",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "proshop.de",
+        "price": 163.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/3001874/sparkle-arc-a380-elf-6gb-gddr6-ram-grafikkarte",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
         "shop": "bpm-power.com",
@@ -758,7 +815,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/1/2028556/scheda-video-asrock-intel-arc-a380-challenger-itx-",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
         "shop": "bpm-power.com",
@@ -766,7 +823,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/1/3178732/scheda-video-intel-sparkle-intel-arc-a380-elf-6gb-",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
         "shop": "jacob.de",
@@ -774,7 +831,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/1/2084178/asrock-challenger-itx-arc-a380-6gb-oc-grafikkarte-",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
         "shop": "jacob.de",
@@ -782,12 +839,12 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/1/2671983/sparkle-technology-intel-arc-a380-elf-sa380e-6g",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       }
     ],
     "image": "images/intel-arc-a380.png",
     "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/intel-arc-a380",
-    "lastUpdated": "2026-07-04T02:23:51Z",
+    "lastUpdated": "2026-07-04T08:29:06Z",
     "imageSource": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/471/0483/4710483939365.png?signature=602d6231c701794a88a02e2bc89cc40a96d75a6031223abd16c8bcf61429c99a"
   },
   {
@@ -796,25 +853,41 @@
     "name": "INTEL ARC A750",
     "index": 47.0,
     "vramGb": 8,
-    "price": 187.0,
+    "price": 209.0,
     "tdp": 225,
-    "priceMin": 187.0,
+    "priceMin": 209.0,
     "prices": [
-      {
-        "shop": "amazon.de",
-        "price": 187.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3852622/asrock-intel-arc-a750-cl-se-8go-8gb-gddr6-2xhdmi-2",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
       {
         "shop": "bpm-power.com",
         "price": 209.0,
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/1/3309239/scheda-video-intel-sparkle-intel-arc-a750-titan-oc",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "amazon.de",
+        "price": 218.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/3852622/asrock-intel-arc-a750-cl-se-8go-8gb-gddr6-2xhdmi-2",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "alternate.de",
+        "price": 219.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/3967403/asrock-intel-arc-a750-challenger-se-8gb-oc-grafikk",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "proshop.de",
+        "price": 219.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/3649666/asrock-arc-a750-8gb-gddr6-ram-grafikkarte",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
         "shop": "bpm-power.com",
@@ -822,7 +895,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/1/3666850/scheda-video-asrock-intel-arc-a750-8gb-challenger-",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
         "shop": "reichelt.de",
@@ -830,7 +903,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/1/3699065/asr-90ga5azz-asrock-intel-arc-a750-challenger-se-8",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
         "shop": "jacob.de",
@@ -838,7 +911,15 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/1/2666641/sparkle-intel-a750-titan-oc-triple-fan-8gb-vga-car",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "proshop.de",
+        "price": 226.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/3571142/sparkle-arc-a750-roc-luna-oc-8gb-gddr6-ram-grafikk",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
         "shop": "amazon.fr",
@@ -846,7 +927,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/1/3968434/asrock-tarjeta-grafica-arc-a750-challenger-se-8gb-",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
         "shop": "jacob.de",
@@ -854,7 +935,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/1/3675247/asrock-intel-arc-a750-challenger-se-8go-intel-vga-",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
         "shop": "jacob.de",
@@ -862,125 +943,13 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/1/3577900/sparkle-intel-arc-a750-orc-luna-oc-dual-fan-8gb-re",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       }
     ],
     "image": "images/intel-arc-a750.png",
     "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/intel-arc-a750",
-    "lastUpdated": "2026-07-04T02:23:51Z",
+    "lastUpdated": "2026-07-04T08:29:06Z",
     "imageSource": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/471/1342/4711342290115.png?signature=1d89b9e73f0b3ffcd75ab126a3e6ce665954a5d5663c63cae4d8ab3f729b61fd"
-  },
-  {
-    "id": "intel-arc-b570",
-    "brand": "Intel",
-    "name": "INTEL ARC B570",
-    "index": 52.4,
-    "vramGb": 10,
-    "price": 237.0,
-    "tdp": null,
-    "priceMin": 237.0,
-    "prices": [
-      {
-        "shop": "bpm-power.com",
-        "price": 237.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/4118064/scheda-video-intel-sparkle-arc-b570-eclipse-oc-10g",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "jacob.de",
-        "price": 254.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/4101857/sparkle-vga-sparkle-intel-arc-b570-10gb-eclipse-oc",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "reichelt.de",
-        "price": 260.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3699067/spark-sb570g-sparkle-intel-arc-b570-guardian-oc-10",
-        "inStock": false,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "bpm-power.com",
-        "price": 260.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3650411/scheda-video-sparkle-intel-arc-b570-guardian-oc-ed",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "jacob.de",
-        "price": 261.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3693911/sparkle-arc-b570-guardian-luna-oc-10gb-sb570gw-10g",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "amazon.fr",
-        "price": 270.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3968435/asrock-intel-arc-b570-cl-10go-intel-vga-card-90-ga",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "jacob.de",
-        "price": 275.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3583216/vga-sparkle-intel-arc-b570-10gb-guardian-oc-battle",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "amazon.fr",
-        "price": 284.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3704814/sparkle-intel-arc-b570-guardian-oc-10gb-gddr6",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "reichelt.de",
-        "price": 290.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3699066/asr-90ga5kzz-asrock-intel-arc-b570-challenger-10-g",
-        "inStock": false,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "bpm-power.com",
-        "price": 294.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3618807/scheda-video-asrock-arc-b570-challenger-10gb-oc-gd",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "jacob.de",
-        "price": 299.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3595864/asrock-challenger-intel-arc-b570-10gb-oc-90-ga5kzz",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "ldlc.com",
-        "price": 320.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3488531/asrock-intel-arc-b570-challenger-10gb-oc",
-        "inStock": false,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      }
-    ],
-    "image": "images/intel-arc-b570.png",
-    "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/intel-arc-b570",
-    "lastUpdated": "2026-07-04T02:23:51Z",
-    "imageSource": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/471/1342/4711342291112.png?signature=0b6667eac6971a55de814836107d43b836bf21b26904ed037ce5836a17ac196c"
   },
   {
     "id": "intel-arc-b580",
@@ -988,17 +957,25 @@
     "name": "INTEL ARC B580",
     "index": 59.6,
     "vramGb": 12,
-    "price": 291.0,
+    "price": 290.0,
     "tdp": 190,
-    "priceMin": 291.0,
+    "priceMin": 290.0,
     "prices": [
       {
-        "shop": "amazon.de",
-        "price": 291.0,
+        "shop": "proshop.de",
+        "price": 290.0,
         "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/4229495/sparkle-intel-arc-b580-rog-luna-oc-12gb",
+        "url": "https://www.gputracker.eu/si-click/1/3547037/sparkle-arc-b580-guardian-12gb-gddr6-ram-grafikkar",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "proshop.de",
+        "price": 300.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/3507092/intel-arc-b580-limited-12gb-gddr6-ram-grafikkarte",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
         "shop": "reichelt.de",
@@ -1006,7 +983,15 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/1/3699068/spark-sb580g-sparkle-intel-arc-b580-guardian-12-gb",
         "inStock": false,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "codima.be",
+        "price": 311.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/4265239/sparkle-intel-arc-b580-titan-luna-oc-12gb",
+        "inStock": false,
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
         "shop": "reichelt.de",
@@ -1014,7 +999,15 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/1/3699070/asr-90ga5lzz-asrock-intel-arc-b580-challenger-12-g",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "alternate.de",
+        "price": 320.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/3507043/asrock-intel-arc-b580-challenger-12gb-oc-grafikkar",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
         "shop": "jacob.de",
@@ -1022,15 +1015,31 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/1/3693912/sparkle-vga-sparkle-intel-arc-b580-12gb-guardian-b",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
-        "shop": "amazon.fr",
-        "price": 333.0,
+        "shop": "codima.be",
+        "price": 330.0,
         "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3853278/asrock-intel-arc-b580-challenger-12go-intel-vga-ca",
+        "url": "https://www.gputracker.eu/si-click/1/4265244/asrock-intel-arc-b580-steel-legend-12gb-oc",
+        "inStock": false,
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "mindfactory.de",
+        "price": 334.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/3978884/12gb-sparkle-arc-b580-roc-luna-oc-edition-weiss-ul",
+        "inStock": false,
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "proshop.de",
+        "price": 335.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/3477869/asrock-arc-b580-challenger-oc-12gb-gddr6-ram-grafi",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
         "shop": "bpm-power.com",
@@ -1038,7 +1047,23 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/1/3601634/scheda-video-intel-asrock-arc-b580-challenger-oc-1",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "proshop.de",
+        "price": 339.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/3895671/sparkle-arc-b580-roc-luna-oc-ultra-12gb-gddr6-ram-",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "amazon.de",
+        "price": 340.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/4229495/sparkle-intel-arc-b580-rog-luna-oc-12gb",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
         "shop": "jacob.de",
@@ -1046,7 +1071,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/1/4202627/asrock-challenger-intel-arc-b580-12gb-oc-b580-cl-1",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
         "shop": "bpm-power.com",
@@ -1054,7 +1079,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/1/3696503/scheda-video-intel-sparkle-arc-b580-12gb-guardian-",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
         "shop": "reichelt.de",
@@ -1062,7 +1087,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/1/3699075/asr-90ga5czz-asrock-intel-arc-b580-steel-legend-12",
         "inStock": false,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
         "shop": "bpm-power.com",
@@ -1070,15 +1095,23 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/1/3601480/scheda-video-intel-sparkle-intel-arc-b580-12gb-tit",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
         "shop": "amazon.fr",
-        "price": 379.0,
+        "price": 363.0,
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/1/4629418/intel-arc-b580-battlemage-limited-edition-12gb-gdd",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "proshop.de",
+        "price": 374.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/3477868/sparkle-arc-b580-titan-oc-12gb-gddr6-ram-grafikkar",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
         "shop": "jacob.de",
@@ -1086,37 +1119,44 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/1/3613486/sparkle-arc-b580-titan-oc-12gb-gddr6-sb580t-12goc",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "ldlc.com",
-        "price": 390.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3488532/asrock-intel-arc-b580-challenger-12gb-oc",
-        "inStock": false,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "amazon.fr",
-        "price": 397.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3820602/sparkle-technology-intel-arc-b580-titan-oc-12-gb-g",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "jacob.de",
-        "price": 657.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3563796/acer-nitro-arc-b580-oc-grafikkarte-12gb-gddr6-hdmi",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       }
     ],
     "image": "images/intel-arc-b580.png",
     "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/intel-arc-b580",
-    "lastUpdated": "2026-07-04T02:23:51Z",
+    "lastUpdated": "2026-07-04T08:29:06Z",
     "imageSource": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/471/1342/4711342290924.png?signature=b58cd78d7d976d7cf4a6a6901c83ebcb34f896bd0bc0d19b2b23befbb3937184"
+  },
+  {
+    "id": "nvidia-rtx-4070-ti-super",
+    "brand": "NVIDIA",
+    "name": "NVIDIA  RTX 4070 TI SUPER",
+    "index": 118.5,
+    "vramGb": null,
+    "price": 799.0,
+    "tdp": null,
+    "priceMin": 799.0,
+    "prices": [
+      {
+        "shop": "alternate.de",
+        "price": 799.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/4184012/zotac-geforce-rtx-4070-ti-super-solid-generaluberh",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "alternate.de",
+        "price": 899.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/4195053/gainward-geforce-rtx-4070-ti-super-panther-oc-gene",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
+      }
+    ],
+    "image": null,
+    "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/nvidia--rtx-4070-ti-super",
+    "lastUpdated": "2026-07-04T08:29:06Z"
   },
   {
     "id": "nvidia-gt1030",
@@ -1124,17 +1164,17 @@
     "name": "NVIDIA GT1030",
     "index": 8.9,
     "vramGb": 2,
-    "price": 70.0,
+    "price": 71.0,
     "tdp": 30,
-    "priceMin": 70.0,
+    "priceMin": 71.0,
     "prices": [
       {
-        "shop": "amazon.de",
-        "price": 70.0,
+        "shop": "mindfactory.de",
+        "price": 71.0,
         "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/211863/asus-gt1030-sl-2g-brk-geforce-gt-1030-2-gb-gddr5-l",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "url": "https://www.gputracker.eu/si-click/1/61890/2gb-inno3d-geforce-gt-1030-0db-passiv-pcie-3-0-ret",
+        "inStock": false,
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
         "shop": "jacob.de",
@@ -1142,15 +1182,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/1/4692069/msi-gc-v809-2825r-geforce-gt1030-2ghd4-lp-oc-retai",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "amazon.de",
-        "price": 73.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/288756/asus-geforce-gt-1030-2g-2-gb-gddr5-graphics-card-b",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
         "shop": "bpm-power.com",
@@ -1158,15 +1190,15 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/1/265609/scheda-video-nvidia-inno3d-gt1030-2gb-pci-edvihdmi",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
-        "shop": "box.co.uk",
-        "price": 81.0,
+        "shop": "arlt.com",
+        "price": 79.0,
         "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/4250412/msi-geforce-gt-1030-lp-4gb-oc-graphics-card",
+        "url": "https://www.gputracker.eu/si-click/1/2818524/inno3d-n1030-1sdv-e5bl-nvidia-geforce-gt-1030",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
         "shop": "jacob.de",
@@ -1174,23 +1206,47 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/1/2288074/innovision-inno3d-geforce-gt-1030-0db-n1030-1sdv-e",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
         "shop": "amazon.de",
-        "price": 83.0,
+        "price": 82.0,
         "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/87239/zotac-nvidia-geforce-gt-1030-2-gb-gddr5-graphics-c",
+        "url": "https://www.gputracker.eu/si-click/1/211863/asus-gt1030-sl-2g-brk-geforce-gt-1030-2-gb-gddr5-l",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
         "shop": "amazon.de",
         "price": 85.0,
         "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/1038499/asus-geforce-gt-1030-silent-2gb-gddr5",
+        "url": "https://www.gputracker.eu/si-click/1/288756/asus-geforce-gt-1030-2g-2-gb-gddr5-graphics-card-b",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "proshop.de",
+        "price": 86.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/320391/asus-geforce-gt-1030-silent-low-profile-2gb-gddr5-",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "alternate.de",
+        "price": 86.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/59723/inno3d-geforce-gt-1030-0db-grafikkarte",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "mindfactory.de",
+        "price": 87.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/61879/2gb-msi-geforce-gt-1030-2ghd4-lp-oc-passiv-pcie-3-",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
         "shop": "amazon.fr",
@@ -1198,7 +1254,15 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/1/3581768/msi-nvidia-geforce-gt-1030-4ghd4-lp-oc-carte-graph",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "proshop.de",
+        "price": 87.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/60814/asus-geforce-gt-1030-low-profile-2gb-gddr5-ram-gra",
+        "inStock": false,
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
         "shop": "reichelt.de",
@@ -1206,7 +1270,23 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/1/2583708/msi-v809-2825r-msi-geforce-gt-1030-2ghd4-lp-oc",
         "inStock": false,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "proshop.de",
+        "price": 88.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/212869/zotac-geforce-gt-1030-low-profile-2gb-gddr5-ram-gr",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "mindfactory.de",
+        "price": 89.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/61884/2gb-zotac-geforce-gt-1030-aktiv-pcie-3-0-retail",
+        "inStock": false,
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
         "shop": "bpm-power.com",
@@ -1214,7 +1294,15 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/1/268963/scheda-video-nvidia-asus-gt-1030-2gb-gddr5-sl-brk-",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "cdiscount.com",
+        "price": 90.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/4515920/inno3d-carte-graphique-nvidia-geforce-gt-1030-pass",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
         "shop": "bpm-power.com",
@@ -1222,69 +1310,21 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/1/273319/scheda-video-nvidia-zotac-gt-1030-2gb-gddr5-hdcp-h",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
-        "shop": "bpm-power.com",
-        "price": 92.0,
+        "shop": "mindfactory.de",
+        "price": 91.0,
         "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/252479/scheda-video-nvidia-asus-gt1030-2g-brk-2gb-dp-hdmi",
+        "url": "https://www.gputracker.eu/si-click/1/62022/2gb-asus-geforce-gt-1030-passiv-pcie-3-0-retail",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "amazon.fr",
-        "price": 95.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/60653/asus-geforce-gt1030-2g-brk-carte-graphique-2gb-gdd",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "reichelt.de",
-        "price": 97.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3371814/msi-v812-037r-msi-geforce-gt-1030-4ghd4-lp-oc",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "jacob.de",
-        "price": 97.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/59559/msi-gc-v809-2825r-geforce-gt1030-2ghd4-lp-oc-retai",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "jacob.de",
-        "price": 98.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/59597/zotac-geforce-gt-1030-zt-p10300a-10l",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "bpm-power.com",
-        "price": 101.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/738428/scheda-video-nvidia-gigabyte-2gb-d4-gt-1030-lp-gv-",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "amazon.fr",
-        "price": 102.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/2911519/maxsun-carte-graphique-nvidia-geforce-gt-1030-4-go",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       }
     ],
     "image": "images/nvidia-gt1030.png",
     "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/nvidia-gt1030",
-    "lastUpdated": "2026-07-04T02:23:51Z",
-    "imageSource": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/471/9072/4719072561420.png?signature=532915e9d4fecd47157fbe04a9151771e9747ad0bc4e2c0f7e5db09259977494"
+    "lastUpdated": "2026-07-04T08:29:06Z",
+    "imageSource": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/083/5168/0835168022782.png?signature=1e39538ba3668a36c9859806a1c0e8bcbef84a0a4c63b335b9519d78bee18684"
   },
   {
     "id": "nvidia-gt710",
@@ -1297,12 +1337,20 @@
     "priceMin": 51.0,
     "prices": [
       {
-        "shop": "box.co.uk",
+        "shop": "mindfactory.de",
         "price": 51.0,
         "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/4018370/msi-nvidia-geforce-gt-710-2gb-gddr3-graphics-card",
+        "url": "https://www.gputracker.eu/si-click/1/62078/2gb-inno3d-geforce-gt-710-passiv-pcie-2-0-x16-reta",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "mindfactory.de",
+        "price": 52.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/62065/2gb-msi-geforce-gt-710-lp-passiv-pcie-2-0-x16-reta",
+        "inStock": false,
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
         "shop": "amazon.fr",
@@ -1310,7 +1358,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/1/2902302/maxsun-carte-graphique-externe-geforce-gt-710-2-go",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
         "shop": "bpm-power.com",
@@ -1318,7 +1366,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/1/269072/scheda-video-nvidia-inno3d-gt710-2gb-sddr3-64bit-h",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
         "shop": "reichelt.de",
@@ -1326,7 +1374,23 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/1/3897608/zt-71310-10l-zotac-geforce-gt-710-2gb",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "alternate.de",
+        "price": 55.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/60109/inno3d-geforce-gt710-grafikkarte",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "cdiscount.com",
+        "price": 55.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/4195066/carte-graphique-msi-gt-710-2gd3h-lp-nvidia-geforce",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
         "shop": "jacob.de",
@@ -1334,7 +1398,39 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/1/59607/inno3d-geforce-gt-710-2gb-ddr3-vga-dvi-hdmi-n710-1",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "proshop.de",
+        "price": 56.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/3211501/asus-geforce-gt-710-2gb-gddr3-ram-grafikkarte",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "arlt.com",
+        "price": 57.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/60343/msi-geforce-gt-710-2gd3h-lp-grafikkarte",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "proshop.de",
+        "price": 57.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/62657/msi-geforce-gt-710-silent-2gb-gddr3-ram-grafikkart",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "mindfactory.de",
+        "price": 58.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/3767476/2gb-asus-geforce-205-gt710-sl-2gd5brk-evo-passiv-p",
+        "inStock": false,
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
         "shop": "bpm-power.com",
@@ -1342,7 +1438,15 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/1/1556883/scheda-video-nvidia-inno3d-gt-710-2048-mb-ddr3-low",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "arlt.com",
+        "price": 59.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/2829061/inno3d-geforce-gt-710-grafikkarte",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
         "shop": "bpm-power.com",
@@ -1350,7 +1454,7 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/1/3277983/scheda-video-nvidia-asus-geforce-gt-710-2gb-gddr5-",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
         "shop": "jacob.de",
@@ -1358,7 +1462,15 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/1/59606/msi-geforce-gt-710-2gb-ddr3-grafikkarte-dvivgahdmi",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
+      },
+      {
+        "shop": "arlt.com",
+        "price": 63.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/3355953/asus-geforce-gt-710-silent-grafikkarte",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
       },
       {
         "shop": "ldlc.com",
@@ -1366,45 +1478,13 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/1/60737/msi-geforce-gt-710-2gd3h-lp",
         "inStock": false,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "jacob.de",
-        "price": 65.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3220452/asus-geforce-gt-710-evo-90yv0ala-m0na00",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "jacob.de",
-        "price": 68.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/1586385/zotac-geforce-gt-710-zt-71310-10l",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "bpm-power.com",
-        "price": 68.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/1787915/scheda-video-nvidia-zotac-geforce-gt-710-2gb-gddr3",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
-      },
-      {
-        "shop": "bpm-power.com",
-        "price": 88.0,
-        "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/4617255/scheda-video-nvidia-afox-geforce-gt710-4gb-ddr3-64",
-        "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       }
     ],
     "image": "images/nvidia-gt710.png",
     "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/nvidia-gt710",
-    "lastUpdated": "2026-07-04T02:23:51Z",
-    "imageSource": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/471/9072/4719072448233.png?signature=04d2073433c521b2dba9600976fe9342167e2890b829be6ae67654520b5608ec"
+    "lastUpdated": "2026-07-04T08:29:06Z",
+    "imageSource": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/083/5168/0835168021686.png?signature=88f280ffe11a667a68bd67e7f4414481dfbe8aa60310723381c958f3f86a918d"
   },
   {
     "id": "nvidia-gt730",
@@ -1412,45 +1492,45 @@
     "name": "NVIDIA GT730",
     "index": 3.1,
     "vramGb": 2,
-    "price": 55.0,
+    "price": 59.0,
     "tdp": null,
-    "priceMin": 55.0,
+    "priceMin": 59.0,
     "prices": [
       {
-        "shop": "amazon.de",
-        "price": 55.0,
+        "shop": "proshop.de",
+        "price": 59.0,
         "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/210659/asus-geforce-gt-730-2-gb-gddr5-low-profile-graphic",
+        "url": "https://www.gputracker.eu/si-click/1/3433590/biostar-geforce-gt-730-2gb-gddr3-ram-grafikkarte",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       }
     ],
     "image": null,
     "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/nvidia-gt730",
-    "lastUpdated": "2026-07-04T02:23:51Z"
+    "lastUpdated": "2026-07-04T08:29:06Z"
   },
   {
     "id": "nvidia-rtx-2000",
     "brand": "NVIDIA",
     "name": "NVIDIA RTX 2000",
-    "index": 63.2,
+    "index": 63.1,
     "vramGb": 16,
-    "price": 643.0,
+    "price": 600.0,
     "tdp": 70,
-    "priceMin": 643.0,
+    "priceMin": 600.0,
     "prices": [
       {
-        "shop": "bpm-power.com",
-        "price": 643.0,
+        "shop": "proshop.de",
+        "price": 600.0,
         "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3304393/scheda-video-nvidia-quadro-rtx-2000-ada-16gb-gddr6",
+        "url": "https://www.gputracker.eu/si-click/1/3344195/nvidia-rtx-2000-ada-16gb-gddr6-ram-grafikkarte",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       }
     ],
     "image": null,
     "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/nvidia-rtx-2000",
-    "lastUpdated": "2026-07-04T02:23:51Z"
+    "lastUpdated": "2026-07-04T08:29:06Z"
   },
   {
     "id": "nvidia-rtx-3050",
@@ -1458,22 +1538,22 @@
     "name": "NVIDIA RTX 3050",
     "index": 40.0,
     "vramGb": 6,
-    "price": 169.0,
+    "price": 193.0,
     "tdp": 130,
-    "priceMin": 169.0,
+    "priceMin": 193.0,
     "prices": [
       {
-        "shop": "amazon.de",
-        "price": 169.0,
+        "shop": "mindfactory.de",
+        "price": 193.0,
         "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3005733/asus-dual-geforce-rtx-3050-oc-edition-6gb-gddr6-ga",
+        "url": "https://www.gputracker.eu/si-click/1/4292160/6gb-inno3d-geforce-rtx-3050-twin-x2-lhr-aktiv-pcie",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       }
     ],
     "image": null,
     "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/nvidia-rtx-3050",
-    "lastUpdated": "2026-07-04T02:23:51Z"
+    "lastUpdated": "2026-07-04T08:29:06Z"
   },
   {
     "id": "nvidia-rtx-3060",
@@ -1481,45 +1561,45 @@
     "name": "NVIDIA RTX 3060",
     "index": 62.8,
     "vramGb": null,
-    "price": 359.0,
+    "price": 294.0,
     "tdp": 170,
-    "priceMin": 359.0,
+    "priceMin": 294.0,
     "prices": [
       {
-        "shop": "reichelt.de",
-        "price": 359.0,
+        "shop": "alternate.de",
+        "price": 294.0,
         "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/4679630/zt-a30600e2-10m-zotac-gaming-rtx-3060-twin-edge",
+        "url": "https://www.gputracker.eu/si-click/1/4480867/zotac-geforce-rtx-3060-twin-edge-generaluberholt-g",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       }
     ],
     "image": null,
     "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/nvidia-rtx-3060",
-    "lastUpdated": "2026-07-04T02:23:51Z"
+    "lastUpdated": "2026-07-04T08:29:06Z"
   },
   {
     "id": "nvidia-rtx-3060-ti",
     "brand": "NVIDIA",
     "name": "NVIDIA RTX 3060 TI",
     "index": 75.3,
-    "vramGb": 8,
-    "price": 423.0,
+    "vramGb": null,
+    "price": 390.0,
     "tdp": 200,
-    "priceMin": 423.0,
+    "priceMin": 390.0,
     "prices": [
       {
-        "shop": "bpm-power.com",
-        "price": 423.0,
+        "shop": "alternate.de",
+        "price": 390.0,
         "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3010561/scheda-video-nvidia-biostar-geforce-rtx-3060-ti-8g",
+        "url": "https://www.gputracker.eu/si-click/1/4690223/zotac-geforce-rtx-3060-ti-twin-edge-lhr-generalube",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       }
     ],
     "image": null,
     "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/nvidia-rtx-3060-ti",
-    "lastUpdated": "2026-07-04T02:23:51Z"
+    "lastUpdated": "2026-07-04T08:29:06Z"
   },
   {
     "id": "nvidia-rtx-3070",
@@ -1527,22 +1607,22 @@
     "name": "NVIDIA RTX 3070",
     "index": 82.2,
     "vramGb": 8,
-    "price": 407.0,
+    "price": 414.0,
     "tdp": 220,
-    "priceMin": 407.0,
+    "priceMin": 414.0,
     "prices": [
       {
-        "shop": "amazon.de",
-        "price": 407.0,
+        "shop": "proshop.de",
+        "price": 414.0,
         "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/1706742/kfa2-37nsl6md2vxk-nvidia-geforce-rtx-3070-8gb-gddr",
+        "url": "https://www.gputracker.eu/si-click/1/4729241/biostar-geforce-rtx-3070-8gb-gddr6-ram-grafikkarte",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       }
     ],
     "image": null,
     "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/nvidia-rtx-3070",
-    "lastUpdated": "2026-07-04T02:23:51Z"
+    "lastUpdated": "2026-07-04T08:29:06Z"
   },
   {
     "id": "nvidia-rtx-3070-ti",
@@ -1550,91 +1630,114 @@
     "name": "NVIDIA RTX 3070 TI",
     "index": 86.3,
     "vramGb": 8,
-    "price": 524.0,
+    "price": 612.0,
     "tdp": 290,
-    "priceMin": 524.0,
+    "priceMin": 612.0,
     "prices": [
       {
         "shop": "amazon.de",
-        "price": 524.0,
+        "price": 612.0,
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/1/1572915/evga-geforce-rtx-3070-ti-ftw3-ultra-gaming-08g-p5-",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       }
     ],
     "image": null,
     "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/nvidia-rtx-3070-ti",
-    "lastUpdated": "2026-07-04T02:23:51Z"
+    "lastUpdated": "2026-07-04T08:29:06Z"
   },
   {
     "id": "nvidia-rtx-4000",
     "brand": "NVIDIA",
     "name": "NVIDIA RTX 4000",
     "index": 88.0,
-    "vramGb": null,
-    "price": 1615.0,
+    "vramGb": 20,
+    "price": 1459.0,
     "tdp": 130,
-    "priceMin": 1615.0,
+    "priceMin": 1459.0,
     "prices": [
       {
-        "shop": "jacob.de",
-        "price": 1615.0,
+        "shop": "alternate.de",
+        "price": 1459.0,
         "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3153597/lenovo-nvidia-rtx-4000-ada-4x61p39479",
+        "url": "https://www.gputracker.eu/si-click/1/3277455/pny-nvidia-rtx-4000-ada-generation-20gb-sb-grafikk",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       }
     ],
     "image": null,
     "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/nvidia-rtx-4000",
-    "lastUpdated": "2026-07-04T02:23:51Z"
+    "lastUpdated": "2026-07-04T08:29:06Z"
+  },
+  {
+    "id": "nvidia-rtx-4070",
+    "brand": "NVIDIA",
+    "name": "NVIDIA RTX 4070",
+    "index": 100.0,
+    "vramGb": null,
+    "price": 623.0,
+    "tdp": 200,
+    "priceMin": 623.0,
+    "prices": [
+      {
+        "shop": "alternate.de",
+        "price": 623.0,
+        "currency": "EUR",
+        "url": "https://www.gputracker.eu/si-click/1/4657182/gainward-geforce-rtx-4070-ghost-oc-generaluberholt",
+        "inStock": true,
+        "lastSeen": "2026-07-04T08:29:06Z"
+      }
+    ],
+    "image": null,
+    "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/nvidia-rtx-4070",
+    "lastUpdated": "2026-07-04T08:29:06Z"
   },
   {
     "id": "nvidia-rtx-4070-ti",
     "brand": "NVIDIA",
     "name": "NVIDIA RTX 4070 TI",
     "index": 117.4,
-    "vramGb": 12,
-    "price": 945.0,
+    "vramGb": null,
+    "price": 699.0,
     "tdp": 285,
-    "priceMin": 945.0,
+    "priceMin": 699.0,
     "prices": [
       {
-        "shop": "amazon.de",
-        "price": 945.0,
+        "shop": "alternate.de",
+        "price": 699.0,
         "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3581002/gainward-europe-vaizdo-ploksta-gainward-rtx4070ti-",
+        "url": "https://www.gputracker.eu/si-click/1/4184014/zotac-geforce-rtx-4070-ti-trinity-generaluberholt-",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       }
     ],
     "image": null,
     "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/nvidia-rtx-4070-ti",
-    "lastUpdated": "2026-07-04T02:23:51Z"
+    "lastUpdated": "2026-07-04T08:29:06Z"
   },
   {
     "id": "nvidia-rtx-4080",
     "brand": "NVIDIA",
     "name": "NVIDIA RTX 4080",
     "index": 128.2,
-    "vramGb": 16,
-    "price": 1589.0,
+    "vramGb": null,
+    "price": 1099.0,
     "tdp": 320,
-    "priceMin": 1589.0,
+    "priceMin": 1099.0,
     "prices": [
       {
-        "shop": "amazon.fr",
-        "price": 1589.0,
+        "shop": "alternate.de",
+        "price": 1099.0,
         "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3582163/gigabyte-geforce-rtx-4080-gaming-oc-16gb-carte-gra",
+        "url": "https://www.gputracker.eu/si-click/1/4195057/gainward-geforce-rtx-4080-panther-generaluberholt-",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       }
     ],
     "image": null,
     "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/nvidia-rtx-4080",
-    "lastUpdated": "2026-07-04T02:23:51Z"
+    "lastUpdated": "2026-07-04T08:29:06Z"
   },
   {
     "id": "nvidia-rtx-4080-super",
@@ -1642,68 +1745,68 @@
     "name": "NVIDIA RTX 4080 SUPER",
     "index": 127.4,
     "vramGb": null,
-    "price": 2257.0,
+    "price": 999.0,
     "tdp": 320,
-    "priceMin": 2257.0,
+    "priceMin": 999.0,
     "prices": [
       {
-        "shop": "amazon.fr",
-        "price": 2257.0,
+        "shop": "alternate.de",
+        "price": 999.0,
         "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3582150/gigabyte-geforce-rtx-4080-super-gaming-oc-carte-gr",
+        "url": "https://www.gputracker.eu/si-click/1/4480868/gainward-geforce-rtx-4080-super-phoenix-generalube",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       }
     ],
     "image": null,
     "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/nvidia-rtx-4080-super",
-    "lastUpdated": "2026-07-04T02:23:51Z"
+    "lastUpdated": "2026-07-04T08:29:06Z"
   },
   {
     "id": "nvidia-rtx-4500",
     "brand": "NVIDIA",
     "name": "NVIDIA RTX 4500",
     "index": 105.2,
-    "vramGb": null,
-    "price": 2261.0,
+    "vramGb": 24,
+    "price": 2146.0,
     "tdp": 210,
-    "priceMin": 2261.0,
+    "priceMin": 2146.0,
     "prices": [
       {
-        "shop": "jacob.de",
-        "price": 2261.0,
+        "shop": "mindfactory.de",
+        "price": 2146.0,
         "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3108637/nvidia-rtx-4500-ada-900-5g132-2260-000",
+        "url": "https://www.gputracker.eu/si-click/1/3532244/24gb-nvidia-rtx-4500-ada-grafikkarten-rtx-4500-ada",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       }
     ],
     "image": null,
     "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/nvidia-rtx-4500",
-    "lastUpdated": "2026-07-04T02:23:51Z"
+    "lastUpdated": "2026-07-04T08:29:06Z"
   },
   {
     "id": "nvidia-rtx-5000",
     "brand": "NVIDIA",
     "name": "NVIDIA RTX 5000",
-    "index": 113.4,
+    "index": 113.6,
     "vramGb": 32,
-    "price": 4502.0,
+    "price": 4417.0,
     "tdp": 250,
-    "priceMin": 4502.0,
+    "priceMin": 4417.0,
     "prices": [
       {
-        "shop": "jacob.de",
-        "price": 4502.0,
+        "shop": "mindfactory.de",
+        "price": 4417.0,
         "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/2828860/nvidia-rtx-5000-ada-generation-grafikkarte-32-gb-g",
+        "url": "https://www.gputracker.eu/si-click/1/2655401/32gb-pny-rtx-5000-ada-generation-smallbox-aktiv-pc",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       }
     ],
     "image": null,
     "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/nvidia-rtx-5000",
-    "lastUpdated": "2026-07-04T02:23:51Z"
+    "lastUpdated": "2026-07-04T08:29:06Z"
   },
   {
     "id": "nvidia-rtx-5050",
@@ -1711,45 +1814,45 @@
     "name": "NVIDIA RTX 5050",
     "index": 63.2,
     "vramGb": 8,
-    "price": 230.0,
+    "price": 257.0,
     "tdp": 130,
-    "priceMin": 230.0,
+    "priceMin": 257.0,
     "prices": [
       {
-        "shop": "amazon.de",
-        "price": 230.0,
+        "shop": "alternate.de",
+        "price": 257.0,
         "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/4712573/palit-geforce-rtx-5050-stormx-8gb-gddr6-gaming-gra",
+        "url": "https://www.gputracker.eu/si-click/1/4134738/palit-geforce-rtx-5050-stormx-8gb-grafikkarte",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       }
     ],
     "image": null,
     "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/nvidia-rtx-5050",
-    "lastUpdated": "2026-07-04T02:23:51Z"
+    "lastUpdated": "2026-07-04T08:29:06Z"
   },
   {
     "id": "nvidia-rtx-5060",
     "brand": "NVIDIA",
     "name": "NVIDIA RTX 5060",
-    "index": 77.0,
+    "index": 77.1,
     "vramGb": 8,
-    "price": 256.0,
+    "price": 295.0,
     "tdp": 145,
-    "priceMin": 256.0,
+    "priceMin": 295.0,
     "prices": [
       {
         "shop": "amazon.de",
-        "price": 256.0,
+        "price": 295.0,
         "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/4703892/palit-geforce-rtx-5060-infinity-2-oc-8gb-gddr7-gam",
+        "url": "https://www.gputracker.eu/si-click/1/4186842/gigabyte-geforce-rtx-5060-windforce-max-oc-8g-grap",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       }
     ],
     "image": null,
     "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/nvidia-rtx-5060",
-    "lastUpdated": "2026-07-04T02:23:51Z"
+    "lastUpdated": "2026-07-04T08:29:06Z"
   },
   {
     "id": "nvidia-rtx-5060-ti",
@@ -1757,91 +1860,91 @@
     "name": "NVIDIA RTX 5060 TI",
     "index": 82.2,
     "vramGb": 8,
-    "price": 273.0,
+    "price": 318.0,
     "tdp": 180,
-    "priceMin": 273.0,
+    "priceMin": 318.0,
     "prices": [
       {
-        "shop": "amazon.de",
-        "price": 273.0,
+        "shop": "mindfactory.de",
+        "price": 318.0,
         "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/4508746/palit-geforce-rtx-5060ti-dual-8gb-gddr7-gaming-gra",
+        "url": "https://www.gputracker.eu/si-click/1/3796290/8gb-palit-geforce-rtx-5060-ti-dual-aktiv-pcie-5-0-",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       }
     ],
     "image": null,
     "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/nvidia-rtx-5060-ti",
-    "lastUpdated": "2026-07-04T02:23:51Z"
+    "lastUpdated": "2026-07-04T08:29:06Z"
   },
   {
     "id": "nvidia-rtx-5070",
     "brand": "NVIDIA",
     "name": "NVIDIA RTX 5070",
     "index": 106.8,
-    "vramGb": 12,
-    "price": 512.0,
+    "vramGb": null,
+    "price": 549.0,
     "tdp": 250,
-    "priceMin": 512.0,
+    "priceMin": 549.0,
     "prices": [
       {
-        "shop": "amazon.de",
-        "price": 512.0,
+        "shop": "alternate.de",
+        "price": 549.0,
         "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3903024/asus-dual-geforce-rtx-5070-12gb-gddr7-oc-edition-g",
+        "url": "https://www.gputracker.eu/si-click/1/3717572/palit-geforce-rtx-5070-infinity-3-grafikkarte",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       }
     ],
     "image": null,
     "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/nvidia-rtx-5070",
-    "lastUpdated": "2026-07-04T02:23:51Z"
+    "lastUpdated": "2026-07-04T08:29:06Z"
   },
   {
     "id": "nvidia-rtx-5070-ti",
     "brand": "NVIDIA",
     "name": "NVIDIA RTX 5070 TI",
     "index": 120.4,
-    "vramGb": 16,
-    "price": 804.0,
+    "vramGb": null,
+    "price": 849.0,
     "tdp": 300,
-    "priceMin": 804.0,
+    "priceMin": 849.0,
     "prices": [
       {
-        "shop": "amazon.de",
-        "price": 804.0,
+        "shop": "alternate.de",
+        "price": 849.0,
         "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3773498/pny-geforce-rtx-5070ti-16gb-oc-triple-fan-graphics",
+        "url": "https://www.gputracker.eu/si-click/1/3942974/palit-geforce-rtx-5070-ti-gamingpro-grafikkarte",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       }
     ],
     "image": null,
     "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/nvidia-rtx-5070-ti",
-    "lastUpdated": "2026-07-04T02:23:51Z"
+    "lastUpdated": "2026-07-04T08:29:06Z"
   },
   {
     "id": "nvidia-rtx-5080",
     "brand": "NVIDIA",
     "name": "NVIDIA RTX 5080",
     "index": 132.7,
-    "vramGb": 16,
-    "price": 1199.0,
+    "vramGb": null,
+    "price": 1159.0,
     "tdp": 360,
-    "priceMin": 1199.0,
+    "priceMin": 1159.0,
     "prices": [
       {
-        "shop": "amazon.fr",
-        "price": 1199.0,
+        "shop": "alternate.de",
+        "price": 1159.0,
         "currency": "EUR",
-        "url": "https://www.gputracker.eu/si-click/1/3722521/pny-carte-graphique-geforce-rtxtm-5080-16gb-oc-tri",
+        "url": "https://www.gputracker.eu/si-click/1/3883387/palit-geforce-rtx-5080-gamingpro-v1-grafikkarte",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       }
     ],
     "image": null,
     "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/nvidia-rtx-5080",
-    "lastUpdated": "2026-07-04T02:23:51Z"
+    "lastUpdated": "2026-07-04T08:29:06Z"
   },
   {
     "id": "nvidia-rtx-5090",
@@ -1859,12 +1962,12 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/1/3699080/msi-v530-026r-msi-rtx-5090-32g-suprim-soc",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       }
     ],
     "image": null,
     "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/nvidia-rtx-5090",
-    "lastUpdated": "2026-07-04T02:23:51Z"
+    "lastUpdated": "2026-07-04T08:29:06Z"
   },
   {
     "id": "nvidia-rtx-6000",
@@ -1882,12 +1985,12 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/1/3135660/nvidia-rtx-6000-ada-grafikkarte-48gb-gddr6-pcie-4-",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       }
     ],
     "image": null,
     "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/nvidia-rtx-6000",
-    "lastUpdated": "2026-07-04T02:23:51Z"
+    "lastUpdated": "2026-07-04T08:29:06Z"
   },
   {
     "id": "nvidia-rtx-a1000",
@@ -1905,11 +2008,11 @@
         "currency": "EUR",
         "url": "https://www.gputracker.eu/si-click/1/3226864/nvidia-rtx-a1000-grafikkarten-900-5g172-2280-000",
         "inStock": true,
-        "lastSeen": "2026-07-04T02:23:51Z"
+        "lastSeen": "2026-07-04T08:29:06Z"
       }
     ],
     "image": null,
     "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/nvidia-rtx-a1000",
-    "lastUpdated": "2026-07-04T02:23:51Z"
+    "lastUpdated": "2026-07-04T08:29:06Z"
   }
 ]

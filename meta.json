@@ -6,14 +6,14 @@
     "gpuIndex": "GeForce RTX 4070 = 100",
     "cpuGamingIndex": "AMD Ryzen 7 7800X3D = 100"
   },
-  "lastUpdated": "2026-07-04T13:10:52Z",
+  "lastUpdated": "2026-07-04T19:01:38Z",
   "categories": {
     "gpus": 36,
     "cpus": 40
   },
   "benchmarkCoverage": {
     "gpus": {
-      "matched": 35,
+      "matched": 36,
       "total": 36,
       "reference": 26881
     },
@@ -23,21 +23,5 @@
       "reference": 34281
     }
   },
-  "note": "Prix live agreges (gputracker.eu). index/gamingIndex = scores PassMark reels (null si non rapproche). tdp = fiche constructeur bundlee.",
-  "catalog": {
-    "role": "Catalogue curate complet (miroir des assets embarques de l'app) — base autoritaire du moteur/UI.",
-    "counts": {
-      "gpus": 93, "cpus": 83, "games": 83, "rams": 56, "ssds": 59,
-      "mobos": 53, "coolers": 56, "psus": 54, "cases": 58
-    }
-  },
-  "fps": {
-    "role": "Matrice FPS generee par le moteur Perf P (tool/gen_fps.dart) sur GPU x jeu x resolution x preset x DLSS x RT x FG.",
-    "files": "fps/index.json + fps/_measured.json + un fichier par jeu",
-    "totalRows": 92628,
-    "gpuCount": 93,
-    "gameCount": 83,
-    "referenceCpu": "Ryzen 7 9800X3D",
-    "honesty": "FPS = estimations du modele (memes calculs que l'app en direct), calibrees sur anchors mesures. Seules les lignes measured sont des mesures reelles."
-  }
+  "note": "Prix live agreges (gputracker.eu). index/gamingIndex = scores PassMark reels (null si non rapproche). tdp = fiche constructeur bundlee."
 }

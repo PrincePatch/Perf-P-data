@@ -441,5 +441,326 @@
     "maxCoolerMm": 160,
     "maxRadiatorMm": 360,
     "detail": "ATX/mATX/ITX · ventirad ≤160mm · AIO ≤360mm"
+  },
+  {
+    "id": "nzxt-h5-elite",
+    "name": "NZXT H5 Elite",
+    "price": 130.0,
+    "detail": "ATX moyen-tour, façade et flanc verre trempé",
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "ITX"
+    ],
+    "maxCoolerMm": 165,
+    "maxRadiatorMm": 280
+  },
+  {
+    "id": "nzxt-h6-flow",
+    "name": "NZXT H6 Flow",
+    "price": 110.0,
+    "detail": "ATX double chambre, très bon flux d'air",
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "ITX"
+    ],
+    "maxCoolerMm": 163,
+    "maxRadiatorMm": 360
+  },
+  {
+    "id": "nzxt-h7-elite",
+    "name": "NZXT H7 Elite",
+    "price": 180.0,
+    "detail": "ATX moyen-tour spacieux, verre trempé",
+    "formFactors": [
+      "E-ATX",
+      "ATX",
+      "mATX",
+      "ITX"
+    ],
+    "maxCoolerMm": 185,
+    "maxRadiatorMm": 360
+  },
+  {
+    "id": "fractal-north-xl",
+    "name": "Fractal North XL",
+    "price": 190.0,
+    "detail": "Grande tour bois/mesh, format E-ATX",
+    "formFactors": [
+      "E-ATX",
+      "ATX",
+      "mATX",
+      "ITX"
+    ],
+    "maxCoolerMm": 170,
+    "maxRadiatorMm": 420
+  },
+  {
+    "id": "fractal-meshify-2-compact",
+    "name": "Fractal Meshify 2 Compact",
+    "price": 120.0,
+    "detail": "ATX compact, façade mesh haut débit",
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "ITX"
+    ],
+    "maxCoolerMm": 169,
+    "maxRadiatorMm": 360
+  },
+  {
+    "id": "fractal-define-7",
+    "name": "Fractal Define 7",
+    "price": 170.0,
+    "detail": "ATX silencieux, panneaux insonorisés",
+    "formFactors": [
+      "E-ATX",
+      "ATX",
+      "mATX",
+      "ITX"
+    ],
+    "maxCoolerMm": 185,
+    "maxRadiatorMm": 360
+  },
+  {
+    "id": "fractal-pop-xl-air",
+    "name": "Fractal Pop XL Air",
+    "price": 120.0,
+    "detail": "Grande tour mesh, bon rapport qualité/prix",
+    "formFactors": [
+      "E-ATX",
+      "ATX",
+      "mATX",
+      "ITX"
+    ],
+    "maxCoolerMm": 185,
+    "maxRadiatorMm": 420
+  },
+  {
+    "id": "fractal-terra-itx",
+    "name": "Fractal Terra (ITX)",
+    "price": 180.0,
+    "detail": "Mini-ITX bois, ultra-compact",
+    "formFactors": [
+      "ITX"
+    ],
+    "maxCoolerMm": 77,
+    "maxRadiatorMm": 280
+  },
+  {
+    "id": "lian-li-o11-vision",
+    "name": "Lian Li O11 Vision",
+    "price": 160.0,
+    "detail": "ATX vitrine 3 faces verre, watercooling",
+    "formFactors": [
+      "E-ATX",
+      "ATX",
+      "mATX",
+      "ITX"
+    ],
+    "maxCoolerMm": 167,
+    "maxRadiatorMm": 360
+  },
+  {
+    "id": "lian-li-o11-dynamic-evo",
+    "name": "Lian Li O11 Dynamic EVO",
+    "price": 170.0,
+    "detail": "ATX double chambre, référence watercooling",
+    "formFactors": [
+      "E-ATX",
+      "ATX",
+      "mATX",
+      "ITX"
+    ],
+    "maxCoolerMm": 167,
+    "maxRadiatorMm": 360
+  },
+  {
+    "id": "lian-li-lancool-207",
+    "name": "Lian Li Lancool 207",
+    "price": 90.0,
+    "detail": "ATX abordable, très bon flux d'air",
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "ITX"
+    ],
+    "maxCoolerMm": 175,
+    "maxRadiatorMm": 360
+  },
+  {
+    "id": "corsair-3500x",
+    "name": "Corsair 3500X ARGB",
+    "price": 110.0,
+    "detail": "ATX moyen-tour ARGB, verre trempé",
+    "formFactors": [
+      "E-ATX",
+      "ATX",
+      "mATX",
+      "ITX"
+    ],
+    "maxCoolerMm": 170,
+    "maxRadiatorMm": 360
+  },
+  {
+    "id": "corsair-6500d-airflow",
+    "name": "Corsair 6500D Airflow",
+    "price": 200.0,
+    "detail": "ATX double chambre, gros radiateurs",
+    "formFactors": [
+      "E-ATX",
+      "ATX",
+      "mATX",
+      "ITX"
+    ],
+    "maxCoolerMm": 170,
+    "maxRadiatorMm": 420
+  },
+  {
+    "id": "corsair-2500x",
+    "name": "Corsair 2500X",
+    "price": 130.0,
+    "detail": "mATX double chambre compact",
+    "formFactors": [
+      "mATX",
+      "ITX"
+    ],
+    "maxCoolerMm": 170,
+    "maxRadiatorMm": 280
+  },
+  {
+    "id": "be-quiet-pure-base-500-fx",
+    "name": "be quiet! Pure Base 500 FX",
+    "price": 120.0,
+    "detail": "ATX silencieux, façade ARGB",
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "ITX"
+    ],
+    "maxCoolerMm": 190,
+    "maxRadiatorMm": 360
+  },
+  {
+    "id": "be-quiet-shadow-base-800-fx",
+    "name": "be quiet! Shadow Base 800 FX",
+    "price": 170.0,
+    "detail": "Grande tour, silence et flux d'air",
+    "formFactors": [
+      "E-ATX",
+      "ATX",
+      "mATX",
+      "ITX"
+    ],
+    "maxCoolerMm": 180,
+    "maxRadiatorMm": 420
+  },
+  {
+    "id": "be-quiet-light-base-600-lx",
+    "name": "be quiet! Light Base 600 LX",
+    "price": 140.0,
+    "detail": "ATX vitrine, éclairage ARGB",
+    "formFactors": [
+      "E-ATX",
+      "ATX",
+      "mATX",
+      "ITX"
+    ],
+    "maxCoolerMm": 170,
+    "maxRadiatorMm": 360
+  },
+  {
+    "id": "montech-king-95",
+    "name": "Montech King 95",
+    "price": 110.0,
+    "detail": "Double chambre, verre trempé, ventilos inclus",
+    "formFactors": [
+      "E-ATX",
+      "ATX",
+      "mATX",
+      "ITX"
+    ],
+    "maxCoolerMm": 175,
+    "maxRadiatorMm": 420
+  },
+  {
+    "id": "montech-xr",
+    "name": "Montech XR",
+    "price": 90.0,
+    "detail": "ATX mesh, ventilateurs ARGB inclus",
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "ITX"
+    ],
+    "maxCoolerMm": 180,
+    "maxRadiatorMm": 360
+  },
+  {
+    "id": "phanteks-nv7",
+    "name": "Phanteks NV7",
+    "price": 180.0,
+    "detail": "Grande vitrine panoramique, watercooling",
+    "formFactors": [
+      "E-ATX",
+      "ATX",
+      "mATX",
+      "ITX"
+    ],
+    "maxCoolerMm": 185,
+    "maxRadiatorMm": 420
+  },
+  {
+    "id": "phanteks-g400a",
+    "name": "Phanteks Eclipse G400A",
+    "price": 90.0,
+    "detail": "ATX mesh, bon flux d'air abordable",
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "ITX"
+    ],
+    "maxCoolerMm": 175,
+    "maxRadiatorMm": 360
+  },
+  {
+    "id": "cooler-master-masterbox-nr600",
+    "name": "Cooler Master MasterBox NR600",
+    "price": 80.0,
+    "detail": "ATX moyen-tour mesh, sobre",
+    "formFactors": [
+      "ATX",
+      "mATX",
+      "ITX"
+    ],
+    "maxCoolerMm": 166,
+    "maxRadiatorMm": 360
+  },
+  {
+    "id": "asus-prime-ap201",
+    "name": "ASUS Prime AP201",
+    "price": 90.0,
+    "detail": "mATX compact 33 L, façade mesh",
+    "formFactors": [
+      "mATX",
+      "ITX"
+    ],
+    "maxCoolerMm": 170,
+    "maxRadiatorMm": 360
+  },
+  {
+    "id": "hyte-y70",
+    "name": "Hyte Y70",
+    "price": 200.0,
+    "detail": "Vitrine incurvée, écran optionnel",
+    "formFactors": [
+      "E-ATX",
+      "ATX",
+      "mATX",
+      "ITX"
+    ],
+    "maxCoolerMm": 160,
+    "maxRadiatorMm": 420
   }
 ]

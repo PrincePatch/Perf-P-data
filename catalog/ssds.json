@@ -218,5 +218,335 @@
     "sizeGb": 250,
     "price": 40,
     "brand": "Samsung"
+  },
+  {
+    "id": "hdd-barracuda-1tb",
+    "name": "Seagate BarraCuda 1 To (7200)",
+    "kind": "HDD",
+    "readMBps": 210,
+    "writeMBps": 200,
+    "sizeGb": 1000,
+    "price": 42,
+    "brand": "Seagate"
+  },
+  {
+    "id": "hdd-wdblue-2tb",
+    "name": "WD Blue 2 To (7200)",
+    "kind": "HDD",
+    "readMBps": 180,
+    "writeMBps": 175,
+    "sizeGb": 2000,
+    "price": 55,
+    "brand": "Western Digital"
+  },
+  {
+    "id": "hdd-firecuda-2tb",
+    "name": "Seagate FireCuda 2 To (7200)",
+    "kind": "HDD",
+    "readMBps": 220,
+    "writeMBps": 210,
+    "sizeGb": 2000,
+    "price": 80,
+    "brand": "Seagate"
+  },
+  {
+    "id": "hdd-p300-1tb",
+    "name": "Toshiba P300 1 To (7200)",
+    "kind": "HDD",
+    "readMBps": 200,
+    "writeMBps": 190,
+    "sizeGb": 1000,
+    "price": 40,
+    "brand": "Toshiba"
+  },
+  {
+    "id": "hdd-wdblack-4tb",
+    "name": "WD Black 4 To (7200)",
+    "kind": "HDD",
+    "readMBps": 227,
+    "writeMBps": 220,
+    "sizeGb": 4000,
+    "price": 130,
+    "brand": "Western Digital"
+  },
+  {
+    "id": "sata-870qvo-1tb",
+    "name": "Samsung 870 QVO 1 To",
+    "kind": "SATA SSD",
+    "readMBps": 560,
+    "writeMBps": 530,
+    "sizeGb": 1000,
+    "price": 75,
+    "brand": "Samsung"
+  },
+  {
+    "id": "sata-bx500-1tb",
+    "name": "Crucial BX500 1 To",
+    "kind": "SATA SSD",
+    "readMBps": 540,
+    "writeMBps": 500,
+    "sizeGb": 1000,
+    "price": 60,
+    "brand": "Crucial"
+  },
+  {
+    "id": "sata-a400-480",
+    "name": "Kingston A400 480 Go",
+    "kind": "SATA SSD",
+    "readMBps": 500,
+    "writeMBps": 450,
+    "sizeGb": 480,
+    "price": 35,
+    "brand": "Kingston"
+  },
+  {
+    "id": "sata-redsa500-1tb",
+    "name": "WD Red SA500 1 To",
+    "kind": "SATA SSD",
+    "readMBps": 560,
+    "writeMBps": 530,
+    "sizeGb": 1000,
+    "price": 90,
+    "brand": "Western Digital"
+  },
+  {
+    "id": "sata-sandisk-1tb",
+    "name": "SanDisk Ultra 3D 1 To",
+    "kind": "SATA SSD",
+    "readMBps": 560,
+    "writeMBps": 530,
+    "sizeGb": 1000,
+    "price": 70,
+    "brand": "SanDisk"
+  },
+  {
+    "id": "nvme-970evo-1tb",
+    "name": "Samsung 970 EVO Plus 1 To",
+    "kind": "NVMe Gen3",
+    "readMBps": 3500,
+    "writeMBps": 3300,
+    "sizeGb": 1000,
+    "price": 80,
+    "brand": "Samsung"
+  },
+  {
+    "id": "nvme-sn570-1tb",
+    "name": "WD Blue SN570 1 To",
+    "kind": "NVMe Gen3",
+    "readMBps": 3500,
+    "writeMBps": 3000,
+    "sizeGb": 1000,
+    "price": 65,
+    "brand": "Western Digital"
+  },
+  {
+    "id": "nvme-p3-1tb",
+    "name": "Crucial P3 1 To",
+    "kind": "NVMe Gen3",
+    "readMBps": 3500,
+    "writeMBps": 3000,
+    "sizeGb": 1000,
+    "price": 60,
+    "brand": "Crucial"
+  },
+  {
+    "id": "nvme-sn350-1tb",
+    "name": "WD Green SN350 1 To",
+    "kind": "NVMe Gen3",
+    "readMBps": 3200,
+    "writeMBps": 2500,
+    "sizeGb": 1000,
+    "price": 55,
+    "brand": "Western Digital"
+  },
+  {
+    "id": "nvme-990evo-1tb",
+    "name": "Samsung 990 EVO 1 To",
+    "kind": "NVMe Gen4",
+    "readMBps": 5000,
+    "writeMBps": 4200,
+    "sizeGb": 1000,
+    "price": 85,
+    "brand": "Samsung"
+  },
+  {
+    "id": "nvme-t500-1tb",
+    "name": "Crucial T500 1 To",
+    "kind": "NVMe Gen4",
+    "readMBps": 7300,
+    "writeMBps": 6800,
+    "sizeGb": 1000,
+    "price": 90,
+    "brand": "Crucial"
+  },
+  {
+    "id": "nvme-sn850x-1tb",
+    "name": "WD Black SN850X 1 To",
+    "kind": "NVMe Gen4",
+    "readMBps": 7300,
+    "writeMBps": 6300,
+    "sizeGb": 1000,
+    "price": 100,
+    "brand": "Western Digital"
+  },
+  {
+    "id": "nvme-sn770-1tb",
+    "name": "WD Black SN770 1 To",
+    "kind": "NVMe Gen4",
+    "readMBps": 5150,
+    "writeMBps": 4900,
+    "sizeGb": 1000,
+    "price": 75,
+    "brand": "Western Digital"
+  },
+  {
+    "id": "nvme-kc3000-1tb",
+    "name": "Kingston KC3000 1 To",
+    "kind": "NVMe Gen4",
+    "readMBps": 7000,
+    "writeMBps": 6000,
+    "sizeGb": 1000,
+    "price": 95,
+    "brand": "Kingston"
+  },
+  {
+    "id": "nvme-mp600pro-1tb",
+    "name": "Corsair MP600 Pro XT 1 To",
+    "kind": "NVMe Gen4",
+    "readMBps": 7100,
+    "writeMBps": 5800,
+    "sizeGb": 1000,
+    "price": 110,
+    "brand": "Corsair"
+  },
+  {
+    "id": "nvme-mp600gs-1tb",
+    "name": "Corsair MP600 GS 1 To",
+    "kind": "NVMe Gen4",
+    "readMBps": 4800,
+    "writeMBps": 3900,
+    "sizeGb": 1000,
+    "price": 70,
+    "brand": "Corsair"
+  },
+  {
+    "id": "nvme-fc530-1tb",
+    "name": "Seagate FireCuda 530 1 To",
+    "kind": "NVMe Gen4",
+    "readMBps": 7300,
+    "writeMBps": 6000,
+    "sizeGb": 1000,
+    "price": 115,
+    "brand": "Seagate"
+  },
+  {
+    "id": "nvme-rocket4-1tb",
+    "name": "Sabrent Rocket 4 Plus 1 To",
+    "kind": "NVMe Gen4",
+    "readMBps": 7000,
+    "writeMBps": 6850,
+    "sizeGb": 1000,
+    "price": 105,
+    "brand": "Sabrent"
+  },
+  {
+    "id": "nvme-legend960-1tb",
+    "name": "Adata Legend 960 1 To",
+    "kind": "NVMe Gen4",
+    "readMBps": 7400,
+    "writeMBps": 6800,
+    "sizeGb": 1000,
+    "price": 95,
+    "brand": "Adata"
+  },
+  {
+    "id": "nvme-nv2-1tb",
+    "name": "Kingston NV2 1 To",
+    "kind": "NVMe Gen4",
+    "readMBps": 3500,
+    "writeMBps": 2100,
+    "sizeGb": 1000,
+    "price": 55,
+    "brand": "Kingston"
+  },
+  {
+    "id": "nvme-990pro-4tb",
+    "name": "Samsung 990 Pro 4 To",
+    "kind": "NVMe Gen4",
+    "readMBps": 7450,
+    "writeMBps": 6900,
+    "sizeGb": 4000,
+    "price": 300,
+    "brand": "Samsung"
+  },
+  {
+    "id": "nvme-t500-2tb",
+    "name": "Crucial T500 2 To",
+    "kind": "NVMe Gen4",
+    "readMBps": 7400,
+    "writeMBps": 7000,
+    "sizeGb": 2000,
+    "price": 150,
+    "brand": "Crucial"
+  },
+  {
+    "id": "nvme-t700-2tb",
+    "name": "Crucial T700 2 To",
+    "kind": "NVMe Gen5",
+    "readMBps": 12400,
+    "writeMBps": 11800,
+    "sizeGb": 2000,
+    "price": 250,
+    "brand": "Crucial"
+  },
+  {
+    "id": "nvme-9100pro-2tb",
+    "name": "Samsung 9100 Pro 2 To",
+    "kind": "NVMe Gen5",
+    "readMBps": 14800,
+    "writeMBps": 13400,
+    "sizeGb": 2000,
+    "price": 260,
+    "brand": "Samsung"
+  },
+  {
+    "id": "nvme-t705-2tb",
+    "name": "Crucial T705 2 To",
+    "kind": "NVMe Gen5",
+    "readMBps": 14500,
+    "writeMBps": 12700,
+    "sizeGb": 2000,
+    "price": 280,
+    "brand": "Crucial"
+  },
+  {
+    "id": "nvme-sn8100-2tb",
+    "name": "WD Black SN8100 2 To",
+    "kind": "NVMe Gen5",
+    "readMBps": 14900,
+    "writeMBps": 14000,
+    "sizeGb": 2000,
+    "price": 270,
+    "brand": "Western Digital"
+  },
+  {
+    "id": "nvme-mp700-2tb",
+    "name": "Corsair MP700 Pro 2 To",
+    "kind": "NVMe Gen5",
+    "readMBps": 12400,
+    "writeMBps": 11800,
+    "sizeGb": 2000,
+    "price": 230,
+    "brand": "Corsair"
+  },
+  {
+    "id": "nvme-fc540-2tb",
+    "name": "Seagate FireCuda 540 2 To",
+    "kind": "NVMe Gen5",
+    "readMBps": 10000,
+    "writeMBps": 10000,
+    "sizeGb": 2000,
+    "price": 220,
+    "brand": "Seagate"
   }
 ]

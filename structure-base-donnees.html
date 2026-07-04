@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Perf-P-data — Structure de la base de données</title>
+<style>
+  :root{
+    --bg:#0A0C14; --panel:#141827; --panel2:#0E1220; --stroke:#242a3d;
+    --indigo:#5B6CFF; --teal:#21D4C4; --hi:#EAF0FF; --mid:#9AA6C4; --lo:#5E6a86;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:radial-gradient(1200px 600px at 85% -10%,rgba(91,108,255,.18),transparent 60%),
+        radial-gradient(900px 500px at -5% 5%,rgba(33,212,196,.12),transparent 55%),var(--bg);
+       color:var(--hi);font-family:'Outfit',system-ui,-apple-system,Segoe UI,Roboto,sans-serif;line-height:1.55}
+  .wrap{max-width:1060px;margin:0 auto;padding:34px 20px 80px}
+  .brand{display:inline-flex;align-items:center;gap:10px;font-weight:800;letter-spacing:.5px;
+    background:linear-gradient(90deg,var(--indigo),var(--teal));-webkit-background-clip:text;background-clip:text;color:transparent}
+  .dot{width:11px;height:11px;border-radius:50%;background:linear-gradient(90deg,var(--indigo),var(--teal))}
+  h1{font-size:29px;margin:10px 0 6px;font-weight:800}
+  .sub{color:var(--mid);font-size:15px;max-width:75ch}
+  .cols{display:grid;grid-template-columns:1fr;gap:16px;margin-top:24px}
+  @media(min-width:820px){.cols{grid-template-columns:320px 1fr}}
+  .tree{background:var(--panel2);border:1px solid var(--stroke);border-radius:16px;padding:18px 16px;
+    font-family:ui-monospace,'Cascadia Code',Consolas,monospace;font-size:13px;overflow-x:auto;height:fit-content;position:sticky;top:16px}
+  .tree .n{color:var(--teal)} .tree .f{color:var(--hi)} .tree .c{color:var(--lo)}
+  .tree a{text-decoration:none;display:block;padding:2px 0;color:inherit;border-radius:6px}
+  .tree a:hover{background:rgba(91,108,255,.12)}
+  section{background:var(--panel);border:1px solid var(--stroke);border-radius:16px;padding:18px 20px;margin-bottom:14px;scroll-margin-top:16px}
+  h2{font-size:18px;margin:0 0 4px;display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+  h2 code{font-size:13px}
+  .badge{font-size:11px;font-weight:700;color:var(--indigo);background:rgba(91,108,255,.14);padding:3px 9px;border-radius:20px}
+  .badge.live{color:var(--teal);background:rgba(33,212,196,.14)}
+  p.desc{color:var(--mid);font-size:14px;margin:6px 0 12px}
+  table{width:100%;border-collapse:collapse;font-size:13px}
+  th,td{text-align:left;padding:6px 8px;border-bottom:1px solid rgba(255,255,255,.05);vertical-align:top}
+  th{color:var(--lo);font-weight:600;font-size:11.5px;text-transform:uppercase;letter-spacing:.4px}
+  td code{color:var(--teal);background:#0b0e18;border:1px solid var(--stroke);padding:1px 5px;border-radius:5px;font-size:12px}
+  td .t{color:var(--lo);font-size:12px}
+  .kv{color:var(--hi)}
+  .foot{color:var(--lo);font-size:12.5px;margin-top:24px;text-align:center}
+  code{font-family:ui-monospace,Consolas,monospace}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="brand"><span class="dot"></span> PERF&nbsp;P · DATA</div>
+  <h1>Structure de la base de données <code>Perf-P-data</code></h1>
+  <p class="sub">Dépôt <b>public</b> (fetch anonyme) qui alimente l'app Perf P. Trois rôles :
+    <b>overlay live</b> (prix Amazon + images, fusionné par nom), <b>catalogue curaté complet</b>
+    (miroir des données embarquées), et <b>matrice FPS</b> (sortie du moteur, tous paramètres).</p>
+
+  <div class="cols">
+    <nav class="tree">
+Perf-P-data/
+<a href="#gpus"><span class="f">├─ gpus.json</span> <span class="c">overlay</span></a>
+<a href="#cpus"><span class="f">├─ cpus.json</span> <span class="c">overlay</span></a>
+<a href="#meta"><span class="f">├─ meta.json</span></a>
+<a href="#catalog"><span class="n">├─ catalog/</span> <span class="c">curaté ×9</span></a>
+<a href="#fps"><span class="n">├─ fps/</span> <span class="c">85 fichiers</span></a>
+<a href="#images"><span class="n">├─ images/</span> <span class="c">37 png</span></a>
+<a href="#scraper"><span class="n">├─ scraper/</span></a>
+<a href="#tree"><span class="f">└─ data-tree.html</span></a>
+    </nav>
+
+    <div class="content">
+      <section id="gpus">
+        <h2><code>gpus.json</code> <span class="badge live">OVERLAY LIVE</span></h2>
+        <p class="desc">GPU scrapés (gputracker) : prix multi-boutiques réels + indice PassMark + photo.
+          L'app le fusionne par <b>nom normalisé</b> pour n'en prendre que <b>prix Amazon</b> + <b>image</b>.</p>
+        <table><tr><th>champ</th><th>type</th><th>rôle</th></tr>
+          <tr><td><code>id,brand,name</code></td><td class="t">string</td><td>identité</td></tr>
+          <tr><td><code>index</code></td><td class="t">number</td><td>indice perf (RTX 4070 = 100, PassMark)</td></tr>
+          <tr><td><code>vramGb,tdp,price,priceMin</code></td><td class="t">number</td><td>specs + prix agrégé</td></tr>
+          <tr><td><code>prices[]</code></td><td class="t">array</td><td><code>{shop,price,currency,url,inStock,lastSeen}</code> — offres réelles</td></tr>
+          <tr><td><code>image,imageSource</code></td><td class="t">string</td><td>photo produit (relatif + URL d'origine)</td></tr>
+        </table>
+      </section>
+
+      <section id="cpus">
+        <h2><code>cpus.json</code> <span class="badge live">OVERLAY LIVE</span></h2>
+        <p class="desc">CPU scrapés : mêmes <code>prices[]</code> réels + <code>gamingIndex</code> PassMark.
+          Fusion app = prix seulement (indice jeu curaté conservé).</p>
+        <table><tr><th>champ</th><th>type</th><th>rôle</th></tr>
+          <tr><td><code>id,brand,name</code></td><td class="t">string</td><td>identité</td></tr>
+          <tr><td><code>gamingIndex</code></td><td class="t">number</td><td>indice jeu</td></tr>
+          <tr><td><code>cores,socket,tdp,price</code></td><td class="t">mixte</td><td>specs + prix</td></tr>
+          <tr><td><code>prices[]</code></td><td class="t">array</td><td>offres réelles par boutique</td></tr>
+        </table>
+      </section>
+
+      <section id="catalog">
+        <h2><code>catalog/</code> <span class="badge">CATALOGUE CURATÉ</span></h2>
+        <p class="desc">Miroir complet des données embarquées de l'app (<code>assets/data/*.json</code>) —
+          la base « autoritaire » qui pilote le moteur et l'UI. 9 fichiers :</p>
+        <table><tr><th>fichier</th><th>éléments</th><th>champs clés</th></tr>
+          <tr><td><code>gpus.json</code></td><td class="kv">93</td><td class="t">index, vramGb, tdp, cudaCores, boostClockMhz, memBusBits, frameGen, raytracing</td></tr>
+          <tr><td><code>cpus.json</code></td><td class="kv">83</td><td class="t">gamingIndex, cores, threads, socket, tdp, boostClockGhz, l3CacheMb</td></tr>
+          <tr><td><code>games.json</code></td><td class="kv">83</td><td class="t">baseFps, cpuCeilFps, resScale, settingsScale, vramBaseGb, minRamGb, baseLoadSec, rt/dlss/fgSupport, rtCost, fgGain</td></tr>
+          <tr><td><code>rams.json</code></td><td class="kv">56</td><td class="t">sizeGb, mhz, cl, kind (DDR3/4/5)</td></tr>
+          <tr><td><code>ssds.json</code></td><td class="kv">59</td><td class="t">kind, readMBps, writeMBps, sizeGb</td></tr>
+          <tr><td><code>mobos.json</code></td><td class="kv">53</td><td class="t">socket, chipset, formFactor</td></tr>
+          <tr><td><code>coolers.json</code></td><td class="kv">56</td><td class="t">kind (Air/AIO), coolingW</td></tr>
+          <tr><td><code>psus.json</code></td><td class="kv">54</td><td class="t">watt, rating (80+)</td></tr>
+          <tr><td><code>cases.json</code></td><td class="kv">58</td><td class="t">formFactors[], maxCoolerMm, maxRadiatorMm</td></tr>
+        </table>
+      </section>
+
+      <section id="fps">
+        <h2><code>fps/</code> <span class="badge">MATRICE FPS</span></h2>
+        <p class="desc">Sortie du moteur Perf P sur toute la grille. <b>index.json</b> (récap),
+          <b>_measured.json</b> (12 anchors réels mesurés), et <b>1 fichier par jeu</b> (83).
+          Total <b>92 628</b> lignes. CPU de référence : Ryzen 7 9800X3D (isole le GPU).</p>
+        <table><tr><th>clé de ligne</th><th>sens</th></tr>
+          <tr><td><code>g / r / p</code></td><td>id GPU / résolution (1080·1440·2160) / préréglage (low·medium·high·ultra)</td></tr>
+          <tr><td><code>a / l1 / l10</code></td><td>FPS moyen / 1% low / 10% low</td></tr>
+          <tr><td><code>ld / c</code></td><td>temps de chargement (s) / fiabilité (measured·calibrated·estimated)</td></tr>
+          <tr><td><code>dq / dp</code></td><td>FPS avec DLSS/FSR Qualité / Performance (si le jeu le gère)</td></tr>
+          <tr><td><code>rt / fg</code></td><td>FPS ray tracing / frame generation (si jeu + carte compatibles)</td></tr>
+        </table>
+      </section>
+
+      <section id="images">
+        <h2><code>images/</code> <span class="badge live">37 PNG</span></h2>
+        <p class="desc">Photos produit GPU (<code>&lt;id&gt;.png</code>), servies en RAW et référencées par
+          le champ <code>image</code> des GPU. GPU uniquement (limite de la source).</p>
+      </section>
+
+      <section id="meta">
+        <h2><code>meta.json</code></h2>
+        <p class="desc">Métadonnées : <code>source</code>, <code>benchmarkSource/Origin</code>,
+          <code>references</code>, <code>lastUpdated</code>, comptes par catégorie, couverture.</p>
+      </section>
+
+      <section id="scraper">
+        <h2><code>scraper/</code> + <code>.github/</code></h2>
+        <p class="desc">Pipeline Python (gputracker + PassMark, robots-aware, débit limité) + GitHub Actions
+          (cron 6 h) qui régénère les overlays. Voir <code>docs/DATA_PIPELINE.md</code> côté app.</p>
+      </section>
+
+      <section id="tree">
+        <h2><code>data-tree.html</code></h2>
+        <p class="desc">Arbre de couverture historique (réel / estimé / manquant) par catégorie.</p>
+      </section>
+    </div>
+  </div>
+
+  <p class="foot">Perf-P-data · <a href="https://github.com/PrincePatch/Perf-P-data" style="color:var(--teal)">github.com/PrincePatch/Perf-P-data</a> — schéma généré automatiquement</p>
+</div>
+</body>
+</html>

@@ -259,5 +259,221 @@
     "chipset": "Z890",
     "formFactor": "ITX",
     "price": 379
+  },
+  {
+    "id": "asus-prime-a520m-k",
+    "brand": "AMD",
+    "name": "ASUS Prime A520M-K",
+    "socket": "AM4",
+    "chipset": "A520",
+    "formFactor": "mATX",
+    "price": 70
+  },
+  {
+    "id": "gigabyte-a520m-s2h",
+    "brand": "AMD",
+    "name": "Gigabyte A520M S2H",
+    "socket": "AM4",
+    "chipset": "A520",
+    "formFactor": "mATX",
+    "price": 65
+  },
+  {
+    "id": "asus-tuf-x570-plus",
+    "brand": "AMD",
+    "name": "ASUS TUF Gaming X570-Plus",
+    "socket": "AM4",
+    "chipset": "X570",
+    "formFactor": "ATX",
+    "price": 180
+  },
+  {
+    "id": "asrock-b450m-pro4",
+    "brand": "AMD",
+    "name": "ASRock B450M Pro4",
+    "socket": "AM4",
+    "chipset": "B450",
+    "formFactor": "mATX",
+    "price": 75
+  },
+  {
+    "id": "gigabyte-b450m-ds3h",
+    "brand": "AMD",
+    "name": "Gigabyte B450M DS3H",
+    "socket": "AM4",
+    "chipset": "B450",
+    "formFactor": "mATX",
+    "price": 70
+  },
+  {
+    "id": "asus-rog-strix-b550-f",
+    "brand": "AMD",
+    "name": "ASUS ROG Strix B550-F Gaming",
+    "socket": "AM4",
+    "chipset": "B550",
+    "formFactor": "ATX",
+    "price": 170
+  },
+  {
+    "id": "asus-tuf-b650-plus",
+    "brand": "AMD",
+    "name": "ASUS TUF Gaming B650-Plus WiFi",
+    "socket": "AM5",
+    "chipset": "B650",
+    "formFactor": "ATX",
+    "price": 200
+  },
+  {
+    "id": "asus-rog-strix-b650e-f",
+    "brand": "AMD",
+    "name": "ASUS ROG Strix B650E-F Gaming WiFi",
+    "socket": "AM5",
+    "chipset": "B650E",
+    "formFactor": "ATX",
+    "price": 280
+  },
+  {
+    "id": "msi-mpg-b650-edge",
+    "brand": "AMD",
+    "name": "MSI MPG B650 Edge WiFi",
+    "socket": "AM5",
+    "chipset": "B650",
+    "formFactor": "ATX",
+    "price": 230
+  },
+  {
+    "id": "gigabyte-x670e-aorus-master",
+    "brand": "AMD",
+    "name": "Gigabyte X670E Aorus Master",
+    "socket": "AM5",
+    "chipset": "X670E",
+    "formFactor": "ATX",
+    "price": 420
+  },
+  {
+    "id": "asus-prime-x870-p",
+    "brand": "AMD",
+    "name": "ASUS Prime X870-P WiFi",
+    "socket": "AM5",
+    "chipset": "X870",
+    "formFactor": "ATX",
+    "price": 260
+  },
+  {
+    "id": "msi-mag-x870-tomahawk",
+    "brand": "AMD",
+    "name": "MSI MAG X870 Tomahawk WiFi",
+    "socket": "AM5",
+    "chipset": "X870",
+    "formFactor": "ATX",
+    "price": 300
+  },
+  {
+    "id": "asrock-x870e-taichi",
+    "brand": "AMD",
+    "name": "ASRock X870E Taichi",
+    "socket": "AM5",
+    "chipset": "X870E",
+    "formFactor": "ATX",
+    "price": 500
+  },
+  {
+    "id": "gigabyte-a620m-gaming",
+    "brand": "AMD",
+    "name": "Gigabyte A620M Gaming X",
+    "socket": "AM5",
+    "chipset": "A620",
+    "formFactor": "mATX",
+    "price": 110
+  },
+  {
+    "id": "asus-rog-strix-b650e-i",
+    "brand": "AMD",
+    "name": "ASUS ROG Strix B650E-I Gaming WiFi",
+    "socket": "AM5",
+    "chipset": "B650E",
+    "formFactor": "ITX",
+    "price": 330
+  },
+  {
+    "id": "msi-pro-b660m-a",
+    "brand": "Intel",
+    "name": "MSI PRO B660M-A WiFi DDR4",
+    "socket": "LGA1700",
+    "chipset": "B660",
+    "formFactor": "mATX",
+    "price": 130
+  },
+  {
+    "id": "gigabyte-b660-ds3h",
+    "brand": "Intel",
+    "name": "Gigabyte B660 DS3H DDR4",
+    "socket": "LGA1700",
+    "chipset": "B660",
+    "formFactor": "ATX",
+    "price": 120
+  },
+  {
+    "id": "asus-prime-z690-p",
+    "brand": "Intel",
+    "name": "ASUS Prime Z690-P WiFi",
+    "socket": "LGA1700",
+    "chipset": "Z690",
+    "formFactor": "ATX",
+    "price": 200
+  },
+  {
+    "id": "asrock-b760m-pro-rs",
+    "brand": "Intel",
+    "name": "ASRock B760M Pro RS/D4",
+    "socket": "LGA1700",
+    "chipset": "B760",
+    "formFactor": "mATX",
+    "price": 130
+  },
+  {
+    "id": "asus-rog-strix-z790-e",
+    "brand": "Intel",
+    "name": "ASUS ROG Strix Z790-E Gaming WiFi II",
+    "socket": "LGA1700",
+    "chipset": "Z790",
+    "formFactor": "ATX",
+    "price": 450
+  },
+  {
+    "id": "asus-prime-b860-plus",
+    "brand": "Intel",
+    "name": "ASUS Prime B860-Plus WiFi",
+    "socket": "LGA1851",
+    "chipset": "B860",
+    "formFactor": "ATX",
+    "price": 200
+  },
+  {
+    "id": "msi-pro-b860m-a",
+    "brand": "Intel",
+    "name": "MSI PRO B860M-A WiFi",
+    "socket": "LGA1851",
+    "chipset": "B860",
+    "formFactor": "mATX",
+    "price": 180
+  },
+  {
+    "id": "asus-rog-strix-z890-a",
+    "brand": "Intel",
+    "name": "ASUS ROG Strix Z890-A Gaming WiFi",
+    "socket": "LGA1851",
+    "chipset": "Z890",
+    "formFactor": "ATX",
+    "price": 360
+  },
+  {
+    "id": "asrock-z890-taichi-ocf",
+    "brand": "Intel",
+    "name": "ASRock Z890 Taichi OCF",
+    "socket": "LGA1851",
+    "chipset": "Z890",
+    "formFactor": "ATX",
+    "price": 500
   }
 ]

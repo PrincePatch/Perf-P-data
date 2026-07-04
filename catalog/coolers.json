@@ -254,5 +254,197 @@
     "coolingW": 300,
     "price": 130.0,
     "brand": "be"
+  },
+  {
+    "id": "noctua-nh-d15s",
+    "name": "Noctua NH-D15S",
+    "kind": "Air",
+    "coolingW": 240,
+    "price": 90.0,
+    "brand": "Noctua"
+  },
+  {
+    "id": "noctua-nh-u14s",
+    "name": "Noctua NH-U14S",
+    "kind": "Air",
+    "coolingW": 200,
+    "price": 80.0,
+    "brand": "Noctua"
+  },
+  {
+    "id": "noctua-nh-l12s",
+    "name": "Noctua NH-L12S",
+    "kind": "Air",
+    "coolingW": 120,
+    "price": 60.0,
+    "brand": "Noctua"
+  },
+  {
+    "id": "be-quiet-dark-rock-elite",
+    "name": "be quiet! Dark Rock Elite",
+    "kind": "Air",
+    "coolingW": 280,
+    "price": 110.0,
+    "brand": "be"
+  },
+  {
+    "id": "be-quiet-dark-rock-pro-4",
+    "name": "be quiet! Dark Rock Pro 4",
+    "kind": "Air",
+    "coolingW": 250,
+    "price": 90.0,
+    "brand": "be"
+  },
+  {
+    "id": "be-quiet-shadow-rock-3",
+    "name": "be quiet! Shadow Rock 3",
+    "kind": "Air",
+    "coolingW": 190,
+    "price": 55.0,
+    "brand": "be"
+  },
+  {
+    "id": "deepcool-ak500",
+    "name": "DeepCool AK500",
+    "kind": "Air",
+    "coolingW": 220,
+    "price": 45.0,
+    "brand": "DeepCool"
+  },
+  {
+    "id": "deepcool-assassin-iv",
+    "name": "DeepCool Assassin IV",
+    "kind": "Air",
+    "coolingW": 280,
+    "price": 100.0,
+    "brand": "DeepCool"
+  },
+  {
+    "id": "thermalright-frost-commander-140",
+    "name": "Thermalright Frost Commander 140",
+    "kind": "Air",
+    "coolingW": 260,
+    "price": 55.0,
+    "brand": "Thermalright"
+  },
+  {
+    "id": "thermalright-assassin-king-120-se",
+    "name": "Thermalright Assassin King 120 SE",
+    "kind": "Air",
+    "coolingW": 200,
+    "price": 25.0,
+    "brand": "Thermalright"
+  },
+  {
+    "id": "cooler-master-hyper-212-halo",
+    "name": "Cooler Master Hyper 212 Halo",
+    "kind": "Air",
+    "coolingW": 150,
+    "price": 45.0,
+    "brand": "Cooler"
+  },
+  {
+    "id": "arctic-freezer-36-co",
+    "name": "Arctic Freezer 36 CO",
+    "kind": "Air",
+    "coolingW": 210,
+    "price": 40.0,
+    "brand": "Arctic"
+  },
+  {
+    "id": "arctic-liquid-freezer-iii-420",
+    "name": "Arctic Liquid Freezer III 420",
+    "kind": "AIO 420",
+    "coolingW": 350,
+    "price": 130.0,
+    "brand": "Arctic"
+  },
+  {
+    "id": "nzxt-kraken-280",
+    "name": "NZXT Kraken 280",
+    "kind": "AIO 280",
+    "coolingW": 300,
+    "price": 150.0,
+    "brand": "NZXT"
+  },
+  {
+    "id": "nzxt-kraken-elite-420",
+    "name": "NZXT Kraken Elite 420",
+    "kind": "AIO 420",
+    "coolingW": 360,
+    "price": 320.0,
+    "brand": "NZXT"
+  },
+  {
+    "id": "corsair-icue-h115i-elite",
+    "name": "Corsair iCUE H115i Elite",
+    "kind": "AIO 280",
+    "coolingW": 290,
+    "price": 160.0,
+    "brand": "Corsair"
+  },
+  {
+    "id": "corsair-icue-h170i-elite",
+    "name": "Corsair iCUE H170i Elite",
+    "kind": "AIO 420",
+    "coolingW": 360,
+    "price": 260.0,
+    "brand": "Corsair"
+  },
+  {
+    "id": "corsair-icue-link-titan-360",
+    "name": "Corsair iCUE Link Titan 360 RX",
+    "kind": "AIO 360",
+    "coolingW": 340,
+    "price": 200.0,
+    "brand": "Corsair"
+  },
+  {
+    "id": "lian-li-galahad-ii-lcd-280",
+    "name": "Lian Li Galahad II LCD 280",
+    "kind": "AIO 280",
+    "coolingW": 300,
+    "price": 140.0,
+    "brand": "Lian"
+  },
+  {
+    "id": "lian-li-hydroshift-lcd-360",
+    "name": "Lian Li Hydroshift LCD 360",
+    "kind": "AIO 360",
+    "coolingW": 340,
+    "price": 180.0,
+    "brand": "Lian"
+  },
+  {
+    "id": "deepcool-ls720",
+    "name": "DeepCool LS720",
+    "kind": "AIO 360",
+    "coolingW": 350,
+    "price": 120.0,
+    "brand": "DeepCool"
+  },
+  {
+    "id": "msi-mag-coreliquid-e360",
+    "name": "MSI MAG CoreLiquid E360",
+    "kind": "AIO 360",
+    "coolingW": 330,
+    "price": 130.0,
+    "brand": "MSI"
+  },
+  {
+    "id": "thermalright-frozen-notte-360",
+    "name": "Thermalright Frozen Notte 360 ARGB",
+    "kind": "AIO 360",
+    "coolingW": 340,
+    "price": 70.0,
+    "brand": "Thermalright"
+  },
+  {
+    "id": "be-quiet-silent-loop-3-360",
+    "name": "be quiet! Silent Loop 3 360",
+    "kind": "AIO 360",
+    "coolingW": 340,
+    "price": 150.0,
+    "brand": "be"
   }
 ]

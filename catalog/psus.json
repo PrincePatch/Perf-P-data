@@ -238,5 +238,197 @@
     "rating": "80+ Gold",
     "price": 210.0,
     "brand": "ASUS"
+  },
+  {
+    "id": "be-quiet-system-power-10-450w",
+    "name": "be quiet! System Power 10 450W",
+    "watt": 450,
+    "rating": "80+ Bronze",
+    "price": 50.0,
+    "brand": "be"
+  },
+  {
+    "id": "corsair-cx550",
+    "name": "Corsair CX550",
+    "watt": 550,
+    "rating": "80+ Bronze",
+    "price": 60.0,
+    "brand": "Corsair"
+  },
+  {
+    "id": "corsair-cx750",
+    "name": "Corsair CX750",
+    "watt": 750,
+    "rating": "80+ Bronze",
+    "price": 85.0,
+    "brand": "Corsair"
+  },
+  {
+    "id": "corsair-rm650x",
+    "name": "Corsair RM650x",
+    "watt": 650,
+    "rating": "80+ Gold",
+    "price": 110.0,
+    "brand": "Corsair"
+  },
+  {
+    "id": "corsair-hx850",
+    "name": "Corsair HX850",
+    "watt": 850,
+    "rating": "80+ Platinum",
+    "price": 180.0,
+    "brand": "Corsair"
+  },
+  {
+    "id": "corsair-hx1200",
+    "name": "Corsair HX1200",
+    "watt": 1200,
+    "rating": "80+ Platinum",
+    "price": 250.0,
+    "brand": "Corsair"
+  },
+  {
+    "id": "corsair-sf750",
+    "name": "Corsair SF750",
+    "watt": 750,
+    "rating": "80+ Platinum",
+    "price": 160.0,
+    "brand": "Corsair"
+  },
+  {
+    "id": "seasonic-focus-gx-550",
+    "name": "Seasonic Focus GX-550",
+    "watt": 550,
+    "rating": "80+ Gold",
+    "price": 90.0,
+    "brand": "Seasonic"
+  },
+  {
+    "id": "seasonic-focus-gx-1000",
+    "name": "Seasonic Focus GX-1000",
+    "watt": 1000,
+    "rating": "80+ Gold",
+    "price": 165.0,
+    "brand": "Seasonic"
+  },
+  {
+    "id": "seasonic-prime-tx-850",
+    "name": "Seasonic Prime TX-850",
+    "watt": 850,
+    "rating": "80+ Titanium",
+    "price": 220.0,
+    "brand": "Seasonic"
+  },
+  {
+    "id": "seasonic-vertex-gx-1000",
+    "name": "Seasonic Vertex GX-1000",
+    "watt": 1000,
+    "rating": "80+ Gold",
+    "price": 180.0,
+    "brand": "Seasonic"
+  },
+  {
+    "id": "be-quiet-pure-power-12-m-550w",
+    "name": "be quiet! Pure Power 12 M 550W",
+    "watt": 550,
+    "rating": "80+ Gold",
+    "price": 80.0,
+    "brand": "be"
+  },
+  {
+    "id": "be-quiet-pure-power-12-m-850w",
+    "name": "be quiet! Pure Power 12 M 850W",
+    "watt": 850,
+    "rating": "80+ Gold",
+    "price": 130.0,
+    "brand": "be"
+  },
+  {
+    "id": "be-quiet-straight-power-12-1000w",
+    "name": "be quiet! Straight Power 12 1000W",
+    "watt": 1000,
+    "rating": "80+ Platinum",
+    "price": 190.0,
+    "brand": "be"
+  },
+  {
+    "id": "be-quiet-dark-power-13-850w",
+    "name": "be quiet! Dark Power 13 850W",
+    "watt": 850,
+    "rating": "80+ Titanium",
+    "price": 200.0,
+    "brand": "be"
+  },
+  {
+    "id": "msi-mag-a750gl",
+    "name": "MSI MAG A750GL PCIE5",
+    "watt": 750,
+    "rating": "80+ Gold",
+    "price": 90.0,
+    "brand": "MSI"
+  },
+  {
+    "id": "msi-mag-a850gl",
+    "name": "MSI MAG A850GL PCIE5",
+    "watt": 850,
+    "rating": "80+ Gold",
+    "price": 110.0,
+    "brand": "MSI"
+  },
+  {
+    "id": "msi-mpg-a1000g",
+    "name": "MSI MPG A1000G PCIE5",
+    "watt": 1000,
+    "rating": "80+ Gold",
+    "price": 150.0,
+    "brand": "MSI"
+  },
+  {
+    "id": "nzxt-c750-gold",
+    "name": "NZXT C750 Gold",
+    "watt": 750,
+    "rating": "80+ Gold",
+    "price": 110.0,
+    "brand": "NZXT"
+  },
+  {
+    "id": "nzxt-c1000-gold",
+    "name": "NZXT C1000 Gold",
+    "watt": 1000,
+    "rating": "80+ Gold",
+    "price": 150.0,
+    "brand": "NZXT"
+  },
+  {
+    "id": "asus-tuf-gaming-750w",
+    "name": "ASUS TUF Gaming 750W Gold",
+    "watt": 750,
+    "rating": "80+ Gold",
+    "price": 120.0,
+    "brand": "ASUS"
+  },
+  {
+    "id": "cooler-master-mwe-gold-850-v2",
+    "name": "Cooler Master MWE Gold 850 V2",
+    "watt": 850,
+    "rating": "80+ Gold",
+    "price": 120.0,
+    "brand": "Cooler"
+  },
+  {
+    "id": "thermaltake-toughpower-gf3-850w",
+    "name": "Thermaltake Toughpower GF3 850W",
+    "watt": 850,
+    "rating": "80+ Gold",
+    "price": 130.0,
+    "brand": "Thermaltake"
+  },
+  {
+    "id": "gigabyte-ud850gm",
+    "name": "Gigabyte UD850GM",
+    "watt": 850,
+    "rating": "80+ Gold",
+    "price": 100.0,
+    "brand": "Gigabyte"
   }
 ]

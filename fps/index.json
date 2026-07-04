@@ -1,0 +1,531 @@
+{
+  "generatedBy": "tool/gen_fps.dart — PerformanceEstimator (pur Dart)",
+  "note": "FPS = sortie du prédicteur Perf P (mêmes calculs que l'app en direct), calibré sur anchors mesurés. Lignes measuredRows = valeurs réelles mesurées. Le reste est une estimation modèle, pas un relevé de benchmark brut.",
+  "gpuCount": 93,
+  "gameCount": 83,
+  "referenceCpu": {
+    "id": "r7_9800x3d",
+    "name": "Ryzen 7 9800X3D"
+  },
+  "axes": {
+    "resolution": [
+      "1080",
+      "1440",
+      "2160"
+    ],
+    "preset": [
+      "low",
+      "medium",
+      "high",
+      "ultra"
+    ],
+    "toggles": [
+      "dq",
+      "dp",
+      "rt",
+      "fg"
+    ]
+  },
+  "totalRows": 92628,
+  "measuredRows": 0,
+  "games": [
+    {
+      "id": "ark-survival-ascended",
+      "name": "ARK: Survival Ascended",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "alan-wake-2",
+      "name": "Alan Wake 2",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "apex",
+      "name": "Apex Legends",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "ac-mirage",
+      "name": "Assassin's Creed Mirage",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "ac-shadows",
+      "name": "Assassin's Creed Shadows",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "bg3",
+      "name": "Baldur's Gate 3",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "black-myth-wukong",
+      "name": "Black Myth: Wukong",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "warzone",
+      "name": "Call of Duty: Warzone",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "cities-skylines-2",
+      "name": "Cities: Skylines II",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "cs2",
+      "name": "Counter-Strike 2",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "cyberpunk2077",
+      "name": "Cyberpunk 2077",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "dead-by-daylight",
+      "name": "Dead by Daylight",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "deep-rock-galactic",
+      "name": "Deep Rock Galactic",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "delta-force",
+      "name": "Delta Force",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "destiny2",
+      "name": "Destiny 2",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "diablo4",
+      "name": "Diablo IV",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "dota2",
+      "name": "Dota 2",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "dragons-dogma-2",
+      "name": "Dragon's Dogma 2",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "dying-light-2",
+      "name": "Dying Light 2 Stay Human",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "ea-fc-25",
+      "name": "EA Sports FC 25",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "eldenring",
+      "name": "Elden Ring",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "enshrouded",
+      "name": "Enshrouded",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "escape-from-tarkov",
+      "name": "Escape from Tarkov",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "fall-guys",
+      "name": "Fall Guys",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "ff7-rebirth",
+      "name": "Final Fantasy VII Rebirth",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "ffxiv",
+      "name": "Final Fantasy XIV Online",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "fortnite",
+      "name": "Fortnite",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "forza-horizon-5",
+      "name": "Forza Horizon 5",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "frostpunk-2",
+      "name": "Frostpunk 2",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "genshin-impact",
+      "name": "Genshin Impact",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "ghost-of-tsushima",
+      "name": "Ghost of Tsushima Director's Cut",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "god-of-war-ragnarok",
+      "name": "God of War Ragnarök",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "gta5",
+      "name": "Grand Theft Auto V",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "hades-2",
+      "name": "Hades II",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "halo-infinite",
+      "name": "Halo Infinite",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "helldivers2",
+      "name": "Helldivers 2",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "hogwarts",
+      "name": "Hogwarts Legacy",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "honkai-star-rail",
+      "name": "Honkai: Star Rail",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "horizon-forbidden-west",
+      "name": "Horizon Forbidden West",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "indiana-jones",
+      "name": "Indiana Jones and the Great Circle",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "kcd2",
+      "name": "Kingdom Come: Deliverance II",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "league-of-legends",
+      "name": "League of Legends",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "lethal-company",
+      "name": "Lethal Company",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "manor-lords",
+      "name": "Manor Lords",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "marvel-rivals",
+      "name": "Marvel Rivals",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "spiderman",
+      "name": "Marvel's Spider-Man Remastered",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "msfs2024",
+      "name": "Microsoft Flight Simulator 2024",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "minecraft",
+      "name": "Minecraft (Java)",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "monster-hunter-wilds",
+      "name": "Monster Hunter Wilds",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "no-mans-sky",
+      "name": "No Man's Sky",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "overwatch2",
+      "name": "Overwatch 2",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "pubg",
+      "name": "PUBG: Battlegrounds",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "palworld",
+      "name": "Palworld",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "poe2",
+      "name": "Path of Exile 2",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "phasmophobia",
+      "name": "Phasmophobia",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "rainbow-six-siege",
+      "name": "Rainbow Six Siege",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "ratchet-clank",
+      "name": "Ratchet & Clank: Rift Apart",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "rdr2",
+      "name": "Red Dead Redemption 2",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "re4-remake",
+      "name": "Resident Evil 4 (Remake)",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "returnal",
+      "name": "Returnal",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "rocket-league",
+      "name": "Rocket League",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "rust",
+      "name": "Rust",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "stalker2",
+      "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "satisfactory",
+      "name": "Satisfactory",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "sea-of-thieves",
+      "name": "Sea of Thieves",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "sekiro",
+      "name": "Sekiro: Shadows Die Twice",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "silent-hill-2",
+      "name": "Silent Hill 2",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "sons-of-the-forest",
+      "name": "Sons of the Forest",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "stardew-valley",
+      "name": "Stardew Valley",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "starfield",
+      "name": "Starfield",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "tf2",
+      "name": "Team Fortress 2",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "eso",
+      "name": "The Elder Scrolls Online",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "skyrim",
+      "name": "The Elder Scrolls V: Skyrim Special Edition",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "the-finals",
+      "name": "The Finals",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "tlou1",
+      "name": "The Last of Us Part I",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "witcher3",
+      "name": "The Witcher 3 (Next-Gen)",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "total-war-warhammer-3",
+      "name": "Total War: Warhammer III",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "valorant",
+      "name": "Valorant",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "war-thunder",
+      "name": "War Thunder",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "warframe",
+      "name": "Warframe",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "space-marine-2",
+      "name": "Warhammer 40,000: Space Marine 2",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "wow",
+      "name": "World of Warcraft",
+      "rows": 1116,
+      "measured": 0
+    },
+    {
+      "id": "wuthering-waves",
+      "name": "Wuthering Waves",
+      "rows": 1116,
+      "measured": 0
+    }
+  ]
+}

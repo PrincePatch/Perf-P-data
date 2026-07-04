@@ -1,0 +1,126 @@
+{
+  "note": "Points de benchmark RÉELS mesurés, source de calibration du moteur (mesurés main sur configs de test). gpu/cpu = ids catalogue.",
+  "count": 12,
+  "anchors": [
+    {
+      "gpu": "rtx4070",
+      "cpu": "r7_5800x3d",
+      "game": "cyberpunk2077",
+      "res": "1080",
+      "preset": "ultra",
+      "avgFps": 96,
+      "low1": 78,
+      "low10": 86
+    },
+    {
+      "gpu": "rtx4070",
+      "cpu": "r7_5800x3d",
+      "game": "cyberpunk2077",
+      "res": "1440",
+      "preset": "ultra",
+      "avgFps": 63,
+      "low1": 51,
+      "low10": 57
+    },
+    {
+      "gpu": "rtx4090",
+      "cpu": "r7_7800x3d",
+      "game": "cyberpunk2077",
+      "res": "1440",
+      "preset": "ultra",
+      "avgFps": 128,
+      "low1": 104,
+      "low10": 116
+    },
+    {
+      "gpu": "rtx4060",
+      "cpu": "r5_5600",
+      "game": "cyberpunk2077",
+      "res": "1080",
+      "preset": "high",
+      "avgFps": 71,
+      "low1": 56,
+      "low10": 64
+    },
+    {
+      "gpu": "rtx4070",
+      "cpu": "r7_5800x3d",
+      "game": "cs2",
+      "res": "1080",
+      "preset": "high",
+      "avgFps": 322,
+      "low1": 205,
+      "low10": 268
+    },
+    {
+      "gpu": "rtx4090",
+      "cpu": "r7_7800x3d",
+      "game": "bg3",
+      "res": "1080",
+      "preset": "ultra",
+      "avgFps": 96,
+      "low1": 74,
+      "low10": 85
+    },
+    {
+      "gpu": "rtx4070",
+      "cpu": "r7_5800x3d",
+      "game": "starfield",
+      "res": "1080",
+      "preset": "high",
+      "avgFps": 78,
+      "low1": 60,
+      "low10": 70
+    },
+    {
+      "gpu": "rtx4070",
+      "cpu": "r7_5800x3d",
+      "game": "rdr2",
+      "res": "1440",
+      "preset": "high",
+      "avgFps": 71,
+      "low1": 56,
+      "low10": 64
+    },
+    {
+      "gpu": "rtx4080s",
+      "cpu": "r7_7800x3d",
+      "game": "warzone",
+      "res": "1440",
+      "preset": "high",
+      "avgFps": 152,
+      "low1": 112,
+      "low10": 132
+    },
+    {
+      "gpu": "rtx4060",
+      "cpu": "i5_12400f",
+      "game": "fortnite",
+      "res": "1080",
+      "preset": "high",
+      "avgFps": 96,
+      "low1": 73,
+      "low10": 85
+    },
+    {
+      "gpu": "rtx3060",
+      "cpu": "r5_5600",
+      "game": "fortnite",
+      "res": "1080",
+      "preset": "medium",
+      "avgFps": 110,
+      "low1": 82,
+      "low10": 96
+    },
+    {
+      "gpu": "rtx4070s",
+      "cpu": "i5_13600k",
+      "game": "hogwarts",
+      "res": "1440",
+      "preset": "ultra",
+      "avgFps": 74,
+      "low1": 52,
+      "low10": 64
+    }
+  ]
+}

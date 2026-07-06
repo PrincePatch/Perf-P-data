@@ -8,7 +8,7 @@ permissions:
 jobs:
   refresh:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 80
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -20,10 +20,17 @@ jobs:
         run: python scraper/main.py --categories gpus,cpus --out-dir .
       - name: Telecharger les images produit
         run: python scraper/download_images.py --json gpus.json --images-dir images
+      - name: Restaurer les references d'images existantes
+        run: python scraper/restore_images.py --data-repo .
+      # Offres par composant de l'app (GPU/CPU/RAM/SSD/cartes meres/alims/
+      # boitiers) : prix constates multi-boutiques A JOUR a chaque execution.
+      # Les listes de composants vivent dans catalog/ (copie des assets app).
+      - name: Offres par composant (toutes categories)
+        run: python scraper/enrich_catalog.py --data-repo . --items-dir catalog
       - name: Commit data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add gpus.json cpus.json meta.json images || true
-          git diff --cached --quiet || git commit -m "data: refresh auto (prix+benchmarks+images)"
+          git add -A
+          git diff --cached --quiet || git commit -m "data: refresh auto (prix+offres+benchmarks+images)"
           git push

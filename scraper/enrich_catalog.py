@@ -78,12 +78,54 @@ def t_nom(it):
 
 
 CATEGORIES = {
+    # GPU/CPU par ID d'app (lot 13, item 5) : complète le fichier « par modèle »
+    # du scraper principal — sorties gpus_app.json / cpus_app.json.
+    "gpus": ("gpus", 1, "graphics-cards", q_nom, t_nom),
+    "cpus": ("cpus", 2, "processors", q_nom, t_nom),
     "rams": ("rams", 11, "memory-ram", q_ram, t_ram),
     "ssds": ("ssds", 4, "ssd", q_ssd, t_ssd),
     "mobos": ("mobos", 8, "motherboards", q_nom, t_nom),
     "psus": ("psus", 6, "power-supplies", q_nom, t_nom),
     "cases": ("cases", 7, "cases", q_nom, t_nom),
 }
+
+# Fichier de sortie par catégorie (GPU/CPU ne doivent PAS écraser les fichiers
+# « par modèle » gpus.json / cpus.json produits par main.py).
+SORTIES = {"gpus": "gpus_app.json", "cpus": "cpus_app.json"}
+
+# Suffixes de modèle discriminants : une offre « RTX 4070 Ti Super » ne doit
+# JAMAIS matcher le composant « RTX 4070 » (et « 7600X » ≠ « 7600 »).
+_SUFFIXES = {
+    "gpus": ["tisuper", "ti", "super", "xtx", "xt", "gre"],
+    "cpus": ["x3d", "ks", "kf", "x", "k", "f"],
+}
+
+
+def _suffixe_apres(norm, num, suffixes):
+    """Suffixe de modèle collé à [num] dans [norm] (ex. '4070tisuper' → 'tisuper')."""
+    i = norm.find(num)
+    if i < 0:
+        return None
+    reste = norm[i + len(num):]
+    for suf in suffixes:  # liste ordonnée du plus long au plus court
+        if reste.startswith(suf):
+            return suf
+    return ""
+
+
+def suffixe_ok(cat, nom_app, nom_offre):
+    """Vrai si l'offre porte EXACTEMENT le même suffixe de modèle que le
+    composant de l'app après chaque numéro de modèle (4070 vs 4070 Ti…)."""
+    suffixes = _SUFFIXES.get(cat)
+    if suffixes is None:
+        return True
+    napp, noff = _norm(nom_app), _norm(nom_offre)
+    for num in re.findall(r"\d{3,5}", nom_app):
+        attendu = _suffixe_apres(napp, num, suffixes)
+        trouve = _suffixe_apres(noff, num, suffixes)
+        if trouve is not None and trouve != attendu:
+            return False
+    return True
 
 
 def offres_pour(src, cat_id, slug, requete):
@@ -147,6 +189,12 @@ def principal():
     ap.add_argument("--data-repo", required=True)
     ap.add_argument("--only", default="")
     ap.add_argument("--limit", type=int, default=0)
+    # Dossier des listes de composants. Défaut : assets de l'app (exécution
+    # depuis le repo app) ; le CRON du dépôt de données passe `catalog/`
+    # (copie synchronisée des assets) → pipeline AUTONOME, prix à jour à
+    # chaque exécution planifiée (lot 13, item 5).
+    ap.add_argument("--items-dir",
+                    default=os.path.join(RACINE, "assets", "data"))
     args = ap.parse_args()
     seules = {c.strip() for c in args.only.split(",") if c.strip()}
     quand = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
@@ -156,7 +204,7 @@ def principal():
     for cat, (fichier, cat_id, slug, q_build, t_build) in CATEGORIES.items():
         if seules and cat not in seules:
             continue
-        with open(os.path.join(RACINE, "assets", "data", f"{fichier}.json"),
+        with open(os.path.join(args.items_dir, f"{fichier}.json"),
                   encoding="utf-8") as f:
             items = json.load(f)
         if args.limit:
@@ -177,7 +225,9 @@ def principal():
             except Exception as e:  # noqa: BLE001 — une requête ratée ne tue pas le run
                 print(f"  ! {cat}/{it['id']}: {e}", file=sys.stderr)
                 continue
-            offres = [o for o in brutes if correspond(o["product"], jetons)]
+            offres = [o for o in brutes
+                      if correspond(o["product"], jetons)
+                      and suffixe_ok(cat, it["name"], o["product"])]
             if not offres:
                 vide += 1
                 continue
@@ -204,7 +254,7 @@ def principal():
             ok += 1
             print(f"  + {cat}/{it['id']}: {len(offres)} offres, min {offres[0]['price']} €")
 
-        chemin = os.path.join(args.data_repo, f"{cat}.json")
+        chemin = os.path.join(args.data_repo, SORTIES.get(cat, f"{cat}.json"))
         with open(chemin, "w", encoding="utf-8") as f:
             json.dump(sortie, f, ensure_ascii=False, indent=1)
         print(f"{cat}: {ok} composants avec offres, {vide} sans correspondance "

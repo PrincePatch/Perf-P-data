@@ -80,6 +80,9 @@ def _offers_payload(offers: list[Offer], last_updated: str) -> list[dict]:
                 "url": o.url,
                 "inStock": o.in_stock,
                 "lastSeen": last_updated,
+                # Nom RÉEL du produit vendu (variante AIB : « ASUS TUF RTX 4070
+                # OC »…) — alimente le sélecteur de modèles de l'app (lot 10).
+                "product": o.product_name or None,
             }
         )
     return payload

@@ -32,6 +32,7 @@ RACINE = os.path.join(os.path.dirname(__file__), "..")
 
 # Catégories : (fichier assets, mot-clé de recherche).
 CATEGORIES = {
+    "gpus": ("gpus", "carte graphique"),
     "cpus": ("cpus", "processeur"),
     "mobos": ("mobos", "carte mère"),
     "rams": ("rams", "RAM"),

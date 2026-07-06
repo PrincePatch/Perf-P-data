@@ -31,16 +31,17 @@ categories:
     slug: graphics-cards
     schema: gpu
     enabled: true
-    max_products: 40        # nb max de modeles collectes par run (0 = illimite)
-    max_detail_pages: 12    # nb max de pages detail visitees (offres par magasin)
+    max_products: 60        # nb max de modeles collectes par run (0 = illimite)
+    max_detail_pages: 0     # 0 = TOUTES les pages detail (offres par magasin =
+                            # variantes AIB reelles pour le selecteur de modeles)
 
   - key: cpus
     id: 2
     slug: processors
     schema: cpu
     enabled: true
-    max_products: 40
-    max_detail_pages: 12
+    max_products: 60
+    max_detail_pages: 0
 
   - key: ssds
     id: 4

@@ -15,7 +15,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/1542674/scheda-video-amd-xfx-radeon-rx6400-swft105-gaming-",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Scheda Video Amd Xfx RADEON RX6400 SWFT105 GAMING DP/H SPEEDSTER SWFT105 RADEON RX 6400 Gaming 4GB [RX-64XL4SFG2]"
    },
    {
@@ -24,7 +24,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/1526235/xfx-speedster-swft105-radeon-rx-6400-grafikkarte-4",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "XFX Speedster SWFT105 Radeon RX 6400 Grafikkarte 4GB GDDR6 Low-Profile (RX-64XL4SFG2)"
    },
    {
@@ -33,7 +33,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3812087/xfx-speedster-swft105-radeon-rx-6400-gaming-carte-",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "XFX Speedster SWFT105 Radeon RX 6400 Gaming Carte Graphique avec 4GB GDDR6, AMD RDNA™ 2 (RX-64XL4SFG2)"
    },
    {
@@ -42,7 +42,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/4392753/xfx-rx-64xl4sfg2-carte-graphique-amd-radeon-rx-640",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "XFX RX-64XL4SFG2 carte graphique AMD Radeon RX 6400 4 Go GDDR6"
    },
    {
@@ -51,7 +51,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3193632/hp-carte-graphique-amd-radeon-rx-6400-4-go-dphdmi-",
     "inStock": false,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "HP Carte graphique AMD Radeon RX 6400 4 Go DP+HDMI (6Q3U4AA)"
    },
    {
@@ -60,14 +60,66 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/2175909/scheda-video-amd-hp-radeon-rx-6400-4gb-gddr6-6q3u4",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Scheda Video Amd Hp Radeon RX 6400 4GB GDDR6 [6Q3U4AA]"
    }
   ],
   "image": "images/amd-rx-6400.png",
   "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/amd-rx-6400",
-  "lastUpdated": "2026-07-06T12:02:39Z",
+  "lastUpdated": "2026-07-06T13:30:45Z",
   "imageSource": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/084/0191/0840191500169.png?signature=c66bf449db7f6b521b79832b25bec18e3385a4d8a85efab0355eafc3ab2a1517"
+ },
+ {
+  "id": "amd-rx-6500-xt",
+  "brand": "AMD",
+  "name": "AMD RX 6500 XT",
+  "index": 35.8,
+  "vramGb": 4,
+  "price": 152.0,
+  "tdp": 107,
+  "priceMin": 152.0,
+  "prices": [
+   {
+    "shop": "bpm-power.com",
+    "price": 152.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4077701/scheda-video-amd-powercolor-radeon-fighter-rx-6500",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Scheda Video Amd PowerColor Radeon Fighter RX 6500XT 4GB GDDR6 64bit Nero [AXRX 6500XT 4GBD6-DHV3]"
+   },
+   {
+    "shop": "jacob.de",
+    "price": 187.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4065172/powercolor-vga-powercolor-radeon-fighter-rx-6500xt",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PowerColor VGA PowerColor Radeon Fighter RX 6500XT 4GB GDDR6 V3 (AXRX 6500XT 4GBD6-DHV3)"
+   },
+   {
+    "shop": "codima.be",
+    "price": 195.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4288783/asrock-radeon-rx-6500-xt-phantom-gaming-d-4gb-oc",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "ASRock Radeon RX 6500 XT Phantom Gaming D 4GB OC"
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 239.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4389381/powercolor-radeon-rx-6500-xt-fighter-oc-4gb-gddr6-",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PowerColor Radeon RX 6500 XT Fighter OC 4GB GDDR6 Ray-Tracing Graphics Card, RDNA2, AMD FidelityFX, 1024 Streams Noir"
+   }
+  ],
+  "image": "images/amd-rx-6500-xt.png",
+  "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/amd-rx-6500-xt",
+  "lastUpdated": "2026-07-06T13:30:45Z",
+  "imageSource": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/471/3436/4713436175841.png?signature=8610251fb33d25b267140d94186bee70d21d7ef620158da4f2dc010a94159227"
  },
  {
   "id": "amd-rx-7600",
@@ -85,7 +137,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3470730/asus-dual-radeon-rx-7600-evo-oc-edition-8gb-gddr6-",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "ASUS Dual Radeon RX 7600 EVO OC Edition 8GB GDDR6 Gaming Graphics Card (AMD Radeon RX7600, PCIe 4.0, 1x HDMI 2.1, 3X DisplayPort 1.4a)"
    },
    {
@@ -94,7 +146,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3041979/asus-radeon-dual-rx-7600-o8g-v2-seconde-vie-parfai",
     "inStock": false,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Asus Radeon DUAL RX 7600 O8G V2-Seconde Vie-Parfait Etat"
    },
    {
@@ -103,7 +155,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/2978807/asus-radeon-dual-rx-7600-o8g-v2-seconde-vie-parfai",
     "inStock": false,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Asus Radeon DUAL RX 7600 O8G V2-Seconde Vie-Parfait Etat"
    },
    {
@@ -112,7 +164,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/4318042/scheda-video-amd-powercolor-radeon-rx-7600-fighter",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Scheda Video Amd PowerColor Radeon RX 7600 Fighter V2 8GB GDDR6 128bit Nero [RX 7600 8G-F/V2]"
    },
    {
@@ -121,7 +173,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3589689/xfx-vga-8gb-radeon-rx7600-speedster-swft210-core-g",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "XFX VGA 8GB Radeon RX7600 Speedster SWFT210 Core Gaming 3xDP/H"
    },
    {
@@ -130,7 +182,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/2435369/gigabyte-radeon-rx-7600-gaming-oc-gv-r76gaming-oc-",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Gigabyte Radeon RX 7600 Gaming OC (GV-R76GAMING OC-8GD)"
    },
    {
@@ -139,7 +191,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3581999/asus-dual-radeontm-rx-7600-evo-oc-edition-8-go-gdd",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "ASUS Dual Radeon™ RX 7600 Evo OC Edition 8 Go GDDR6 - Carte Graphique (PCIe® 4.0, HDMI® 2.1, DisplayPort™ 1.4a, Conception à 2,5 Slots, Ventilateur..."
    },
    {
@@ -148,7 +200,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/2526143/scheda-video-amd-gigabyte-radeon-rx-7600-gaming-8g",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Scheda Video Amd Gigabyte Radeon RX 7600 Gaming 8GB OC [GV-R76GAMING OC-8GD 1.0]"
    },
    {
@@ -157,7 +209,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/2427795/gigabyte-radeon-rx-7600-8gb-gaming-oc-carte-graphi",
     "inStock": false,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Gigabyte Radeon RX 7600 8GB Gaming OC - Carte graphique AMD"
    },
    {
@@ -166,7 +218,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3610024/gigabyte-gaming-radeon-rx-7600-oc-8g-amd-8-go-gddr",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Gigabyte GAMING Radeon RX 7600 OC 8G AMD 8 Go GDDR6"
    },
    {
@@ -175,7 +227,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/2456115/scheda-video-amd-sapphire-pulse-radeon-rx-7600-8gb",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Scheda video Amd Sapphire Pulse Radeon RX 7600 8GB Gaming GDDR6 (UEFI) [11324-01-20G]"
    },
    {
@@ -184,7 +236,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/4265237/powercolor-fighter-amd-radeon-rx-7600-8gb-gddr6",
     "inStock": false,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Powercolor Fighter AMD Radeon RX 7600 8GB GDDR6"
    },
    {
@@ -193,7 +245,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3018920/sap-11324-01-20g-sapphire-pulse-radeon-rx-7600-8gb",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "SAP 11324-01-20G - Sapphire Pulse Radeon RX 7600 8GB"
    },
    {
@@ -202,7 +254,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3601479/scheda-video-amd-asus-dual-radeon-rx-7600-evo-8gb-",
     "inStock": false,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Scheda Video Amd Asus Dual Radeon RX 7600 Evo 8GB GDDR6 128bit Nero [90YV0LD0-M0NA00]"
    },
    {
@@ -211,7 +263,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3601810/asus-radeon-rx-7600-8gb-dual-evo-oc-dual-rx7600-o8",
     "inStock": false,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Asus Radeon RX 7600 8GB Dual Evo OC - DUAL-RX7600-O8G-EVO - Carte graphique AMD"
    },
    {
@@ -220,7 +272,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3444891/asus-dual-radeon-rx-7600-evo-8gb-90yv0ld0-m0na00",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "ASUS Dual Radeon RX 7600 EVO 8GB (90YV0LD0-M0NA00)"
    },
    {
@@ -229,13 +281,13 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/2474099/scheda-video-amd-asrock-radeon-rx7600-challenger-1",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Scheda video Amd ASRock Radeon RX7600 Challenger 128 bits Nero [KGASRA706377002]"
    }
   ],
   "image": "images/amd-rx-7600.png",
   "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/amd-rx-7600",
-  "lastUpdated": "2026-07-06T12:02:39Z",
+  "lastUpdated": "2026-07-06T13:30:45Z",
   "imageSource": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/084/0191/0840191500725.png?signature=e852ecf39dbeed76022f028c7dfca1d8d802cd43f21dac41578cc9378499869a"
  },
  {
@@ -254,7 +306,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/4629426/sapphire-nitro-amd-radeontm-rx-7900-xtx-gaming-oc-",
     "inStock": false,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Sapphire Nitro+ AMD Radeon™ RX 7900 XTX Gaming OC Vapor-X 24GB GDDR6 Dual HDMI/Dual DP Full"
    },
    {
@@ -263,13 +315,13 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3407591/asus-tuf-gaming-radeon-rx-7900-xtx-oc-edition-cart",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "ASUS TUF GAMING Radeon RX 7900 XTX OC Edition – Carte graphique gaming (24GB GDDR6X, PCIe 4.0, HDMI 2.1a, DisplayPort 2.1, ventilateurs axiaux)"
    }
   ],
   "image": "images/amd-rx-7900-xtx.png",
   "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/amd-rx-7900-xtx",
-  "lastUpdated": "2026-07-06T12:02:39Z"
+  "lastUpdated": "2026-07-06T13:30:45Z"
  },
  {
   "id": "amd-rx-9060-xt",
@@ -287,7 +339,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/4182557/scheda-video-amd-sapphire-pulse-radeon-rx-9060-xt-",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Scheda video Amd Sapphire Pulse Radeon RX 9060 XT Gaming Dual UEFI 8GB GDDR6 128bit Nero [11350-05-20G]"
    },
    {
@@ -296,7 +348,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3900779/asrock-amd-radeon-rx-9060-xt-challenger-8gb-oc",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "ASRock AMD Radeon RX 9060 XT Challenger 8GB OC"
    },
    {
@@ -305,7 +357,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3900646/asrock-amd-radeon-rx-9060-xt-challenger-8gb-oc",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "ASRock AMD Radeon RX 9060 XT Challenger 8GB OC"
    },
    {
@@ -314,7 +366,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3900739/asrock-amd-radeon-rx-9060-xt-challenger-8gb-oc",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "ASRock AMD Radeon RX 9060 XT Challenger 8GB OC"
    },
    {
@@ -323,7 +375,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/4259038/gigabyte-radeon-rx-9060-xt-gaming-oc-8g",
     "inStock": false,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Gigabyte Radeon RX 9060 XT GAMING OC 8G"
    },
    {
@@ -332,7 +384,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3913347/asrock-radeon-rx-9060-xt-8gb-challenger-oc-rx9060x",
     "inStock": false,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "ASRock Radeon RX 9060 XT 8GB Challenger OC - RX9060XT CL 8GO - Carte graphique AMD"
    },
    {
@@ -341,7 +393,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/4021007/gigabyte-radeon-rx-9060-xt-gaming-oc-8g",
     "inStock": false,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Gigabyte Radeon RX 9060 XT GAMING OC 8G"
    },
    {
@@ -350,7 +402,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3901048/gigabyte-radeon-rx-9060-xt-gaming-oc-8g-graphics-c",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Gigabyte Radeon RX 9060 XT Gaming OC 8G Graphics Card - 8GB GDDR6, 128bit, PCI-E 5.0, 3320 MHz Core Clock, 2 x DisplayPort, 1 x HDMI, GV-R9060XTGAM..."
    },
    {
@@ -359,7 +411,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/4154602/sapphire-radeon-rx-9060xt-8gb-pulse-gaming-carte-g",
     "inStock": false,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Sapphire Radeon RX 9060XT 8GB Pulse Gaming - Carte graphique AMD"
    },
    {
@@ -368,7 +420,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3913348/powercolor-radeon-rx-9060-xt-8gb-reaper-carte-grap",
     "inStock": false,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "PowerColor Radeon RX 9060 XT 8GB Reaper - Carte graphique AMD"
    },
    {
@@ -377,7 +429,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3904500/gigabyte-radeon-rx-9060-xt-gaming-oc-8g-carte-grap",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "GIGABYTE Radeon RX 9060 XT Gaming OC 8G Carte Graphique - 8GB GDDR6, 128bit, PCI-E 5.0, 3320 MHz Fréquence du cœur, 2 x DisplayPort, 1 x HDMI, GV-R..."
    },
    {
@@ -386,7 +438,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3900649/gigabyte-radeon-rx-9060-xt-gaming-oc-8g",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Gigabyte Radeon RX 9060 XT GAMING OC 8G"
    },
    {
@@ -395,7 +447,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/4265254/powercolor-reaper-radeon-rx-9060-xt-8gb",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Powercolor Reaper Radeon RX 9060 XT 8GB"
    },
    {
@@ -404,7 +456,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/4077704/scheda-video-amd-gigabyte-radeon-rx-9060-xt-gaming",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Scheda video Amd Gigabyte Radeon RX 9060 XT Gaming OC 8GB GDDR6 128bit Nero [GV-R9060XTGAMING OC-8GD]"
    },
    {
@@ -413,7 +465,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/4360734/asrock-radeon-rx-9060-xt-steel-legend-oc-8gb-carte",
     "inStock": false,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "ASRock Radeon RX 9060 XT STEEL LEGEND OC 8GB, Carte graphique"
    },
    {
@@ -422,7 +474,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/4161693/sapphire-radeon-rx9060xt-pulse-gaming-gddr6-2xhdmi",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Sapphire Radeon RX9060XT Pulse Gaming GDDR6 2xHDMI DP - 8.192 MB (11350-05-20G)"
    },
    {
@@ -431,7 +483,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3900782/gigabyte-radeon-rx-9060-xt-gaming-oc-8g",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Gigabyte Radeon RX 9060 XT GAMING OC 8G"
    },
    {
@@ -440,7 +492,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/4077736/scheda-video-amd-sapphire-radeon-rx-9060-xt-pulse-",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Scheda Video Amd Sapphire Radeon RX 9060 XT Pulse Gaming 8GB GDDR6 128bit Nero [11350-04-20G]"
    },
    {
@@ -449,7 +501,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3908530/sapphire-radeon-rx9060xt-pulse-gaming-oc-8gbgddr6-",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Sapphire Radeon RX9060XT Pulse Gaming OC 8GBGDDR6 2xHDMI DP (11350-04-20G)"
    },
    {
@@ -458,13 +510,13 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3913329/pcg-75988-powercolor-rx-9060-xt-reaper-8-gb",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "PCG 75988 - PowerColor RX 9060 XT Reaper 8 GB"
    }
   ],
   "image": "images/amd-rx-9060-xt.png",
   "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/amd-rx-9060-xt",
-  "lastUpdated": "2026-07-06T12:02:39Z",
+  "lastUpdated": "2026-07-06T13:30:45Z",
   "imageSource": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/489/5106/4895106297333.png?signature=ef6baac942547e9ddc9fe1a97bf56b68b75531f32c95b9397ddbf6089937c832"
  },
  {
@@ -483,17 +535,17 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/4307915/asus-prime-radeon-rx-9070-evo-oc-edition-16gb-gddr",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Asus Prime Radeon RX 9070 EVO OC Edition 16GB GDDR6"
    },
    {
     "shop": "cybertek.fr",
     "price": 550.0,
     "currency": "EUR",
-    "url": "https://www.gputracker.eu/si-click/1/3702543/asus-prime-radeon-rx-9070-oc-edition-16gb-gddr6",
+    "url": "https://www.gputracker.eu/si-click/1/4307945/asus-prime-radeon-rx-9070-evo-oc-edition-16gb-gddr",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
-    "product": "Asus Prime Radeon RX 9070 OC Edition 16GB GDDR6"
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Asus Prime Radeon RX 9070 EVO OC Edition 16GB GDDR6"
    },
    {
     "shop": "bpm-power.com",
@@ -501,7 +553,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/4671636/scheda-video-sapphire-pulse-amd-radeon-rx-9070-gre",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Scheda Video Sapphire Pulse AMD Radeon RX 9070 Gre Gaming OC 12GB GDDR6 192bit Nero [11354-01-20G]"
    },
    {
@@ -510,7 +562,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/4700491/asus-prime-radeon-rx-9070-gre-oc-edition-gaming-gr",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "ASUS Prime Radeon RX 9070 GRE OC Edition Gaming Graphics Card (AMD Radeon RX 9070, PCIe 5.0, HDMI/DP 2.1, Dual BIOS Switch, Axial Tech Fan, 2.5 Slo..."
    },
    {
@@ -519,7 +571,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/4664619/sapphire-pulse-rx-9070-gre-oc-carte-graphique",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "SAPPHIRE PULSE RX 9070 GRE OC, Carte graphique"
    },
    {
@@ -528,7 +580,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/4664591/sapphire-pulse-amd-rx-9070-gre-oc-12go",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Sapphire Pulse AMD RX 9070 GRE OC 12Go"
    },
    {
@@ -537,17 +589,8 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/4664585/sapphire-pulse-amd-rx-9070-gre-oc-12go",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Sapphire Pulse AMD RX 9070 GRE OC 12Go"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 570.0,
-    "currency": "EUR",
-    "url": "https://www.gputracker.eu/si-click/1/4664506/sapphire-pulse-amd-radeon-rx-9070-gre-gaming-oc-12",
-    "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
-    "product": "Sapphire PULSE AMD Radeon RX 9070 GRE Gaming OC 12GB"
    },
    {
     "shop": "materiel.net",
@@ -555,8 +598,17 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/4663518/sapphire-pulse-amd-radeon-rx-9070-gre",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Sapphire PULSE AMD Radeon RX 9070 GRE"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 570.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4664506/sapphire-pulse-amd-radeon-rx-9070-gre-gaming-oc-12",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Sapphire PULSE AMD Radeon RX 9070 GRE Gaming OC 12GB"
    },
    {
     "shop": "rueducommerce.fr",
@@ -564,7 +616,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/4670176/sapphire-pulse-amd-radeon-rx-9070-gre-gaming-oc-12",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Sapphire PULSE AMD Radeon RX 9070 GRE Gaming OC 12GB"
    },
    {
@@ -573,7 +625,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/4688146/asus-prime-radeon-rx-9070-gre-oc-edition-12gb-gddr",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Asus Prime Radeon RX 9070 GRE OC Edition 12GB GDDR6"
    },
    {
@@ -582,7 +634,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/4668877/sapphire-vga-12gb-rx9070gre-pulse-gaming-oc-2xhdmi",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Sapphire VGA 12GB RX9070GRE PULSE GAMING OC 2xHDMI/2xDP PULSE AMD RADEON RX 9070 GRE GAMING OC 12GB DUAL H (11354-01-20G)"
    },
    {
@@ -591,7 +643,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/4700441/vga-gigabyte-radeon-rx-9070-gre-gaming-12gb-oc-gv-",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "VGA Gigabyte Radeon RX 9070 GRE GAMING 12GB OC (GV-R907GREGAMING OC-12GD)"
    },
    {
@@ -600,7 +652,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/4727472/gigabyte-radeon-rx-9070-gre-gaming-oc-12g-carte-gr",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "GIGABYTE Radeon RX 9070 GRE Gaming OC 12G – Carte Graphique, 12GB GDDR6, 192bit, PCI-E 5.0, 2920 MHz Core Clock, 2 × DisplayPort, 2 × HDMI, GV-R907..."
    },
    {
@@ -609,7 +661,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/4495688/gigabyte-radeon-rx-9070-gaming-16gb-graphics-card-",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Gigabyte Radeon RX 9070 Gaming 16GB Graphics Card - 16GB GDDR6, 256bit, PCI-E 5.0, 2520 MHz Core Clock, 2 x DisplayPort, 2 x HDMI, GV-R9070GAMING-16GD"
    },
    {
@@ -618,13 +670,13 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/4681845/gigabyte-radeon-rx-9070-gre-gaming-oc-12g",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Gigabyte Radeon RX 9070 GRE GAMING OC 12G"
    }
   ],
   "image": "images/amd-rx-9070.png",
   "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/amd-rx-9070",
-  "lastUpdated": "2026-07-06T12:02:39Z",
+  "lastUpdated": "2026-07-06T13:30:45Z",
   "imageSource": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/471/1636/4711636204101.png?signature=ca312f03256e579f86d0450ca27eefff828fc2c4c4aa195012652d0dcb2a56b7"
  },
  {
@@ -643,7 +695,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/4324606/gigabyte-radeon-rx-9070-xt-gaming-16g",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Gigabyte Radeon RX 9070 XT GAMING 16G"
    },
    {
@@ -652,7 +704,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3702642/asus-prime-radeon-rx-9070-xt-oc-edition-16gb-gddr6",
     "inStock": false,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Asus Prime Radeon RX 9070 XT OC Edition 16GB GDDR6"
    },
    {
@@ -661,7 +713,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3702547/asus-prime-radeon-rx-9070-xt-oc-edition-16gb-gddr6",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Asus Prime Radeon RX 9070 XT OC Edition 16GB GDDR6"
    },
    {
@@ -670,7 +722,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/4326622/gigabyte-radeon-rx-9070-xt-gaming-oc-ice-16g-graph",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Gigabyte Radeon RX 9070 XT Gaming OC Ice 16G Graphics Card - 16GB GDDR6, 256bit, PCI-E 5.0, 3060 MHz Core Clock, 2 x DisplayPort, 2 x HDMI, GV-R907..."
    },
    {
@@ -679,7 +731,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3702444/asus-prime-radeon-rx-9070-xt-oc-edition-16gb-gddr6",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "ASUS Prime Radeon RX 9070 XT OC Edition 16GB GDDR6 Gaming Graphics Card (AMD Radeon RX9070XT, PCIe 5.0, 1x HDMI 2.1b, 3X DisplayPort 2.1a, 2.5 Slot..."
    },
    {
@@ -688,7 +740,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3758768/gigabyte-radeon-rx-9070-xt-gaming-oc-16g-graphics-",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Gigabyte Radeon RX 9070 XT Gaming OC 16G Graphics Card - 16 GB GDDR6, 256 Bit, PCI-E 5.0, 3060 MHz Core Frequency, 2 x DisplayPort, 2 x HDMI, GV-R9..."
    },
    {
@@ -697,7 +749,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/4189273/gigabyte-radeon-rx-9070-xt-gaming-16g-graphics-car",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Gigabyte Radeon RX 9070 XT Gaming 16G Graphics Card - 16GB GDDR6, 256-Bit, PCI-E 5.0, 2970MHz Core Frequency, 2 x DisplayPort 2.1a, 2 x HDMI 2.1b, ..."
    },
    {
@@ -706,7 +758,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3702573/gigabyte-radeon-rx-9070-xt-gaming-oc-16g",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Gigabyte Radeon RX 9070 XT GAMING OC 16G"
    },
    {
@@ -715,7 +767,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3754771/gigabyte-radeon-rx-9070-xt-gaming-oc-16g",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Gigabyte Radeon RX 9070 XT GAMING OC 16G"
    },
    {
@@ -724,7 +776,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/4725021/gigabyte-radeon-rx-9070-xt-gaming-oc-16g-graphics-",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "GIGABYTE Radeon RX 9070 XT Gaming OC 16G Graphics Card, PCIe 5.0, 16GB GDDR6, GV-R9070XTGAMING OC-16GD Graphics Card"
    },
    {
@@ -733,7 +785,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/4313972/gigabyte-radeon-rx-9070-xt-gaming-oc-ice-16g-carte",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "GIGABYTE Radeon RX 9070 XT Gaming OC Ice 16G Carte Graphique - 16GB GDDR6, 256bit, PCI-E 5.0, 3060 MHz Fréquence du cœur, 2 x DisplayPort, 2 x HDMI..."
    },
    {
@@ -742,7 +794,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/4316129/gigabyte-radeon-rx-9070-xt-gaming-16g",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Gigabyte Radeon RX 9070 XT GAMING 16G"
    },
    {
@@ -751,7 +803,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/4278277/gigabyte-radeon-rx-9070-xt-gaming-oc-ice-16g",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Gigabyte Radeon RX 9070 XT GAMING OC ICE 16G"
    },
    {
@@ -760,7 +812,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/4362079/scheda-grafica-asrock-90-ga61zz-00uanf-radeon-rx-9",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Scheda Grafica ASRock 90-GA61ZZ-00UANF Radeon RX 9070 XT 16 GB GDDR6"
    },
    {
@@ -769,7 +821,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/4396431/xfx-swift-amd-radeon-rx-9070xt-triple-fan-gaming-e",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "XFX Swift AMD Radeon RX 9070XT Triple Fan Gaming Edition"
    },
    {
@@ -778,7 +830,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3702598/gigabyte-radeon-rx-9070-xt-gaming-oc-16g",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Gigabyte Radeon RX 9070 XT GAMING OC 16G"
    },
    {
@@ -787,7 +839,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/4294627/asrock-amd-radeon-rx-9070-xt-challenger-16gb",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "ASRock AMD Radeon RX 9070 XT Challenger 16GB"
    },
    {
@@ -796,7 +848,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3704722/scheda-video-amd-gigabyte-radeon-rx-9070-xt-gaming",
     "inStock": false,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Scheda Video Amd Gigabyte Radeon RX 9070 XT GAMING OC 16GB [GV-R9070XTGAMING OC-16GD]"
    },
    {
@@ -805,13 +857,13 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3810327/xfx-radeon-rx-9070-xt-swift-carte-graphique",
     "inStock": false,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "XFX Radeon RX 9070 XT Swift, Carte graphique"
    }
   ],
   "image": "images/amd-rx-9070-xt.png",
   "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/amd-rx-9070-xt",
-  "lastUpdated": "2026-07-06T12:02:39Z",
+  "lastUpdated": "2026-07-06T13:30:45Z",
   "imageSource": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/471/9331/4719331356149.png?signature=1203855a7e1132ec61e25448fbfc21c997ca94c1430c7bed50931a91d9cfcf66"
  },
  {
@@ -830,7 +882,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/4186716/asrock-intel-arc-a310-low-profile-4gb-90-g4nzz-00u",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Asrock Intel Arc A310 Low Profile 4GB (90-G4NZZ-00UANF)"
    },
    {
@@ -839,7 +891,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/4383601/asrock-intel-arc-a310-low-profile-4gb-4-go-gddr6",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Asrock Intel Arc A310 Low Profile 4GB 4 Go GDDR6"
    },
    {
@@ -848,7 +900,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3601478/scheda-video-intel-sparkle-intel-arc-a310-4gb-omni",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Scheda Video Intel Sparkle Intel Arc A310 4GB Omni View GDDR6 4x HDMI Nero [SA310F-4G]"
    },
    {
@@ -857,7 +909,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3598852/sparkle-intel-arc-a310-eco-4-go-gddr6-50-w-tbp-pro",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Sparkle Intel Arc A310 ECO, 4 Go GDDR6, 50 W TBP, Profil Bas, Ventilateur Unique, Fente Unique, HDMI x1, Mini DisplayPort x2, SA310L-4G"
    },
    {
@@ -866,7 +918,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3211415/scheda-video-sparkle-sa310c-4g-a310-eco-4gb-gddr6-",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Scheda Video Sparkle SA310C-4G A310 Eco 4GB GDDR6 64bit Blu [1A1-S00401900G]"
    },
    {
@@ -875,7 +927,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3577899/sparkle-intel-arc-a310-omni-view-4gb-gddr6-grafikk",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Sparkle Intel Arc A310 OMNI View 4GB GDDR6 Grafikkarte PCIe 4.0 x8 (SA310F-4G)"
    },
    {
@@ -884,13 +936,13 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3081023/sparkle-intel-arc-a310-4gb-eco-gddr6-vga-card-sa31",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "SPARKLE Intel ARC A310 4GB ECO GDDR6 VGA Card (SA310C-4G)"
    }
   ],
   "image": "images/intel-arc-a310.png",
   "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/intel-arc-a310",
-  "lastUpdated": "2026-07-06T12:02:39Z",
+  "lastUpdated": "2026-07-06T13:30:45Z",
   "imageSource": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/471/0483/4710483943867.png?signature=b2ebcc924c15f5bfba0929b344493858f67b1c77daa8ff558f5ca5b9b6152f8a"
  },
  {
@@ -909,7 +961,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/2289358/asrock-intel-arc-a380-challenger-itx-6go-oc-carte-",
     "inStock": false,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "ASRock Intel Arc A380 Challenger ITX 6Go OC, Carte graphique"
    },
    {
@@ -918,7 +970,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/2236698/asr-90ga3kzz-asrock-intel-arc-a380-challenger-itx-",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "ASR 90GA3KZZ - ASRock Intel Arc A380 Challenger ITX 6GB OC"
    },
    {
@@ -927,7 +979,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/2028556/scheda-video-asrock-intel-arc-a380-challenger-itx-",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Scheda Video Asrock Intel Arc A380 Challenger ITX 6GB OC [A380 CLI 6GO]"
    },
    {
@@ -936,7 +988,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3178732/scheda-video-intel-sparkle-intel-arc-a380-elf-6gb-",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Scheda Video Intel Sparkle Intel Arc A380 ELF 6GB GDDR6 96bit Blu [SA380E-6G]"
    },
    {
@@ -945,7 +997,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/2084178/asrock-challenger-itx-arc-a380-6gb-oc-grafikkarte-",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "ASRock Challenger ITX Arc A380 6GB OC Grafikkarte - 6GB GDDR6, PCIe 4.0 x8, HDMI + 3x DP (90-GA3KZZ-00UANF)"
    },
    {
@@ -954,7 +1006,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/2671983/sparkle-technology-intel-arc-a380-elf-sa380e-6g",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Sparkle Technology Intel Arc A380 ELF (SA380E-6G)"
    },
    {
@@ -963,13 +1015,13 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3867635/asrock-challenger-intel-arc-a380-itx-6gb-oc-6-go-g",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Asrock Challenger Intel Arc A380 ITX 6GB OC 6 Go GDDR6"
    }
   ],
   "image": "images/intel-arc-a380.png",
   "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/intel-arc-a380",
-  "lastUpdated": "2026-07-06T12:02:39Z",
+  "lastUpdated": "2026-07-06T13:30:45Z",
   "imageSource": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/471/0483/4710483939365.png?signature=602d6231c701794a88a02e2bc89cc40a96d75a6031223abd16c8bcf61429c99a"
  },
  {
@@ -987,8 +1039,8 @@
     "price": 211.0,
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3309239/scheda-video-intel-sparkle-intel-arc-a750-titan-oc",
-    "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Scheda Video Intel Sparkle Intel Arc A750 Titan OC 8GB GDDR6 256bit Blu [SA750T-8GOC]"
    },
    {
@@ -997,7 +1049,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3852622/asrock-intel-arc-a750-cl-se-8go-8gb-gddr6-2xhdmi-2",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "ASRock Intel Arc A750 CL SE 8GO 8GB GDDR6 2xHDMI/ 2xDP"
    },
    {
@@ -1006,7 +1058,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3666850/scheda-video-asrock-intel-arc-a750-8gb-challenger-",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Scheda Video ASRock Intel ARC A750 8GB Challenger SE OC [A750 CL SE 8GO]"
    },
    {
@@ -1015,7 +1067,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3967368/asrock-intel-arc-a750-challenger-se-8gb-oc-carte-g",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "ASRock Intel Arc A750 Challenger SE 8GB OC, Carte graphique"
    },
    {
@@ -1024,7 +1076,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3699065/asr-90ga5azz-asrock-intel-arc-a750-challenger-se-8",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "ASR 90GA5AZZ - ASRock Intel Arc A750 Challenger SE 8 GB OC"
    },
    {
@@ -1033,7 +1085,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/2666641/sparkle-intel-a750-titan-oc-triple-fan-8gb-vga-car",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "SPARKLE Intel A750 Titan OC Triple Fan 8GB VGA Card retail (SA750T-800C)"
    },
    {
@@ -1042,7 +1094,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3968434/asrock-tarjeta-grafica-arc-a750-challenger-se-8gb-",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "ASRock Tarjeta Gráfica Arc A750 Challenger SE 8GB GDDR6 Dual HDMI/DP OC"
    },
    {
@@ -1051,17 +1103,8 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3675247/asrock-intel-arc-a750-challenger-se-8go-intel-vga-",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "ASROCK Intel ARC A750 Challenger SE 8GO Intel VGA Card retail"
-   },
-   {
-    "shop": "bpm-power.com",
-    "price": 234.0,
-    "currency": "EUR",
-    "url": "https://www.gputracker.eu/si-click/1/3304389/scheda-video-intel-sparkle-arc-a750-roc-luna-edizi",
-    "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
-    "product": "Scheda Video Intel Sparkle Arc A750 Roc Luna Edizione OC 8GB GDDR6 2xventole Bianco [SA750RW-8GOC]"
    },
    {
     "shop": "jacob.de",
@@ -1069,13 +1112,13 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3577900/sparkle-intel-arc-a750-orc-luna-oc-dual-fan-8gb-re",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "SPARKLE Intel ARC A750 ORC Luna OC Dual Fan 8GB retail (SA750RW-8GO)"
    }
   ],
   "image": "images/intel-arc-a750.png",
   "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/intel-arc-a750",
-  "lastUpdated": "2026-07-06T12:02:39Z",
+  "lastUpdated": "2026-07-06T13:30:45Z",
   "imageSource": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/471/1342/4711342290115.png?signature=1d89b9e73f0b3ffcd75ab126a3e6ce665954a5d5663c63cae4d8ab3f729b61fd"
  },
  {
@@ -1094,7 +1137,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3699068/spark-sb580g-sparkle-intel-arc-b580-guardian-12-gb",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "SPARK SB580G - SPARKLE Intel Arc B580 GUARDIAN 12 GB"
    },
    {
@@ -1103,7 +1146,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/4265239/sparkle-intel-arc-b580-titan-luna-oc-12gb",
     "inStock": false,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Sparkle Intel Arc B580 TITAN Luna OC 12GB"
    },
    {
@@ -1112,7 +1155,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3699070/asr-90ga5lzz-asrock-intel-arc-b580-challenger-12-g",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "ASR 90GA5LZZ - ASRock Intel Arc B580 Challenger 12 GB OC"
    },
    {
@@ -1121,7 +1164,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3507466/asrock-intel-arc-b580-challenger-12go-oc-carte-gra",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "ASRock Intel® Arc B580 Challenger 12Go OC, Carte graphique"
    },
    {
@@ -1130,7 +1173,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3696503/scheda-video-intel-sparkle-arc-b580-12gb-guardian-",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Scheda Video Intel Sparkle ARC B580 12GB GUARDIAN (Battlemage Lineup) [SB580G-12G]"
    },
    {
@@ -1139,7 +1182,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3693912/sparkle-vga-sparkle-intel-arc-b580-12gb-guardian-b",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "SPARKLE VGA SPARKLE Intel ARC B580 12GB GUARDIAN (Battlemage Lineup) (SB580G-12G)"
    },
    {
@@ -1148,7 +1191,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/4265244/asrock-intel-arc-b580-steel-legend-12gb-oc",
     "inStock": false,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "ASRock Intel Arc B580 Steel Legend 12GB OC"
    },
    {
@@ -1157,8 +1200,17 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3853278/asrock-intel-arc-b580-challenger-12go-intel-vga-ca",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "ASRock Intel Arc B580 Challenger 12GO Intel VGA Card"
+   },
+   {
+    "shop": "bpm-power.com",
+    "price": 339.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3601634/scheda-video-intel-asrock-arc-b580-challenger-oc-1",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Scheda video Intel ASRock Arc B580 Challenger OC 12GB GDDR6 192bit Nero [90-GA5LZZ-00UANF]"
    },
    {
     "shop": "jacob.de",
@@ -1166,7 +1218,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/4202627/asrock-challenger-intel-arc-b580-12gb-oc-b580-cl-1",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "ASRock Challenger Intel Arc B580 12GB OC (B580 CL 12GO)"
    },
    {
@@ -1175,7 +1227,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3619763/asrock-intel-arc-b580-challenger-12gb-oc-12-go-gdd",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Asrock Intel Arc B580 Challenger 12GB OC 12 Go GDDR6"
    },
    {
@@ -1184,7 +1236,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3699075/asr-90ga5czz-asrock-intel-arc-b580-steel-legend-12",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "ASR 90GA5CZZ - ASRock Intel Arc B580 Steel Legend 12 GB OC"
    },
    {
@@ -1193,7 +1245,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/4629418/intel-arc-b580-battlemage-limited-edition-12gb-gdd",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Intel Arc B580 Battlemage Limited Edition 12GB GDDR6"
    },
    {
@@ -1202,7 +1254,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3601480/scheda-video-intel-sparkle-intel-arc-b580-12gb-tit",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Scheda Video Intel Sparkle Intel Arc B580 12GB Titan OC 2x ventola GDDR6 Blu [SB580T-12GOC]"
    },
    {
@@ -1211,7 +1263,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3613486/sparkle-arc-b580-titan-oc-12gb-gddr6-sb580t-12goc",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "SPARKLE Arc B580 TITAN OC 12GB GDDR6 (SB580T-12GOC)"
    },
    {
@@ -1220,17 +1272,8 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/4734970/weeliao-maxsun-intel-arc-b580-12g-icraft-carte-gra",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "WEELIAO MAXSUN Intel Arc B580 12G iCraft Carte graphique blanche, 2670 ~ 2850 MHz, 12 Go GDDR6, 192 bits, PCIE4.0, 1 HDMI2.1a, 3 DP2.1, 3 ventilateurs"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 390.0,
-    "currency": "EUR",
-    "url": "https://www.gputracker.eu/si-click/1/3488998/asrock-intel-arc-b580-challenger-12gb-oc",
-    "inStock": false,
-    "lastSeen": "2026-07-06T12:02:39Z",
-    "product": "ASRock Intel Arc B580 Challenger 12GB OC"
    },
    {
     "shop": "ldlc.com",
@@ -1238,7 +1281,16 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3488532/asrock-intel-arc-b580-challenger-12gb-oc",
     "inStock": false,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "ASRock Intel Arc B580 Challenger 12GB OC"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 390.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3488998/asrock-intel-arc-b580-challenger-12gb-oc",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "ASRock Intel Arc B580 Challenger 12GB OC"
    },
    {
@@ -1247,7 +1299,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3820602/sparkle-technology-intel-arc-b580-titan-oc-12-gb-g",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Sparkle Technology Intel Arc B580 Titan Oc 12 Gb Gddr6 (sparkle Arc B580 Titan Oc 12gb Gddr6)"
    },
    {
@@ -1256,22 +1308,13 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3810431/asrock-cartegraphique-intelarcb580steellegendoc12g",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "ASRock Carte+Graphique Intel+Arc+B580+Steel+Legend+OC+12Go"
-   },
-   {
-    "shop": "jacob.de",
-    "price": 657.0,
-    "currency": "EUR",
-    "url": "https://www.gputracker.eu/si-click/1/3563796/acer-nitro-arc-b580-oc-grafikkarte-12gb-gddr6-hdmi",
-    "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
-    "product": "Acer Nitro Arc B580 OC Grafikkarte - 12GB GDDR6, HDMI, DP, 2x DP (DP.Z4BWW.P01)"
    }
   ],
   "image": "images/intel-arc-b580.png",
   "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/intel-arc-b580",
-  "lastUpdated": "2026-07-06T12:02:39Z",
+  "lastUpdated": "2026-07-06T13:30:45Z",
   "imageSource": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/471/1342/4711342290924.png?signature=b58cd78d7d976d7cf4a6a6901c83ebcb34f896bd0bc0d19b2b23befbb3937184"
  },
  {
@@ -1290,7 +1333,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/4184118/zotac-geforce-rtx-4070-ti-super-solid-reconditionn",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "ZOTAC GeForce RTX 4070 Ti SUPER SOLID Reconditionné, Carte graphique"
    },
    {
@@ -1299,7 +1342,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3665140/asus-geforce-rtx-4070-ti-super-dual-oc-16gb-second",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Asus GeForce RTX 4070 TI SUPER Dual OC 16GB-Seconde Vie-Etat Satisfaisant"
    },
    {
@@ -1308,7 +1351,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3200302/gigabyte-geforce-rtx-4070-ti-super-gaming-oc-16g-s",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Gigabyte GeForce RTX 4070 Ti SUPER GAMING OC 16G-Seconde Vie-Etat Satisfaisant"
    },
    {
@@ -1317,7 +1360,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3200313/gigabyte-geforce-rtx-4070-ti-super-gaming-oc-16g-s",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Gigabyte GeForce RTX 4070 Ti SUPER GAMING OC 16G-Seconde Vie-Etat Satisfaisant"
    },
    {
@@ -1326,7 +1369,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3664984/asus-geforce-rtx-4070-ti-super-dual-oc-16gb-second",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Asus GeForce RTX 4070 TI SUPER Dual OC 16GB-Seconde Vie-Etat Satisfaisant"
    },
    {
@@ -1335,13 +1378,13 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/4195076/gainward-geforce-rtx-4070-ti-super-panther-oc-reco",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Gainward GeForce RTX 4070 Ti SUPER Panther OC Reconditionné, Carte graphique"
    }
   ],
   "image": null,
   "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/nvidia--rtx-4070-ti-super",
-  "lastUpdated": "2026-07-06T12:02:39Z"
+  "lastUpdated": "2026-07-06T13:30:45Z"
  },
  {
   "id": "nvidia-gt1030",
@@ -1359,7 +1402,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/4692069/msi-gc-v809-2825r-geforce-gt1030-2ghd4-lp-oc-retai",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "MSI GC V809-2825R GeForce GT1030 2GHD4 LP OC Retail (V809-2825R) (B-Ware)"
    },
    {
@@ -1368,7 +1411,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/4702617/carte-graphique-msi-geforce-gt-1030-4-go-gddr4-pci",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Carte graphique - MSI - GeForce GT 1030 - 4 Go GDDR4 - PCI Express 3.0 - Refroidissement actif"
    },
    {
@@ -1377,7 +1420,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/265609/scheda-video-nvidia-inno3d-gt1030-2gb-pci-edvihdmi",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Scheda Video nVidia Inno3D GT1030 2GB PCI-E,DVI,HDMI,passiva [N1030-1SDV-E5BL]"
    },
    {
@@ -1386,7 +1429,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/4724822/carte-graphique-msi-geforce-gt-1030-4-go-gddr4-pci",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Carte graphique - MSI - GeForce GT 1030 - 4 Go GDDR4 - PCI Express 3.0 - Refroidissement actif"
    },
    {
@@ -1395,7 +1438,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/2288074/innovision-inno3d-geforce-gt-1030-0db-n1030-1sdv-e",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "InnoVISION Inno3D GeForce GT 1030 0dB (N1030-1SDV-E5BL)"
    },
    {
@@ -1404,7 +1447,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/211863/asus-gt1030-sl-2g-brk-geforce-gt-1030-2-gb-gddr5-l",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "ASUS GT1030-SL-2G-BRK GeForce GT 1030 2 GB GDDR5 Low Profile Graphics Card for Silent HTPC Build (with I/O Port Brackets) - Black"
    },
    {
@@ -1413,7 +1456,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/288756/asus-geforce-gt-1030-2g-2-gb-gddr5-graphics-card-b",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "ASUS GeForce GT 1030 2G 2 GB GDDR5 Graphics Card - Black"
    },
    {
@@ -1422,7 +1465,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/59691/inno3d-geforce-gt1030-heatsink-carte-graphique",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "INNO3D GeForce GT1030 Heatsink, Carte graphique"
    },
    {
@@ -1431,7 +1474,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3581768/msi-nvidia-geforce-gt-1030-4ghd4-lp-oc-carte-graph",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "MSI NVIDIA GeForce GT 1030 4GHD4 LP OC Carte Graphique - 4 Go GDDR4, 1430 MHz, PCIe, Conception Low Profile, DisplayPort, HDMI, système de Refroidi..."
    },
    {
@@ -1440,7 +1483,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/2583708/msi-v809-2825r-msi-geforce-gt-1030-2ghd4-lp-oc",
     "inStock": false,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "MSI V809-2825R - MSI GeForce GT 1030 2GHD4 LP OC"
    },
    {
@@ -1449,7 +1492,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/268963/scheda-video-nvidia-asus-gt-1030-2gb-gddr5-sl-brk-",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Scheda Video nVidia Asus GT 1030 2GB GDDR5 SL BRK [90YV0AT0-M0NA00]"
    },
    {
@@ -1458,7 +1501,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/768521/asus-geforce-gt-1030-2gb-low-profile-gt1030-sl-2g-",
     "inStock": false,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Asus GeForce GT 1030 2GB Low Profile - GT1030-SL-2G-BRK - Carte graphique Nvidia"
    },
    {
@@ -1467,7 +1510,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/4515920/inno3d-carte-graphique-nvidia-geforce-gt-1030-pass",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "INNO3D - Carte Graphique - NVIDIA GeForce GT 1030 Passive - 2 Go"
    },
    {
@@ -1476,7 +1519,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/254544/scheda-video-nvidia-msi-geforce-gt-1030-2gb-2ghd4-",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Scheda Video nVidia Msi GeForce GT 1030 2GB 2GHD4 LP OC [V809-2825R]"
    },
    {
@@ -1485,7 +1528,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/273319/scheda-video-nvidia-zotac-gt-1030-2gb-gddr5-hdcp-h",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Scheda Video nVidia Zotac GT 1030 2GB GDDR5 HDCP HDMI DVI-D [ZT-P10300A-10L]"
    },
    {
@@ -1494,7 +1537,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3609969/inno3d-n1030-1sdv-e5bl-carte-graphique-nvidia-gefo",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Inno3D N1030-1SDV-E5BL carte graphique NVIDIA GeForce GT 1030 2 Go GDDR5"
    },
    {
@@ -1503,7 +1546,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/252479/scheda-video-nvidia-asus-gt1030-2g-brk-2gb-dp-hdmi",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Scheda Video nVidia Asus GT1030-2G-BRK 2GB, Dp Hdmi [90YV0AT2-M0NA00]"
    },
    {
@@ -1512,7 +1555,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/60646/asus-geforce-carte-graphique-gt-1030-2-go-gddr5-a-",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "ASUS GeForce Carte graphique GT 1030 2 Go GDDR5 à profil bas pour une construction HTPC silencieuse (avec supports de port d'E/S) Petite"
    },
    {
@@ -1521,13 +1564,13 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/4265216/inno3d-geforce-gt-1030-silent-2gb-gddr5",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Inno3D GeForce GT 1030 Silent 2GB GDDR5"
    }
   ],
   "image": "images/nvidia-gt1030.png",
   "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/nvidia-gt1030",
-  "lastUpdated": "2026-07-06T12:02:39Z",
+  "lastUpdated": "2026-07-06T13:30:45Z",
   "imageSource": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/471/9072/4719072561420.png?signature=532915e9d4fecd47157fbe04a9151771e9747ad0bc4e2c0f7e5db09259977494"
  },
  {
@@ -1546,20 +1589,138 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/269072/scheda-video-nvidia-inno3d-gt710-2gb-sddr3-64bit-h",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Scheda Video nVidia Inno3D GT710 2GB SDDR3 64bit, HDMI, DVI, PCI-E con CUDA, passiva [N710-1SDV-E3BX]"
+   },
+   {
+    "shop": "reichelt.de",
+    "price": 55.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3897608/zt-71310-10l-zotac-geforce-gt-710-2gb",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "ZT-71310-10L - ZOTAC GeForce® GT 710 2GB"
+   },
+   {
+    "shop": "jacob.de",
+    "price": 55.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/59607/inno3d-geforce-gt-710-2gb-ddr3-vga-dvi-hdmi-n710-1",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "INNO3D GeForce GT 710, 2GB DDR3, VGA, DVI, HDMI (N710-1SDV-E3BX)"
+   },
+   {
+    "shop": "alternate.fr",
+    "price": 56.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/72665/inno3d-n710-1sdv-e3bx-carte-graphique-nvidia-gefor",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "INNO3D N710-1SDV-E3BX carte graphique NVIDIA GeForce GT 710 2 Go GDDR3"
+   },
+   {
+    "shop": "compumsa.eu",
+    "price": 58.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3229528/msi-geforce-gt-710-2gb-2gd3h-lp-carte-graphique-nv",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "MSI GeForce GT 710 2GB 2GD3H LP - Carte graphique Nvidia"
+   },
+   {
+    "shop": "bpm-power.com",
+    "price": 58.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/1556883/scheda-video-nvidia-inno3d-gt-710-2048-mb-ddr3-low",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Scheda Video nVidia Inno3D GT 710, 2048 MB DDR3 - Low Profile, passiva"
+   },
+   {
+    "shop": "bpm-power.com",
+    "price": 59.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3277983/scheda-video-nvidia-asus-geforce-gt-710-2gb-gddr5-",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Scheda Video nVidia Asus GeForce GT 710 2GB GDDR5 EVO a basso profilo Nero/Blu [90YV0ALA-M0NA00]"
+   },
+   {
+    "shop": "grosbill.com",
+    "price": 60.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/848147/msi-geforce-gt-710-2gd3h-lp",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "MSI GeForce GT 710 2GD3H LP"
+   },
+   {
+    "shop": "cybertek.fr",
+    "price": 60.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/122707/msi-geforce-gt-710-2gd3h-lp",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "MSI GeForce GT 710 2GD3H LP"
+   },
+   {
+    "shop": "jacob.de",
+    "price": 62.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/59606/msi-geforce-gt-710-2gb-ddr3-grafikkarte-dvivgahdmi",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "MSI GeForce GT 710 2GB DDR3 Grafikkarte DVI/VGA/HDMI Low Profile passiv GeForce GT 710, PCI-Express 2.0 (V809-2000R)"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 63.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/60107/msi-geforce-gt-710-2-go",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "MSI GeForce GT 710 - 2 Go"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 63.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/60737/msi-geforce-gt-710-2gd3h-lp",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "MSI GeForce GT 710 2GD3H LP"
+   },
+   {
+    "shop": "rueducommerce.fr",
+    "price": 63.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3391259/asus-geforce-gt-710-2gb-gddr5-evo",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Asus GeForce GT 710 2GB GDDR5 EVO"
+   },
+   {
+    "shop": "cdiscount.com",
+    "price": 65.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4515919/inno3d-carte-graphique-nvidia-geforce-gt710-low-pr",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "INNO3D - Carte Graphique - NVIDIA GeForce GT710 Low Profile Passive - 2 Go"
    }
   ],
   "image": "images/nvidia-gt710.png",
   "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/nvidia-gt710",
-  "lastUpdated": "2026-07-06T12:02:39Z"
+  "lastUpdated": "2026-07-06T13:30:45Z",
+  "imageSource": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/083/5168/0835168021686.png?signature=88f280ffe11a667a68bd67e7f4414481dfbe8aa60310723381c958f3f86a918d"
  },
  {
   "id": "nvidia-gt730",
   "brand": "NVIDIA",
   "name": "NVIDIA GT730",
   "index": 3.1,
-  "vramGb": 2,
+  "vramGb": 4,
   "price": 64.0,
   "tdp": null,
   "priceMin": 64.0,
@@ -1570,13 +1731,185 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/210659/asus-geforce-gt-730-2-gb-gddr5-low-profile-graphic",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "ASUS GeForce GT 730 2 GB GDDR5 Low Profile Graphics Card for Silent HTPC Build (with I/O Port Brackets) GT730-SL-2GD5-BRK"
+   },
+   {
+    "shop": "jacob.de",
+    "price": 65.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4298143/biostar-geforce-gt-730-2gb-vn7313thx1",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Biostar GeForce GT 730 2GB (VN7313THX1)"
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 69.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3408766/maxsun-cartes-graphiques-gt-730-4go-carte-graphiqu",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "maxsun Cartes Graphiques GT 730 4Go Carte Graphique Externe Nvidia GPU pour Ordinateur PC GDDR3 ITX Design PCI Express DVI-I, HDMI, VGA 4K"
+   },
+   {
+    "shop": "bpm-power.com",
+    "price": 72.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/265408/scheda-video-nvidia-asus-gt730-sl-2gd5-brk-passiva",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Scheda Video nVidia Asus GT730-SL-2GD5-BRK Passiva [90YV06N2-M0NA00]"
+   },
+   {
+    "shop": "cdiscount.com",
+    "price": 72.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4180892/carte-graphique-asus-gt730-sl-2gd5-brk-nvidia-gefo",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Carte graphique - ASUS - GT730-SL-2GD5-BRK NVIDIA GeForce GT 730 2 Go GDDR5"
+   },
+   {
+    "shop": "bpm-power.com",
+    "price": 76.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/809089/scheda-video-nvidia-biostar-geforce-gt730-4gb-2560",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Scheda video nVidia Biostar Geforce GT730 4GB 2560 x 1600 pixel [VN7313TH41]"
+   },
+   {
+    "shop": "jacob.de",
+    "price": 76.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/60675/asus-gt730-sl-2gd5-brk-90yv06n2-m0na00",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "ASUS GT730-SL-2GD5-BRK (90YV06N2-M0NA00)"
+   },
+   {
+    "shop": "bpm-power.com",
+    "price": 78.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/2157608/scheda-video-nvidia-afox-geforce-gt730-1gb-ddr3-64",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Scheda Video nVidia Afox Geforce GT730 1GB DDR3 64Bit DVI HDMI VGA LP Fan [AF730-1024D3L7-V1]"
+   },
+   {
+    "shop": "alternate.fr",
+    "price": 84.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/61181/asus-geforce-gt730-sl-brk-carte-graphique",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "ASUS GeForce GT730-SL-BRK, Carte graphique"
+   },
+   {
+    "shop": "jacob.de",
+    "price": 86.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/1050819/asus-gt730-4h-sl-2gd5-90yv0h20-m0na00",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "ASUS GT730-4H-SL-2GD5 (90YV0H20-M0NA00)"
+   },
+   {
+    "shop": "bpm-power.com",
+    "price": 88.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/1106381/scheda-video-asus-geforce-gt730-4h-sl-2gd5-2gb-gdd",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Scheda video Asus GeForce GT730-4H-SL-2GD5 2GB GDDR5 Nero/Blu [90YV0H20-M0NA00]"
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 89.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4017894/maxsun-geforce-gt-730-carte-graphique-gddr3-4-go-4",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "maxsun GeForce GT 730 Carte Graphique GDDR3 4 Go, 4 x HDMI, Prend en Charge la Carte vidéo 4K @ 30 Hz, PCI Express 2.0 x8, GPU Silencieux"
+   },
+   {
+    "shop": "alternate.fr",
+    "price": 90.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/1466657/asus-geforce-gt730-4h-sl-2gd5-carte-graphique",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "ASUS GeForce GT730-4H-SL-2GD5 , Carte graphique"
+   },
+   {
+    "shop": "codima.be",
+    "price": 91.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4265218/biostar-geforce-gt-730-passive-4gb-gddr3-4x-hdmi",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Biostar GeForce GT 730 Passive 4GB GDDR3 (4x HDMI)"
+   },
+   {
+    "shop": "amazon.de",
+    "price": 92.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/87244/zotac-zt-71115-20l-geforce-gt-730-4-gb-graphics-ca",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "ZOTAC ZT-71115-20L GeForce GT 730 4 GB Graphics Card"
+   },
+   {
+    "shop": "jacob.de",
+    "price": 93.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/2652634/biostar-vn7313th41-grafikkarte-nvidia-geforce-gt-7",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Biostar VN7313TH41 Grafikkarte NVIDIA GeForce GT 730 4 GB GDDR3 (VN7313TH41)"
+   },
+   {
+    "shop": "bpm-power.com",
+    "price": 95.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3187056/scheda-video-nvideo-biostar-geforce-gt-730-4gb-ddr",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Scheda Video nVideo Biostar GeForce GT 730 4GB DDR3 4xHDMI 64bit Nero [VN7313TG46]"
+   },
+   {
+    "shop": "cdiscount.com",
+    "price": 95.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4180894/carte-graphique-asus-gt730-4h-sl-2gd5-nvidia-gefor",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Carte graphique - ASUS - GT730-4H-SL-2GD5 - NVIDIA GeForce GT 730 - 2 Go GDDR5 - Refroidissement passif"
+   },
+   {
+    "shop": "bpm-power.com",
+    "price": 97.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/432057/scheda-video-nvidia-zotac-gt-730-4gb-gddr3",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Scheda Video nVIdia Zotac GT 730 4GB GDDR3"
+   },
+   {
+    "shop": "topbiz.fr",
+    "price": 99.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3609968/asus-gt730-sl-2gd5-brk-nvidia-geforce-gt-730-2-go-",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "ASUS GT730-SL-2GD5-BRK NVIDIA GeForce GT 730 2 Go GDDR5"
    }
   ],
   "image": "images/nvidia-gt730.png",
   "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/nvidia-gt730",
-  "lastUpdated": "2026-07-06T12:02:39Z"
+  "lastUpdated": "2026-07-06T13:30:45Z",
+  "imageSource": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/471/6659/4716659990390.png?signature=3c5cbec560beeb15ac5cde6a645f0d21fec0ae2a21815da1a92075205685f9fa"
  },
  {
   "id": "nvidia-rtx-2000",
@@ -1594,20 +1927,192 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3931313/scheda-video-nvidia-pny-rtx2000-ada-lovelace-16gb-",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Scheda Video nVidia Pny RTX2000 Ada Lovelace 16GB GDDR6 128bit Nero [VCNRTX2000ADA-SB]"
+   },
+   {
+    "shop": "bpm-power.com",
+    "price": 670.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3304393/scheda-video-nvidia-quadro-rtx-2000-ada-16gb-gddr6",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Scheda Video Nvidia Quadro RTX 2000 Ada 16GB GDDR6 ECC PCI-E 4.0 Nero/Grigio [900-5G192-2541-000]"
+   },
+   {
+    "shop": "jacob.de",
+    "price": 675.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3034014/nvidia-rtx-2000-ada-generation-900-5g192-2541-000",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "NVIDIA RTX 2000 Ada Generation (900-5G192-2541-000)"
+   },
+   {
+    "shop": "jacob.de",
+    "price": 684.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4011238/nvidia-rtx-2000-ada-generation-900-5g192-2240-000",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "NVIDIA RTX 2000 Ada Generation (900-5G192-2240-000)"
+   },
+   {
+    "shop": "jacob.de",
+    "price": 688.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/2997680/pny-nvidia-rtx-2000-ada-generation-vcnrtx2000ada-s",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY NVIDIA RTX 2000 Ada Generation (VCNRTX2000ADA-SB)"
+   },
+   {
+    "shop": "bpm-power.com",
+    "price": 690.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4256023/scheda-video-nvidia-rtx-2000-ada-16gb-gddr6-128bit",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Scheda Video Nvidia RTX 2000 Ada 16GB GDDR6 128bit [900-5G192-2240-000]"
+   },
+   {
+    "shop": "alternate.fr",
+    "price": 692.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3314976/pny-nvidia-rtx-2000-ada-generation-16gb-sb-carte-g",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY NVIDIA RTX 2000 Ada Generation 16GB SB, Carte graphique"
+   },
+   {
+    "shop": "topbiz.fr",
+    "price": 714.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3952769/nvidia-rtx-2000-ada-16-gb-gddr6-16-go",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Nvidia RTX 2000 Ada 16 GB GDDR6 16 Go"
+   },
+   {
+    "shop": "alternate.fr",
+    "price": 718.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3315116/pny-nvidia-rtx-2000-ada-generation-16gb-pb-carte-g",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY NVIDIA RTX 2000 Ada Generation 16GB PB, Carte graphique"
+   },
+   {
+    "shop": "topbiz.fr",
+    "price": 720.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3610143/pny-rtx2000-ada-nvidia-rtx-2000-ada-16-go-gddr6",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY RTX2000 Ada NVIDIA RTX 2000 Ada 16 Go GDDR6"
+   },
+   {
+    "shop": "jacob.de",
+    "price": 734.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/2997681/pny-nvidia-grafikkarten-vcnrtx2000ada-pb",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY NVIDIA Grafikkarten (VCNRTX2000ADA-PB)"
+   },
+   {
+    "shop": "jacob.de",
+    "price": 737.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4404368/pny-nvidia-rtx-2000e-ada-generation-vcnrtx2000eada",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY NVIDIA RTX 2000E Ada Generation (VCNRTX2000EADA-SB)"
+   },
+   {
+    "shop": "bpm-power.com",
+    "price": 750.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3931314/scheda-video-nvidia-pny-rtx2000-ada-lovelace-16gb-",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Scheda Video nVidia Pny RTX2000 Ada Lovelace 16GB 4x mDP GDDR6 128bit Nero [VCNRTX2000ADA-PB]"
+   },
+   {
+    "shop": "jacob.de",
+    "price": 754.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3585314/pny-nvidia-rtx-2000-ada-generation-vcnrtx2000ada-p",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY NVIDIA RTX 2000 Ada Generation (VCNRTX2000ADA-PL)"
+   },
+   {
+    "shop": "amazon.de",
+    "price": 759.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3785560/lenovo-graphicbo-rtx-2000-ada-16gb-graphics",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Lenovo Graphic_BO RTX 2000 Ada 16GB Graphics"
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 766.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3582310/pny-nvidia-schede-grafiche-nvidia-rtx-2000-ada-16g",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Pny Nvidia - Schede Grafiche - Nvidia Rtx 2000 Ada - 16gb Gddr6"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 770.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4403684/pny-nvidia-rtx-2000-ada-generation-version-oem",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY NVIDIA RTX 2000 Ada Generation - Version OEM"
+   },
+   {
+    "shop": "jacob.de",
+    "price": 777.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3418398/lenovo-nvidia-rtx-2000-ada-4x61p69962",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Lenovo NVIDIA RTX 2000 Ada (4X61P69962)"
+   },
+   {
+    "shop": "topbiz.fr",
+    "price": 781.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3610158/pny-nvidia-rtx-2000-ada-generation-16-go-gddr6",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY NVIDIA RTX 2000 Ada Generation 16 Go GDDR6"
+   },
+   {
+    "shop": "grosbill.com",
+    "price": 800.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3099653/pny-rtx-2000-ada-rtx200016gblowprofil",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY RTX 2000 Ada - RTX2000/16GB/LowProfil"
    }
   ],
   "image": "images/nvidia-rtx-2000.png",
   "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/nvidia-rtx-2000",
-  "lastUpdated": "2026-07-06T12:02:39Z"
+  "lastUpdated": "2026-07-06T13:30:45Z",
+  "imageSource": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/353/6403/3536403398941.png?signature=5299b7311ce334f71245c868b99cbf1188b8b86156266ad980312d2544d6527c"
  },
  {
   "id": "nvidia-rtx-3050",
   "brand": "NVIDIA",
   "name": "NVIDIA RTX 3050",
-  "index": 46.4,
-  "vramGb": null,
+  "index": 40.0,
+  "vramGb": 6,
   "price": 180.0,
   "tdp": 130,
   "priceMin": 180.0,
@@ -1617,21 +2122,184 @@
     "price": 180.0,
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3131145/asus-dual-rtx3050-o6g",
-    "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Asus DUAL-RTX3050-O6G"
+   },
+   {
+    "shop": "cybertek.fr",
+    "price": 190.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4591765/asus-dual-rtx3050-o6g",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Asus DUAL-RTX3050-O6G"
+   },
+   {
+    "shop": "amazon.de",
+    "price": 198.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3005733/asus-dual-geforce-rtx-3050-oc-edition-6gb-gddr6-ga",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "ASUS Dual GeForce RTX 3050 OC Edition 6GB GDDR6 Gaming Graphics Card (Nvidia GeForce RTX3050 DLSS, PCIe 4.0, 1x HDMI 2.1a, 1x DisplayPort 1.4a, DUA..."
+   },
+   {
+    "shop": "rueducommerce.fr",
+    "price": 200.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3382661/gainward-geforce-rtx-3050-pegasus-6g",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Gainward GeForce RTX 3050 Pegasus 6G"
+   },
+   {
+    "shop": "alternate.fr",
+    "price": 202.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4197806/gainward-geforce-rtx-3050-pegasus-carte-graphique",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Gainward GeForce RTX 3050 Pegasus, Carte graphique"
+   },
+   {
+    "shop": "alternate.fr",
+    "price": 205.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3299488/inno3d-geforce-rtx-3050-twin-x2-6gb-carte-graphiqu",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "INNO3D GeForce RTX 3050 TWIN X2 6GB, Carte graphique"
+   },
+   {
+    "shop": "amazon.de",
+    "price": 207.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4468685/palit-geforce-rtx-3050-stormx-6gb-gddr6-gaming-gra",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Palit GeForce RTX 3050 StormX 6GB GDDR6 Gaming Graphics Card"
+   },
+   {
+    "shop": "jacob.de",
+    "price": 209.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3646922/inno3d-geforce-rtx-3050-twin-x2-v2-special-6144-mb",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "INNO3D GeForce RTX 3050 Twin X2 V2 Special, 6144 MB GDDR6 (N30502-06D6-1880VA60)"
+   },
+   {
+    "shop": "alternate.fr",
+    "price": 211.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3702898/inno3d-geforce-rtx-3050-twin-x2-carte-graphique",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "INNO3D GeForce RTX 3050 TWIN X2, Carte graphique"
+   },
+   {
+    "shop": "alternate.fr",
+    "price": 214.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/2957830/zotac-geforce-rtx-3050-solo-carte-graphique",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "ZOTAC GeForce RTX 3050 SOLO, Carte graphique"
+   },
+   {
+    "shop": "bpm-power.com",
+    "price": 216.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4300324/scheda-video-nvidia-gainward-geforce-rtx-3050-pega",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Scheda video nVidia Gainward GeForce RTX 3050 Pegasus 6GB GDDR6 96bit Nero [NE63050018JE-1072E]"
+   },
+   {
+    "shop": "codima.be",
+    "price": 219.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4265231/msi-geforce-rtx-3050-ventus-2x-xs-8g-oc",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "MSI GeForce RTX 3050 Ventus 2X XS 8G OC"
+   },
+   {
+    "shop": "reichelt.de",
+    "price": 219.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4253989/msi-v812-054r-msi-geforce-rtx-3050-lp-e-6g-oc",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "MSI V812-054R - MSI GeForce RTX 3050 LP E 6G OC"
+   },
+   {
+    "shop": "compumsa.eu",
+    "price": 220.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3004679/asus-geforce-rtx-3050-6gb-dual-oc-dual-rtx3050-o6g",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Asus GeForce RTX 3050 6GB Dual OC - DUAL-RTX3050-O6G - Carte graphique Nvidia"
+   },
+   {
+    "shop": "alternate.fr",
+    "price": 220.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4227443/palit-geforce-rtx-3050-stormx-carte-graphique",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Palit GeForce RTX 3050 StormX, Carte graphique"
+   },
+   {
+    "shop": "reichelt.de",
+    "price": 220.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3365069/zt-a30510g-10l-zotac-gaming-rtx-3050-solo-6gb",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "ZT-A30510G-10L - ZOTAC GAMING RTX 3050 Solo 6GB"
+   },
+   {
+    "shop": "grosbill.com",
+    "price": 220.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4591272/msi-rtx-3050-lp-e-6g-oc",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "MSI RTX 3050 LP E 6G OC"
+   },
+   {
+    "shop": "bpm-power.com",
+    "price": 221.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3019426/scheda-video-nvidia-zotac-geforce-rtx-3050-6gb-gdd",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Scheda Video nVidia Zotac GeForce RTX 3050 6GB GDDR6 96bit Nero [ZT-A30510G-10L]"
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 221.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4158718/inno3d-nvidia-geforce-rtx-3050-twin-x2-v2-6-go-gdd",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "INNO3D NVIDIA GEFORCE RTX 3050 Twin X2 V2 6 Go GDDR6 96 Bits PCIe 4.0 Gaming Carte Graphique - N30502-06D6-1880VA60"
    }
   ],
   "image": "images/nvidia-rtx-3050.png",
   "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/nvidia-rtx-3050",
-  "lastUpdated": "2026-07-06T12:02:39Z"
+  "lastUpdated": "2026-07-06T13:30:45Z",
+  "imageSource": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/471/1387/4711387470633.png?signature=8039a713443bd17d0fb6f7624323cddfc83709fd34f0752fcaf3fa967a102a09"
  },
  {
   "id": "nvidia-rtx-3060",
   "brand": "NVIDIA",
   "name": "NVIDIA RTX 3060",
-  "index": 62.8,
-  "vramGb": null,
+  "index": 62.2,
+  "vramGb": 12,
   "price": 298.0,
   "tdp": 170,
   "priceMin": 298.0,
@@ -1642,20 +2310,192 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/4480803/zotac-geforce-rtx-3060-twin-edge-reconditionne-car",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "ZOTAC GeForce RTX 3060 Twin Edge reconditionné, Carte graphique"
+   },
+   {
+    "shop": "alternate.fr",
+    "price": 339.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4726555/gainward-geforce-rtx-3060-python-ii-oc-carte-graph",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Gainward GeForce RTX 3060 Python II OC, Carte graphique"
+   },
+   {
+    "shop": "reichelt.de",
+    "price": 359.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4679630/zt-a30600e2-10m-zotac-gaming-rtx-3060-twin-edge",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "ZT-A30600E2-10M - ZOTAC GAMING RTX 3060 Twin Edge"
+   },
+   {
+    "shop": "compumsa.eu",
+    "price": 361.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/1174371/asus-geforce-rtx-3060-12gb-dual-v2-oc-dual-rtx3060",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Asus GeForce RTX 3060 12GB Dual V2 OC - DUAL-RTX3060-O12G-V2 - Carte graphique Nvidia"
+   },
+   {
+    "shop": "jacob.de",
+    "price": 365.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/873963/asus-dual-geforce-rtx-3060-v2-oc-dual-rtx3060-o12g",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "ASUS Dual GeForce RTX 3060 V2 OC, DUAL-RTX3060-O12G-V2, 12GB GDDR6, HDMI, 3x DP (90YV0GB2-M0NA10)"
+   },
+   {
+    "shop": "bpm-power.com",
+    "price": 367.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/1030037/scheda-video-nvidia-asus-dual-rtx3060-o12g-v2-gefo",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Scheda Video nVidia Asus Dual -RTX3060-O12G-V2 GeForce RTX 3060 12 GB GDDR6 [90YV0GB2-M0NA10]"
+   },
+   {
+    "shop": "bpm-power.com",
+    "price": 370.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/2287845/scheda-video-nvidia-gigabyte-geforce-rtx-3060-12gb",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Scheda video nVidia Gigabyte GeForce RTX 3060 12GB GDDR6 15000MHz [GV-N3060WF2OC-12GD 2.0]"
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 382.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/2940180/gigabyte-nvidia-geforce-rtx-3060-windforce-oc-v2-c",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Gigabyte NVIDIA GeForce RTX 3060 WINDFORCE OC V2 Carte graphique - 12GB GDDR6, 192-bit, PCI-E 4.0, 1792MHz Core Clock, 2x DP 1.4, 2 x HDMI 2.1, NVI..."
+   },
+   {
+    "shop": "alternate.fr",
+    "price": 382.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/1373304/asus-dual-geforce-rtx-3060-oc-v2-lhr-carte-graphiq",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "ASUS DUAL GeForce RTX 3060 OC V2 LHR, Carte graphique"
+   },
+   {
+    "shop": "topbiz.fr",
+    "price": 387.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4700408/asus-dual-rtx3060-o12g-v2-nvidia-geforce-rtx-3060-",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "ASUS Dual -RTX3060-O12G-V2 NVIDIA GeForce RTX 3060 12 Go GDDR6"
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 388.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/2861253/asus-dual-nvidia-geforce-rtx-3060-v2-oc-edition-12",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "ASUS DUAL NVIDIA GeForce RTX 3060 V2 OC Edition 12GB GDDR6 – Carte Graphique Gaming (PCIe 4.0, 12GB, HDMI 2.1, DisplayPort 1.4a, 2-slot, ventilateu..."
+   },
+   {
+    "shop": "jacob.de",
+    "price": 393.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/2249307/gigabyte-geforce-rtx-3060-windforce-oc-12g-rev-2-0",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Gigabyte GeForce RTX 3060 WINDFORCE OC 12G (rev. 2.0) NVIDIA 12 GB GDDR6 (GV-N3060WF2OC-12GD 2.0)"
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 413.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4728998/nvidia-geforce-rtx-3060-12g-carte-graphique-gddr6-",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "NVIDIA GeForce RTX 3060 12G Carte Graphique GDDR6 192 Bits PCIe 4.0 Double Ventilateur, 1320MMHz/15000MHz, 1 x HDMI, 3 x DisplayPort, pour Wins7/8/..."
+   },
+   {
+    "shop": "topbiz.fr",
+    "price": 426.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3610032/gigabyte-geforce-rtx-3060-windforce-oc-12g-rev-2-0",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Gigabyte GeForce RTX 3060 WINDFORCE OC 12G (rev. 2.0) NVIDIA 12 Go GDDR6"
+   },
+   {
+    "shop": "jacob.de",
+    "price": 432.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/2809236/gigabyte-geforce-rtx-3060-windforce-oc-12g-gv-n306",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Gigabyte GeForce RTX 3060 WINDFORCE OC 12G (GV-N3060WF2OC-12GD)"
+   },
+   {
+    "shop": "grosbill.com",
+    "price": 480.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4634793/gigabyte-geforce-rtx-3060-gaming-oc-12g-lhr-second",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Gigabyte GeForce RTX 3060 GAMING OC 12G LHR-Seconde Vie-Très Bon Etat"
+   },
+   {
+    "shop": "cybertek.fr",
+    "price": 500.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4634810/gigabyte-geforce-rtx-3060-gaming-oc-12g-lhr-second",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Gigabyte GeForce RTX 3060 GAMING OC 12G LHR-Seconde Vie-Très Bon Etat"
+   },
+   {
+    "shop": "amazon.de",
+    "price": 660.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/873902/pny-geforce-rtxtm-3060-12-gb-xlr8-gaming-revel-epi",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY GeForce RTX™ 3060 12 GB XLR8 Gaming Revel Epic-X RGB™ Single Fan Graphics Card"
+   },
+   {
+    "shop": "grosbill.com",
+    "price": 712.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4591293/gainward-geforce-rtx-3060-ghost-12g-lhr-seconde-vi",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Gainward GeForce RTX 3060 Ghost 12G LHR-Seconde Vie-Parfait Etat"
+   },
+   {
+    "shop": "cybertek.fr",
+    "price": 712.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4591785/gainward-geforce-rtx-3060-ghost-12g-lhr-seconde-vi",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Gainward GeForce RTX 3060 Ghost 12G LHR-Seconde Vie-Parfait Etat"
    }
   ],
   "image": "images/nvidia-rtx-3060.png",
   "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/nvidia-rtx-3060",
-  "lastUpdated": "2026-07-06T12:02:39Z"
+  "lastUpdated": "2026-07-06T13:30:45Z",
+  "imageSource": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/489/5173/4895173622823.png?signature=a58c72f7b4ff1c632cc23a2059ca0b78cbc760857d0f5eed4933b09b1e8c1ed1"
  },
  {
   "id": "nvidia-rtx-3060-ti",
   "brand": "NVIDIA",
   "name": "NVIDIA RTX 3060 TI",
   "index": 75.3,
-  "vramGb": null,
+  "vramGb": 8,
   "price": 395.0,
   "tdp": 200,
   "priceMin": 395.0,
@@ -1666,20 +2506,75 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/4690904/zotac-geforce-rtx-3060-ti-twin-edge-lhr-reconditio",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "ZOTAC GeForce RTX 3060 Ti Twin Edge LHR reconditionné, Carte graphique"
+   },
+   {
+    "shop": "alternate.fr",
+    "price": 404.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4541174/zotac-geforce-rtx-3060-ti-twin-edge-lhr-reconditio",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "ZOTAC GeForce RTX 3060 Ti TWIN EDGE LHR Reconditionné, Carte graphique"
+   },
+   {
+    "shop": "bpm-power.com",
+    "price": 424.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3010561/scheda-video-nvidia-biostar-geforce-rtx-3060-ti-8g",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Scheda Video nVidia Biostar GeForce RTX 3060 Ti 8GB GDDR6 256bit Nero [N3606TM82]"
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 489.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3582069/nvidia-geforce-rtx-3060-ti-founders-edition-carte-",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "NVIDIA GeForce RTX 3060 Ti - Founders Edition - Carte graphique GDDR6 PCI Express 4.0 8 Go"
+   },
+   {
+    "shop": "jacob.de",
+    "price": 510.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3109835/biostar-geforce-rtx-3060-ti-8gb-n3606tm82-grafikka",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "BIOSTAR GeForce RTX 3060 Ti 8GB (N3606TM82) Grafikkarte (VN3606TM82)"
+   },
+   {
+    "shop": "amazon.de",
+    "price": 587.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/1713344/evga-geforce-rtx-3060-ti-xc-gaming-08g-p5-3663-kl-",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "EVGA GeForce RTX 3060 Ti XC Gaming, 08G-P5-3663-KL, 8GB GDDR6, DualFan, Metal Backplate, LHR"
+   },
+   {
+    "shop": "amazon.de",
+    "price": 602.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/886150/gigon-gigabyte-geforce-rtx-3060-ti-vision-oc-8gb-v",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "GIGON Gigabyte GeForce RTX 3060 Ti Vision OC 8GB V2 LHR Graphics Card, GV-N306TVISION OC-8GD V2"
    }
   ],
   "image": "images/nvidia-rtx-3060-ti.png",
   "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/nvidia-rtx-3060-ti",
-  "lastUpdated": "2026-07-06T12:02:39Z"
+  "lastUpdated": "2026-07-06T13:30:45Z",
+  "imageSource": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/489/5173/4895173623455.png?signature=b68f6a5be0b945fd16f3a18b8c315e7115c3bb8a7ee23f05ea96cdc3998951fc"
  },
  {
   "id": "nvidia-rtx-3070",
   "brand": "NVIDIA",
   "name": "NVIDIA RTX 3070",
   "index": 82.2,
-  "vramGb": null,
+  "vramGb": 8,
   "price": 425.0,
   "tdp": 220,
   "priceMin": 425.0,
@@ -1690,13 +2585,140 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/4591282/gigabyte-geforce-rtx-3070-gaming-oc-8g-lhr-seconde",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Gigabyte GeForce RTX 3070 GAMING OC 8G LHR-Seconde Vie-Etat Satisfaisant"
+   },
+   {
+    "shop": "cybertek.fr",
+    "price": 425.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4591774/gigabyte-geforce-rtx-3070-gaming-oc-8g-lhr-seconde",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Gigabyte GeForce RTX 3070 GAMING OC 8G LHR-Seconde Vie-Etat Satisfaisant"
+   },
+   {
+    "shop": "bpm-power.com",
+    "price": 434.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/2448869/scheda-video-nvidia-biostar-geforce-rtx-3070-8gb-g",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Scheda video nVidia Biostar GeForce RTX 3070 8GB GDDR6 256bit 3xDP Hdmi [VN3706RM82]"
+   },
+   {
+    "shop": "amazon.de",
+    "price": 476.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/1706742/kfa2-37nsl6md2vxk-nvidia-geforce-rtx-3070-8gb-gddr",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "KFA2 37NSL6MD2VXK NVIDIA GeForce RTX 3070 8GB GDDR6 Graphics Card"
+   },
+   {
+    "shop": "grosbill.com",
+    "price": 510.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4634796/msi-geforce-rtx-3070-gaming-x-trio-lhr-seconde-vie",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "MSI GeForce RTX 3070 GAMING X TRIO LHR-Seconde Vie-Etat Satisfaisant"
+   },
+   {
+    "shop": "cybertek.fr",
+    "price": 510.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4633514/gigabyte-geforce-rtx-3070-gaming-oc-8g-lhr-seconde",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Gigabyte GeForce RTX 3070 GAMING OC 8G LHR-Seconde Vie-Etat Satisfaisant"
+   },
+   {
+    "shop": "jacob.de",
+    "price": 522.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/2630590/biostar-vn3706rm82-grafikkarte-nvidia-geforce-rtx-",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Biostar VN3706RM82 Grafikkarte NVIDIA GeForce RTX 3070 8 GB GDDR6 (VN3706RM82)"
+   },
+   {
+    "shop": "amazon.de",
+    "price": 582.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/1674894/zotac-zt-a30700e-10plhr-graphics-card-nvidia-gefor",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Zotac ZT-A30700E-10PLHR Graphics Card NVIDIA GeForce RTX 3070 8GB GDDR6 Twin Edge"
+   },
+   {
+    "shop": "amazon.de",
+    "price": 622.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/919825/asus-dual-geforce-rtx-3070-v2-8gb-oc-edition-gamin",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "ASUS Dual GeForce RTX 3070 V2 8GB OC Edition Gaming Graphics Card (Lite Hash Rate (LHR), GDDR6 Memory, PCIe 4.0, 2x HDMI 2.1, 3x DisplayPort 1.4a, ..."
+   },
+   {
+    "shop": "amazon.de",
+    "price": 705.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/2522180/gainward-geforce-rtx-3070-phoenix-8gb-gddr6-gaming",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Gainward GeForce RTX 3070 Phoenix 8GB GDDR6 Gaming Graphics Card 3xDP/HDMI, 4.71056E+12"
+   },
+   {
+    "shop": "alternate.fr",
+    "price": 706.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4657084/evga-geforce-rtx-3070-ftw3-ultra-lhr-reconditionne",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "EVGA GeForce RTX 3070 FTW3 ULTRA LHR Reconditionné, Carte graphique"
+   },
+   {
+    "shop": "grosbill.com",
+    "price": 765.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4591295/gigabyte-geforce-rtx-3070-vision-oc-8g-lhr-seconde",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Gigabyte GeForce RTX 3070 VISION OC 8G LHR-Seconde Vie-Etat Satisfaisant"
+   },
+   {
+    "shop": "cybertek.fr",
+    "price": 765.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4591786/gigabyte-geforce-rtx-3070-vision-oc-8g-lhr-seconde",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Gigabyte GeForce RTX 3070 VISION OC 8G LHR-Seconde Vie-Etat Satisfaisant"
+   },
+   {
+    "shop": "alternate.fr",
+    "price": 777.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4657086/evga-geforce-rtx-3070-ftw3-ultra-reconditionne-car",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "EVGA GeForce RTX 3070 FTW3 ULTRA Reconditionné, Carte graphique"
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 1664.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4727480/msi-gaming-geforce-rtx-3070-8-go-gdrr6-256-bit-hdm",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "MSI Gaming GeForce RTX 3070 8 Go GDRR6 256-Bit HDMI/DP TORX Ventilateur 3.0 Ampère Architecture OC Carte Graphique (RTX 3070 Ventus 2X OC)"
    }
   ],
   "image": "images/nvidia-rtx-3070.png",
   "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/nvidia-rtx-3070",
-  "lastUpdated": "2026-07-06T12:02:39Z"
+  "lastUpdated": "2026-07-06T13:30:45Z",
+  "imageSource": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/425/0812/4250812443236.png?signature=23283cfcc99d2a7f112a07a351fe066b6244ed2d97afc4446203932b71421d72"
  },
  {
   "id": "nvidia-rtx-3070-ti",
@@ -1714,13 +2736,77 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3242856/carte-graphique-rtx-3070ti-8gb-seconde-vie-etat-sa",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Carte graphique RTX 3070Ti 8GB-Seconde Vie-Etat Satisfaisant"
+   },
+   {
+    "shop": "cybertek.fr",
+    "price": 350.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3254903/carte-graphique-rtx-3070ti-8gb-seconde-vie-etat-sa",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Carte graphique RTX 3070Ti 8GB-Seconde Vie-Etat Satisfaisant"
+   },
+   {
+    "shop": "grosbill.com",
+    "price": 440.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4634794/gigabyte-geforce-rtx-3070-ti-gaming-oc-8g-lhr-seco",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Gigabyte GeForce RTX 3070 Ti GAMING OC 8G LHR-Seconde Vie-Bon Etat"
+   },
+   {
+    "shop": "cybertek.fr",
+    "price": 440.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4634791/gigabyte-geforce-rtx-3070-ti-gaming-oc-8g-lhr-seco",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Gigabyte GeForce RTX 3070 Ti GAMING OC 8G LHR-Seconde Vie-Bon Etat"
+   },
+   {
+    "shop": "amazon.de",
+    "price": 612.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/1572915/evga-geforce-rtx-3070-ti-ftw3-ultra-gaming-08g-p5-",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "EVGA GeForce RTX 3070 Ti FTW3 Ultra Gaming, 08G-P5-3797-KL, 8GB GDDR6X, iCX3 Technology, ARGB LED, Metal Backplate"
+   },
+   {
+    "shop": "alternate.fr",
+    "price": 676.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4541721/zotac-geforce-rtx-3070-ti-trinity-oc-reconditionne",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "ZOTAC GeForce RTX 3070 Ti Trinity OC Reconditionné, Carte graphique"
+   },
+   {
+    "shop": "amazon.de",
+    "price": 957.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/1346872/palit-rtx3070ti-8gb-gamerock-one-size-black",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Palit RTX3070Ti 8GB Gamerock One Size Black"
+   },
+   {
+    "shop": "amazon.de",
+    "price": 985.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/875381/gigabyte-geforce-rtx-3070-ti-vision-oc-8gb-graphic",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Gigabyte GeForce RTX 3070 Ti Vision OC 8GB Graphics Card, GV-N307TVISION OC-8GD"
    }
   ],
   "image": "images/nvidia-rtx-3070-ti.png",
   "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/nvidia-rtx-3070-ti",
-  "lastUpdated": "2026-07-06T12:02:39Z"
+  "lastUpdated": "2026-07-06T13:30:45Z",
+  "imageSource": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/489/5173/4895173623479.png?signature=115a99dd4de7287d72e82476364952ecaa5fc4137d58c3e51051d9b045c9a6b0"
  },
  {
   "id": "nvidia-rtx-4000",
@@ -1737,14 +2823,105 @@
     "price": 1479.0,
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3277491/pny-nvidia-rtx-4000-ada-generation-20gb-sb-carte-g",
-    "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "PNY NVIDIA RTX 4000 Ada Generation 20GB SB, Carte graphique"
+   },
+   {
+    "shop": "alternate.fr",
+    "price": 1579.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3277492/pny-nvidia-rtx-4000-ada-generation-20gb-pb-carte-g",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY NVIDIA RTX 4000 Ada Generation 20GB PB, Carte graphique"
+   },
+   {
+    "shop": "jacob.de",
+    "price": 1615.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3153597/lenovo-nvidia-rtx-4000-ada-4x61p39479",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Lenovo NVIDIA RTX 4000 Ada (4X61P39479)"
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 1899.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3582161/pny-nvidia-rtx-4000-sff-ada-gen",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY Nvidia RTX 4000 SFF Ada Gen"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 1900.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/2640870/pny-nvidia-rtx-4000-sff-ada-generation",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY NVIDIA RTX 4000 SFF Ada Generation"
+   },
+   {
+    "shop": "bpm-power.com",
+    "price": 1904.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3014086/scheda-video-nvidia-hp-rtx-4000-ada-20gb-4dp-gfx-8",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Scheda Video nVidia Hp RTX 4000 Ada 20GB 4DP gfx [8D6B7AA]"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 1920.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/2641020/pny-nvidia-rtx-4000-ada-generation",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY NVIDIA RTX 4000 Ada Generation"
+   },
+   {
+    "shop": "grosbill.com",
+    "price": 2047.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3100532/pny-rtx-4000-ada-rtx400020gbsff",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY RTX 4000 Ada - RTX4000/20GB/SFF"
+   },
+   {
+    "shop": "bpm-power.com",
+    "price": 2069.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3660630/scheda-video-nvidia-hp-rtx-4000-ada-20gb-4dp-8d6b7",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Scheda Video nVidia Hp RTX 4000 ADA 20GB 4DP [8D6B7AA]"
+   },
+   {
+    "shop": "cybertek.fr",
+    "price": 2070.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3100529/pny-rtx-4000-ada-rtx400020gbsff",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY RTX 4000 Ada - RTX4000/20GB/SFF"
+   },
+   {
+    "shop": "jacob.de",
+    "price": 2792.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3974621/hpe-nvidia-rtx-4000-ada-grafikkarte-20-gb-gddr6-pc",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "HPE NVIDIA RTX 4000 Ada Grafikkarte 20 GB GDDR6 PCIe 4.0 x16 4x DP Z2 G9 (8D6B7AA)"
    }
   ],
   "image": "images/nvidia-rtx-4000.png",
   "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/nvidia-rtx-4000",
-  "lastUpdated": "2026-07-06T12:02:39Z"
+  "lastUpdated": "2026-07-06T13:30:45Z",
+  "imageSource": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/353/6403/3536403393922.png?signature=8f53291e41cfcea6b195f9d28edd1fd0fe21464b874e9d103efd71cdba1083e7"
  },
  {
   "id": "nvidia-rtx-4070",
@@ -1762,13 +2939,49 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/4721607/palit-rtx-4070-dual-12gb-gddr6x-dlss3-seconde-vie-",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Palit RTX 4070 Dual 12GB GDDR6X - DLSS3-Seconde Vie-Très Bon Etat"
+   },
+   {
+    "shop": "grosbill.com",
+    "price": 630.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4721608/msi-rtx-4070-ventus-3x-12g-oc-dlss3-seconde-vie-tr",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "MSI RTX 4070 VENTUS 3X 12G OC - DLSS3-Seconde Vie-Très Bon Etat"
+   },
+   {
+    "shop": "cybertek.fr",
+    "price": 630.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4721443/msi-rtx-4070-ventus-3x-12g-oc-dlss3-seconde-vie-tr",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "MSI RTX 4070 VENTUS 3X 12G OC - DLSS3-Seconde Vie-Très Bon Etat"
+   },
+   {
+    "shop": "alternate.fr",
+    "price": 630.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4657083/gainward-geforce-rtx-4070-ghost-oc-reconditionne-c",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Gainward GeForce RTX 4070 Ghost OC Reconditionné, Carte graphique"
+   },
+   {
+    "shop": "alternate.fr",
+    "price": 656.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4195074/gainward-geforce-rtx-4070-ghost-reconditionne-cart",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Gainward GeForce RTX 4070 Ghost Reconditionné, Carte graphique"
    }
   ],
   "image": null,
   "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/nvidia-rtx-4070",
-  "lastUpdated": "2026-07-06T12:02:39Z"
+  "lastUpdated": "2026-07-06T13:30:45Z"
  },
  {
   "id": "nvidia-rtx-4070-ti",
@@ -1786,13 +2999,50 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/4184121/gainward-geforce-rtx-4070-ti-phoenix-reconditionne",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Gainward GeForce RTX 4070 Ti Phoenix Reconditionné, Carte graphique"
+   },
+   {
+    "shop": "alternate.fr",
+    "price": 837.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4184119/zotac-geforce-rtx-4070-ti-trinity-reconditionne-ca",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "ZOTAC GeForce RTX 4070 Ti Trinity Reconditionné, Carte graphique"
+   },
+   {
+    "shop": "alternate.fr",
+    "price": 858.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4195077/gainward-geforce-rtx-4070-ti-panther-reconditionne",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Gainward GeForce RTX 4070 Ti Panther Reconditionné, Carte graphique"
+   },
+   {
+    "shop": "alternate.fr",
+    "price": 905.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4195078/gainward-geforce-rtx-4070-ti-phoenix-gs-reconditio",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Gainward GeForce RTX 4070 Ti Phoenix GS Reconditionné, Carte graphique"
+   },
+   {
+    "shop": "alternate.fr",
+    "price": 923.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4489077/palit-geforce-rtx-4070-ti-gamerock-classic-recondi",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Palit GeForce RTX 4070 Ti GameRock Classic reconditionné, Carte graphique"
    }
   ],
   "image": "images/nvidia-rtx-4070-ti.png",
   "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/nvidia-rtx-4070-ti",
-  "lastUpdated": "2026-07-06T12:02:39Z"
+  "lastUpdated": "2026-07-06T13:30:45Z",
+  "imageSource": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/471/0562/4710562243628.png?signature=98898896c1979a54ca3faf33af2ad0ea80e8a40546701788f4756f323b54a4b8"
  },
  {
   "id": "nvidia-rtx-4080",
@@ -1810,20 +3060,75 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/4670199/gigabyte-geforce-rtx-4080-16gb-eagle-seconde-vie-b",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Gigabyte GeForce RTX 4080 16GB EAGLE-Seconde Vie-Bon Etat"
+   },
+   {
+    "shop": "cybertek.fr",
+    "price": 960.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4670189/gigabyte-geforce-rtx-4080-16gb-eagle-seconde-vie-b",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Gigabyte GeForce RTX 4080 16GB EAGLE-Seconde Vie-Bon Etat"
+   },
+   {
+    "shop": "alternate.fr",
+    "price": 1119.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4195080/gainward-geforce-rtx-4080-panther-reconditionne-ca",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Gainward GeForce RTX 4080 Panther Reconditionné, Carte graphique"
+   },
+   {
+    "shop": "alternate.fr",
+    "price": 1169.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4195081/gainward-geforce-rtx-4080-phoenix-reconditionne-ca",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Gainward GeForce RTX 4080 Phoenix reconditionné, Carte graphique"
+   },
+   {
+    "shop": "alternate.fr",
+    "price": 1309.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4600807/zotac-geforce-rtx-4080-trinity-oc-reconditionne-ca",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "ZOTAC GeForce RTX 4080 Trinity OC Reconditionné, Carte graphique"
+   },
+   {
+    "shop": "alternate.fr",
+    "price": 1439.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4690905/zotac-geforce-rtx-4080-trinity-reconditionne-carte",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "ZOTAC GeForce RTX 4080 Trinity reconditionné, Carte graphique"
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 1589.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3582163/gigabyte-geforce-rtx-4080-gaming-oc-16gb-carte-gra",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "GIGABYTE GeForce RTX 4080 GAMING OC 16GB Carte graphique - 16GB DDR6X, 192bit, PCI-E 4.0, Core 2535Mhz, RGB, Anti-sag bracket, DP 1.4, HDMI 2.1a, N..."
    }
   ],
   "image": "images/nvidia-rtx-4080.png",
   "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/nvidia-rtx-4080",
-  "lastUpdated": "2026-07-06T12:02:39Z"
+  "lastUpdated": "2026-07-06T13:30:45Z",
+  "imageSource": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/471/0562/4710562243789.png?signature=c4b6ad66aecfee0750cce43cb8e4b3d12a37d6f37bcb19aca0d6af7900a88389"
  },
  {
   "id": "nvidia-rtx-4080-super",
   "brand": "NVIDIA",
   "name": "NVIDIA RTX 4080 SUPER",
   "index": 127.4,
-  "vramGb": null,
+  "vramGb": 16,
   "price": 1009.0,
   "tdp": 320,
   "priceMin": 1009.0,
@@ -1834,20 +3139,57 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/4480804/gainward-geforce-rtx-4080-super-phoenix-reconditio",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Gainward GeForce RTX 4080 SUPER Phoenix Reconditionné, Carte graphique"
+   },
+   {
+    "shop": "grosbill.com",
+    "price": 1035.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3489909/gigabyte-geforce-rtx-4080-super-windforce-16g-v2-s",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Gigabyte GeForce RTX 4080 SUPER WINDFORCE 16G V2-Seconde Vie-Très Bon Etat"
+   },
+   {
+    "shop": "cybertek.fr",
+    "price": 1053.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4254383/gigabyte-geforce-rtx-4080-super-windforce-16g-v2-s",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Gigabyte GeForce RTX 4080 SUPER WINDFORCE 16G V2-Seconde Vie-Très Bon Etat"
+   },
+   {
+    "shop": "alternate.fr",
+    "price": 1189.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4206842/zotac-geforce-rtx-4080-super-trinity-oc-white-edit",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "ZOTAC GeForce RTX 4080 SUPER Trinity OC White Edition 16GB Remis à neuf, Carte graphique"
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 2257.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3582150/gigabyte-geforce-rtx-4080-super-gaming-oc-carte-gr",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "GIGABYTE GeForce RTX 4080 Super Gaming OC Carte Graphique – Cœur 2595 MHz, mémoire 16 Go GDDR6X 23000 MHz 256 Bits, PCI-E 4.0, 3 x DP 1.4, 1 x HDMI..."
    }
   ],
-  "image": null,
+  "image": "images/nvidia-rtx-4080-super.png",
   "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/nvidia-rtx-4080-super",
-  "lastUpdated": "2026-07-06T12:02:39Z"
+  "lastUpdated": "2026-07-06T13:30:45Z",
+  "imageSource": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/489/5173/4895173628566.png?signature=edbfbd76b982e389ac617069bd9d3d0663d3181e55d9ab7056b2514f86a2ec0d"
  },
  {
   "id": "nvidia-rtx-4500",
   "brand": "NVIDIA",
   "name": "NVIDIA RTX 4500",
   "index": 105.2,
-  "vramGb": null,
+  "vramGb": 24,
   "price": 2261.0,
   "tdp": 210,
   "priceMin": 2261.0,
@@ -1858,20 +3200,156 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3108637/nvidia-rtx-4500-ada-900-5g132-2260-000",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "NVIDIA RTX 4500 ADA (900-5G132-2260-000)"
+   },
+   {
+    "shop": "bpm-power.com",
+    "price": 2550.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/2857851/scheda-video-nvidia-pny-quadro-rtx-4500-ada-genera",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Scheda video nVidia Pny Quadro RTX 4500 Ada Generation Smallbox 24GB GDDR6 192bit Nero [VCNRTX4500ADA-SB]"
+   },
+   {
+    "shop": "jacob.de",
+    "price": 2558.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3444892/pny-nvidia-rtx-4500-ada-grafikkarte-24-gb-gddr6-pc",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY NVIDIA RTX 4500 Ada Grafikkarte 24 GB GDDR6 PCIe 4.0 x16 4x DisplayPort (VCNRTX4500ADA-SB)"
+   },
+   {
+    "shop": "jacob.de",
+    "price": 2581.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3793820/lenovo-nvidia-rtx-4500-ada-grafikkarte-24-gb-gddr6",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Lenovo NVIDIA RTX 4500 Ada Grafikkarte 24 GB GDDR6 PCIe 4.0 x16 4x DisplayPort RTX4500 (4X61P46223)"
+   },
+   {
+    "shop": "bpm-power.com",
+    "price": 2626.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3696506/scheda-video-nvidia-quadro-rtx-4500-ada-24gb-900-5",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Scheda Video nVidia Quadro RTX 4500 Ada 24GB [900-5G132-2560-000]"
+   },
+   {
+    "shop": "alternate.fr",
+    "price": 2659.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3060601/pny-nvidia-rtx-4500-ada-generation-24gb-pb-carte-g",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY NVIDIA RTX 4500 Ada Generation 24GB PB, Carte graphique"
+   },
+   {
+    "shop": "jacob.de",
+    "price": 2817.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3526560/nvidia-rtx-4500-ada-grafikkarte-24-gb-gddr6-pcie-4",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "NVIDIA RTX 4500 Ada Grafikkarte 24 GB GDDR6 PCIe 4.0 x16 4x DisplayPort (900-5G132-2560-000)"
+   },
+   {
+    "shop": "topbiz.fr",
+    "price": 2878.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3610208/pny-vcnrtx4500ada-sb-carte-graphique-nvidia-rtx-45",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY VCNRTX4500ADA-SB carte graphique NVIDIA RTX 4500 Ada 24 Go GDDR6"
+   },
+   {
+    "shop": "jacob.de",
+    "price": 2999.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3422425/nvidia-rtx-4500-ada-8d6c1aa",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "NVIDIA RTX 4500 Ada (8D6C1AA)"
+   },
+   {
+    "shop": "bpm-power.com",
+    "price": 3112.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/2901972/scheda-video-nvidia-pny-rtx-a4500-24gb-gddr6-pci-e",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Scheda video nVidia Pny RTX A4500 24GB GDDR6 PCI Express x16 4.0 Nero [VCNRTX4500ADA-PB]"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 3130.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4201689/pny-nvidia-rtx-4500-ada-generation-version-bulk",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY NVIDIA RTX 4500 Ada Generation (version bulk)"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 3320.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/2641021/pny-nvidia-rtx-4500-ada-generation",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY NVIDIA RTX 4500 Ada Generation"
+   },
+   {
+    "shop": "bpm-power.com",
+    "price": 3558.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3722258/scheda-video-nvidia-hp-rtx-4500-ada-24-gb-4dp-g-8d",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Scheda Video nVidia Hp RTX 4500 ADA 24 GB 4DP G [8D6C1AA]"
+   },
+   {
+    "shop": "bpm-power.com",
+    "price": 4167.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4617262/scheda-video-nvidia-pny-rtx-pro-4500-32gb-gddr7-25",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Scheda Video nVidia Pny RTX PRO 4500 32GB GDDR7 256bit [TCSRTXPRO4500SE-PB]"
+   },
+   {
+    "shop": "jacob.de",
+    "price": 4425.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4630312/pny-nvidia-rtx-pro-4500-blackwell-server-gpu-32gb-",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY NVIDIA RTX PRO 4500 Blackwell Server GPU 32GB GDDR7 ECC PCIe 5.0 x16 (TCSRTXPRO4500SE-PB)"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 5360.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4531565/pny-nvidia-rtx-pro-4500-blackwell-edition-serveur",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY NVIDIA RTX PRO 4500 Blackwell Edition serveur"
    }
   ],
   "image": "images/nvidia-rtx-4500.png",
   "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/nvidia-rtx-4500",
-  "lastUpdated": "2026-07-06T12:02:39Z"
+  "lastUpdated": "2026-07-06T13:30:45Z",
+  "imageSource": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/859/2978/8592978544379.png?signature=3945d5be3321c87fe9d4f89a9f7b68b3a734ee0fcea613672b6bead1bca1240d"
  },
  {
   "id": "nvidia-rtx-5000",
   "brand": "NVIDIA",
   "name": "NVIDIA RTX 5000",
   "index": 113.6,
-  "vramGb": 32,
+  "vramGb": 48,
   "price": 4502.0,
   "tdp": 250,
   "priceMin": 4502.0,
@@ -1882,13 +3360,140 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/2828860/nvidia-rtx-5000-ada-generation-grafikkarte-32-gb-g",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "NVIDIA RTX 5000 Ada Generation Grafikkarte 32 GB GDDR6 PCIe 4.0 x16 4x DisplayPort (900-5G132-2240-000)"
+   },
+   {
+    "shop": "jacob.de",
+    "price": 4638.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/2946067/nvidia-rtx-5000-ada-grafikkarte-900-5g132-2540-000",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "NVIDIA RTX 5000 Ada Grafikkarte (900-5G132-2540-000)"
+   },
+   {
+    "shop": "jacob.de",
+    "price": 4644.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/2652642/pny-nvidia-rtx-5000-ada-generation-grafikkarte-32-",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY NVIDIA RTX 5000 Ada Generation Grafikkarte 32 GB GDDR6 PCIe 4.0 x16 4x DisplayPort (VCNRTX5000ADA-SB)"
+   },
+   {
+    "shop": "jacob.de",
+    "price": 5050.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/2630595/pny-nvidia-rtx-5000-ada-generation-grafikkarte-32-",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY NVIDIA RTX 5000 Ada Generation Grafikkarte 32 GB GDDR6 PCIe 4.0 x16 4x DP (VCNRTX5000ADA-PB)"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 5730.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/2641022/pny-nvidia-rtx-5000-ada-generation",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY NVIDIA RTX 5000 Ada Generation"
+   },
+   {
+    "shop": "bpm-power.com",
+    "price": 6454.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4434105/scheda-video-nvidia-pny-rtx-pro-5000-blackwell-48g",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Scheda video nVidia PNY RTX Pro 5000 Blackwell 48GB GDDR7 384bit Nero [VCNRTXPRO5000-PB]"
+   },
+   {
+    "shop": "alternate.fr",
+    "price": 6729.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4269345/pny-nvidia-rtx-pro-5000-blackwell-48gb-pb-carte-gr",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY NVIDIA RTX PRO 5000 Blackwell 48GB PB, Carte graphique"
+   },
+   {
+    "shop": "jacob.de",
+    "price": 6832.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4250434/pny-nvidia-rtx-pro-5000-blackwell-grafikkarte-vcnr",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY NVIDIA RTX PRO 5000 Blackwell Grafikkarte (VCNRTXPRO5000-PB)"
+   },
+   {
+    "shop": "jacob.de",
+    "price": 6855.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4270933/pny-nvidia-rtx-pro-5000-blackwell-48gb-gddr7-works",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY NVIDIA RTX Pro 5000 Blackwell 48GB GDDR7 Workstation Grafikkarte PCIe 5.0 (VCNRTXPRO5000-SB)"
+   },
+   {
+    "shop": "alternate.fr",
+    "price": 6919.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4269344/pny-nvidia-rtx-pro-5000-blackwell-generation-48-go",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY NVIDIA RTX PRO 5000 Blackwell Generation 48 Go SB, Carte graphique"
+   },
+   {
+    "shop": "bpm-power.com",
+    "price": 7373.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4332166/scheda-video-nvidia-pny-rtx-pro-5000-blackwell-48g",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Scheda video nVidia PNY RTX PRO 5000 Blackwell 48GB GDDR7 384bit Nero [VCNRTXPRO5000-SB]"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 7470.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4546646/pny-nvidia-rtx-5000-blackwell-48gb-version-oem",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY NVIDIA RTX 5000 Blackwell 48GB - Version OEM"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 7630.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4546647/pny-nvidia-rtx-5000-blackwell-48gb",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY NVIDIA RTX 5000 Blackwell 48GB"
+   },
+   {
+    "shop": "jacob.de",
+    "price": 9417.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4396242/pny-nvidia-rtx-pro-5000-blackwell-workstation-graf",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY NVIDIA RTX PRO 5000 Blackwell Workstation Grafikkarte, 72GB GDDR7, 4x DP 2.1 (VCNRTXPRO5000-72-SB)"
+   },
+   {
+    "shop": "jacob.de",
+    "price": 9653.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4389611/pny-rtx-pro-5000-blackwell-grafikkarte-72-gb-gddr7",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY RTX PRO 5000 Blackwell Grafikkarte 72 GB GDDR7 4x DisplayPort PCIe 5.0 (VCNRTXPRO5000-72-PB)"
    }
   ],
   "image": "images/nvidia-rtx-5000.png",
   "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/nvidia-rtx-5000",
-  "lastUpdated": "2026-07-06T12:02:39Z"
+  "lastUpdated": "2026-07-06T13:30:45Z",
+  "imageSource": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/859/2978/8592978543945.png?signature=063e3a87e4255ec75f3f68ee18b99b3e9b56b50608ab589fe0ef6f2a0d0c658d"
  },
  {
   "id": "nvidia-rtx-5050",
@@ -1906,20 +3511,174 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/4671728/asus-dual-geforce-rtx-5050-8gb-gddr6-oc-edition-se",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Asus Dual GeForce RTX 5050 8GB GDDR6 OC Edition-Seconde Vie-Très Bon Etat"
+   },
+   {
+    "shop": "cybertek.fr",
+    "price": 256.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4671724/asus-dual-geforce-rtx-5050-8gb-gddr6-oc-edition-se",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Asus Dual GeForce RTX 5050 8GB GDDR6 OC Edition-Seconde Vie-Très Bon Etat"
+   },
+   {
+    "shop": "alternate.fr",
+    "price": 260.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4137752/palit-geforce-rtx-5050-stormx-8gb-carte-graphique",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Palit GeForce RTX 5050 StormX 8GB, Carte graphique"
+   },
+   {
+    "shop": "amazon.de",
+    "price": 269.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4712573/palit-geforce-rtx-5050-stormx-8gb-gddr6-gaming-gra",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Palit GeForce RTX 5050 StormX 8GB GDDR6 Gaming Graphics Card"
+   },
+   {
+    "shop": "cdiscount.com",
+    "price": 280.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4180909/carte-graphique-gigabyte-rtx-5050-oc-8gl-8-go-gddr",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Carte graphique - GIGABYTE - RTX 5050 OC-8GL - 8 Go GDDR6 - Low Profile - Refroidissement silencieux"
+   },
+   {
+    "shop": "rueducommerce.fr",
+    "price": 280.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3994179/gainward-geforce-rtx-5050-ghost",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Gainward GeForce RTX 5050 Ghost"
+   },
+   {
+    "shop": "alternate.fr",
+    "price": 283.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4137747/gainward-geforce-rtx-5050-pegasus-8gb-carte-graphi",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Gainward GeForce RTX 5050 Pegasus 8GB, Carte graphique"
+   },
+   {
+    "shop": "alternate.fr",
+    "price": 286.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4305405/pny-geforce-rtx-5050-ventilateur-unique-carte-grap",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY GeForce RTX 5050 Ventilateur Unique, Carte graphique"
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 289.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4013947/asus-dual-nvidia-geforce-rtx-5050-8gb-gddr6-oc-edi",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "ASUS Dual NVIDIA GeForce RTX 5050 8GB GDDR6 OC Edition – Carte Graphique (PCIe 5.0, DLSS 4, HDMI 2.1b, DisplayPort 2.1b, 2 Slot, Ventilateurs axiau..."
+   },
+   {
+    "shop": "alternate.fr",
+    "price": 289.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4316202/pny-geforce-rtx-5050-double-ventilateur-carte-grap",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY GeForce RTX 5050 Double Ventilateur, Carte graphique"
+   },
+   {
+    "shop": "cdiscount.com",
+    "price": 290.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4180906/carte-graphique-asus-dual-rtx-5050-o8g-8-go-gddr6-",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Carte graphique - ASUS - DUAL RTX 5050 O8G - 8 Go GDDR6 - 320 Go/s - 8K 120Hz"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 290.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3967645/asus-dual-geforce-rtx-5050-8gb",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Asus Dual GeForce RTX 5050 8GB"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 290.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3967442/asus-dual-geforce-rtx-5050-8gb",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "ASUS Dual GeForce RTX 5050 8GB"
+   },
+   {
+    "shop": "grosbill.com",
+    "price": 290.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4259024/asus-dual-geforce-rtx-5050-8gb-gddr6-oc-edition",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Asus Dual GeForce RTX 5050 8GB GDDR6 OC Edition"
+   },
+   {
+    "shop": "cybertek.fr",
+    "price": 290.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4020979/asus-dual-geforce-rtx-5050-8gb-gddr6-oc-edition",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Asus Dual GeForce RTX 5050 8GB GDDR6 OC Edition"
+   },
+   {
+    "shop": "amazon.de",
+    "price": 290.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4365236/pny-geforce-rtx-5050-single-fan",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY GeForce RTX 5050 Single Fan"
+   },
+   {
+    "shop": "jacob.de",
+    "price": 292.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4011236/palit-rtx5050-stormx-gddr6-hdmi-3xdp-ne65050019p1-",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Palit RTX5050 StormX GDDR6 HDMI 3xDP (NE65050019P1-GB2070F)"
+   },
+   {
+    "shop": "amazon.de",
+    "price": 293.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4227255/pny-geforce-rtx-5050-dual-fan",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY GeForce RTX 5050 Dual Fan"
    }
   ],
   "image": "images/nvidia-rtx-5050.png",
   "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/nvidia-rtx-5050",
-  "lastUpdated": "2026-07-06T12:02:39Z"
+  "lastUpdated": "2026-07-06T13:30:45Z",
+  "imageSource": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/471/0562/4710562245448.png?signature=d54488f08e1c67f3d69db28c26076a8a07b23c7b5d872b3a103628cafb9424fa"
  },
  {
   "id": "nvidia-rtx-5060",
   "brand": "NVIDIA",
   "name": "NVIDIA RTX 5060",
   "index": 77.1,
-  "vramGb": null,
+  "vramGb": 8,
   "price": 289.0,
   "tdp": 145,
   "priceMin": 289.0,
@@ -1930,13 +3689,185 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/4718020/msi-geforce-rtx-5060-8g-shadow-2x-oc-oem-seconde-v",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "MSI GeForce RTX 5060 8G SHADOW 2X OC - OEM-Seconde Vie-Etat Satisfaisant"
+   },
+   {
+    "shop": "cybertek.fr",
+    "price": 289.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4361754/msi-geforce-rtx-5060-8g-shadow-2x-oc-oem-seconde-v",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "MSI GeForce RTX 5060 8G SHADOW 2X OC - OEM-Seconde Vie-Etat Satisfaisant"
+   },
+   {
+    "shop": "grosbill.com",
+    "price": 290.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4591279/pny-rtx-5060-8gb-dual-fan",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY RTX 5060 8GB Dual Fan"
+   },
+   {
+    "shop": "amazon.de",
+    "price": 295.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4186842/gigabyte-geforce-rtx-5060-windforce-max-oc-8g-grap",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Gigabyte GeForce RTX 5060 WINDFORCE MAX OC 8G Graphics Card - 8GB GDDR7, 128Bit, PCI-E 5.0, 2512MHz Core Frequency, 3x DisplayPort, 1x HDMI, NVIDIA..."
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 299.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3921887/pny-carte-graphique-geforce-rtxtm-5060-8gb-dual-fa",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY Carte Graphique GEFORCE RTX™ 5060 8GB Dual Fan DLSS 4"
+   },
+   {
+    "shop": "amazon.de",
+    "price": 299.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4703892/palit-geforce-rtx-5060-infinity-2-oc-8gb-gddr7-gam",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Palit GeForce RTX 5060 Infinity 2 OC 8GB GDDR7 Gaming Graphics Card"
+   },
+   {
+    "shop": "cybertek.fr",
+    "price": 300.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4591773/pny-rtx-5060-8gb-dual-fan",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY RTX 5060 8GB Dual Fan"
+   },
+   {
+    "shop": "grosbill.com",
+    "price": 300.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3797913/asus-dual-geforce-rtx-5060-8gb-gddr7-oc-edition",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Asus Dual GeForce RTX 5060 8GB GDDR7 OC Edition"
+   },
+   {
+    "shop": "amazon.de",
+    "price": 302.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3881453/pny-geforce-rtx-5060-8gb-overclocked-dual-fan-dlss",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY Geforce RTX 5060 8GB Overclocked Dual Fan DLSS 4 Graphics Card"
+   },
+   {
+    "shop": "amazon.de",
+    "price": 306.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3876634/gigabyte-geforce-rtx-5060-gaming-oc-8g-graphics-ca",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Gigabyte GeForce RTX 5060 Gaming OC 8G Graphics Card - 8GB GDDR7, 128bit, PCI-E 5.0, 2595 MHz Core Clock, 3 x DisplayPort, 1 x HDMI, GV-N5060GAMING..."
+   },
+   {
+    "shop": "alternate.fr",
+    "price": 307.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4011893/inno3d-geforce-rtx-5060-twin-x2-oc-8gb-carte-graph",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "INNO3D GeForce RTX 5060 TWIN X2 OC 8GB, Carte graphique"
+   },
+   {
+    "shop": "cybertek.fr",
+    "price": 310.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4020984/asus-dual-geforce-rtx-5060-8gb-gddr7-oc-edition",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Asus Dual GeForce RTX 5060 8GB GDDR7 OC Edition"
+   },
+   {
+    "shop": "alternate.fr",
+    "price": 310.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4227444/palit-geforce-rtx-5060-infinity-2-oc-carte-graphiq",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Palit GeForce RTX 5060 Infinity 2 OC, Carte graphique"
+   },
+   {
+    "shop": "alternate.fr",
+    "price": 313.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3861843/gainward-geforce-rtx-5060-ghost-8gb-carte-graphiqu",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Gainward GeForce RTX 5060 Ghost 8GB, Carte graphique"
+   },
+   {
+    "shop": "amazon.de",
+    "price": 313.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3876635/gigabyte-geforce-rtx-5060-eagle-oc-ice-8g-graphics",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Gigabyte GeForce RTX 5060 Eagle OC Ice 8G Graphics Card - 8GB GDDR7, 128bit, PCI-E 5.0, 2550 MHz Core Clock, 3 x DisplayPort, 1 x HDMI, GV-N5060EAG..."
+   },
+   {
+    "shop": "amazon.de",
+    "price": 318.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3917454/asus-prime-geforce-rtx-5060-8gb-gddr7-oc-edition-g",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "ASUS Prime GeForce RTX 5060 8GB GDDR7 OC Edition Gaming Graphics Card (Nvidia GeForce RTX5060 DLSS 4, 2.5-Slot Design, PCIe 5.0, 3X DisplayPort 2.1..."
+   },
+   {
+    "shop": "amazon.de",
+    "price": 319.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4072057/asus-dual-geforce-rtx-5060-8gb-gddr7-white-oc-edit",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "ASUS Dual GeForce RTX 5060 8GB GDDR7 White OC Edition Gaming Graphics Card (Nvidia Blackwell and DLSS 4, 2.5 Slot Design, PCIE 5.0, 1x HDMI 2.1b, 3..."
+   },
+   {
+    "shop": "topbiz.fr",
+    "price": 320.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3916000/zotac-gaming-geforce-rtx-5060-twin-edge-nvidia-8-g",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Zotac GAMING GeForce RTX 5060 Twin Edge NVIDIA 8 Go GDDR7"
+   },
+   {
+    "shop": "grosbill.com",
+    "price": 320.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4259036/gigabyte-geforce-rtx-5060-eagle-oc-ice-8g",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Gigabyte GeForce RTX 5060 EAGLE OC ICE 8G"
+   },
+   {
+    "shop": "openit.be",
+    "price": 320.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4477880/lenovo-carte-graphique-nvidia-geforce-rtx-5060-8-g",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Lenovo carte graphique NVIDIA GeForce RTX 5060 8 Go GDDR7 (4X61U02753)"
    }
   ],
   "image": "images/nvidia-rtx-5060.png",
   "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/nvidia-rtx-5060",
-  "lastUpdated": "2026-07-06T12:02:39Z"
+  "lastUpdated": "2026-07-06T13:30:45Z",
+  "imageSource": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/075/1492/0751492797083.png?signature=e3d2b72f6cfcd182cdcd8388803fa386226349525f9dccc381f634cf7b878bf7"
  },
  {
   "id": "nvidia-rtx-5060-ti",
@@ -1953,45 +3884,335 @@
     "price": 320.0,
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3795290/asus-dual-geforce-rtx-5060-ti-8gb-gddr7-oc-edition",
-    "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Asus Dual GeForce RTX 5060 Ti 8GB GDDR7 OC Edition"
+   },
+   {
+    "shop": "cybertek.fr",
+    "price": 325.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4021002/asus-dual-geforce-rtx-5060-ti-8gb-gddr7-oc-edition",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Asus Dual GeForce RTX 5060 Ti 8GB GDDR7 OC Edition"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 330.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3795884/asus-dual-geforce-rtx-5060-ti-oc-edition-8gb",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "ASUS Dual GeForce RTX 5060 Ti OC Edition 8GB"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 330.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3795442/asus-dual-geforce-rtx-5060-ti-8gb-gddr7-oc-edition",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Asus DUAL GeForce RTX 5060 Ti 8GB GDDR7 OC Edition"
+   },
+   {
+    "shop": "grosbill.com",
+    "price": 330.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3797725/inno3d-nvidia-geforce-rtx-5060-ti-x2-8gb",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Inno3D Nvidia GeForce RTX 5060 Ti X2 8GB"
+   },
+   {
+    "shop": "grosbill.com",
+    "price": 335.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4591284/inno3d-geforce-rtx-5060-ti-8gb-twin-x2",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Inno3D GeForce RTX 5060 Ti 8GB TWIN X2"
+   },
+   {
+    "shop": "cybertek.fr",
+    "price": 340.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4021003/inno3d-nvidia-geforce-rtx-5060-ti-x2-8gb",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Inno3D Nvidia GeForce RTX 5060 Ti X2 8GB"
+   },
+   {
+    "shop": "alternate.fr",
+    "price": 343.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3796459/gainward-geforce-rtx-5060-ti-ghost-8gb-carte-graph",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Gainward GeForce RTX 5060 Ti Ghost 8GB, Carte graphique"
+   },
+   {
+    "shop": "jacob.de",
+    "price": 350.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3841294/pny-geforce-rtx-5060ti-8gb-vcg5060t8dfxpb1-o",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY GEFORCE RTX 5060TI 8GB (VCG5060T8DFXPB1-O)"
+   },
+   {
+    "shop": "cybertek.fr",
+    "price": 350.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4021035/asus-prime-geforce-rtx-5060-ti-8gb-gddr7-oc-editio",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Asus PRIME GeForce RTX 5060 Ti 8GB GDDR7 OC Edition"
+   },
+   {
+    "shop": "grosbill.com",
+    "price": 350.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3795291/asus-prime-geforce-rtx-5060-ti-8gb-gddr7-oc-editio",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Asus PRIME GeForce RTX 5060 Ti 8GB GDDR7 OC Edition"
+   },
+   {
+    "shop": "bpm-power.com",
+    "price": 354.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3910016/scheda-video-nvidia-gigabyte-geforce-rtx-5060-ti-8",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Scheda Video nVidia Gigabyte GeForce RTX 5060 TI 8GB GDDR7 128bit Nero [GV-N506TWF2OC-8GD]"
+   },
+   {
+    "shop": "jacob.de",
+    "price": 356.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3816125/palit-rtx-5060ti-dual-8gb-gddr7-ne7506t019p1-gb206",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Palit RTX 5060Ti Dual 8GB GDDR7 (NE7506T019P1-GB2062D)"
+   },
+   {
+    "shop": "amazon.de",
+    "price": 357.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3797148/msi-geforce-rtx-5060-ti-8g-ventus-2x-oc-plus-8gb-g",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "MSI GeForce RTX 5060 Ti 8G Ventus 2X OC Plus - 8GB GDDR7 (28Gbps/128-bit), PCIe 5, Boost: 2602 MHz, HDMI 2.1b, DisplayPort 2.1b, Extra Core Pipes"
    }
   ],
   "image": "images/nvidia-rtx-5060-ti.png",
   "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/nvidia-rtx-5060-ti",
-  "lastUpdated": "2026-07-06T12:02:39Z"
+  "lastUpdated": "2026-07-06T13:30:45Z",
+  "imageSource": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/471/1387/4711387994290.png?signature=3691d67e531d6587d858036e5f1f294d9c1414b9463d5349292d47464ac4154f"
  },
  {
   "id": "nvidia-rtx-5070",
   "brand": "NVIDIA",
   "name": "NVIDIA RTX 5070",
   "index": 106.8,
-  "vramGb": null,
-  "price": 554.0,
+  "vramGb": 12,
+  "price": 546.0,
   "tdp": 250,
-  "priceMin": 554.0,
+  "priceMin": 546.0,
   "prices": [
+   {
+    "shop": "bpm-power.com",
+    "price": 546.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3910024/scheda-video-nvidia-palit-geforce-rtx-5070-12gb-gd",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Scheda Video nVidia Palit GeForce RTX 5070 12GB GDDR7 192bit Nero [NE75070S19K9-GB2050S]"
+   },
    {
     "shop": "alternate.fr",
     "price": 554.0,
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3773659/palit-geforce-rtx-5070-infinity-3-carte-graphique",
-    "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Palit GeForce RTX 5070 Infinity 3, Carte graphique"
+   },
+   {
+    "shop": "alternate.fr",
+    "price": 574.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4137814/palit-geforce-rtx-5070-infinity-3-oc-carte-graphiq",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Palit GeForce RTX 5070 Infinity 3 OC, Carte graphique"
+   },
+   {
+    "shop": "amazon.de",
+    "price": 579.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3735200/gigabyte-geforce-rtx-5070-windforce-oc-sff-12g-gra",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Gigabyte GeForce RTX 5070 WINDFORCE OC SFF 12G Graphics Card - 12GB GDDR7, 192 Bit, PCI-E 5.0, 2542 MHz Core Clock, 3 x DP 2.1a, 1 x HDMI 2.1b, NVI..."
+   },
+   {
+    "shop": "grosbill.com",
+    "price": 594.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4259074/msi-geforce-rtx-5070-12g-shadow-2x-oc-oem-seconde-",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "MSI GeForce RTX 5070 12G SHADOW 2X OC OEM-Seconde Vie-Etat Satisfaisant"
+   },
+   {
+    "shop": "cybertek.fr",
+    "price": 594.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4254380/msi-geforce-rtx-5070-12g-shadow-2x-oc-oem-seconde-",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "MSI GeForce RTX 5070 12G SHADOW 2X OC OEM-Seconde Vie-Etat Satisfaisant"
+   },
+   {
+    "shop": "amazon.de",
+    "price": 598.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3903024/asus-dual-geforce-rtx-5070-12gb-gddr7-oc-edition-g",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "ASUS Dual GeForce RTX 5070 12GB GDDR7 OC Edition Gaming Graphics Card (NVIDIA Blackwell Architecture and DLSS 4, 2.5 Slot Design, SSF, PCIe 5.0, 3X..."
+   },
+   {
+    "shop": "openit.be",
+    "price": 600.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4488948/lenovo-nvidia-geforce-rtx-5070-12-go-gddr7-4x61u02",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Lenovo NVIDIA GeForce RTX 5070 12 Go GDDR7 (4X61U02754)"
+   },
+   {
+    "shop": "bpm-power.com",
+    "price": 601.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3770501/scheda-video-nvidia-gigabyte-rtx-5070-12gb-windfor",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Scheda Video nVidia Gigabyte RTX 5070 12GB Windforce OC SFF GDDR7 3 Fan [GV-N5070WF3OC-12GD]"
+   },
+   {
+    "shop": "amazon.de",
+    "price": 605.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3731053/gigabyte-geforce-rtx-5070-eagle-oc-sff-12g-graphic",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Gigabyte GeForce RTX 5070 Eagle OC SFF 12G Graphics Card - 12GB GDDR7, 192 Bit, PCI-E 5.0, 2587 MHz Core Clock, 3 x DP 2.1b, 1 x HDMI 2.1b, NVIDIA ..."
+   },
+   {
+    "shop": "alternate.fr",
+    "price": 605.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3945648/pny-geforce-rtx-5070-carte-graphique",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY GeForce RTX 5070, Carte graphique"
+   },
+   {
+    "shop": "amazon.de",
+    "price": 606.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3731051/gigabyte-geforce-rtx-5070-gaming-oc-12g-graphics-c",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Gigabyte GeForce RTX 5070 Gaming OC 12G Graphics Card - 12GB GDDR7, 192 Bit, PCI-E 5.0, 2625 MHz Core Clock, 3 x DP 2.1a, 1 x HDMI 2.1b, NVIDIA DLS..."
+   },
+   {
+    "shop": "bpm-power.com",
+    "price": 608.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3921963/scheda-video-nvidia-asus-geforce-rtx-5070-12gb-gdd",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Scheda Video nVidia Asus GeForce RTX 5070 12GB GDDR7 192bit Multicolore [DUAL-RTX5070-O12G]"
+   },
+   {
+    "shop": "amazon.de",
+    "price": 609.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3740814/gigabyte-geforce-rtx-5070-eagle-oc-ice-sff-12g-gra",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Gigabyte GeForce RTX 5070 Eagle OC Ice SFF 12G Graphics Card - 12GB GDDR7, 192 Bit, PCI-E 5.0, 2587 MHz Core Clock, 3 x DP 2.1a, 1 x HDMI 2.1b, NVI..."
+   },
+   {
+    "shop": "bpm-power.com",
+    "price": 609.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3714913/scheda-video-nvidia-asus-prime-rtx5070-o12g-geforc",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Scheda Video nVidia Asus Prime -RTX5070-O12G GeForce RTX 5070 12 GB GDDR7 [90YV0M10-M0NA00]"
+   },
+   {
+    "shop": "amazon.de",
+    "price": 619.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4547331/pny-nvidia-geforce-rtxtm-5070-slim-dual-fan-dual-s",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY NVIDIA GeForce RTX™ 5070 Slim Dual Fan Dual Slot OC Graphics Card"
+   },
+   {
+    "shop": "grosbill.com",
+    "price": 620.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4259071/asus-dual-geforce-rtx-5070-12gb-gddr7",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Asus Dual GeForce RTX 5070 12GB GDDR7"
+   },
+   {
+    "shop": "cybertek.fr",
+    "price": 620.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4021066/asus-dual-geforce-rtx-5070-12gb-gddr7",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Asus Dual GeForce RTX 5070 12GB GDDR7"
+   },
+   {
+    "shop": "alternate.fr",
+    "price": 620.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4050427/pny-geforce-rtx-5070-oc-carte-graphique",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY GeForce RTX 5070 OC, Carte graphique"
+   },
+   {
+    "shop": "bpm-power.com",
+    "price": 621.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3804033/scheda-video-nvidia-inno3d-geforce-rtx-5070-twin-x",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Scheda Video nVidia Inno3D GeForce RTX 5070 Twin X2, 12288 MB GDDR7"
    }
   ],
   "image": "images/nvidia-rtx-5070.png",
   "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/nvidia-rtx-5070",
-  "lastUpdated": "2026-07-06T12:02:39Z"
+  "lastUpdated": "2026-07-06T13:30:45Z",
+  "imageSource": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/471/0562/4710562245080.png?signature=cb08a00307a145c3789d22de8ef962be1aa06a1a53fd815828d31d35fb15a921"
  },
  {
   "id": "nvidia-rtx-5070-ti",
   "brand": "NVIDIA",
   "name": "NVIDIA RTX 5070 TI",
   "index": 120.4,
-  "vramGb": null,
+  "vramGb": 16,
   "price": 841.0,
   "tdp": 300,
   "priceMin": 841.0,
@@ -2002,20 +4223,183 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/4670198/inno3d-geforce-rtx-5070-ti-x3-oc-seconde-vie-etat-",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Inno3D GeForce RTX 5070 Ti X3 OC-Seconde Vie-Etat Satisfaisant"
+   },
+   {
+    "shop": "cybertek.fr",
+    "price": 850.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4670188/inno3d-geforce-rtx-5070-ti-x3-oc-seconde-vie-etat-",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Inno3D GeForce RTX 5070 Ti X3 OC-Seconde Vie-Etat Satisfaisant"
+   },
+   {
+    "shop": "alternate.fr",
+    "price": 857.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3942973/palit-geforce-rtx-5070-ti-gamingpro-carte-graphiqu",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Palit GeForce RTX 5070 Ti GamingPro, Carte graphique"
+   },
+   {
+    "shop": "alternate.fr",
+    "price": 888.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4598730/gainward-geforce-rtx-5070-ti-phoenix-s-recondition",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Gainward GeForce RTX 5070 Ti Phoenix-S Reconditionné, Carte graphique"
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 891.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3758801/msi-nvidia-geforce-rtx-5070-ti-16g-gaming-trio-oc-",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "MSI NVIDIA GeForce RTX 5070 Ti 16G Gaming Trio OC Carte Graphique - 16 Go GDDR7 (28 GB/s, 256-bit), PCIe 5.0 - TRI FROZR 4 (3 x Ventilateurs STORMF..."
+   },
+   {
+    "shop": "alternate.fr",
+    "price": 893.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4729324/gainward-geforce-rtx-5070-ti-phoenix-gs-v1-recondi",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Gainward GeForce RTX 5070 Ti Phoenix GS V1 Reconditionné, Carte graphique"
+   },
+   {
+    "shop": "grosbill.com",
+    "price": 900.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3666860/asus-prime-geforce-rtx-5070-ti-16gb-gddr7-oc-editi",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Asus PRIME GeForce RTX 5070 Ti 16GB GDDR7 OC Edition"
+   },
+   {
+    "shop": "bpm-power.com",
+    "price": 914.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4332164/scheda-video-nvidia-geforce-rtx-5070-ti-windforce-",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Scheda Video nVidia GeForce RTX 5070 Ti Windforce OC V2 16GB GDDR7 256bit Nero [GV-N507TWF3OCV2-16GD]"
+   },
+   {
+    "shop": "alternate.fr",
+    "price": 920.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4137824/gainward-geforce-rtx-5070-ti-phoenix-s-gs-carte-gr",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Gainward GeForce RTX 5070 Ti Phoenix-S GS, Carte graphique"
+   },
+   {
+    "shop": "amazon.de",
+    "price": 922.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3863935/msi-geforce-rtx-5070-ti-16g-ventus-3x-oc-16gb-gddr",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "MSI GeForce RTX 5070 Ti 16G Ventus 3X OC — 16GB GDDR7 (28Gbps/256-bit), PCIe 5, Boost: 2482MHz, HDMI 2.1b, DisplayPort 2.1b"
+   },
+   {
+    "shop": "grosbill.com",
+    "price": 925.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4591299/palit-geforce-rtx-5070ti-16go-gaming-pro-s",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Palit GeForce RTX 5070Ti 16Go Gaming Pro-S"
+   },
+   {
+    "shop": "alternate.fr",
+    "price": 927.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4345389/pny-geforce-rtx-5070-ti-carte-graphique",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY GeForce RTX 5070 Ti, Carte graphique"
+   },
+   {
+    "shop": "alternate.fr",
+    "price": 929.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3869567/gainward-geforce-rtx-5070-ti-phoenix-s-carte-graph",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Gainward GeForce RTX 5070 Ti Phoenix-S, Carte graphique"
+   },
+   {
+    "shop": "grosbill.com",
+    "price": 930.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3666863/pny-rtx-5070ti-16gb-argb-overclocked-triple-fan",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY RTX 5070Ti 16GB ARGB Overclocked Triple Fan"
+   },
+   {
+    "shop": "bpm-power.com",
+    "price": 937.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4452120/scheda-video-nvidia-pny-geforce-rtx-5070-ti-16gb-g",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Scheda Video nVidia Pny GeForce RTX 5070 Ti 16GB Gaming Tripla ventola DLSS4 ARGB GDDR7 256bit Nero [VCG5070T16TFXXPB1]"
+   },
+   {
+    "shop": "amazon.de",
+    "price": 938.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3773498/pny-geforce-rtx-5070ti-16gb-oc-triple-fan-graphics",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY GeForce RTX 5070Ti 16GB OC Triple Fan Graphics Card DLSS 4"
+   },
+   {
+    "shop": "cybertek.fr",
+    "price": 940.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3666805/pny-rtx-5070ti-16gb-argb-overclocked-triple-fan",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY RTX 5070Ti 16GB ARGB Overclocked Triple Fan"
+   },
+   {
+    "shop": "bpm-power.com",
+    "price": 943.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4087428/scheda-video-nvidia-palit-geforce-rtx-5070-ti-gami",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Scheda Video nVidia Palit GeForce RTX 5070 TI GamingPro-S 16GB GDDR7 256bit Nero [NE7507T019T2-GB2031U]"
+   },
+   {
+    "shop": "amazon.de",
+    "price": 944.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3735195/gigabyte-geforce-rtx-5070-ti-windforce-oc-sff-16g-",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Gigabyte GeForce RTX 5070 Ti WINDFORCE OC SFF 16G Graphics Card - 16GB GDDR7, 256 Bit, PCI-E 5.0, 2497 MHz Core Clock, 3 x DP 2.1a, 1 x HDMI 2.1b, ..."
    }
   ],
   "image": "images/nvidia-rtx-5070-ti.png",
   "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/nvidia-rtx-5070-ti",
-  "lastUpdated": "2026-07-06T12:02:39Z"
+  "lastUpdated": "2026-07-06T13:30:45Z",
+  "imageSource": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/471/0562/4710562245011.png?signature=c6ee757d708cdec29b768f9fa16bde1c318965d135069e8e69ce40bc749b3942"
  },
  {
   "id": "nvidia-rtx-5080",
   "brand": "NVIDIA",
   "name": "NVIDIA RTX 5080",
   "index": 132.7,
-  "vramGb": null,
+  "vramGb": 16,
   "price": 1169.0,
   "tdp": 360,
   "priceMin": 1169.0,
@@ -2025,14 +4409,159 @@
     "price": 1169.0,
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3878003/palit-geforce-rtx-5080-gamingpro-v1-carte-graphiqu",
-    "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "Palit GeForce RTX 5080 GamingPro V1, Carte graphique"
+   },
+   {
+    "shop": "alternate.fr",
+    "price": 1189.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4064835/palit-geforce-rtx-5080-gamingpro-oc-carte-graphiqu",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Palit GeForce RTX 5080 GamingPro OC, Carte graphique"
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 1199.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3722521/pny-carte-graphique-geforce-rtxtm-5080-16gb-oc-tri",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY Carte Graphique GeForce RTX™ 5080 16GB OC Triple Fan DLSS 4"
+   },
+   {
+    "shop": "cdiscount.com",
+    "price": 1200.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4603619/carte-graphique-pny-geforce-rtx-5080-16-go-overclo",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Carte graphique - PNY - GeForce RTX 5080 - 16 Go - Overclockée - PCIe 5.0 (VCG508016TFXPB1-O)"
+   },
+   {
+    "shop": "alternate.fr",
+    "price": 1219.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4691989/gainward-geforce-rtx-5080-python-iii-carte-graphiq",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Gainward GeForce RTX 5080 Python III, Carte graphique"
+   },
+   {
+    "shop": "bpm-power.com",
+    "price": 1235.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4619260/scheda-video-nvidia-palit-geforce-rtx-5080-16gb-gd",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Scheda Video nVidia Palit GeForce RTX 5080 16GB GDDR7 256bit Nero [NE75080S19T2-GB2031Y]"
+   },
+   {
+    "shop": "grosbill.com",
+    "price": 1235.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4696823/msi-geforce-rtx-5080-16g-ventus-3x-oc-seconde-vie-",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "MSI GeForce RTX 5080 16G VENTUS 3X OC-Seconde Vie-Parfait Etat"
+   },
+   {
+    "shop": "grosbill.com",
+    "price": 1240.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3586536/gigabyte-geforce-nvidia-rtx-5080-windforce-oc-sff-",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Gigabyte GeForce Nvidia RTX 5080 WINDFORCE OC SFF 16G"
+   },
+   {
+    "shop": "bpm-power.com",
+    "price": 1247.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3777515/scheda-video-nvidia-zotac-rtx-5080-16gb-zotac-gami",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Scheda Video nVidia Zotac RTX 5080 16GB Zotac Gaming Solid Core OC GDDR7 3Fan [ZT-B50800J2-10P]"
+   },
+   {
+    "shop": "alternate.fr",
+    "price": 1249.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3908084/palit-geforce-rtx-5080-gamerock-carte-graphique",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Palit GeForce RTX 5080 GameRock, Carte graphique"
+   },
+   {
+    "shop": "compumsa.eu",
+    "price": 1250.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3612921/gigabyte-geforce-rtx-5080-16gb-windforce-oc-sff-ca",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Gigabyte GeForce RTX 5080 16GB WindForce OC SFF - Carte graphique Nvidia"
+   },
+   {
+    "shop": "cybertek.fr",
+    "price": 1250.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3586565/gigabyte-geforce-rtx-5080-windforce-oc-sff-16g",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Gigabyte GeForce RTX 5080 WINDFORCE OC SFF 16G"
+   },
+   {
+    "shop": "bpm-power.com",
+    "price": 1260.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3735295/scheda-video-pny-geforce-rtx-5080-16gb-overclocked",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Scheda Video PNY GeForce® RTX 5080 16GB Overclocked Triple Fan [VCG508016TFXPB1-O]"
+   },
+   {
+    "shop": "grosbill.com",
+    "price": 1260.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3744980/pny-nvidia-geforce-rtx-5080-16g-oc",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY Nvidia GeForce RTX 5080 16G OC"
+   },
+   {
+    "shop": "alternate.fr",
+    "price": 1269.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3759969/gainward-geforce-rtx-5080-phoenix-carte-graphique",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Gainward GeForce RTX 5080 Phoenix, Carte graphique"
+   },
+   {
+    "shop": "alternate.fr",
+    "price": 1279.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3829237/gainward-geforce-rtx-5080-phoenix-gs-carte-graphiq",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Gainward GeForce RTX 5080 Phoenix GS, Carte graphique"
+   },
+   {
+    "shop": "jacob.de",
+    "price": 1282.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3668487/pny-geforce-rtx-5080-oc-triple-fan-16-gb-gddr7-pci",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY GeForce RTX 5080 OC Triple Fan 16 GB GDDR7 PCIe 5.0 x16 Grafikkarte (VCG508016TFXPB1-O)"
    }
   ],
   "image": "images/nvidia-rtx-5080.png",
   "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/nvidia-rtx-5080",
-  "lastUpdated": "2026-07-06T12:02:39Z"
+  "lastUpdated": "2026-07-06T13:30:45Z",
+  "imageSource": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/471/0562/4710562245608.png?signature=8b786c36e71ed11f5b40b5be10f1d05a3631e08e89321c9560fc60236a7dff59"
  },
  {
   "id": "nvidia-rtx-5090",
@@ -2049,21 +4578,166 @@
     "price": 3246.0,
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3761476/msi-geforce-rtx-5090-32gb-vanguard-soc-carte-graph",
-    "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "MSI GeForce RTX 5090 32GB Vanguard SOC - Carte graphique Nvidia"
+   },
+   {
+    "shop": "reichelt.de",
+    "price": 3290.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3699080/msi-v530-026r-msi-rtx-5090-32g-suprim-soc",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "MSI V530-026R - MSI RTX 5090 32G SUPRIM SOC"
+   },
+   {
+    "shop": "grosbill.com",
+    "price": 3300.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3587161/asus-tuf-gaming-geforce-rtx-5090-32gb-gddr7",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Asus TUF Gaming GeForce RTX 5090 32GB GDDR7"
+   },
+   {
+    "shop": "cybertek.fr",
+    "price": 3300.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3587166/asus-tuf-gaming-geforce-rtx-5090-32gb-gddr7",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Asus TUF Gaming GeForce RTX 5090 32GB GDDR7"
+   },
+   {
+    "shop": "reichelt.de",
+    "price": 3359.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3699081/msi-v530-011r-msi-rtx5090-suprim-liquid-soc-32-gb",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "MSI V530-011R - MSI RTX5090 Suprim Liquid SOC 32 GB"
+   },
+   {
+    "shop": "compumsa.eu",
+    "price": 3470.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3612952/msi-geforce-rtx-5090-32gb-suprim-liquid-soc-carte-",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "MSI GeForce RTX 5090 32GB Suprim Liquid SOC - Carte graphique Nvidia"
+   },
+   {
+    "shop": "reichelt.de",
+    "price": 3499.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3725181/msi-v530-014r-msi-geforce-rtx-5090-32g-gaming-trio",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "MSI V530-014R - MSI GeForce RTX 5090 32G GAMING TRIO OC"
+   },
+   {
+    "shop": "compumsa.eu",
+    "price": 3579.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4468829/gigabyte-geforce-rtx-5090-32gb-windforce-carte-gra",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Gigabyte GeForce RTX 5090 32GB WindForce - Carte graphique Nvidia"
+   },
+   {
+    "shop": "grosbill.com",
+    "price": 3695.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3586556/asus-rog-astral-geforce-rtx-5090-32gb-gddr7-oc-edi",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Asus ROG Astral GeForce RTX 5090 32GB GDDR7 OC Edition"
+   },
+   {
+    "shop": "cybertek.fr",
+    "price": 3700.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3586585/asus-rog-astral-geforce-rtx-5090-32gb-gddr7-oc-edi",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Asus ROG Astral GeForce RTX 5090 32GB GDDR7 OC Edition"
+   },
+   {
+    "shop": "reichelt.de",
+    "price": 3749.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3741103/msi-v530-060r-msi-rtx-5090-32g-ventus-3x-oc",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "MSI V530-060R - MSI RTX 5090 32G VENTUS 3X OC"
+   },
+   {
+    "shop": "grosbill.com",
+    "price": 3794.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4259113/asus-rog-astral-rtx5090-o32g-btf-gaming",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Asus ROG-ASTRAL-RTX5090-O32G-BTF-GAMING"
+   },
+   {
+    "shop": "grosbill.com",
+    "price": 3795.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3810302/asus-rog-astral-geforce-rtx-5090-32gb-gddr7",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Asus ROG Astral GeForce RTX 5090 32GB GDDR7"
+   },
+   {
+    "shop": "cybertek.fr",
+    "price": 3795.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4021114/asus-rog-astral-geforce-rtx-5090-32gb-gddr7",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Asus ROG Astral GeForce RTX 5090 32GB GDDR7"
+   },
+   {
+    "shop": "compumsa.eu",
+    "price": 3821.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4154632/asus-rog-astral-geforce-rtx-5090-32gb-btf-rog-astr",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Asus ROG Astral GeForce RTX 5090 32GB BTF - ROG-ASTRAL-RTX5090-32G-BTF-GAMING - Carte graphique Nvidia"
+   },
+   {
+    "shop": "alternate.fr",
+    "price": 3849.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3953196/asus-tuf-gaming-geforce-rtx-5090-oc-carte-graphiqu",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "ASUS TUF Gaming GeForce RTX 5090 OC, Carte graphique"
+   },
+   {
+    "shop": "compumsa.eu",
+    "price": 3872.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4468830/gigabyte-geforce-rtx-5090-32gb-gaming-carte-graphi",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Gigabyte GeForce RTX 5090 32GB Gaming - Carte graphique Nvidia"
    }
   ],
   "image": "images/nvidia-rtx-5090.png",
   "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/nvidia-rtx-5090",
-  "lastUpdated": "2026-07-06T12:02:39Z"
+  "lastUpdated": "2026-07-06T13:30:45Z",
+  "imageSource": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/471/1377/4711377302500.png?signature=ad153a032b9fcd7cc0256e90d2fb44034a8720dc6657343ee002aab7d4d6e63d"
  },
  {
   "id": "nvidia-rtx-6000",
   "brand": "NVIDIA",
   "name": "NVIDIA RTX 6000",
   "index": 107.1,
-  "vramGb": null,
+  "vramGb": 48,
   "price": 4322.0,
   "tdp": 300,
   "priceMin": 4322.0,
@@ -2074,20 +4748,66 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/1325297/pny-quadro-rtx-6000",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "PNY Quadro RTX 6000"
+   },
+   {
+    "shop": "cybertek.fr",
+    "price": 4600.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/1385284/pny-quadro-rtx-6000",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY Quadro RTX 6000"
+   },
+   {
+    "shop": "jacob.de",
+    "price": 7139.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3135660/nvidia-rtx-6000-ada-grafikkarte-48gb-gddr6-pcie-4-",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "NVIDIA RTX 6000 Ada Grafikkarte 48GB GDDR6 PCIe 4.0 x16 4x DisplayPort (900-5G133-2250-000)"
+   },
+   {
+    "shop": "grosbill.com",
+    "price": 8500.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4259117/nvidia-rtx-6000-ada-card-only",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "NVidia RTX 6000 Ada- card only"
+   },
+   {
+    "shop": "cybertek.fr",
+    "price": 8500.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4122900/nvidia-rtx-6000-ada-card-only",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "NVidia RTX 6000 Ada- card only"
+   },
+   {
+    "shop": "jacob.de",
+    "price": 9393.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/2855740/pny-nvidia-rtx-6000-ada-grafikkarte-48-gb-gddr6-pc",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY NVIDIA RTX 6000 Ada Grafikkarte 48 GB GDDR6 PCIe 4.0 x16 Dual Slot (VCNRTX6000ADA-SB)"
    }
   ],
   "image": "images/nvidia-rtx-6000.png",
   "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/nvidia-rtx-6000",
-  "lastUpdated": "2026-07-06T12:02:39Z"
+  "lastUpdated": "2026-07-06T13:30:45Z",
+  "imageSource": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/353/6403/3536403366926.png?signature=f56d1dd7678f608a330bc59ad81c1d0b5b1d59946350b02140afbb7cd2522483"
  },
  {
   "id": "nvidia-rtx-a1000",
   "brand": "NVIDIA",
   "name": "NVIDIA RTX A1000",
   "index": 39.8,
-  "vramGb": null,
+  "vramGb": 8,
   "price": 399.0,
   "tdp": 50,
   "priceMin": 399.0,
@@ -2098,12 +4818,184 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/1/3226864/nvidia-rtx-a1000-grafikkarten-900-5g172-2280-000",
     "inStock": true,
-    "lastSeen": "2026-07-06T12:02:39Z",
+    "lastSeen": "2026-07-06T13:30:45Z",
     "product": "NVIDIA RTX A1000 - Grafikkarten (900-5G172-2280-000)"
+   },
+   {
+    "shop": "bpm-power.com",
+    "price": 431.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3178739/scheda-video-nvidia-pny-a1000-low-profile-8gb-pcie",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Scheda Video nVidia Pny A1000 Low Profile 8GB PCIe 4.0x8 Slot singolo 4xMini DisplayPort 1.4a 50W Nero [VCNRTXA1000-SB]"
+   },
+   {
+    "shop": "jacob.de",
+    "price": 446.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3295617/nvidia-rtx-a1000-grafikkarten-900-5g172-2580-000",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "NVIDIA RTX A1000 Grafikkarten (900-5G172-2580-000)"
+   },
+   {
+    "shop": "bpm-power.com",
+    "price": 448.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4224766/scheda-video-nvidia-rtx-a1000-8gb-gddr6-128bit-ner",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Scheda Video nVidia RTX A1000 8GB GDDR6 128bit Nero [900-5G172-2280-000]"
+   },
+   {
+    "shop": "jacob.de",
+    "price": 448.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3133966/pny-nvidia-rtx-a1000-vcnrtxa1000-sb",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY NVIDIA RTX A1000 (VCNRTXA1000-SB)"
+   },
+   {
+    "shop": "topbiz.fr",
+    "price": 450.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3765607/nvidia-rtx-a1000-8-go-gddr6",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Nvidia RTX A1000 8 Go GDDR6"
+   },
+   {
+    "shop": "alternate.fr",
+    "price": 451.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4137796/pny-nvidia-rtx-a1000-sb-carte-graphique",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY NVIDIA RTX A1000 SB, Carte graphique"
+   },
+   {
+    "shop": "jacob.de",
+    "price": 453.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3585312/pny-nvidia-rtx-a1000-vcnrtxa1000-pl",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY NVIDIA RTX A1000 (VCNRTXA1000-PL)"
+   },
+   {
+    "shop": "codima.be",
+    "price": 459.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4312843/pny-quadro-a1000-8gb-gddr6-4x-mdpp",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY Quadro A1000 8GB GDDR6 (4x mDPP)"
+   },
+   {
+    "shop": "openit.be",
+    "price": 460.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3544958/lenovo-carte-graphique-nvidia-rtx-a1000-8-go-gddr6",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Lenovo carte graphique NVIDIA RTX A1000 8 Go GDDR6 (4X61Q73041)"
+   },
+   {
+    "shop": "topbiz.fr",
+    "price": 462.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3765608/nvidia-rtx-a1000-8-go-gddr6",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Nvidia RTX A1000 8 Go GDDR6"
+   },
+   {
+    "shop": "topbiz.fr",
+    "price": 463.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3777817/pny-rtx-a1000-nvidia-8-go-gddr6",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY RTX A1000 NVIDIA 8 Go GDDR6"
+   },
+   {
+    "shop": "openit.be",
+    "price": 474.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4177529/nvidia-rtx-a1000-carte-graphique-900-5g172-2280-00",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Nvidia RTX A1000 Carte graphique (900-5G172-2280-000)"
+   },
+   {
+    "shop": "bpm-power.com",
+    "price": 475.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3178740/scheda-video-nvidia-pny-a1000-low-profile-8gb-gddr",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Scheda Video nVidia Pny A1000 Low Profile 8GB GDDR6 128bit PCIe 4.0x8 4xMini DisplayPort 1.4a 50W Nero [VCNRTXA1000-PB]"
+   },
+   {
+    "shop": "bpm-power.com",
+    "price": 492.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3665938/scheda-video-nvidia-hp-rtx-a1000-8-gb-con-mini-bra",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Scheda Video nVidia Hp RTX A1000 8 GB con mini bracket 4MDP"
+   },
+   {
+    "shop": "jacob.de",
+    "price": 493.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3131029/pny-nvidia-rtx-a1000-vcnrtxa1000-pb",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY NVIDIA RTX A1000 (VCNRTXA1000-PB)"
+   },
+   {
+    "shop": "amazon.de",
+    "price": 495.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4698227/lenovo-graphics-card-nvidia-rtx-a1000-8gb-gddr6-4x",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Lenovo Graphics Card Nvidia RTX A1000 8GB Gddr6 4X61Q73041"
+   },
+   {
+    "shop": "jacob.de",
+    "price": 497.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4305930/hpinc-nvidia-rtx-a1000-8gb-gddr6-pcie-4-0-x8-4x-mi",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "HPINC NVIDIA RTX A1000 8GB GDDR6 PCIe 4.0 x8 4x miniDP 1.4a/2304 Cuda Cores/Single Slot / 50W (AV8J4AA)"
+   },
+   {
+    "shop": "alternate.fr",
+    "price": 497.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/4137802/pny-rtx-a1000-pb-carte-graphique",
+    "inStock": false,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "PNY RTX A1000 PB, Carte graphique"
+   },
+   {
+    "shop": "jacob.de",
+    "price": 499.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/1/3518533/lenovo-nvidia-rtx-a1000-4x61q73041",
+    "inStock": true,
+    "lastSeen": "2026-07-06T13:30:45Z",
+    "product": "Lenovo NVIDIA RTX A1000 (4X61Q73041)"
    }
   ],
   "image": "images/nvidia-rtx-a1000.png",
   "sourceUrl": "https://www.gputracker.eu/en/search/category/1/graphics-cards/facet/2/graphics-chip/nvidia-rtx-a1000",
-  "lastUpdated": "2026-07-06T12:02:39Z"
+  "lastUpdated": "2026-07-06T13:30:45Z",
+  "imageSource": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/859/2978/8592978562335.png?signature=8c5f97ac9b70e987e751ef7ea5d5e47448f77869a99e02c98b66d71f853fb723"
  }
 ]

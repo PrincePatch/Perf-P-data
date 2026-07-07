@@ -141,6 +141,8 @@ PRIO_QUERY = {
 # prix vérifié LDLC/Amazon/Materiel.net/Alternate presque à chaque fois
 # (lot 16, item 9).
 FV_SHOPS_PRIORITAIRES = ["3", "4", "2", "18"]  # ldlc, amazon.fr, materiel.net, alternate.fr
+# 2e vague (lot 17, item 6) : autres enseignes FR suivies par l'app.
+FV_SHOPS_SECONDAIRES = ["42", "78", "9", "195", "5"]  # grosbill, cybertek, rueducommerce, topbiz, cdiscount
 
 
 def offres_pour(src, cat_id, slug, requete, fv_shops=None):
@@ -245,10 +247,12 @@ def principal():
                 if brutes:
                     vues = {(o["shop"], o["price"]) for o in brutes}
                     q_prio = PRIO_QUERY.get(cat, lambda x: requete_ok)(it)
-                    for o in offres_pour(src, cat_id, slug, q_prio,
-                                         fv_shops=FV_SHOPS_PRIORITAIRES):
-                        if (o["shop"], o["price"]) not in vues:
-                            brutes.append(o)
+                    for lot_shops in (FV_SHOPS_PRIORITAIRES, FV_SHOPS_SECONDAIRES):
+                        for o in offres_pour(src, cat_id, slug, q_prio,
+                                             fv_shops=lot_shops):
+                            if (o["shop"], o["price"]) not in vues:
+                                vues.add((o["shop"], o["price"]))
+                                brutes.append(o)
             except Exception as e:  # noqa: BLE001 — une requête ratée ne tue pas le run
                 print(f"  ! {cat}/{it['id']}: {e}", file=sys.stderr)
                 continue

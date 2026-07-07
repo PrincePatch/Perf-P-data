@@ -27,6 +27,11 @@ jobs:
       # Les listes de composants vivent dans catalog/ (copie des assets app).
       - name: Offres par composant (toutes categories)
         run: python scraper/enrich_catalog.py --data-repo . --items-dir catalog
+      # Photos par MODELE (variante AIB) pour les modeles sans image d'offre
+      # (lot 17, item 3) : incremental, ne re-cherche que les nouveaux.
+      - name: Images par modele (variantes AIB)
+        run: python scraper/fetch_model_images.py --data-repo .
+        continue-on-error: true
       - name: Commit data
         run: |
           git config user.name "github-actions[bot]"

@@ -1,0 +1,14 @@
+[
+  { "id": "1080p60",  "name": "1080p — 60 Hz",            "width": 1920, "height": 1080, "refreshHz": 60 },
+  { "id": "1080p144", "name": "1080p — 144 Hz",           "width": 1920, "height": 1080, "refreshHz": 144 },
+  { "id": "1080p165", "name": "1080p — 165 Hz",           "width": 1920, "height": 1080, "refreshHz": 165 },
+  { "id": "1080p240", "name": "1080p — 240 Hz",           "width": 1920, "height": 1080, "refreshHz": 240 },
+  { "id": "1440p60",  "name": "1440p — 60 Hz",            "width": 2560, "height": 1440, "refreshHz": 60 },
+  { "id": "1440p144", "name": "1440p — 144 Hz",           "width": 2560, "height": 1440, "refreshHz": 144 },
+  { "id": "1440p165", "name": "1440p — 165 Hz",           "width": 2560, "height": 1440, "refreshHz": 165 },
+  { "id": "1440p240", "name": "1440p — 240 Hz",           "width": 2560, "height": 1440, "refreshHz": 240 },
+  { "id": "uw1440p",  "name": "UltraWide 3440×1440 — 144 Hz", "width": 3440, "height": 1440, "refreshHz": 144 },
+  { "id": "4k60",     "name": "4K — 60 Hz",               "width": 3840, "height": 2160, "refreshHz": 60 },
+  { "id": "4k120",    "name": "4K — 120 Hz",              "width": 3840, "height": 2160, "refreshHz": 120 },
+  { "id": "4k144",    "name": "4K — 144 Hz",              "width": 3840, "height": 2160, "refreshHz": 144 }
+]

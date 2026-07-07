@@ -1,0 +1,8 @@
+[
+  { "id": "aucun", "name": "Aucun / déjà possédé", "price": 0, "detail": "pas de licence à acheter" },
+  { "id": "win11_home_oem", "name": "Windows 11 Famille (OEM)", "price": 120, "detail": "licence OEM 1 PC" },
+  { "id": "win11_pro_oem", "name": "Windows 11 Pro (OEM)", "price": 160, "detail": "OEM · BitLocker, RDP, Hyper-V" },
+  { "id": "win11_home_retail", "name": "Windows 11 Famille (boîte)", "price": 145, "detail": "licence transférable" },
+  { "id": "win11_pro_retail", "name": "Windows 11 Pro (boîte)", "price": 199, "detail": "transférable + fonctions pro" },
+  { "id": "linux", "name": "Linux (gratuit)", "price": 0, "detail": "Ubuntu / Fedora / etc." }
+]

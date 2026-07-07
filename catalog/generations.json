@@ -1,0 +1,300 @@
+{
+ "gpu": [
+  {
+   "id": "rtx50",
+   "label": "GeForce RTX série 50",
+   "annee": "2025",
+   "motif": "RTX\\s?50\\d0",
+   "fraicheur": 1.0,
+   "marque": "NVIDIA"
+  },
+  {
+   "id": "rtx40",
+   "label": "GeForce RTX série 40",
+   "annee": "2022–2024",
+   "motif": "RTX\\s?40\\d0",
+   "fraicheur": 0.92,
+   "marque": "NVIDIA"
+  },
+  {
+   "id": "rtx30",
+   "label": "GeForce RTX série 30",
+   "annee": "2020–2021",
+   "motif": "RTX\\s?30\\d0",
+   "fraicheur": 0.72,
+   "marque": "NVIDIA"
+  },
+  {
+   "id": "rtx20",
+   "label": "GeForce RTX série 20",
+   "annee": "2018–2019",
+   "motif": "RTX\\s?20\\d0",
+   "fraicheur": 0.55,
+   "marque": "NVIDIA"
+  },
+  {
+   "id": "gtx16",
+   "label": "GeForce GTX série 16",
+   "annee": "2019",
+   "motif": "GTX\\s?16\\d0",
+   "fraicheur": 0.45,
+   "marque": "NVIDIA",
+   "parDefaut": false
+  },
+  {
+   "id": "gtx10",
+   "label": "GeForce GTX série 10",
+   "annee": "2016–2017",
+   "motif": "GTX\\s?10\\d0",
+   "fraicheur": 0.35,
+   "marque": "NVIDIA",
+   "parDefaut": false
+  },
+  {
+   "id": "gtx900",
+   "label": "GeForce GTX série 900",
+   "annee": "2014–2015",
+   "motif": "GTX\\s?9[5-9]0",
+   "fraicheur": 0.25,
+   "marque": "NVIDIA",
+   "parDefaut": false
+  },
+  {
+   "id": "rx9000",
+   "label": "Radeon RX 9000 · RDNA 4",
+   "annee": "2025",
+   "motif": "RX\\s?90\\d0",
+   "fraicheur": 1.0,
+   "marque": "AMD"
+  },
+  {
+   "id": "rx7000",
+   "label": "Radeon RX 7000 · RDNA 3",
+   "annee": "2022–2023",
+   "motif": "RX\\s?7\\d{3}",
+   "fraicheur": 0.85,
+   "marque": "AMD"
+  },
+  {
+   "id": "rx6000",
+   "label": "Radeon RX 6000 · RDNA 2",
+   "annee": "2020–2021",
+   "motif": "RX\\s?6\\d{3}",
+   "fraicheur": 0.7,
+   "marque": "AMD"
+  },
+  {
+   "id": "rx5000",
+   "label": "Radeon RX 5000 · RDNA",
+   "annee": "2019",
+   "motif": "RX\\s?5[5-7]00",
+   "fraicheur": 0.5,
+   "marque": "AMD",
+   "parDefaut": false
+  },
+  {
+   "id": "rx500",
+   "label": "Radeon RX série 500 · Polaris",
+   "annee": "2017",
+   "motif": "RX\\s?5[5-9]0\\b",
+   "fraicheur": 0.3,
+   "marque": "AMD",
+   "parDefaut": false
+  },
+  {
+   "id": "arcB",
+   "label": "Intel Arc série B · Battlemage",
+   "annee": "2024–2025",
+   "motif": "Arc\\s?B\\d",
+   "fraicheur": 0.95,
+   "marque": "Intel"
+  },
+  {
+   "id": "arcA",
+   "label": "Intel Arc série A · Alchemist",
+   "annee": "2022",
+   "motif": "Arc\\s?A\\d",
+   "fraicheur": 0.7,
+   "marque": "Intel"
+  }
+ ],
+ "cpu": [
+  {
+   "id": "ultra200",
+   "label": "Intel Core Ultra 200",
+   "annee": "2024–2025",
+   "motif": "Core\\s?Ultra\\s?[579]\\s?2\\d\\d",
+   "fraicheur": 1.0,
+   "marque": "Intel"
+  },
+  {
+   "id": "intel14",
+   "label": "Intel Core 14ᵉ génération",
+   "annee": "2023–2024",
+   "motif": "i[3579]-?\\s?14\\d{3}",
+   "fraicheur": 0.95,
+   "marque": "Intel"
+  },
+  {
+   "id": "intel13",
+   "label": "Intel Core 13ᵉ génération",
+   "annee": "2022–2023",
+   "motif": "i[3579]-?\\s?13\\d{3}",
+   "fraicheur": 0.9,
+   "marque": "Intel"
+  },
+  {
+   "id": "intel12",
+   "label": "Intel Core 12ᵉ génération",
+   "annee": "2021–2022",
+   "motif": "i[3579]-?\\s?12\\d{3}",
+   "fraicheur": 0.8,
+   "marque": "Intel"
+  },
+  {
+   "id": "intel11",
+   "label": "Intel Core 11ᵉ génération",
+   "annee": "2021",
+   "motif": "i[3579]-?\\s?11\\d{3}",
+   "fraicheur": 0.62,
+   "marque": "Intel"
+  },
+  {
+   "id": "intel10",
+   "label": "Intel Core 10ᵉ génération",
+   "annee": "2020",
+   "motif": "i[3579]-?\\s?10\\d{3}",
+   "fraicheur": 0.52,
+   "marque": "Intel",
+   "parDefaut": false
+  },
+  {
+   "id": "ryzen9000",
+   "label": "AMD Ryzen 9000 · Zen 5",
+   "annee": "2024–2025",
+   "motif": "Ryzen\\s?[579]\\s?9\\d{3}",
+   "fraicheur": 1.0,
+   "marque": "AMD"
+  },
+  {
+   "id": "ryzen8000",
+   "label": "AMD Ryzen 8000 · Zen 4",
+   "annee": "2024",
+   "motif": "Ryzen\\s?[579]\\s?8\\d{3}",
+   "fraicheur": 0.9,
+   "marque": "AMD"
+  },
+  {
+   "id": "ryzen7000",
+   "label": "AMD Ryzen 7000 · Zen 4",
+   "annee": "2022–2023",
+   "motif": "Ryzen\\s?[579]\\s?7\\d{3}",
+   "fraicheur": 0.9,
+   "marque": "AMD"
+  },
+  {
+   "id": "ryzen5000",
+   "label": "AMD Ryzen 5000 · Zen 3",
+   "annee": "2020–2022",
+   "motif": "Ryzen\\s?[579]\\s?5\\d{3}",
+   "fraicheur": 0.7,
+   "marque": "AMD"
+  },
+  {
+   "id": "ryzen3000",
+   "label": "AMD Ryzen 3000 · Zen 2",
+   "annee": "2019",
+   "motif": "Ryzen\\s?[3579]\\s?3\\d{3}",
+   "fraicheur": 0.5,
+   "marque": "AMD",
+   "parDefaut": false
+  },
+  {
+   "id": "ryzen2000",
+   "label": "AMD Ryzen 2000 · Zen+",
+   "annee": "2018",
+   "motif": "Ryzen\\s?[357]\\s?2\\d{3}",
+   "fraicheur": 0.4,
+   "marque": "AMD",
+   "parDefaut": false
+  },
+  {
+   "id": "ryzen1000",
+   "label": "AMD Ryzen 1000 · Zen",
+   "annee": "2017",
+   "motif": "Ryzen\\s?[357]\\s?1\\d{3}",
+   "fraicheur": 0.3,
+   "marque": "AMD",
+   "parDefaut": false
+  }
+ ],
+ "ram": [
+  {
+   "id": "ddr5",
+   "label": "DDR5",
+   "annee": "depuis 2021",
+   "motif": "^DDR5",
+   "fraicheur": 1.0,
+   "champ": "kind"
+  },
+  {
+   "id": "ddr4",
+   "label": "DDR4",
+   "annee": "2014–2021",
+   "motif": "^DDR4",
+   "fraicheur": 0.75,
+   "champ": "kind"
+  },
+  {
+   "id": "ddr3",
+   "label": "DDR3",
+   "annee": "avant 2014",
+   "motif": "^DDR3",
+   "fraicheur": 0.4,
+   "champ": "kind",
+   "parDefaut": false
+  }
+ ],
+ "ssd": [
+  {
+   "id": "gen5",
+   "label": "NVMe PCIe 5.0",
+   "annee": "depuis 2023",
+   "motif": "Gen5",
+   "fraicheur": 1.0,
+   "champ": "kind"
+  },
+  {
+   "id": "gen4",
+   "label": "NVMe PCIe 4.0",
+   "annee": "depuis 2019",
+   "motif": "Gen4",
+   "fraicheur": 0.95,
+   "champ": "kind"
+  },
+  {
+   "id": "gen3",
+   "label": "NVMe PCIe 3.0",
+   "annee": "2015–2020",
+   "motif": "Gen3",
+   "fraicheur": 0.8,
+   "champ": "kind"
+  },
+  {
+   "id": "sata",
+   "label": "SSD SATA",
+   "annee": "—",
+   "motif": "SATA",
+   "fraicheur": 0.6,
+   "champ": "kind"
+  },
+  {
+   "id": "hdd",
+   "label": "Disque dur (HDD)",
+   "annee": "—",
+   "motif": "HDD",
+   "fraicheur": 0.4,
+   "champ": "kind"
+  }
+ ]
+}

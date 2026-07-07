@@ -128,10 +128,19 @@ def suffixe_ok(cat, nom_app, nom_offre):
     return True
 
 
-def offres_pour(src, cat_id, slug, requete):
-    """Offres (triées prix croissant par le site) de la recherche [requete]."""
+# Grandes enseignes prioritaires (ids fv_shop gputracker) : leurs offres sont
+# recherchées EN PLUS, même hors du top-20 par prix — l'app affiche ainsi le
+# prix vérifié LDLC/Amazon/Materiel.net/Alternate presque à chaque fois
+# (lot 16, item 9).
+FV_SHOPS_PRIORITAIRES = ["3", "4", "2", "18"]  # ldlc, amazon.fr, materiel.net, alternate.fr
+
+
+def offres_pour(src, cat_id, slug, requete, fv_shops=None):
+    """Offres (triées prix croissant par le site) de la recherche [requete].
+    [fv_shops] restreint la recherche aux boutiques données (ids gputracker)."""
+    filtres = "".join(f"&fv_shop={s}" for s in (fv_shops or []))
     url = (f"{src.base_url}/en/search/category/{cat_id}/{slug}"
-           f"?textualSearch={quote(requete)}&onlyInStock=on")
+           f"?textualSearch={quote(requete)}&onlyInStock=on{filtres}")
     soup = src._get(url)
     out = []
     for a in soup.select("a.tracked-product-click"):
@@ -219,15 +228,26 @@ def principal():
                 brutes = offres_pour(src, cat_id, slug, requete)
                 # Repli : la recherche AND échoue souvent sur la MARQUE (les
                 # marchands l'omettent) → nouvelle tentative sans le 1er mot.
+                requete_ok = requete
                 if not brutes and len(requete.split()) > 2:
-                    brutes = offres_pour(src, cat_id, slug,
-                                         " ".join(requete.split()[1:]))
+                    requete_ok = " ".join(requete.split()[1:])
+                    brutes = offres_pour(src, cat_id, slug, requete_ok)
+                # Grandes enseignes : offres ajoutées même hors du top-20 prix
+                # (lot 16, item 9) — dédoublonnées par (boutique, prix).
+                if brutes:
+                    vues = {(o["shop"], o["price"]) for o in brutes}
+                    for o in offres_pour(src, cat_id, slug, requete_ok,
+                                         fv_shops=FV_SHOPS_PRIORITAIRES):
+                        if (o["shop"], o["price"]) not in vues:
+                            brutes.append(o)
             except Exception as e:  # noqa: BLE001 — une requête ratée ne tue pas le run
                 print(f"  ! {cat}/{it['id']}: {e}", file=sys.stderr)
                 continue
-            offres = [o for o in brutes
-                      if correspond(o["product"], jetons)
-                      and suffixe_ok(cat, it["name"], o["product"])]
+            offres = sorted(
+                [o for o in brutes
+                 if correspond(o["product"], jetons)
+                 and suffixe_ok(cat, it["name"], o["product"])],
+                key=lambda o: o["price"])
             if not offres:
                 vide += 1
                 continue

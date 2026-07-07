@@ -2,25 +2,15 @@
  {
   "id": "sata-870evo",
   "name": "Samsung 870 EVO (SATA)",
-  "priceMin": 257.0,
+  "priceMin": 280.0,
   "prices": [
-   {
-    "shop": "amazon.de",
-    "price": 257.0,
-    "currency": "EUR",
-    "url": "https://www.gputracker.eu/si-click/4/582675/samsung-870-evo-sata-iii-2-5-inch-6-35-cm-ssd-1-tb",
-    "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
-    "product": "Samsung 870 EVO SATA III 2.5 Inch (6.35 cm) SSD, 1 TB, 560 MB/s Read, 530 MB/s Write, Internal SSD, Hard Drive for Fast Data Transfer, MZ-77E1T0B/EU",
-    "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/880/6090/8806090545917.png?signature=51f49a6ab2417535b3a01ba1c852fb5ac45f25de981ef7cd7df48e92908e87db"
-   },
    {
     "shop": "bpm-power.com",
     "price": 280.0,
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/605000/ssd-1tb-samsung-870-evo-mz-77e1t0beu",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "SSD 1TB Samsung 870 EVO [MZ-77E1T0B/EU]",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/880/6090/8806090545917.png?signature=51f49a6ab2417535b3a01ba1c852fb5ac45f25de981ef7cd7df48e92908e87db"
    },
@@ -30,9 +20,29 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/583126/samsung-870-evo-1-tb-ssd",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "Samsung 870 EVO 1 TB, SSD",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/880/6090/8806090545917.png?signature=51f49a6ab2417535b3a01ba1c852fb5ac45f25de981ef7cd7df48e92908e87db"
+   },
+   {
+    "shop": "proshop.de",
+    "price": 297.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/4/561851/samsung-870-evo-ssd-1tb-2-5-sata-600",
+    "inStock": true,
+    "lastSeen": "2026-07-07T19:52:18Z",
+    "product": "Samsung 870 EVO SSD - 1TB - 2.5\" - SATA-600",
+    "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/880/6090/8806090545917.png?signature=51f49a6ab2417535b3a01ba1c852fb5ac45f25de981ef7cd7df48e92908e87db"
+   },
+   {
+    "shop": "arlt.com",
+    "price": 299.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/4/585883/1000gb-samsung-ssd-870-evo-25-serial-ata-600-ssd",
+    "inStock": true,
+    "lastSeen": "2026-07-07T19:52:18Z",
+    "product": "1000GB Samsung SSD 870 Evo 2,5\" Serial ATA-600 SSD",
+    "image": null
    },
    {
     "shop": "ldlc.com",
@@ -40,26 +50,26 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/583285/samsung-ssd-870-evo-1-to",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "Samsung SSD 870 EVO 1 To",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/880/6090/8806090545917.png?signature=51f49a6ab2417535b3a01ba1c852fb5ac45f25de981ef7cd7df48e92908e87db"
    }
   ],
   "image": "images/ssds-sata-870evo.png",
-  "lastUpdated": "2026-07-07T14:22:28Z"
+  "lastUpdated": "2026-07-07T19:52:18Z"
  },
  {
   "id": "nvme-sn850x",
   "name": "WD Black SN850X (Gen4)",
-  "priceMin": 189.0,
+  "priceMin": 162.0,
   "prices": [
    {
     "shop": "amazon.de",
-    "price": 189.0,
+    "price": 162.0,
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/2019949/wdblack-sn850x-nvme-ssd-1-tb-internal-ssd-gaming-m",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "WD_BLACK SN850X NVMe SSD 1 TB Internal SSD (Gaming Memory, PCIe Gen4 Technology, Read 7,300 MB/s, Write 6,300 MB/s) Black",
     "image": null
    },
@@ -69,7 +79,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/4346960/1tb-western-digital-wdblack-sn850x-nvme-ssd-1tb-m-",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "1TB Western Digital WD_BLACK SN850X NVMe SSD 1TB, M.2 2280 / M-Key / PCIe 4.0 x4",
     "image": null
    },
@@ -79,19 +89,9 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/2158867/1000gb-wd-black-sn850x-wds100t2x0e-ssd",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "1000GB WD Black SN850X WDS100T2X0E SSD",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/071/8037/0718037891392.png?signature=4203df64e7f20b3c5a831f82355415c447a86fae55546ec48f191c8ca1d5ec05"
-   },
-   {
-    "shop": "amazon.de",
-    "price": 199.0,
-    "currency": "EUR",
-    "url": "https://www.gputracker.eu/si-click/4/1845483/wdblack-sn850x-nvme-ssd-with-heatsink-1-tb-interna",
-    "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
-    "product": "WD_BLACK SN850X NVMe SSD with Heatsink 1 TB Internal SSD (Gaming Memory, PCIe Gen4 Technology, Read 7,300 MB/s, Write 6,300 MB/s) Black",
-    "image": null
    },
    {
     "shop": "reichelt.de",
@@ -99,7 +99,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/2570393/wds100t2x0e-wdblack-sn850x-nvme-ssd-1-tb-m-2",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "WDS100T2X0E - WD_BLACK SN850X NVMe-SSD, 1 TB, M.2",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/071/8037/0718037891392.png?signature=4203df64e7f20b3c5a831f82355415c447a86fae55546ec48f191c8ca1d5ec05"
    },
@@ -109,7 +109,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/1725219/wd-black-1tb-sn850x-nvme-ssd-supremely-fast-pcie-g",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "WD Black 1TB SN850X NVMe SSD Supremely Fast PCIe Gen4 x4 M.2 mit Kühlkörper internal single-packed (WDS100T2XHE)",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/071/8037/0718037891385.png?signature=ee8012cecbefc718be1e433a51503dbca8d46ffdce6dfeb6f264d5c40c66b5ad"
    },
@@ -119,7 +119,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/2570394/wds100t2xhe-wdblack-sn850x-nvme-ssd-1-tb-heatsink-",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "WDS100T2XHE - WD_BLACK SN850X NVMe-SSD, 1 TB, Heatsink, M.2",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/071/8037/0718037891385.png?signature=ee8012cecbefc718be1e433a51503dbca8d46ffdce6dfeb6f264d5c40c66b5ad"
    },
@@ -129,7 +129,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/1723814/wd-black-sn850x-nvme-ssd-1-tb",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "WD Black SN850X NVMe SSD 1 TB",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/071/8037/0718037891392.png?signature=4203df64e7f20b3c5a831f82355415c447a86fae55546ec48f191c8ca1d5ec05"
    },
@@ -139,7 +139,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/1723815/wd-black-sn850x-nvme-ssd-1-tb",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "WD Black SN850X NVMe SSD 1 TB",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/071/8037/0718037891385.png?signature=ee8012cecbefc718be1e433a51503dbca8d46ffdce6dfeb6f264d5c40c66b5ad"
    },
@@ -149,13 +149,13 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/3829402/ssd-interno-1tb-western-digital-black-sn850x-m-2-r",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "SSD interno 1TB Western Digital Black SN850X M.2 R:7300Mbps W:6300Mbps Nero [WDBB9G0010BNC-WRSN]",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/061/9659/0619659193430.png?signature=5f30f2f3702698adcb82de9ec25de2fb3667e99bfc835db7c7c46908ce3621f7"
    }
   ],
   "image": "images/ssds-nvme-sn850x.png",
-  "lastUpdated": "2026-07-07T14:22:28Z"
+  "lastUpdated": "2026-07-07T19:52:18Z"
  },
  {
   "id": "nvme-t700",
@@ -168,7 +168,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/2485958/ssd-1tb-crucial-t700-pcie-gen5-nvme-m-2-11700mbs-c",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "SSD 1TB Crucial T700 PCIe Gen5 NVMe M.2 11700MB/s [CT1000T700SSD5]",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/064/9528/0649528936714.png?signature=6f72488d2685d445e9fddf20fbacca0faa36ee020ba1fd5b6755e5e4e0d333d4"
    },
@@ -178,7 +178,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/4265579/crucial-t700-1tb-pcie-5-0-nvme-m-2-ssd",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "Crucial T700 1TB PCIe 5.0 NVMe M.2 SSD",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/064/9528/0649528935632.png?signature=1a8835bc7a84b39de5868243eb7652fd927fe22352d5c50af66da4068f2e381c"
    },
@@ -188,7 +188,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/2683238/ct1000t700ssd5-crucial-t700-pcie-5-0-nvme-m-2-ssd-",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "CT1000T700SSD5 - Crucial T700 PCIe 5.0 NVMe M.2 SSD, Heatsink, 1 TB",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/064/9528/0649528936714.png?signature=6f72488d2685d445e9fddf20fbacca0faa36ee020ba1fd5b6755e5e4e0d333d4"
    },
@@ -198,7 +198,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/2683237/ct1000t700ssd3-crucial-t700-pcie-5-0-nvme-m-2-ssd-",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "CT1000T700SSD3 - Crucial T700 PCIe 5.0 NVMe M.2 SSD 1 TB",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/064/9528/0649528935632.png?signature=1a8835bc7a84b39de5868243eb7652fd927fe22352d5c50af66da4068f2e381c"
    },
@@ -208,13 +208,13 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/2450959/1tb-crucial-t700-m-2-2280-pcie-5-0-x4-3d-nand-tlc-",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "1TB Crucial T700 M.2 2280 PCIe 5.0 x4 3D-NAND TLC (CT1000T700SSD5)",
     "image": null
    }
   ],
   "image": "images/ssds-nvme-t700.png",
-  "lastUpdated": "2026-07-07T14:22:28Z"
+  "lastUpdated": "2026-07-07T19:52:18Z"
  },
  {
   "id": "nvme-p3",
@@ -227,7 +227,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/3361298/ssd-1tb-nvme-pcie-m-2-crucial-p310-gen4-2280-7100-",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "SSD 1TB NVMe PCIe M.2 Crucial P310 Gen4 2280 7100 Mo/s Nero [CT1000P310SSD8]",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/064/9528/0649528942081.png?signature=4bd329ac57937fa81a62a9ada98f1a13776a5aaf0cd7b916fb9e6413de2abc9a"
    },
@@ -237,7 +237,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/3365016/1tb-crucial-p310-m-2-2280-pcie-4-0-x4-3d-nand-qlc-",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "1TB Crucial P310 M.2 2280 PCIe 4.0 x4 3D-NAND QLC (CT1000P310SSD8)",
     "image": null
    },
@@ -247,7 +247,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/4181209/disque-ssd-interne-crucial-p310-1to-pcie-gen4-nvme",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "Disque SSD Interne - CRUCIAL - P310 1To PCIe Gen4 NVMe M.2 SSD (CT1000P310SSD8)",
     "image": null
    },
@@ -257,7 +257,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/3857305/ct1000p310ssd5-crucial-p310-pcie-4-0-nvme-m-2-ssd-",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "CT1000P310SSD5 - Crucial P310 PCIe 4.0 NVMe M.2 SSD, Heatsink, 1 TB",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/064/9528/0649528944764.png?signature=c929f794690af6111fba48bdbd72f81e43e4b5e0c5c4b27b83be6c6e7cd6e8e9"
    },
@@ -267,19 +267,9 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/3857304/ct1000p310ssd8-crucial-p310-pcie-4-0-nvme-m-2-ssd-",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "CT1000P310SSD8 - Crucial P310 PCIe 4.0 NVMe M.2 SSD, 1 TB",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/064/9528/0649528942081.png?signature=4bd329ac57937fa81a62a9ada98f1a13776a5aaf0cd7b916fb9e6413de2abc9a"
-   },
-   {
-    "shop": "amazon.de",
-    "price": 157.0,
-    "currency": "EUR",
-    "url": "https://www.gputracker.eu/si-click/4/3407670/crucial-p310-ssd-1tb-m-2-2280-pcie-gen4-nvme-up-to",
-    "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
-    "product": "Crucial P310 SSD 1TB M.2 2280 PCIe Gen4 NVMe, up to 7100 MB/s, for Laptop, Desktop PC & Handheld Game Consoles, Internal Hard Drive - CT1000P310SSD801",
-    "image": null
    },
    {
     "shop": "jacob.de",
@@ -287,19 +277,9 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/3317247/crucial-p310-gen4-2280-1tb-nvme-pcie-m-2-ssd-ct100",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "Crucial P310 Gen4 2280 1TB NVMe PCIe M.2 SSD (CT1000P310SSD8)",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/064/9528/0649528942081.png?signature=4bd329ac57937fa81a62a9ada98f1a13776a5aaf0cd7b916fb9e6413de2abc9a"
-   },
-   {
-    "shop": "amazon.de",
-    "price": 164.0,
-    "currency": "EUR",
-    "url": "https://www.gputracker.eu/si-click/4/3666030/crucial-p310-ps5-ssd-1tb-pcie-gen4-nvme-m-2-intern",
-    "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
-    "product": "Crucial P310 PS5 SSD 1TB PCIe Gen4 NVMe M.2 Internal Hard Drive with Heatsink, up to 7100 MB/s, Gaming for PS5, Desktop PC - CT1000P310SSD5-01",
-    "image": null
    },
    {
     "shop": "bpm-power.com",
@@ -307,7 +287,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/1743610/ssd-1tb-crucial-p3-plus-m-2-pcie-ct1000p3pssd8",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "SSD 1TB Crucial P3 Plus M.2 PCIe [CT1000P3PSSD8]",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/064/9528/0649528918833.png?signature=fc4bd084a9ce6c85c033468a1adb952f0b5770a468ec3ced7944082d19bdd618"
    },
@@ -317,8 +297,18 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/1743609/ssd-1000gb-crucial-p3-nvme-m-2-2280ss-ct1000p3ssd8",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "SSD 1000GB Crucial P3 NVMe M.2 2280SS [CT1000P3SSD8]",
+    "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/064/9528/0649528918796.png?signature=f564c83b579259b1f89026b778c987a8f79e1cd3001027dba43b15eb34705ea4"
+   },
+   {
+    "shop": "reichelt.de",
+    "price": 239.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/4/1861907/ct1000p3ssd8-crucial-p3-ssd-1-tb-m-2-nvme",
+    "inStock": true,
+    "lastSeen": "2026-07-07T19:52:18Z",
+    "product": "CT1000P3SSD8 - Crucial P3 SSD 1 TB, M.2 NVMe",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/064/9528/0649528918796.png?signature=f564c83b579259b1f89026b778c987a8f79e1cd3001027dba43b15eb34705ea4"
    },
    {
@@ -327,13 +317,13 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/3313746/crucial-p310-1-to-2230",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "Crucial P310 1 To 2230",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/064/9528/0649528942272.png?signature=b26817d737694da9ecfc65e0db8056a12af60ee776dcdcb60bad2f00c70cef61"
    }
   ],
   "image": "images/ssds-nvme-p3.png",
-  "lastUpdated": "2026-07-07T14:22:28Z"
+  "lastUpdated": "2026-07-07T19:52:18Z"
  },
  {
   "id": "nvme-p3plus",
@@ -346,7 +336,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/1743610/ssd-1tb-crucial-p3-plus-m-2-pcie-ct1000p3pssd8",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "SSD 1TB Crucial P3 Plus M.2 PCIe [CT1000P3PSSD8]",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/064/9528/0649528918833.png?signature=fc4bd084a9ce6c85c033468a1adb952f0b5770a468ec3ced7944082d19bdd618"
    },
@@ -356,7 +346,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/1746273/1tb-crucial-p3-plus-ssd-m-2-2280-pcie-4-0-x4-3d-na",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "1TB Crucial P3 Plus SSD M.2 2280 PCIe 4.0 x4 3D-NAND QLC (CT1000P3PSSD8)",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/064/9528/0649528918833.png?signature=fc4bd084a9ce6c85c033468a1adb952f0b5770a468ec3ced7944082d19bdd618"
    },
@@ -366,7 +356,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/1861908/ct1000p3pssd8-crucial-p3-plus-ssd-1-tb-m-2-nvme",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "CT1000P3PSSD8 - Crucial P3 Plus SSD 1 TB, M.2 NVMe",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/064/9528/0649528918833.png?signature=fc4bd084a9ce6c85c033468a1adb952f0b5770a468ec3ced7944082d19bdd618"
    },
@@ -376,13 +366,13 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/1725216/crucial-p3-plus-1000gb-nvme-m-2-2280ss-ssd-ct1000p",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "Crucial P3 Plus 1000GB NVMe M.2 2280SS SSD (CT1000P3PSSD8)",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/064/9528/0649528918833.png?signature=fc4bd084a9ce6c85c033468a1adb952f0b5770a468ec3ced7944082d19bdd618"
    }
   ],
   "image": "images/ssds-nvme-p3plus.png",
-  "lastUpdated": "2026-07-07T14:22:28Z"
+  "lastUpdated": "2026-07-07T19:52:18Z"
  },
  {
   "id": "nvme-990pro",
@@ -395,7 +385,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/4204842/samsung-990-pro-ssd-interne-1-to-nvme-m-2-pcie-4-0",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "SAMSUNG - 990 PRO - SSD Interne - 1 To - NVMe M.2 PCIe 4.0x4 - Vitesse lecture jusqu'à 7 450 Mo/s",
     "image": null
    },
@@ -405,7 +395,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/2057447/ssd-1tb-samsung-m-2-990-pro-nero-mz-v9p1t0bw",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "SSD 1TB Samsung M.2 990 Pro Nero [MZ-V9P1T0BW]",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/880/6094/8806094215021.png?signature=1898600218eab7395013e7e932d610ac02bca72b9557d2cac0999078bb9320e1"
    },
@@ -415,7 +405,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/2017726/1-tb-ssd-samsung-990-pro-m-2-nvme-mz-v9p1t0bw-mz-v",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "1 TB SSD Samsung 990 Pro M.2 NVMe (MZ-V9P1T0BW) (MZ-V9P1T0BW)",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/880/6094/8806094215021.png?signature=1898600218eab7395013e7e932d610ac02bca72b9557d2cac0999078bb9320e1"
    },
@@ -425,7 +415,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/2697617/samsung-990-pro-heatsink-1-tb-ssd",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "Samsung 990 PRO Heatsink 1 TB, SSD",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/880/6094/8806094413748.png?signature=e592688358983cfab1f1c99c4410f85c1fe1e33d65dcd9b9defd697f495ec193"
    },
@@ -435,7 +425,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/2030562/1000gb-samsung-990-pro-m-2-pcie-4-0-nvme-ssd",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "1000GB Samsung 990 Pro M.2 PCIe 4.0 NVMe SSD",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/880/6094/8806094215021.png?signature=1898600218eab7395013e7e932d610ac02bca72b9557d2cac0999078bb9320e1"
    },
@@ -445,7 +435,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/1740912/samsung-ssd-990-pro-m-2-pcie-nvme-1-to",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "Samsung SSD 990 PRO M.2 PCIe NVMe 1 To",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/880/6094/8806094215021.png?signature=1898600218eab7395013e7e932d610ac02bca72b9557d2cac0999078bb9320e1"
    },
@@ -455,7 +445,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/2010959/1tb-samsung-990-pro-m-2-pcie-4-3d-nand-tlc-mz-v9p1",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "1TB Samsung 990 PRO M.2 PCIe 4. 3D-NAND TLC (MZ-V9P1T0BW)",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/880/6094/8806094215021.png?signature=1898600218eab7395013e7e932d610ac02bca72b9557d2cac0999078bb9320e1"
    },
@@ -465,7 +455,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/2520838/ssd-1tb-samsung-990-pro-m-2-pcie-nero-mz-v9p1t0gw",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "SSD 1TB Samsung 990 Pro M.2 PCIe Nero [MZ-V9P1T0GW]",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/880/6094/8806094594645.png?signature=cc2d41edf9f51b9f6a118599e35c661a9591552e5414c0845de1465afc2a34a9"
    },
@@ -475,7 +465,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/1997144/mz-v9p1t0bw-samsung-ssd-990-pro-1tb-m-2-nvme",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "MZ-V9P1T0BW - Samsung SSD 990 PRO 1TB, M.2 NVMe",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/880/6094/8806094215021.png?signature=1898600218eab7395013e7e932d610ac02bca72b9557d2cac0999078bb9320e1"
    },
@@ -485,7 +475,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/1935756/samsung-990-pro-ssd-1tb-ohne-kuhlkorper-m-2-2280-p",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "Samsung 990 Pro SSD - 1TB - Ohne Kühlkörper - M.2 2280 - PCIe 4.0",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/880/6094/8806094215021.png?signature=1898600218eab7395013e7e932d610ac02bca72b9557d2cac0999078bb9320e1"
    },
@@ -495,7 +485,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/1857179/samsung-990-pro-1-tb-ssd",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "Samsung 990 PRO 1 TB, SSD",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/880/6094/8806094215021.png?signature=1898600218eab7395013e7e932d610ac02bca72b9557d2cac0999078bb9320e1"
    },
@@ -505,7 +495,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/2453329/mz-v9p1t0cw-samsung-ssd-990-pro-hs-1tb-m-2-nvme",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "MZ-V9P1T0CW - Samsung SSD 990 PRO HS 1TB, M.2 NVMe",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/880/6094/8806094413748.png?signature=e592688358983cfab1f1c99c4410f85c1fe1e33d65dcd9b9defd697f495ec193"
    },
@@ -515,7 +505,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/2436890/1tb-samsung-990-pro-with-heatsink-m-2-2280-pcie-4-",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "1TB Samsung 990 PRO with Heatsink M.2 2280 PCIe 4.0 x4 3D-NAND TLC (MZ-V9P1T0CW)",
     "image": null
    },
@@ -525,46 +515,36 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/2443141/samsung-990-pro-ssd-1tb-mit-kuhlkorper-m-2-2280-pc",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "Samsung 990 Pro SSD - 1TB - Mit Kühlkörper - M.2 2280 - PCIe 4.0",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/880/6094/8806094413748.png?signature=e592688358983cfab1f1c99c4410f85c1fe1e33d65dcd9b9defd697f495ec193"
    },
    {
-    "shop": "cdiscount.com",
-    "price": 250.0,
+    "shop": "ldlc.com",
+    "price": 260.0,
     "currency": "EUR",
-    "url": "https://www.gputracker.eu/si-click/4/4181220/samsung-990-pro-avec-dissipateur-ssd-interne-1-to-",
+    "url": "https://www.gputracker.eu/si-click/4/2442159/samsung-ssd-990-pro-m-2-pcie-nvme-1-to-avec-dissip",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
-    "product": "SAMSUNG - 990 PRO avec dissipateur- SSD Interne - 1 To - NVMe M.2 PCIe 4.0x4 - Vitesse lecture jusqu'à 7 450 Mo/s",
-    "image": null
+    "lastSeen": "2026-07-07T19:52:18Z",
+    "product": "Samsung SSD 990 PRO M.2 PCIe NVMe 1 To avec dissipateur",
+    "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/880/6094/8806094594645.png?signature=cc2d41edf9f51b9f6a118599e35c661a9591552e5414c0845de1465afc2a34a9"
    }
   ],
   "image": "images/ssds-nvme-990pro.png",
-  "lastUpdated": "2026-07-07T14:22:28Z"
+  "lastUpdated": "2026-07-07T19:52:18Z"
  },
  {
   "id": "nvme-t500",
   "name": "Crucial T500 (Gen4)",
-  "priceMin": 179.0,
+  "priceMin": 190.0,
   "prices": [
-   {
-    "shop": "amazon.de",
-    "price": 179.0,
-    "currency": "EUR",
-    "url": "https://www.gputracker.eu/si-click/4/2919229/crucial-t500-ssd-1tb-pcie-gen4-nvme-m-2-internal-h",
-    "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
-    "product": "Crucial T500 SSD 1TB PCIe Gen4 NVMe M.2 Internal Hard Drive, up to 7300 MB/s, TLC NAND, Compatible with Laptop and Desktop, Microsoft DirectStorage...",
-    "image": null
-   },
    {
     "shop": "arlt.com",
     "price": 190.0,
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/3438565/1000gb-1tb-crucial-t500-ssd-1tb-m-2-2280-m-key-pci",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "1000GB 1TB Crucial T500 SSD 1TB, M.2 2280 / M-Key / PCIe 4.0 x4",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/064/9528/0649528939241.png?signature=f22c5ceda951661bb1386eccd60ba445105426dab7ff2cf73567e053ee1b4dfc"
    },
@@ -574,7 +554,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/2860958/ssd-1tb-crucial-t500-pcie-4-0-m-2-2280-con-dissipa",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "SSD 1TB Crucial T500 PCIe 4.0 M.2 2280 con dissipatore di calore Nero [CT1000T500SSD5]",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/064/9528/0649528940018.png?signature=75b7761fc38538c7ff086d44a10a91a4d6f2527785f447de85f116956378df78"
    },
@@ -584,7 +564,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/2793208/1tb-crucial-t500-m-2-2280-pcie-4-0-x4-3d-nand-tlc-",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "1TB Crucial T500 M.2 2280 PCIe 4.0 x4 3D-NAND TLC (CT1000T500SSD8)",
     "image": null
    },
@@ -594,7 +574,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/2769820/crucial-t500-1tb-pcie-gen4-nvme-m-2-ssd-ct1000t500",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "Crucial T500 1TB PCIE GEN4 NVME M.2 SSD (CT1000T500SSD8)",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/064/9528/0649528939241.png?signature=f22c5ceda951661bb1386eccd60ba445105426dab7ff2cf73567e053ee1b4dfc"
    },
@@ -604,7 +584,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/2769821/crucial-t500-m-2-1-tb-pci-express-4-0-tlc-nvme-ct1",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "Crucial T500 M.2 1 TB PCI Express 4.0 TLC NVMe (CT1000T500SSD5)",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/064/9528/0649528940018.png?signature=75b7761fc38538c7ff086d44a10a91a4d6f2527785f447de85f116956378df78"
    },
@@ -614,13 +594,13 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/2947849/ssd-1tb-crucial-t500-m-2-ct1000t500ssd8",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "SSD 1TB Crucial T500 M.2 [CT1000T500SSD8]",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/064/9528/0649528939241.png?signature=f22c5ceda951661bb1386eccd60ba445105426dab7ff2cf73567e053ee1b4dfc"
    }
   ],
   "image": "images/ssds-nvme-t500.png",
-  "lastUpdated": "2026-07-07T14:22:28Z"
+  "lastUpdated": "2026-07-07T19:52:18Z"
  },
  {
   "id": "nvme-990evo",
@@ -633,7 +613,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/4181211/ssd-interne-samsung-990-evo-plus-1-to-nvme-m-2-pci",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "SSD Interne - SAMSUNG - 990 EVO Plus 1 To - NVMe M.2 PCIe 4.0x4 - Vitesse lecture jusqu'à 7 150 Mo/s",
     "image": null
    },
@@ -643,7 +623,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/3419826/1tb-1000gb-samsung-990-evo-plus-m-2-2280-m-key-pci",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "1TB 1000GB Samsung 990 Evo Plus M.2 2280 / M-Key / PCIe 4.0 x4 SSD",
     "image": null
    },
@@ -653,7 +633,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/3406069/1tb-samsung-990-evo-plus-m-2-2280-pcie-4-0-x4-3d-n",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "1TB Samsung 990 EVO Plus M.2 2280 PCIe 4.0 x4 3D-NAND TLC (MZ-V9S1T0BW)",
     "image": null
    },
@@ -663,7 +643,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/3342420/samsung-990-evo-plus-ssd-1tb-m-2-2280-pcie-4-0",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "Samsung 990 EVO Plus SSD - 1TB - M.2 2280 - PCIe 4.0",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/880/6095/8806095575674.png?signature=657486eb7469721bcc8057ed21c9cbed30730e686cdd72141eb1ff4cb9205693"
    },
@@ -673,7 +653,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/3344294/mz-v9s1t0bw-samsung-ssd-990-evo-plus-1tb-m-2-nvme",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "MZ-V9S1T0BW - Samsung SSD 990 EVO Plus 1TB, M.2 NVMe",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/880/6095/8806095575674.png?signature=657486eb7469721bcc8057ed21c9cbed30730e686cdd72141eb1ff4cb9205693"
    },
@@ -683,13 +663,13 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/3334628/samsung-990-evo-plus-1-tb-ssd",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "Samsung 990 EVO Plus 1 TB, SSD",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/880/6095/8806095575674.png?signature=657486eb7469721bcc8057ed21c9cbed30730e686cdd72141eb1ff4cb9205693"
    }
   ],
   "image": "images/ssds-nvme-990evo.png",
-  "lastUpdated": "2026-07-07T14:22:28Z"
+  "lastUpdated": "2026-07-07T19:52:18Z"
  },
  {
   "id": "nvme-t705",
@@ -702,7 +682,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/3931289/ssd-1tb-crucial-pcle-gen5-nvme-m-2-t705-con-dissip",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "SSD 1TB Crucial Pcle Gen5 nvme m.2 T705 con dissipatore Nero [CT1000T705SSD5]",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/064/9528/0649528940278.png?signature=5a1dd71d19dfbcd191075d9ba1b37c52970f43e888d5d23199b383fdd7a9680c"
    },
@@ -712,7 +692,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/3059739/1tb-crucial-t705-m-2-2280-pcie-5-0-x4-3d-nand-tlc-",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "1TB Crucial T705 M.2 2280 PCIe 5.0 x4 3D-NAND TLC (CT1000T705SSD3)",
     "image": null
    },
@@ -722,7 +702,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/3099549/ct1000t705ssd3-crucial-t705-pcie-5-0-nvme-m-2-ssd-",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "CT1000T705SSD3 - Crucial T705 PCIe 5.0 NVMe M.2 SSD 1 TB",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/064/9528/0649528940162.png?signature=f260bf70599f50eabc38404fcd305dfcdc14e018bfa68c08fa9a48cf40851dd5"
    },
@@ -732,7 +712,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/3857311/ct1000t705ssd5-crucial-t705-pcie-5-0-nvme-m-2-ssd-",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "CT1000T705SSD5 - Crucial T705 PCIe 5.0 NVMe M.2 SSD, Heatsink, 1 TB",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/064/9528/0649528940278.png?signature=5a1dd71d19dfbcd191075d9ba1b37c52970f43e888d5d23199b383fdd7a9680c"
    },
@@ -742,7 +722,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/3662599/1tb-crucial-t705-ssd-1tb-m-2-2280-m-key-pcie-5-0-x",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "1TB Crucial T705 SSD 1TB, M.2 2280 / M-Key / PCIe 5.0 x4",
     "image": null
    },
@@ -752,7 +732,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/2998557/crucial-t705-1tb-pcie-gen5-nvme-m-2-ssd-ct1000t705",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "Crucial T705 1TB PCIe Gen5 NVMe M.2 SSD (CT1000T705SSD3)",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/064/9528/0649528940162.png?signature=f260bf70599f50eabc38404fcd305dfcdc14e018bfa68c08fa9a48cf40851dd5"
    },
@@ -762,7 +742,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/4265575/crucial-t705-1tb-pcie-5-0-nvme-m-2-ssd",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "Crucial T705 1TB PCIe 5.0 NVMe M.2 SSD",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/064/9528/0649528940162.png?signature=f260bf70599f50eabc38404fcd305dfcdc14e018bfa68c08fa9a48cf40851dd5"
    },
@@ -772,7 +752,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/3024571/1tb-crucial-t705-m-2-2280-pcie-5-0-x4-3d-nand-tlc-",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "1TB Crucial T705 M.2 2280 PCIe 5.0 x4 3D-NAND TLC (CT1000T705SSD5)",
     "image": null
    },
@@ -782,7 +762,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/3007803/crucial-t705-with-heatsink-1tb-pcie-gen5-nvme-m-2-",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "Crucial T705 with heatsink 1TB PCIe Gen5 NVMe M.2 SSD (CT1000T705SSD5)",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/064/9528/0649528940278.png?signature=5a1dd71d19dfbcd191075d9ba1b37c52970f43e888d5d23199b383fdd7a9680c"
    },
@@ -792,7 +772,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/4406077/ssd-1tb-crucial-t705-m-2-pcie-nero-ct1000t710ssd8",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "SSD 1TB Crucial T705 M.2 PCIe Nero [CT1000T710SSD8]",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/064/9528/0649528945907.png?signature=267a4db5529ce3620cab93a835bbf0c49d951fed70c9600c1f82f3b08d3dddd4"
    },
@@ -802,7 +782,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/3021633/crucial-t705-1-to",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "Crucial T705 1 To",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/064/9528/0649528940162.png?signature=f260bf70599f50eabc38404fcd305dfcdc14e018bfa68c08fa9a48cf40851dd5"
    },
@@ -812,13 +792,13 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/3021766/crucial-t705-1-to-avec-dissipateur",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "Crucial T705 1 To - Avec dissipateur",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/064/9528/0649528940278.png?signature=5a1dd71d19dfbcd191075d9ba1b37c52970f43e888d5d23199b383fdd7a9680c"
    }
   ],
   "image": "images/ssds-nvme-t705.png",
-  "lastUpdated": "2026-07-07T14:22:28Z"
+  "lastUpdated": "2026-07-07T19:52:18Z"
  },
  {
   "id": "nvme-a440",
@@ -831,7 +811,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/2414911/1tb-lexar-nm790-m-2-2280-pcie-4-0-x4-3d-nand-tlc-l",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "1TB Lexar NM790 M.2 2280 PCIe 4.0 x4 3D-NAND TLC (LNM790X001T-RNNNG)",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/084/3367/0843367130283.png?signature=50f73bd0e3dec2aa4aec00fee0bd74131a8f661bfb5ff79904669c17c41eafbb"
    },
@@ -841,7 +821,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/4098889/1000gb-lexar-nm790-lnm790x001t-rnnng-ssd",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "1000GB Lexar NM790 LNM790X001T-RNNNG SSD",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/084/3367/0843367130283.png?signature=50f73bd0e3dec2aa4aec00fee0bd74131a8f661bfb5ff79904669c17c41eafbb"
    },
@@ -851,7 +831,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/2520830/ssd-1tb-lexar-nm790-m-2pcie-nero-lnm790x001t-rnnng",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "SSD 1TB Lexar NM790 M.2/PCIe Nero [LNM790X001T-RNNNG]",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/084/3367/0843367130283.png?signature=50f73bd0e3dec2aa4aec00fee0bd74131a8f661bfb5ff79904669c17c41eafbb"
    },
@@ -861,7 +841,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/2655104/lexar-nm790-ssd-1tb-m-2-2280-pcie-4-0-ohne-kuhlkor",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "Lexar NM790 SSD - 1TB - M.2 2280 - PCIe 4.0 - Ohne Kühlkörper",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/084/3367/0843367130283.png?signature=50f73bd0e3dec2aa4aec00fee0bd74131a8f661bfb5ff79904669c17c41eafbb"
    },
@@ -871,7 +851,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/2422787/lexar-nm790-ssd-1tb-lnm790x001t-rnnng",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "Lexar NM790 SSD 1TB (LNM790X001T-RNNNG)",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/084/3367/0843367130283.png?signature=50f73bd0e3dec2aa4aec00fee0bd74131a8f661bfb5ff79904669c17c41eafbb"
    },
@@ -881,13 +861,13 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/4557127/lexar-nm790-disque-dur-ssd-1-to-m-2-2280-pcie-gen-",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "LEXAR - NM790 - Disque dur SSD - 1 To - M.2 2280 PCIe Gen 4x4",
     "image": null
    }
   ],
   "image": "images/ssds-nvme-a440.png",
-  "lastUpdated": "2026-07-07T14:22:28Z"
+  "lastUpdated": "2026-07-07T19:52:18Z"
  },
  {
   "id": "nvme-fury",
@@ -900,7 +880,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/3806080/kingston-fury-renegade-g5-ssd-1tb-pcie-5-0-m-2-228",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "Kingston FURY Renegade G5 SSD - 1TB - PCIe 5.0 - M.2 2280",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/074/0617/0740617349481.png?signature=2655925080ac7ec23ae7d1fa79db4ef240bcaf8dce18579183fd6c2f31cb2140"
    },
@@ -910,7 +890,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/3813003/1tb-kingston-fury-renegade-g5-m-2-2280-pcie-5-0-x-",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "1TB Kingston FURY Renegade G5 M.2 2280 PCIe 5.0 x 3D-NAND TLC (SFYR2S/1T0)",
     "image": null
    },
@@ -920,7 +900,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/1963074/kingston-fury-renegade-ssd-1tb-mit-kuhlkorper-m-2-",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "Kingston FURY Renegade SSD - 1TB - Mit Kühlkörper - M.2 2280 - PCIe 4.0",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/074/0617/0740617331073.png?signature=4febd543825761cf76dff4f9dbfd2cda243a32d8e9e1d78f7d248cd26417329f"
    },
@@ -930,7 +910,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/3933978/1tb-kingston-fury-renegade-g5-ssd-1tb-m-2-2280-m-k",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "1TB Kingston FURY Renegade G5 SSD 1TB, M.2 2280 / M-Key / PCIe 5.0 x4",
     "image": null
    },
@@ -940,7 +920,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/3810265/sfyr2s1t0-kingston-fury-renegade-g5-pcie-5-0-nvme-",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "SFYR2S/1T0 - Kingston FURY Renegade G5 PCIe 5.0 NVMe M.2, 1 TB",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/074/0617/0740617349481.png?signature=2655925080ac7ec23ae7d1fa79db4ef240bcaf8dce18579183fd6c2f31cb2140"
    },
@@ -950,7 +930,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/3848788/ssd-1tb-kingston-fury-renegade-g5-sfyr2s1t0-m-2-pc",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "Ssd 1TB Kingston FURY Renegade G5 SFYR2S/1T0 M.2 PCIe 5.0 NVMe [SFYR2S/1T0]",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/074/0617/0740617349481.png?signature=2655925080ac7ec23ae7d1fa79db4ef240bcaf8dce18579183fd6c2f31cb2140"
    },
@@ -960,7 +940,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/2067046/ssd-1tb-kingston-fury-renegade-pcie-4-0-nvme-m-2-s",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "SSD 1TB Kingston FURY Renegade PCIe 4.0 NVMe M.2 [SFYRSK/1000G]",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/074/0617/0740617331073.png?signature=4febd543825761cf76dff4f9dbfd2cda243a32d8e9e1d78f7d248cd26417329f"
    },
@@ -970,7 +950,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/1989991/1tb-kingston-fury-renegade-m-2-2280-pcie-4-0-x4-3d",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "1TB Kingston FURY Renegade M.2 2280 PCIe 4.0 x4 3D-NAND TLC (SFYRSK/1000G)",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/074/0617/0740617331073.png?signature=4febd543825761cf76dff4f9dbfd2cda243a32d8e9e1d78f7d248cd26417329f"
    },
@@ -980,7 +960,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/2721646/kingston-fury-renegade-heatsink-1-tb-ssd",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "Kingston FURY Renegade Heatsink 1 TB, SSD",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/074/0617/0740617331073.png?signature=4febd543825761cf76dff4f9dbfd2cda243a32d8e9e1d78f7d248cd26417329f"
    },
@@ -990,26 +970,26 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/3794575/kingston-fury-renegade-g5-1-to",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "Kingston FURY Renegade G5 1 To",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/074/0617/0740617349481.png?signature=2655925080ac7ec23ae7d1fa79db4ef240bcaf8dce18579183fd6c2f31cb2140"
    }
   ],
   "image": "images/ssds-nvme-fury.png",
-  "lastUpdated": "2026-07-07T14:22:28Z"
+  "lastUpdated": "2026-07-07T19:52:18Z"
  },
  {
   "id": "nvme-sn770",
   "name": "WD Black SN770 (Gen4)",
-  "priceMin": 255.0,
+  "priceMin": 175.0,
   "prices": [
    {
     "shop": "amazon.de",
-    "price": 255.0,
+    "price": 175.0,
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/3613179/wdblack-sn770m-1tb-m-2-2230-nvme-ssd-for-handheld-",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "WD_BLACK SN770M 1TB M.2 2230 NVMe SSD (for Handheld Game Consoles, Laptops, PCIe Gen 4.0, up to 5,150 MB/s, TLC 3D NAND, for Asus ROG Ally, Steam D...",
     "image": null
    },
@@ -1019,7 +999,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/2755311/wd-black-sn770m-1-tb-ssd",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "WD Black SN770M 1 TB, SSD",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/071/8037/0718037902951.png?signature=69c8f4180fbad9ad0567ce9f7fe1d1a969d3cd4927ca54ff25ef4295bbc88fae"
    },
@@ -1029,7 +1009,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/2706651/1tb-sandisk-wd-black-sn770m-m-2-2230-pcie-4-0-x4-3",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "1TB SanDisk WD Black SN770M M.2 2230 PCIe 4.0 x4 3D-NAND TLC (WDS100T3X0G)",
     "image": null
    },
@@ -1039,26 +1019,26 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/3547767/wds100t3x0g-wdblack-sn770m-nvme-ssd-1tb-m-2-2230",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "WDS100T3X0G - WD_BLACK SN770M NVMe SSD 1TB, M.2 2230",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/071/8037/0718037902951.png?signature=69c8f4180fbad9ad0567ce9f7fe1d1a969d3cd4927ca54ff25ef4295bbc88fae"
    }
   ],
   "image": "images/ssds-nvme-sn770.png",
-  "lastUpdated": "2026-07-07T14:22:28Z"
+  "lastUpdated": "2026-07-07T19:52:18Z"
  },
  {
   "id": "sata-blue",
   "name": "WD Blue 3D (SATA)",
-  "priceMin": 156.0,
+  "priceMin": 134.0,
   "prices": [
    {
     "shop": "amazon.de",
-    "price": 156.0,
+    "price": 134.0,
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/4148016/wd-blue-sn5100-nvme-ssd-1tb-7100mbs-read-speed-m-2",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "WD Blue SN5100 NVMe SSD 1TB (7100MB/s Read Speed, M.2 2280, PCIe Gen 4.0, nCache 4.0, SanDisk 3D CBA NAND Technology, Acronis True Image)",
     "image": null
    },
@@ -1068,23 +1048,23 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/4215557/1tb-sandisk-wd-blue-sn5100-m-2-2280-pcie-4-0-x4-3d",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "1TB SanDisk WD Blue SN5100 M.2 2280 PCIe 4.0 x4 3D-NAND QLC (WDS100T5B0E-00CPE0)",
     "image": null
    },
    {
     "shop": "amazon.de",
-    "price": 265.0,
+    "price": 226.0,
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/4706190/wd-blue-sa510-2-57mm-sata-ssd-internal-storage-1tb",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "WD Blue SA510 2.5\"/7mm SATA SSD Internal Storage 1TB (up to 560MB/s, 3D NAND, Acronis True Image, SANDISK Dashboard)",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-07-07T14:22:28Z"
+  "lastUpdated": "2026-07-07T19:52:18Z"
  },
  {
   "id": "nvme-p3-500",
@@ -1097,13 +1077,13 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/4383291/patriot-pdp31-500-go",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "Patriot PDP31 500 Go",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/471/1378/4711378421958.png?signature=ad2e902442a063a5f65b4e1d8b9964415c5a954af0eea45e9c0844ba4466a63d"
    }
   ],
   "image": "images/ssds-nvme-p3-500.png",
-  "lastUpdated": "2026-07-07T14:22:28Z"
+  "lastUpdated": "2026-07-07T19:52:18Z"
  },
  {
   "id": "sata-870-250",
@@ -1116,52 +1096,42 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/583283/samsung-ssd-870-evo-250-go",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "Samsung SSD 870 EVO 250 Go",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/880/6090/8806090545931.png?signature=da543d642b6a0f65f22928ce202d15533c6a17845cb54177303e4c90d950a240"
    }
   ],
   "image": "images/ssds-sata-870-250.png",
-  "lastUpdated": "2026-07-07T14:22:28Z"
+  "lastUpdated": "2026-07-07T19:52:18Z"
  },
  {
   "id": "hdd-wdblue-2tb",
   "name": "WD Blue 2 To (7200)",
-  "priceMin": 294.0,
+  "priceMin": 236.0,
   "prices": [
    {
     "shop": "amazon.de",
-    "price": 294.0,
-    "currency": "EUR",
-    "url": "https://www.gputracker.eu/si-click/4/2792094/wd-blue-sa510-sata-ssd-2tb-2-5-read-up-to-560mbs-w",
-    "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
-    "product": "WD Blue SA510 SATA SSD 2TB 2.5\" (Read up to 560MB/s, Write up to 520MB/s, Upgrade for PC/Laptop, 3 Month Trial from Dropbox Professional, Western D...",
-    "image": null
-   },
-   {
-    "shop": "amazon.de",
-    "price": 299.0,
+    "price": 236.0,
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/3613235/wd-blue-sa510-sata-ssd-2tb-m-2-2280-read-up-to-560",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "WD Blue SA510 SATA SSD 2TB M.2 2280 (Read up to 560MB/s, Write up to 520MB/s, Upgrade for PC/Laptop, Three-Month Trial from Dropbox Professional, W...",
     "image": null
    },
    {
     "shop": "amazon.de",
-    "price": 487.0,
+    "price": 416.0,
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/4669432/wd-blue-sa510-2-57mm-sata-ssd-internal-storage-2tb",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "WD Blue SA510 2.5\"/7mm SATA SSD Internal Storage 2TB (up to 560MB/s, 3D NAND, Acronis True Image, SANDISK Dashboard)",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-07-07T14:22:28Z"
+  "lastUpdated": "2026-07-07T19:52:18Z"
  },
  {
   "id": "hdd-firecuda-2tb",
@@ -1174,71 +1144,32 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/3497755/ssd-2tb-seagate-firecuda-530r-nvme-m-2-pcie-4-0-x4",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "SSD 2TB Seagate FireCuda 530R NVMe M.2 PCIe 4.0 x4 con dissipatore di calore Nero [ZP2000GM3A073]",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/871/9706/8719706437738.png?signature=1b5cc5cb310d7368463313bb5ec722e6cab65da665842d06a792cb396edc5b23"
    }
   ],
   "image": "images/ssds-hdd-firecuda-2tb.png",
-  "lastUpdated": "2026-07-07T14:22:28Z"
+  "lastUpdated": "2026-07-07T19:52:18Z"
  },
  {
   "id": "hdd-wdblack-4tb",
   "name": "WD Black 4 To (7200)",
-  "priceMin": 459.0,
+  "priceMin": 471.0,
   "prices": [
    {
     "shop": "amazon.de",
-    "price": 459.0,
-    "currency": "EUR",
-    "url": "https://www.gputracker.eu/si-click/4/3618548/wdblack-sn850p-4tb-nvme-ssd-officially-licensed-fo",
-    "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
-    "product": "WD_BLACK SN850P 4TB NVMe SSD Officially Licensed for PS5 Consoles (Internal Gaming SSD; Optimised Heatsink; PCIe Gen4 Technology, Up to 7300MB/s Re...",
-    "image": null
-   },
-   {
-    "shop": "amazon.de",
-    "price": 551.0,
+    "price": 471.0,
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/3781377/wdblack-sn7100-nvme-ssd-4-tb-high-performance-gami",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "WD_Black SN7100 NVMe SSD 4 TB (High-Performance Gaming Memory, up to 7,000 MB/s Read, PCIe Gen4, Energy Efficiency, for Desktop, Laptop & Handheld ...",
     "image": null
-   },
-   {
-    "shop": "amazon.de",
-    "price": 676.0,
-    "currency": "EUR",
-    "url": "https://www.gputracker.eu/si-click/4/4620581/wdblack-sn7100x-nvme-ssd-4tb-built-for-rog-xbox-al",
-    "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
-    "product": "WD_Black SN7100X NVMe SSD 4TB (Built for ROG Xbox Ally (X) & PC, Read Speeds up to 7000MB/s, Internal Solid State Drive, Officially Licensed for RO...",
-    "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-07-07T14:22:28Z"
- },
- {
-  "id": "sata-bx500-1tb",
-  "name": "Crucial BX500 1 To",
-  "priceMin": 159.0,
-  "prices": [
-   {
-    "shop": "amazon.de",
-    "price": 159.0,
-    "currency": "EUR",
-    "url": "https://www.gputracker.eu/si-click/4/2699333/crucial-bx500-sata-ssd-1tb-2-5-inch-internal-hard-",
-    "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
-    "product": "Crucial BX500 SATA SSD 1TB, 2.5 Inch Internal Hard Drive, up to 540 MB/s, 1TB SSD Compatible with Laptop and Desktop (PC), 3D NAND, Dynamic Write A...",
-    "image": null
-   }
-  ],
-  "image": null,
-  "lastUpdated": "2026-07-07T14:22:28Z"
+  "lastUpdated": "2026-07-07T19:52:18Z"
  },
  {
   "id": "sata-a400-480",
@@ -1251,7 +1182,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/4181206/kingston-disque-ssd-interne-a400-480go-2-5-sa400s3",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "KINGSTON - Disque SSD Interne - A400 - 480Go - 2.5\" (SA400S37/480G)",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/074/0617/0740617263442.png?signature=836d74b7b87fbe6b1db09af27d592e5a50272f2a5709acd5fec3ea8d30a9c547"
    },
@@ -1261,7 +1192,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/156605/kingston-ssd-a400-480-go",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "Kingston SSD A400 480 Go",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/074/0617/0740617263442.png?signature=836d74b7b87fbe6b1db09af27d592e5a50272f2a5709acd5fec3ea8d30a9c547"
    },
@@ -1271,32 +1202,42 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/3017338/kingston-ssd-a400-480-go-x-10",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "Kingston SSD A400 480 Go (x 10)",
     "image": null
    }
   ],
   "image": "images/ssds-sata-a400-480.png",
-  "lastUpdated": "2026-07-07T14:22:28Z"
+  "lastUpdated": "2026-07-07T19:52:18Z"
  },
  {
   "id": "sata-sandisk-1tb",
   "name": "SanDisk Ultra 3D 1 To",
-  "priceMin": 333.0,
+  "priceMin": 284.0,
   "prices": [
    {
     "shop": "amazon.de",
-    "price": 333.0,
+    "price": 284.0,
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/3613174/transcend-mts425s-1tb-m-2-2242-sata-iii-bm-key-3d-",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "Transcend MTS425S 1TB M.2 2242 SATA III B+M Key, 3D NAND, DRAM-Less, up to 550/500MB/s, Internal SSD for Gaming Handhelds, Ultrabooks and NUC",
+    "image": null
+   },
+   {
+    "shop": "amazon.de",
+    "price": 326.0,
+    "currency": "EUR",
+    "url": "https://www.gputracker.eu/si-click/4/3613215/transcend-mte410s-1tb-m-2-2242-nvme-pcie-gen4x4-3d",
+    "inStock": true,
+    "lastSeen": "2026-07-07T19:52:18Z",
+    "product": "Transcend MTE410S 1TB M.2 2242 NVMe PCIe Gen4x4, 3D NAND, DRAM-Less, Up to 5,000/3,500 mb/s, Internal SSD for Gaming Handhelds, Ultrabooks and NUC",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-07-07T14:22:28Z"
+  "lastUpdated": "2026-07-07T19:52:18Z"
  },
  {
   "id": "nvme-p3-1tb",
@@ -1309,28 +1250,8 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/4181209/disque-ssd-interne-crucial-p310-1to-pcie-gen4-nvme",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "Disque SSD Interne - CRUCIAL - P310 1To PCIe Gen4 NVMe M.2 SSD (CT1000P310SSD8)",
-    "image": null
-   },
-   {
-    "shop": "amazon.de",
-    "price": 157.0,
-    "currency": "EUR",
-    "url": "https://www.gputracker.eu/si-click/4/3407670/crucial-p310-ssd-1tb-m-2-2280-pcie-gen4-nvme-up-to",
-    "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
-    "product": "Crucial P310 SSD 1TB M.2 2280 PCIe Gen4 NVMe, up to 7100 MB/s, for Laptop, Desktop PC & Handheld Game Consoles, Internal Hard Drive - CT1000P310SSD801",
-    "image": null
-   },
-   {
-    "shop": "amazon.de",
-    "price": 164.0,
-    "currency": "EUR",
-    "url": "https://www.gputracker.eu/si-click/4/3666030/crucial-p310-ps5-ssd-1tb-pcie-gen4-nvme-m-2-intern",
-    "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
-    "product": "Crucial P310 PS5 SSD 1TB PCIe Gen4 NVMe M.2 Internal Hard Drive with Heatsink, up to 7100 MB/s, Gaming for PS5, Desktop PC - CT1000P310SSD5-01",
     "image": null
    },
    {
@@ -1339,13 +1260,13 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/3313746/crucial-p310-1-to-2230",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "Crucial P310 1 To 2230",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/064/9528/0649528942272.png?signature=b26817d737694da9ecfc65e0db8056a12af60ee776dcdcb60bad2f00c70cef61"
    }
   ],
   "image": "images/ssds-nvme-p3-1tb.png",
-  "lastUpdated": "2026-07-07T14:22:28Z"
+  "lastUpdated": "2026-07-07T19:52:18Z"
  },
  {
   "id": "nvme-sn350-1tb",
@@ -1358,13 +1279,13 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/1278647/wds100t3g0c-wd-green-sn350-desktop-nvme-ssd-1tb-m-",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "WDS100T3G0C - WD Green SN350 Desktop NVMe SSD 1TB, M.2",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/071/8037/0718037886039.png?signature=0a73df2bf930834f74bb1cab03127d77e0067b0470cef315247804aadf127650"
    }
   ],
   "image": "images/ssds-nvme-sn350-1tb.png",
-  "lastUpdated": "2026-07-07T14:22:28Z"
+  "lastUpdated": "2026-07-07T19:52:18Z"
  },
  {
   "id": "nvme-990evo-1tb",
@@ -1377,61 +1298,51 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/4181211/ssd-interne-samsung-990-evo-plus-1-to-nvme-m-2-pci",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "SSD Interne - SAMSUNG - 990 EVO Plus 1 To - NVMe M.2 PCIe 4.0x4 - Vitesse lecture jusqu'à 7 150 Mo/s",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-07-07T14:22:28Z"
+  "lastUpdated": "2026-07-07T19:52:18Z"
  },
  {
   "id": "nvme-t500-1tb",
   "name": "Crucial T500 1 To",
-  "priceMin": 179.0,
+  "priceMin": 196.0,
   "prices": [
-   {
-    "shop": "amazon.de",
-    "price": 179.0,
-    "currency": "EUR",
-    "url": "https://www.gputracker.eu/si-click/4/2919229/crucial-t500-ssd-1tb-pcie-gen4-nvme-m-2-internal-h",
-    "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
-    "product": "Crucial T500 SSD 1TB PCIe Gen4 NVMe M.2 Internal Hard Drive, up to 7300 MB/s, TLC NAND, Compatible with Laptop and Desktop, Microsoft DirectStorage...",
-    "image": null
-   },
    {
     "shop": "bpm-power.com",
     "price": 196.0,
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/2860958/ssd-1tb-crucial-t500-pcie-4-0-m-2-2280-con-dissipa",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "SSD 1TB Crucial T500 PCIe 4.0 M.2 2280 con dissipatore di calore Nero [CT1000T500SSD5]",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/064/9528/0649528940018.png?signature=75b7761fc38538c7ff086d44a10a91a4d6f2527785f447de85f116956378df78"
    }
   ],
   "image": "images/ssds-nvme-t500-1tb.png",
-  "lastUpdated": "2026-07-07T14:22:28Z"
+  "lastUpdated": "2026-07-07T19:52:18Z"
  },
  {
   "id": "nvme-sn770-1tb",
   "name": "WD Black SN770 1 To",
-  "priceMin": 255.0,
+  "priceMin": 175.0,
   "prices": [
    {
     "shop": "amazon.de",
-    "price": 255.0,
+    "price": 175.0,
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/3613179/wdblack-sn770m-1tb-m-2-2230-nvme-ssd-for-handheld-",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "WD_BLACK SN770M 1TB M.2 2230 NVMe SSD (for Handheld Game Consoles, Laptops, PCIe Gen 4.0, up to 5,150 MB/s, TLC 3D NAND, for Asus ROG Ally, Steam D...",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-07-07T14:22:28Z"
+  "lastUpdated": "2026-07-07T19:52:18Z"
  },
  {
   "id": "nvme-kc3000-1tb",
@@ -1444,7 +1355,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/1117489/kingston-kc3000-ssd-1tb-pcie-4-0-m-2-2280",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "Kingston KC3000 SSD - 1TB - PCIe 4.0 - M.2 2280",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/074/0617/0740617324433.png?signature=c6ebc6b2fa49e36762e49e3363d7a0e2dd562130a20c92e334ae1b24dbd4e27f"
    },
@@ -1454,7 +1365,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/1125053/1tb-kingston-kc3000-m-2-pcie-4-0-x4-3d-nand-tlc-sk",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "1TB Kingston KC3000 M.2 PCIe 4.0 x4 3D-NAND TLC (SKC3000S/1024G)",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/074/0617/0740617324433.png?signature=c6ebc6b2fa49e36762e49e3363d7a0e2dd562130a20c92e334ae1b24dbd4e27f"
    },
@@ -1464,7 +1375,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/1124967/skc3000s1024g-kingston-kc3000-nvmetm-ssd-1-tb-m-2-",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "SKC3000S/1024G - Kingston KC3000 NVMe™ SSD, 1 TB, M.2 PCIe",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/074/0617/0740617324433.png?signature=c6ebc6b2fa49e36762e49e3363d7a0e2dd562130a20c92e334ae1b24dbd4e27f"
    },
@@ -1474,13 +1385,13 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/4265563/kingston-kc3000-1tb-pcie-4-0-nvme-m-2-ssd",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "Kingston KC3000 1TB PCIe 4.0 NVMe M.2 SSD",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/074/0617/0740617324433.png?signature=c6ebc6b2fa49e36762e49e3363d7a0e2dd562130a20c92e334ae1b24dbd4e27f"
    }
   ],
   "image": "images/ssds-nvme-kc3000-1tb.png",
-  "lastUpdated": "2026-07-07T14:22:28Z"
+  "lastUpdated": "2026-07-07T19:52:18Z"
  },
  {
   "id": "nvme-mp600pro-1tb",
@@ -1493,13 +1404,13 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/1018145/corsair-force-mp600-pro-xt-1-to",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "Corsair Force MP600 PRO XT 1 To",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/084/0006/0840006645085.png?signature=e6cf7899d46ca683ec603c6e493f0b178349e26cf1c9748fc947ec150292033f"
    }
   ],
   "image": "images/ssds-nvme-mp600pro-1tb.png",
-  "lastUpdated": "2026-07-07T14:22:28Z"
+  "lastUpdated": "2026-07-07T19:52:18Z"
  },
  {
   "id": "nvme-990pro-4tb",
@@ -1512,7 +1423,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/4190632/samsung-990-pro-avec-dissipateur-ssd-interne-4-to-",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "SAMSUNG - 990 PRO avec dissipateur- SSD Interne - 4 To - NVMe M.2 PCIe 4.0x4 - Vitesse lecture jusqu'à 7 450 Mo/s",
     "image": null
    },
@@ -1522,7 +1433,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/2683307/samsung-ssd-990-pro-m-2-pcie-nvme-4-to",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "Samsung SSD 990 PRO M.2 PCIe NVMe 4 To",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/880/6094/8806094947205.png?signature=4eb1a680857ebabfb8019ac86f6dfa330e46e689e97940f4bb8e2c109097af22"
    },
@@ -1532,13 +1443,13 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/2683308/samsung-ssd-990-pro-m-2-pcie-nvme-4-to-avec-dissip",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "Samsung SSD 990 PRO M.2 PCIe NVMe 4 To avec dissipateur",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/880/6095/8806095255811.png?signature=60a8dc6fe46d8e1f059d2ecf88b02cdf303dc96544902669485c48a4394b6929"
    }
   ],
   "image": "images/ssds-nvme-990pro-4tb.png",
-  "lastUpdated": "2026-07-07T14:22:28Z"
+  "lastUpdated": "2026-07-07T19:52:18Z"
  },
  {
   "id": "nvme-9100pro-2tb",
@@ -1551,7 +1462,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/4198099/samsung-9100-pro-ssd-interne-2-to-nvme-m-2-pcie-5-",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "SAMSUNG - 9100 PRO - SSD Interne - 2 To - NVMe M.2 PCIe 5.0x4 - Vitesse lecture jusqu'à 14 800 Mo/s",
     "image": null
    },
@@ -1561,7 +1472,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/3724120/samsung-ssd-9100-pro-m-2-pcie-nvme-2-to",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "Samsung SSD 9100 PRO M.2 PCIe NVMe 2 To",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/880/6095/8806095811710.png?signature=f0af9c577c7a4adf1e44062dd48e1e64188c740edaa36e5f33aadec736fb117e"
    },
@@ -1571,32 +1482,13 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/3724121/samsung-ssd-9100-pro-m-2-pcie-nvme-2-to-avec-dissi",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "Samsung SSD 9100 PRO M.2 PCIe NVMe 2 To avec dissipateur",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/880/6095/8806095811666.png?signature=af71ade348953ad351fcf79e6185793970f8c90126afef2506e682114f34712f"
    }
   ],
   "image": "images/ssds-nvme-9100pro-2tb.png",
-  "lastUpdated": "2026-07-07T14:22:28Z"
- },
- {
-  "id": "nvme-t705-2tb",
-  "name": "Crucial T705 2 To",
-  "priceMin": 289.0,
-  "prices": [
-   {
-    "shop": "amazon.de",
-    "price": 289.0,
-    "currency": "EUR",
-    "url": "https://www.gputracker.eu/si-click/4/3613324/crucial-t705-2tb-ssd-pcie-gen5-nvme-m-2-limited-ed",
-    "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
-    "product": "Crucial T705 2TB SSD PCIe Gen5 NVMe M.2 Limited Edition Internal Gaming SSD with Premium White Heatsink, Up to 14,500MB/s, PCIe 4.0 Backwards Compa...",
-    "image": null
-   }
-  ],
-  "image": null,
-  "lastUpdated": "2026-07-07T14:22:28Z"
+  "lastUpdated": "2026-07-07T19:52:18Z"
  },
  {
   "id": "nvme-mp700-2tb",
@@ -1609,7 +1501,7 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/2767190/corsair-mp700-pro-2-to-hydro-x-series",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "Corsair MP700 PRO 2 To Hydro X Series",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/084/0006/0840006675136.png?signature=e3d2b4359e37ab156050dc2e1f68162e4f9609859c95712e62ab91087cef28e7"
    },
@@ -1619,12 +1511,12 @@
     "currency": "EUR",
     "url": "https://www.gputracker.eu/si-click/4/3111759/corsair-mp700-pro-se-hydro-x-series-2-to",
     "inStock": true,
-    "lastSeen": "2026-07-07T14:22:28Z",
+    "lastSeen": "2026-07-07T19:52:18Z",
     "product": "Corsair MP700 PRO SE Hydro X Series 2 To",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/084/0006/0840006686736.png?signature=3b6e2d5c72c6699e00ae5906956058cc4f46b12ab600189578e6fc822201688d"
    }
   ],
   "image": "images/ssds-nvme-mp700-2tb.png",
-  "lastUpdated": "2026-07-07T14:22:28Z"
+  "lastUpdated": "2026-07-07T19:52:18Z"
  }
 ]

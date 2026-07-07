@@ -247,7 +247,8 @@ def principal():
                 "priceMin": offres[0]["price"],
                 "prices": [{"shop": o["shop"], "price": o["price"], "currency": "EUR",
                             "url": o["url"], "inStock": True, "lastSeen": quand,
-                            "product": o["product"]} for o in offres[:15]],
+                            "product": o["product"],
+                            "image": o["image"] or None} for o in offres[:15]],
                 "image": image_rel,
                 "lastUpdated": quand,
             })

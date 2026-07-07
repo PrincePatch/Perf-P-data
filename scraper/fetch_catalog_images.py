@@ -164,8 +164,13 @@ def principal():
                 ok += 1
                 continue
             url = None
+            # Refroidissements : mot-clé selon le TYPE (ventirad à air vs
+            # watercooling AIO) — la requête générique ratait ~40 % (lot 15).
+            mc = mot_cle
+            if cat == "coolers":
+                mc = "watercooling AIO" if str(it.get("kind", "")).upper().startswith("AIO")                     else "ventirad processeur"
             try:
-                url = chercher_image(nom, mot_cle)
+                url = chercher_image(nom, mc)
             except Exception as e:  # rate-limit ddgs → on attend et on continue
                 print(f"  ! {cat}/{iid}: {e}", file=sys.stderr)
                 time.sleep(20)

@@ -83,6 +83,9 @@ def _offers_payload(offers: list[Offer], last_updated: str) -> list[dict]:
                 # Nom RÉEL du produit vendu (variante AIB : « ASUS TUF RTX 4070
                 # OC »…) — alimente le sélecteur de modèles de l'app (lot 10).
                 "product": o.product_name or None,
+                # Photo de la VARIANTE vendue (CDN gputracker, URL absolue) —
+                # chaque modèle du sélecteur a sa propre image (lot 15, item 9).
+                "image": o.image or None,
             }
         )
     return payload

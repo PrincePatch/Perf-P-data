@@ -128,6 +128,14 @@ def suffixe_ok(cat, nom_app, nom_offre):
     return True
 
 
+# Requête SPÉCIFIQUE pour la passe « grandes enseignes » quand la requête
+# standard contient un jeton que les boutiques FR n'écrivent pas pareil
+# (LDLC écrit « 32 Go », pas « 32GB ») — la capacité est déjà contrôlée par
+# le filtre de correspondance.
+PRIO_QUERY = {
+    "rams": lambda it: f"{it['kind']} {it['mhz']} CL{it['cl']}",
+}
+
 # Grandes enseignes prioritaires (ids fv_shop gputracker) : leurs offres sont
 # recherchées EN PLUS, même hors du top-20 par prix — l'app affiche ainsi le
 # prix vérifié LDLC/Amazon/Materiel.net/Alternate presque à chaque fois
@@ -236,7 +244,8 @@ def principal():
                 # (lot 16, item 9) — dédoublonnées par (boutique, prix).
                 if brutes:
                     vues = {(o["shop"], o["price"]) for o in brutes}
-                    for o in offres_pour(src, cat_id, slug, requete_ok,
+                    q_prio = PRIO_QUERY.get(cat, lambda x: requete_ok)(it)
+                    for o in offres_pour(src, cat_id, slug, q_prio,
                                          fv_shops=FV_SHOPS_PRIORITAIRES):
                         if (o["shop"], o["price"]) not in vues:
                             brutes.append(o)

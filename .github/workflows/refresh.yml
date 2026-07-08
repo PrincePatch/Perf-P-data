@@ -27,6 +27,12 @@ jobs:
       # Les listes de composants vivent dans catalog/ (copie des assets app).
       - name: Offres par composant (toutes categories)
         run: python scraper/enrich_catalog.py --data-repo . --items-dir catalog
+      # Source de prix SUPPLEMENTAIRE (lot 21) : Newegg (USD) ajoute des prix
+      # verifies americains a gpus_app.json / cpus_app.json, en plus des offres
+      # euro. L'app filtre par pays de livraison et convertit les devises.
+      - name: Prix US (Newegg)
+        run: python scraper/enrich_newegg.py --data-repo . --items-dir catalog --only gpus,cpus
+        continue-on-error: true
       # Photos par MODELE (variante AIB) pour les modeles sans image d'offre
       # (lot 17, item 3) : incremental, ne re-cherche que les nouveaux.
       - name: Images par modele (variantes AIB)

@@ -23,10 +23,13 @@ _UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
 
 
 class NeweggSource:
-    """Client Newegg poli (limitation de débit, UA navigateur)."""
+    """Client Newegg poli (limitation de débit, UA navigateur). [domaine] =
+    'newegg.com' (USD) ou 'newegg.ca' (CAD) — lot 25, item 1."""
 
-    def __init__(self, rate_limit=1.5):
-        self.base_url = "https://www.newegg.com"
+    def __init__(self, rate_limit=1.5, domaine="newegg.com", devise="USD"):
+        self.domaine = domaine
+        self.devise = devise
+        self.base_url = f"https://www.{domaine}"
         self._rate = rate_limit
         self._dernier = 0.0
         self._sess = requests.Session()
@@ -63,7 +66,7 @@ class NeweggSource:
             image = None
             if img:
                 image = (img.get("src") or img.get("data-src") or "").strip() or None
-            out.append({"shop": "newegg.com", "price": prix, "currency": "USD",
+            out.append({"shop": self.domaine, "price": prix, "currency": self.devise,
                         "url": lien, "product": nom, "image": image})
         return out
 

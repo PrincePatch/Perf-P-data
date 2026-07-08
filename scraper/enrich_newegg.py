@@ -43,7 +43,11 @@ def principal():
     seules = {c.strip() for c in args.only.split(",") if c.strip()}
     quand = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
-    ng = NeweggSource(rate_limit=1.5)
+    # Deux marchés Newegg : États-Unis (USD) et Canada (CAD) — lot 25, item 1.
+    sources = [
+        NeweggSource(rate_limit=1.5, domaine="newegg.com", devise="USD"),
+        NeweggSource(rate_limit=1.5, domaine="newegg.ca", devise="CAD"),
+    ]
 
     for cat, (fichier, sortie_nom) in CATS.items():
         if seules and cat not in seules:
@@ -62,41 +66,47 @@ def principal():
 
         ok = vide = 0
         for it in items:
-            try:
-                brutes = ng.offres(it["name"])
-            except Exception as e:  # noqa: BLE001 — une requête ratée ne tue pas le run
-                print(f"  ! newegg {cat}/{it['id']}: {e}", file=sys.stderr)
-                continue
             jetons = t_nom(it)
-            offres = sorted(
-                [o for o in brutes
-                 if correspond(o["product"], jetons)
-                 and suffixe_ok(cat, it["name"], o["product"])],
-                key=lambda o: o["price"])[:8]
-            if not offres:
+            # Offres des DEUX marchés (US + CA), filtrées par correspondance.
+            na = []
+            for src in sources:
+                try:
+                    brutes = src.offres(it["name"])
+                except Exception as e:  # noqa: BLE001 — une requête ratée ne tue pas le run
+                    print(f"  ! {src.domaine} {cat}/{it['id']}: {e}", file=sys.stderr)
+                    continue
+                filtrees = sorted(
+                    [o for o in brutes
+                     if correspond(o["product"], jetons)
+                     and suffixe_ok(cat, it["name"], o["product"])],
+                    key=lambda o: o["price"])[:6]
+                na.extend(filtrees)
+            if not na:
                 vide += 1
                 continue
 
-            usd = [{"shop": o["shop"], "price": o["price"], "currency": "USD",
-                    "url": o["url"], "inStock": True, "lastSeen": quand,
-                    "product": o["product"], "image": o["image"] or None}
-                   for o in offres]
+            offres = [{"shop": o["shop"], "price": o["price"], "currency": o["currency"],
+                       "url": o["url"], "inStock": True, "lastSeen": quand,
+                       "product": o["product"], "image": o["image"] or None}
+                      for o in na]
 
             e = existant.get(it["id"])
             if e is None:
-                # Pas d'offre euro : on crée l'entrée avec un priceMin NORMALISÉ
-                # en euros (pour ne pas fausser le prix indicatif européen).
+                # Pas d'offre euro : priceMin NORMALISÉ en euros (USD /1.08, CAD /1.47).
+                def _eur(o):
+                    r = {"USD": 1.08, "CAD": 1.47}.get(o["currency"], 1.0)
+                    return o["price"] / r
                 e = {"id": it["id"], "name": it["name"],
-                     "priceMin": round(offres[0]["price"] / 1.08, 2),
+                     "priceMin": round(min(_eur(o) for o in na), 2),
                      "prices": [], "image": None, "lastUpdated": quand}
                 existant[it["id"]] = e
-            # Dédoublonnage : on retire d'anciennes offres Newegg puis on rajoute.
+            # Dédoublonnage : on retire les anciennes offres Newegg (.com/.ca) puis rajoute.
             e["prices"] = [p for p in e.get("prices", [])
                            if "newegg" not in (p.get("shop") or "").lower()]
-            e["prices"].extend(usd)
+            e["prices"].extend(offres)
             e["lastUpdated"] = quand
             ok += 1
-            print(f"  + newegg {cat}/{it['id']}: {len(usd)} offres US, min ${offres[0]['price']}")
+            print(f"  + newegg {cat}/{it['id']}: {len(offres)} offres US+CA")
 
         with open(chemin, "w", encoding="utf-8") as f:
             json.dump(list(existant.values()), f, ensure_ascii=False, indent=1)

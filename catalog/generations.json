@@ -116,6 +116,24 @@
    "motif": "Arc\\s?A\\d",
    "fraicheur": 0.7,
    "marque": "Intel"
+  },
+  {
+   "id": "nvpro",
+   "label": "NVIDIA RTX pro (Ada / Blackwell)",
+   "annee": "depuis 2023",
+   "motif": "(Ada|Blackwell)\\b|RTX\\s?PRO",
+   "fraicheur": 0.95,
+   "marque": "NVIDIA",
+   "parDefaut": false
+  },
+  {
+   "id": "amdpro",
+   "label": "AMD Radeon PRO (W)",
+   "annee": "depuis 2023",
+   "motif": "Radeon\\s?PRO|\\bW7\\d00\\b",
+   "fraicheur": 0.9,
+   "marque": "AMD",
+   "parDefaut": false
   }
  ],
  "cpu": [
@@ -224,6 +242,24 @@
    "annee": "2017",
    "motif": "Ryzen\\s?[357]\\s?1\\d{3}",
    "fraicheur": 0.3,
+   "marque": "AMD",
+   "parDefaut": false
+  },
+  {
+   "id": "intelpro",
+   "label": "Intel Xeon W (station de travail)",
+   "annee": "depuis 2023",
+   "motif": "Xeon",
+   "fraicheur": 0.9,
+   "marque": "Intel",
+   "parDefaut": false
+  },
+  {
+   "id": "amdtr",
+   "label": "AMD Ryzen Threadripper",
+   "annee": "depuis 2023",
+   "motif": "Threadripper",
+   "fraicheur": 0.9,
    "marque": "AMD",
    "parDefaut": false
   }

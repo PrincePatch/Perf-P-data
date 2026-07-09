@@ -6,15 +6,15 @@
     "gpuIndex": "GeForce RTX 4070 = 100",
     "cpuGamingIndex": "AMD Ryzen 7 7800X3D = 100"
   },
-  "lastUpdated": "2026-07-09T14:44:11Z",
+  "lastUpdated": "2026-07-09T19:29:03Z",
   "categories": {
-    "gpus": 27,
+    "gpus": 32,
     "cpus": 60
   },
   "benchmarkCoverage": {
     "gpus": {
-      "matched": 27,
-      "total": 27,
+      "matched": 32,
+      "total": 32,
       "reference": 26881
     },
     "cpus": {

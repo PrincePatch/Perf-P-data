@@ -115,7 +115,7 @@ def principal():
                     [o for o in brutes
                      if correspond(o["product"], jetons)
                      and suffixe_ok(cat, it["name"], o["product"])
-                     and not produit_suspect(o["product"])],
+                     and not produit_suspect(o["product"], cat)],
                     key=lambda o: (not o.get("in_stock", True), o["price"]))[:8]
                 nouvelles.extend(filtrees)
             nouvelles = sans_aberrantes(nouvelles)

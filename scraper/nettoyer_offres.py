@@ -41,15 +41,17 @@ FICHIERS = {
     "mobos": "mobos.json",
     "psus": "psus.json",
     "cases": "cases.json",
+    "coolers": "coolers.json",
 }
 
 # Seuil bas relatif à la médiane : en-dessous = accessoire/erreur de matching.
 _SEUIL_MEDIANE = 0.4
 
 
-def nettoyer_prices(prices):
-    """Retourne (prices nettoyées, nb accessoires retirés, nb aberrations)."""
-    sans_acc = [p for p in prices if not produit_suspect(p.get("product", ""))]
+def nettoyer_prices(prices, cat=None):
+    """Retourne (prices nettoyées, nb accessoires retirés, nb aberrations).
+    [cat] pilote le filtre accessoire (les coolers en sont exemptés)."""
+    sans_acc = [p for p in prices if not produit_suspect(p.get("product", ""), cat)]
     n_acc = len(prices) - len(sans_acc)
     if len(sans_acc) < 3:  # trop peu d'offres → pas de médiane fiable
         return sans_acc, n_acc, 0
@@ -91,7 +93,7 @@ def principal():
             prices = e.get("prices") or []
             if not prices:
                 continue
-            gardees, n_acc, n_ab = nettoyer_prices(prices)
+            gardees, n_acc, n_ab = nettoyer_prices(prices, cat)
             tot_acc += n_acc
             tot_ab += n_ab
             e["prices"] = gardees

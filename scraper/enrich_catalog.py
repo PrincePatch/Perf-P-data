@@ -87,6 +87,10 @@ CATEGORIES = {
     "mobos": ("mobos", 8, "motherboards", q_nom, t_nom),
     "psus": ("psus", 6, "power-supplies", q_nom, t_nom),
     "cases": ("cases", 7, "cases", q_nom, t_nom),
+    # Refroidissement : gputracker N'A PAS de catégorie ventirad (cat_id None →
+    # ignoré par enrich_catalog) ; les prix viennent des boutiques directes via
+    # enrich_shops (LDLC/Materiel.net/Alternate vendent tous les ventirads/AIO).
+    "coolers": ("coolers", None, None, q_nom, t_nom),
 }
 
 # Fichier de sortie par catégorie (GPU/CPU ne doivent PAS écraser les fichiers
@@ -191,12 +195,18 @@ _MOTS_ACCESSOIRE = (
 )
 
 
-def produit_suspect(nom_offre):
+def produit_suspect(nom_offre, cat=None):
     """Vrai si l'offre ressemble à un bundle / PC complet OU à un ACCESSOIRE
     (waterblock, backplate, câble…) plutôt qu'au composant seul — son prix
-    polluerait les « prix vérifiés » (lot 28-29b)."""
+    polluerait les « prix vérifiés » (lot 28-29b). Les mots « accessoire »
+    (waterblock, alphacool, watercooling…) sont des MARQUES/PIÈCES LÉGITIMES
+    pour la catégorie REFROIDISSEMENT : on ne les y applique pas (lot 30)."""
     bas = f" {nom_offre.lower()} "
-    return any(m in bas for m in _MOTS_BUNDLE) or any(m in bas for m in _MOTS_ACCESSOIRE)
+    if any(m in bas for m in _MOTS_BUNDLE):
+        return True
+    if cat == "coolers":
+        return False
+    return any(m in bas for m in _MOTS_ACCESSOIRE)
 
 
 # Taux €→devise pour comparer des offres multi-devises (mêmes taux figés que
@@ -312,6 +322,10 @@ def principal():
 
     for cat, (fichier, cat_id, slug, q_build, t_build) in CATEGORIES.items():
         if seules and cat not in seules:
+            continue
+        # Catégorie sans recherche gputracker (ex. coolers) : gérée uniquement
+        # par les boutiques directes (enrich_shops) — lot 30.
+        if cat_id is None:
             continue
         with open(os.path.join(args.items_dir, f"{fichier}.json"),
                   encoding="utf-8") as f:

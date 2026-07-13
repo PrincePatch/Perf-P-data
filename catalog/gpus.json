@@ -1490,20 +1490,5 @@
   "raytracing": true,
   "frameGen": true,
   "boostClockMhz": 2660
- },
- {
-  "id": "rtx6090",
-  "brand": "NVIDIA",
-  "name": "GeForce RTX 6090",
-  "index": 255,
-  "vramGb": 48,
-  "price": 3990,
-  "tdp": 600,
-  "cudaCores": 28000,
-  "raytracing": true,
-  "frameGen": true,
-  "boostClockMhz": 2700,
-  "memSpeedGbps": 32,
-  "memBusBits": 512
  }
 ]

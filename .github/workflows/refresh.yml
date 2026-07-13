@@ -8,7 +8,7 @@ permissions:
 jobs:
   refresh:
     runs-on: ubuntu-latest
-    timeout-minutes: 80
+    timeout-minutes: 170
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -32,6 +32,19 @@ jobs:
       # euro. L'app filtre par pays de livraison et convertit les devises.
       - name: Prix US (Newegg)
         run: python scraper/enrich_newegg.py --data-repo . --items-dir catalog --only gpus,cpus
+        continue-on-error: true
+      # Boutiques a SOURCE DIRECTE (lot 27-29) : LDLC + Materiel.net +
+      # Alternate (EUR, stock reel + tout le catalogue), Morele (PLN) et
+      # Canada Computers (CAD) — enrichissent les 7 categories id-clees
+      # en plus des offres gputracker/Newegg.
+      - name: Prix boutiques directes (LDLC, Materiel.net, Alternate, Morele, Canada Computers)
+        run: python scraper/enrich_shops.py --data-repo . --items-dir catalog
+        continue-on-error: true
+      # Nettoyage FINAL (lot 29b) : retire des prices[] fusionnes les accessoires
+      # (waterblock, backplate, cable...) et les aberrations basses (< 0,4x la
+      # mediane) qui ont echappe aux filtres par-source, et recalcule priceMin.
+      - name: Nettoyage des offres (accessoires + aberrations)
+        run: python scraper/nettoyer_offres.py --data-repo .
         continue-on-error: true
       # Photos par MODELE (variante AIB) pour les modeles sans image d'offre
       # (lot 17, item 3) : incremental, ne re-cherche que les nouveaux.

@@ -66,8 +66,13 @@ class NeweggSource:
             image = None
             if img:
                 image = (img.get("src") or img.get("data-src") or "").strip() or None
+            # Disponibilité : Newegg affiche « OUT OF STOCK » dans la cellule
+            # quand le produit est épuisé (défaut : disponible) — lot 27, item 2.
+            txt = cell.get_text(" ", strip=True).lower()
+            in_stock = "out of stock" not in txt
             out.append({"shop": self.domaine, "price": prix, "currency": self.devise,
-                        "url": lien, "product": nom, "image": image})
+                        "url": lien, "product": nom, "image": image,
+                        "in_stock": in_stock})
         return out
 
 

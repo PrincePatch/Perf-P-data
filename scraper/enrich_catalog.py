@@ -101,14 +101,29 @@ _SUFFIXES = {
 }
 
 
-def _suffixe_apres(norm, num, suffixes):
-    """Suffixe de modèle collé à [num] dans [norm] (ex. '4070tisuper' → 'tisuper')."""
+def _norm_espace(s):
+    """Norme qui PRÉSERVE les frontières de mots (séparateurs → espace) —
+    permet de savoir si un chiffre suivait le suffixe SANS séparateur."""
+    s = unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode()
+    return re.sub(r"[^a-z0-9]+", " ", s.lower())
+
+
+def _suffixe_apres(norm, espace, num, suffixes):
+    """Suffixe de modèle collé à [num] dans [norm] (ex. '4070tisuper' → 'tisuper').
+    Un CHIFFRE collé derrière le suffixe DANS LE NOM BRUT en fait un AUTRE
+    modèle (lot 28 : « 9950X3D2 Dual Edition » ≠ « 9950X3D ») — il est inclus
+    dans le suffixe rendu pour faire échouer la comparaison. La contiguïté est
+    vérifiée sur [espace] : « 9950X3D (4.3 GHz) » donne bien 'x3d' (le 4 est
+    séparé par une parenthèse), « 9950X3D2 » donne 'x3d2'."""
     i = norm.find(num)
     if i < 0:
         return None
     reste = norm[i + len(num):]
     for suf in suffixes:  # liste ordonnée du plus long au plus court
         if reste.startswith(suf):
+            fin = reste[len(suf):]
+            if fin[:1].isdigit() and (num + suf + fin[:1]) in espace:
+                return suf + fin[:1]
             return suf
     return ""
 
@@ -120,9 +135,10 @@ def suffixe_ok(cat, nom_app, nom_offre):
     if suffixes is None:
         return True
     napp, noff = _norm(nom_app), _norm(nom_offre)
+    eapp, eoff = _norm_espace(nom_app), _norm_espace(nom_offre)
     for num in re.findall(r"\d{3,5}", nom_app):
-        attendu = _suffixe_apres(napp, num, suffixes)
-        trouve = _suffixe_apres(noff, num, suffixes)
+        attendu = _suffixe_apres(napp, eapp, num, suffixes)
+        trouve = _suffixe_apres(noff, eoff, num, suffixes)
         if trouve is not None and trouve != attendu:
             return False
     return True
@@ -141,8 +157,82 @@ PRIO_QUERY = {
 # prix vérifié LDLC/Amazon/Materiel.net/Alternate presque à chaque fois
 # (lot 16, item 9).
 FV_SHOPS_PRIORITAIRES = ["3", "4", "2", "18"]  # ldlc, amazon.fr, materiel.net, alternate.fr
-# 2e vague (lot 17, item 6) : autres enseignes FR suivies par l'app.
-FV_SHOPS_SECONDAIRES = ["42", "78", "9", "195", "5"]  # grosbill, cybertek, rueducommerce, topbiz, cdiscount
+# 2e vague (lot 17, item 6 — élargie lot 28) : TOUTES les autres enseignes du
+# filtre gputracker suivies par l'app. Le paramètre fv_shop est un OU côté
+# site (vérifié) → une seule requête pour les 10.
+FV_SHOPS_SECONDAIRES = [
+    "42", "78", "9", "195", "5",     # grosbill, cybertek, rueducommerce, topbiz, cdiscount
+    "27", "65", "109", "171", "6",   # reichelt, compumsa, bpm-power, codima.be, amazon.de
+]
+
+# Mots signalant un PRODUIT COMPOSÉ (PC monté, bundle CPU+carte mère, kit
+# d'upgrade…) dont le prix ne correspond PAS au composant seul : ces offres
+# passent parfois le filtre de jetons (le nom du bundle contient le nom du
+# composant) — lot 28. Comparaison sur le nom BRUT en minuscules (pas _norm,
+# pour garder les séparateurs : « pc » seul matcherait « PCIe »).
+_MOTS_BUNDLE = (
+    " + ", "combo", "bundle", "komputer", "zestaw", "gaming pc", "pc gamer",
+    "desktop", "laptop", "notebook", "ordinateur", "barebone", "mini pc",
+    "upgrade kit", "kit upgrade", "kit évolution", "system", "all-in-one",
+)
+
+# ACCESSOIRES portant le nom d'un composant (waterblock, backplate, support
+# anti-sag, riser, adaptateur…) — lot 29b : « Alphacool Core Geforce RTX 5080 »
+# est un waterblock, PAS une carte ; son prix (~220 €) polluait la 5080.
+# NB : « waterforce » (Gigabyte AORUS WATERFORCE = vraie carte AIO) et
+# « founders » restent volontairement absents.
+_MOTS_ACCESSOIRE = (
+    "alphacool", "waterblock", "water block", "water-block", "vga block",
+    "gpu block", "backplate", "back plate", "anti-sag", "anti sag",
+    "support gpu", "gpu support", "gpu holder", "gpu bracket", "riser",
+    "bykski", "kryographics", "ek-quantum", "ek quantum", "ek water",
+    "thermal pad", "pâte thermique", "thermal paste", "adaptateur", "adapter",
+    "câble", "cable", "rgb strip", "watercooling gpu",
+)
+
+
+def produit_suspect(nom_offre):
+    """Vrai si l'offre ressemble à un bundle / PC complet OU à un ACCESSOIRE
+    (waterblock, backplate, câble…) plutôt qu'au composant seul — son prix
+    polluerait les « prix vérifiés » (lot 28-29b)."""
+    bas = f" {nom_offre.lower()} "
+    return any(m in bas for m in _MOTS_BUNDLE) or any(m in bas for m in _MOTS_ACCESSOIRE)
+
+
+# Taux €→devise pour comparer des offres multi-devises (mêmes taux figés que
+# le modèle Dart de l'app).
+_TAUX_EUR = {"USD": 1.08, "GBP": 0.86, "CHF": 0.94, "PLN": 4.30, "CAD": 1.47}
+
+
+def prix_eur(offre):
+    """Prix d'une offre ramené en euros (repli 1:1 pour l'EUR/devise inconnue)."""
+    return offre["price"] / _TAUX_EUR.get(offre.get("currency", "EUR"), 1.0)
+
+
+def sans_aberrantes(offres):
+    """Écarte les offres à plus de 2,5× la moins chère (en euros) : ce sont
+    presque toujours des bundles/éditions spéciales qui ont échappé aux mots
+    de bundle — le composant seul ne varie jamais autant entre boutiques."""
+    if len(offres) < 2:
+        return offres
+    mini = min(prix_eur(o) for o in offres)
+    return [o for o in offres if prix_eur(o) <= mini * 2.5]
+
+
+def plafonner_offres(offres, cap=40):
+    """Plafonne [offres] (triées prix croissant) en PRÉSERVANT la diversité de
+    boutiques : d'abord la moins chère de CHAQUE boutique (une offre forcée
+    Amazon/LDLC chère ne tombe plus hors du top — lot 28), puis les variantes
+    restantes par prix jusqu'à [cap]."""
+    vues = set()
+    tetes, restes = [], []
+    for o in offres:
+        if o["shop"] not in vues:
+            vues.add(o["shop"])
+            tetes.append(o)
+        else:
+            restes.append(o)
+    return (tetes + restes)[:cap]
 
 
 def offres_pour(src, cat_id, slug, requete, fv_shops=None):
@@ -259,8 +349,10 @@ def principal():
             offres = sorted(
                 [o for o in brutes
                  if correspond(o["product"], jetons)
-                 and suffixe_ok(cat, it["name"], o["product"])],
+                 and suffixe_ok(cat, it["name"], o["product"])
+                 and not produit_suspect(o["product"])],
                 key=lambda o: o["price"])
+            offres = sans_aberrantes(offres)
             if not offres:
                 vide += 1
                 continue
@@ -278,10 +370,13 @@ def principal():
                 "id": it["id"],
                 "name": it["name"],
                 "priceMin": offres[0]["price"],
+                # Cap PRÉSERVANT une offre par boutique (les offres forcées des
+                # grandes enseignes ne tombent plus hors du top-15) — lot 28.
                 "prices": [{"shop": o["shop"], "price": o["price"], "currency": "EUR",
                             "url": o["url"], "inStock": True, "lastSeen": quand,
                             "product": o["product"],
-                            "image": o["image"] or None} for o in offres[:15]],
+                            "image": o["image"] or None}
+                           for o in plafonner_offres(offres)],
                 "image": image_rel,
                 "lastUpdated": quand,
             })

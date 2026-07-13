@@ -21,7 +21,8 @@ import sys
 from datetime import datetime, timezone
 
 sys.path.insert(0, os.path.dirname(__file__))
-from enrich_catalog import _norm, correspond, suffixe_ok, t_nom  # noqa: E402
+from enrich_catalog import (  # noqa: E402
+    _norm, correspond, produit_suspect, sans_aberrantes, suffixe_ok, t_nom)
 from sources.newegg import NeweggSource  # noqa: E402
 
 RACINE = os.path.join(os.path.dirname(__file__), "..")
@@ -78,15 +79,19 @@ def principal():
                 filtrees = sorted(
                     [o for o in brutes
                      if correspond(o["product"], jetons)
-                     and suffixe_ok(cat, it["name"], o["product"])],
+                     and suffixe_ok(cat, it["name"], o["product"])
+                     # Bundles « CPU + carte mère »/PC montés écartés (lot 28).
+                     and not produit_suspect(o["product"])],
                     key=lambda o: o["price"])[:6]
                 na.extend(filtrees)
+            na = sans_aberrantes(na)
             if not na:
                 vide += 1
                 continue
 
             offres = [{"shop": o["shop"], "price": o["price"], "currency": o["currency"],
-                       "url": o["url"], "inStock": True, "lastSeen": quand,
+                       "url": o["url"], "inStock": bool(o.get("in_stock", True)),
+                       "lastSeen": quand,
                        "product": o["product"], "image": o["image"] or None}
                       for o in na]
 

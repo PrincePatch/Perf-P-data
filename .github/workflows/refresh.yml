@@ -40,6 +40,18 @@ jobs:
       - name: Prix boutiques directes (LDLC, Materiel.net, Alternate, Morele, Canada Computers)
         run: python scraper/enrich_shops.py --data-repo . --items-dir catalog
         continue-on-error: true
+      # Prix verifies AMAZON (lot 31) via la Product Advertising API 5.0 :
+      # Amazon n'est pas scrapable en direct, et c'est le lien d'affiliation
+      # principal de l'app -> il faut un prix Amazon partout ou le produit
+      # existe. Strategie a deux temps (SearchItems pour resoudre l'ASIN une
+      # fois, GetItems par paquets de 10 ensuite) pour tenir le quota PA-API.
+      # Sans les secrets, l'etape echoue proprement et le reste continue.
+      - name: Prix verifies Amazon (PA-API)
+        run: python scraper/enrich_amazon.py --data-repo . --items-dir catalog
+        env:
+          AMAZON_ACCESS_KEY: ${{ secrets.AMAZON_ACCESS_KEY }}
+          AMAZON_SECRET_KEY: ${{ secrets.AMAZON_SECRET_KEY }}
+        continue-on-error: true
       # Nettoyage FINAL (lot 29b) : retire des prices[] fusionnes les accessoires
       # (waterblock, backplate, cable...) et les aberrations basses (< 0,4x la
       # mediane) qui ont echappe aux filtres par-source, et recalcule priceMin.

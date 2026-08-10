@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
-"""Génère un LIEN AFFILIÉ AMAZON par composant et par marketplace, à l'avance.
+"""Génère un LIEN AFFILIÉ AMAZON **vers la fiche produit**, par composant et par
+marketplace.
 
 Pourquoi
 --------
@@ -9,25 +10,36 @@ clés ne sont pas délivrées, l'application n'a **aucune** offre Amazon à
 proposer, donc aucun lien d'affiliation à ouvrir — alors que le programme
 Associates est déjà actif et que les Partner Tags existent.
 
-Ce script comble ce trou SANS API : pour chaque composant du catalogue de
-l'app, il écrit un lien de recherche Amazon **ciblé et déjà tagué**, un par
-marketplace disposant d'un compte. Amazon Associates autorise explicitement les
-liens vers une page de résultats de recherche, et le cookie d'affiliation est
-posé exactement comme sur une fiche produit. Aucun scraping n'est nécessaire :
-les URLs sont déterministes.
+Ce script comble ce trou SANS API, en s'appuyant sur les ASIN résolus par
+`resolve_amazon_asins.py` (découverte via moteur de recherche, **validation sur
+la fiche produit Amazon elle-même**). Chaque lien produit ici mène donc
+DIRECTEMENT à un produit :
 
-Le jour où la PA-API s'ouvre, `enrich_amazon.py` écrit un ASIN par composant
-et par marketplace dans `amazon_asins.json` ; il suffit alors de relancer ce
-script avec `--asins` pour que les liens deviennent des liens produit directs
-(`/dp/<ASIN>?tag=…`). Le format de sortie ne change pas : l'application ne voit
-que des URLs.
+    https://www.amazon.fr/dp/B0DT6SN14V?tag=fraym-21
+
+Les pages de résultats de recherche ne sont plus utilisées : elles obligeaient
+l'utilisateur à choisir lui-même, sans garantie de tomber sur le bon composant.
+
+Marketplace sans ASIN validé
+----------------------------
+Un ASIN européen est souvent valable sur `.fr`, `.de`, `.es` et `.it` à la fois,
+mais pas toujours. Pour une marketplace où la fiche n'existe pas, on publie le
+lien d'une marketplace voisine où elle EXISTE (avec le Partner Tag de
+celle-ci) : **OneLink** redirige ensuite l'acheteur vers son magasin local.
+L'utilisateur atterrit dans tous les cas sur une fiche produit.
+
+Un composant sans aucun ASIN validé n'est PAS publié : il figure dans
+`skipped`, et l'application garde son repli habituel plutôt que d'afficher un
+lien qui ne mènerait pas au bon produit.
+
+Le jour où la PA-API s'ouvre, `enrich_amazon.py` écrit ses propres ASIN dans le
+même `amazon_asins.json` : ce script les reprend sans modification.
 
 Sortie : `catalog/amazon_links.json` (dépôt data) et/ou
 `assets/data/amazon_links.json` (asset embarqué, disponible hors ligne).
 
 Usage :
-    python scraper/gen_amazon_links.py --out assets/data/amazon_links.json
-    python scraper/gen_amazon_links.py --out <clone>/catalog/amazon_links.json \
+    python scraper/gen_amazon_links.py --out assets/data/amazon_links.json \
         --asins <clone>/amazon_asins.json
 """
 
@@ -37,7 +49,6 @@ import os
 import re
 import sys
 from datetime import datetime, timezone
-from urllib.parse import quote_plus
 
 RACINE = os.path.join(os.path.dirname(__file__), "..")
 
@@ -108,20 +119,30 @@ def requete(cat, it):
     return _avec_marque(it.get("brand"), nom)
 
 
-def lien(marche, q, asin=None):
-    """Lien affilié : fiche produit si l'ASIN est connu, recherche ciblée sinon."""
-    tag = TAGS[marche]
-    if asin:
-        return f"https://www.{marche}/dp/{asin}?tag={tag}"
-    return f"https://www.{marche}/s?k={quote_plus(q)}&tag={tag}"
+def lien(marche, asin):
+    """Lien affilié vers la FICHE PRODUIT [asin] sur [marche]."""
+    return f"https://www.{marche}/dp/{asin}?tag={TAGS[marche]}"
+
+
+# Marketplace de repli, par ordre de proximité (catalogue, langue, logistique),
+# quand la fiche n'existe pas sur celle du pays. OneLink prend ensuite le relais.
+VOISINES = {
+    "amazon.fr": ["amazon.de", "amazon.es", "amazon.it", "amazon.co.uk", "amazon.com"],
+    "amazon.de": ["amazon.fr", "amazon.it", "amazon.es", "amazon.co.uk", "amazon.com"],
+    "amazon.es": ["amazon.fr", "amazon.it", "amazon.de", "amazon.co.uk", "amazon.com"],
+    "amazon.it": ["amazon.de", "amazon.fr", "amazon.es", "amazon.co.uk", "amazon.com"],
+    "amazon.co.uk": ["amazon.de", "amazon.fr", "amazon.com", "amazon.es", "amazon.it"],
+    "amazon.com": ["amazon.com.au", "amazon.co.uk", "amazon.de", "amazon.fr"],
+    "amazon.com.au": ["amazon.com", "amazon.co.uk", "amazon.de", "amazon.fr"],
+}
 
 
 def principal():
     ap = argparse.ArgumentParser()
     ap.add_argument("--out", required=True, help="fichier JSON de sortie")
     ap.add_argument("--items-dir", default=os.path.join(RACINE, "assets", "data"))
-    ap.add_argument("--asins", default="",
-                    help="amazon_asins.json (PA-API) : produit des liens /dp/ directs")
+    ap.add_argument("--asins", required=True,
+                    help="amazon_asins.json — ASIN validés (resolve_amazon_asins / PA-API)")
     ap.add_argument("--markets", default=",".join(TAGS))
     args = ap.parse_args()
 
@@ -130,13 +151,16 @@ def principal():
         print("Aucune marketplace valide.", file=sys.stderr)
         return 2
 
-    asins = {}
-    if args.asins and os.path.exists(args.asins):
-        with open(args.asins, encoding="utf-8") as f:
-            asins = json.load(f)
+    if not os.path.exists(args.asins):
+        print(f"ASIN introuvables : {args.asins}. Lancer d'abord "
+              f"resolve_amazon_asins.py.", file=sys.stderr)
+        return 2
+    with open(args.asins, encoding="utf-8") as f:
+        asins = json.load(f)
+    titres = asins.get("_titres", {})
 
     items, ignores = {}, {}
-    total_liens = n_asin = 0
+    total_liens = n_natif = n_onelink = 0
 
     for cat, fichier in FICHIERS.items():
         chemin = os.path.join(args.items_dir, f"{fichier}.json")
@@ -149,22 +173,40 @@ def principal():
         for it in catalogue:
             nom = it.get("name", "")
             if GENERIQUES.match(nom) or (it.get("price") or 0) <= 0:
-                sans.append({"id": it["id"], "name": nom,
-                             "raison": "generique"})
+                sans.append({"id": it["id"], "name": nom, "raison": "generique"})
                 continue
-            q = requete(cat, it)
-            if not q.strip():
-                sans.append({"id": it["id"], "name": nom, "raison": "sans_requete"})
+
+            connus = asins.get(cat, {}).get(it["id"]) or {}
+            valides = {m: a for m, a in connus.items() if a and m in marches}
+            if not valides:
+                # Pas de fiche produit sûre : ne RIEN publier vaut mieux qu'un
+                # lien vers un autre produit ou vers une page de recherche.
+                sans.append({"id": it["id"], "name": nom, "raison": "sans_fiche"})
                 continue
-            connus = asins.get(cat, {}).get(it["id"], {})
-            liens = {}
+
+            liens, natifs = {}, []
             for m in marches:
-                a = connus.get(m)
-                if a:
-                    n_asin += 1
-                liens[m] = lien(m, q, a)
-            par_id[it["id"]] = {"name": nom, "q": q, "links": liens}
+                if m in valides:
+                    liens[m] = lien(m, valides[m])
+                    natifs.append(m)
+                    n_natif += 1
+                    continue
+                # Repli OneLink : la marketplace voisine la plus proche où la
+                # fiche existe réellement.
+                repli = next((v for v in VOISINES.get(m, []) if v in valides), None)
+                repli = repli or next(iter(valides))
+                liens[m] = lien(repli, valides[repli])
+                n_onelink += 1
             total_liens += len(liens)
+
+            par_id[it["id"]] = {
+                "name": nom,
+                "q": requete(cat, it),
+                "asin": valides.get(natifs[0]) if natifs else next(iter(valides.values())),
+                "product": titres.get(cat, {}).get(it["id"], ""),
+                "native": natifs,
+                "links": liens,
+            }
 
         items[cat] = par_id
         if sans:
@@ -174,19 +216,21 @@ def principal():
     sortie = {
         "generated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "markets": marches,
-        "asinLinks": n_asin,
-        "note": ("Liens d'affiliation Amazon pré-calculés, utilisés par l'app "
-                 "quand aucune offre Amazon vérifiée n'est disponible. "
-                 "Recherche ciblée tant que la PA-API n'est pas ouverte ; "
-                 "fiche produit /dp/ dès qu'un ASIN est connu."),
+        "nativeLinks": n_natif,
+        "onelinkLinks": n_onelink,
+        "note": ("Liens d'affiliation Amazon pre-calcules vers la FICHE PRODUIT "
+                 "(/dp/<ASIN>), utilises par l'app quand aucune offre Amazon "
+                 "verifiee n'est disponible. ASIN valides sur la fiche Amazon "
+                 "elle-meme ; les marketplaces sans fiche recoivent le lien "
+                 "d'une marketplace voisine, OneLink redirigeant l'acheteur."),
         "items": items,
         "skipped": ignores,
     }
     os.makedirs(os.path.dirname(os.path.abspath(args.out)), exist_ok=True)
     with open(args.out, "w", encoding="utf-8") as f:
         json.dump(sortie, f, ensure_ascii=False, indent=1)
-    print(f"-> {args.out} : {total_liens} liens ({n_asin} par ASIN) "
-          f"sur {len(marches)} marketplaces")
+    print(f"-> {args.out} : {total_liens} liens produit sur {len(marches)} "
+          f"marketplaces ({n_natif} natifs, {n_onelink} via OneLink)")
     return 0
 
 

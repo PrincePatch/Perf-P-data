@@ -52,11 +52,20 @@ jobs:
           AMAZON_ACCESS_KEY: ${{ secrets.AMAZON_ACCESS_KEY }}
           AMAZON_SECRET_KEY: ${{ secrets.AMAZON_SECRET_KEY }}
         continue-on-error: true
-      # Liens d'affiliation Amazon PRE-CALCULES (lot 32) : un lien par composant
-      # et par marketplace taguee, utilises par l'app quand aucune offre Amazon
-      # verifiee n'existe — c'est-a-dire tant que la PA-API n'est pas ouverte.
-      # Place APRES enrich_amazon : si des ASIN ont ete resolus, les liens
-      # deviennent des liens produit directs /dp/<ASIN> au lieu de recherches.
+      # ASIN Amazon des composants qui n'en ont pas encore (lot 32). Tant que la
+      # PA-API n'est pas ouverte, ils viennent du rendu MOBILE d'Amazon :
+      # recherche pour les candidats, fiche produit pour la preuve. Increment
+      # seulement : les ASIN deja connus (y compris ceux d'enrich_amazon) ne
+      # sont pas re-resolus, donc l'etape reste courte a chaque execution.
+      - name: ASIN Amazon manquants
+        run: >
+          python scraper/resolve_amazon_asins.py --asins amazon_asins.json
+          --items-dir catalog --pause 1.2
+        continue-on-error: true
+      # Liens d'affiliation Amazon PRE-CALCULES : un lien VERS LA FICHE PRODUIT
+      # par composant et par marketplace taguee, utilises par l'app quand aucune
+      # offre Amazon verifiee n'existe. Place APRES enrich_amazon et
+      # resolve_amazon_asins : les deux alimentent le meme amazon_asins.json.
       - name: Liens d'affiliation Amazon (pre-calcules)
         run: >
           python scraper/gen_amazon_links.py --out catalog/amazon_links.json

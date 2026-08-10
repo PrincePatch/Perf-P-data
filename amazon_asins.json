@@ -1,0 +1,5271 @@
+{
+ "_titres": {
+  "cases": {
+   "antec-df700-flux": "Antec DF700 Flux RGB Boîtier de Jeu avec fenêtre en Verre, ATX, sans Bloc d'alimentation, 5 Ventilateurs (3 ARGB Avant), Ventilation avancée, Blanc",
+   "asus-prime-ap201": "Boîtier ASUS Prime AP201 - MicroATX, Support radiateur 360 mm, Carte Graphique 338 mm, Panneaux Mesh Quasi-filtrants, Panneaux latéraux sans Outil, USB 3.2 Gen 2 Type-C Avant",
+   "be-quiet-light-base-600-lx": "be quiet! Light Base 600 LX Black boîtier PC, Panneaux Avant et latéral entièrement vitrés, Éclairage Impressionnant, 4 Ventilateurs Light Wings LX 120 mm PWM, Inversée ou Horizontale",
+   "be-quiet-pure-base-500-fx": "be quiet! Pure Base 500 FX Boîtier",
+   "be-quiet-pure-base-500dx": "be quiet! Boitier Moyen Tour ATX Be Quiet Pure Base 500DX RGB avec Panneau vitré (Noir), BGW37",
+   "be-quiet-silent-base-802": "be quiet! Boîtier PC Silent Base 802 Black, 3 Ventilateurs Pure Wings 140 mm, 2 capots supérieurs et Avant interchangeables, Plateau de Carte mère découplé",
+   "cooler-master-haf-500": "Cooler Master HAF 500 PC Case: Mid-Tower, 2 x 200mm Pre-Installed ARGB Fans for High-Volume Airflow, Rotatable 120mm GPU Fan, Versatile Cooling Options, Tempered Glass Side Panel, Removeable Top : Electronics",
+   "cooler-master-masterbox-nr600": "Cooler Master MasterBox NR600 Compatible ATX MB, Ventilation grillagée Frontale et Panneau latéral en Verre trempé",
+   "cooler-master-q300l": "Cooler Master Q300L Verre trempé Boîtier PC, Noir, ATX",
+   "cooler-master-td500-mesh": "Cooler Master MasterBox TD500 Mesh V2 - Boîtier PC Moyen E-ATX avec Maillage Mesh Polygonal, 3 x Ventilateurs 120mm ARGB Préinstallés, Panneau Latéral Verre Trempé, USB Type-C 10Gb/s - Blanc",
+   "corsair-2000d-airflow-itx": "Corsair 2000D AIRFLOW Boîtier PC Mini-ITX - Format Mini-ITX - Panneaux en Acier Maillé - Trois Emplacements GPU - Optimisé Pour le Refroidissement - Entrées/Sorties Modernes en Façade - Blanc",
+   "corsair-2500x": "CORSAIR 2500X Boîtier Petit Tour mATX à Double Chambre – Verre Trempé Panoramique - Connexion Inversée Compatible Avec la Carte Mère – Pas de Ventilateurs Inclus – Noir",
+   "corsair-3500x": "CORSAIR 3500X RS-R ARGB Boîtier PC Mi-Tour avec Vitre Panoramique – 3 Ventilateurs RS120-R ARGB Préinstallés, Système de Fixation InfiniRail, Compatible Une Carte mère à Connexion Inversée – Blanc",
+   "corsair-6500d-airflow": "CORSAIR 6500D Airflow Boîtier PC ATX Mid-Tower - Pas de Ventilateurs Inclus - Design à Double Chambre - Compatible avec Les Cartes Mères à Connexion Inversée - Blanc",
+   "fractal-define-7": "Fractal Design Define 7 Black Brushed Aluminum/Steel E-ATX Silent Modular Mid Tower Computer Case",
+   "fractal-meshify-2": "Fractal Design Meshify 3 Black Solid - High Airflow PC Gaming Case - Mesh Front Panel - Three Momentum 14 Fans Included - Clean Interior",
+   "fractal-meshify-2-compact": "Fractal Design Meshify 2 Compact Noir",
+   "fractal-north": "Fractal Design North Charcoal Black Tempered Glass Dark - Façade en Bois de Noyer – Panneau latéral en Verre – Deux Ventilateurs Aspect PWM de 140 mm Inclus – USB Type-C",
+   "fractal-north-xl": "Fractal Design North XL Charcoal Black Mesh- Boîtier PC Gaming Grande Tour EATX à Flux d'air – Trois Ventilateurs Aspect PWM de 140 mm Inclus – Port USB Type-C.",
+   "fractal-pop-air": "Fractal Design Pop Air Black - Boîtier PC Gaming ATX Mid Tower, Façade Mesh Hexagonale, Verre Trempé, 3 Ventilateurs Aspect 12 Inclus, Haute Ventilation",
+   "fractal-pop-xl-air": "Fractal Design Pop XL Air RGB White Core TG Clear Tint",
+   "fractal-torrent": "Fractal Design Torrent Compact RGB Black - Light Tint Tempered Glass Side Panels - Open Grille for Maximum air Intake - Two 180mm RGB PWM Fans Included - Type C - ATX Airflow Mid Tower PC Gaming Case",
+   "hyte-y40": "Hyte Boîtier Y40 Mid Tower Blanc (ATX/M-ATX/M-ITX)",
+   "hyte-y60": "Boitier PC Moyen Tour Hyte Y60 (Blanc/Blanc)",
+   "hyte-y70": "Hyte Y70 Touch Infinite Boîtier ATX avec écran Tactile LCD 2,5 K intégré - Noir",
+   "lian-li-lancool-207": "Lian Li Lancool 207 Digital PC-Geh?use MidI-Tower Atx Tempered Glass (lan207dx)",
+   "lian-li-lancool-216": "Lian Li Lancool 216 Midi Tower Trasparente, Bianco (lian Li Lancool 216 Rgb MiD-Tower Pc Case - White)",
+   "lian-li-lancool-iii": "Lian Li Lancool Iii Rgb - Mid Tower - E-Atx - Seitenteil Mit Fenster (geh?rtetes Glas) - Keine Spannungsversorgung - Schwarz - Usb/audio (lancool Iii",
+   "lian-li-o11-dynamic": "Lian Li O11 Dynamic Evo - Tower - Atx - Seitenteil Mit Fenster (geh?rtetes Glas) - Keine Spannungsversorgung - Wei? - Usb/audio (o11dexL-w)",
+   "lian-li-o11-dynamic-evo": "Lian Li O11 Dynamic Evo - Tower - Atx - Seitenteil Mit Fenster (geh?rtetes Glas) - Keine Spannungsversorgung - Schwarz - Usb/audio (o11dexL-x)",
+   "lian-li-o11-dynamic-mini": "Lian Li O11 Dynamic Mini Snow Edition, Midi-Tower, Tempered Glass - Weiãÿ",
+   "lian-li-o11-vision": "Lian Li O11 Vision Midi-Tower, Tempered Glass - Schwarz",
+   "montech-air-903-max": "Montech AIR 903 Max Midi-Tower, Tempered Glass - Schwarz",
+   "montech-king-95": "MONTECH King 95 Pro Boîtier de Jeu PC ATX à Double Chambre avec Haut débit d'air, Panneaux sans Outils, Avant en Verre trempé incurvé Robuste, Six Ventilateurs ARGB PWM pré-installés avec hub de",
+   "montech-sky-two": "Montech Sky Two, Midi-Tower - Schwarz",
+   "montech-xr": "Montech XR (Blanc, Verre trempé x 2)",
+   "nzxt-h5-elite": "NZXT H5 Elite Midi Tower Noir, Transparent",
+   "nzxt-h5-flow": "NZXT H5 Flow - Boîtier PC Compact ATX Mid-Tower - Noir | Moyenne tour compacte, 2 ventilateurs 120mm inclus, radiateur avant 360mm et verre trempé. Idéale pour un premier build.",
+   "nzxt-h6-flow": "NZXT H6 Flow - Boîtier PC Compact Double Chambre ATX - Blanc | Boîtier ATX compact double chambre, verre panoramique et 3 ventilateurs 120mm inclus. Optimisé flux d'air, builds propres.",
+   "nzxt-h7-flow": "NZXT H7 Flow - Boîtier PC Mid-Tower ATX Airflow - Noir | Moyenne tour ATX axée flux d'air. Ventilateurs en bas pour refroidir le GPU, radiateur avant 420mm, câblage soigné.",
+   "nzxt-h9-flow": "NZXT H9 Flow - Boîtier PC Double Chambre ATX - Noir | Phare ATX double chambre, 4 ventilateurs inclus, support radiateur 420mm haut et avant, verre trempé enveloppant.",
+   "phanteks-eclipse-g360a": "Phanteks (PH-EC360ATG_DBK02) Eclipse G360A Maille performante Ultra-Fine, boîtier de Jeu Tour Moyenne, Verre trempé, éclairage numérique-RVB, Noir",
+   "phanteks-g400a": "Phanteks Eclipse G400a MidI-Tower Tempered Glass D-Rgb - Wei? (pH-Ec400ga_dmw01)",
+   "phanteks-nv7": "Phanteks Nv7 - Ft - E-Atx - Seitenteil Mit Fenster (geh?rtetes Glas) - Keine Spannungsversorgung (atx) - Mattes Wei? - Usb/audio (pH-Nv723tg_dmw01)"
+  },
+  "coolers": {
+   "arctic-freezer-36": "ARCTIC Freezer 36 - Refroidisseur d'air pour processeur monotour",
+   "arctic-freezer-36-co": "ARCTIC Freezer 36 CO - Refroidisseur d'air pour processeur monotour",
+   "arctic-liquid-freezer-iii-240": "ARCTIC Liquid Freezer III 240 A-RGB - PC à refroidissement par eau, refroidisseur d’eau tout-en-un pour processeur AIO, Compatible Intel LGA1851/1700 et AMD AM5/4, Pompe à commande PWM efficace - Noir",
+   "arctic-liquid-freezer-iii-280": "ARCTIC Liquid Freezer III 280 A-RGB (blanc) - PC à refroidissement par eau",
+   "arctic-liquid-freezer-iii-360": "ARCTIC Liquid Freezer III 360 A-RGB (blanc) - PC à refroidissement par eau",
+   "arctic-liquid-freezer-iii-420": "ARCTIC Liquid Freezer III 420 A-RGB (blanc) - PC à refroidissement par eau",
+   "be-quiet-dark-rock-4": "be quiet! Dark Rock 5 ventirad, puissance de refroidissement extrême, 6 caloducs haute performance, ventilateur Silent Wings 4 120 mm PWM, excellente compatibilité, installation facilitée, BK035",
+   "be-quiet-dark-rock-elite": "be quiet! Dark Rock Elite ventirad radiateur, 2x ventilateur Silent Wings 135 mm PWM, sélecteur de vitesse permettant de basculer entre 2 modes 7 caloducs haute performance, Éclairage LEDs ARGB, BK037",
+   "be-quiet-dark-rock-pro-5": "be quiet! Dark Rock Pro 5 ventirad radiateur, 7 caloducs haute performance, 2 ventilateurs Silent Wings PWM, un sélecteur de Vitesse, excellente compatibilité avec les refroidisseurs RAM et VRM, BK036",
+   "be-quiet-pure-rock-2": "be quiet! Pure Rock 2 Black, refroidisseur de processeur, TDP 150W, ventilateur Pure Wings 2 120mm PWM, 4x 6mm Heatpipes, conception asymétrique, Single Tower, BK007",
+   "be-quiet-shadow-rock-3": "Be quiet! Shadow Rock 3",
+   "be-quiet-silent-loop-3-360": "be quiet! Silent Loop 3 360mm système de refroidissement liquide, plaque froide usinée avec haute précision, 3 ventilateurs Silent Wings 4 120mm PWM high-speed, performances exceptionnelles",
+   "cooler-master-hyper-212": "Cooler Master Hyper 212 EVO Système de refroidissement pour processeur - 4 caloducs à contact direct continu, 1x ventilateur 120 mm PWM",
+   "cooler-master-hyper-212-halo": "Cooler Master Hyper 212 Halo Refroidisseur Air CPU, Totalement Noir avec Finition Aluminium, 4 x Caloducs à Contact Direct Continu, Ventilateur MF120 Halo2 ARGB, Bracket LGA1700 & AM5 - Noir",
+   "corsair-icue-h100i-elite": "Corsair iCUE H100i Elite LCD XT Refroidisseur de CPU Liquide - Écran LCD IPS - Deux Ventilateurs AF120 RGB Elite - Radiateur 240mm - Convient à Intel® LGA 1700, AMD AM5, et Plus - Noir",
+   "corsair-icue-h115i-elite": "Corsair iCUE H115i RGB Elite Refroidisseur Liquide pour Processeur (16 Voyants LED RGB, Ventilateurs AF Elite FDB de 140 mm, Radiateur de 280 mm, Sockets LGA 1700, 1200, 115X, 2066 et AM4) Noir",
+   "corsair-icue-h170i-elite": "Corsair iCUE H170i Elite LCD XT Refroidisseur de CPU Liquide - Écran LCD IPS - Trois Ventilateurs AF140 RGB Elite - Radiateur 420mm - Convient à Intel® LGA 1700, AMD AM5, et Plus - Noir",
+   "corsair-icue-link-titan-360": "CORSAIR iCUE Link Titan 360 RX LCD Refroidisseur Liquide pour CPU – Chambre de Refroidissement FlowDrive – Intel LGA 1851/1700, AMD AM5/AM4 – 3X RX120 RGB Ventilateurs – iCUE Link Hub Inclus – Blanc",
+   "corsair-nautilus-360-rs": "CORSAIR NAUTILUS 360 RS LCD AIO pour CPU, Inclus 3x RS120 – Blanc | Ecran LCD IPS 5.3cm, Radiateur 360 mm, Intel LGA 1851/1700, AMD AM5/AM4, Connexions série simples",
+   "lian-li-galahad-ii-lcd-280": "Lian Li Galahad II LCD 280 TL Wireless AiO Wasserk?hlung - schwarz",
+   "lian-li-hydroshift-lcd-360": "Lian Li Hydroshift 360 AIO - Ventilateurs pré-installés de 3 x 28 mm - Chemin de liquide de refroidissement monté sur le côté - Écran LCD 2,8\" - Résolution 480 × 480 - Captures d'écran capturées ou",
+   "noctua-nh-d15": "Noctua NH-D15, Refroidisseur Haut de Gamme avec 2x NF-A15 PWM Ventilateur (Marron)",
+   "noctua-nh-d15-g2": "Noctua NH-D15 G2 LBC, Ventirad CPU Double Tour, Version Spéciale Low Base Convexity pour les AMD AM5/AM4 (Brun)",
+   "noctua-nh-l12s": "Noctua NH-L12S, Ventirad CPU Faible Hauteur avec Ventilateur PWM 120mm (Marron)",
+   "noctua-nh-u12a": "Noctua NH-U12A, Ventirad CPU Premium avec Ventilateurs NF-A12x25 PWM Ultra Performants (120 mm, Marron)",
+   "noctua-nh-u12s-redux": "Noctua NH-U12S redux, Ventirad CPU Haute Performance avec NF-P12 redux-1700 PWM 120mm Ventilateur (Gris)",
+   "noctua-nh-u14s": "Noctua NH-U14S, Ultra Silencieux et Haut de Gamme Radiateur pour CPU avec Ventilateur NF-A15 PWM (140 mm, Marron)",
+   "nzxt-kraken-240": "NZXT Kraken 240 Processeur Refroidisseur de Liquide Tout-en-Un 12 cm Noir 1 pièce(s)",
+   "nzxt-kraken-280": "NZXT Kraken 280 - Refroidisseur CPU AIO Liquide 280mm, LCD - Noir | AIO 280mm avec LCD carré 1,54 po personnalisable. Suivez les temps ou affichez votre art, piloté via CAM.",
+   "nzxt-kraken-360": "NZXT Kraken 360 - RL-KN360-B1 - Refroidissement liquide CPU AIO 360 mm - Écran LCD 1,54\" personnalisable - Pompe haute performance - 3 ventilateurs F120P - Noir",
+   "nzxt-kraken-elite-360": "NZXT Kraken Elite RGB 360 - RL-KR36E-W1 - Refroidisseur pour processeur AIO de 360 mm - Écran LCD de 2,36 pouces personnalisable. Pompe haute performance - 3 ventilateurs F120 RGB Core - Blanc",
+   "nzxt-kraken-elite-420": "NZXT Kraken Elite 420 RGB 2025 - Refroidisseur liquide AIO pour CPU - Radiateur 420mm - Ventilateur F420 RGB Core - LCD IPS 2,72 - AMD® AM5, AM4 - Intel® LGA 1851/1700, 1200/115X - Blanc | AIO 420mm RGB phare avec LCD 2,36 po et ventilateur F420 RGB Core. Notre refroidisseur le plus puissant, piloté via CAM.",
+   "scythe-fuma-3": "Scythe Fuma 3 Processore Raffreddatore D'aria 12 Cm Nero 1 Pz (scythe Fuma 3 ScfM-3000 - ProcessoR-K?)",
+   "thermalright-assassin-king-120-se": "Thermalright Assassin King 120SE ARGB Refroidisseur d'air pour processeur, 5 caloducs, TL-C12C-S PWM Refroidisseur de processeur silencieux avec roulement S-FDB, pour AMD AM4/Intel 1150/1151/1200/1700",
+   "thermalright-assassin-x120-r": "Thermalright AssassinX120 SE ARGB Refroidisseur d'air CPU, 4 caloducs, TL-C12C-S PWM Refroidisseur de CPU à ventilateur silencieux avec roulement S-FDB, pour AMD AM4 AM5/Intel 1150/1151/1200/1700",
+   "thermalright-frozen-notte-360": "Thermalright Frozen Notte 360 Noir ARGB V2 Refroidissement à eau CPU Radiateur 360 Caractéristiques du radiateur CPU Ventilateur PWM 3×120 mm, roulements S-FDB, convient pour AMD/AM4, Intel LGA",
+   "thermalright-peerless-assassin-120": "Thermalright Peerless Assassin 120 SE Refroidisseur d'air CPU, PA120 SE, 6 caloducs refroidisseur de CPU, double ventilateur TL-C12C PWM,technologie AGHP, pour AMD AM4 AM5/Intel 1700/1150/1151/1200",
+   "thermalright-phantom-spirit-120-se": "Thermalright Phantom Spirit 120SE ARGB Refroidisseur de CPU, Refroidisseur de CPU à 7 caloducs, Double ventilateur 120mm PWM, Technilogie AGHP 4.0, Pour AMD AM4 AM5/Intel 1700/1150/1151/1200"
+  },
+  "cpus": {
+   "amd-ryzen-3-3100": "AMD Ryzen 3 3100 processeur 3,6 GHz 2 Mo L2 Boîte",
+   "amd-ryzen-3-3300x": "AMD Ryzen 3 3300X processeur 3,8 GHz L2 Boîte",
+   "amd-ryzen-5-2600": "AMD Ryzen 5 2600 3.9GHz 6Core AM4",
+   "amd-ryzen-5-2600x": "AMD RYZEN 5 2600X 4.25GHZ 6 Core -",
+   "amd-ryzen-5-7500f": "AMD Ryzen 5 7500F - 3.7 GHz - 6 cœurs - 12 Threads - 32 Mo de mémoire Cache - Socket AM5 - OEM",
+   "amd-ryzen-5-9600": "AMD Ryzen™ 5 9600, 6 Coeurs/ 12 Threads débridés, Architecture Zen 5, 38 Mo Cache L2+L3, 65W TDP, Jusqu'a 5.2 Ghz Frequence Boost, Socket AM5, Ventilateur Inclus",
+   "amd-ryzen-7-1800x": "CPU AMD RYZEN 7 1800X AM4 sans Cooler : Amd",
+   "amd-ryzen-7-2700x": "AMD Processeur Ryzen 7 2700X Socket AM4 (3,7 Ghz)",
+   "amd-ryzen-7-3700x": "AMD Ryzen 7 3700X - Processeur 3.6 GHz - 8 cores - 16 filetages - 32 Mo Cache - Socket AM4 - Box 100-100000071MPK",
+   "amd-ryzen-7-3800x": "AMD Ryzen 7 3800X - 3.9 GHz - 8 c¿urs - 16 filetages - 32 Mo Cache - Socket AM4 - Box",
+   "amd-ryzen-7-5700g": "ARCTIC Senza 5700G - PC Montage sous Table, Refroidissement Passif",
+   "amd-ryzen-7-5700x": "AMD Ryzen 7 5700X Processeur (8 Coeurs/16 Threads,65W TDP, Socket AM4, Cache 36Mo, jusqu'à 4.6 GHz Fréquence Boost, pas de Ventilateur)",
+   "amd-ryzen-9-3950x": "AMD Ryzen 9 3950x Retail (AM4/16 Core/4,70 GHz/70 Mo/105 W) 100100000051WOF",
+   "amd-ryzen-9-5950x": "AMD Ryzen 9 5950X Processeur (16 Coeurs/32 Threads, 105W DTP, Socket AM4, 72 Mo de Cache, jusqu'à 4,9Ghz Fréquence Boost, sans Ventilateur)",
+   "amd-ryzen-9-7900": "AMD Ryzen 9 7900 Processeur (Radeon Graphique Intégré, 12 Cœurs/24 Threads, 65W TDP, Socket AM5, Cache 76Mo, jusqu'à 5,4 GHz Fréquence Boost, avec Ventilateur wraith Prism",
+   "amd-ryzen-9-7900x": "AMD Ryzen 9 7900X Processeur (Radeon Graphique Intégré 12 Coeurs/24 Threads, 170W TDP, Socket AM5, Cache 76MB, jusqu'à 5.6 GHz Fréquence Boost, sans Ventilateur)",
+   "amd-ryzen-9-7900x3d": "AMD Ryzen 9 7900X3D Processeur avec La Technologie 3D V-Cache (Radeon Graphique Intégré, 12 Cœurs/24 Threads, 120W TDP, Socket AM5, 140M Cache, Jusqu'à 5,6 GHz Fréquence Boost, Pas de Ventilateur)",
+   "amd-ryzen-9-7950x": "AMD Ryzen 9 7950X Processeur (Integrated Radeon Graphics,16 Coeurs/32 Threads,170W TDP, Socket AM5, Cache 80MB, jusqu'à 5.7 GHz Fréquence Boost, Pas de Ventilateur)",
+   "amd-ryzen-9-9950x": "Amd Ryzen 9 9950x - 4,3 Ghz - 16 Core - 32 Thread",
+   "i5_10400f": "Intel Core I5 10400f - 2,9 Ghz - 6 Core - 12 Thread",
+   "i5_12400f": "INTEL CPU Core i5-12400F / 6/12 / 2.5GHz / 6xxChipset / BX8071512400F : Electronics",
+   "i5_12600k": "Intel Core i5 [12th Gen] i5-12600K Deca-core [10 Core] 3.70 GHz Processor - OEM Pack : Electronics",
+   "i5_13400f": "Intel CORE I5-13400F 2.50GHZ",
+   "i5_13600k": "Intel Core i5-13600K 6C+8c/20T 3.50-5.10GHz Tray - CM8071504821005 : Electronics",
+   "i5_14400f": "Intel Core i5-14400F LGA 1700 Processor BX8071514400F : Electronics",
+   "i5_14600k": "CPU Intel Core i5-14600K / LGA1700 / Box 14 Cores / 20 Threads / 24M Cache",
+   "i7_10700k": "Intel Core i7-10700K",
+   "i7_11700k": "Intel Core i7-11700K Rocket Lake Processor (3.6GHz)",
+   "i7_12700k": "Intel Core i7-12700K processeur 25 Mo Smart Cache Boîte",
+   "i7_14700k": "CPU Intel Core i7-14700K / LGA1700 / Box 20 Cores / 28 Threads / 33M Cache",
+   "i9_13900k": "Intel Core i9 13900K CPU 4.3GHz (5.8GHz Turbo) 13th Gen LGA1700 24-Cores 32-Threads 36MB 125W UHD Graphic 770 Unlocked Retail Raptor Lake no Fan : Electronics",
+   "i9_14900k": "Processeur Intel Core i9-14900K 6,0 GHz, Socket LGA1700, Plateau",
+   "intel-core-i3-12100f": "Intel Processeur Core i3-12100F Alder Lake-S (3,3Ghz) (sans iGPU)",
+   "intel-core-i5-11400f": "Intel Core i5-11400F processeur 2,6 GHz 12 Mo Smart Cache",
+   "intel-core-i5-11600k": "Intel Core i5-11600K processeur 3,9 GHz 12 Mo Smart Cache Boîte",
+   "intel-core-i5-12400": "Intel Core I5 12400 - 2,5 Ghz - 6 Core - 12 Thread",
+   "intel-core-i5-13500": "Intel Puce Core I5-13500 2,50 GHZ",
+   "intel-core-i5-14600kf": "Intel Core I5 I5-14600kf - 3,5 Ghz - 14 Core",
+   "intel-core-i7-10700": "INTEL Core i7 10700 2 90GHz LGA1200",
+   "intel-core-i7-14700kf": "Intel Processeur Informatique Core™ i7-14700KF, bleu",
+   "intel-core-i9-11900k": "Intel Core i9 11900K Processor",
+   "intel-core-i9-13900ks": "Intel Core i9-13900KS 3,20 GHz (Raptor Lake) Sockel 1700 - Boxed",
+   "intel-core-i9-14900kf": "CPU Intel Core i9-14900KF / LGA1700 / Box 24 Cores / 32 Threads / 36M Cache/Without GPU",
+   "r5_3600": "Amd Cpu Ryzen 5 3600, Box with Wraith Spire Cooler",
+   "r5_5500": "AMD Ryzen 5 5500 Processeur (6 Coeurs/12 Threads, 65W TDP, Socket AM4, Cache 19Mo, jusqu'à 4.2 GHz Fréquence Boost, Ventilateur wraith Stealth)",
+   "r5_5600": "AMD Ryzen 5 5600 Processeur (6 Coeurs/12 Threads, 65W TDP, Socket AM4, jusqu'à 4.4 Ghz Fréquence Boost, Ventilateur wraith Stealth)",
+   "r5_5600x": "AMD Ryzen 5 5600X Processeur (6 Coeurs/12Threads, 65W TDP, Socket AM4, Cache 35Mo, jusqu'à 4.6 GHz Fréquence Boost, Ventilateur wraith Stealth)",
+   "r5_5700x3d": "AMD Ryzen 7 5700X3D Processeur avec La Technologie 3D V-Cache (8 Cœurs/16 Threads, 105W TDP, Socket AM4, 100Mo Cache, Jusqu'à 4,1 GHz Fréquence Boost, Pas de Ventilateur)",
+   "r5_7600": "AMD Ryzen 5 7600 Processeur (Radeon Graphique Intégré, 6 Cœurs/12 Threads, 65W TDP, Socket AM5, Cache 38Mo, jusqu'à 5,1 GHz Fréquence Boost, avec Ventilateur wraith Stealth)",
+   "r5_7600x": "AMD Ryzen 5 7600X Processeur (Integrated Radeon Graphique Intégré, 6 Coeurs/12 Threads, 105W TDP, Socket AM5, Cache 38MB, jusqu'à 5,3 Ghz Fréquence Boost, Pas de Ventilateur)",
+   "r5_9600x": "AMD Ryzen 5 9600X Processeur (Radeon Graphique Intégré, 6 Coeurs/12 Threads, 65W TDP, Socket AM5, Cache 38Mo, jusqu'à 5.4 GHz Fréquence Boost, Pas de Ventilateur)",
+   "r7_5800x": "AMD Ryzen 7 5800X Processeur (8 Cœurs/16 Threads, 105W TDP, Socket AM4, 36 Mo Cache, jusqu'à 4,7 Ghz Fréquence Boost, sans Ventilateur)",
+   "r7_5800x3d": "AMD Ryzen 7 5800X3D Processeur 10E Anniversaire (8 Coeurs/16 Threads, Socket AM4, 105W TDP, 100 Mo Cache, jusqu'à 4.5 GHz Fréquence Boost, Pas de Ventilateur)",
+   "r7_7700": "AMD Ryzen 7 7700 processeur 3,8 GHz 32 Mo L3",
+   "r7_7700x": "AMD Ryzen 7 7700X Processeur (Radeon Graphique Intégré, 8 Coeurs/16 Threads, 105W DTP, Socket AM5, Cache 40MB, jusqu'à 5.4 GHz Fréquence Boost, Pas de Ventilateur)",
+   "r7_7800x3d": "AMD Ryzen 7 7800X3D Processeur avec La Technologie 3D V-Cache (Radeon Graphique Intégré, 8 Cœurs/16 Threads, 120W TDP, Socket AM5, Cache 104 Mo, Jusqu'à 5,0 GHz Fréquence Boost, sans Ventilateur)",
+   "r7_9700x": "AMD Ryzen 7 9700X Processeur (8 Coeurs/16 Threads), 65W DTP, Socket AM5, Cache 40Mo, jusqu'à 5.5 GHz Fréquence Boost, Pas de Ventilateur",
+   "r7_9800x3d": "AMD RYZEN ™ 7 9800X3D 8 Coeurs/16 Threads débridés, Architecture Zen 5, 104 Mo Cache, 120W TDP, Jusqu'a 5.2 Ghz Frequence Boost, Socket AM5, Ventilateur Non Inclus",
+   "r9_5900x": "AMD Ryzen 9 5900X Processeur (12 Cœurs/24 Threads, 105W TDP, Socket AM4, Cache 70Mo, jusqu'à 4,8Gh Fréquence Boost, sans Ventilateur)",
+   "r9_7950x3d": "AMD Ryzen 9 7950X3D Processeur avec La Technologie 3D V-Cache (Radeon Graphique Intégré, 16 Cœurs/32 Threads, 120W TDP, Socket AM5, 144MB Cache, Jusqu'à 5,7 GHz Fréquence Boost, Pas de Ventilateur)",
+   "r9_9900x3d": "AMD Ryzen™ 9 9900X3D avec Technologie 3D V-Cache™, 12 cœurs/24 Threads, 140 Mo de Cache, TDP 120 W, Socket AM5, fréquence Max jusqu'à 5,5 GHz, DDR5 et PCIe 5.0",
+   "r9_9950x3d": "AMD Ryzen™ 9 9950X3D avec Technologie 3D V-Cache™, 16 cœurs/32 Threads, 144 Mo de Cache, TDP 170 W, Socket AM5, fréquence Max jusqu'à 5,7 GHz, DDR5 et PCIe 5.0",
+   "tr7960x": "AMD Ryzen Threadripper 7960X Processeur (24 Coeurs/48 Threads, 350W TDP, Socket SP6, Cache 152Mo, jusqu'à 5,3 Ghz Fréquence Boost, Pas de Ventilateur)",
+   "tr7980x": "AMD Ryzen Threadrippe 7980X Processeur (64 Coeurs/128 Threads, 350W TDP, Socket SP6, Cache 320 MO, jusqu'à 5.1Ghz Fréquence Boost, Pas de Ventilateur)",
+   "trpro7995wx": "AMD Ryzen Threadripper Pro 7995WX Processeur (96 Coeurs/192 Threads, 350W TDP, Socket SP6, Cache 480Mo, jusqu'à 5.1Ghz Fréquence Boost, Pas de Ventilateur)",
+   "xeonw52455x": "INTEL Xeon W5 2455X 3 20 GHz LGA4677",
+   "xeonw72495x": "Intel Xeon W7-2495X Processor 2.5 Ghz 45 MB Smart Cache, W128562973 (Ghz 45 MB Smart Cache)"
+  },
+  "fans": {
+   "arctic_p12_3": "ARCTIC P12 PWM PST A-RGB (noir) - 120 mm Ventilateur PWM PC, Fan",
+   "arctic_p14_3": "ARCTIC P14 Pro A-RGB (noir) - 140 mm Ventilateur Puissant et Haut de Gamme",
+   "bequiet_silent3": "be quiet! Silent Wings 4 140mm Black ventilateur, pales optimisées une performance extraordinairement élevée une pression d'air extrêmement élevée fonctionnement pratiquement inaudible, moteur 6 pôles",
+   "lianli_sl120_3": "Lian Li UNI FAN SL120 V2 RGB PWM Lüfter - 120mm, schwarz",
+   "ll120_3": "Corsair LL120 RGB, Ventilateur de Boitier Dual Light Loop RGB LED PWM 120mm avec Lighting Node et Hub (Triple Pack)",
+   "noctua_a12_2": "Noctua NF-A12x25 PWM, Ventilateur Silencieux Haut de Gamme, 4 Broches (120mm, Marron)",
+   "nzxt_f120rgb_3": "NZXT F120 RGB Core - Ventilateur de boîtier PC 120mm sur Hub RGB - Blanc | Ventilateur RGB 120mm, 8 LED adressables et pales semi-transparentes. Refroidissement silencieux, éclairage synchronisé CAM."
+  },
+  "gpus": {
+   "amd-rx-550": "MAXSUN Cartes Graphiques AMD Radeon RX 550 4 Go GDDR5 Carte Graphique ITX GPU 128 Bits DirectX 12 PCI Express X16 3.0 DVI-D Dual Link, HDMI, DisplayPort",
+   "amd-rx-5500-xt": "MSI Radeon RX 5500 XT Mech 8G OC Carte Graphique Enthusiast",
+   "amd-rx-560": "QTHREE Radeon RX 560 Carte Graphique, 4GB GDDR5 128-bit, HDMI, DisplayPort, DVI, Carte Video PC, GPU, Video Card, PCI Express x8, DirectX 12",
+   "amd-rx-5600-xt": "Sapphire Pulse Radeon RX 5600 XT 6G GDDR6 HDMI/Triple DP OC W/BP (UEFI)",
+   "amd-rx-570": "MSI RX 570 Armor 8G OC Carte Graphique AMD 8 Go PCI Express x16",
+   "amd-rx-5700": "ASUS AMD Radeon ROG Strix RX 5700 OC Gaming Carte Graphique 8Go / GB GDDR6 HDMI/3xDP",
+   "amd-rx-5700-xt": "MSI Carte Graphique AMD Radeon PowerColor RX 5700 XT Red Dragon 8Go",
+   "amd-rx-580": "XFX RX580P8DFD6 Carte graphique AMD Radeon RX 580 1366 MHz 8 Go PCI Express 3.0",
+   "amd-rx-590": "Carte Graphique RX 590, Carte Vidéo de Jeu 8 Go GDDR5 256 Bits avec Double Ventilateur de Refroidissement, PCI Express 3.0, HDMI, DVI D, DisplayPort, Carte Graphique GPU pour",
+   "amd-rx-6400": "MSI Radeon RX 6400 Aero ITX 4G",
+   "amd-rx-6500-xt": "MSI RX 6500 XT Radeon Mech 2X 4G OC V508-003R Noir",
+   "amd-rx-6600-xt": "Sapphire Nitro+ AMD Radeon RX 6600 XT Gaming OC 8 Go GDDR6 HDMI/Triple DP Carte Graphique 11309-01-20G Noir",
+   "amd-rx-6900-xt": "GIGABYTE Carte Graphique AMD Radeon RX 6900 XT Gaming OC 16Go Taille Unique Noir",
+   "amd-rx-6950-xt": "AMD Radeon RX 6950 XT, Carte Graphique Gaming avec 16 Go GDDR6, PCIe 4.0, HDMI 2.1, DisplayPort 1.4, Fréquences Boost 2310 MHz, 335W, 2x8 Pin",
+   "amd-rx-7600-xt": "ASUS TUF RX 7600XT O16G Gaming",
+   "amd-rx-9060-xt-8g": "GIGABYTE Radeon RX 9060 XT Gaming 8G Carte Graphique - 8GB GDDR6, 128bit, PCI-E 5.0, 3130 MHz Fréquence du cœur, 2 x DisplayPort, 1 x HDMI, GV-R9060XTGAMING-8GD",
+   "arca750": "Intel® Arc™ A750 8GB PCI Express 4.0 Carte Graphique",
+   "arcb580": "ASRock Carte+Graphique Intel+Arc+B580+Steel+Legend+OC+12Go",
+   "gtx1080ti": "Asus ROG Strix GeForce GTX1080Ti-11GB Gaming Grafikkarte",
+   "gtx1660s": "ASUS GeForce GTX 1660 Super Overclocked Dual Fan Evo Edition VR Ready Carte Graphique HDMI DisplayPort DVI 6 Go (DUAL-GTX1660S-O6G-EVO)",
+   "intel-arc-a380": "ASRock Karta graficzna Intel Arc A380 Challenger ITX OC 6GB GDDR6 (90-GA3KZZ-00UANF)",
+   "intel-arc-a580": "ASRock Intel Arc A580 A580 Carte Graphique A580 CL 8GO, revendeur autorisé Domestique, Intel Arc A580, Challenger 8 Go OC",
+   "intel-arc-a770": "WEELIAO GUNNIR Intel Arc A770 Photon 8 Go OC GDDR6 2400 MHz Triple Ventilateur Blanc Carte Graphique (256 Bits, PCIe 4.0, HDMI/DisplayPort, Prend en Charge 4 K)",
+   "intel-arc-b570": "Sparkle Intel Arc B570 Guardian OC 10GB GDDR6",
+   "nvidia-gtx-1050": "SAPLOS GTX 1050 Carte Graphique pour PC, 4Go GDDR5 128-bit, HDMI DisplayPort DVI-D, Carte Vidéo, Gaming GPU Video Card, PCI Express x16, DirectX 12",
+   "nvidia-gtx-1050-ti": "ASUS 90YV0A70-M0NA00 Carte Graphique Nvidia GeForce GTX 1050 Ti 4096 Mo PCI Express",
+   "nvidia-gtx-1060-3g": "Carte Graphique Gigabyte GeForce GTX 1060 Windforce OC 3G",
+   "nvidia-gtx-1060-6g": "Carte Graphique Zotac GeForce GTX 1060 6G Amp Edition",
+   "nvidia-gtx-1070": "Carte Graphique MSI GeForce GTX 1070 Gaming X",
+   "nvidia-gtx-1070-ti": "ASUS Geforce GTX 1070 TI ROG Strix A8G Gaming GeForce GTX1070 Carte Graphique 8192 Mo",
+   "nvidia-gtx-1080": "Carte Graphique MSI Nvidia GeForce GTX 1080 GAMING X 8G",
+   "nvidia-gtx-1650-super": "DOTODO Ventilateur de refroidissement pour carte graphique 75 mm HA8010H12F-Z CGPU pour MSI GeForce GTX 1650 Super Ventus XS",
+   "nvidia-gtx-1660": "MSI GeForce GTX 1660 Gaming X 6G (6 Go GDDR5/PCI Express 3.0/1860 MHz/8000 MHz)",
+   "nvidia-gtx-1660-ti": "GIGABYTE GeForce GTX 1660 Ti OC 6G 192 Bits GDDR6 DisplayPort 1.4 HDMI 2.0B avec système de Refroidissement Windforce 2X Gv-N166TOC-6GD",
+   "nvidia-gtx-950": "Luqeeg Carte Graphique GTX 950 2 Go Gddr5 Cartes Vidéo 128 Bits pour PC Gaming, Prise en de la Sortie de Résolution 4k, Directx 12, Interface DVI DP HDMI",
+   "nvidia-gtx-970": "MSI GTX970 Gaming 4G Carte graphique Nvidia GeForce GTX 970 1114 MHz 4096 Mo PCIExpress : MSI",
+   "nvidia-gtx-980-ti": "GIGABYTE GV-N98TXTREME-6GD Carte Graphique Nvidia GeForce GTX 980 Ti 1000 MHz 6144 Mo PCI Express",
+   "nvidia-rtx-2060-super": "MSI Geforce RTX 2060 Super Game X",
+   "nvidia-rtx-2070": "Gigabyte Carte Graphique GeForce RTX 2070 Windforce 8G, 3 Ventilateurs Windforce, 8 Go GDDR6, GV-N2070WF3-8GC",
+   "nvidia-rtx-2080": "MSI Carte Graphique GeForce RTX 2080 Gaming X Trio 8 Go GDDR6 avec traçage de Rayons, cœur 2944, processeur Graphique 1515 MHz, Boost de 1860 MHz",
+   "nvidia-rtx-2080-super": "MSI Carte Graphique VGA RTX 2080Super Gaming X Trio *0031",
+   "nvidia-rtx-2080-ti": "ASUS 90YV0CC0-M0NM00 Carte Graphique Nvidia Geforce ROG Strix RTX 2080TI 11 Go",
+   "nvidia-rtx-3050-6g": "MSI NVIDIA GeForce RTX 3050 LP 6G OC Carte Graphique - 6 Go GDDR6, 1492 MHz, PCI Express Gen 4, 96 Bits, DP v 1.4a, 2X HDMI 2.1 (Prend en Charge 4K à 120 Hz)",
+   "nvidia-rtx-3080-12g": "MSI Gaming GeForce RTX 3080 LHR 12 Go GDRR6X 384 Bits HDMI/DP Nvlink Torx Fan 3 Ampères Architecture OC Carte Graphique (RTX 3080 Ventus 3X Plus 12G OC LHR)",
+   "nvidia-rtx-5060-ti-8g": "MSI NVIDIA GeForce RTX 5060 Ti 8G Gaming Trio OC Carte Graphique | 8 Go GDDR7 (28 GB/s, 128-bit), PCIe 5.0, TRI FROZR 4 (3 ventilateurs STORMFORCE), RGB, HDMI 2.1b, DisplayPort 2.1b",
+   "radprow7700": "AMD Radeon Pro W7700 16 Go (RDNA 3, 4X DisplayPort 2.1) Marque",
+   "radprow7800": "GIGABYTE Radeon Pro W7800 AI Top 32G Carte Graphique - 32 Go GDDR6, 256 Bits, PCI-E 4.0, 3 x DisplayPort 2.1, W7800 AI Top 32G",
+   "radprow7900": "AMD Radeon™ Pro W7900, Carte Graphique Professionnelle, Workstation, AI, Rendu 3D, 48 Go GDDR6, DisplaPort™ 2.1, AV1, 61 TFLOPS, 96 CUs, 295W TDP, 8K",
+   "rtx2000ada": "PNY NVIDIA RTX 2000 Ada Professional Graphics Card 16GB GDDR8",
+   "rtx2060": "ZOTAC GAMING GeForce RTX 2060 Grafikkarte",
+   "rtx2070s": "ASUS Carte Graphique GeForce RTX 2070 Super ROG Strix O8G Gaming, 8192 MB GDDR6",
+   "rtx3050": "MSI NVIDIA GeForce RTX 3050 Aero ITX 8G",
+   "rtx3060": "MSI GeForce RTX 3060 Gaming X 12G Carte Graphique - GPU RTX 3060, GDDR6 12Go (15Gbps/192 Bits), PCIe 4.0-2 x Ventilateurs TORX 4.0 - HDMI 2.1, DisplayPort 1.4a",
+   "rtx3060ti": "NVIDIA GeForce RTX 3060 Ti - Founders Edition - Carte graphique GDDR6 PCI Express 4.0 8 Go",
+   "rtx3070": "MSI GeForce RTX 3070 GAMING X TRIO Gaming Graphics Card - RTX 3070, TRI FROZR 2 , TORX Fan 4.0, 8GB GDDR6, 256 bit, PCI Express Gen 4, DisplayPort v1.4a, HDMI 2.1, Zero Frozr, 1440p resolution, Black",
+   "rtx3070ti": "MSI RTX 3070 TI Ventus 3X 8G OC Carte Graphique NVIDIA GeForce RTX 3070 Ti 8 Go GDDR6X Gris",
+   "rtx3080": "MSI Gaming GeForce RTX 3080 LHR 10GB GDRR6X 320-Bit HDMI/DP Nvlink Torx Fan 3 Ampere Architecture OC Graphics Card (RTX 3080 Ventus 3X 10G OC LHR) (Renewed) : Electronics",
+   "rtx3080ti": "Geforce RTX 3080 Ti 12GB GDDR6X PCI Express 4.0 Graphics Card Titanium and Black (Renewed) : Electronics",
+   "rtx3090": "nVidia GeForce RTX 3090 Founders Edition Graphics Card : Electronics",
+   "rtx3090ti": "Nvidia GeForce RTX 3090 Ti Founders Edition : Electronics",
+   "rtx4000ada": "PNY NVIDIA RTX A4000 Carte Graphique Professionnelle 16GB GDDR6 PCI Express 4.0 x16, Double Slot, 4X Port Display, 8K Support, Ventilateur Actif Ultra-Silencieux",
+   "rtx4060": "MSI GeForce RTX 4060 Ventus 2X Black 8G OC Gaming Graphics Card - 8GB GDDR6X, PCI Express Gen 4, 128-bit, 3X DP v 1.4a, HDMI 2.1a (Supports 4K & 8K HDR) : Electronics",
+   "rtx4060ti": "ASUS Dual GeForce RTX 4060 Ti EVO OC Edition 8GB GDDR6 (PCIe 4.0, 8GB GDDR6, DLSS 3, HDMI 2.1a, DisplayPort 1.4a, Axial-tech Fan Design, Auto-Extreme Technology), 3 Year Warranty : Electronics",
+   "rtx4060ti16": "Gigabyte NVIDIA GeForce RTX 4060 Ti GAMING OC Carte graphique - 16GB GDDR6, 128-bit, PCI-E 4.0, 2595MHz Core Clock, 2x DP 1.4, 2x HDMI 2.1a, NVIDIA DLSS 3 - GV-N406TGAMING OC-16GD",
+   "rtx4070": "GIGABYTE GeForce RTX 4070 WINDFORCE OC 12G Graphics Card, 3X WINDFORCE Fans, 12GB 192-bit GDDR6X, GV-N4070WF3OC-12GD Video Card : Electronics",
+   "rtx4070s": "GIGABYTE GeForce RTX 4070 Super WINDFORCE OC 12G Graphics Card, 3X WINDFORCE Fans, 12GB 192-bit GDDR6X, GV-N407SWF3OC-12GD Video Card : Electronics",
+   "rtx4070ti": "GIGABYTE GeForce RTX 4070 TI WINDFORCE OC 12GB Carte graphique - 12GB DDRX6 21Gbps, PCI-E 4.0, 3 x DP 1.4a, HDMI 2.1a, NVIDIA DLSS 3, Ada Lovelace Arch, GV-N407TWF3OC-12GD",
+   "rtx4070tis": "Gigabyte GeForce RTX 4070 Ti SUPER WINDFORCE MAX OC Grafikkarte - 16GB GDDR6X, 256bit, PCI-E 4.0, 2655MHz Kernfrequenz, 3 x DisplayPort 1.4a, 1 x HDMI 2.1a, NVIDIA DLSS 3, GV-N407TSWF3MAX OC-16GD",
+   "rtx4080": "Zotac Gaming GeForce RTX 4080 16 Go AMP Extreme AIRO GDDR6X 256 Bits 22,4 Gbps PCIE 4.0 Carte Graphique IceStorm 2.0 Advanced Cooling, Spectra 2.0 RGB Lighting, ZT-D40810B-10P",
+   "rtx4080s": "PNY GeForce RTX 4080 Super 16GB Verto Overclocked Triple Fan DLSS 3",
+   "rtx4090": "ASUS ROG Strix GeForce RTX 4090 24GB Gaming Grafikkarte",
+   "rtx4500ada": "PNY NVIDIA RTX 4500 Ada Generation 24 Go GDDR6 PCI Express 4.0 Dual Slot 4X DisplayPort, Support 8K, Ventilateur Actif Ultra Silencieux",
+   "rtx5000ada": "PNY NVIDIA RTX 5000 Ada Generation 32 Go GDDR6 PCI Express 4.0 Dual Slot 4X DisplayPort, Support 8K, Ventilateur Actif Ultra Silencieux",
+   "rtx5050": "PNY Carte Graphique GeForce RTX™ 5050 8Go Dual Fan DLSS 4",
+   "rtx5060": "Gigabyte GeForce RTX 5060 WINDFORCE OC 8G Grafikkarte - 8GB GDDR7, 128bit, PCI-E 5.0, 2512 MHz Kerntakt, 3 x DisplayPort, 1 x HDMI, GV-N5060WF2OC-8GD",
+   "rtx5060ti": "MSI NVIDIA GeForce RTX 5060 Ti 16G Shadow 2X OC Plus Carte Graphique | 16 Go GDDR7 (28 GB/s, 192-bit), PCIe 5.0, double ventilateur (2 ventilateurs STORMFORCE), HDMI 2.1b, DisplayPort 2.1b",
+   "rtx5070": "ASUS Prime GeForce RTX 5070 12GB GDDR7 OC Edition Carte Graphique Gaming",
+   "rtx5070ti": "MSI NVIDIA GeForce RTX 5070 Ti 16G Shadow 3X OC Carte Graphique | 16 Go GDDR7 (28 GB/s, 256-bit), PCIe 5.0, triple ventilateur (3 ventilateurs TORX 5.0), HDMI 2.1b x 1, DP 2.1b, SFF Ready",
+   "rtx5080": "ASUS TUF Gaming GeForce RTX 5080 16GB GDDR7 OC Edition Carte Graphique",
+   "rtx5090": "ASUS ROG Astral GeForce RTX 5090 32GB GDDR7 OC Edition Carte Graphique | PCIe 5.0, HDMI/DP 2.1, 3,8 slots, 4 ventilateurs, ventilateurs Axial-tech, chambre à vapeur, pad thermique GPU, gaming",
+   "rtx6000ada": "PNY Quadro RTX 6000Carte Graphique Professionnelle 24GB GDDR6 PCI Express 3.0 x16, Double Slot, 4X Port Display, 8K Support, Ventilateur Actif Ultra-Silencieux",
+   "rtxpro6000bw": "PNY NVIDIA RTX Pro 6000 Blackwell Workstation Edition",
+   "rx6600": "ASUS Carte Graphique Dual Radeon RX 6600 8 Go GDDR6",
+   "rx6650xt": "Karta graficzna Power Color Radeon RX 6650 XT Hellhound 8GB GDDR6 (AXRX 6650XT 8GBD6-3DHL/OC)",
+   "rx6700xt": "MSI RX 6700 XT Gaming X 12G Taille Unique",
+   "rx6750xt": "MSI Radeon RX 6750 XT Gaming X Trio 12G Carte Graphique Gaming GPU MHz Mémoire 12000 Mo, Noir",
+   "rx6800xt": "ASUS TUF-RX6800XT-O16G-Gaming GDDR6 HDMI DP 16 Go Carte graphique Taille Unique",
+   "rx7600": "XFX Speedster SWFT210 Radeon RX 7600 Graphics Card with 8GB GDDR6 HDMI 3xDP, AMD RDNA 3 RX-76PSWFTFA : Electronics",
+   "rx7700xt": "XFX Speedster QICK319 Radeon RX 7700 XT Black Carte Graphique de Jeu avec 12 Go GDDR6 HDMI 3xDP, AMD RDNA™ 3 (RX-77TQICKB9)",
+   "rx7800xt": "GIGABYTE Radeon RX 7800 XT Gaming OC Carte Graphique",
+   "rx7900gre": "Sapphire Nitro+ AMD Radeon™ RX 7900 GRE Gaming OC 16GB GDDR6 Dual HDMI/Dual DP",
+   "rx7900xt": "Sapphire 11323-02-20G Pulse AMD Radeon RX 7900 XT Gaming Graphics Card with 20GB GDDR6, AMD RDNA 3 : Electronics",
+   "rx7900xtx": "Sapphire NITRO+ AMD RADEON RX 7900 XTX O 24.576 MB GDDR6",
+   "rx9060xt": "XFX Swift AMD Radeon RX 9060XT OC Gaming Edition avec 16 Go GDDR6 HDMI 2 x DP",
+   "rx9070": "Sapphire Pure AMD Radeon™ RX 9070 Gaming OC 16GB Dual HDMI/Dual DP",
+   "rx9070xt": "Sapphire Pulse AMD Radeon™ RX 9070 XT Gaming 16GB Dual HDMI/Dual DP"
+  },
+  "mobos": {
+   "asrock-b450m-pro4": "Carte Mère ASRock B450M Pro4 R2.0 Socket AM4 AMD B450 AMD AMD AM4 LGA 1151",
+   "asrock-b760m-pro-rs": "ASROCK B760M Pro RS/D4 - MATX - LGA 1700-4X DDR4 - HDMI - DP - 2X M.2",
+   "asrock-z890-taichi-ocf": "Carte+M%C3% A8re+ASRock+Z890+Taichi+OC+Formula+%28Intel+LGA+1851%29",
+   "asus-prime-a520m-k": "ASUS PRIME A520M-K Carte mère AMD A520 Ryzen AM4 micro ATX (M.2, 1 Gb Ethernet, HDMI/D-Sub, SATA 6 Gbps, USB 3.2 Gen 1 Type-A)",
+   "asus-prime-b860-plus": "ASUS Prime B860-PLUS WiFi, Carte mère Intel ATX, 8+1+1+1 80A étapes d'alimentation DrMOS, DDR5, PCIe 5.0, 2 emplacements M.2, Realtek 2,5 Go Ethernet, Wi-FI 6E, DisplayPort, HDMI, USB Type-C 20 Gbps",
+   "asus-prime-z690-p": "ASUS PRIME Z690-P WIFI D4 – Carte mère Intel Z690 LGA 1700 ATX (PCIe 5.0, DDR4, 14+1 DrMOS, 3 x M.2, 2.5 Gb LAN, HDMI, Display Port, USB 3.2 Gen 2x2 Type-C, USB 3.2 Gen 1 Type-C frontal, Thunderbol 4)",
+   "asus-rog-strix-b550-f": "ROG Strix B550-F Gaming – Carte mère AMD B550 Ryzen AM4, ATX, PCIe 4.0, 14 Phases d'alimentation, Ethernet Intel 2.5Gb, 2xM.2, OptiMem II, Microphone Anti-Bruit avec IA, USB 3.2 Gén. 2, Aura Sync RGB | PCIe® 4.0, 12+1 Power Stages, DDR4, Intel 2.5GB LAN, Dual M.2, ASUS Optimem II, SATA 6 Gbps, USB 3.2 Gen 2, Aura Sync RGB : Asustek",
+   "asus-rog-strix-b650e-i": "ASUS ROG Strix B650E-I Gaming WiFi",
+   "asus-rog-strix-z790-e": "ASUS ROG Strix Z790-E Gaming WiFi II – Carte mère Gaming Intel Z790 LGA 1700 ATX (DDR5, 18+1 DrMOS, 5 x M.2, PCIe 5.0, WiFi 7, USB 20Gbps PD 3.0 à 30W, Aura Sync RGB)",
+   "asus-rog-strix-z890-a": "ASUS ROG Strix Z890-A Gaming WiFi – Carte mère Gaming Intel ATX (DDR5, 16+1+2+2, PCIe 5.0, 5 x M.2, WiFi 7, AI Overclocking, AI Networking II, Aura Sync RGB)",
+   "asus-tuf-b650-plus": "ASUS TUF GAMING B650-PLUS WIFI – Carte mère gaming AMD Ryzen AM5 ATX (14 phases d'alimentation, PCIe 5.0 M.2 support, DDR5, WiFi 6, 2.5 Gb Ethernet, USB4, Aura Sync RGB)",
+   "b550-aorus": "Gigabyte GIGABYTE B550M AORUS Elite (AM4/ AMD/ B550/ Micro-ATX/DDR4/Dual M.2/PCIe 4.0/Realtek GbE LAN/Gaming Carte mère)",
+   "b550-tuf": "ASUS TUF Gaming B550-PLUS WiFi II AMD AM4 (3e génération Ryzen ATX Gaming Carte mère PCIe 4.0, WiFi 6, LAN 2,5 Go, flash BIOS, USB 3.2 Gen 2, en-tête RGB adressable Gen 2 et Aura Sync)",
+   "b550m-pro": "MSI B550M PRO-VDH WiFi ProSeries Motherboard (AMD Ryzen 5000, AM4, DDR4, PCIe 4.0, SATA 6Gb/s, M.2, USB 3.2 Gen 1, Wi-Fi, Bluetooth, D-SUB/HDMI/DP, Micro-ATX) : Electronics",
+   "b650-pg-itx": "PÅ‚yta gÅ‚ówna ASRock B650E PG-ITX WiFi",
+   "b650-steel": "ASRock B650 Steel Legend WiFi 6E AMD Socket AM5 Ryzen 9000 8000 and 7000 Series SATA3 M.2 DDR5 7200+(OC) 256GB SATA3 6.0 Gb/s ATX Motherboard BIOS Flashback : Electronics",
+   "b650-tomahawk": "MSI MAG B650 Tomahawk WiFi Carte mère, ATX - pour Processeurs AMD Ryzen 7000, AM5 - VRM Duet Rail 14 Phases, SPS 80 A - DDR5 Memory Boost 6400+ MHz/OC, 2 x Slots PCIe 4.0 x16, 3 x Slots M.2 Gen4",
+   "b650e-pg": "ASROCK B650E PG Riptide WiFi - ATX - AM5-4X DDR5 - PCIE 5.0-3X M.2 - WIFI6",
+   "b650m-ds3h": "GIGABYTE B650M DS3H Carte mère - AMD Ryzen série 9000, VRM 6+2+1 Phases, jusqu'à 8000 MHz DDR5 (OC), 2xPCIe 4.0 M.2, LAN 2,5 GbE, USB 3.2 Gen 2",
+   "b650m-mortar": "MSI MAG B650M Mortar WiFi Gaming Motherboard (AMD Ryzen 9000/8000/7000 Series Processors,AM5,DDR5,PCIe 4.0,M.2 Slots,SATA 6Gb/s,USB 3.2 Gen 2,HDMI/DP,Wi-Fi 6E,Bluetooth 5.3,2.5Gbps LAN,mATX) : Electronics",
+   "b760-pro": "ASUS PRIME B760-PLUS – Carte mère Intel B760 LGA 1700 ATX (DDR5, PCIe 5.0, 3 x PCIe 4.0 M.2, DisplayPort, VGA, HDMI, SATA 6 Gb/s, USB 3.2 Gen 2x2 Type-C, Thunderbolt USB4 support, Aura Sync RGB)",
+   "b760m-itx": "Asrock B760M-ITX/D4 WiFi Intel B75 LGA 1700 Mini ITX",
+   "b760m-mortar": "MSI MAG B760M Mortar WiFi DDR4 Carte Mère, Micro-ATX - pour Processeurs Intel Core 14e, 13e & 12e Génération, LGA 1700 - VRM 75A DrMOS, DDR4 Memory Boost 5333+MHz/OC, PCIe 5.0 x16, M.2 Gen4, Wi-FI 6E",
+   "gigabyte-a520m-s2h": "Gigabyte A520M S2H (AMD Ryzen AM4/MicroATX/4+3 Phases Digital PWM/Gigabyte Gaming GbE LAN/NVMe PCIe 3.0 x4 M.2/3 Display Interfaces/Q-Flash Plus/RGB Fusion 2.0/Motherboard) : Electronics",
+   "gigabyte-a620m-gaming": "GIGABYTE A620M Gaming X Carte Mère - Prend en Charge Les processeurs AMD Ryzen 8000, VRM numérique 8+2+1 Phases, jusqu'à 8000MHz DDR5 (OC), 1xPCIe 4.0 M.2, LAN GbE, USB 3.2 Gen 2",
+   "gigabyte-b660-ds3h": "GIGABYTE B660M DS3H DDR4 (Socket 1700/B660/DDR4/S-ATA 600/Micro ATX) Carte mère Noir",
+   "msi-mag-x870-tomahawk": "MSI MAG X870 Tomahawk WiFi Gaming Motherboard (AMD Ryzen 9000/8000/7000 Series Processors, AM5, DDR5, PCIe 5.0, M.2 Gen5, SATA 6Gb/s, USB 40Gbps, HDMI/DP, Wi-Fi 7, Bluetooth 5.4, 5Gbps LAN, ATX) : Electronics",
+   "msi-mpg-b650-edge": "MSI MPG B650 Edge WiFi Carte-mère, ATX - Support des processeurs AMD Ryzen 9000, AM5 - Alimentation Double Rail 14 Phases 80A, DDR5 Memory Boost 6600+MHz/OC, 2 x PCI-E 4.0 x16, 1 x M.2 Gen5, Wi-FI 6E",
+   "msi-pro-b860m-a": "MSI Pro B860M-A WiFi Carte mère Micro-ATX - pour processeurs Intel Core Ultra (série 2), LGA 1851 - Mémoire DDR5 (8600+MT/s OC), PCIe 5.0 x16, et 4.0 x16 M.2 Gen5, Intel Killer 5G LAN, Wi-FI 7",
+   "x570-aorus": "Gigabyte x570 AORUS Elite Carte mère Format ATX",
+   "x670e-hero": "ASUS ROG Crosshair X670E Hero Gaming Mainboard Sockel AMD AM5",
+   "x870e-aorus": "GIGABYTE X870E AORUS Elite WiFi 7 AMD AM5 LGA 1718 Motherboard, ATX, DDR5, 4X M.2, PCIe 5.0, USB4, 2.5GbE LAN, EZ-Latch : Electronics",
+   "z690-edge": "MSI MPG Z690 Edge WiFi DDR4 Carte Mère Gaming, ATX - pour Processeurs Intel Core 12è Gen, LGA 1700 - Direct 16 Phase VRM 75A, Memory Boost 5200MHz/OC, 1 x PCIe 5.0 x16, 4 x M.2 Gen4, Wi-FI 6",
+   "z790-aorus": "GIGABYTE Z790 AORUS Elite AX Carte Mère - Prend en Charge Les processeurs Intel Core 14e génération, 16*+2+1 Phases VRM Numérique, jusqu'à 7600MHz DDR5 (OC), 4xPCIe 4.0 M.2, Wi-FI 6E, 2.5GbE LAN",
+   "z790-apex": "ASUS ROG Maximus Z790 APEX Encore Carte mère Intel LGA 1700, ATX DDR5, Intel Wi-FI 7, 5 emplacements M.2, PCIe 5.0 NVMe SSD, USB Type-C, AI Overclocking, Cooling II et Networking, Aura Sync RGB Noir",
+   "z790-edge": "MSI MPG Z790 Edge WiFi Carte Mère, ATX - pour processeurs Intel 14e, 13e & 12e gén, LGA 1700 - VRM SPS 105A, DDR5 7200+MHz/OC, PCIe 5.0 x16 & 4.0 x16, M.2 Gen4, Wi -FI 6E",
+   "z890-carbon": "MSI MPG Z890 Carbon WiFi Gaming Motherboard (Support Core Ultra Series 2 Intel Processors, LGA 1851, DDR5, PCIe 5.0, M.2, SATA, 5Gbps LAN, USB Type-C, Wi-Fi 7, Bluetooth 5.4, Thunderbolt 4, ATX) : Electronics"
+  },
+  "psus": {
+   "asus-rog-strix-1000w": "ASUS ROG Strix 1000W Platinum, Alimentation entièrement modulaire, 80 Plus Platinum Certified, ATX 3.1, PCIe 5.1, Cybenetics Lambda A+, GaN MOSFET, GPU-First, IVS, Garantie 10 Ans",
+   "asus-tuf-gaming-750w": "ASUS TUF Gaming 750W Gold - Bloc d'alimentation (750 Watts, modulaire, 80+ Gold, ATX 3.1, PCIE 5.1, Composants de qualité Militaire, Double roulement à Billes, Ventilateur Axial-Tech, revêtement PCB)",
+   "be-quiet-pure-power-12-m-550w": "be quiet! Pure Power 12 550W Alimentation, Certification 80 Plus® Gold, Alimentation ATX 3.1, Ventilateur 120 mm Ultra Silencieux signé be quiet!, Technologie LLC, Un Rail Massif 12 V",
+   "be-quiet-pure-power-12-m-650w": "be quiet! Pure Power 12 M 650 W Bloc d’Alimentation, Certification 80 Plus® Gold, Alimentation ATX 3.0 entièrement Compatible avec Les Cartes Graphiques PCIe 5.0, 2 Solides Rails 12 V",
+   "be-quiet-pure-power-12-m-750w": "be quiet! Pure Power 12 M 750 W Bloc d’Alimentation, Certification 80 Plus® Gold, Alimentation ATX 3.0 entièrement Compatible avec Les Cartes Graphiques PCIe 5.0, 2 Solides Rails 12 V",
+   "be-quiet-pure-power-12-m-850w": "be quiet! Pure Power 12 M 850 W Bloc d’Alimentation, Certification 80 Plus® Gold, Alimentation ATX 3.0 entièrement Compatible avec Les Cartes Graphiques PCIe 5.0, 2 Solides Rails 12 V",
+   "be-quiet-straight-power-12-1000w": "be quiet! Straight Power 12 1000 W Bloc d’Alimentation, Certification 80 Plus Platinum, ATX 3.1 entièrement Compatible avec Les Cartes Graphiques PCIe 5.1, Ventilateur Silent Wings Ultra Silencieux",
+   "be-quiet-straight-power-12-750w": "be quiet! Straight Power 12 750 W Bloc d’Alimentation, Certification 80 Plus Platinum, ATX 3.0 entièrement Compatible avec Les Cartes Graphiques PCIe 5.0, Ventilateur Silent Wings Ultra Silencieux",
+   "be-quiet-straight-power-12-850w": "be quiet! Straight Power 12 850 W Bloc d’Alimentation, Certification 80 Plus Platinum, ATX 3.1 entièrement Compatible avec Les Cartes Graphiques PCIe 5.1, Ventilateur Silent Wings Ultra Silencieux",
+   "cooler-master-mwe-gold-750-v2": "Cooler Master MWE Gold 750 V2 entièrement modulaire, 750 W, efficacité or 80+, ventilateur HDB silencieux, 2 connecteurs EPS, résistance aux hautes températures",
+   "cooler-master-mwe-gold-850-v2": "Cooler Master MWE Gold 850 V2 ATX 3.1 Alimentation 100% Modulaire - Prise EU - Support ATX 3.1, PSU 80 Plus Gold 850W, PCIe 5.1, Ventilateur HDB 120mm, Seuil de température élevé, Garantie 5 Ans",
+   "corsair-ax1600i": "Corsair AX1600i Digital 80 Plus Titanium Unité d'alimentation ATX entièrement modulaire – Noir",
+   "corsair-cx550": "Corsair CX550 80 Plus Bronze - Bloc d'alimentation Non modulaire ATX à Faible Bruit de 550 W, Couleur Noire",
+   "corsair-cx750": "Corsair CX750 750W ATX Noir unité d'alimentation d'énergie - Unités d'alimentation d'énergie (750 W, 100 - 240, 47 - 63, Actif, 130 W, 750 W)",
+   "corsair-hx1200": "Corsair HX1200 1200W ATX Noir unité d'alimentation d'énergie - Unités d'alimentation d'énergie (1200 W, 100 - 240, 47 - 63, 150 W, 1200 W, 150 W)",
+   "corsair-rm1000e": "Corsair RM1000e Alimentation ATX Silencieuse Entièrement Modulaire (Deux Connecteurs EPS12V, Condensateurs Certifiés 105 °C, Efficacité 80 Plus Gold, Prise en Charge du Modern Standby) Noir",
+   "corsair-rm1000x": "Corsair RM1000x SHIFT Alimentation ATX Entièrement Modulaire - Interface Latérale Modulaire - Compliant ATX 3.1 & PCIe 5.1 - Condensateurs Évalués à 105°C - Efficacité 80 PLUS Gold - Blanc",
+   "corsair-rm650x": "Corsair RM650X Alimentation PC 650 W Noir",
+   "corsair-rm750e": "Corsair RM750e Alimentation ATX Silencieuse Entièrement Modulaire (Deux Connecteurs EPS12V, Condensateurs Certifiés 105 °C, Efficacité 80 Plus Gold, Prise en Charge du Modern Standby) Noir",
+   "corsair-rm850e": "Corsair RM850e Alimentation ATX entièrement modulaire à faible bruit (connecteurs doubles EPS12V, condensateurs 105 ° C, efficacité 80 PLUS Gold, support de veille moderne), noir",
+   "msi-mag-a550bn": "MSI MAG A550BN Alimentation ATX, 80 Plus Bronze | 550W, rail unique 12V, circuit DC vers DC, ventilateur 120mm, garantie 5 ans",
+   "msi-mag-a650gl": "MSI PSU mag A650GL 80 Plus Gold Full Modular",
+   "msi-mag-a750gl": "MSI MAG Bloc d'alimentation 750 W 80 Plus Gold – Connecteur natif à 16 Broches – Design modulaire Complet – Protection de Niveau Industriel avec OVP, OCP, OPP, OTP, SCP, UVP [MAG A750GL PCIE5]",
+   "msi-mpg-a750g": "MSI MPG A750G PCIE5 Bloc d'alimentation, Prise européenne, 750 W, certifié 80 Plus Gold, ATX 3.0 entièrement modulaire, Prend en Charge Le GPU PCIe 5.0, condensateurs Japonais 105 °C, Mode 0% RPM,",
+   "nzxt-c1000-gold": "NZXT C1000 Gold ATX 3.1 - Alimentation 1000W Entièrement Modulaire | Alimentation 1000W 80 PLUS Gold ATX 3.1, entièrement modulaire, silencieuse. Prête PCIe 5 pour GPU modernes, garantie 10 ans.",
+   "nzxt-c850-gold": "NZXT C850 Gold ATX 3.1 - Alimentation 850W Entièrement Modulaire | Alimentation 850W 80 PLUS Gold ATX 3.1, entièrement modulaire, silencieuse. Prête PCIe 5 pour GPU modernes, garantie 10 ans.",
+   "seasonic-focus-gx-750": "Seasonic FOCUS-GX-750 unité d'alimentation d'énergie 750 W 20+4 pin ATX ATX Noir",
+   "seasonic-focus-gx-850": "Seasonic Netzteil 850w FocuS-GX-850 Atx3 Modular Gold (focuS-GX-850-V4)",
+   "seasonic-prime-tx-1000": "Seasonic PRIME TX-1000 Fully modular PC power supply 80PLUS Titanium 1000 Watt",
+   "thermaltake-toughpower-gf3-850w": "Thermaltake Toughpower GF3 850W | Alimentation PC-ATX 3.0 | PCIe Gen 5.0 | 80-Plus-Gold | entièrement modulaire | Ventilateur Silencieux 140 | Certifié UE | Noir"
+  },
+  "rams": {
+   "ddr3_16_1600c10": "Corsair CMSX16GX3M2A1600C10 Vengeance 16GB (2x8GB) DDR3 1600 Mhz CL10",
+   "ddr3_16_1866c10": "G.Skill 16GB DDR3-1866",
+   "ddr3_16_2133c11": "Ddr3 16gb Pc 2133 Cl10d G.skill Kit (2x8gb) 16gab Ares (f3-2133c10D-16gab)",
+   "ddr4_16_2666c16": "Corsair Vengeance LPX 16Go (2x8Go) DDR4 Jusqu'à 2666MHz C16 XMP 2.0 Kit de Mémoire Haute Performance - Noir",
+   "ddr4_16_3000c15": "Crucial Ballistix BL2K8G30C15U4W 3000 MHz, DDR4, DRAM, Mémoire Kit pour PC de Gamer, 16Go (8Go x2), CL15, Blanc",
+   "ddr4_16_3000c16": "Mémoire PC - G.Skill Aegis 16 Go (2 x 8 Go) DDR4 3000 MHz CL16 - Kit Dual Channel 2 Barrettes de RAM DDR4 PC4-24000 - F4-3000C16D-16GISB (Garantie à Vie par G.Skill)",
+   "ddr4_16_3200c14": "Corsair Dominator Platinum RGB 16GB (2x8GB) DDR4 3200 (PC4-28800) C16 1.35V AMD Optimized Memory- Noire",
+   "ddr4_16_3200c16": "Corsair CMK16GX4M2B3200C16, Vengeance LPX 16Go (2x8Go) DDR4 Jusqu'à 3200MHz C16 XMP 2.0 Kit de Mémoire Haute Performance - Noir",
+   "ddr4_16_3600c14": "G.skill Trident Z Neo Ddr4 16gb (2x8gb) Kit 3600mhz Cl16 Rgb Schwarz/silber (f4-3600c16D-16gtznc)",
+   "ddr4_16_3600c16": "G.skill Trident Z Neo Ddr4 16gb (2x8gb) Kit 3600mhz Cl16 Rgb Schwarz/silber (f4-3600c16D-16gtznc)",
+   "ddr4_32_3200c16": "Corsair Vengeance LPX DDR4 RAM 32GB Bis zu 3200MHz CL16 Intel XMP 2.0 Computerspeicher - Schwarz",
+   "ddr4_32_3600c18": "G.skill Tridentz Rgb Series - Ddr4 - Kit - 32 Gb: 2 X 16 Gb - Dimm 288-Pin - 3600 Mhz / Pc4-28800 - Cl18 - 1.35 V - Ungepuffert - NoN-Ecc (f4-3600c18",
+   "ddr4_32_4000c18": "G.skill Ripjaws V - Ddr4 - 32 Gb: 4 X 8 Gb - Dimm 288-Pin - 4000 Mhz / Pc4-32000 - Cl18 - 1.35 V - Ungepuffert - NoN-Ecc - Classic Black (f4-4000c18q",
+   "ddr4_64_3200c16": "Corsair Vengeance LPX 64GB (2x32GB) DDR4 Jusqu'à 3200MHz C16 - Black",
+   "ddr4_64_3600c18": "G.Skill DDR4 64 GB PC 3600 CL18 KIT 2x32 GB 64GVK Ripjaws 64 GB 3.600 MHz 2 32",
+   "ddr4_8_2666c16": "Timetec 8 Go Compatible pour Apple DDR4 2666 MHz pour iMac mi-2020 (20.1/20.2) / iMac mi-2019 (19.1) 27\" avec écran Retina 5K, Fin 2018 Mac Mini (8.1) PC4-21333 / PC4-21300 SODIMM Mac RAM Upgrade",
+   "ddr5_128_5600c40": "Crucial Pro RAM 128Go Kit (2x64Go) DDR5 5600MHz, Intel XMP 3.0 / AMD Expo, PC Mémoire 128Go DDR5 - CP2K64G56C46U5",
+   "ddr5_16_4800c38": "Kingston Fury Beast DDR5 RGB 16GB 4800MT/s DDR5 CL38 DIMM Mémoire pour PC de Gamer Module Simple - KF548C38BBA-16",
+   "ddr5_16_4800c40": "Crucial RAM DDR5 16Go 4800MHz, PC Mémoire, CL40 - CT16G48C40U5",
+   "ddr5_16_5200c40": "Kingston FURY Beast Noir DDR5 16Go 5200MT/s CL40 DIMM Mémoire pour PC de Gamer Module Simple Intel XMP - KF552C40BB-16",
+   "ddr5_16_5600c36": "Kingston FURY Beast Noir DDR5 16Go (2x8Go) 5600MT/s CL36 DIMM Mémoire pour PC de Gamer Kit de 2 AMD EXPO et Intel XMP - KF556C36BBEK2-16",
+   "ddr5_16_6000c36": "G.skill Ripjaws M5 Rgb Ddr5 2x16gb 6000mhz Cl36-36 Black F5-6000j3636f16gx2-Rm5rk (f5-6000j3636f16gx2-Rm5rk)",
+   "ddr5_32_4800c40": "Crucial RAM DDR5 32Go 5600MHz, PC Mémoire (ou 5200MHz / 4800MHz) CL46 - CT32G56C46U5",
+   "ddr5_32_5200c40": "Kingston FURY Beast Noir RGB 32Go (2x16Go) 5200MT/s DDR5 CL40 DIMM Mémoire pour PC de Gamer Kit de 2 Intel XMP - KF552C40BBAK2-32",
+   "ddr5_32_5600c36": "CORSAIR Vengeance RGB DDR5 32Go (2 x 16Go) Jusqu'à 5600MHz AMD Intel RAM",
+   "ddr5_32_5600c40": "CORSAIR Vengeance RGB DDR5 32Go (2 x 16Go) Jusqu'à 5600MHz AMD Intel RAM",
+   "ddr5_32_6000c28": "G.skill Trident Z5 Neo Rgb F5-6000j2836g16gx2-Tr5ns Memoria 32 Gb 2 X 16 Gb Ddr5 288-Pin Dimm (32gb[16gbx2] G.skill Trident Z5 Pc5 6000mhz Cl28 Kit F",
+   "ddr5_32_6000c32": "Kingston FURY Beast Blanc RGB 32Go (2x16Go) 6000MT/s DDR5 CL30 DIMM Mémoire pour PC de Gamer Kit de 2 AMD EXPO/ Intel XMP - KF560C30BWEAK2-32",
+   "ddr5_32_6000c36": "G.skill Ddr5 32gb Pc 6000 Cl36 (2x16gb) 32-M5 Rgb Rm5rw (f5-6000j3636f16gx2-Rm5rw)",
+   "ddr5_32_6400c30": "CORSAIR Vengeance RGB DDR5 32Go (2 x 16Go) Jusqu'à 6400MHz Intel RAM",
+   "ddr5_32_6400c32": "G.Skill 32GB DDR5 Trident Z5 RGB 6400MHz CL32 1.40V Dual Channel Kit 2X 16GB Black",
+   "ddr5_32_6400c34": "Patriot Viper Venom RGB DDR5 32 Go (2 x 16 Go) 6400 MHz UDIMM Kit de mémoire de Jeu de Bureau - PVVR532G640C32K",
+   "ddr5_32_6600c32": "CORSAIR Dominator Titanium RGB DDR5 RAM 32GB (2x16GB) DDR5 6600MHz CL32 Intel XMP Mémoire Informatique Compatible iCUE - Blanc (CMP32GX5M2X6600C32W)",
+   "ddr5_32_7200c34": "G.skill Trident Z5 Rgb - Ddr5 - Kit - 32gb: 2 X 16gb - Dimm 288-Pin - 7200 Mhz / Pc5-57600 - Cl34 - NoN-Ecc - Metallisch Silber, Geb?rstetes Aluminiu",
+   "ddr5_32_7200c36": "32 Go G.Skill DDR5 Trident Z5 RGB 7200MHz CL34 1.40V Kit Double Canal 2X 16 Go Argent",
+   "ddr5_32_7600c36": "32GB G.Skill DDR5 Trident Z5 RGB 7600MHz CL36 1.40V Dual Channel Kit 2x 16GB Noir",
+   "ddr5_32_8000c38": "32GB G.Skill DDR5 Trident Z5 RGB 8000MHz CL38 1.45V Dual Channel Kit 2X 16GB Black",
+   "ddr5_32_8000c40": "G.skill Trident Z5 Neo Rgb - Ddr5 - Kit - 32gb: 2 X 16gb - Dimm 288-Pin - 6000 Mhz / Pc5-48000 - Cl36 - NoN-Ecc - Mattschwarz (f5-6000j3636f16gx2-Tz5",
+   "ddr5_48_5600c40": "CORSAIR Vengeance DDR5 48Go (2 x 24Go) Jusqu'à 5600MHz Intel RAM",
+   "ddr5_48_7200c36": "48 Go G.Skill DDR5 Trident Z5 RGB 7200MHz CL36 1.35V Kit Double Canal 2X 24 Go Noir",
+   "ddr5_64_6000c30": "Acer Predator Pallas II DDR5 RAM 64GB (32GBx2) 6000MHz CL30 PC5-51200 Intel XMP 3.0 AMD EXPO Compatible Computer Memory, Black - BL.9BWWR.437 at Amazon.com",
+   "ddr5_64_6000c32": "Kingston FURY Renegade DDR5 Argent/Blanc XMP 64Go 6000MT/s CL32 DIMM Mémoire pour PC de Gamer (Kit de 2 ) - KF560C32RWK2-64",
+   "ddr5_64_6400c32": "Kingston FURY Beast Noir DDR5 64Go (2x32Go) 6400MT/s CL32 DIMM Mémoire pour PC de Gamer Kit de 2 AMD EXPO et Intel XMP - KF564C32BBEK2-64",
+   "ddr5_96_5600c40": "CORSAIR Vengeance DDR5 96Go (2 x 48Go) Jusqu'à 5600MHz Intel RAM"
+  },
+  "ssds": {
+   "hdd-5400": "Western Digital Blue 1000Go Série ATA III disque dur - disques durs (2.5\", 1000 Go, 5400 tr/min, Série ATA III, 128 Mo, Disque dur)",
+   "hdd-barracuda": "Seagate BarraCuda Pro 2 To, Disque dur interne HDD – 3,5\" SATA 6 Gbit/s 7 200 tr/min, 128 Mo mémoire cache, pour PC, services de récupération des données – Ouverture facile (ST2000DMZ09)",
+   "hdd-firecuda-2tb": "Seagate FireCuda Gaming Hard Drive, 2 To, Disque Dur Externe Portable HDD, USB-C, USB 3/2, voyants LED RVB, 3 Ans Services Rescue (STKL2000400)",
+   "hdd-wdblack-4tb": "WD_BLACK SN850X NVMe SSD 4 To (Jusqu'à 7 300 Mo/s / 6 600 Mo/s en lecture/écriture, M.2 2280 Gaming SSD, PCIe Gen 4.0, Haute performance disque de jeu,) POWERED BY SANDISK",
+   "hdd-wdblue-2tb": "WD Blue 2 To Mobile Disque Dur Interne 2.5\", Classe 5400 RPM, SATA 6 Gb/s, Cache de 128 Mo",
+   "nvme-9100pro-2tb": "Samsung SSD Interne 9100 Pro, NVMe 2.0 PCIe 5.0x4, Capacité 2To, Vitesse de Lecture jusqu'à 14 800 Mo/s, Les Performances de la Gen5, MZ-VAP2T0BW",
+   "nvme-970evo-1tb": "Samsung 970 EVO Plus MZ-V7S1T0BW Disque SSD Interne NVMe M.2, 1 To, Jusqu'à 3 500Mo/s en lecture sequentielle",
+   "nvme-980pro": "Samsung 980 PRO MZ-V8P1T0BW | Disque SSD Interne NVMe M.2, PCIe 4.0, 1 To, Contrôle thermique intelligent - Compatible PS5",
+   "nvme-980pro-2t": "Samsung 980 PRO MZ-V8P2T0BW | Disque SSD Interne NVMe M.2, PCIe 4.0, 2 To, Contrôle thermique intelligent - Compatible PS5",
+   "nvme-990evo": "Samsung SSD Interne 990 EVO Plus MZ-V9S2T0BW, NVMe 2.0 PCIe 4.0 x 4 / 5.0x2, 1 To, Vitesse de lecture jusqu'à 7150 Mo/s, Idéal pour le gaming et la bureautique",
+   "nvme-990evo-1tb": "Samsung SSD Interne 990 EVO NVMe M.2 PCIe 4.0 x 4 / 5.0x2, 1 To, Vitesse de lecture jusqu'à 5000 Mo/s, Idéal pour le gaming et la bureautique, MZ-V9E1T0BW",
+   "nvme-990pro": "Samsung SSD 990 Pro NVMe M.2 Pcle 4.0, SSD Interne, Capacité 1 To, Vitesse de lecture jusqu'à 7 450 Mo/s, Gestion Intelligente de la Chaleur avec Revêtement en Nickel, MZ-V9P1T0BW",
+   "nvme-990pro-4tb": "Samsung SSD 990 Pro NVMe M.2 Pcle 4.0, SSD Interne, Capacité 4 To, Vitesse de lecture jusqu'à 7 450 Mo/s, Gestion Intelligente de la Chaleur avec Revêtement en Nickel, MZ-V9P4T0BW",
+   "nvme-fc530-1tb": "Seagate FireCuda 530, 1 TB, Internal Solid State Drive - M,2 PCIe Gen4 4 NVMe 1,4, transfer speeds up to 7,300 MB/s, 3D TLC NAND, 1,275 TBW, Heatsink, 3 year Rescue Services (ZP1000GM3A023)",
+   "nvme-firecuda": "Seagate FireCuda 540 SSD 1To, SSD interne, M,2 2280 PCIe 5e génération avec des vitesses de transfert jusqu'à 10 000 Mo/s et 2000 To TBW, Services Rescue (ZP1000GM3A004)",
+   "nvme-mp700-2tb": "Corsair MP700 Pro 2 to M.2 PCIe Gen5 x4 NVMe 2.0 SSD - M.2 2280 - Jusqu'à 12 400 Mo/s en Lecture Séquentielle - TLC NAND Haute Densité - Noir",
+   "nvme-p3-500": "Crucial P3 500Go CT500P3SSD8 PCIe 3.0, 3D NAND, NVMe, M.2 SSD, up to 3500MB/s",
+   "nvme-p41": "Solidgim SOLIDIGM SSD P41 Plus 1 to M.2 80 mm",
+   "nvme-sn350-1tb": "WD Green SN350 1 To M.2 NVMe SSD, possédant une vitesse de lecture de 3 200 Mo/s et une vitesse d'écriture de 2 500 Mo/s",
+   "nvme-sn570": "WD_BLUE SN570 1TB M.2 2280 PCIe Gen3 NVMe up to 3500 MB/s read speed, Disque SSD",
+   "nvme-sn570-1tb": "WD_BLUE SN570 1TB M.2 2280 PCIe Gen3 NVMe up to 3500 MB/s read speed, Disque SSD",
+   "nvme-sn770-1tb": "WD_BLACK SN770 SSD 1 To, Disque SSD Interne, Vitesse de lecture jusqu'à 5150 Mo/s, M.2 2280 NVMe SSD, PCIe Gen 4.0, Haute performance disque de jeu, Noir",
+   "nvme-sn770-250": "WD_Black SN770 250 Go, M.2 2280, PCIe Gen4 NVMe, Vitesse de lecture jusqu'à 4000 Mo/s, SSD de Jeu",
+   "nvme-sn8100-2tb": "WD_Black SN8100 PCIe Gen 5, NVMe SSD 2 to (Jusqu'à 14 900/14 000 Mo/s Vitesses de Lecture/d’écriture séquentielle, M.2 2280, Next Gen TLC 3D CBA NAND, Jusqu'à 1 200ToW) Powered by SANDISK",
+   "nvme-sn850x": "WD_BLACK SN850X SSD 1 To, Disque SSD interne avec dissipateur thermique, Lecture jusqu'à 7300 Mo/s, écriture jusqu'à 6,600 Mo/s, Gaming SSD, Haute performance disque de jeu, PCIe Gen 4.0 NVMe, Noir",
+   "nvme-sn850x-1tb": "WD_BLACK SN850X SSD 1 To, Disque SSD interne avec dissipateur thermique, Lecture jusqu'à 7300 Mo/s, écriture jusqu'à 6,600 Mo/s, Gaming SSD, Haute performance disque de jeu, PCIe Gen 4.0 NVMe, Noir",
+   "nvme-sn850x-4t": "WD_Black SN850X SSD 4 to, M.2 2280 NVMe SSD, avec Dissipateur Thermique, Lecture jusqu'à 7300 Mo/s, Gaming SSD, Haute Performance Disque de Jeu, PCIe Gen 4.0, Noir",
+   "nvme-t700": "Crucial T700 SSD 1To PCIe Gen5 NVMe M.2 SSD Interne Gaming, Jusqu’à 11.700Mo/s, Microsoft DirectStorage, Rétrocompatibilité PCIe 4.0, Disque Dur SSD - CT1000T700SSD3",
+   "nvme-t700-2tb": "Crucial T700 SSD 2To PCIe Gen5 NVMe M.2 SSD Interne Gaming, Jusqu’à 12.400Mo/s, Microsoft DirectStorage, Rétrocompatibilité PCIe 4.0, Disque Dur SSD - CT2000T700SSD3",
+   "nvme-t705-2tb": "Crucial T705 SSD 2To PCIe Gen5 NVMe M.2 avec Dissipateur Premium, Jusqu’à 14.500Mo/s, Microsoft DirectStorage, Rétrocompatibilité PCIe 4.0, Disque Dur Interne - CT2000T705SSD5",
+   "sata-870qvo-1tb": "Samsung 870 QVO MZ-77Q1T0BW | Disque SSD Interne 1 To, SATA III, 2,5'' - Technologie QLC seconde génération",
+   "sata-a400-480": "Kingston Lot de 2 disques SSD internes A400 SATA 3 2,5\" SA400S37/480G - 480 Go",
+   "sata-blue": "WD Blue 3D NAND Internal SSD M.2 SATA - 1 TB, Blue - High Performance",
+   "sata-mx500": "Crucial MX500 1To 3D NAND SATA 2,5 pouces SSD interne - Jusqu’à 560 Mo/s - CT1000MX500SSD1",
+   "sata-sandisk-1tb": "SanDisk Ultra 3D SSD 1TB up to 560MB/s Read / up to 530MB/s Write, Black"
+  }
+ },
+ "cases": {
+  "antec-df700-flux": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0B3HKNK3T",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0B3HKNK3T",
+   "amazon.it": null
+  },
+  "asus-prime-ap201": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0B7F8C35R",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0B7F8C35R",
+   "amazon.it": null
+  },
+  "be-quiet-light-base-600-lx": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0D73R2CGN",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0D73R2CGN",
+   "amazon.it": null
+  },
+  "be-quiet-pure-base-500-fx": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0B832WB3R",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0B832WB3R",
+   "amazon.it": null
+  },
+  "be-quiet-pure-base-500dx": {
+   "amazon.co.uk": null,
+   "amazon.com": "B087D7DBW6",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B087D7DBW6",
+   "amazon.it": null
+  },
+  "be-quiet-shadow-base-800-fx": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "be-quiet-silent-base-802": {
+   "amazon.co.uk": null,
+   "amazon.com": "B08NW5741Z",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B08NW5741Z",
+   "amazon.it": null
+  },
+  "cooler-master-haf-500": {
+   "amazon.co.uk": null,
+   "amazon.com": "B09HCHC9WH",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "cooler-master-masterbox-nr600": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B07QM91RJQ",
+   "amazon.it": null
+  },
+  "cooler-master-nr200p-itx": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "cooler-master-q300l": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0785GRMPG",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0785GRMPG",
+   "amazon.it": null
+  },
+  "cooler-master-td500-mesh": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0BN4779ZH",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BN4779ZH",
+   "amazon.it": null
+  },
+  "corsair-2000d-airflow-itx": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BW4PT5BT",
+   "amazon.it": null
+  },
+  "corsair-2500x": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0CQ5DH88N",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0CQ5DH88N",
+   "amazon.it": null
+  },
+  "corsair-3500x": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0FJ2Y9GK1",
+   "amazon.it": null
+  },
+  "corsair-4000d-airflow": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "corsair-5000d-airflow": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "corsair-6500d-airflow": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0CQ5CHKRB",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0CQ5CHKRB",
+   "amazon.it": null
+  },
+  "corsair-icue-3000d": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "deepcool-ch510": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "deepcool-macube-110-matx": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "fractal-define-7": {
+   "amazon.co.uk": null,
+   "amazon.com": "B08146JLXK",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B08146JLXK",
+   "amazon.it": null
+  },
+  "fractal-meshify-2": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0CS3T22P8",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0CS3T22P8",
+   "amazon.it": null
+  },
+  "fractal-meshify-2-compact": {
+   "amazon.co.uk": null,
+   "amazon.com": "B08X7B7LQ2",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B08X7B7LQ2",
+   "amazon.it": null
+  },
+  "fractal-north": {
+   "amazon.co.uk": null,
+   "amazon.com": "B09V8HNWW9",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B09V8HNWW9",
+   "amazon.it": null
+  },
+  "fractal-north-xl": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0CJCK95ZC",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0CJCK95ZC",
+   "amazon.it": null
+  },
+  "fractal-pop-air": {
+   "amazon.co.uk": null,
+   "amazon.com": "B08SR7LPCD",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B08SR7LPCD",
+   "amazon.it": null
+  },
+  "fractal-pop-xl-air": {
+   "amazon.co.uk": null,
+   "amazon.com": "B08KTMWY5H",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B08KTMWY5H",
+   "amazon.it": null
+  },
+  "fractal-ridge-itx": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "fractal-terra-itx": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "fractal-torrent": {
+   "amazon.co.uk": null,
+   "amazon.com": "B08KTNHR27",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B08KTNHR27",
+   "amazon.it": null
+  },
+  "hyte-y40": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0CHN2WX74",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0CHN2WX74",
+   "amazon.it": null
+  },
+  "hyte-y60": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0BV5YLS99",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BV5YLS99",
+   "amazon.it": null
+  },
+  "hyte-y70": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0DKJKGPYZ",
+   "amazon.it": null
+  },
+  "lian-li-a4-h2o-itx": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "lian-li-lancool-207": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0F64S2P7G",
+   "amazon.it": null
+  },
+  "lian-li-lancool-216": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0BN3TTBKM",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BN3TTBKM",
+   "amazon.it": null
+  },
+  "lian-li-lancool-iii": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0B469JRGC",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0B469JRGC",
+   "amazon.it": null
+  },
+  "lian-li-o11-dynamic": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0CGM6RKV8",
+   "amazon.it": null
+  },
+  "lian-li-o11-dynamic-evo": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0CGM5HJM8",
+   "amazon.it": null
+  },
+  "lian-li-o11-dynamic-mini": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B09138FCV5",
+   "amazon.it": null
+  },
+  "lian-li-o11-vision": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0CNKXCCVX",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0CNKXCCVX",
+   "amazon.it": null
+  },
+  "montech-air-903-max": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0C98RRPXL",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0C98RRPXL",
+   "amazon.it": null
+  },
+  "montech-king-95": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0CQC8DBB6",
+   "amazon.it": null
+  },
+  "montech-sky-two": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BNT962NF",
+   "amazon.it": null
+  },
+  "montech-xr": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0D5PQTCS9",
+   "amazon.it": null
+  },
+  "nzxt-h1-v2": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "nzxt-h5-elite": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0CM6SSX4D",
+   "amazon.it": null
+  },
+  "nzxt-h5-flow": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0D2MK6NML",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0D2MK6NML",
+   "amazon.it": null
+  },
+  "nzxt-h6-flow": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0C89G9QDK",
+   "amazon.it": null
+  },
+  "nzxt-h7-elite": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "nzxt-h7-flow": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0CV4R1TWS",
+   "amazon.it": null
+  },
+  "nzxt-h9-flow": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0DQPPKNSS",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0DQPPKNSS",
+   "amazon.it": null
+  },
+  "phanteks-eclipse-g360a": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0B3D2Z1C3",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0B3D2Z1C3",
+   "amazon.it": null
+  },
+  "phanteks-evolv-x2": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "phanteks-g400a": {
+   "amazon.co.uk": null,
+   "amazon.com": "B086YSG1RW",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B086YSG1RW",
+   "amazon.it": null
+  },
+  "phanteks-nv7": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BYQSBYYS",
+   "amazon.it": null
+  },
+  "thermaltake-versa-h18-matx": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  }
+ },
+ "coolers": {
+  "arctic-freezer-36": {
+   "amazon.co.uk": null,
+   "amazon.com": "B09VG6NBSJ",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B09VG6NBSJ",
+   "amazon.it": null
+  },
+  "arctic-freezer-36-co": {
+   "amazon.co.uk": null,
+   "amazon.com": "B09VG62KBZ",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B09VG62KBZ",
+   "amazon.it": null
+  },
+  "arctic-liquid-freezer-iii-240": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B09VH4M76W",
+   "amazon.it": null
+  },
+  "arctic-liquid-freezer-iii-280": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0CKXB56MS",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0CKXB56MS",
+   "amazon.it": null
+  },
+  "arctic-liquid-freezer-iii-360": {
+   "amazon.co.uk": null,
+   "amazon.com": "B09VGMGJ7W",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B09VGMGJ7W",
+   "amazon.it": null
+  },
+  "arctic-liquid-freezer-iii-420": {
+   "amazon.co.uk": null,
+   "amazon.com": "B09VGPZ262",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B09VGPZ262",
+   "amazon.it": null
+  },
+  "be-quiet-dark-rock-4": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0FY64YDFT",
+   "amazon.it": null
+  },
+  "be-quiet-dark-rock-elite": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0CJY2QS2W",
+   "amazon.it": null
+  },
+  "be-quiet-dark-rock-pro-4": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "be-quiet-dark-rock-pro-5": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0CJY3DYQ3",
+   "amazon.it": null
+  },
+  "be-quiet-pure-loop-2-fx-280": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "be-quiet-pure-rock-2": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B087VL2Z21",
+   "amazon.it": null
+  },
+  "be-quiet-shadow-rock-3": {
+   "amazon.co.uk": null,
+   "amazon.com": "B084XYKDF4",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B084XYKDF4",
+   "amazon.it": null
+  },
+  "be-quiet-silent-loop-3-360": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0DWZJNH28",
+   "amazon.it": null
+  },
+  "cooler-master-hyper-212": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0068OI7T8",
+   "amazon.it": null
+  },
+  "cooler-master-hyper-212-halo": {
+   "amazon.co.uk": null,
+   "amazon.com": "B07NXZL1CL",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B07NXZL1CL",
+   "amazon.it": null
+  },
+  "cooler-master-hyper-620s": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "corsair-icue-h100i-elite": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0BQWVNZDC",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BQWVNZDC",
+   "amazon.it": null
+  },
+  "corsair-icue-h115i-elite": {
+   "amazon.co.uk": null,
+   "amazon.com": "B09YC262VM",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B09YC262VM",
+   "amazon.it": null
+  },
+  "corsair-icue-h150i-elite": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "corsair-icue-h170i-elite": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0BQWTVYLV",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BQWTVYLV",
+   "amazon.it": null
+  },
+  "corsair-icue-link-titan-360": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0DF79SWMJ",
+   "amazon.it": null
+  },
+  "corsair-nautilus-360-rs": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0FGDMTHY4",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0FGDMTHY4",
+   "amazon.it": null
+  },
+  "deepcool-ak400": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "deepcool-ak500": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "deepcool-ak620": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "deepcool-assassin-iv": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "deepcool-ls720": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "deepcool-lt520": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "deepcool-lt720": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "lian-li-galahad-ii-240": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "lian-li-galahad-ii-360": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "lian-li-galahad-ii-lcd-280": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0FZB474JT",
+   "amazon.it": null
+  },
+  "lian-li-hydroshift-lcd-360": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0D83QQWDD",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0D83QQWDD",
+   "amazon.it": null
+  },
+  "msi-mag-coreliquid-360r2": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "msi-mag-coreliquid-e360": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "noctua-nh-d15": {
+   "amazon.co.uk": null,
+   "amazon.com": "B00L7UZMAK",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B00L7UZMAK",
+   "amazon.it": null
+  },
+  "noctua-nh-d15-g2": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0D5B5B821",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0D5B5B821",
+   "amazon.it": null
+  },
+  "noctua-nh-d15s": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "noctua-nh-l12s": {
+   "amazon.co.uk": null,
+   "amazon.com": "B075SF5QQ8",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B075SF5QQ8",
+   "amazon.it": null
+  },
+  "noctua-nh-u12a": {
+   "amazon.co.uk": null,
+   "amazon.com": "B07PN4RDW3",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B07PN4RDW3",
+   "amazon.it": null
+  },
+  "noctua-nh-u12s-redux": {
+   "amazon.co.uk": null,
+   "amazon.com": "B08WPDD6GD",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B08WPDD6GD",
+   "amazon.it": null
+  },
+  "noctua-nh-u14s": {
+   "amazon.co.uk": null,
+   "amazon.com": "B00C9FLSLY",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B00C9FLSLY",
+   "amazon.it": null
+  },
+  "nzxt-kraken-240": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0BNYQJJLV",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BNYQJJLV",
+   "amazon.it": null
+  },
+  "nzxt-kraken-280": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0BNYQVLSP",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BNYQVLSP",
+   "amazon.it": null
+  },
+  "nzxt-kraken-360": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0BNYQQ97K",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BNYQQ97K",
+   "amazon.it": null
+  },
+  "nzxt-kraken-elite-360": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BNYP87RZ",
+   "amazon.it": null
+  },
+  "nzxt-kraken-elite-420": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0DN4GS9FM",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0DN4GS9FM",
+   "amazon.it": null
+  },
+  "refroidisseur-stock": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "scythe-fuma-3": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0CGZHQ223",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0CGZHQ223",
+   "amazon.it": null
+  },
+  "thermalright-assassin-king-120-se": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0B4VCZ5H9",
+   "amazon.it": null
+  },
+  "thermalright-assassin-x120-r": {
+   "amazon.co.uk": null,
+   "amazon.com": "B09NSTKSHW",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B09NSTKSHW",
+   "amazon.it": null
+  },
+  "thermalright-frost-commander-140": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "thermalright-frozen-notte-360": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BLH6RLBT",
+   "amazon.it": null
+  },
+  "thermalright-peerless-assassin-120": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B09NSTR7JZ",
+   "amazon.it": null
+  },
+  "thermalright-phantom-spirit-120-se": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BTY6ML7S",
+   "amazon.it": null
+  }
+ },
+ "cpus": {
+  "amd-ryzen-3-3100": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0876Y2TMZ",
+   "amazon.it": null
+  },
+  "amd-ryzen-3-3300x": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0876YS2T4",
+   "amazon.it": null
+  },
+  "amd-ryzen-5-1600": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "amd-ryzen-5-2600": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B08G1MTSKR",
+   "amazon.it": null
+  },
+  "amd-ryzen-5-2600x": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B07KFT31DY",
+   "amazon.it": null
+  },
+  "amd-ryzen-5-3600x": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "amd-ryzen-5-5600g": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "amd-ryzen-5-7500f": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0D1CK42PV",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0D1CK42PV",
+   "amazon.it": null
+  },
+  "amd-ryzen-5-9600": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0DS65J9YW",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0DS65J9YW",
+   "amazon.it": null
+  },
+  "amd-ryzen-7-1700": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "amd-ryzen-7-1800x": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B08QVDGLRK",
+   "amazon.it": null
+  },
+  "amd-ryzen-7-2700x": {
+   "amazon.co.uk": null,
+   "amazon.com": "B07B428M7F",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B07B428M7F",
+   "amazon.it": null
+  },
+  "amd-ryzen-7-3700x": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B084F5Q2QD",
+   "amazon.it": null
+  },
+  "amd-ryzen-7-3800x": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B08669ZRP7",
+   "amazon.it": null
+  },
+  "amd-ryzen-7-5700g": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0D9YCRQDP",
+   "amazon.it": null
+  },
+  "amd-ryzen-7-5700x": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B09VCHQHZ6",
+   "amazon.it": null
+  },
+  "amd-ryzen-9-3900x": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "amd-ryzen-9-3950x": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B07ZTYKLZW",
+   "amazon.it": null
+  },
+  "amd-ryzen-9-5950x": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0815Y8J9N",
+   "amazon.it": null
+  },
+  "amd-ryzen-9-7900": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BMQK718H",
+   "amazon.it": null
+  },
+  "amd-ryzen-9-7900x": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BBJ59WJ4",
+   "amazon.it": null
+  },
+  "amd-ryzen-9-7900x3d": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BTRRNK7T",
+   "amazon.it": null
+  },
+  "amd-ryzen-9-7950x": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BBHD5D8Y",
+   "amazon.it": null
+  },
+  "amd-ryzen-9-9900x": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "amd-ryzen-9-9950x": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0DPXN5VRJ",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0DPXN5VRJ",
+   "amazon.it": null
+  },
+  "i3_14100f": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "i5_10400f": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BXGZHCK2",
+   "amazon.it": null
+  },
+  "i5_12400f": {
+   "amazon.co.uk": null,
+   "amazon.com": "B09NPJRDGD",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "i5_12600k": {
+   "amazon.co.uk": null,
+   "amazon.com": "B09LMQLQJ3",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "i5_13400f": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0BQ6BRL4T",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BQ6BRL4T",
+   "amazon.it": null
+  },
+  "i5_13600k": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0BS98MM6K",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "i5_14400f": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0CQ3142LB",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "i5_14600k": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0CHBGVFHP",
+   "amazon.it": null
+  },
+  "i7_10700k": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B086ML4XSB",
+   "amazon.it": null
+  },
+  "i7_11700k": {
+   "amazon.co.uk": null,
+   "amazon.com": "B08TX5KL5T",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B08TX5KL5T",
+   "amazon.it": null
+  },
+  "i7_12700k": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B09FXNVDBJ",
+   "amazon.it": null
+  },
+  "i7_13700k": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "i7_14700k": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": "B0CGJ41C9W",
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "i9_12900k": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "i9_13900k": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0BG67ZG5R",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "i9_14900k": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0H5KQG4CY",
+   "amazon.it": null
+  },
+  "intel-core-i3-10100f": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "intel-core-i3-12100f": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B09MDGKQLY",
+   "amazon.it": null
+  },
+  "intel-core-i5-10600k": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "intel-core-i5-11400f": {
+   "amazon.co.uk": null,
+   "amazon.com": "B093Z4DCHQ",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B093Z4DCHQ",
+   "amazon.it": null
+  },
+  "intel-core-i5-11600k": {
+   "amazon.co.uk": null,
+   "amazon.com": "B091CTD16T",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B091CTD16T",
+   "amazon.it": null
+  },
+  "intel-core-i5-12400": {
+   "amazon.co.uk": null,
+   "amazon.com": "B09MDH6B1P",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B09MDH6B1P",
+   "amazon.it": null
+  },
+  "intel-core-i5-13500": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BQ6CFDCX",
+   "amazon.it": null
+  },
+  "intel-core-i5-14500": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "intel-core-i5-14600kf": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0CHBH63YX",
+   "amazon.it": null
+  },
+  "intel-core-i7-10700": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0883NPRL9",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0883NPRL9",
+   "amazon.it": null
+  },
+  "intel-core-i7-13700f": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "intel-core-i7-14700kf": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0CGJC178L",
+   "amazon.it": null
+  },
+  "intel-core-i9-10900k": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "intel-core-i9-11900k": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B08X6PPTTH",
+   "amazon.it": null
+  },
+  "intel-core-i9-13900kf": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "intel-core-i9-13900ks": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0BVKX19C3",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BVKX19C3",
+   "amazon.it": null
+  },
+  "intel-core-i9-14900kf": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0CHBJXG7G",
+   "amazon.it": null
+  },
+  "intel-core-i9-14900ks": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "intel-core-ultra-5-245kf": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "intel-core-ultra-7-265kf": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "r5_3600": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BL92CBWG",
+   "amazon.it": null
+  },
+  "r5_5500": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B09VCJ171S",
+   "amazon.it": null
+  },
+  "r5_5600": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B09VCHR1VH",
+   "amazon.it": null
+  },
+  "r5_5600x": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B08166SLDF",
+   "amazon.it": null
+  },
+  "r5_5700x3d": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0CQ4H4H7X",
+   "amazon.it": null
+  },
+  "r5_7600": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BMQJWBDM",
+   "amazon.it": null
+  },
+  "r5_7600x": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BBJDS62N",
+   "amazon.it": null
+  },
+  "r5_9600x": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0D6NN6TM7",
+   "amazon.it": null
+  },
+  "r7_5800x": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0815XFSGK",
+   "amazon.it": null
+  },
+  "r7_5800x3d": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0H41D4KFT",
+   "amazon.it": null
+  },
+  "r7_7700": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0C3T39N6P",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0C3T39N6P",
+   "amazon.it": null
+  },
+  "r7_7700x": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BBHHT8LY",
+   "amazon.it": null
+  },
+  "r7_7800x3d": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BTZB7F88",
+   "amazon.it": null
+  },
+  "r7_9700x": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0D6NMDNNX",
+   "amazon.it": null
+  },
+  "r7_9800x3d": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0DKFMSMYK",
+   "amazon.it": null
+  },
+  "r9_5900x": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B08164VTWH",
+   "amazon.it": null
+  },
+  "r9_7950x3d": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BTRH9MNS",
+   "amazon.it": null
+  },
+  "r9_9900x3d": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0DWGWN8GY",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0DWGWN8GY",
+   "amazon.it": null
+  },
+  "r9_9950x3d": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0DVZSG8D5",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0DVZSG8D5",
+   "amazon.it": null
+  },
+  "tr7960x": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0CK2VGBSQ",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0CK2VGBSQ",
+   "amazon.it": null
+  },
+  "tr7970x": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "tr7980x": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0CK2R6DVS",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0CK2R6DVS",
+   "amazon.it": null
+  },
+  "trpro7995wx": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0CK2ZQJZ6",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0CK2ZQJZ6",
+   "amazon.it": null
+  },
+  "ultra5_245k": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "ultra7_265k": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "ultra9_285k": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "xeonw52455x": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0C218RWYR",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0C218RWYR",
+   "amazon.it": null
+  },
+  "xeonw72495x": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0CRG5CQ7R",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0CRG5CQ7R",
+   "amazon.it": null
+  },
+  "xeonw93495x": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  }
+ },
+ "fans": {
+  "arctic_p12_3": {
+   "amazon.co.uk": null,
+   "amazon.com": "B08Y8LZT2X",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B08Y8LZT2X",
+   "amazon.it": null
+  },
+  "arctic_p14_3": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0DPX47W44",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0DPX47W44",
+   "amazon.it": null
+  },
+  "aucun": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "bequiet_silent3": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0B724N8HF",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0B724N8HF",
+   "amazon.it": null
+  },
+  "lianli_sl120_3": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0BLSNG4P3",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BLSNG4P3",
+   "amazon.it": null
+  },
+  "ll120_3": {
+   "amazon.co.uk": null,
+   "amazon.com": "B075VGN4M1",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B075VGN4M1",
+   "amazon.it": null
+  },
+  "noctua_a12_2": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0FH4HS4CF",
+   "amazon.it": null
+  },
+  "nzxt_f120rgb_3": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0BYN32YCB",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BYN32YCB",
+   "amazon.it": null
+  }
+ },
+ "gpus": {
+  "amd-rx-550": {
+   "amazon.co.uk": null,
+   "amazon.com": "B08VHWFWSD",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B08VHWFWSD",
+   "amazon.it": null
+  },
+  "amd-rx-5500-xt": {
+   "amazon.co.uk": null,
+   "amazon.com": "B082Q1ZFNX",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B082Q1ZFNX",
+   "amazon.it": null
+  },
+  "amd-rx-560": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0FF1WKLWW",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0FF1WKLWW",
+   "amazon.it": null
+  },
+  "amd-rx-5600-xt": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0842SYVQQ",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0842SYVQQ",
+   "amazon.it": null
+  },
+  "amd-rx-570": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0785Q6DYP",
+   "amazon.it": null
+  },
+  "amd-rx-5700": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B07WFQQLBG",
+   "amazon.it": null
+  },
+  "amd-rx-5700-xt": {
+   "amazon.co.uk": null,
+   "amazon.com": "B07WNYZJ7Y",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B07WNYZJ7Y",
+   "amazon.it": null
+  },
+  "amd-rx-580": {
+   "amazon.co.uk": null,
+   "amazon.com": "B06Y66K3XD",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B06Y66K3XD",
+   "amazon.it": null
+  },
+  "amd-rx-590": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0C61PR3ZD",
+   "amazon.it": null
+  },
+  "amd-rx-6400": {
+   "amazon.co.uk": null,
+   "amazon.com": "B09WF47XF4",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B09WF47XF4",
+   "amazon.it": null
+  },
+  "amd-rx-6500-xt": {
+   "amazon.co.uk": null,
+   "amazon.com": "B09R1RVN3R",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B09R1RVN3R",
+   "amazon.it": null
+  },
+  "amd-rx-6600-xt": {
+   "amazon.co.uk": null,
+   "amazon.com": "B099Y6439Y",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B099Y6439Y",
+   "amazon.it": null
+  },
+  "amd-rx-6700": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "amd-rx-6900-xt": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B08RWZLDPN",
+   "amazon.it": null
+  },
+  "amd-rx-6950-xt": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0BKPT56HK",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BKPT56HK",
+   "amazon.it": null
+  },
+  "amd-rx-7600-xt": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B086ZSQ8WX",
+   "amazon.it": null
+  },
+  "amd-rx-9060-xt-8g": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0FBRT1XJM",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0FBRT1XJM",
+   "amazon.it": null
+  },
+  "arca750": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0BM4QGB5K",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BM4QGB5K",
+   "amazon.it": null
+  },
+  "arcb580": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0DNV4NRK5",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0DNV4NRK5",
+   "amazon.it": null
+  },
+  "gtx1080ti": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": "B06XSB4NW2",
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "gtx1660s": {
+   "amazon.co.uk": null,
+   "amazon.com": "B07ZHWQ81N",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B07ZHWQ81N",
+   "amazon.it": null
+  },
+  "intel-arc-a380": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0BFD8DSM3",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BFD8DSM3",
+   "amazon.it": null
+  },
+  "intel-arc-a580": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0CJGSP9R7",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0CJGSP9R7",
+   "amazon.it": null
+  },
+  "intel-arc-a770": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0DF7PC2MV",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0DF7PC2MV",
+   "amazon.it": null
+  },
+  "intel-arc-b570": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0DR337DJG",
+   "amazon.it": null
+  },
+  "nvidia-gtx-1050": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0DG5HW5MX",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0DG5HW5MX",
+   "amazon.it": null
+  },
+  "nvidia-gtx-1050-ti": {
+   "amazon.co.uk": null,
+   "amazon.com": "B01M360WG6",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B01M360WG6",
+   "amazon.it": null
+  },
+  "nvidia-gtx-1060-3g": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B01KHWOAR4",
+   "amazon.it": null
+  },
+  "nvidia-gtx-1060-6g": {
+   "amazon.co.uk": null,
+   "amazon.com": "B01I5O5AP2",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B01I5O5AP2",
+   "amazon.it": null
+  },
+  "nvidia-gtx-1070": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B01GRCYPE6",
+   "amazon.it": null
+  },
+  "nvidia-gtx-1070-ti": {
+   "amazon.co.uk": null,
+   "amazon.com": "B076RCTXGX",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B076RCTXGX",
+   "amazon.it": null
+  },
+  "nvidia-gtx-1080": {
+   "amazon.co.uk": null,
+   "amazon.com": "B01GELBO1C",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B01GELBO1C",
+   "amazon.it": null
+  },
+  "nvidia-gtx-1650": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "nvidia-gtx-1650-super": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B09MFXMMD6",
+   "amazon.it": null
+  },
+  "nvidia-gtx-1660": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B07P66WG5D",
+   "amazon.it": null
+  },
+  "nvidia-gtx-1660-ti": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B07NJPKZQG",
+   "amazon.it": null
+  },
+  "nvidia-gtx-950": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BSFZMJDK",
+   "amazon.it": null
+  },
+  "nvidia-gtx-960": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "nvidia-gtx-970": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B00NOP536Y",
+   "amazon.it": null
+  },
+  "nvidia-gtx-980": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "nvidia-gtx-980-ti": {
+   "amazon.co.uk": null,
+   "amazon.com": "B017YPHVGO",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B017YPHVGO",
+   "amazon.it": null
+  },
+  "nvidia-rtx-2060-super": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B07TZ55K6J",
+   "amazon.it": null
+  },
+  "nvidia-rtx-2070": {
+   "amazon.co.uk": null,
+   "amazon.com": "B07JBTS8HR",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B07JBTS8HR",
+   "amazon.it": null
+  },
+  "nvidia-rtx-2080": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B07GQYQ2YW",
+   "amazon.it": null
+  },
+  "nvidia-rtx-2080-super": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B07VGM29BZ",
+   "amazon.it": null
+  },
+  "nvidia-rtx-2080-ti": {
+   "amazon.co.uk": null,
+   "amazon.com": "B07HNMT91C",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B07HNMT91C",
+   "amazon.it": null
+  },
+  "nvidia-rtx-3050-6g": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0CSPRNRZC",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0CSPRNRZC",
+   "amazon.it": null
+  },
+  "nvidia-rtx-3080-12g": {
+   "amazon.co.uk": null,
+   "amazon.com": "B09TNLQRSJ",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B09TNLQRSJ",
+   "amazon.it": null
+  },
+  "nvidia-rtx-5060-ti-8g": {
+   "amazon.co.uk": null,
+   "amazon.com": "B096Z886F8",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B096Z886F8",
+   "amazon.it": null
+  },
+  "radprow7600": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "radprow7700": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0CQ8R7J1M",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0CQ8R7J1M",
+   "amazon.it": null
+  },
+  "radprow7800": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0D9JSNTSZ",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0D9JSNTSZ",
+   "amazon.it": null
+  },
+  "radprow7900": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0C5DK4R3G",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0C5DK4R3G",
+   "amazon.it": null
+  },
+  "rtx2000ada": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0CYQH4LLL",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0CYQH4LLL",
+   "amazon.it": null
+  },
+  "rtx2060": {
+   "amazon.co.uk": null,
+   "amazon.com": "B07QC8RSZB",
+   "amazon.com.au": null,
+   "amazon.de": "B07QC8RSZB",
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "rtx2070s": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B07V5CMYMF",
+   "amazon.it": null
+  },
+  "rtx3050": {
+   "amazon.co.uk": null,
+   "amazon.com": "B09R1Q4P2K",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B09R1Q4P2K",
+   "amazon.it": null
+  },
+  "rtx3060": {
+   "amazon.co.uk": null,
+   "amazon.com": "B08WHML7GL",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B08WHML7GL",
+   "amazon.it": null
+  },
+  "rtx3060ti": {
+   "amazon.co.uk": null,
+   "amazon.com": "B08PW559LL",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B08PW559LL",
+   "amazon.it": null
+  },
+  "rtx3070": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B08LNPPCWJ",
+   "amazon.it": null
+  },
+  "rtx3070ti": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0957VHM86",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0957VHM86",
+   "amazon.it": null
+  },
+  "rtx3080": {
+   "amazon.co.uk": null,
+   "amazon.com": "B09J1QCT9Y",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "rtx3080ti": {
+   "amazon.co.uk": null,
+   "amazon.com": "B09WSC85GP",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "rtx3090": {
+   "amazon.co.uk": null,
+   "amazon.com": "B08HR6ZBYJ",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "rtx3090ti": {
+   "amazon.co.uk": null,
+   "amazon.com": "B09X4JVZB5",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "rtx4000ada": {
+   "amazon.co.uk": null,
+   "amazon.com": "B093YQ9WQJ",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B093YQ9WQJ",
+   "amazon.it": null
+  },
+  "rtx4060": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0C7W8GZMJ",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "rtx4060ti": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0CVPHDLTD",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "rtx4060ti16": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0CBSLHGF9",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0CBSLHGF9",
+   "amazon.it": null
+  },
+  "rtx4070": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0BZHCQ6PF",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "rtx4070s": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0CSJV61BN",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "rtx4070ti": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0BZZML1LG",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BZZML1LG",
+   "amazon.it": null
+  },
+  "rtx4070tis": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0DC6HYBYR",
+   "amazon.com.au": null,
+   "amazon.de": "B0DC6HYBYR",
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "rtx4080": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0BKK3RFT6",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BKK3RFT6",
+   "amazon.it": null
+  },
+  "rtx4080s": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0CS6XC69Y",
+   "amazon.it": null
+  },
+  "rtx4090": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": "B0BHD8MTST",
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "rtx4500ada": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0CJQH8519",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0CJQH8519",
+   "amazon.it": null
+  },
+  "rtx5000ada": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0CKPTSVG4",
+   "amazon.it": null
+  },
+  "rtx5050": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0FRPFG6NW",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0FRPFG6NW",
+   "amazon.it": null
+  },
+  "rtx5060": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0F6NLT7M4",
+   "amazon.com.au": null,
+   "amazon.de": "B0F6NLT7M4",
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "rtx5060ti": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0F8BR2H6Z",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0F8BR2H6Z",
+   "amazon.it": null
+  },
+  "rtx5070": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0DYPFY7JG",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0DYPFY7JG",
+   "amazon.it": null
+  },
+  "rtx5070ti": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0DZD6QV9L",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0DZD6QV9L",
+   "amazon.it": null
+  },
+  "rtx5070tis": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "rtx5080": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0DS65KD1C",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0DS65KD1C",
+   "amazon.it": null
+  },
+  "rtx5090": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0DTHV8THW",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0DTHV8THW",
+   "amazon.it": null
+  },
+  "rtx6000ada": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B07K8D4T7N",
+   "amazon.it": null
+  },
+  "rtxpro6000bw": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0FW53295F",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0FW53295F",
+   "amazon.it": null
+  },
+  "rx6600": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B09J8879JC",
+   "amazon.it": null
+  },
+  "rx6650xt": {
+   "amazon.co.uk": null,
+   "amazon.com": "B09VYHB8XG",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B09VYHB8XG",
+   "amazon.it": null
+  },
+  "rx6700xt": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B002TCB038",
+   "amazon.it": null
+  },
+  "rx6750xt": {
+   "amazon.co.uk": null,
+   "amazon.com": "B09YHTMKL2",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B09YHTMKL2",
+   "amazon.it": null
+  },
+  "rx6800": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "rx6800xt": {
+   "amazon.co.uk": null,
+   "amazon.com": "B08QVRZH3C",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B08QVRZH3C",
+   "amazon.it": null
+  },
+  "rx7600": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0DR25XD68",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "rx7700xt": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0CGMBYMY6",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0CGMBYMY6",
+   "amazon.it": null
+  },
+  "rx7800xt": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0CGRMJF6C",
+   "amazon.it": null
+  },
+  "rx7900gre": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0CVX5D7HR",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0CVX5D7HR",
+   "amazon.it": null
+  },
+  "rx7900xt": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0BR6L7TKR",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "rx7900xtx": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0BT524DL4",
+   "amazon.com.au": null,
+   "amazon.de": "B0BT524DL4",
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "rx9060xt": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0GVFY8P5C",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0GVFY8P5C",
+   "amazon.it": null
+  },
+  "rx9070": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0DRPRN49L",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0DRPRN49L",
+   "amazon.it": null
+  },
+  "rx9070xt": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0DRPRZMK2",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0DRPRZMK2",
+   "amazon.it": null
+  }
+ },
+ "mobos": {
+  "a620m": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "asrock-b450m-pro4": {
+   "amazon.co.uk": null,
+   "amazon.com": "B09JM6QYG1",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B09JM6QYG1",
+   "amazon.it": null
+  },
+  "asrock-b760m-pro-rs": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0BQWR37J4",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BQWR37J4",
+   "amazon.it": null
+  },
+  "asrock-x870e-taichi": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "asrock-z890-taichi-ocf": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0DJRPLRJB",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0DJRPLRJB",
+   "amazon.it": null
+  },
+  "asus-prime-a520m-k": {
+   "amazon.co.uk": null,
+   "amazon.com": "B08DQB2GDN",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B08DQB2GDN",
+   "amazon.it": null
+  },
+  "asus-prime-b860-plus": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0DPMQHPZM",
+   "amazon.it": null
+  },
+  "asus-prime-x870-p": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "asus-prime-z690-p": {
+   "amazon.co.uk": null,
+   "amazon.com": "B09JM88DHR",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B09JM88DHR",
+   "amazon.it": null
+  },
+  "asus-rog-strix-b550-f": {
+   "amazon.co.uk": null,
+   "amazon.com": "B089HFR9CX",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B089HFR9CX",
+   "amazon.it": null
+  },
+  "asus-rog-strix-b650e-f": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "asus-rog-strix-b650e-i": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BHHVC3BS",
+   "amazon.it": null
+  },
+  "asus-rog-strix-z790-e": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B07MB83GKR",
+   "amazon.it": null
+  },
+  "asus-rog-strix-z890-a": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0DJDF92JW",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0DJDF92JW",
+   "amazon.it": null
+  },
+  "asus-tuf-b650-plus": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0BHJKR3BV",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BHJKR3BV",
+   "amazon.it": null
+  },
+  "asus-tuf-x570-plus": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "b450-tomahawk": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "b550-aorus": {
+   "amazon.co.uk": null,
+   "amazon.com": "B08BR1XDX5",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B08BR1XDX5",
+   "amazon.it": null
+  },
+  "b550-tuf": {
+   "amazon.co.uk": null,
+   "amazon.com": "B09K4QMPL9",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B09K4QMPL9",
+   "amazon.it": null
+  },
+  "b550m-pro": {
+   "amazon.co.uk": null,
+   "amazon.com": "B089D1YG11",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "b650-pg-itx": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0BK5515B9",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BK5515B9",
+   "amazon.it": null
+  },
+  "b650-steel": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0CXPXBF2M",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "b650-tomahawk": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0BDS873GF",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BDS873GF",
+   "amazon.it": null
+  },
+  "b650e-pg": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0BHDR53BR",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BHDR53BR",
+   "amazon.it": null
+  },
+  "b650m-ds3h": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BKL4JJD8",
+   "amazon.it": null
+  },
+  "b650m-mortar": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0BHC39YG7",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "b760-pro": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0BRYY69YD",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BRYY69YD",
+   "amazon.it": null
+  },
+  "b760-tuf": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "b760m-itx": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0BQWQ9QPK",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BQWQ9QPK",
+   "amazon.it": null
+  },
+  "b760m-mortar": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0BNLNTW5Q",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BNLNTW5Q",
+   "amazon.it": null
+  },
+  "b860-gaming": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "gigabyte-a520m-s2h": {
+   "amazon.co.uk": null,
+   "amazon.com": "B08F7HPJ4F",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "gigabyte-a620m-gaming": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0C1ZZ57ZW",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0C1ZZ57ZW",
+   "amazon.it": null
+  },
+  "gigabyte-b450m-ds3h": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "gigabyte-b660-ds3h": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B09PVMDTKW",
+   "amazon.it": null
+  },
+  "gigabyte-x670e-aorus-master": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "h610m": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "msi-mag-x870-tomahawk": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0DG3HK897",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "msi-mpg-b650-edge": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BDS4BYTR",
+   "amazon.it": null
+  },
+  "msi-pro-b660m-a": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "msi-pro-b860m-a": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0BSNBHCK1",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BSNBHCK1",
+   "amazon.it": null
+  },
+  "x570-aorus": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B07TSKR7ZX",
+   "amazon.it": null
+  },
+  "x670-strix": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "x670e-hero": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0BF5PKJ8P",
+   "amazon.com.au": null,
+   "amazon.de": "B0BF5PKJ8P",
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "x870e-aorus": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0DGVBM73J",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "z690-edge": {
+   "amazon.co.uk": null,
+   "amazon.com": "B09HK7F7KD",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B09HK7F7KD",
+   "amazon.it": null
+  },
+  "z790-aorus": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0BH28M64J",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BH28M64J",
+   "amazon.it": null
+  },
+  "z790-apex": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B07MDV2FW2",
+   "amazon.it": null
+  },
+  "z790-edge": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B09YLL91V6",
+   "amazon.it": null
+  },
+  "z790-itx": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "z890-aorus": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "z890-carbon": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0DJPTRFN6",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "z890-itx": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  }
+ },
+ "psus": {
+  "asus-rog-strix-1000w": {
+   "amazon.co.uk": null,
+   "amazon.com": "B09T9NQZY7",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B09T9NQZY7",
+   "amazon.it": null
+  },
+  "asus-tuf-gaming-750w": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BK54TKB9",
+   "amazon.it": null
+  },
+  "be-quiet-dark-power-13-1000w": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "be-quiet-dark-power-13-850w": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "be-quiet-pure-power-12-m-550w": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0DLH7PRGY",
+   "amazon.it": null
+  },
+  "be-quiet-pure-power-12-m-650w": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BT33WJ38",
+   "amazon.it": null
+  },
+  "be-quiet-pure-power-12-m-750w": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BT2YZGZK",
+   "amazon.it": null
+  },
+  "be-quiet-pure-power-12-m-850w": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BT2Y1LKQ",
+   "amazon.it": null
+  },
+  "be-quiet-straight-power-12-1000w": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0C86H1MM9",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0C86H1MM9",
+   "amazon.it": null
+  },
+  "be-quiet-straight-power-12-750w": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B08Y5GB5V4",
+   "amazon.it": null
+  },
+  "be-quiet-straight-power-12-850w": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0C86K2RP7",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0C86K2RP7",
+   "amazon.it": null
+  },
+  "be-quiet-system-power-10-450w": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "be-quiet-system-power-10-550w": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "cooler-master-mwe-gold-750-v2": {
+   "amazon.co.uk": null,
+   "amazon.com": "B08M9LDLXH",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B08M9LDLXH",
+   "amazon.it": null
+  },
+  "cooler-master-mwe-gold-850-v2": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0DHGX4B5Y",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0DHGX4B5Y",
+   "amazon.it": null
+  },
+  "corsair-ax1600i": {
+   "amazon.co.uk": null,
+   "amazon.com": "B078X274ML",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B078X274ML",
+   "amazon.it": null
+  },
+  "corsair-cx550": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0CJRVGGPS",
+   "amazon.it": null
+  },
+  "corsair-cx650": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "corsair-cx750": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B06XCMGJV8",
+   "amazon.it": null
+  },
+  "corsair-hx1000i": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "corsair-hx1200": {
+   "amazon.co.uk": null,
+   "amazon.com": "B01MZ8A8NW",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B01MZ8A8NW",
+   "amazon.it": null
+  },
+  "corsair-hx850": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "corsair-rm1000e": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0BBWF227X",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BBWF227X",
+   "amazon.it": null
+  },
+  "corsair-rm1000x": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0CXF69J6G",
+   "amazon.it": null
+  },
+  "corsair-rm650e": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "corsair-rm650x": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B015Q7F3NA",
+   "amazon.it": null
+  },
+  "corsair-rm750e": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0B7XVSFYB",
+   "amazon.it": null
+  },
+  "corsair-rm750x": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "corsair-rm850e": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0B7XM98VK",
+   "amazon.it": null
+  },
+  "corsair-rm850x": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "corsair-sf750": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "evga-supernova-1200-p6": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "gigabyte-ud1000gm-pg5": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "gigabyte-ud850gm": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "msi-mag-a550bn": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0991W1HKT",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0991W1HKT",
+   "amazon.it": null
+  },
+  "msi-mag-a650gl": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0CGFZVGF9",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0CGFZVGF9",
+   "amazon.it": null
+  },
+  "msi-mag-a750gl": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0CC3QBGDL",
+   "amazon.it": null
+  },
+  "msi-mag-a850gl": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "msi-meg-ai1300p": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "msi-mpg-a1000g": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "msi-mpg-a750g": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0B434JDXG",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0B434JDXG",
+   "amazon.it": null
+  },
+  "nzxt-c1000-gold": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0DCJDCHRV",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0DCJDCHRV",
+   "amazon.it": null
+  },
+  "nzxt-c750-gold": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "nzxt-c850-gold": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0DCJCGZW5",
+   "amazon.it": null
+  },
+  "seasonic-focus-gx-1000": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "seasonic-focus-gx-550": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "seasonic-focus-gx-650": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "seasonic-focus-gx-750": {
+   "amazon.co.uk": null,
+   "amazon.com": "B077J9G9CH",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B077J9G9CH",
+   "amazon.it": null
+  },
+  "seasonic-focus-gx-850": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0CSN7KNF6",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0CSN7KNF6",
+   "amazon.it": null
+  },
+  "seasonic-prime-tx-1000": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B07WDQTTWH",
+   "amazon.it": null
+  },
+  "seasonic-prime-tx-850": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "seasonic-vertex-gx-1000": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "thermaltake-toughpower-gf3-1000w": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "thermaltake-toughpower-gf3-850w": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BF5SYZX6",
+   "amazon.it": null
+  }
+ },
+ "rams": {
+  "ddr3_16_1600c10": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0076W9Q5A",
+   "amazon.it": null
+  },
+  "ddr3_16_1866c10": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B00EOTVZV6",
+   "amazon.it": null
+  },
+  "ddr3_16_2133c11": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B00CMWRV56",
+   "amazon.it": null
+  },
+  "ddr3_8_1600c9": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "ddr3_8_1866c9": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "ddr4_16_2666c16": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0123ZC44Y",
+   "amazon.it": null
+  },
+  "ddr4_16_3000c15": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B083TSBY82",
+   "amazon.it": null
+  },
+  "ddr4_16_3000c16": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B01IW7Z66U",
+   "amazon.it": null
+  },
+  "ddr4_16_3200c14": {
+   "amazon.co.uk": null,
+   "amazon.com": "B08TC44N2Q",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B08TC44N2Q",
+   "amazon.it": null
+  },
+  "ddr4_16_3200c16": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0143UM4TC",
+   "amazon.it": null
+  },
+  "ddr4_16_3600c14": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B07VPF5NCH",
+   "amazon.it": null
+  },
+  "ddr4_16_3600c16": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B07VPF5NCH",
+   "amazon.it": null
+  },
+  "ddr4_32_3200c14": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "ddr4_32_3200c16": {
+   "amazon.co.uk": null,
+   "amazon.com": "B07RW6Z692",
+   "amazon.com.au": null,
+   "amazon.de": "B07RW6Z692",
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "ddr4_32_3600c16": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "ddr4_32_3600c18": {
+   "amazon.co.uk": null,
+   "amazon.com": "B07Z87ZMN3",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B07Z87ZMN3",
+   "amazon.it": null
+  },
+  "ddr4_32_4000c18": {
+   "amazon.co.uk": null,
+   "amazon.com": "B07Z86WG45",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B07Z86WG45",
+   "amazon.it": null
+  },
+  "ddr4_64_3200c16": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B07Y4ZZ7LQ",
+   "amazon.it": null
+  },
+  "ddr4_64_3600c18": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": "B0879LFQ63",
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "ddr4_8_2666c16": {
+   "amazon.co.uk": null,
+   "amazon.com": "B07MDHT3B5",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B07MDHT3B5",
+   "amazon.it": null
+  },
+  "ddr4_8_3200c16": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "ddr5_128_5600c40": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0DSR5P84D",
+   "amazon.it": null
+  },
+  "ddr5_16_4800c38": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0B1QMMRZX",
+   "amazon.it": null
+  },
+  "ddr5_16_4800c40": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B09HW2JNHX",
+   "amazon.it": null
+  },
+  "ddr5_16_5200c40": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B09KCM59ZK",
+   "amazon.it": null
+  },
+  "ddr5_16_5600c36": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BRTJCLBJ",
+   "amazon.it": null
+  },
+  "ddr5_16_6000c30": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "ddr5_16_6000c36": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0DN5SD5LN",
+   "amazon.it": null
+  },
+  "ddr5_32_4800c40": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BLTFFBL9",
+   "amazon.it": null
+  },
+  "ddr5_32_5200c40": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0B1QP3FKQ",
+   "amazon.it": null
+  },
+  "ddr5_32_5600c36": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0BHVFDP42",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BHVFDP42",
+   "amazon.it": null
+  },
+  "ddr5_32_5600c40": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0CJ92G4RR",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0CJ92G4RR",
+   "amazon.it": null
+  },
+  "ddr5_32_6000c28": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0DV9PLPBL",
+   "amazon.it": null
+  },
+  "ddr5_32_6000c30": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "ddr5_32_6000c32": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0CYM3WSHX",
+   "amazon.it": null
+  },
+  "ddr5_32_6000c36": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0DN5S68H3",
+   "amazon.it": null
+  },
+  "ddr5_32_6400c30": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0BPL82FD9",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BPL82FD9",
+   "amazon.it": null
+  },
+  "ddr5_32_6400c32": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BQWXTDWN",
+   "amazon.it": null
+  },
+  "ddr5_32_6400c34": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0BT85LK5P",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BT85LK5P",
+   "amazon.it": null
+  },
+  "ddr5_32_6600c32": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0CHSBWH5Q",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0CHSBWH5Q",
+   "amazon.it": null
+  },
+  "ddr5_32_7200c34": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BJ81HV3N",
+   "amazon.it": null
+  },
+  "ddr5_32_7200c36": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0C1PD1PF8",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0C1PD1PF8",
+   "amazon.it": null
+  },
+  "ddr5_32_7600c36": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0BNGLDD88",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BNGLDD88",
+   "amazon.it": null
+  },
+  "ddr5_32_8000c38": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BRL75D7Y",
+   "amazon.it": null
+  },
+  "ddr5_32_8000c40": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BF6ZQ8MY",
+   "amazon.it": null
+  },
+  "ddr5_48_5600c40": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0BVN1YZKV",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BVN1YZKV",
+   "amazon.it": null
+  },
+  "ddr5_48_6000c30": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "ddr5_48_6400c32": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "ddr5_48_7200c36": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0C2B1GB7H",
+   "amazon.it": null
+  },
+  "ddr5_64_5600c40": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "ddr5_64_6000c30": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0CRSZCQNH",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "ddr5_64_6000c32": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BZJJ9Q61",
+   "amazon.it": null
+  },
+  "ddr5_64_6400c32": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0CYH8MD2Y",
+   "amazon.it": null
+  },
+  "ddr5_96_5600c40": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0BVN1FLKN",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BVN1FLKN",
+   "amazon.it": null
+  },
+  "ddr5_96_6000c30": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "ddr5_96_6400c32": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  }
+ },
+ "ssds": {
+  "hdd-5400": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B071F9MLJJ",
+   "amazon.it": null
+  },
+  "hdd-7200": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "hdd-barracuda": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B07H24QRS1",
+   "amazon.it": null
+  },
+  "hdd-barracuda-1tb": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "hdd-firecuda-2tb": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B08Y1T4CR5",
+   "amazon.it": null
+  },
+  "hdd-p300-1tb": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "hdd-wdblack-4tb": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0B7CQ2CHH",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0B7CQ2CHH",
+   "amazon.it": null
+  },
+  "hdd-wdblue-2tb": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B083FCN76G",
+   "amazon.it": null
+  },
+  "nvme-9100pro-2tb": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0DWFLPMM5",
+   "amazon.it": null
+  },
+  "nvme-970evo-1tb": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B07MBQPQ62",
+   "amazon.it": null
+  },
+  "nvme-980pro": {
+   "amazon.co.uk": null,
+   "amazon.com": "B08GS7748F",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B08GS7748F",
+   "amazon.it": null
+  },
+  "nvme-980pro-2t": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B08QJHLC8J",
+   "amazon.it": null
+  },
+  "nvme-990evo": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0DGH2FH7T",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0DGH2FH7T",
+   "amazon.it": null
+  },
+  "nvme-990evo-1tb": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0CP43PS7B",
+   "amazon.it": null
+  },
+  "nvme-990pro": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0B9C3ZVHR",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0B9C3ZVHR",
+   "amazon.it": null
+  },
+  "nvme-990pro-4tb": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0CBYZ6DD1",
+   "amazon.it": null
+  },
+  "nvme-a440": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "nvme-fc530-1tb": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0977LW48F",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0977LW48F",
+   "amazon.it": null
+  },
+  "nvme-fc540-2tb": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "nvme-firecuda": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BX4HGFGV",
+   "amazon.it": null
+  },
+  "nvme-fury": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "nvme-kc3000-1tb": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "nvme-legend960-1tb": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "nvme-mp600gs-1tb": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "nvme-mp600pro-1tb": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "nvme-mp700-2tb": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0CM42DVBR",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0CM42DVBR",
+   "amazon.it": null
+  },
+  "nvme-nv2-1tb": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "nvme-p3": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "nvme-p3-1tb": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "nvme-p3-500": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0B25LQQPC",
+   "amazon.it": null
+  },
+  "nvme-p3plus": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "nvme-p41": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BB4GBGLD",
+   "amazon.it": null
+  },
+  "nvme-rocket4-1tb": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "nvme-sn350-1tb": {
+   "amazon.co.uk": null,
+   "amazon.com": "B09DVQQL9G",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B09DVQQL9G",
+   "amazon.it": null
+  },
+  "nvme-sn570": {
+   "amazon.co.uk": null,
+   "amazon.com": "B09HKDQ1RN",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B09HKDQ1RN",
+   "amazon.it": null
+  },
+  "nvme-sn570-1tb": {
+   "amazon.co.uk": null,
+   "amazon.com": "B09HKDQ1RN",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B09HKDQ1RN",
+   "amazon.it": null
+  },
+  "nvme-sn770": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "nvme-sn770-1tb": {
+   "amazon.co.uk": null,
+   "amazon.com": "B09QV692XY",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B09QV692XY",
+   "amazon.it": null
+  },
+  "nvme-sn770-250": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B09QVP977F",
+   "amazon.it": null
+  },
+  "nvme-sn8100-2tb": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0F3BD1W6R",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0F3BD1W6R",
+   "amazon.it": null
+  },
+  "nvme-sn850x": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0B7CPSN2K",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0B7CPSN2K",
+   "amazon.it": null
+  },
+  "nvme-sn850x-1tb": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0B7CPSN2K",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0B7CPSN2K",
+   "amazon.it": null
+  },
+  "nvme-sn850x-4t": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0D9WTKV1B",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0D9WTKV1B",
+   "amazon.it": null
+  },
+  "nvme-t500": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "nvme-t500-1tb": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "nvme-t500-2tb": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "nvme-t700": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0C3K1QBSG",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0C3K1QBSG",
+   "amazon.it": null
+  },
+  "nvme-t700-2tb": {
+   "amazon.co.uk": null,
+   "amazon.com": "B0C3K7MTSY",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0C3K7MTSY",
+   "amazon.it": null
+  },
+  "nvme-t705": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "nvme-t705-2tb": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0CTS93WML",
+   "amazon.it": null
+  },
+  "sata-870-250": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "sata-870evo": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "sata-870qvo-1tb": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B089QXQ1TV",
+   "amazon.it": null
+  },
+  "sata-a400-480": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0BWDWJPPM",
+   "amazon.it": null
+  },
+  "sata-blue": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B073SB2MXT",
+   "amazon.it": null
+  },
+  "sata-bx500-1tb": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "sata-mx500": {
+   "amazon.co.uk": null,
+   "amazon.com": "B078211KBB",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B078211KBB",
+   "amazon.it": null
+  },
+  "sata-redsa500-1tb": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
+  },
+  "sata-sandisk-1tb": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B071KGRXRG",
+   "amazon.it": null
+  }
+ }
+}

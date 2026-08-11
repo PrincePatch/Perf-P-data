@@ -77,14 +77,19 @@ _ASIN_URL = re.compile(r"amazon\.[a-z.]+/(?:[^?#]*/)?(?:dp|gp/product)/(B[A-Z0-9
 MOTEURS = ["bing", "auto"]
 
 
-def candidats_moteur(q, pause):
-    """ASIN plausibles pour [q], vus par un moteur de recherche généraliste."""
+def candidats_moteur(q, pause, domaine="amazon.fr"):
+    """ASIN plausibles pour [q], vus par un moteur de recherche généraliste.
+
+    [domaine] restreint la recherche à une marketplace : un composant absent du
+    catalogue français existe souvent sur `.de` ou `.com`, et l'ASIN trouvé là
+    vaut ensuite pour toutes les marketplaces où la fiche existe.
+    """
     from ddgs import DDGS
     for moteur in MOTEURS:
         out = []
         try:
             with DDGS() as d:
-                for r in d.text(f"site:amazon.fr {q}", max_results=10,
+                for r in d.text(f"site:{domaine} {q}", max_results=10,
                                 backend=moteur):
                     m = _ASIN_URL.search(r.get("href") or "")
                     if m and m.group(1) not in out:
@@ -290,6 +295,11 @@ def principal():
                     help="fiches consultées au plus par marketplace")
     ap.add_argument("--recheck", action="store_true",
                     help="retenter les composants marqués introuvables")
+    ap.add_argument("--completer", action="store_true",
+                    help="compléter les marketplaces manquantes des composants "
+                         "DÉJÀ résolus (rend les liens natifs au lieu de "
+                         "passer par OneLink) — aucune recherche, uniquement "
+                         "la lecture des fiches")
     args = ap.parse_args()
 
     marches = [m.strip() for m in args.markets.split(",") if m.strip() in TAGS]
@@ -329,6 +339,44 @@ def principal():
         for it in items:
             cid, nom = it["id"], it.get("name", "")
             connus = cat_cache.get(cid)
+
+            # --- mode COMPLÉTION : on ne cherche rien de neuf, on vérifie
+            # seulement si l'ASIN déjà retenu existe AUSSI sur les marketplaces
+            # restées vides. Chaque succès transforme un rebond OneLink en lien
+            # natif, avec le Partner Tag du pays.
+            if args.completer:
+                asin = next((a for a in (connus or {}).values() if a), None)
+                # `None` = pas encore vérifiée · `False` = vérifiée, la fiche
+                # n'existe pas là-bas. Sans cette distinction, une marketplace
+                # sans le produit était re-testée à CHAQUE passe et les vagues
+                # tournaient en rond sur les mêmes composants.
+                manquantes = [m for m in marches if (connus or {}).get(m) is None]
+                if not asin or not manquantes:
+                    n_saute += 1
+                    continue
+                jetons = _jetons(cat, it)
+                gagnees = []
+                for m in manquantes:
+                    # Un seul essai : une marketplace qui bride reste « à
+                    # vérifier » et sera reprise à la passe suivante. Réessayer
+                    # sur place coûtait 5 s par marketplace, soit une trentaine
+                    # de secondes par composant.
+                    etat, t = sources[m].fiche(asin, essais=1)
+                    if etat == "ok" and valide(cat, nom, t, jetons, souple=True):
+                        connus[m] = asin
+                        gagnees.append(m)
+                    elif etat != "bloque":
+                        connus[m] = False  # absence CONSTATÉE, ne plus retester
+                if gagnees:
+                    n_ok += 1
+                    print(f"  + {cat}/{cid}: +{len(gagnees)} natives "
+                          f"({', '.join(m.split('.', 1)[1] for m in gagnees)})",
+                          flush=True)
+                else:
+                    n_ko += 1
+                ecrire()
+                continue
+
             # Déjà résolu (au moins une marketplace valide) → on ne recommence
             # pas : l'exécution est reprenable et le quota DDG précieux.
             if connus and any(connus.values()) and not args.recheck:
@@ -365,15 +413,20 @@ def principal():
             # Trois pistes AU PLUS. Les épuiser toutes coûtait ~50 s par
             # composant introuvable, pour un gain marginal : le catalogue
             # entier y passait la nuit.
-            plans = [(None, requetes[0])]
-            plans += [(None, r) for r in requetes[1:]]
-            plans += [(ORDRE_DECOUVERTE[0], requetes[0])]
+            plans = [(None, requetes[0], "amazon.fr")]
+            plans += [(None, r, "amazon.fr") for r in requetes[1:]]
+            plans += [(ORDRE_DECOUVERTE[0], requetes[0], None)]
+            # Catalogues voisins : beaucoup de composants absents d'amazon.fr
+            # sont vendus sur .de ou .com, et l'ASIN trouvé là vaut ensuite pour
+            # toutes les marketplaces où la fiche existe (mode --completer).
+            plans += [(None, requetes[0], d) for d in ("amazon.de", "amazon.com")]
 
-            for marche, req in plans:
+            for marche, req, dom in plans:
                 if marche is None:
-                    candidats = candidats_moteur(req, args.pause)
-                    src = sources[ORDRE_DECOUVERTE[0]]
-                    marche = ORDRE_DECOUVERTE[0]
+                    candidats = candidats_moteur(req, args.pause, dom)
+                    # La fiche est lue sur la marketplace d'où vient le lien.
+                    marche = dom
+                    src = sources[marche]
                 else:
                     src = sources[marche]
                     candidats = src.asins(req, maxi=args.candidats)

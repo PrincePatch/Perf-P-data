@@ -2709,5 +2709,2842 @@
   "dlssSupport": false,
   "fgSupport": false,
   "cpuCoeurs": 4
+ },
+ {
+  "id": "doom-eternal",
+  "steamAppId": 782330,
+  "name": "Doom Eternal",
+  "sizeGb": 40,
+  "baseFps": 230,
+  "cpuCeilFps": 420.0,
+  "vramBaseGb": 6,
+  "minRamGb": 12,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.83,
+   "2160": 0.53
+  },
+  "settingsScale": {
+   "low": 1.6,
+   "medium": 1.3,
+   "high": 1.1,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.78,
+  "low10Ratio": 0.92,
+  "baseLoadSec": {
+   "hdd": 37,
+   "sata_ssd": 15,
+   "nvme": 6
+  },
+  "rtSupport": true,
+  "dlssSupport": true,
+  "fgSupport": false,
+  "cpuCoeurs": 6,
+  "rtCost": 0.72
+ },
+ {
+  "id": "doom-dark-ages",
+  "steamAppId": null,
+  "name": "Doom: The Dark Ages",
+  "sizeGb": 70,
+  "baseFps": 118,
+  "cpuCeilFps": 240.0,
+  "vramBaseGb": 10,
+  "minRamGb": 16,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.81,
+   "2160": 0.48
+  },
+  "settingsScale": {
+   "low": 1.9,
+   "medium": 1.45,
+   "high": 1.15,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.76,
+  "low10Ratio": 0.92,
+  "baseLoadSec": {
+   "hdd": 50,
+   "sata_ssd": 20,
+   "nvme": 8
+  },
+  "rtSupport": true,
+  "dlssSupport": true,
+  "fgSupport": true,
+  "cpuCoeurs": 8,
+  "rtCost": 0.68,
+  "fgGain": 1.85
+ },
+ {
+  "id": "re-village",
+  "steamAppId": 1196590,
+  "name": "Resident Evil Village",
+  "sizeGb": 30,
+  "baseFps": 186,
+  "cpuCeilFps": 330.0,
+  "vramBaseGb": 8,
+  "minRamGb": 16,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.83,
+   "2160": 0.5
+  },
+  "settingsScale": {
+   "low": 1.6,
+   "medium": 1.3,
+   "high": 1.1,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.74,
+  "low10Ratio": 0.9,
+  "baseLoadSec": {
+   "hdd": 31,
+   "sata_ssd": 12,
+   "nvme": 5
+  },
+  "rtSupport": true,
+  "dlssSupport": true,
+  "fgSupport": false,
+  "cpuCoeurs": 6,
+  "rtCost": 0.7
+ },
+ {
+  "id": "re2-remake",
+  "steamAppId": 883710,
+  "name": "Resident Evil 2 (2019)",
+  "sizeGb": 26,
+  "baseFps": 192,
+  "cpuCeilFps": 340.0,
+  "vramBaseGb": 8,
+  "minRamGb": 16,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.83,
+   "2160": 0.52
+  },
+  "settingsScale": {
+   "low": 1.6,
+   "medium": 1.3,
+   "high": 1.1,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.75,
+  "low10Ratio": 0.91,
+  "baseLoadSec": {
+   "hdd": 31,
+   "sata_ssd": 12,
+   "nvme": 5
+  },
+  "rtSupport": true,
+  "dlssSupport": true,
+  "fgSupport": false,
+  "cpuCoeurs": 6,
+  "rtCost": 0.7
+ },
+ {
+  "id": "dmc5",
+  "steamAppId": 601150,
+  "name": "Devil May Cry 5",
+  "sizeGb": 35,
+  "baseFps": 211,
+  "cpuCeilFps": 380.0,
+  "vramBaseGb": 6,
+  "minRamGb": 8,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.85,
+   "2160": 0.53
+  },
+  "settingsScale": {
+   "low": 1.6,
+   "medium": 1.3,
+   "high": 1.1,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.76,
+  "low10Ratio": 0.92,
+  "baseLoadSec": {
+   "hdd": 31,
+   "sata_ssd": 12,
+   "nvme": 5
+  },
+  "rtSupport": true,
+  "dlssSupport": false,
+  "fgSupport": false,
+  "cpuCoeurs": 6,
+  "rtCost": 0.75
+ },
+ {
+  "id": "control",
+  "steamAppId": 870780,
+  "name": "Control",
+  "sizeGb": 42,
+  "baseFps": 138,
+  "cpuCeilFps": 260.0,
+  "vramBaseGb": 6,
+  "minRamGb": 16,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.77,
+   "2160": 0.43
+  },
+  "settingsScale": {
+   "low": 1.6,
+   "medium": 1.3,
+   "high": 1.1,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.72,
+  "low10Ratio": 0.88,
+  "baseLoadSec": {
+   "hdd": 37,
+   "sata_ssd": 15,
+   "nvme": 6
+  },
+  "rtSupport": true,
+  "dlssSupport": true,
+  "fgSupport": false,
+  "cpuCoeurs": 6,
+  "rtCost": 0.5
+ },
+ {
+  "id": "metro-exodus-ee",
+  "steamAppId": 1449560,
+  "name": "Metro Exodus Enhanced Edition",
+  "sizeGb": 80,
+  "baseFps": 112,
+  "cpuCeilFps": 210.0,
+  "vramBaseGb": 8,
+  "minRamGb": 16,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.8,
+   "2160": 0.46
+  },
+  "settingsScale": {
+   "low": 1.9,
+   "medium": 1.45,
+   "high": 1.15,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.73,
+  "low10Ratio": 0.89,
+  "baseLoadSec": {
+   "hdd": 56,
+   "sata_ssd": 22,
+   "nvme": 9
+  },
+  "rtSupport": true,
+  "dlssSupport": true,
+  "fgSupport": false,
+  "cpuCoeurs": 6,
+  "rtCost": 0.6
+ },
+ {
+  "id": "hitman-woa",
+  "steamAppId": 1659040,
+  "name": "Hitman: World of Assassination",
+  "sizeGb": 60,
+  "baseFps": 147,
+  "cpuCeilFps": 260.0,
+  "vramBaseGb": 8,
+  "minRamGb": 16,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.83,
+   "2160": 0.5
+  },
+  "settingsScale": {
+   "low": 1.6,
+   "medium": 1.3,
+   "high": 1.1,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.7,
+  "low10Ratio": 0.86,
+  "baseLoadSec": {
+   "hdd": 43,
+   "sata_ssd": 18,
+   "nvme": 7
+  },
+  "rtSupport": true,
+  "dlssSupport": true,
+  "fgSupport": true,
+  "cpuCoeurs": 8,
+  "rtCost": 0.65,
+  "fgGain": 1.8
+ },
+ {
+  "id": "sniper-elite-5",
+  "steamAppId": 1029690,
+  "name": "Sniper Elite 5",
+  "sizeGb": 80,
+  "baseFps": 128,
+  "cpuCeilFps": 240.0,
+  "vramBaseGb": 8,
+  "minRamGb": 16,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.82,
+   "2160": 0.5
+  },
+  "settingsScale": {
+   "low": 1.6,
+   "medium": 1.3,
+   "high": 1.1,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.74,
+  "low10Ratio": 0.9,
+  "baseLoadSec": {
+   "hdd": 56,
+   "sata_ssd": 22,
+   "nvme": 9
+  },
+  "rtSupport": true,
+  "dlssSupport": true,
+  "fgSupport": false,
+  "cpuCoeurs": 6,
+  "rtCost": 0.72
+ },
+ {
+  "id": "robocop",
+  "steamAppId": 1681430,
+  "name": "RoboCop: Rogue City",
+  "sizeGb": 40,
+  "baseFps": 118,
+  "cpuCeilFps": 220.0,
+  "vramBaseGb": 8,
+  "minRamGb": 16,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.81,
+   "2160": 0.48
+  },
+  "settingsScale": {
+   "low": 1.6,
+   "medium": 1.3,
+   "high": 1.1,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.7,
+  "low10Ratio": 0.86,
+  "baseLoadSec": {
+   "hdd": 37,
+   "sata_ssd": 15,
+   "nvme": 6
+  },
+  "rtSupport": false,
+  "dlssSupport": true,
+  "fgSupport": true,
+  "cpuCoeurs": 6,
+  "fgGain": 1.8
+ },
+ {
+  "id": "darktide",
+  "steamAppId": 1361210,
+  "name": "Warhammer 40,000: Darktide",
+  "sizeGb": 65,
+  "baseFps": 112,
+  "cpuCeilFps": 200.0,
+  "vramBaseGb": 10,
+  "minRamGb": 16,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.8,
+   "2160": 0.47
+  },
+  "settingsScale": {
+   "low": 1.9,
+   "medium": 1.45,
+   "high": 1.15,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.65,
+  "low10Ratio": 0.81,
+  "baseLoadSec": {
+   "hdd": 50,
+   "sata_ssd": 20,
+   "nvme": 8
+  },
+  "rtSupport": true,
+  "dlssSupport": true,
+  "fgSupport": true,
+  "cpuCoeurs": 8,
+  "rtCost": 0.6,
+  "fgGain": 1.85
+ },
+ {
+  "id": "vermintide-2",
+  "steamAppId": 552500,
+  "name": "Warhammer: Vermintide 2",
+  "sizeGb": 60,
+  "baseFps": 154,
+  "cpuCeilFps": 270.0,
+  "vramBaseGb": 6,
+  "minRamGb": 12,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.83,
+   "2160": 0.52
+  },
+  "settingsScale": {
+   "low": 1.6,
+   "medium": 1.3,
+   "high": 1.1,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.72,
+  "low10Ratio": 0.88,
+  "baseLoadSec": {
+   "hdd": 43,
+   "sata_ssd": 18,
+   "nvme": 7
+  },
+  "rtSupport": true,
+  "dlssSupport": false,
+  "fgSupport": false,
+  "cpuCoeurs": 6,
+  "rtCost": 0.7
+ },
+ {
+  "id": "remnant-2",
+  "steamAppId": 1282100,
+  "name": "Remnant II",
+  "sizeGb": 80,
+  "baseFps": 112,
+  "cpuCeilFps": 200.0,
+  "vramBaseGb": 8,
+  "minRamGb": 16,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.81,
+   "2160": 0.49
+  },
+  "settingsScale": {
+   "low": 1.6,
+   "medium": 1.3,
+   "high": 1.1,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.7,
+  "low10Ratio": 0.86,
+  "baseLoadSec": {
+   "hdd": 56,
+   "sata_ssd": 22,
+   "nvme": 9
+  },
+  "rtSupport": false,
+  "dlssSupport": true,
+  "fgSupport": false,
+  "cpuCoeurs": 6
+ },
+ {
+  "id": "death-stranding-dc",
+  "steamAppId": 1850570,
+  "name": "Death Stranding Director's Cut",
+  "sizeGb": 80,
+  "baseFps": 154,
+  "cpuCeilFps": 280.0,
+  "vramBaseGb": 8,
+  "minRamGb": 16,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.81,
+   "2160": 0.48
+  },
+  "settingsScale": {
+   "low": 1.6,
+   "medium": 1.3,
+   "high": 1.1,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.75,
+  "low10Ratio": 0.91,
+  "baseLoadSec": {
+   "hdd": 56,
+   "sata_ssd": 22,
+   "nvme": 9
+  },
+  "rtSupport": false,
+  "dlssSupport": true,
+  "fgSupport": true,
+  "cpuCoeurs": 6,
+  "fgGain": 1.85
+ },
+ {
+  "id": "days-gone",
+  "steamAppId": 1259420,
+  "name": "Days Gone",
+  "sizeGb": 70,
+  "baseFps": 138,
+  "cpuCeilFps": 250.0,
+  "vramBaseGb": 8,
+  "minRamGb": 12,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.81,
+   "2160": 0.49
+  },
+  "settingsScale": {
+   "low": 1.6,
+   "medium": 1.3,
+   "high": 1.1,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.74,
+  "low10Ratio": 0.9,
+  "baseLoadSec": {
+   "hdd": 50,
+   "sata_ssd": 20,
+   "nvme": 8
+  },
+  "rtSupport": false,
+  "dlssSupport": true,
+  "fgSupport": false,
+  "cpuCoeurs": 6
+ },
+ {
+  "id": "uncharted-lot",
+  "steamAppId": 1659420,
+  "name": "Uncharted: Legacy of Thieves",
+  "sizeGb": 130,
+  "baseFps": 122,
+  "cpuCeilFps": 230.0,
+  "vramBaseGb": 8,
+  "minRamGb": 16,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.82,
+   "2160": 0.48
+  },
+  "settingsScale": {
+   "low": 1.6,
+   "medium": 1.3,
+   "high": 1.1,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.73,
+  "low10Ratio": 0.89,
+  "baseLoadSec": {
+   "hdd": 74,
+   "sata_ssd": 30,
+   "nvme": 12
+  },
+  "rtSupport": false,
+  "dlssSupport": true,
+  "fgSupport": false,
+  "cpuCoeurs": 6
+ },
+ {
+  "id": "god-of-war-2018",
+  "steamAppId": 1593500,
+  "name": "God of War (2018)",
+  "sizeGb": 70,
+  "baseFps": 138,
+  "cpuCeilFps": 245.0,
+  "vramBaseGb": 8,
+  "minRamGb": 16,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.81,
+   "2160": 0.49
+  },
+  "settingsScale": {
+   "low": 1.6,
+   "medium": 1.3,
+   "high": 1.1,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.75,
+  "low10Ratio": 0.91,
+  "baseLoadSec": {
+   "hdd": 50,
+   "sata_ssd": 20,
+   "nvme": 8
+  },
+  "rtSupport": false,
+  "dlssSupport": true,
+  "fgSupport": false,
+  "cpuCoeurs": 6
+ },
+ {
+  "id": "tlou2",
+  "steamAppId": 2531310,
+  "name": "The Last of Us Part II Remastered",
+  "sizeGb": 80,
+  "baseFps": 112,
+  "cpuCeilFps": 205.0,
+  "vramBaseGb": 10,
+  "minRamGb": 16,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.81,
+   "2160": 0.48
+  },
+  "settingsScale": {
+   "low": 1.9,
+   "medium": 1.45,
+   "high": 1.15,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.72,
+  "low10Ratio": 0.88,
+  "baseLoadSec": {
+   "hdd": 56,
+   "sata_ssd": 22,
+   "nvme": 9
+  },
+  "rtSupport": false,
+  "dlssSupport": true,
+  "fgSupport": true,
+  "cpuCoeurs": 8,
+  "fgGain": 1.85
+ },
+ {
+  "id": "spiderman2",
+  "steamAppId": 2651280,
+  "name": "Marvel's Spider-Man 2",
+  "sizeGb": 140,
+  "baseFps": 118,
+  "cpuCeilFps": 215.0,
+  "vramBaseGb": 12,
+  "minRamGb": 16,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.8,
+   "2160": 0.46
+  },
+  "settingsScale": {
+   "low": 1.9,
+   "medium": 1.45,
+   "high": 1.15,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.7,
+  "low10Ratio": 0.86,
+  "baseLoadSec": {
+   "hdd": 81,
+   "sata_ssd": 32,
+   "nvme": 13
+  },
+  "rtSupport": true,
+  "dlssSupport": true,
+  "fgSupport": true,
+  "cpuCoeurs": 8,
+  "rtCost": 0.6,
+  "fgGain": 1.85
+ },
+ {
+  "id": "horizon-zd-remastered",
+  "steamAppId": 2561580,
+  "name": "Horizon Zero Dawn Remastered",
+  "sizeGb": 100,
+  "baseFps": 128,
+  "cpuCeilFps": 230.0,
+  "vramBaseGb": 10,
+  "minRamGb": 16,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.81,
+   "2160": 0.47
+  },
+  "settingsScale": {
+   "low": 1.6,
+   "medium": 1.3,
+   "high": 1.1,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.74,
+  "low10Ratio": 0.9,
+  "baseLoadSec": {
+   "hdd": 62,
+   "sata_ssd": 25,
+   "nvme": 10
+  },
+  "rtSupport": false,
+  "dlssSupport": true,
+  "fgSupport": true,
+  "cpuCoeurs": 8,
+  "fgGain": 1.85
+ },
+ {
+  "id": "sw-jedi-survivor",
+  "steamAppId": 1774580,
+  "name": "Star Wars Jedi: Survivor",
+  "sizeGb": 155,
+  "baseFps": 83,
+  "cpuCeilFps": 150.0,
+  "vramBaseGb": 12,
+  "minRamGb": 16,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.86,
+   "2160": 0.57
+  },
+  "settingsScale": {
+   "low": 1.9,
+   "medium": 1.45,
+   "high": 1.15,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.62,
+  "low10Ratio": 0.78,
+  "baseLoadSec": {
+   "hdd": 87,
+   "sata_ssd": 35,
+   "nvme": 14
+  },
+  "rtSupport": true,
+  "dlssSupport": true,
+  "fgSupport": true,
+  "cpuCoeurs": 8,
+  "rtCost": 0.72,
+  "fgGain": 1.8
+ },
+ {
+  "id": "sw-outlaws",
+  "steamAppId": 2842040,
+  "name": "Star Wars Outlaws",
+  "sizeGb": 65,
+  "baseFps": 77,
+  "cpuCeilFps": 165.0,
+  "vramBaseGb": 12,
+  "minRamGb": 16,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.8,
+   "2160": 0.47
+  },
+  "settingsScale": {
+   "low": 1.9,
+   "medium": 1.45,
+   "high": 1.15,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.72,
+  "low10Ratio": 0.88,
+  "baseLoadSec": {
+   "hdd": 50,
+   "sata_ssd": 20,
+   "nvme": 8
+  },
+  "rtSupport": true,
+  "dlssSupport": true,
+  "fgSupport": true,
+  "cpuCoeurs": 8,
+  "rtCost": 0.6,
+  "fgGain": 1.85
+ },
+ {
+  "id": "avatar-pandora",
+  "steamAppId": 2680220,
+  "name": "Avatar: Frontiers of Pandora",
+  "sizeGb": 90,
+  "baseFps": 82,
+  "cpuCeilFps": 175.0,
+  "vramBaseGb": 12,
+  "minRamGb": 16,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.78,
+   "2160": 0.44
+  },
+  "settingsScale": {
+   "low": 1.9,
+   "medium": 1.45,
+   "high": 1.15,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.74,
+  "low10Ratio": 0.9,
+  "baseLoadSec": {
+   "hdd": 56,
+   "sata_ssd": 22,
+   "nvme": 9
+  },
+  "rtSupport": true,
+  "dlssSupport": true,
+  "fgSupport": true,
+  "cpuCoeurs": 8,
+  "rtCost": 0.62,
+  "fgGain": 1.85
+ },
+ {
+  "id": "clair-obscur-33",
+  "steamAppId": null,
+  "name": "Clair Obscur: Expedition 33",
+  "sizeGb": 55,
+  "baseFps": 106,
+  "cpuCeilFps": 195.0,
+  "vramBaseGb": 10,
+  "minRamGb": 16,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.8,
+   "2160": 0.46
+  },
+  "settingsScale": {
+   "low": 1.9,
+   "medium": 1.45,
+   "high": 1.15,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.7,
+  "low10Ratio": 0.86,
+  "baseLoadSec": {
+   "hdd": 43,
+   "sata_ssd": 18,
+   "nvme": 7
+  },
+  "rtSupport": false,
+  "dlssSupport": true,
+  "fgSupport": true,
+  "cpuCoeurs": 8,
+  "fgGain": 1.85
+ },
+ {
+  "id": "split-fiction",
+  "steamAppId": null,
+  "name": "Split Fiction",
+  "sizeGb": 75,
+  "baseFps": 118,
+  "cpuCeilFps": 215.0,
+  "vramBaseGb": 8,
+  "minRamGb": 16,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.81,
+   "2160": 0.48
+  },
+  "settingsScale": {
+   "low": 1.6,
+   "medium": 1.3,
+   "high": 1.1,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.73,
+  "low10Ratio": 0.89,
+  "baseLoadSec": {
+   "hdd": 50,
+   "sata_ssd": 20,
+   "nvme": 8
+  },
+  "rtSupport": false,
+  "dlssSupport": true,
+  "fgSupport": true,
+  "cpuCoeurs": 8,
+  "fgGain": 1.8
+ },
+ {
+  "id": "silent-hill-f",
+  "steamAppId": null,
+  "name": "Silent Hill f",
+  "sizeGb": 45,
+  "baseFps": 96,
+  "cpuCeilFps": 175.0,
+  "vramBaseGb": 10,
+  "minRamGb": 16,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.81,
+   "2160": 0.48
+  },
+  "settingsScale": {
+   "low": 1.9,
+   "medium": 1.45,
+   "high": 1.15,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.7,
+  "low10Ratio": 0.86,
+  "baseLoadSec": {
+   "hdd": 37,
+   "sata_ssd": 15,
+   "nvme": 6
+  },
+  "rtSupport": false,
+  "dlssSupport": true,
+  "fgSupport": true,
+  "cpuCoeurs": 8,
+  "fgGain": 1.85
+ },
+ {
+  "id": "ac-valhalla",
+  "steamAppId": 2208920,
+  "name": "Assassin's Creed Valhalla",
+  "sizeGb": 80,
+  "baseFps": 112,
+  "cpuCeilFps": 200.0,
+  "vramBaseGb": 8,
+  "minRamGb": 16,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.86,
+   "2160": 0.54
+  },
+  "settingsScale": {
+   "low": 1.6,
+   "medium": 1.3,
+   "high": 1.1,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.74,
+  "low10Ratio": 0.9,
+  "baseLoadSec": {
+   "hdd": 56,
+   "sata_ssd": 22,
+   "nvme": 9
+  },
+  "rtSupport": false,
+  "dlssSupport": false,
+  "fgSupport": false,
+  "cpuCoeurs": 8
+ },
+ {
+  "id": "ac-odyssey",
+  "steamAppId": 812140,
+  "name": "Assassin's Creed Odyssey",
+  "sizeGb": 60,
+  "baseFps": 96,
+  "cpuCeilFps": 170.0,
+  "vramBaseGb": 8,
+  "minRamGb": 16,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.87,
+   "2160": 0.59
+  },
+  "settingsScale": {
+   "low": 1.6,
+   "medium": 1.3,
+   "high": 1.1,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.7,
+  "low10Ratio": 0.86,
+  "baseLoadSec": {
+   "hdd": 43,
+   "sata_ssd": 18,
+   "nvme": 7
+  },
+  "rtSupport": false,
+  "dlssSupport": false,
+  "fgSupport": false,
+  "cpuCoeurs": 8
+ },
+ {
+  "id": "far-cry-6",
+  "steamAppId": 2369390,
+  "name": "Far Cry 6",
+  "sizeGb": 60,
+  "baseFps": 112,
+  "cpuCeilFps": 205.0,
+  "vramBaseGb": 10,
+  "minRamGb": 16,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.86,
+   "2160": 0.54
+  },
+  "settingsScale": {
+   "low": 1.6,
+   "medium": 1.3,
+   "high": 1.1,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.72,
+  "low10Ratio": 0.88,
+  "baseLoadSec": {
+   "hdd": 43,
+   "sata_ssd": 18,
+   "nvme": 7
+  },
+  "rtSupport": true,
+  "dlssSupport": false,
+  "fgSupport": false,
+  "cpuCoeurs": 8,
+  "rtCost": 0.75
+ },
+ {
+  "id": "watch-dogs-legion",
+  "steamAppId": null,
+  "name": "Watch Dogs: Legion",
+  "sizeGb": 45,
+  "baseFps": 96,
+  "cpuCeilFps": 180.0,
+  "vramBaseGb": 8,
+  "minRamGb": 16,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.83,
+   "2160": 0.52
+  },
+  "settingsScale": {
+   "low": 1.9,
+   "medium": 1.45,
+   "high": 1.15,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.7,
+  "low10Ratio": 0.86,
+  "baseLoadSec": {
+   "hdd": 37,
+   "sata_ssd": 15,
+   "nvme": 6
+  },
+  "rtSupport": true,
+  "dlssSupport": true,
+  "fgSupport": false,
+  "cpuCoeurs": 8,
+  "rtCost": 0.55
+ },
+ {
+  "id": "mafia-old-country",
+  "steamAppId": null,
+  "name": "Mafia: The Old Country",
+  "sizeGb": 60,
+  "baseFps": 99,
+  "cpuCeilFps": 185.0,
+  "vramBaseGb": 10,
+  "minRamGb": 16,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.81,
+   "2160": 0.46
+  },
+  "settingsScale": {
+   "low": 1.9,
+   "medium": 1.45,
+   "high": 1.15,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.71,
+  "low10Ratio": 0.87,
+  "baseLoadSec": {
+   "hdd": 43,
+   "sata_ssd": 18,
+   "nvme": 7
+  },
+  "rtSupport": true,
+  "dlssSupport": true,
+  "fgSupport": true,
+  "cpuCoeurs": 8,
+  "rtCost": 0.7,
+  "fgGain": 1.85
+ },
+ {
+  "id": "outer-worlds-2",
+  "steamAppId": null,
+  "name": "The Outer Worlds 2",
+  "sizeGb": 70,
+  "baseFps": 109,
+  "cpuCeilFps": 200.0,
+  "vramBaseGb": 10,
+  "minRamGb": 16,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.81,
+   "2160": 0.47
+  },
+  "settingsScale": {
+   "low": 1.6,
+   "medium": 1.3,
+   "high": 1.1,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.72,
+  "low10Ratio": 0.88,
+  "baseLoadSec": {
+   "hdd": 50,
+   "sata_ssd": 20,
+   "nvme": 8
+  },
+  "rtSupport": true,
+  "dlssSupport": true,
+  "fgSupport": true,
+  "cpuCoeurs": 8,
+  "rtCost": 0.7,
+  "fgGain": 1.85
+ },
+ {
+  "id": "borderlands-4",
+  "steamAppId": null,
+  "name": "Borderlands 4",
+  "sizeGb": 100,
+  "baseFps": 93,
+  "cpuCeilFps": 175.0,
+  "vramBaseGb": 10,
+  "minRamGb": 16,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.81,
+   "2160": 0.48
+  },
+  "settingsScale": {
+   "low": 1.9,
+   "medium": 1.45,
+   "high": 1.15,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.7,
+  "low10Ratio": 0.86,
+  "baseLoadSec": {
+   "hdd": 62,
+   "sata_ssd": 25,
+   "nvme": 10
+  },
+  "rtSupport": false,
+  "dlssSupport": true,
+  "fgSupport": true,
+  "cpuCoeurs": 8,
+  "fgGain": 1.85
+ },
+ {
+  "id": "lies-of-p",
+  "steamAppId": 1627720,
+  "name": "Lies of P",
+  "sizeGb": 50,
+  "baseFps": 138,
+  "cpuCeilFps": 250.0,
+  "vramBaseGb": 8,
+  "minRamGb": 16,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.81,
+   "2160": 0.49
+  },
+  "settingsScale": {
+   "low": 1.6,
+   "medium": 1.3,
+   "high": 1.1,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.75,
+  "low10Ratio": 0.91,
+  "baseLoadSec": {
+   "hdd": 37,
+   "sata_ssd": 15,
+   "nvme": 6
+  },
+  "rtSupport": false,
+  "dlssSupport": true,
+  "fgSupport": false,
+  "cpuCoeurs": 6
+ },
+ {
+  "id": "wo-long",
+  "steamAppId": 1448440,
+  "name": "Wo Long: Fallen Dynasty",
+  "sizeGb": 40,
+  "baseFps": 118,
+  "cpuCeilFps": 215.0,
+  "vramBaseGb": 8,
+  "minRamGb": 16,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.84,
+   "2160": 0.53
+  },
+  "settingsScale": {
+   "low": 1.6,
+   "medium": 1.3,
+   "high": 1.1,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.72,
+  "low10Ratio": 0.88,
+  "baseLoadSec": {
+   "hdd": 37,
+   "sata_ssd": 15,
+   "nvme": 6
+  },
+  "rtSupport": false,
+  "dlssSupport": true,
+  "fgSupport": false,
+  "cpuCoeurs": 6
+ },
+ {
+  "id": "nioh-2",
+  "steamAppId": 1325200,
+  "name": "Nioh 2",
+  "sizeGb": 85,
+  "baseFps": 134,
+  "cpuCeilFps": 240.0,
+  "vramBaseGb": 6,
+  "minRamGb": 12,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.83,
+   "2160": 0.51
+  },
+  "settingsScale": {
+   "low": 1.6,
+   "medium": 1.3,
+   "high": 1.1,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.74,
+  "low10Ratio": 0.9,
+  "baseLoadSec": {
+   "hdd": 56,
+   "sata_ssd": 22,
+   "nvme": 9
+  },
+  "rtSupport": false,
+  "dlssSupport": false,
+  "fgSupport": false,
+  "cpuCoeurs": 6
+ },
+ {
+  "id": "armored-core-6",
+  "steamAppId": 1888160,
+  "name": "Armored Core VI",
+  "sizeGb": 60,
+  "baseFps": 120,
+  "cpuCeilFps": 265.0,
+  "vramBaseGb": 8,
+  "minRamGb": 12,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.83,
+   "2160": 0.5
+  },
+  "settingsScale": {
+   "low": 1.6,
+   "medium": 1.3,
+   "high": 1.1,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.73,
+  "low10Ratio": 0.89,
+  "baseLoadSec": {
+   "hdd": 43,
+   "sata_ssd": 18,
+   "nvme": 7
+  },
+  "rtSupport": false,
+  "dlssSupport": false,
+  "fgSupport": false,
+  "cpuCoeurs": 6,
+  "fpsCap": 120
+ },
+ {
+  "id": "elden-ring-nightreign",
+  "steamAppId": null,
+  "name": "Elden Ring Nightreign",
+  "sizeGb": 30,
+  "baseFps": 60,
+  "cpuCeilFps": 165.0,
+  "vramBaseGb": 8,
+  "minRamGb": 16,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.9,
+   "2160": 0.7
+  },
+  "settingsScale": {
+   "low": 1.6,
+   "medium": 1.3,
+   "high": 1.1,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.7,
+  "low10Ratio": 0.86,
+  "baseLoadSec": {
+   "hdd": 31,
+   "sata_ssd": 12,
+   "nvme": 5
+  },
+  "rtSupport": false,
+  "dlssSupport": false,
+  "fgSupport": false,
+  "cpuCoeurs": 6,
+  "fpsCap": 60
+ },
+ {
+  "id": "monster-hunter-rise",
+  "steamAppId": 1446780,
+  "name": "Monster Hunter Rise",
+  "sizeGb": 30,
+  "baseFps": 192,
+  "cpuCeilFps": 340.0,
+  "vramBaseGb": 6,
+  "minRamGb": 12,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.83,
+   "2160": 0.52
+  },
+  "settingsScale": {
+   "low": 1.6,
+   "medium": 1.3,
+   "high": 1.1,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.76,
+  "low10Ratio": 0.92,
+  "baseLoadSec": {
+   "hdd": 31,
+   "sata_ssd": 12,
+   "nvme": 5
+  },
+  "rtSupport": false,
+  "dlssSupport": false,
+  "fgSupport": false,
+  "cpuCoeurs": 6
+ },
+ {
+  "id": "ffxvi",
+  "steamAppId": 2515020,
+  "name": "Final Fantasy XVI",
+  "sizeGb": 170,
+  "baseFps": 86,
+  "cpuCeilFps": 165.0,
+  "vramBaseGb": 10,
+  "minRamGb": 16,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.8,
+   "2160": 0.46
+  },
+  "settingsScale": {
+   "low": 1.9,
+   "medium": 1.45,
+   "high": 1.15,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.7,
+  "low10Ratio": 0.86,
+  "baseLoadSec": {
+   "hdd": 93,
+   "sata_ssd": 38,
+   "nvme": 15
+  },
+  "rtSupport": false,
+  "dlssSupport": true,
+  "fgSupport": true,
+  "cpuCoeurs": 8,
+  "fgGain": 1.85
+ },
+ {
+  "id": "persona3-reload",
+  "steamAppId": 2161700,
+  "name": "Persona 3 Reload",
+  "sizeGb": 30,
+  "baseFps": 179,
+  "cpuCeilFps": 320.0,
+  "vramBaseGb": 6,
+  "minRamGb": 8,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.84,
+   "2160": 0.52
+  },
+  "settingsScale": {
+   "low": 1.6,
+   "medium": 1.3,
+   "high": 1.1,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.78,
+  "low10Ratio": 0.92,
+  "baseLoadSec": {
+   "hdd": 31,
+   "sata_ssd": 12,
+   "nvme": 5
+  },
+  "rtSupport": false,
+  "dlssSupport": false,
+  "fgSupport": false,
+  "cpuCoeurs": 4
+ },
+ {
+  "id": "metaphor",
+  "steamAppId": 2679460,
+  "name": "Metaphor: ReFantazio",
+  "sizeGb": 30,
+  "baseFps": 160,
+  "cpuCeilFps": 290.0,
+  "vramBaseGb": 6,
+  "minRamGb": 12,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.84,
+   "2160": 0.52
+  },
+  "settingsScale": {
+   "low": 1.6,
+   "medium": 1.3,
+   "high": 1.1,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.77,
+  "low10Ratio": 0.92,
+  "baseLoadSec": {
+   "hdd": 31,
+   "sata_ssd": 12,
+   "nvme": 5
+  },
+  "rtSupport": false,
+  "dlssSupport": false,
+  "fgSupport": false,
+  "cpuCoeurs": 6
+ },
+ {
+  "id": "lad-infinite-wealth",
+  "steamAppId": 2072450,
+  "name": "Like a Dragon: Infinite Wealth",
+  "sizeGb": 65,
+  "baseFps": 154,
+  "cpuCeilFps": 275.0,
+  "vramBaseGb": 8,
+  "minRamGb": 16,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.83,
+   "2160": 0.51
+  },
+  "settingsScale": {
+   "low": 1.6,
+   "medium": 1.3,
+   "high": 1.1,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.76,
+  "low10Ratio": 0.92,
+  "baseLoadSec": {
+   "hdd": 50,
+   "sata_ssd": 20,
+   "nvme": 8
+  },
+  "rtSupport": false,
+  "dlssSupport": true,
+  "fgSupport": false,
+  "cpuCoeurs": 6
+ },
+ {
+  "id": "dragon-age-veilguard",
+  "steamAppId": 1845910,
+  "name": "Dragon Age: The Veilguard",
+  "sizeGb": 100,
+  "baseFps": 112,
+  "cpuCeilFps": 205.0,
+  "vramBaseGb": 10,
+  "minRamGb": 16,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.81,
+   "2160": 0.48
+  },
+  "settingsScale": {
+   "low": 1.6,
+   "medium": 1.3,
+   "high": 1.1,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.72,
+  "low10Ratio": 0.88,
+  "baseLoadSec": {
+   "hdd": 62,
+   "sata_ssd": 25,
+   "nvme": 10
+  },
+  "rtSupport": true,
+  "dlssSupport": true,
+  "fgSupport": true,
+  "cpuCoeurs": 8,
+  "rtCost": 0.68,
+  "fgGain": 1.85
+ },
+ {
+  "id": "last-epoch",
+  "steamAppId": 899770,
+  "name": "Last Epoch",
+  "sizeGb": 20,
+  "baseFps": 147,
+  "cpuCeilFps": 260.0,
+  "vramBaseGb": 6,
+  "minRamGb": 12,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.85,
+   "2160": 0.54
+  },
+  "settingsScale": {
+   "low": 1.6,
+   "medium": 1.3,
+   "high": 1.1,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.7,
+  "low10Ratio": 0.86,
+  "baseLoadSec": {
+   "hdd": 25,
+   "sata_ssd": 10,
+   "nvme": 4
+  },
+  "rtSupport": false,
+  "dlssSupport": false,
+  "fgSupport": false,
+  "cpuCoeurs": 6
+ },
+ {
+  "id": "diablo2-resurrected",
+  "steamAppId": null,
+  "name": "Diablo II: Resurrected",
+  "sizeGb": 30,
+  "baseFps": 160,
+  "cpuCeilFps": 280.0,
+  "vramBaseGb": 6,
+  "minRamGb": 12,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.86,
+   "2160": 0.56
+  },
+  "settingsScale": {
+   "low": 1.6,
+   "medium": 1.3,
+   "high": 1.1,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.75,
+  "low10Ratio": 0.91,
+  "baseLoadSec": {
+   "hdd": 31,
+   "sata_ssd": 12,
+   "nvme": 5
+  },
+  "rtSupport": false,
+  "dlssSupport": false,
+  "fgSupport": false,
+  "cpuCoeurs": 4
+ },
+ {
+  "id": "bf2042",
+  "steamAppId": 1517290,
+  "name": "Battlefield 2042",
+  "sizeGb": 100,
+  "baseFps": 128,
+  "cpuCeilFps": 230.0,
+  "vramBaseGb": 10,
+  "minRamGb": 16,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.82,
+   "2160": 0.5
+  },
+  "settingsScale": {
+   "low": 1.6,
+   "medium": 1.3,
+   "high": 1.1,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.68,
+  "low10Ratio": 0.84,
+  "baseLoadSec": {
+   "hdd": 62,
+   "sata_ssd": 25,
+   "nvme": 10
+  },
+  "rtSupport": true,
+  "dlssSupport": true,
+  "fgSupport": false,
+  "cpuCoeurs": 8,
+  "rtCost": 0.72
+ },
+ {
+  "id": "bo6",
+  "steamAppId": 2933620,
+  "name": "Call of Duty: Black Ops 6",
+  "sizeGb": 120,
+  "baseFps": 147,
+  "cpuCeilFps": 260.0,
+  "vramBaseGb": 10,
+  "minRamGb": 16,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.83,
+   "2160": 0.51
+  },
+  "settingsScale": {
+   "low": 1.6,
+   "medium": 1.3,
+   "high": 1.1,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.7,
+  "low10Ratio": 0.86,
+  "baseLoadSec": {
+   "hdd": 68,
+   "sata_ssd": 28,
+   "nvme": 11
+  },
+  "rtSupport": true,
+  "dlssSupport": true,
+  "fgSupport": true,
+  "cpuCoeurs": 8,
+  "rtCost": 0.75,
+  "fgGain": 1.8
+ },
+ {
+  "id": "hunt-showdown",
+  "steamAppId": 594650,
+  "name": "Hunt: Showdown 1896",
+  "sizeGb": 55,
+  "baseFps": 118,
+  "cpuCeilFps": 215.0,
+  "vramBaseGb": 8,
+  "minRamGb": 16,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.82,
+   "2160": 0.5
+  },
+  "settingsScale": {
+   "low": 1.6,
+   "medium": 1.3,
+   "high": 1.1,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.68,
+  "low10Ratio": 0.84,
+  "baseLoadSec": {
+   "hdd": 43,
+   "sata_ssd": 18,
+   "nvme": 7
+  },
+  "rtSupport": false,
+  "dlssSupport": true,
+  "fgSupport": true,
+  "cpuCoeurs": 8,
+  "fgGain": 1.8
+ },
+ {
+  "id": "squad",
+  "steamAppId": 393380,
+  "name": "Squad",
+  "sizeGb": 90,
+  "baseFps": 93,
+  "cpuCeilFps": 165.0,
+  "vramBaseGb": 8,
+  "minRamGb": 16,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.84,
+   "2160": 0.54
+  },
+  "settingsScale": {
+   "low": 1.6,
+   "medium": 1.3,
+   "high": 1.1,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.62,
+  "low10Ratio": 0.78,
+  "baseLoadSec": {
+   "hdd": 56,
+   "sata_ssd": 22,
+   "nvme": 9
+  },
+  "rtSupport": false,
+  "dlssSupport": true,
+  "fgSupport": false,
+  "cpuCoeurs": 8
+ },
+ {
+  "id": "hell-let-loose",
+  "steamAppId": 686810,
+  "name": "Hell Let Loose",
+  "sizeGb": 55,
+  "baseFps": 102,
+  "cpuCeilFps": 180.0,
+  "vramBaseGb": 8,
+  "minRamGb": 16,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.82,
+   "2160": 0.51
+  },
+  "settingsScale": {
+   "low": 1.6,
+   "medium": 1.3,
+   "high": 1.1,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.65,
+  "low10Ratio": 0.81,
+  "baseLoadSec": {
+   "hdd": 43,
+   "sata_ssd": 18,
+   "nvme": 7
+  },
+  "rtSupport": false,
+  "dlssSupport": true,
+  "fgSupport": false,
+  "cpuCoeurs": 8
+ },
+ {
+  "id": "arma-reforger",
+  "steamAppId": 1874880,
+  "name": "Arma Reforger",
+  "sizeGb": 25,
+  "baseFps": 90,
+  "cpuCeilFps": 160.0,
+  "vramBaseGb": 8,
+  "minRamGb": 16,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.84,
+   "2160": 0.54
+  },
+  "settingsScale": {
+   "low": 1.6,
+   "medium": 1.3,
+   "high": 1.1,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.6,
+  "low10Ratio": 0.76,
+  "baseLoadSec": {
+   "hdd": 31,
+   "sata_ssd": 12,
+   "nvme": 5
+  },
+  "rtSupport": false,
+  "dlssSupport": true,
+  "fgSupport": false,
+  "cpuCoeurs": 8
+ },
+ {
+  "id": "gray-zone-warfare",
+  "steamAppId": null,
+  "name": "Gray Zone Warfare",
+  "sizeGb": 50,
+  "baseFps": 70,
+  "cpuCeilFps": 130.0,
+  "vramBaseGb": 10,
+  "minRamGb": 16,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.82,
+   "2160": 0.5
+  },
+  "settingsScale": {
+   "low": 1.9,
+   "medium": 1.45,
+   "high": 1.15,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.6,
+  "low10Ratio": 0.76,
+  "baseLoadSec": {
+   "hdd": 37,
+   "sata_ssd": 15,
+   "nvme": 6
+  },
+  "rtSupport": false,
+  "dlssSupport": true,
+  "fgSupport": true,
+  "cpuCoeurs": 8,
+  "fgGain": 1.8
+ },
+ {
+  "id": "fragpunk",
+  "steamAppId": null,
+  "name": "FragPunk",
+  "sizeGb": 40,
+  "baseFps": 179,
+  "cpuCeilFps": 320.0,
+  "vramBaseGb": 8,
+  "minRamGb": 16,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.84,
+   "2160": 0.52
+  },
+  "settingsScale": {
+   "low": 1.35,
+   "medium": 1.2,
+   "high": 1.08,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.72,
+  "low10Ratio": 0.88,
+  "baseLoadSec": {
+   "hdd": 37,
+   "sata_ssd": 15,
+   "nvme": 6
+  },
+  "rtSupport": false,
+  "dlssSupport": true,
+  "fgSupport": true,
+  "cpuCoeurs": 6,
+  "fgGain": 1.8
+ },
+ {
+  "id": "naraka",
+  "steamAppId": 1203220,
+  "name": "Naraka: Bladepoint",
+  "sizeGb": 30,
+  "baseFps": 154,
+  "cpuCeilFps": 270.0,
+  "vramBaseGb": 8,
+  "minRamGb": 16,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.83,
+   "2160": 0.52
+  },
+  "settingsScale": {
+   "low": 1.6,
+   "medium": 1.3,
+   "high": 1.1,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.7,
+  "low10Ratio": 0.86,
+  "baseLoadSec": {
+   "hdd": 31,
+   "sata_ssd": 12,
+   "nvme": 5
+  },
+  "rtSupport": true,
+  "dlssSupport": true,
+  "fgSupport": false,
+  "cpuCoeurs": 6,
+  "rtCost": 0.7
+ },
+ {
+  "id": "valheim",
+  "steamAppId": 892970,
+  "name": "Valheim",
+  "sizeGb": 5,
+  "baseFps": 192,
+  "cpuCeilFps": 340.0,
+  "vramBaseGb": 6,
+  "minRamGb": 8,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.83,
+   "2160": 0.52
+  },
+  "settingsScale": {
+   "low": 1.25,
+   "medium": 1.12,
+   "high": 1.05,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.78,
+  "low10Ratio": 0.92,
+  "baseLoadSec": {
+   "hdd": 19,
+   "sata_ssd": 8,
+   "nvme": 3
+  },
+  "rtSupport": false,
+  "dlssSupport": false,
+  "fgSupport": false,
+  "cpuCoeurs": 6
+ },
+ {
+  "id": "seven-days-to-die",
+  "steamAppId": 251570,
+  "name": "7 Days to Die",
+  "sizeGb": 15,
+  "baseFps": 118,
+  "cpuCeilFps": 210.0,
+  "vramBaseGb": 8,
+  "minRamGb": 12,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.84,
+   "2160": 0.53
+  },
+  "settingsScale": {
+   "low": 1.6,
+   "medium": 1.3,
+   "high": 1.1,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.7,
+  "low10Ratio": 0.86,
+  "baseLoadSec": {
+   "hdd": 25,
+   "sata_ssd": 10,
+   "nvme": 4
+  },
+  "rtSupport": false,
+  "dlssSupport": false,
+  "fgSupport": false,
+  "cpuCoeurs": 6
+ },
+ {
+  "id": "v-rising",
+  "steamAppId": 1604030,
+  "name": "V Rising",
+  "sizeGb": 20,
+  "baseFps": 166,
+  "cpuCeilFps": 290.0,
+  "vramBaseGb": 6,
+  "minRamGb": 12,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.85,
+   "2160": 0.54
+  },
+  "settingsScale": {
+   "low": 1.6,
+   "medium": 1.3,
+   "high": 1.1,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.78,
+  "low10Ratio": 0.92,
+  "baseLoadSec": {
+   "hdd": 25,
+   "sata_ssd": 10,
+   "nvme": 4
+  },
+  "rtSupport": false,
+  "dlssSupport": false,
+  "fgSupport": false,
+  "cpuCoeurs": 6
+ },
+ {
+  "id": "grounded",
+  "steamAppId": 962130,
+  "name": "Grounded",
+  "sizeGb": 12,
+  "baseFps": 192,
+  "cpuCeilFps": 335.0,
+  "vramBaseGb": 6,
+  "minRamGb": 8,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.85,
+   "2160": 0.53
+  },
+  "settingsScale": {
+   "low": 1.25,
+   "medium": 1.12,
+   "high": 1.05,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.8,
+  "low10Ratio": 0.92,
+  "baseLoadSec": {
+   "hdd": 25,
+   "sata_ssd": 10,
+   "nvme": 4
+  },
+  "rtSupport": false,
+  "dlssSupport": false,
+  "fgSupport": false,
+  "cpuCoeurs": 6
+ },
+ {
+  "id": "subnautica",
+  "steamAppId": 264710,
+  "name": "Subnautica",
+  "sizeGb": 12,
+  "baseFps": 166,
+  "cpuCeilFps": 290.0,
+  "vramBaseGb": 6,
+  "minRamGb": 8,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.85,
+   "2160": 0.54
+  },
+  "settingsScale": {
+   "low": 1.25,
+   "medium": 1.12,
+   "high": 1.05,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.75,
+  "low10Ratio": 0.91,
+  "baseLoadSec": {
+   "hdd": 25,
+   "sata_ssd": 10,
+   "nvme": 4
+  },
+  "rtSupport": false,
+  "dlssSupport": false,
+  "fgSupport": false,
+  "cpuCoeurs": 4
+ },
+ {
+  "id": "dayz",
+  "steamAppId": 221100,
+  "name": "DayZ",
+  "sizeGb": 25,
+  "baseFps": 106,
+  "cpuCeilFps": 185.0,
+  "vramBaseGb": 6,
+  "minRamGb": 12,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.85,
+   "2160": 0.56
+  },
+  "settingsScale": {
+   "low": 1.6,
+   "medium": 1.3,
+   "high": 1.1,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.62,
+  "low10Ratio": 0.78,
+  "baseLoadSec": {
+   "hdd": 31,
+   "sata_ssd": 12,
+   "nvme": 5
+  },
+  "rtSupport": false,
+  "dlssSupport": false,
+  "fgSupport": false,
+  "cpuCoeurs": 8
+ },
+ {
+  "id": "dune-awakening",
+  "steamAppId": null,
+  "name": "Dune: Awakening",
+  "sizeGb": 80,
+  "baseFps": 96,
+  "cpuCeilFps": 175.0,
+  "vramBaseGb": 10,
+  "minRamGb": 16,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.81,
+   "2160": 0.48
+  },
+  "settingsScale": {
+   "low": 1.9,
+   "medium": 1.45,
+   "high": 1.15,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.68,
+  "low10Ratio": 0.84,
+  "baseLoadSec": {
+   "hdd": 56,
+   "sata_ssd": 22,
+   "nvme": 9
+  },
+  "rtSupport": false,
+  "dlssSupport": true,
+  "fgSupport": true,
+  "cpuCoeurs": 8,
+  "fgGain": 1.85
+ },
+ {
+  "id": "new-world",
+  "steamAppId": 1063730,
+  "name": "New World: Aeternum",
+  "sizeGb": 60,
+  "baseFps": 138,
+  "cpuCeilFps": 245.0,
+  "vramBaseGb": 8,
+  "minRamGb": 16,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.83,
+   "2160": 0.5
+  },
+  "settingsScale": {
+   "low": 1.6,
+   "medium": 1.3,
+   "high": 1.1,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.7,
+  "low10Ratio": 0.86,
+  "baseLoadSec": {
+   "hdd": 43,
+   "sata_ssd": 18,
+   "nvme": 7
+  },
+  "rtSupport": false,
+  "dlssSupport": true,
+  "fgSupport": false,
+  "cpuCoeurs": 6
+ },
+ {
+  "id": "black-desert",
+  "steamAppId": 582660,
+  "name": "Black Desert Online",
+  "sizeGb": 60,
+  "baseFps": 118,
+  "cpuCeilFps": 210.0,
+  "vramBaseGb": 8,
+  "minRamGb": 16,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.84,
+   "2160": 0.53
+  },
+  "settingsScale": {
+   "low": 1.6,
+   "medium": 1.3,
+   "high": 1.1,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.65,
+  "low10Ratio": 0.81,
+  "baseLoadSec": {
+   "hdd": 43,
+   "sata_ssd": 18,
+   "nvme": 7
+  },
+  "rtSupport": false,
+  "dlssSupport": false,
+  "fgSupport": false,
+  "cpuCoeurs": 6
+ },
+ {
+  "id": "throne-and-liberty",
+  "steamAppId": 2429640,
+  "name": "Throne and Liberty",
+  "sizeGb": 60,
+  "baseFps": 106,
+  "cpuCeilFps": 190.0,
+  "vramBaseGb": 8,
+  "minRamGb": 16,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.82,
+   "2160": 0.48
+  },
+  "settingsScale": {
+   "low": 1.6,
+   "medium": 1.3,
+   "high": 1.1,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.66,
+  "low10Ratio": 0.82,
+  "baseLoadSec": {
+   "hdd": 43,
+   "sata_ssd": 18,
+   "nvme": 7
+  },
+  "rtSupport": false,
+  "dlssSupport": true,
+  "fgSupport": false,
+  "cpuCoeurs": 8
+ },
+ {
+  "id": "the-first-descendant",
+  "steamAppId": 2074920,
+  "name": "The First Descendant",
+  "sizeGb": 60,
+  "baseFps": 118,
+  "cpuCeilFps": 215.0,
+  "vramBaseGb": 8,
+  "minRamGb": 16,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.81,
+   "2160": 0.49
+  },
+  "settingsScale": {
+   "low": 1.6,
+   "medium": 1.3,
+   "high": 1.1,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.68,
+  "low10Ratio": 0.84,
+  "baseLoadSec": {
+   "hdd": 43,
+   "sata_ssd": 18,
+   "nvme": 7
+  },
+  "rtSupport": false,
+  "dlssSupport": true,
+  "fgSupport": true,
+  "cpuCoeurs": 8,
+  "fgGain": 1.8
+ },
+ {
+  "id": "once-human",
+  "steamAppId": null,
+  "name": "Once Human",
+  "sizeGb": 40,
+  "baseFps": 112,
+  "cpuCeilFps": 200.0,
+  "vramBaseGb": 8,
+  "minRamGb": 16,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.81,
+   "2160": 0.49
+  },
+  "settingsScale": {
+   "low": 1.6,
+   "medium": 1.3,
+   "high": 1.1,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.68,
+  "low10Ratio": 0.84,
+  "baseLoadSec": {
+   "hdd": 37,
+   "sata_ssd": 15,
+   "nvme": 6
+  },
+  "rtSupport": false,
+  "dlssSupport": true,
+  "fgSupport": false,
+  "cpuCoeurs": 8
+ },
+ {
+  "id": "civ6",
+  "steamAppId": 289070,
+  "name": "Civilization VI",
+  "sizeGb": 20,
+  "baseFps": 154,
+  "cpuCeilFps": 260.0,
+  "vramBaseGb": 6,
+  "minRamGb": 8,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.9,
+   "2160": 0.67
+  },
+  "settingsScale": {
+   "low": 1.4,
+   "medium": 1.22,
+   "high": 1.09,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.8,
+  "low10Ratio": 0.92,
+  "baseLoadSec": {
+   "hdd": 25,
+   "sata_ssd": 10,
+   "nvme": 4
+  },
+  "rtSupport": false,
+  "dlssSupport": false,
+  "fgSupport": false,
+  "cpuCoeurs": 6
+ },
+ {
+  "id": "civ7",
+  "steamAppId": 1295660,
+  "name": "Civilization VII",
+  "sizeGb": 30,
+  "baseFps": 138,
+  "cpuCeilFps": 235.0,
+  "vramBaseGb": 8,
+  "minRamGb": 16,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.88,
+   "2160": 0.65
+  },
+  "settingsScale": {
+   "low": 1.4,
+   "medium": 1.22,
+   "high": 1.09,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.79,
+  "low10Ratio": 0.92,
+  "baseLoadSec": {
+   "hdd": 31,
+   "sata_ssd": 12,
+   "nvme": 5
+  },
+  "rtSupport": false,
+  "dlssSupport": true,
+  "fgSupport": false,
+  "cpuCoeurs": 8
+ },
+ {
+  "id": "aoe4",
+  "steamAppId": 1466860,
+  "name": "Age of Empires IV",
+  "sizeGb": 50,
+  "baseFps": 147,
+  "cpuCeilFps": 250.0,
+  "vramBaseGb": 8,
+  "minRamGb": 16,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.87,
+   "2160": 0.63
+  },
+  "settingsScale": {
+   "low": 1.4,
+   "medium": 1.22,
+   "high": 1.09,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.78,
+  "low10Ratio": 0.92,
+  "baseLoadSec": {
+   "hdd": 37,
+   "sata_ssd": 15,
+   "nvme": 6
+  },
+  "rtSupport": false,
+  "dlssSupport": false,
+  "fgSupport": false,
+  "cpuCoeurs": 8
+ },
+ {
+  "id": "coh3",
+  "steamAppId": 1677280,
+  "name": "Company of Heroes 3",
+  "sizeGb": 40,
+  "baseFps": 128,
+  "cpuCeilFps": 220.0,
+  "vramBaseGb": 8,
+  "minRamGb": 16,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.88,
+   "2160": 0.64
+  },
+  "settingsScale": {
+   "low": 1.4,
+   "medium": 1.22,
+   "high": 1.09,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.76,
+  "low10Ratio": 0.92,
+  "baseLoadSec": {
+   "hdd": 37,
+   "sata_ssd": 15,
+   "nvme": 6
+  },
+  "rtSupport": false,
+  "dlssSupport": false,
+  "fgSupport": false,
+  "cpuCoeurs": 8
+ },
+ {
+  "id": "anno-1800",
+  "steamAppId": 916440,
+  "name": "Anno 1800",
+  "sizeGb": 60,
+  "baseFps": 106,
+  "cpuCeilFps": 180.0,
+  "vramBaseGb": 8,
+  "minRamGb": 16,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.88,
+   "2160": 0.65
+  },
+  "settingsScale": {
+   "low": 1.4,
+   "medium": 1.22,
+   "high": 1.09,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.72,
+  "low10Ratio": 0.88,
+  "baseLoadSec": {
+   "hdd": 43,
+   "sata_ssd": 18,
+   "nvme": 7
+  },
+  "rtSupport": false,
+  "dlssSupport": false,
+  "fgSupport": false,
+  "cpuCoeurs": 8
+ },
+ {
+  "id": "factorio",
+  "steamAppId": 427520,
+  "name": "Factorio",
+  "sizeGb": 3,
+  "baseFps": 307,
+  "cpuCeilFps": 500.0,
+  "vramBaseGb": 4,
+  "minRamGb": 8,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.94,
+   "2160": 0.79
+  },
+  "settingsScale": {
+   "low": 1.25,
+   "medium": 1.12,
+   "high": 1.05,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.85,
+  "low10Ratio": 0.92,
+  "baseLoadSec": {
+   "hdd": 19,
+   "sata_ssd": 8,
+   "nvme": 3
+  },
+  "rtSupport": false,
+  "dlssSupport": false,
+  "fgSupport": false,
+  "cpuCoeurs": 4
+ },
+ {
+  "id": "rimworld",
+  "steamAppId": 294100,
+  "name": "RimWorld",
+  "sizeGb": 1,
+  "baseFps": 288,
+  "cpuCeilFps": 470.0,
+  "vramBaseGb": 2,
+  "minRamGb": 8,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.96,
+   "2160": 0.84
+  },
+  "settingsScale": {
+   "low": 1.25,
+   "medium": 1.12,
+   "high": 1.05,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.86,
+  "low10Ratio": 0.92,
+  "baseLoadSec": {
+   "hdd": 19,
+   "sata_ssd": 8,
+   "nvme": 3
+  },
+  "rtSupport": false,
+  "dlssSupport": false,
+  "fgSupport": false,
+  "cpuCoeurs": 4
+ },
+ {
+  "id": "the-sims-4",
+  "steamAppId": 1222670,
+  "name": "Les Sims 4",
+  "sizeGb": 45,
+  "baseFps": 192,
+  "cpuCeilFps": 330.0,
+  "vramBaseGb": 4,
+  "minRamGb": 8,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.87,
+   "2160": 0.58
+  },
+  "settingsScale": {
+   "low": 1.25,
+   "medium": 1.12,
+   "high": 1.05,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.8,
+  "low10Ratio": 0.92,
+  "baseLoadSec": {
+   "hdd": 37,
+   "sata_ssd": 15,
+   "nvme": 6
+  },
+  "rtSupport": false,
+  "dlssSupport": false,
+  "fgSupport": false,
+  "cpuCoeurs": 4
+ },
+ {
+  "id": "forza-motorsport",
+  "steamAppId": 2440510,
+  "name": "Forza Motorsport (2023)",
+  "sizeGb": 130,
+  "baseFps": 118,
+  "cpuCeilFps": 215.0,
+  "vramBaseGb": 10,
+  "minRamGb": 16,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.84,
+   "2160": 0.53
+  },
+  "settingsScale": {
+   "low": 1.6,
+   "medium": 1.3,
+   "high": 1.1,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.72,
+  "low10Ratio": 0.88,
+  "baseLoadSec": {
+   "hdd": 74,
+   "sata_ssd": 30,
+   "nvme": 12
+  },
+  "rtSupport": true,
+  "dlssSupport": true,
+  "fgSupport": false,
+  "cpuCoeurs": 8,
+  "rtCost": 0.65
+ },
+ {
+  "id": "f1-24",
+  "steamAppId": 2488620,
+  "name": "F1 24",
+  "sizeGb": 60,
+  "baseFps": 147,
+  "cpuCeilFps": 260.0,
+  "vramBaseGb": 8,
+  "minRamGb": 16,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.83,
+   "2160": 0.51
+  },
+  "settingsScale": {
+   "low": 1.6,
+   "medium": 1.3,
+   "high": 1.1,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.76,
+  "low10Ratio": 0.92,
+  "baseLoadSec": {
+   "hdd": 43,
+   "sata_ssd": 18,
+   "nvme": 7
+  },
+  "rtSupport": true,
+  "dlssSupport": true,
+  "fgSupport": true,
+  "cpuCoeurs": 6,
+  "rtCost": 0.62,
+  "fgGain": 1.8
+ },
+ {
+  "id": "acc",
+  "steamAppId": 805550,
+  "name": "Assetto Corsa Competizione",
+  "sizeGb": 30,
+  "baseFps": 128,
+  "cpuCeilFps": 230.0,
+  "vramBaseGb": 8,
+  "minRamGb": 16,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.82,
+   "2160": 0.51
+  },
+  "settingsScale": {
+   "low": 1.6,
+   "medium": 1.3,
+   "high": 1.1,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.72,
+  "low10Ratio": 0.88,
+  "baseLoadSec": {
+   "hdd": 31,
+   "sata_ssd": 12,
+   "nvme": 5
+  },
+  "rtSupport": false,
+  "dlssSupport": true,
+  "fgSupport": false,
+  "cpuCoeurs": 6
+ },
+ {
+  "id": "nfs-unbound",
+  "steamAppId": 1846380,
+  "name": "Need for Speed Unbound",
+  "sizeGb": 50,
+  "baseFps": 154,
+  "cpuCeilFps": 270.0,
+  "vramBaseGb": 8,
+  "minRamGb": 16,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.83,
+   "2160": 0.52
+  },
+  "settingsScale": {
+   "low": 1.6,
+   "medium": 1.3,
+   "high": 1.1,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.76,
+  "low10Ratio": 0.92,
+  "baseLoadSec": {
+   "hdd": 37,
+   "sata_ssd": 15,
+   "nvme": 6
+  },
+  "rtSupport": false,
+  "dlssSupport": true,
+  "fgSupport": false,
+  "cpuCoeurs": 6
+ },
+ {
+  "id": "ets2",
+  "steamAppId": 227300,
+  "name": "Euro Truck Simulator 2",
+  "sizeGb": 20,
+  "baseFps": 179,
+  "cpuCeilFps": 310.0,
+  "vramBaseGb": 4,
+  "minRamGb": 8,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.86,
+   "2160": 0.57
+  },
+  "settingsScale": {
+   "low": 1.25,
+   "medium": 1.12,
+   "high": 1.05,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.8,
+  "low10Ratio": 0.92,
+  "baseLoadSec": {
+   "hdd": 25,
+   "sata_ssd": 10,
+   "nvme": 4
+  },
+  "rtSupport": false,
+  "dlssSupport": false,
+  "fgSupport": false,
+  "cpuCoeurs": 4
+ },
+ {
+  "id": "ats",
+  "steamAppId": 270880,
+  "name": "American Truck Simulator",
+  "sizeGb": 20,
+  "baseFps": 176,
+  "cpuCeilFps": 305.0,
+  "vramBaseGb": 4,
+  "minRamGb": 8,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.85,
+   "2160": 0.57
+  },
+  "settingsScale": {
+   "low": 1.25,
+   "medium": 1.12,
+   "high": 1.05,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.8,
+  "low10Ratio": 0.92,
+  "baseLoadSec": {
+   "hdd": 25,
+   "sata_ssd": 10,
+   "nvme": 4
+  },
+  "rtSupport": false,
+  "dlssSupport": false,
+  "fgSupport": false,
+  "cpuCoeurs": 4
+ },
+ {
+  "id": "snowrunner",
+  "steamAppId": 1465360,
+  "name": "SnowRunner",
+  "sizeGb": 25,
+  "baseFps": 138,
+  "cpuCeilFps": 240.0,
+  "vramBaseGb": 6,
+  "minRamGb": 12,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.84,
+   "2160": 0.53
+  },
+  "settingsScale": {
+   "low": 1.6,
+   "medium": 1.3,
+   "high": 1.1,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.76,
+  "low10Ratio": 0.92,
+  "baseLoadSec": {
+   "hdd": 31,
+   "sata_ssd": 12,
+   "nvme": 5
+  },
+  "rtSupport": false,
+  "dlssSupport": false,
+  "fgSupport": false,
+  "cpuCoeurs": 6
+ },
+ {
+  "id": "farming-sim-25",
+  "steamAppId": null,
+  "name": "Farming Simulator 25",
+  "sizeGb": 30,
+  "baseFps": 134,
+  "cpuCeilFps": 235.0,
+  "vramBaseGb": 8,
+  "minRamGb": 16,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.83,
+   "2160": 0.52
+  },
+  "settingsScale": {
+   "low": 1.6,
+   "medium": 1.3,
+   "high": 1.1,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.75,
+  "low10Ratio": 0.91,
+  "baseLoadSec": {
+   "hdd": 31,
+   "sata_ssd": 12,
+   "nvme": 5
+  },
+  "rtSupport": false,
+  "dlssSupport": true,
+  "fgSupport": false,
+  "cpuCoeurs": 6
+ },
+ {
+  "id": "terraria",
+  "steamAppId": 105600,
+  "name": "Terraria",
+  "sizeGb": 1,
+  "baseFps": 448,
+  "cpuCeilFps": 720.0,
+  "vramBaseGb": 2,
+  "minRamGb": 4,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.97,
+   "2160": 0.86
+  },
+  "settingsScale": {
+   "low": 1.25,
+   "medium": 1.12,
+   "high": 1.05,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.88,
+  "low10Ratio": 0.92,
+  "baseLoadSec": {
+   "hdd": 19,
+   "sata_ssd": 8,
+   "nvme": 3
+  },
+  "rtSupport": false,
+  "dlssSupport": false,
+  "fgSupport": false,
+  "cpuCoeurs": 4
+ },
+ {
+  "id": "balatro",
+  "steamAppId": 2379780,
+  "name": "Balatro",
+  "sizeGb": 1,
+  "baseFps": 576,
+  "cpuCeilFps": 950.0,
+  "vramBaseGb": 2,
+  "minRamGb": 4,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.98,
+   "2160": 0.89
+  },
+  "settingsScale": {
+   "low": 1.25,
+   "medium": 1.12,
+   "high": 1.05,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.9,
+  "low10Ratio": 0.92,
+  "baseLoadSec": {
+   "hdd": 19,
+   "sata_ssd": 8,
+   "nvme": 3
+  },
+  "rtSupport": false,
+  "dlssSupport": false,
+  "fgSupport": false,
+  "cpuCoeurs": 4
+ },
+ {
+  "id": "repo",
+  "steamAppId": null,
+  "name": "R.E.P.O.",
+  "sizeGb": 3,
+  "baseFps": 205,
+  "cpuCeilFps": 360.0,
+  "vramBaseGb": 6,
+  "minRamGb": 12,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.86,
+   "2160": 0.55
+  },
+  "settingsScale": {
+   "low": 1.25,
+   "medium": 1.12,
+   "high": 1.05,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.75,
+  "low10Ratio": 0.91,
+  "baseLoadSec": {
+   "hdd": 19,
+   "sata_ssd": 8,
+   "nvme": 3
+  },
+  "rtSupport": false,
+  "dlssSupport": false,
+  "fgSupport": false,
+  "cpuCoeurs": 6
+ },
+ {
+  "id": "schedule-1",
+  "steamAppId": null,
+  "name": "Schedule I",
+  "sizeGb": 5,
+  "baseFps": 179,
+  "cpuCeilFps": 310.0,
+  "vramBaseGb": 6,
+  "minRamGb": 12,
+  "resScale": {
+   "1080": 1.0,
+   "1440": 0.86,
+   "2160": 0.55
+  },
+  "settingsScale": {
+   "low": 1.25,
+   "medium": 1.12,
+   "high": 1.05,
+   "ultra": 1.0
+  },
+  "low1Ratio": 0.74,
+  "low10Ratio": 0.9,
+  "baseLoadSec": {
+   "hdd": 19,
+   "sata_ssd": 8,
+   "nvme": 3
+  },
+  "rtSupport": false,
+  "dlssSupport": false,
+  "fgSupport": false,
+  "cpuCoeurs": 6
  }
 ]

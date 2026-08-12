@@ -143,6 +143,12 @@ class AmazonMobileSource:
         cette marketplace · `bloque` = page d'attente anti-robot (à ne surtout
         pas confondre avec un rejet : ce serait perdre de bons produits).
         """
+        etat, titre, _ = self.fiche_complete(asin, essais)
+        return etat, titre
+
+    def fiche_complete(self, asin, essais=2):
+        """(état, titre, HTML) — variante qui rend aussi la page, pour en tirer
+        le prix et la disponibilité sans la retélécharger."""
         url = f"https://www.{self.domaine}/gp/aw/d/{asin}"
         for n in range(essais):
             self._attendre()
@@ -152,12 +158,12 @@ class AmazonMobileSource:
                 time.sleep(1.5 * (n + 1))
                 continue
             if r.status_code == 404:
-                return "absent", ""
+                return "absent", "", ""
             if r.status_code == 200:
                 m = _TITRE_PAGE.search(r.text)
                 t = re.sub(r"\s+", " ", unescape(m.group(1))).strip() if m else ""
                 t = _QUEUE_PAGE.sub("", _TETE_PAGE.sub("", t)).strip()
                 if len(t) >= 15:
-                    return "ok", t
+                    return "ok", t, r.text
             time.sleep(1.5 * (n + 1))
-        return "bloque", ""
+        return "bloque", "", ""

@@ -66,6 +66,19 @@ jobs:
       # par composant et par marketplace taguee, utilises par l'app quand aucune
       # offre Amazon verifiee n'existe. Place APRES enrich_amazon et
       # resolve_amazon_asins : les deux alimentent le meme amazon_asins.json.
+      # Verification de CHAQUE lien Amazon deja resolu : la fiche existe-t-elle
+      # toujours, a quel prix, et le produit est-il achetable ? Un lien mort ou
+      # un ASIN recycle est efface, donc re-cherche a l'execution suivante.
+      # Les prix relevés sont publies comme offres affiliees.
+      # NB : le runner GitHub est AMERICAIN, il obtient donc les prix
+      # amazon.com en dollars — ce qu'une execution depuis l'Europe ne peut pas
+      # faire (Amazon y convertit tout en euros, et ces montants sont ecartes).
+      - name: Prix et validite des liens Amazon
+        run: python scraper/verifier_amazon.py --data-repo . --items-dir catalog
+        continue-on-error: true
+      - name: Nettoyage des offres Amazon en devise convertie
+        run: python scraper/nettoyer_amazon.py --data-repo .
+        continue-on-error: true
       - name: Liens d'affiliation Amazon (pre-calcules)
         run: >
           python scraper/gen_amazon_links.py --out catalog/amazon_links.json

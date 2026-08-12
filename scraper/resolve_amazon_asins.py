@@ -116,6 +116,8 @@ def requete_simple(cat, it):
         return f"{marque} {it.get('kind', '')}-{it.get('mhz', '')} " \
                f"{it.get('sizeGb', '')}GB".strip()
     nom = re.sub(r"\s*\([^)]*\)", "", it.get("name", "")).strip()
+    # Ponctuation de marque qui casse la recherche : « be quiet! », « G.Skill ».
+    nom = nom.replace("!", " ").replace(".", " ")
     if marque and marque.lower() not in nom.lower():
         nom = f"{marque} {nom}"
     # Trois premiers mots : marque + gamme + modèle, sans les mentions de

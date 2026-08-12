@@ -329,6 +329,12 @@ def principal():
                          "de niche, mais Amazon bride ses recherches — à "
                          "réserver aux rattrapages de quelques dizaines "
                          "d'articles")
+    ap.add_argument("--par-marche", action="store_true",
+                    help="chercher une fiche PROPRE à chaque marketplace pour "
+                         "les pays où l'ASIN commun n'existe pas : le même "
+                         "produit y est souvent vendu sous un autre "
+                         "identifiant, et le lien cesse alors de rebondir "
+                         "vers la France")
     ap.add_argument("--completer", action="store_true",
                     help="compléter les marketplaces manquantes des composants "
                          "DÉJÀ résolus (rend les liens natifs au lieu de "
@@ -374,6 +380,50 @@ def principal():
             cid, nom = it["id"], it.get("name", "")
             connus = cat_cache.get(cid)
 
+            # --- mode PAR MARCHÉ : une fiche propre à chaque pays -----------
+            # Le mode complétion se contente de tester l'ASIN déjà connu sur
+            # les autres marketplaces. Quand il n'y existe pas, le produit y
+            # est pourtant souvent vendu sous un AUTRE identifiant — c'est le
+            # cas courant des ventirads et des alimentations, référencés
+            # séparément dans chaque pays. Faute de le chercher, tous ces
+            # liens rebondissaient vers la France.
+            if args.par_marche:
+                if not connus or not any(connus.values()):
+                    n_saute += 1
+                    continue
+                manquantes = [m for m in marches if not connus.get(m)]
+                if not manquantes:
+                    n_saute += 1
+                    continue
+                q = requete(cat, it)
+                simple = requete_simple(cat, it)
+                jetons = _jetons(cat, it)
+                gagnees = []
+                for m in manquantes:
+                    src = sources[m]
+                    trouve = None
+                    for req in [q] + ([simple] if simple and simple != q else []):
+                        for asin in src.asins(req, maxi=args.candidats):
+                            etat, t = src.fiche(asin, essais=1)
+                            if etat == "ok" and valide(cat, nom, t, jetons,
+                                                       souple=True):
+                                trouve = asin
+                                break
+                        if trouve:
+                            break
+                    connus[m] = trouve or False
+                    if trouve:
+                        gagnees.append(m)
+                if gagnees:
+                    n_ok += 1
+                    print(f"  + {cat}/{cid}: fiches propres sur "
+                          f"{', '.join(m.split('.', 1)[1] for m in gagnees)}",
+                          flush=True)
+                else:
+                    n_ko += 1
+                ecrire()
+                continue
+
             # --- mode COMPLÉTION : on ne cherche rien de neuf, on vérifie
             # seulement si l'ASIN déjà retenu existe AUSSI sur les marketplaces
             # restées vides. Chaque succès transforme un rebond OneLink en lien
@@ -391,11 +441,11 @@ def principal():
                 jetons = _jetons(cat, it)
                 gagnees = []
                 for m in manquantes:
-                    # Un seul essai : une marketplace qui bride reste « à
-                    # vérifier » et sera reprise à la passe suivante. Réessayer
-                    # sur place coûtait 5 s par marketplace, soit une trentaine
-                    # de secondes par composant.
-                    etat, t = sources[m].fiche(asin, essais=1)
+                    # Deux essais : une page d'attente laisse la marketplace
+                    # « à vérifier », donc une passe entière peut se terminer
+                    # sans le moindre progrès si le site bride. Un second essai
+                    # coûte quelques secondes et débloque ces catégories.
+                    etat, t = sources[m].fiche(asin, essais=2)
                     if etat == "ok" and valide(cat, nom, t, jetons, souple=True):
                         connus[m] = asin
                         gagnees.append(m)

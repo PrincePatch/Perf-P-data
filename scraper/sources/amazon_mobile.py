@@ -146,24 +146,42 @@ class AmazonMobileSource:
         etat, titre, _ = self.fiche_complete(asin, essais)
         return etat, titre
 
+    # Une fiche produit pèse 1,5 à 3 Mo, dont l'essentiel est du script et des
+    # carrousels de suggestions. Le titre, le prix et la disponibilité tiennent
+    # largement dans le premier mégaoctet : lire la suite ne sert à rien et,
+    # multiplié par des milliers de pages, finit par épuiser la mémoire.
+    _MAX_OCTETS = 1_200_000
+
     def fiche_complete(self, asin, essais=2):
-        """(état, titre, HTML) — variante qui rend aussi la page, pour en tirer
-        le prix et la disponibilité sans la retélécharger."""
+        """(état, titre, HTML tronqué) — variante qui rend aussi la page, pour
+        en tirer le prix et la disponibilité sans la retélécharger."""
         url = f"https://www.{self.domaine}/gp/aw/d/{asin}"
         for n in range(essais):
             self._attendre()
             try:
-                r = self.s.get(url, timeout=self.timeout)
+                r = self.s.get(url, timeout=self.timeout, stream=True)
+                try:
+                    if r.status_code == 404:
+                        return "absent", "", ""
+                    if r.status_code != 200:
+                        html = ""
+                    else:
+                        buf = bytearray()
+                        for bloc in r.iter_content(65536):
+                            buf += bloc
+                            if len(buf) >= self._MAX_OCTETS:
+                                break
+                        html = buf.decode("utf-8", "ignore")
+                finally:
+                    r.close()
             except requests.RequestException:
                 time.sleep(1.5 * (n + 1))
                 continue
-            if r.status_code == 404:
-                return "absent", "", ""
-            if r.status_code == 200:
-                m = _TITRE_PAGE.search(r.text)
+            if html:
+                m = _TITRE_PAGE.search(html)
                 t = re.sub(r"\s+", " ", unescape(m.group(1))).strip() if m else ""
                 t = _QUEUE_PAGE.sub("", _TETE_PAGE.sub("", t)).strip()
                 if len(t) >= 15:
-                    return "ok", t, r.text
+                    return "ok", t, html
             time.sleep(1.5 * (n + 1))
         return "bloque", "", ""

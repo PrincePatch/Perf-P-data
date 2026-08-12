@@ -77,20 +77,29 @@ def _texte(html):
     return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", html)).strip()
 
 
-def _recent(entree, heures):
-    """Vrai si les offres Amazon de ce composant datent de moins de [heures]."""
+def _fraiches(entree, heures):
+    """Marketplaces dont l'offre Amazon date de moins de [heures].
+
+    La fraîcheur se juge marketplace PAR marketplace, pas composant par
+    composant : une fiche tout juste trouvée sur `amazon.es` doit être chiffrée
+    même si le prix français, lui, vient d'être relevé.
+    """
     if not entree or heures <= 0:
-        return False
-    vus = [p.get("lastSeen") for p in entree.get("prices", [])
-           if "amazon." in (p.get("shop") or "").lower() and p.get("lastSeen")]
-    if not vus:
-        return False
-    try:
-        dernier = max(datetime.strptime(v, "%Y-%m-%dT%H:%M:%SZ").replace(
-            tzinfo=timezone.utc) for v in vus)
-    except ValueError:
-        return False
-    return (datetime.now(timezone.utc) - dernier).total_seconds() < heures * 3600
+        return set()
+    limite = datetime.now(timezone.utc).timestamp() - heures * 3600
+    out = set()
+    for p in entree.get("prices", []):
+        shop = (p.get("shop") or "").lower()
+        if "amazon." not in shop or not p.get("lastSeen"):
+            continue
+        try:
+            vu = datetime.strptime(p["lastSeen"], "%Y-%m-%dT%H:%M:%SZ").replace(
+                tzinfo=timezone.utc).timestamp()
+        except ValueError:
+            continue
+        if vu > limite:
+            out.add(shop)
+    return out
 
 
 def disponibilite(html):
@@ -205,10 +214,12 @@ def principal():
             actifs = {m: a for m, a in par_marche.items() if a and m in marches}
             if not actifs:
                 continue
-            # Reprise : un composant dont les offres Amazon viennent d'être
-            # relevées est sauté. Sans cela, chaque exécution repartait du début
-            # du catalogue et revérifiait éternellement les mêmes composants.
-            if _recent(existant.get(cid), args.frais_h):
+            # Reprise : les marketplaces dont le prix vient d'être relevé sont
+            # sautées. Sans cela, chaque exécution repartait du début du
+            # catalogue et revérifiait éternellement les mêmes fiches.
+            deja = _fraiches(existant.get(cid), args.frais_h)
+            actifs = {m: a for m, a in actifs.items() if m not in deja}
+            if not actifs:
                 continue
             traites += 1
             jetons = _jetons(cat, it)
@@ -261,10 +272,13 @@ def principal():
                 e = {"id": cid, "name": it["name"], "priceMin": None,
                      "prices": [], "image": None, "lastUpdated": quand}
                 existant[cid] = e
-            # Les offres Amazon relevées ici remplacent les précédentes : elles
-            # portent le lien affilié et un prix du jour.
+            # Les offres relevées remplacent celles des MÊMES marketplaces ;
+            # celles des marketplaces non revisitées (encore fraîches) sont
+            # conservées, sans quoi chaque passe partielle effacerait le
+            # travail de la précédente.
+            revues = {o["shop"] for o in offres}
             e["prices"] = [p for p in e.get("prices", [])
-                           if "amazon." not in (p.get("shop") or "").lower()]
+                           if (p.get("shop") or "").lower() not in revues]
             e["prices"].extend(offres)
             e["lastUpdated"] = quand
 

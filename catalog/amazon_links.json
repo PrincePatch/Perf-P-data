@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-12T09:06:45Z",
+ "generated": "2026-08-12T14:25:16Z",
  "markets": [
   "amazon.fr",
   "amazon.de",
@@ -9,8 +9,8 @@
   "amazon.com",
   "amazon.com.au"
  ],
- "nativeLinks": 1739,
- "onelinkLinks": 1712,
+ "nativeLinks": 1758,
+ "onelinkLinks": 1784,
  "note": "Liens d'affiliation Amazon pre-calcules vers la FICHE PRODUIT (/dp/<ASIN>), utilises par l'app quand aucune offre Amazon verifiee n'est disponible. ASIN valides sur la fiche Amazon elle-meme ; les marketplaces sans fiche recoivent le lien d'une marketplace voisine, OneLink redirigeant l'acheteur.",
  "items": {
   "gpus": {
@@ -2666,6 +2666,24 @@
      "amazon.com.au": "https://www.amazon.com/dp/B0BG67ZG5R?tag=fraym-20"
     }
    },
+   "i7_13700k": {
+    "name": "Core i7-13700K",
+    "q": "Intel Core i7-13700K",
+    "asin": "B0BG6843GX",
+    "product": "Intel® Core™ i7-13700K Desktop-Prozessor 16 Kerne 30 MB Cache, bis zu 5,4 GHz",
+    "native": [
+     "amazon.de"
+    ],
+    "links": {
+     "amazon.fr": "https://www.amazon.de/dp/B0BG6843GX?tag=fraym03-21",
+     "amazon.de": "https://www.amazon.de/dp/B0BG6843GX?tag=fraym03-21",
+     "amazon.es": "https://www.amazon.de/dp/B0BG6843GX?tag=fraym03-21",
+     "amazon.it": "https://www.amazon.de/dp/B0BG6843GX?tag=fraym03-21",
+     "amazon.co.uk": "https://www.amazon.de/dp/B0BG6843GX?tag=fraym03-21",
+     "amazon.com": "https://www.amazon.de/dp/B0BG6843GX?tag=fraym03-21",
+     "amazon.com.au": "https://www.amazon.de/dp/B0BG6843GX?tag=fraym03-21"
+    }
+   },
    "i5_13600k": {
     "name": "Core i5-13600K",
     "q": "Intel Core i5-13600K",
@@ -2813,6 +2831,25 @@
      "amazon.co.uk": "https://www.amazon.co.uk/dp/B0BXGZHCK2?tag=fraym0a-21",
      "amazon.com": "https://www.amazon.co.uk/dp/B0BXGZHCK2?tag=fraym0a-21",
      "amazon.com.au": "https://www.amazon.co.uk/dp/B0BXGZHCK2?tag=fraym0a-21"
+    }
+   },
+   "ultra9_285k": {
+    "name": "Core Ultra 9 285K",
+    "q": "Intel Core Ultra 9 285K",
+    "asin": "B0H2Z9PLLL",
+    "product": "Intel Core Ultra 9 285K Processeur de bureau, 24 cœurs, 5,7 GHz débloqué, mémoire cache 40 Mo, compatible avec les cartes mères Intel série 800",
+    "native": [
+     "amazon.fr",
+     "amazon.com"
+    ],
+    "links": {
+     "amazon.fr": "https://www.amazon.fr/dp/B0H2Z9PLLL?tag=fraym-21",
+     "amazon.de": "https://www.amazon.fr/dp/B0H2Z9PLLL?tag=fraym-21",
+     "amazon.es": "https://www.amazon.fr/dp/B0H2Z9PLLL?tag=fraym-21",
+     "amazon.it": "https://www.amazon.fr/dp/B0H2Z9PLLL?tag=fraym-21",
+     "amazon.co.uk": "https://www.amazon.fr/dp/B0H2Z9PLLL?tag=fraym-21",
+     "amazon.com": "https://www.amazon.com/dp/B0H2Z9PLLL?tag=fraym-20",
+     "amazon.com.au": "https://www.amazon.com/dp/B0H2Z9PLLL?tag=fraym-20"
     }
    },
    "r5_9600x": {
@@ -3055,6 +3092,24 @@
      "amazon.co.uk": "https://www.amazon.co.uk/dp/B08TX5KL5T?tag=fraym0a-21",
      "amazon.com": "https://www.amazon.com/dp/B08TX5KL5T?tag=fraym-20",
      "amazon.com.au": "https://www.amazon.com.au/dp/B08TX5KL5T?tag=fraym-22"
+    }
+   },
+   "ultra7_265k": {
+    "name": "Core Ultra 7 265K",
+    "q": "Intel Core Ultra 7 265K",
+    "asin": "B0DFK2MH2D",
+    "product": "Intel® Core™ Ultra 7 Desktop-Prozessor 265K 20 Kerne bis zu 5,5 GHz",
+    "native": [
+     "amazon.de"
+    ],
+    "links": {
+     "amazon.fr": "https://www.amazon.de/dp/B0DFK2MH2D?tag=fraym03-21",
+     "amazon.de": "https://www.amazon.de/dp/B0DFK2MH2D?tag=fraym03-21",
+     "amazon.es": "https://www.amazon.de/dp/B0DFK2MH2D?tag=fraym03-21",
+     "amazon.it": "https://www.amazon.de/dp/B0DFK2MH2D?tag=fraym03-21",
+     "amazon.co.uk": "https://www.amazon.de/dp/B0DFK2MH2D?tag=fraym03-21",
+     "amazon.com": "https://www.amazon.de/dp/B0DFK2MH2D?tag=fraym03-21",
+     "amazon.com.au": "https://www.amazon.de/dp/B0DFK2MH2D?tag=fraym03-21"
     }
    },
    "amd-ryzen-9-9950x": {
@@ -3555,6 +3610,25 @@
      "amazon.com.au": "https://www.amazon.co.uk/dp/B08QVDGLRK?tag=fraym0a-21"
     }
    },
+   "amd-ryzen-7-1700": {
+    "name": "Ryzen 7 1700",
+    "q": "AMD Ryzen 7 1700",
+    "asin": "B06WP5YCX6",
+    "product": "AMD Ryzen 7 1700 Prozessor mit Wraith-Spire-LED-Kühler",
+    "native": [
+     "amazon.de",
+     "amazon.com"
+    ],
+    "links": {
+     "amazon.fr": "https://www.amazon.de/dp/B06WP5YCX6?tag=fraym03-21",
+     "amazon.de": "https://www.amazon.de/dp/B06WP5YCX6?tag=fraym03-21",
+     "amazon.es": "https://www.amazon.de/dp/B06WP5YCX6?tag=fraym03-21",
+     "amazon.it": "https://www.amazon.de/dp/B06WP5YCX6?tag=fraym03-21",
+     "amazon.co.uk": "https://www.amazon.de/dp/B06WP5YCX6?tag=fraym03-21",
+     "amazon.com": "https://www.amazon.com/dp/B06WP5YCX6?tag=fraym-20",
+     "amazon.com.au": "https://www.amazon.com/dp/B06WP5YCX6?tag=fraym-20"
+    }
+   },
    "amd-ryzen-5-1600": {
     "name": "Ryzen 5 1600",
     "q": "AMD Ryzen 5 1600",
@@ -3693,6 +3767,25 @@
      "amazon.co.uk": "https://www.amazon.co.uk/dp/B0BVKX19C3?tag=fraym0a-21",
      "amazon.com": "https://www.amazon.com/dp/B0BVKX19C3?tag=fraym-20",
      "amazon.com.au": "https://www.amazon.com.au/dp/B0BVKX19C3?tag=fraym-22"
+    }
+   },
+   "intel-core-i9-13900kf": {
+    "name": "Core i9-13900KF",
+    "q": "Intel Core i9-13900KF",
+    "asin": "B0BG66JH7Q",
+    "product": "Intel® Core™ i9-13900KF Desktop-Prozessor 24 Kerne 36 MB Cache, bis zu 5,8 GHz",
+    "native": [
+     "amazon.de",
+     "amazon.com"
+    ],
+    "links": {
+     "amazon.fr": "https://www.amazon.de/dp/B0BG66JH7Q?tag=fraym03-21",
+     "amazon.de": "https://www.amazon.de/dp/B0BG66JH7Q?tag=fraym03-21",
+     "amazon.es": "https://www.amazon.de/dp/B0BG66JH7Q?tag=fraym03-21",
+     "amazon.it": "https://www.amazon.de/dp/B0BG66JH7Q?tag=fraym03-21",
+     "amazon.co.uk": "https://www.amazon.de/dp/B0BG66JH7Q?tag=fraym03-21",
+     "amazon.com": "https://www.amazon.com/dp/B0BG66JH7Q?tag=fraym-20",
+     "amazon.com.au": "https://www.amazon.com/dp/B0BG66JH7Q?tag=fraym-20"
     }
    },
    "intel-core-i7-13700f": {
@@ -3928,6 +4021,43 @@
      "amazon.co.uk": "https://www.amazon.com/dp/B08LKJPR5X?tag=fraym-20",
      "amazon.com": "https://www.amazon.com/dp/B08LKJPR5X?tag=fraym-20",
      "amazon.com.au": "https://www.amazon.com/dp/B08LKJPR5X?tag=fraym-20"
+    }
+   },
+   "intel-core-ultra-7-265kf": {
+    "name": "Core Ultra 7 265KF",
+    "q": "Intel Core Ultra 7 265KF",
+    "asin": "B0H2Z7VF4G",
+    "product": "Intel Ultra 7 265KF Processeur de Bureau, 20 cœurs, jusqu'à 5,5 GHz, Cache 36 Mo, Socket LGA1851, 125 W, sans Solution Thermique",
+    "native": [
+     "amazon.fr",
+     "amazon.com"
+    ],
+    "links": {
+     "amazon.fr": "https://www.amazon.fr/dp/B0H2Z7VF4G?tag=fraym-21",
+     "amazon.de": "https://www.amazon.fr/dp/B0H2Z7VF4G?tag=fraym-21",
+     "amazon.es": "https://www.amazon.fr/dp/B0H2Z7VF4G?tag=fraym-21",
+     "amazon.it": "https://www.amazon.fr/dp/B0H2Z7VF4G?tag=fraym-21",
+     "amazon.co.uk": "https://www.amazon.fr/dp/B0H2Z7VF4G?tag=fraym-21",
+     "amazon.com": "https://www.amazon.com/dp/B0H2Z7VF4G?tag=fraym-20",
+     "amazon.com.au": "https://www.amazon.com/dp/B0H2Z7VF4G?tag=fraym-20"
+    }
+   },
+   "intel-core-ultra-5-245kf": {
+    "name": "Core Ultra 5 245KF",
+    "q": "Intel Core Ultra 5 245KF",
+    "asin": "B0DFK8HHK4",
+    "product": "Intel® Core™ Ultra 5 Desktop-Prozessor 245KF 14 Kerne bis zu 5,2 GHz",
+    "native": [
+     "amazon.de"
+    ],
+    "links": {
+     "amazon.fr": "https://www.amazon.de/dp/B0DFK8HHK4?tag=fraym03-21",
+     "amazon.de": "https://www.amazon.de/dp/B0DFK8HHK4?tag=fraym03-21",
+     "amazon.es": "https://www.amazon.de/dp/B0DFK8HHK4?tag=fraym03-21",
+     "amazon.it": "https://www.amazon.de/dp/B0DFK8HHK4?tag=fraym03-21",
+     "amazon.co.uk": "https://www.amazon.de/dp/B0DFK8HHK4?tag=fraym03-21",
+     "amazon.com": "https://www.amazon.de/dp/B0DFK8HHK4?tag=fraym03-21",
+     "amazon.com.au": "https://www.amazon.de/dp/B0DFK8HHK4?tag=fraym03-21"
     }
    },
    "xeonw93495x": {
@@ -4465,6 +4595,25 @@
      "amazon.com.au": "https://www.amazon.com/dp/B0BPL82FD9?tag=fraym-20"
     }
    },
+   "ddr5_48_6400c32": {
+    "name": "48 Go DDR5-6400 CL32",
+    "q": "G.Skill DDR5-6400 48GB CL32",
+    "asin": "B0C6HW1GKZ",
+    "product": "G.Skill DDR5 48 GB PC 6400 CL32 KIT 2x24 48-RS5K",
+    "native": [
+     "amazon.de",
+     "amazon.com"
+    ],
+    "links": {
+     "amazon.fr": "https://www.amazon.de/dp/B0C6HW1GKZ?tag=fraym03-21",
+     "amazon.de": "https://www.amazon.de/dp/B0C6HW1GKZ?tag=fraym03-21",
+     "amazon.es": "https://www.amazon.de/dp/B0C6HW1GKZ?tag=fraym03-21",
+     "amazon.it": "https://www.amazon.de/dp/B0C6HW1GKZ?tag=fraym03-21",
+     "amazon.co.uk": "https://www.amazon.de/dp/B0C6HW1GKZ?tag=fraym03-21",
+     "amazon.com": "https://www.amazon.com/dp/B0C6HW1GKZ?tag=fraym-20",
+     "amazon.com.au": "https://www.amazon.com/dp/B0C6HW1GKZ?tag=fraym-20"
+    }
+   },
    "ddr5_64_6000c32": {
     "name": "64 Go DDR5-6000 CL32",
     "q": "Kingston DDR5-6000 64GB CL32",
@@ -4482,6 +4631,24 @@
      "amazon.co.uk": "https://www.amazon.fr/dp/B0BZJJ9Q61?tag=fraym-21",
      "amazon.com": "https://www.amazon.fr/dp/B0BZJJ9Q61?tag=fraym-21",
      "amazon.com.au": "https://www.amazon.fr/dp/B0BZJJ9Q61?tag=fraym-21"
+    }
+   },
+   "ddr3_8_1600c9": {
+    "name": "8 Go DDR3-1600 CL9",
+    "q": "Crucial DDR3-1600 8GB CL9",
+    "asin": "B0C69TXLX1",
+    "product": "8Go RAM Value Tech Pro VTP08G3U1600 DDR3 PC3-12800U 1600 MHz PC Bureau",
+    "native": [
+     "amazon.fr"
+    ],
+    "links": {
+     "amazon.fr": "https://www.amazon.fr/dp/B0C69TXLX1?tag=fraym-21",
+     "amazon.de": "https://www.amazon.fr/dp/B0C69TXLX1?tag=fraym-21",
+     "amazon.es": "https://www.amazon.fr/dp/B0C69TXLX1?tag=fraym-21",
+     "amazon.it": "https://www.amazon.fr/dp/B0C69TXLX1?tag=fraym-21",
+     "amazon.co.uk": "https://www.amazon.fr/dp/B0C69TXLX1?tag=fraym-21",
+     "amazon.com": "https://www.amazon.fr/dp/B0C69TXLX1?tag=fraym-21",
+     "amazon.com.au": "https://www.amazon.fr/dp/B0C69TXLX1?tag=fraym-21"
     }
    },
    "ddr3_16_1600c10": {
@@ -5504,7 +5671,7 @@
    },
    "hdd-barracuda": {
     "name": "Seagate BarraCuda 2 To",
-    "q": "Seagate BarraCuda 2 To 2TB",
+    "q": "Seagate BarraCuda 2TB",
     "asin": "B07H24QRS1",
     "product": "Seagate BarraCuda Pro 2 To, Disque dur interne HDD – 3,5\" SATA 6 Gbit/s 7 200 tr/min, 128 Mo mémoire cache, pour PC, services de récupération des données – Ouverture facile (ST2000DMZ09)",
     "native": [
@@ -5523,7 +5690,7 @@
    },
    "nvme-sn770-250": {
     "name": "WD Black SN770 250 Go",
-    "q": "Western Digital WD Black SN770 250 Go 250GB",
+    "q": "Western Digital WD Black SN770 250GB",
     "asin": "B09QVP977F",
     "product": "WD_Black SN770 250 Go, M.2 2280, PCIe Gen4 NVMe, Vitesse de lecture jusqu'à 4000 Mo/s, SSD de Jeu",
     "native": [
@@ -5541,7 +5708,7 @@
    },
    "nvme-p3-500": {
     "name": "Crucial P3 500 Go",
-    "q": "Crucial P3 500 Go 500GB",
+    "q": "Crucial P3 500GB",
     "asin": "B0B25LQQPC",
     "product": "Crucial P3 500Go CT500P3SSD8 PCIe 3.0, 3D NAND, NVMe, M.2 SSD, up to 3500MB/s",
     "native": [
@@ -5559,7 +5726,7 @@
    },
    "nvme-980pro-2t": {
     "name": "Samsung 980 Pro 2 To",
-    "q": "Samsung 980 Pro 2 To 2TB",
+    "q": "Samsung 980 Pro 2TB",
     "asin": "B08QJHLC8J",
     "product": "Samsung 980 PRO MZ-V8P2T0BW | Disque SSD Interne NVMe M.2, PCIe 4.0, 2 To, Contrôle thermique intelligent - Compatible PS5",
     "native": [
@@ -5577,7 +5744,7 @@
    },
    "nvme-sn850x-4t": {
     "name": "WD Black SN850X 4 To",
-    "q": "Western Digital WD Black SN850X 4 To 4TB",
+    "q": "Western Digital WD Black SN850X 4TB",
     "asin": "B0D9WTKV1B",
     "product": "WD_Black SN850X SSD 4 to, M.2 2280 NVMe SSD, avec Dissipateur Thermique, Lecture jusqu'à 7300 Mo/s, Gaming SSD, Haute Performance Disque de Jeu, PCIe Gen 4.0, Noir",
     "native": [
@@ -5597,7 +5764,7 @@
    },
    "hdd-barracuda-1tb": {
     "name": "Seagate BarraCuda 1 To (7200)",
-    "q": "Seagate BarraCuda 1 To 1TB",
+    "q": "Seagate BarraCuda 1TB",
     "asin": "B01LNJBA2I",
     "product": "Seagate Barracuda Disque dur interne 1 To Argent",
     "native": [
@@ -5615,7 +5782,7 @@
    },
    "hdd-wdblue-2tb": {
     "name": "WD Blue 2 To (7200)",
-    "q": "Western Digital WD Blue 2 To 2TB",
+    "q": "Western Digital WD Blue 2TB",
     "asin": "B083FCN76G",
     "product": "WD Blue 2 To Mobile Disque Dur Interne 2.5\", Classe 5400 RPM, SATA 6 Gb/s, Cache de 128 Mo",
     "native": [
@@ -5633,7 +5800,7 @@
    },
    "hdd-firecuda-2tb": {
     "name": "Seagate FireCuda 2 To (7200)",
-    "q": "Seagate FireCuda 2 To 2TB",
+    "q": "Seagate FireCuda 2TB",
     "asin": "B08Y1T4CR5",
     "product": "Seagate FireCuda Gaming Hard Drive, 2 To, Disque Dur Externe Portable HDD, USB-C, USB 3/2, voyants LED RVB, 3 Ans Services Rescue (STKL2000400)",
     "native": [
@@ -5651,7 +5818,7 @@
    },
    "hdd-p300-1tb": {
     "name": "Toshiba P300 1 To (7200)",
-    "q": "Toshiba P300 1 To 1TB",
+    "q": "Toshiba P300 1TB",
     "asin": "B013J7IN86",
     "product": "Toshiba P300 1 To Disques internes (8,9 cm (3,5\"), SATA)",
     "native": [
@@ -5670,7 +5837,7 @@
    },
    "hdd-wdblack-4tb": {
     "name": "WD Black 4 To (7200)",
-    "q": "Western Digital WD Black 4 To 4TB",
+    "q": "Western Digital WD Black 4TB",
     "asin": "B0B7CQ2CHH",
     "product": "WD_BLACK SN850X NVMe SSD 4 To (Jusqu'à 7 300 Mo/s / 6 600 Mo/s en lecture/écriture, M.2 2280 Gaming SSD, PCIe Gen 4.0, Haute performance disque de jeu,) POWERED BY SANDISK",
     "native": [
@@ -5691,7 +5858,7 @@
    },
    "sata-870qvo-1tb": {
     "name": "Samsung 870 QVO 1 To",
-    "q": "Samsung 870 QVO 1 To 1TB",
+    "q": "Samsung 870 QVO 1TB",
     "asin": "B089QXQ1TV",
     "product": "Samsung 870 QVO MZ-77Q1T0BW | Disque SSD Interne 1 To, SATA III, 2,5'' - Technologie QLC seconde génération",
     "native": [
@@ -5710,7 +5877,7 @@
    },
    "sata-bx500-1tb": {
     "name": "Crucial BX500 1 To",
-    "q": "Crucial BX500 1 To 1TB",
+    "q": "Crucial BX500 1TB",
     "asin": "B07YD579WM",
     "product": "Crucial BX500 1TB 3D NAND SATA 2.5-Inch Internal SSD, up to 540MB/s - CT1000BX500SSD1, Solid State Drive | 1TB 3D NAND SSD with SATA III interface and 540MB/s read speed for booting, storage and upgrades : Electronics",
     "native": [
@@ -5728,7 +5895,7 @@
    },
    "sata-a400-480": {
     "name": "Kingston A400 480 Go",
-    "q": "Kingston A400 480 Go 480GB",
+    "q": "Kingston A400 480GB",
     "asin": "B0BWDWJPPM",
     "product": "Kingston Lot de 2 disques SSD internes A400 SATA 3 2,5\" SA400S37/480G - 480 Go",
     "native": [
@@ -5746,7 +5913,7 @@
    },
    "sata-redsa500-1tb": {
     "name": "WD Red SA500 1 To",
-    "q": "Western Digital WD Red SA500 1 To 1TB",
+    "q": "Western Digital WD Red SA500 1TB",
     "asin": "B07YFG3R5N",
     "product": "Western Digital 1TB WD Red SA500 NAS 3D NAND Internal SSD - SATA III 6 Gb/s, 2.5\"/7mm, Up to 560 MB/s - WDS100T1R0A, Solid State Hard Drive : Electronics",
     "native": [
@@ -5764,7 +5931,7 @@
    },
    "sata-sandisk-1tb": {
     "name": "SanDisk Ultra 3D 1 To",
-    "q": "SanDisk Ultra 3D 1 To 1TB",
+    "q": "SanDisk Ultra 3D 1TB",
     "asin": "B071KGRXRG",
     "product": "SanDisk Ultra 3D SSD 1TB up to 560MB/s Read / up to 530MB/s Write, Black",
     "native": [
@@ -5785,7 +5952,7 @@
    },
    "nvme-970evo-1tb": {
     "name": "Samsung 970 EVO Plus 1 To",
-    "q": "Samsung 970 EVO Plus 1 To 1TB",
+    "q": "Samsung 970 EVO Plus 1TB",
     "asin": "B07MBQPQ62",
     "product": "Samsung 970 EVO Plus MZ-V7S1T0BW Disque SSD Interne NVMe M.2, 1 To, Jusqu'à 3 500Mo/s en lecture sequentielle",
     "native": [
@@ -5803,7 +5970,7 @@
    },
    "nvme-sn570-1tb": {
     "name": "WD Blue SN570 1 To",
-    "q": "Western Digital WD Blue SN570 1 To 1TB",
+    "q": "Western Digital WD Blue SN570 1TB",
     "asin": "B09HKDQ1RN",
     "product": "WD_BLUE SN570 1TB M.2 2280 PCIe Gen3 NVMe up to 3500 MB/s read speed, Disque SSD",
     "native": [
@@ -5821,9 +5988,28 @@
      "amazon.com.au": "https://www.amazon.com/dp/B09HKDQ1RN?tag=fraym-20"
     }
    },
+   "nvme-p3-1tb": {
+    "name": "Crucial P3 1 To",
+    "q": "Crucial P3 1TB",
+    "asin": "B0C2WGL8DQ",
+    "product": "Crucial P3 1To M.2 PCIe Gen3 NVMe SSD Interne, Jusqu’à 3500 Mo/s - CT1000P3SSD801 (Édition Acronis)",
+    "native": [
+     "amazon.fr",
+     "amazon.com"
+    ],
+    "links": {
+     "amazon.fr": "https://www.amazon.fr/dp/B0C2WGL8DQ?tag=fraym-21",
+     "amazon.de": "https://www.amazon.fr/dp/B0C2WGL8DQ?tag=fraym-21",
+     "amazon.es": "https://www.amazon.fr/dp/B0C2WGL8DQ?tag=fraym-21",
+     "amazon.it": "https://www.amazon.fr/dp/B0C2WGL8DQ?tag=fraym-21",
+     "amazon.co.uk": "https://www.amazon.fr/dp/B0C2WGL8DQ?tag=fraym-21",
+     "amazon.com": "https://www.amazon.com/dp/B0C2WGL8DQ?tag=fraym-20",
+     "amazon.com.au": "https://www.amazon.com/dp/B0C2WGL8DQ?tag=fraym-20"
+    }
+   },
    "nvme-sn350-1tb": {
     "name": "WD Green SN350 1 To",
-    "q": "Western Digital WD Green SN350 1 To 1TB",
+    "q": "Western Digital WD Green SN350 1TB",
     "asin": "B09DVQQL9G",
     "product": "WD Green SN350 1 To M.2 NVMe SSD, possédant une vitesse de lecture de 3 200 Mo/s et une vitesse d'écriture de 2 500 Mo/s",
     "native": [
@@ -5844,7 +6030,7 @@
    },
    "nvme-990evo-1tb": {
     "name": "Samsung 990 EVO 1 To",
-    "q": "Samsung 990 EVO 1 To 1TB",
+    "q": "Samsung 990 EVO 1TB",
     "asin": "B0CP43PS7B",
     "product": "Samsung SSD Interne 990 EVO NVMe M.2 PCIe 4.0 x 4 / 5.0x2, 1 To, Vitesse de lecture jusqu'à 5000 Mo/s, Idéal pour le gaming et la bureautique, MZ-V9E1T0BW",
     "native": [
@@ -5862,7 +6048,7 @@
    },
    "nvme-sn850x-1tb": {
     "name": "WD Black SN850X 1 To",
-    "q": "Western Digital WD Black SN850X 1 To 1TB",
+    "q": "Western Digital WD Black SN850X 1TB",
     "asin": "B0B7CPSN2K",
     "product": "WD_BLACK SN850X SSD 1 To, Disque SSD interne avec dissipateur thermique, Lecture jusqu'à 7300 Mo/s, écriture jusqu'à 6,600 Mo/s, Gaming SSD, Haute performance disque de jeu, PCIe Gen 4.0 NVMe, Noir",
     "native": [
@@ -5884,7 +6070,7 @@
    },
    "nvme-sn770-1tb": {
     "name": "WD Black SN770 1 To",
-    "q": "Western Digital WD Black SN770 1 To 1TB",
+    "q": "Western Digital WD Black SN770 1TB",
     "asin": "B09QV692XY",
     "product": "WD_BLACK SN770 SSD 1 To, Disque SSD Interne, Vitesse de lecture jusqu'à 5150 Mo/s, M.2 2280 NVMe SSD, PCIe Gen 4.0, Haute performance disque de jeu, Noir",
     "native": [
@@ -5906,7 +6092,7 @@
    },
    "nvme-kc3000-1tb": {
     "name": "Kingston KC3000 1 To",
-    "q": "Kingston KC3000 1 To 1TB",
+    "q": "Kingston KC3000 1TB",
     "asin": "B0BGSWQ4FC",
     "product": "Kingston 1TB KC3000, M.2 2280 PCIe, NVMe, SKC3000S/1024G SSD : Electronics",
     "native": [
@@ -5924,7 +6110,7 @@
    },
    "nvme-mp600pro-1tb": {
     "name": "Corsair MP600 Pro XT 1 To",
-    "q": "Corsair MP600 Pro XT 1 To 1TB",
+    "q": "Corsair MP600 Pro XT 1TB",
     "asin": "B09F5Z6BJ6",
     "product": "Corsair MP600 PRO XT 1TB Gen4 PCIe x4 NVMe M.2 SSD – High-Density TLC NAND – Aluminum Heatspreader – M.2 2280 Form-Factor : Electronics",
     "native": [
@@ -5942,7 +6128,7 @@
    },
    "nvme-fc530-1tb": {
     "name": "Seagate FireCuda 530 1 To",
-    "q": "Seagate FireCuda 530 1 To 1TB",
+    "q": "Seagate FireCuda 530 1TB",
     "asin": "B0977LW48F",
     "product": "Seagate FireCuda 530, 1 TB, Internal Solid State Drive - M,2 PCIe Gen4 4 NVMe 1,4, transfer speeds up to 7,300 MB/s, 3D TLC NAND, 1,275 TBW, Heatsink, 3 year Rescue Services (ZP1000GM3A023)",
     "native": [
@@ -5964,7 +6150,7 @@
    },
    "nvme-rocket4-1tb": {
     "name": "Sabrent Rocket 4 Plus 1 To",
-    "q": "Sabrent Rocket 4 Plus 1 To 1TB",
+    "q": "Sabrent Rocket 4 Plus 1TB",
     "asin": "B08P2B6JKV",
     "product": "SABRENT 1TB Rocket 4 Plus NVMe 4.0 Gen4 PCIe M.2 Internal SSD Extreme Performance Solid State Drive (Latest Version) (SB-RKT4P-1TB) : Tools & Home Improvement",
     "native": [
@@ -5982,7 +6168,7 @@
    },
    "nvme-legend960-1tb": {
     "name": "Adata Legend 960 1 To",
-    "q": "Adata Legend 960 1 To 1TB",
+    "q": "Adata Legend 960 1TB",
     "asin": "B0BBZHGZ2W",
     "product": "ADATA Legend 960 1TB PCIe Gen4 x4 NVMe 1.4 M.2 Internal Gaming SSD Up to 7,400 MB/s (ALEG-960-1TCS) : Electronics",
     "native": [
@@ -6000,7 +6186,7 @@
    },
    "nvme-nv2-1tb": {
     "name": "Kingston NV2 1 To",
-    "q": "Kingston NV2 1 To 1TB",
+    "q": "Kingston NV2 1TB",
     "asin": "B0BBWH1R8H",
     "product": "Kingston NV2 NVMe PCIe 4.0 Interne SSD 1TB M.2 2280 -SNV2S/1000G, Festkörper-Laufwerk",
     "native": [
@@ -6019,7 +6205,7 @@
    },
    "nvme-990pro-4tb": {
     "name": "Samsung 990 Pro 4 To",
-    "q": "Samsung 990 Pro 4 To 4TB",
+    "q": "Samsung 990 Pro 4TB",
     "asin": "B0CBYZ6DD1",
     "product": "Samsung SSD 990 Pro NVMe M.2 Pcle 4.0, SSD Interne, Capacité 4 To, Vitesse de lecture jusqu'à 7 450 Mo/s, Gestion Intelligente de la Chaleur avec Revêtement en Nickel, MZ-V9P4T0BW",
     "native": [
@@ -6037,7 +6223,7 @@
    },
    "nvme-t700-2tb": {
     "name": "Crucial T700 2 To",
-    "q": "Crucial T700 2 To 2TB",
+    "q": "Crucial T700 2TB",
     "asin": "B0C3K7MTSY",
     "product": "Crucial T700 SSD 2To PCIe Gen5 NVMe M.2 SSD Interne Gaming, Jusqu’à 12.400Mo/s, Microsoft DirectStorage, Rétrocompatibilité PCIe 4.0, Disque Dur SSD - CT2000T700SSD3",
     "native": [
@@ -6059,7 +6245,7 @@
    },
    "nvme-9100pro-2tb": {
     "name": "Samsung 9100 Pro 2 To",
-    "q": "Samsung 9100 Pro 2 To 2TB",
+    "q": "Samsung 9100 Pro 2TB",
     "asin": "B0DWFLPMM5",
     "product": "Samsung SSD Interne 9100 Pro, NVMe 2.0 PCIe 5.0x4, Capacité 2To, Vitesse de Lecture jusqu'à 14 800 Mo/s, Les Performances de la Gen5, MZ-VAP2T0BW",
     "native": [
@@ -6078,7 +6264,7 @@
    },
    "nvme-t705-2tb": {
     "name": "Crucial T705 2 To",
-    "q": "Crucial T705 2 To 2TB",
+    "q": "Crucial T705 2TB",
     "asin": "B0CTS93WML",
     "product": "Crucial T705 SSD 2To PCIe Gen5 NVMe M.2 avec Dissipateur Premium, Jusqu’à 14.500Mo/s, Microsoft DirectStorage, Rétrocompatibilité PCIe 4.0, Disque Dur Interne - CT2000T705SSD5",
     "native": [
@@ -6100,7 +6286,7 @@
    },
    "nvme-sn8100-2tb": {
     "name": "WD Black SN8100 2 To",
-    "q": "Western Digital WD Black SN8100 2 To 2TB",
+    "q": "Western Digital WD Black SN8100 2TB",
     "asin": "B0F3BD1W6R",
     "product": "WD_Black SN8100 PCIe Gen 5, NVMe SSD 2 to (Jusqu'à 14 900/14 000 Mo/s Vitesses de Lecture/d’écriture séquentielle, M.2 2280, Next Gen TLC 3D CBA NAND, Jusqu'à 1 200ToW) Powered by SANDISK",
     "native": [
@@ -6121,7 +6307,7 @@
    },
    "nvme-mp700-2tb": {
     "name": "Corsair MP700 Pro 2 To",
-    "q": "Corsair MP700 Pro 2 To 2TB",
+    "q": "Corsair MP700 Pro 2TB",
     "asin": "B0CM42DVBR",
     "product": "Corsair MP700 Pro 2 to M.2 PCIe Gen5 x4 NVMe 2.0 SSD - M.2 2280 - Jusqu'à 12 400 Mo/s en Lecture Séquentielle - TLC NAND Haute Densité - Noir",
     "native": [
@@ -6142,7 +6328,7 @@
    },
    "nvme-fc540-2tb": {
     "name": "Seagate FireCuda 540 2 To",
-    "q": "Seagate FireCuda 540 2 To 2TB",
+    "q": "Seagate FireCuda 540 2TB",
     "asin": "B0BX4P2LFT",
     "product": "Seagate FireCuda 540 SSD, 2 TB, Internal Solid State Drive - M.2 2280 PCIe Gen5, speeds up to 10,000 MB/s and 2,000 TB TBW, Heatsink, 3 Years Rescue Services (ZP2000GM3A014) : Electronics",
     "native": [
@@ -6749,6 +6935,24 @@
      "amazon.co.uk": "https://www.amazon.co.uk/dp/B0BQWQ9QPK?tag=fraym0a-21",
      "amazon.com": "https://www.amazon.com/dp/B0BQWQ9QPK?tag=fraym-20",
      "amazon.com.au": "https://www.amazon.com/dp/B0BQWQ9QPK?tag=fraym-20"
+    }
+   },
+   "z890-itx": {
+    "name": "ASUS ROG Strix Z890-I",
+    "q": "Intel ASUS ROG Strix Z890-I",
+    "asin": "B0DGWTXD4L",
+    "product": "ASUS ROG STRIX Z890-I GAMING WIFI Intel® Z890 LGA 1851 Mini-iTX motherboard, Intel® Core™ Ultra Series 2 Ready, Advanced AI PC-ready, 10+2+1+1 stages, DDR5, WiFi 7, 2x M.2, Thunderbolt™ 4, USB Type-C® : Electronics",
+    "native": [
+     "amazon.com"
+    ],
+    "links": {
+     "amazon.fr": "https://www.amazon.com/dp/B0DGWTXD4L?tag=fraym-20",
+     "amazon.de": "https://www.amazon.com/dp/B0DGWTXD4L?tag=fraym-20",
+     "amazon.es": "https://www.amazon.com/dp/B0DGWTXD4L?tag=fraym-20",
+     "amazon.it": "https://www.amazon.com/dp/B0DGWTXD4L?tag=fraym-20",
+     "amazon.co.uk": "https://www.amazon.com/dp/B0DGWTXD4L?tag=fraym-20",
+     "amazon.com": "https://www.amazon.com/dp/B0DGWTXD4L?tag=fraym-20",
+     "amazon.com.au": "https://www.amazon.com/dp/B0DGWTXD4L?tag=fraym-20"
     }
    },
    "asus-prime-a520m-k": {
@@ -8323,6 +8527,24 @@
      "amazon.com.au": "https://www.amazon.com/dp/B08KTNHR27?tag=fraym-20"
     }
    },
+   "fractal-ridge-itx": {
+    "name": "Fractal Ridge (ITX)",
+    "q": "Fractal Ridge",
+    "asin": "B0D59P5TXP",
+    "product": "Fractal Design Ridge mITX Case, Gigabyte A520I AC Motherboard, 2X 140mm Fans : Electronics",
+    "native": [
+     "amazon.com"
+    ],
+    "links": {
+     "amazon.fr": "https://www.amazon.com/dp/B0D59P5TXP?tag=fraym-20",
+     "amazon.de": "https://www.amazon.com/dp/B0D59P5TXP?tag=fraym-20",
+     "amazon.es": "https://www.amazon.com/dp/B0D59P5TXP?tag=fraym-20",
+     "amazon.it": "https://www.amazon.com/dp/B0D59P5TXP?tag=fraym-20",
+     "amazon.co.uk": "https://www.amazon.com/dp/B0D59P5TXP?tag=fraym-20",
+     "amazon.com": "https://www.amazon.com/dp/B0D59P5TXP?tag=fraym-20",
+     "amazon.com.au": "https://www.amazon.com/dp/B0D59P5TXP?tag=fraym-20"
+    }
+   },
    "corsair-4000d-airflow": {
     "name": "Corsair 4000D Airflow",
     "q": "Corsair 4000D Airflow",
@@ -9625,6 +9847,24 @@
      "amazon.com.au": "https://www.amazon.com/dp/B0FGDMTHY4?tag=fraym-20"
     }
    },
+   "be-quiet-pure-loop-2-fx-280": {
+    "name": "be quiet! Pure Loop 2 FX 280",
+    "q": "be quiet! Pure Loop 2 FX 280",
+    "asin": "B0B7NYH5RD",
+    "product": "be quiet! Pure Loop 2 FX 280mm watercooling, 2 ventilateurs Light Wings 140mm PWM high-speed, 20 LED ARGB, bloc de refroidissement éclairé, hub ARGB-PWM, BW014",
+    "native": [
+     "amazon.fr"
+    ],
+    "links": {
+     "amazon.fr": "https://www.amazon.fr/dp/B0B7NYH5RD?tag=fraym-21",
+     "amazon.de": "https://www.amazon.fr/dp/B0B7NYH5RD?tag=fraym-21",
+     "amazon.es": "https://www.amazon.fr/dp/B0B7NYH5RD?tag=fraym-21",
+     "amazon.it": "https://www.amazon.fr/dp/B0B7NYH5RD?tag=fraym-21",
+     "amazon.co.uk": "https://www.amazon.fr/dp/B0B7NYH5RD?tag=fraym-21",
+     "amazon.com": "https://www.amazon.fr/dp/B0B7NYH5RD?tag=fraym-21",
+     "amazon.com.au": "https://www.amazon.fr/dp/B0B7NYH5RD?tag=fraym-21"
+    }
+   },
    "noctua-nh-d15s": {
     "name": "Noctua NH-D15S",
     "q": "Noctua NH-D15S",
@@ -10167,60 +10407,15 @@
   ],
   "cpus": [
    {
-    "id": "i7_13700k",
-    "name": "Core i7-13700K",
-    "raison": "sans_fiche"
-   },
-   {
-    "id": "ultra9_285k",
-    "name": "Core Ultra 9 285K",
-    "raison": "sans_fiche"
-   },
-   {
     "id": "ultra5_245k",
     "name": "Core Ultra 5 245K",
-    "raison": "sans_fiche"
-   },
-   {
-    "id": "ultra7_265k",
-    "name": "Core Ultra 7 265K",
-    "raison": "sans_fiche"
-   },
-   {
-    "id": "amd-ryzen-7-1700",
-    "name": "Ryzen 7 1700",
-    "raison": "sans_fiche"
-   },
-   {
-    "id": "intel-core-i9-13900kf",
-    "name": "Core i9-13900KF",
-    "raison": "sans_fiche"
-   },
-   {
-    "id": "intel-core-ultra-7-265kf",
-    "name": "Core Ultra 7 265KF",
-    "raison": "sans_fiche"
-   },
-   {
-    "id": "intel-core-ultra-5-245kf",
-    "name": "Core Ultra 5 245KF",
     "raison": "sans_fiche"
    }
   ],
   "rams": [
    {
-    "id": "ddr5_48_6400c32",
-    "name": "48 Go DDR5-6400 CL32",
-    "raison": "sans_fiche"
-   },
-   {
     "id": "ddr5_16_6000c30",
     "name": "16 Go DDR5-6000 CL30",
-    "raison": "sans_fiche"
-   },
-   {
-    "id": "ddr3_8_1600c9",
-    "name": "8 Go DDR3-1600 CL9",
     "raison": "sans_fiche"
    }
   ],
@@ -10256,11 +10451,6 @@
     "raison": "sans_fiche"
    },
    {
-    "id": "nvme-p3-1tb",
-    "name": "Crucial P3 1 To",
-    "raison": "sans_fiche"
-   },
-   {
     "id": "nvme-t500-1tb",
     "name": "Crucial T500 1 To",
     "raison": "sans_fiche"
@@ -10277,11 +10467,6 @@
    }
   ],
   "mobos": [
-   {
-    "id": "z890-itx",
-    "name": "ASUS ROG Strix Z890-I",
-    "raison": "sans_fiche"
-   },
    {
     "id": "gigabyte-x670e-aorus-master",
     "name": "Gigabyte X670E Aorus Master",
@@ -10306,11 +10491,6 @@
    }
   ],
   "cases": [
-   {
-    "id": "fractal-ridge-itx",
-    "name": "Fractal Ridge (ITX)",
-    "raison": "sans_fiche"
-   },
    {
     "id": "corsair-icue-3000d",
     "name": "Corsair iCUE 3000D",
@@ -10361,11 +10541,6 @@
    {
     "id": "msi-mag-coreliquid-360r2",
     "name": "MSI MAG CoreLiquid 360R2",
-    "raison": "sans_fiche"
-   },
-   {
-    "id": "be-quiet-pure-loop-2-fx-280",
-    "name": "be quiet! Pure Loop 2 FX 280",
     "raison": "sans_fiche"
    },
    {

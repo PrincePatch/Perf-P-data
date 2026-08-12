@@ -1173,10 +1173,20 @@
     "lastSeen": "2026-07-13T10:12:25Z",
     "product": "Lexar NM790 1TB M.2 SSD",
     "image": "https://ccimg1.canadacomputers.com/Products/800x800/707/4143/246467/64827.jpg"
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 48.58,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B0CJY4L6DH?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-08-12T14:19:25Z",
+    "product": "Lexar NM790 SSD 1To avec dissipateur Thermique, M.2 2280 PCIe Gen4 NVMe SSD | Jusqu'à 7400 Mo/s en Lecture, 6500 Mo/s en écriture, pour PS5, PC et Les Joueurs",
+    "image": null
    }
   ],
   "image": "images/ssds-nvme-a440.png",
-  "lastUpdated": "2026-07-13T09:02:40Z"
+  "lastUpdated": "2026-08-12T14:19:25Z"
  },
  {
   "id": "nvme-fury",
@@ -2868,10 +2878,20 @@
     "lastSeen": "2026-07-13T09:02:40Z",
     "product": "Samsung SSD 990 PRO M.2 PCIe NVMe 4 To avec dissipateur",
     "image": "https://img-cdn-aws.gputracker.eu/fit-in/150x150/products/880/6095/8806095255811.png?signature=60a8dc6fe46d8e1f059d2ecf88b02cdf303dc96544902669485c48a4394b6929"
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 800.0,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B0CBYZ6DD1?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-08-12T14:19:25Z",
+    "product": "Samsung SSD 990 Pro NVMe M.2 Pcle 4.0, SSD Interne, Capacité 4 To, Vitesse de lecture jusqu'à 7 450 Mo/s, Gestion Intelligente de la Chaleur avec Revêtement en Nickel, MZ-V9P4T0BW",
+    "image": null
    }
   ],
   "image": "images/ssds-nvme-990pro-4tb.png",
-  "lastUpdated": "2026-07-13T09:02:40Z"
+  "lastUpdated": "2026-08-12T14:19:25Z"
  },
  {
   "id": "nvme-9100pro-2tb",
@@ -3397,9 +3417,20 @@
   "id": "nvme-t700-2tb",
   "name": "Crucial T700 2 To",
   "priceMin": null,
-  "prices": [],
+  "prices": [
+   {
+    "shop": "amazon.co.uk",
+    "price": 867.42,
+    "currency": "GBP",
+    "url": "https://www.amazon.co.uk/dp/B0C3K7MTSY?tag=fraym0a-21",
+    "inStock": true,
+    "lastSeen": "2026-08-12T14:19:25Z",
+    "product": "Crucial T700 2TB SSD PCIe Gen5 NVMe M.2 Internal Gaming SSD, Up to 12,400MB/s, Microsoft DirectStorage, PCIe 4.0 Backwards Compatible, Solid State Drive - CT2000T700SSD3",
+    "image": null
+   }
+  ],
   "image": null,
-  "lastUpdated": "2026-08-12T07:41:22Z"
+  "lastUpdated": "2026-08-12T14:19:25Z"
  },
  {
   "id": "nvme-t705-2tb",
@@ -3486,5 +3517,24 @@
   ],
   "image": null,
   "lastUpdated": "2026-08-12T08:23:30Z"
+ },
+ {
+  "id": "hdd-7200",
+  "name": "Disque dur 7200 tr/min",
+  "priceMin": null,
+  "prices": [
+   {
+    "shop": "amazon.fr",
+    "price": 36.31,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B0035G0JBG?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-08-12T14:19:25Z",
+    "product": "Seagate Barracuda Disque dur Interne SATA 7200 tr/min 1 To",
+    "image": null
+   }
+  ],
+  "image": null,
+  "lastUpdated": "2026-08-12T14:19:25Z"
  }
 ]

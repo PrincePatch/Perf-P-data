@@ -115,6 +115,10 @@ def requete(cat, it):
         return (f"{it.get('brand', '')} {it.get('kind', '')}-{it.get('mhz', '')} "
                 f"{_capacite(it.get('sizeGb'))} CL{it.get('cl', '')}").strip()
     if cat == "ssds":
+        # La capacité est déjà dans le nom en français (« Crucial T500 1 To ») :
+        # la laisser produisait « Crucial T500 1 To 1TB », que le moteur
+        # d'Amazon, qui exige TOUS les termes, ne trouvait jamais.
+        nom = re.sub(r"\s*\d+\s*(?:To|Go|TB|GB)\b", "", nom, flags=re.I).strip()
         return f"{_avec_marque(it.get('brand'), nom)} {_capacite(it.get('sizeGb'))}".strip()
     return _avec_marque(it.get("brand"), nom)
 

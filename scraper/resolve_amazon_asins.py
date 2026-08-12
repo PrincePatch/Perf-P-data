@@ -48,6 +48,7 @@ import os
 import re
 import sys
 import time
+from concurrent.futures import ThreadPoolExecutor
 from html import unescape
 
 sys.path.insert(0, os.path.dirname(__file__))
@@ -77,25 +78,35 @@ _ASIN_URL = re.compile(r"amazon\.[a-z.]+/(?:[^?#]*/)?(?:dp|gp/product)/(B[A-Z0-9
 MOTEURS = ["bing", "auto"]
 
 
-def candidats_moteur(q, pause, domaine="amazon.fr"):
+def _interroger_moteur(q, domaine, moteur):
+    from ddgs import DDGS
+    out = []
+    with DDGS() as d:
+        for r in d.text(f"site:{domaine} {q}", max_results=10, backend=moteur):
+            m = _ASIN_URL.search(r.get("href") or "")
+            if m and m.group(1) not in out:
+                out.append(m.group(1))
+    return out
+
+
+def candidats_moteur(q, pause, domaine="amazon.fr", delai=20):
     """ASIN plausibles pour [q], vus par un moteur de recherche généraliste.
 
     [domaine] restreint la recherche à une marketplace : un composant absent du
     catalogue français existe souvent sur `.de` ou `.com`, et l'ASIN trouvé là
     vaut ensuite pour toutes les marketplaces où la fiche existe.
+
+    L'appel est **borné dans le temps** : la bibliothèque de recherche peut
+    rester bloquée plusieurs minutes sur une requête, et une exécution entière
+    s'y perdait sans produire la moindre ligne.
     """
-    from ddgs import DDGS
     for moteur in MOTEURS:
         out = []
         try:
-            with DDGS() as d:
-                for r in d.text(f"site:{domaine} {q}", max_results=10,
-                                backend=moteur):
-                    m = _ASIN_URL.search(r.get("href") or "")
-                    if m and m.group(1) not in out:
-                        out.append(m.group(1))
+            with ThreadPoolExecutor(max_workers=1) as ex:
+                out = ex.submit(_interroger_moteur, q, domaine, moteur).result(delai)
         except Exception:
-            continue
+            continue  # moteur muet, saturé, ou trop lent
         finally:
             time.sleep(pause)
         if out:
@@ -162,6 +173,20 @@ _HORS_CAT = {
         r"|\bmotherboard\b|carte m[eè]re", re.I),
     "gpus": re.compile(r"\b(ryzen|core\s?i[3579]|intel core|ddr5|ddr4)\b", re.I),
 }
+
+
+# « Desktop Processor », « Desktop Graphics Card » : formulations STANDARD des
+# fabricants pour un composant vendu seul, par opposition à sa version portable.
+# Le filtre partagé y voyait un « desktop », donc un PC monté, et rejetait la
+# moitié des processeurs Intel et beaucoup de cartes graphiques.
+_DESKTOP_OK = re.compile(
+    r"\bdesktop[- ](processor|prozessor|cpu|graphics?|gpu|grafikkarte|"
+    r"videocard|video card)\w*", re.I)
+
+
+def _neutraliser(titre):
+    """Retire les tournures « desktop … » qui décrivent un composant seul."""
+    return _DESKTOP_OK.sub(" ", titre)
 
 
 def suspect_amazon(cat, titre):
@@ -273,7 +298,8 @@ def valide(cat, nom_app, titre, jetons, souple=False):
     titre = unescape(titre or "")
     if len(titre) < 8:
         return False
-    if produit_suspect(titre, cat) or suspect_amazon(cat, titre):
+    sain = _neutraliser(titre)
+    if produit_suspect(sain, cat) or suspect_amazon(cat, sain):
         return False
     if not suffixe_ok(cat, nom_app, titre):
         return False
@@ -297,6 +323,12 @@ def principal():
                     help="fiches consultées au plus par marketplace")
     ap.add_argument("--recheck", action="store_true",
                     help="retenter les composants marqués introuvables")
+    ap.add_argument("--amazon-dabord", action="store_true",
+                    help="interroger le moteur d'Amazon AVANT le moteur "
+                         "généraliste : bien plus pertinent sur les références "
+                         "de niche, mais Amazon bride ses recherches — à "
+                         "réserver aux rattrapages de quelques dizaines "
+                         "d'articles")
     ap.add_argument("--completer", action="store_true",
                     help="compléter les marketplaces manquantes des composants "
                          "DÉJÀ résolus (rend les liens natifs au lieu de "
@@ -418,6 +450,17 @@ def principal():
             plans = [(None, requetes[0], "amazon.fr")]
             plans += [(None, r, "amazon.fr") for r in requetes[1:]]
             plans += [(ORDRE_DECOUVERTE[0], requetes[0], None)]
+            if args.amazon_dabord:
+                # Sur une référence de niche, le moteur généraliste renvoie des
+                # produits sans rapport (un écran pour « DeepCool AK620 »)
+                # tandis que le moteur d'Amazon, lui, connaît son catalogue.
+                plans = ([(m, r, None) for r in requetes
+                          for m in ORDRE_DECOUVERTE[:2]] + plans)
+            # Catalogues voisins, uniquement si tout ce qui précède est muet :
+            # une référence absente du catalogue français est souvent vendue en
+            # Allemagne ou aux États-Unis, et l'ASIN trouvé là vaut ensuite
+            # partout où la fiche existe.
+            plans += [(None, requetes[0], d) for d in ("amazon.de", "amazon.com")]
             # Catalogues voisins : beaucoup de composants absents d'amazon.fr
             # sont vendus sur .de ou .com, et l'ASIN trouvé là vaut ensuite pour
             # toutes les marketplaces où la fiche existe (mode --completer).
@@ -433,7 +476,11 @@ def principal():
                     src = sources[marche]
                     candidats = src.asins(req, maxi=args.candidats)
                 for asin in candidats[: args.candidats]:
-                    etat, titre = src.fiche(asin)
+                    # Un seul essai par candidat : ils sont nombreux et la
+                    # plupart seront écartés. Réessayer une page lente coûtait
+                    # jusqu'à 55 s par candidat, soit des dizaines de minutes
+                    # sur un composant finalement introuvable.
+                    etat, titre = src.fiche(asin, essais=1)
                     if etat != "ok":
                         continue  # 404 ou page d'attente : candidat suivant
                     if valide(cat, nom, titre, jetons):

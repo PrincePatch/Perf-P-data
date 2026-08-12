@@ -26,6 +26,7 @@
    "fractal-north-xl": "Fractal Design North XL Charcoal Black Mesh- Boîtier PC Gaming Grande Tour EATX à Flux d'air – Trois Ventilateurs Aspect PWM de 140 mm Inclus – Port USB Type-C.",
    "fractal-pop-air": "Fractal Design Pop Air Black - Boîtier PC Gaming ATX Mid Tower, Façade Mesh Hexagonale, Verre Trempé, 3 Ventilateurs Aspect 12 Inclus, Haute Ventilation",
    "fractal-pop-xl-air": "Fractal Design Pop XL Air RGB White Core TG Clear Tint",
+   "fractal-ridge-itx": "Fractal Design Ridge mITX Case, Gigabyte A520I AC Motherboard, 2X 140mm Fans : Electronics",
    "fractal-terra-itx": "Fractal Design Terra Graphite - mITX SFF PC-Gehäuse - Walnussholz",
    "fractal-torrent": "Fractal Design Torrent Compact RGB Black - Light Tint Tempered Glass Side Panels - Open Grille for Maximum air Intake - Two 180mm RGB PWM Fans Included - Type C - ATX Airflow Mid Tower PC Gaming Case",
    "hyte-y40": "Hyte Boîtier Y40 Mid Tower Blanc (ATX/M-ATX/M-ITX)",
@@ -66,6 +67,7 @@
    "be-quiet-dark-rock-elite": "be quiet! Dark Rock Elite ventirad radiateur, 2x ventilateur Silent Wings 135 mm PWM, sélecteur de vitesse permettant de basculer entre 2 modes 7 caloducs haute performance, Éclairage LEDs ARGB, BK037",
    "be-quiet-dark-rock-pro-4": "be quiet! Dark Rock Pro 4 250W TDP CPU Cooler | Includes Two Silent Wings PWM Fans | Intel 1700 1200 2066 1150 1151 1155 2011 Square ILM | AMD4 AMD5 | Black | BK022 : Electronics",
    "be-quiet-dark-rock-pro-5": "be quiet! Dark Rock Pro 5 ventirad radiateur, 7 caloducs haute performance, 2 ventilateurs Silent Wings PWM, un sélecteur de Vitesse, excellente compatibilité avec les refroidisseurs RAM et VRM, BK036",
+   "be-quiet-pure-loop-2-fx-280": "be quiet! Pure Loop 2 FX 280mm watercooling, 2 ventilateurs Light Wings 140mm PWM high-speed, 20 LED ARGB, bloc de refroidissement éclairé, hub ARGB-PWM, BW014",
    "be-quiet-pure-rock-2": "be quiet! Pure Rock 2 Black, refroidisseur de processeur, TDP 150W, ventilateur Pure Wings 2 120mm PWM, 4x 6mm Heatpipes, conception asymétrique, Single Tower, BK007",
    "be-quiet-shadow-rock-3": "Be quiet! Shadow Rock 3",
    "be-quiet-silent-loop-3-360": "be quiet! Silent Loop 3 360mm système de refroidissement liquide, plaque froide usinée avec haute précision, 3 ventilateurs Silent Wings 4 120mm PWM high-speed, performances exceptionnelles",
@@ -113,6 +115,7 @@
    "amd-ryzen-5-5600g": "AMD Ryzen 5 5600G Processeur (Radeon Graphique Intégré, 6 Coeurs/12 Threads, 65W TDP, Socket AM4, Cache 19Mo, jusqu'à 4,4Ghz Fréquence Boost, Ventilateur wraith Stealth)",
    "amd-ryzen-5-7500f": "AMD Ryzen 5 7500F - 3.7 GHz - 6 cœurs - 12 Threads - 32 Mo de mémoire Cache - Socket AM5 - OEM",
    "amd-ryzen-5-9600": "AMD Ryzen™ 5 9600, 6 Coeurs/ 12 Threads débridés, Architecture Zen 5, 38 Mo Cache L2+L3, 65W TDP, Jusqu'a 5.2 Ghz Frequence Boost, Socket AM5, Ventilateur Inclus",
+   "amd-ryzen-7-1700": "AMD Ryzen 7 1700 Prozessor mit Wraith-Spire-LED-Kühler",
    "amd-ryzen-7-1800x": "CPU AMD RYZEN 7 1800X AM4 sans Cooler : Amd",
    "amd-ryzen-7-2700x": "AMD Processeur Ryzen 7 2700X Socket AM4 (3,7 Ghz)",
    "amd-ryzen-7-3700x": "AMD Ryzen 7 3700X - Processeur 3.6 GHz - 8 cores - 16 filetages - 32 Mo Cache - Socket AM4 - Box 100-100000071MPK",
@@ -139,6 +142,7 @@
    "i7_10700k": "Intel Core i7-10700K",
    "i7_11700k": "Intel Core i7-11700K Rocket Lake Processor (3.6GHz)",
    "i7_12700k": "Intel Core i7-12700K processeur 25 Mo Smart Cache Boîte",
+   "i7_13700k": "Intel® Core™ i7-13700K Desktop-Prozessor 16 Kerne 30 MB Cache, bis zu 5,4 GHz",
    "i7_14700k": "CPU Intel Core i7-14700K / LGA1700 / Box 20 Cores / 28 Threads / 33M Cache",
    "i9_12900k": "Intel Core i9-12900K 12. Generation Alder Lake 16-Core 3,2 GHz LGA 1700 Prozessor -BX8071512900K",
    "i9_13900k": "Intel Core i9 13900K CPU 4.3GHz (5.8GHz Turbo) 13th Gen LGA1700 24-Cores 32-Threads 36MB 125W UHD Graphic 770 Unlocked Retail Raptor Lake no Fan : Electronics",
@@ -157,9 +161,12 @@
    "intel-core-i7-14700kf": "Intel Processeur Informatique Core™ i7-14700KF, bleu",
    "intel-core-i9-10900k": "Intel Core i9-10900K (point de base : 3,70 GHz ; socket : LGA1200 ; 125 W)",
    "intel-core-i9-11900k": "Intel Core i9 11900K Processor",
+   "intel-core-i9-13900kf": "Intel® Core™ i9-13900KF Desktop-Prozessor 24 Kerne 36 MB Cache, bis zu 5,8 GHz",
    "intel-core-i9-13900ks": "Intel Core i9-13900KS 3,20 GHz (Raptor Lake) Sockel 1700 - Boxed",
    "intel-core-i9-14900kf": "CPU Intel Core i9-14900KF / LGA1700 / Box 24 Cores / 32 Threads / 36M Cache/Without GPU",
    "intel-core-i9-14900ks": "CPU Intel Core i9-14900KS / LGA1700 / Box 24 Cores / 32 Threads / 36M Cache",
+   "intel-core-ultra-5-245kf": "Intel® Core™ Ultra 5 Desktop-Prozessor 245KF 14 Kerne bis zu 5,2 GHz",
+   "intel-core-ultra-7-265kf": "Intel Ultra 7 265KF Processeur de Bureau, 20 cœurs, jusqu'à 5,5 GHz, Cache 36 Mo, Socket LGA1851, 125 W, sans Solution Thermique",
    "r5_3600": "Amd Cpu Ryzen 5 3600, Box with Wraith Spire Cooler",
    "r5_5500": "AMD Ryzen 5 5500 Processeur (6 Coeurs/12 Threads, 65W TDP, Socket AM4, Cache 19Mo, jusqu'à 4.2 GHz Fréquence Boost, Ventilateur wraith Stealth)",
    "r5_5600": "AMD Ryzen 5 5600 Processeur (6 Coeurs/12 Threads, 65W TDP, Socket AM4, jusqu'à 4.4 Ghz Fréquence Boost, Ventilateur wraith Stealth)",
@@ -183,6 +190,8 @@
    "tr7970x": "AMD Ryzen™ Threadripper™ 7970X 32-Core, 64-Thread Processor : Electronics",
    "tr7980x": "AMD Ryzen Threadrippe 7980X Processeur (64 Coeurs/128 Threads, 350W TDP, Socket SP6, Cache 320 MO, jusqu'à 5.1Ghz Fréquence Boost, Pas de Ventilateur)",
    "trpro7995wx": "AMD Ryzen Threadripper Pro 7995WX Processeur (96 Coeurs/192 Threads, 350W TDP, Socket SP6, Cache 480Mo, jusqu'à 5.1Ghz Fréquence Boost, Pas de Ventilateur)",
+   "ultra7_265k": "Intel® Core™ Ultra 7 Desktop-Prozessor 265K 20 Kerne bis zu 5,5 GHz",
+   "ultra9_285k": "Intel Core Ultra 9 285K Processeur de bureau, 24 cœurs, 5,7 GHz débloqué, mémoire cache 40 Mo, compatible avec les cartes mères Intel série 800",
    "xeonw52455x": "INTEL Xeon W5 2455X 3 20 GHz LGA4677",
    "xeonw72495x": "Intel Xeon W7-2495X Processor 2.5 Ghz 45 MB Smart Cache, W128562973 (Ghz 45 MB Smart Cache)",
    "xeonw93495x": "A-Tech 64GB RAM for Intel Xeon w5-2465X, w7-3445, w9-3475X, w9-3495X | DDR5 4800MHz PC5-38400 EC8 RDIMM 2Rx4 ECC Registered Server Memory Upgrade at Amazon.com"
@@ -350,7 +359,8 @@
    "z790-edge": "MSI MPG Z790 Edge WiFi Carte Mère, ATX - pour processeurs Intel 14e, 13e & 12e gén, LGA 1700 - VRM SPS 105A, DDR5 7200+MHz/OC, PCIe 5.0 x16 & 4.0 x16, M.2 Gen4, Wi -FI 6E",
    "z790-itx": "ASRock Z790 PG-ITX/TB4 Intel SOCKET1700 Motherboard : Electronics",
    "z890-aorus": "GIGABYTE Z890 AORUS Master AI Top Carte Mère - Prend en Charge Les processeurs Intel Core Ultra (Série 2), VRM 20+1+2 Phases, jusqu'à 9500MHz DDR5 (OC), PCIe 5.0 M.2, Wi-FI 7, Thunderbolt 4",
-   "z890-carbon": "MSI MPG Z890 Carbon WiFi Gaming Motherboard (Support Core Ultra Series 2 Intel Processors, LGA 1851, DDR5, PCIe 5.0, M.2, SATA, 5Gbps LAN, USB Type-C, Wi-Fi 7, Bluetooth 5.4, Thunderbolt 4, ATX) : Electronics"
+   "z890-carbon": "MSI MPG Z890 Carbon WiFi Gaming Motherboard (Support Core Ultra Series 2 Intel Processors, LGA 1851, DDR5, PCIe 5.0, M.2, SATA, 5Gbps LAN, USB Type-C, Wi-Fi 7, Bluetooth 5.4, Thunderbolt 4, ATX) : Electronics",
+   "z890-itx": "ASUS ROG STRIX Z890-I GAMING WIFI Intel® Z890 LGA 1851 Mini-iTX motherboard, Intel® Core™ Ultra Series 2 Ready, Advanced AI PC-ready, 10+2+1+1 stages, DDR5, WiFi 7, 2x M.2, Thunderbolt™ 4, USB Type-C® : Electronics"
   },
   "psus": {
    "asus-rog-strix-1000w": "ASUS ROG Strix 1000W Platinum, Alimentation entièrement modulaire, 80 Plus Platinum Certified, ATX 3.1, PCIe 5.1, Cybenetics Lambda A+, GaN MOSFET, GPU-First, IVS, Garantie 10 Ans",
@@ -409,6 +419,7 @@
    "ddr3_16_1600c10": "Corsair CMSX16GX3M2A1600C10 Vengeance 16GB (2x8GB) DDR3 1600 Mhz CL10",
    "ddr3_16_1866c10": "G.Skill 16GB DDR3-1866",
    "ddr3_16_2133c11": "Ddr3 16gb Pc 2133 Cl10d G.skill Kit (2x8gb) 16gab Ares (f3-2133c10D-16gab)",
+   "ddr3_8_1600c9": "8Go RAM Value Tech Pro VTP08G3U1600 DDR3 PC3-12800U 1600 MHz PC Bureau",
    "ddr3_8_1866c9": "Corsair 8Gb Ddr3-1866Mhz Vengeance Pro 8Go Ddr3 1866Mhz Module de Mémoire - Modules de Mémoire (8 Go, Ddr3, 1866 Mhz, Pc/Serveur, 240-Pin Dimm, 2 X 4 Go)",
    "ddr4_16_2666c16": "Corsair Vengeance LPX 16Go (2x8Go) DDR4 Jusqu'à 2666MHz C16 XMP 2.0 Kit de Mémoire Haute Performance - Noir",
    "ddr4_16_3000c15": "Crucial Ballistix BL2K8G30C15U4W 3000 MHz, DDR4, DRAM, Mémoire Kit pour PC de Gamer, 16Go (8Go x2), CL15, Blanc",
@@ -451,6 +462,7 @@
    "ddr5_32_8000c40": "G.skill Trident Z5 Neo Rgb - Ddr5 - Kit - 32gb: 2 X 16gb - Dimm 288-Pin - 6000 Mhz / Pc5-48000 - Cl36 - NoN-Ecc - Mattschwarz (f5-6000j3636f16gx2-Tz5",
    "ddr5_48_5600c40": "CORSAIR Vengeance DDR5 48Go (2 x 24Go) Jusqu'à 5600MHz Intel RAM",
    "ddr5_48_6000c30": "CORSAIR Vengeance DDR5 48GB Bis zu 6000MHz Intel RAM | Arbeitsspeicher für Gaming-PCs, Kompatibel mit Intel XMP 3.0, CL30, Weiß, CMK48GX5M2B6000C30W",
+   "ddr5_48_6400c32": "G.Skill DDR5 48 GB PC 6400 CL32 KIT 2x24 48-RS5K",
    "ddr5_48_7200c36": "48 Go G.Skill DDR5 Trident Z5 RGB 7200MHz CL36 1.35V Kit Double Canal 2X 24 Go Noir",
    "ddr5_64_5600c40": "CORSAIR Vengeance DDR5 64Go (2 x 32Go) Jusqu'à 5600MHz Intel RAM",
    "ddr5_64_6000c30": "Acer Predator Pallas II DDR5 RAM 64GB (32GBx2) 6000MHz CL30 PC5-51200 Intel XMP 3.0 AMD EXPO Compatible Computer Memory, Black - BL.9BWWR.437 at Amazon.com",
@@ -462,6 +474,7 @@
   },
   "ssds": {
    "hdd-5400": "Western Digital Blue 1000Go Série ATA III disque dur - disques durs (2.5\", 1000 Go, 5400 tr/min, Série ATA III, 128 Mo, Disque dur)",
+   "hdd-7200": "Seagate Barracuda Disque dur Interne SATA 7200 tr/min 1 To",
    "hdd-barracuda": "Seagate BarraCuda Pro 2 To, Disque dur interne HDD – 3,5\" SATA 6 Gbit/s 7 200 tr/min, 128 Mo mémoire cache, pour PC, services de récupération des données – Ouverture facile (ST2000DMZ09)",
    "hdd-barracuda-1tb": "Seagate Barracuda Disque dur interne 1 To Argent",
    "hdd-firecuda-2tb": "Seagate FireCuda Gaming Hard Drive, 2 To, Disque Dur Externe Portable HDD, USB-C, USB 3/2, voyants LED RVB, 3 Ans Services Rescue (STKL2000400)",
@@ -486,6 +499,7 @@
    "nvme-mp600pro-1tb": "Corsair MP600 PRO XT 1TB Gen4 PCIe x4 NVMe M.2 SSD – High-Density TLC NAND – Aluminum Heatspreader – M.2 2280 Form-Factor : Electronics",
    "nvme-mp700-2tb": "Corsair MP700 Pro 2 to M.2 PCIe Gen5 x4 NVMe 2.0 SSD - M.2 2280 - Jusqu'à 12 400 Mo/s en Lecture Séquentielle - TLC NAND Haute Densité - Noir",
    "nvme-nv2-1tb": "Kingston NV2 NVMe PCIe 4.0 Interne SSD 1TB M.2 2280 -SNV2S/1000G, Festkörper-Laufwerk",
+   "nvme-p3-1tb": "Crucial P3 1To M.2 PCIe Gen3 NVMe SSD Interne, Jusqu’à 3500 Mo/s - CT1000P3SSD801 (Édition Acronis)",
    "nvme-p3-500": "Crucial P3 500Go CT500P3SSD8 PCIe 3.0, 3D NAND, NVMe, M.2 SSD, up to 3500MB/s",
    "nvme-p41": "Solidgim SOLIDIGM SSD P41 Plus 1 to M.2 80 mm",
    "nvme-rocket4-1tb": "SABRENT 1TB Rocket 4 Plus NVMe 4.0 Gen4 PCIe M.2 Internal SSD Extreme Performance Solid State Drive (Latest Version) (SB-RKT4P-1TB) : Tools & Home Improvement",
@@ -676,33 +690,6 @@
    "amazon.fr": "B0CQ5CHKRB",
    "amazon.it": null
   },
-  "corsair-icue-3000d": {
-   "amazon.co.uk": null,
-   "amazon.com": null,
-   "amazon.com.au": null,
-   "amazon.de": null,
-   "amazon.es": null,
-   "amazon.fr": null,
-   "amazon.it": null
-  },
-  "deepcool-ch510": {
-   "amazon.co.uk": null,
-   "amazon.com": null,
-   "amazon.com.au": null,
-   "amazon.de": null,
-   "amazon.es": null,
-   "amazon.fr": null,
-   "amazon.it": null
-  },
-  "deepcool-macube-110-matx": {
-   "amazon.co.uk": null,
-   "amazon.com": null,
-   "amazon.com.au": null,
-   "amazon.de": null,
-   "amazon.es": null,
-   "amazon.fr": null,
-   "amazon.it": null
-  },
   "fractal-define-7": {
    "amazon.co.uk": null,
    "amazon.com": "B08146JLXK",
@@ -768,7 +755,7 @@
   },
   "fractal-ridge-itx": {
    "amazon.co.uk": null,
-   "amazon.com": null,
+   "amazon.com": "B0D59P5TXP",
    "amazon.com.au": null,
    "amazon.de": null,
    "amazon.es": null,
@@ -1026,15 +1013,6 @@
    "amazon.es": null,
    "amazon.fr": "B0BYQSBYYS",
    "amazon.it": null
-  },
-  "thermaltake-versa-h18-matx": {
-   "amazon.co.uk": null,
-   "amazon.com": null,
-   "amazon.com.au": null,
-   "amazon.de": null,
-   "amazon.es": null,
-   "amazon.fr": null,
-   "amazon.it": null
   }
  },
  "coolers": {
@@ -1134,7 +1112,7 @@
    "amazon.com.au": null,
    "amazon.de": null,
    "amazon.es": null,
-   "amazon.fr": null,
+   "amazon.fr": "B0B7NYH5RD",
    "amazon.it": null
   },
   "be-quiet-pure-rock-2": {
@@ -1273,15 +1251,6 @@
    "amazon.it": null
   },
   "deepcool-assassin-iv": {
-   "amazon.co.uk": null,
-   "amazon.com": null,
-   "amazon.com.au": null,
-   "amazon.de": null,
-   "amazon.es": null,
-   "amazon.fr": null,
-   "amazon.it": null
-  },
-  "deepcool-ls720": {
    "amazon.co.uk": null,
    "amazon.com": null,
    "amazon.com.au": null,
@@ -1627,9 +1596,9 @@
   },
   "amd-ryzen-7-1700": {
    "amazon.co.uk": null,
-   "amazon.com": null,
+   "amazon.com": "B06WP5YCX6",
    "amazon.com.au": null,
-   "amazon.de": null,
+   "amazon.de": "B06WP5YCX6",
    "amazon.es": null,
    "amazon.fr": null,
    "amazon.it": null
@@ -1872,7 +1841,7 @@
    "amazon.co.uk": null,
    "amazon.com": null,
    "amazon.com.au": null,
-   "amazon.de": null,
+   "amazon.de": "B0BG6843GX",
    "amazon.es": null,
    "amazon.fr": null,
    "amazon.it": null
@@ -2041,9 +2010,9 @@
   },
   "intel-core-i9-13900kf": {
    "amazon.co.uk": null,
-   "amazon.com": null,
+   "amazon.com": "B0BG66JH7Q",
    "amazon.com.au": null,
-   "amazon.de": null,
+   "amazon.de": "B0BG66JH7Q",
    "amazon.es": null,
    "amazon.fr": null,
    "amazon.it": null
@@ -2079,18 +2048,18 @@
    "amazon.co.uk": null,
    "amazon.com": null,
    "amazon.com.au": null,
-   "amazon.de": null,
+   "amazon.de": "B0DFK8HHK4",
    "amazon.es": null,
    "amazon.fr": null,
    "amazon.it": null
   },
   "intel-core-ultra-7-265kf": {
    "amazon.co.uk": null,
-   "amazon.com": null,
+   "amazon.com": "B0H2Z7VF4G",
    "amazon.com.au": null,
    "amazon.de": null,
    "amazon.es": null,
-   "amazon.fr": null,
+   "amazon.fr": "B0H2Z7VF4G",
    "amazon.it": null
   },
   "r5_3600": {
@@ -2300,31 +2269,22 @@
    "amazon.fr": "B0CK2ZQJZ6",
    "amazon.it": false
   },
-  "ultra5_245k": {
-   "amazon.co.uk": null,
-   "amazon.com": null,
-   "amazon.com.au": null,
-   "amazon.de": null,
-   "amazon.es": null,
-   "amazon.fr": null,
-   "amazon.it": null
-  },
   "ultra7_265k": {
    "amazon.co.uk": null,
    "amazon.com": null,
    "amazon.com.au": null,
-   "amazon.de": null,
+   "amazon.de": "B0DFK2MH2D",
    "amazon.es": null,
    "amazon.fr": null,
    "amazon.it": null
   },
   "ultra9_285k": {
    "amazon.co.uk": null,
-   "amazon.com": null,
+   "amazon.com": "B0H2Z9PLLL",
    "amazon.com.au": null,
    "amazon.de": null,
    "amazon.es": null,
-   "amazon.fr": null,
+   "amazon.fr": "B0H2Z9PLLL",
    "amazon.it": null
   },
   "xeonw52455x": {
@@ -2372,15 +2332,6 @@
    "amazon.de": null,
    "amazon.es": null,
    "amazon.fr": "B0DPX47W44",
-   "amazon.it": null
-  },
-  "aucun": {
-   "amazon.co.uk": null,
-   "amazon.com": null,
-   "amazon.com.au": null,
-   "amazon.de": null,
-   "amazon.es": null,
-   "amazon.fr": null,
    "amazon.it": null
   },
   "bequiet_silent3": {
@@ -2537,15 +2488,6 @@
    "amazon.es": "B099Y6439Y",
    "amazon.fr": "B099Y6439Y",
    "amazon.it": "B099Y6439Y"
-  },
-  "amd-rx-6700": {
-   "amazon.co.uk": null,
-   "amazon.com": null,
-   "amazon.com.au": null,
-   "amazon.de": null,
-   "amazon.es": null,
-   "amazon.fr": null,
-   "amazon.it": null
   },
   "amd-rx-6900-xt": {
    "amazon.co.uk": "B08RWZLDPN",
@@ -3177,15 +3119,6 @@
    "amazon.fr": "B0DZD6QV9L",
    "amazon.it": "B0DZD6QV9L"
   },
-  "rtx5070tis": {
-   "amazon.co.uk": null,
-   "amazon.com": null,
-   "amazon.com.au": null,
-   "amazon.de": null,
-   "amazon.es": null,
-   "amazon.fr": null,
-   "amazon.it": null
-  },
   "rtx5080": {
    "amazon.co.uk": "B0DS65KD1C",
    "amazon.com": "B0DS65KD1C",
@@ -3674,15 +3607,6 @@
    "amazon.fr": "B09PVMDTKW",
    "amazon.it": "B09PVMDTKW"
   },
-  "gigabyte-x670e-aorus-master": {
-   "amazon.co.uk": null,
-   "amazon.com": null,
-   "amazon.com.au": null,
-   "amazon.de": null,
-   "amazon.es": null,
-   "amazon.fr": null,
-   "amazon.it": null
-  },
   "h610m": {
    "amazon.co.uk": null,
    "amazon.com": "B09P3RV6ZC",
@@ -3829,7 +3753,7 @@
   },
   "z890-itx": {
    "amazon.co.uk": null,
-   "amazon.com": null,
+   "amazon.com": "B0DGWTXD4L",
    "amazon.com.au": null,
    "amazon.de": null,
    "amazon.es": null,
@@ -3935,24 +3859,6 @@
    "amazon.de": null,
    "amazon.es": null,
    "amazon.fr": "B0C86K2RP7",
-   "amazon.it": null
-  },
-  "be-quiet-system-power-10-450w": {
-   "amazon.co.uk": null,
-   "amazon.com": null,
-   "amazon.com.au": null,
-   "amazon.de": null,
-   "amazon.es": null,
-   "amazon.fr": null,
-   "amazon.it": null
-  },
-  "be-quiet-system-power-10-550w": {
-   "amazon.co.uk": null,
-   "amazon.com": null,
-   "amazon.com.au": null,
-   "amazon.de": null,
-   "amazon.es": null,
-   "amazon.fr": null,
    "amazon.it": null
   },
   "cooler-master-mwe-gold-750-v2": {
@@ -4115,15 +4021,6 @@
    "amazon.de": null,
    "amazon.es": null,
    "amazon.fr": "B0D5HY3F9X",
-   "amazon.it": null
-  },
-  "evga-supernova-1200-p6": {
-   "amazon.co.uk": null,
-   "amazon.com": null,
-   "amazon.com.au": null,
-   "amazon.de": null,
-   "amazon.es": null,
-   "amazon.fr": null,
    "amazon.it": null
   },
   "gigabyte-ud1000gm-pg5": {
@@ -4359,7 +4256,7 @@
    "amazon.com.au": null,
    "amazon.de": null,
    "amazon.es": null,
-   "amazon.fr": null,
+   "amazon.fr": "B0C69TXLX1",
    "amazon.it": null
   },
   "ddr3_8_1866c9": {
@@ -4560,15 +4457,6 @@
    "amazon.fr": "B0BRTJCLBJ",
    "amazon.it": "B0BRTJCLBJ"
   },
-  "ddr5_16_6000c30": {
-   "amazon.co.uk": null,
-   "amazon.com": null,
-   "amazon.com.au": null,
-   "amazon.de": null,
-   "amazon.es": null,
-   "amazon.fr": null,
-   "amazon.it": null
-  },
   "ddr5_16_6000c36": {
    "amazon.co.uk": null,
    "amazon.com": false,
@@ -4751,9 +4639,9 @@
   },
   "ddr5_48_6400c32": {
    "amazon.co.uk": null,
-   "amazon.com": null,
+   "amazon.com": "B0C6HW1GKZ",
    "amazon.com.au": null,
-   "amazon.de": null,
+   "amazon.de": "B0C6HW1GKZ",
    "amazon.es": null,
    "amazon.fr": null,
    "amazon.it": null
@@ -4847,7 +4735,7 @@
    "amazon.com.au": null,
    "amazon.de": null,
    "amazon.es": null,
-   "amazon.fr": null,
+   "amazon.fr": "B0035G0JBG",
    "amazon.it": null
   },
   "hdd-barracuda": {
@@ -5039,15 +4927,6 @@
    "amazon.fr": null,
    "amazon.it": null
   },
-  "nvme-mp600gs-1tb": {
-   "amazon.co.uk": null,
-   "amazon.com": null,
-   "amazon.com.au": null,
-   "amazon.de": null,
-   "amazon.es": null,
-   "amazon.fr": null,
-   "amazon.it": null
-  },
   "nvme-mp600pro-1tb": {
    "amazon.co.uk": null,
    "amazon.com": "B09F5Z6BJ6",
@@ -5075,22 +4954,13 @@
    "amazon.fr": null,
    "amazon.it": null
   },
-  "nvme-p3": {
-   "amazon.co.uk": null,
-   "amazon.com": null,
-   "amazon.com.au": null,
-   "amazon.de": null,
-   "amazon.es": null,
-   "amazon.fr": null,
-   "amazon.it": null
-  },
   "nvme-p3-1tb": {
    "amazon.co.uk": null,
-   "amazon.com": null,
+   "amazon.com": "B0C2WGL8DQ",
    "amazon.com.au": null,
    "amazon.de": null,
    "amazon.es": null,
-   "amazon.fr": null,
+   "amazon.fr": "B0C2WGL8DQ",
    "amazon.it": null
   },
   "nvme-p3-500": {
@@ -5100,15 +4970,6 @@
    "amazon.de": null,
    "amazon.es": null,
    "amazon.fr": "B0B25LQQPC",
-   "amazon.it": null
-  },
-  "nvme-p3plus": {
-   "amazon.co.uk": null,
-   "amazon.com": null,
-   "amazon.com.au": null,
-   "amazon.de": null,
-   "amazon.es": null,
-   "amazon.fr": null,
    "amazon.it": null
   },
   "nvme-p41": {
@@ -5219,33 +5080,6 @@
    "amazon.fr": "B0D9WTKV1B",
    "amazon.it": null
   },
-  "nvme-t500": {
-   "amazon.co.uk": null,
-   "amazon.com": null,
-   "amazon.com.au": null,
-   "amazon.de": null,
-   "amazon.es": null,
-   "amazon.fr": null,
-   "amazon.it": null
-  },
-  "nvme-t500-1tb": {
-   "amazon.co.uk": null,
-   "amazon.com": null,
-   "amazon.com.au": null,
-   "amazon.de": null,
-   "amazon.es": null,
-   "amazon.fr": null,
-   "amazon.it": null
-  },
-  "nvme-t500-2tb": {
-   "amazon.co.uk": null,
-   "amazon.com": null,
-   "amazon.com.au": null,
-   "amazon.de": null,
-   "amazon.es": null,
-   "amazon.fr": null,
-   "amazon.it": null
-  },
   "nvme-t700": {
    "amazon.co.uk": "B0C3K1QBSG",
    "amazon.com": "B0C3K1QBSG",
@@ -5280,15 +5114,6 @@
    "amazon.de": "B0CTS93WML",
    "amazon.es": "B0CTS93WML",
    "amazon.fr": "B0CTS93WML",
-   "amazon.it": null
-  },
-  "sata-870-250": {
-   "amazon.co.uk": null,
-   "amazon.com": null,
-   "amazon.com.au": null,
-   "amazon.de": null,
-   "amazon.es": null,
-   "amazon.fr": null,
    "amazon.it": null
   },
   "sata-870evo": {

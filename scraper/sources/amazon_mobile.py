@@ -80,7 +80,7 @@ def _titre(bloc):
 class AmazonMobileSource:
     """Résolution d'ASIN par la recherche mobile d'une marketplace."""
 
-    def __init__(self, domaine="amazon.fr", rate_limit=1.0, timeout=25):
+    def __init__(self, domaine="amazon.fr", rate_limit=1.0, timeout=15):
         self.domaine = domaine
         self.rate_limit = rate_limit
         self.timeout = timeout

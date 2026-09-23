@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-12T22:01:12Z",
+ "generated": "2026-09-23T16:33:08Z",
  "markets": [
   "amazon.fr",
   "amazon.de",
@@ -9,8 +9,8 @@
   "amazon.com",
   "amazon.com.au"
  ],
- "nativeLinks": 2523,
- "onelinkLinks": 1019,
+ "nativeLinks": 2488,
+ "onelinkLinks": 1061,
  "note": "Liens d'affiliation Amazon pre-calcules vers la FICHE PRODUIT (/dp/<ASIN>), utilises par l'app quand aucune offre Amazon verifiee n'est disponible. ASIN valides sur la fiche Amazon elle-meme ; les marketplaces sans fiche recoivent le lien d'une marketplace voisine, OneLink redirigeant l'acheteur.",
  "items": {
   "gpus": {
@@ -836,8 +836,7 @@
      "amazon.es",
      "amazon.it",
      "amazon.co.uk",
-     "amazon.com",
-     "amazon.com.au"
+     "amazon.com"
     ],
     "links": {
      "amazon.fr": "https://www.amazon.fr/dp/B0FRPFG6NW?tag=fraym-21",
@@ -846,7 +845,7 @@
      "amazon.it": "https://www.amazon.it/dp/B0FRPFG6NW?tag=fraym06-21",
      "amazon.co.uk": "https://www.amazon.co.uk/dp/B0FRPFG6NW?tag=fraym0a-21",
      "amazon.com": "https://www.amazon.com/dp/B0FRPFG6NW?tag=fraym-20",
-     "amazon.com.au": "https://www.amazon.com.au/dp/B0FRPFG6NW?tag=fraym-22"
+     "amazon.com.au": "https://www.amazon.com/dp/B0FRPFG6NW?tag=fraym-20"
     }
    },
    "rtx4060ti16": {
@@ -1312,7 +1311,6 @@
      "amazon.fr",
      "amazon.de",
      "amazon.it",
-     "amazon.co.uk",
      "amazon.com.au"
     ],
     "links": {
@@ -1320,7 +1318,7 @@
      "amazon.de": "https://www.amazon.de/dp/B01GRCYPE6?tag=fraym03-21",
      "amazon.es": "https://www.amazon.fr/dp/B01GRCYPE6?tag=fraym-21",
      "amazon.it": "https://www.amazon.it/dp/B01GRCYPE6?tag=fraym06-21",
-     "amazon.co.uk": "https://www.amazon.co.uk/dp/B01GRCYPE6?tag=fraym0a-21",
+     "amazon.co.uk": "https://www.amazon.de/dp/B01GRCYPE6?tag=fraym03-21",
      "amazon.com": "https://www.amazon.com.au/dp/B01GRCYPE6?tag=fraym-22",
      "amazon.com.au": "https://www.amazon.com.au/dp/B01GRCYPE6?tag=fraym-22"
     }
@@ -1489,7 +1487,6 @@
      "amazon.fr",
      "amazon.de",
      "amazon.es",
-     "amazon.it",
      "amazon.co.uk",
      "amazon.com",
      "amazon.com.au"
@@ -1498,7 +1495,7 @@
      "amazon.fr": "https://www.amazon.fr/dp/B07JBTS8HR?tag=fraym-21",
      "amazon.de": "https://www.amazon.de/dp/B07JBTS8HR?tag=fraym03-21",
      "amazon.es": "https://www.amazon.es/dp/B07JBTS8HR?tag=fraym08-21",
-     "amazon.it": "https://www.amazon.it/dp/B07JBTS8HR?tag=fraym06-21",
+     "amazon.it": "https://www.amazon.de/dp/B07JBTS8HR?tag=fraym03-21",
      "amazon.co.uk": "https://www.amazon.co.uk/dp/B07JBTS8HR?tag=fraym0a-21",
      "amazon.com": "https://www.amazon.com/dp/B07JBTS8HR?tag=fraym-20",
      "amazon.com.au": "https://www.amazon.com.au/dp/B07JBTS8HR?tag=fraym-22"
@@ -2044,8 +2041,7 @@
      "amazon.es",
      "amazon.it",
      "amazon.co.uk",
-     "amazon.com",
-     "amazon.com.au"
+     "amazon.com"
     ],
     "links": {
      "amazon.fr": "https://www.amazon.fr/dp/B0CJGSP9R7?tag=fraym-21",
@@ -2054,7 +2050,7 @@
      "amazon.it": "https://www.amazon.it/dp/B0CJGSP9R7?tag=fraym06-21",
      "amazon.co.uk": "https://www.amazon.co.uk/dp/B0CJGSP9R7?tag=fraym0a-21",
      "amazon.com": "https://www.amazon.com/dp/B0CJGSP9R7?tag=fraym-20",
-     "amazon.com.au": "https://www.amazon.com.au/dp/B0CJGSP9R7?tag=fraym-22"
+     "amazon.com.au": "https://www.amazon.com/dp/B0CJGSP9R7?tag=fraym-20"
     }
    },
    "intel-arc-a770": {
@@ -2891,6 +2887,24 @@
      "amazon.com.au": "https://www.amazon.com.au/dp/B0H2Z9PLLL?tag=fraym-22"
     }
    },
+   "ultra5_245k": {
+    "name": "Core Ultra 5 245K",
+    "q": "Intel Core Ultra 5 245K",
+    "asin": "B0DFK2P311",
+    "product": "Intel® Core™ Ultra 5 Desktop-Prozessor 245K 14 Kerne bis zu 5,2 GHz",
+    "native": [
+     "amazon.de"
+    ],
+    "links": {
+     "amazon.fr": "https://www.amazon.de/dp/B0DFK2P311?tag=fraym03-21",
+     "amazon.de": "https://www.amazon.de/dp/B0DFK2P311?tag=fraym03-21",
+     "amazon.es": "https://www.amazon.de/dp/B0DFK2P311?tag=fraym03-21",
+     "amazon.it": "https://www.amazon.de/dp/B0DFK2P311?tag=fraym03-21",
+     "amazon.co.uk": "https://www.amazon.de/dp/B0DFK2P311?tag=fraym03-21",
+     "amazon.com": "https://www.amazon.de/dp/B0DFK2P311?tag=fraym03-21",
+     "amazon.com.au": "https://www.amazon.de/dp/B0DFK2P311?tag=fraym03-21"
+    }
+   },
    "r5_9600x": {
     "name": "Ryzen 5 9600X",
     "q": "AMD Ryzen 5 9600X",
@@ -3005,28 +3019,6 @@
      "amazon.co.uk": "https://www.amazon.co.uk/dp/B0C3T39N6P?tag=fraym0a-21",
      "amazon.com": "https://www.amazon.com/dp/B0C3T39N6P?tag=fraym-20",
      "amazon.com.au": "https://www.amazon.com.au/dp/B0C3T39N6P?tag=fraym-22"
-    }
-   },
-   "r5_5500": {
-    "name": "Ryzen 5 5500",
-    "q": "AMD Ryzen 5 5500",
-    "asin": "B09VCJ171S",
-    "product": "AMD Ryzen 5 5500 Processeur (6 Coeurs/12 Threads, 65W TDP, Socket AM4, Cache 19Mo, jusqu'à 4.2 GHz Fréquence Boost, Ventilateur wraith Stealth)",
-    "native": [
-     "amazon.fr",
-     "amazon.de",
-     "amazon.es",
-     "amazon.it",
-     "amazon.co.uk"
-    ],
-    "links": {
-     "amazon.fr": "https://www.amazon.fr/dp/B09VCJ171S?tag=fraym-21",
-     "amazon.de": "https://www.amazon.de/dp/B09VCJ171S?tag=fraym03-21",
-     "amazon.es": "https://www.amazon.es/dp/B09VCJ171S?tag=fraym08-21",
-     "amazon.it": "https://www.amazon.it/dp/B09VCJ171S?tag=fraym06-21",
-     "amazon.co.uk": "https://www.amazon.co.uk/dp/B09VCJ171S?tag=fraym0a-21",
-     "amazon.com": "https://www.amazon.co.uk/dp/B09VCJ171S?tag=fraym0a-21",
-     "amazon.com.au": "https://www.amazon.co.uk/dp/B09VCJ171S?tag=fraym0a-21"
     }
    },
    "r5_5700x3d": {
@@ -3387,25 +3379,6 @@
      "amazon.com.au": "https://www.amazon.co.uk/dp/B09VCHQHZ6?tag=fraym0a-21"
     }
    },
-   "amd-ryzen-7-5700g": {
-    "name": "Ryzen 7 5700G",
-    "q": "AMD Ryzen 7 5700G",
-    "asin": "B0D9YCRQDP",
-    "product": "ARCTIC Senza 5700G - PC Montage sous Table, Refroidissement Passif",
-    "native": [
-     "amazon.fr",
-     "amazon.it"
-    ],
-    "links": {
-     "amazon.fr": "https://www.amazon.fr/dp/B0D9YCRQDP?tag=fraym-21",
-     "amazon.de": "https://www.amazon.fr/dp/B0D9YCRQDP?tag=fraym-21",
-     "amazon.es": "https://www.amazon.fr/dp/B0D9YCRQDP?tag=fraym-21",
-     "amazon.it": "https://www.amazon.it/dp/B0D9YCRQDP?tag=fraym06-21",
-     "amazon.co.uk": "https://www.amazon.fr/dp/B0D9YCRQDP?tag=fraym-21",
-     "amazon.com": "https://www.amazon.fr/dp/B0D9YCRQDP?tag=fraym-21",
-     "amazon.com.au": "https://www.amazon.fr/dp/B0D9YCRQDP?tag=fraym-21"
-    }
-   },
    "amd-ryzen-5-5600g": {
     "name": "Ryzen 5 5600G",
     "q": "AMD Ryzen 5 5600G",
@@ -3619,17 +3592,16 @@
      "amazon.fr",
      "amazon.de",
      "amazon.es",
-     "amazon.it",
-     "amazon.co.uk"
+     "amazon.it"
     ],
     "links": {
      "amazon.fr": "https://www.amazon.fr/dp/B07KFT31DY?tag=fraym-21",
      "amazon.de": "https://www.amazon.de/dp/B07KFT31DY?tag=fraym03-21",
      "amazon.es": "https://www.amazon.es/dp/B07KFT31DY?tag=fraym08-21",
      "amazon.it": "https://www.amazon.it/dp/B07KFT31DY?tag=fraym06-21",
-     "amazon.co.uk": "https://www.amazon.co.uk/dp/B07KFT31DY?tag=fraym0a-21",
-     "amazon.com": "https://www.amazon.co.uk/dp/B07KFT31DY?tag=fraym0a-21",
-     "amazon.com.au": "https://www.amazon.co.uk/dp/B07KFT31DY?tag=fraym0a-21"
+     "amazon.co.uk": "https://www.amazon.de/dp/B07KFT31DY?tag=fraym03-21",
+     "amazon.com": "https://www.amazon.de/dp/B07KFT31DY?tag=fraym03-21",
+     "amazon.com.au": "https://www.amazon.de/dp/B07KFT31DY?tag=fraym03-21"
     }
    },
    "amd-ryzen-5-2600": {
@@ -4374,7 +4346,6 @@
     "native": [
      "amazon.fr",
      "amazon.es",
-     "amazon.it",
      "amazon.co.uk",
      "amazon.com",
      "amazon.com.au"
@@ -4383,7 +4354,7 @@
      "amazon.fr": "https://www.amazon.fr/dp/B07Z87ZMN3?tag=fraym-21",
      "amazon.de": "https://www.amazon.fr/dp/B07Z87ZMN3?tag=fraym-21",
      "amazon.es": "https://www.amazon.es/dp/B07Z87ZMN3?tag=fraym08-21",
-     "amazon.it": "https://www.amazon.it/dp/B07Z87ZMN3?tag=fraym06-21",
+     "amazon.it": "https://www.amazon.fr/dp/B07Z87ZMN3?tag=fraym-21",
      "amazon.co.uk": "https://www.amazon.co.uk/dp/B07Z87ZMN3?tag=fraym0a-21",
      "amazon.com": "https://www.amazon.com/dp/B07Z87ZMN3?tag=fraym-20",
      "amazon.com.au": "https://www.amazon.com.au/dp/B07Z87ZMN3?tag=fraym-22"
@@ -4416,14 +4387,13 @@
     "product": "Kingston FURY Beast Noir DDR5 16Go 5200MT/s CL40 DIMM Mémoire pour PC de Gamer Module Simple Intel XMP - KF552C40BB-16",
     "native": [
      "amazon.fr",
-     "amazon.es",
-     "amazon.it"
+     "amazon.es"
     ],
     "links": {
      "amazon.fr": "https://www.amazon.fr/dp/B09KCM59ZK?tag=fraym-21",
      "amazon.de": "https://www.amazon.fr/dp/B09KCM59ZK?tag=fraym-21",
      "amazon.es": "https://www.amazon.es/dp/B09KCM59ZK?tag=fraym08-21",
-     "amazon.it": "https://www.amazon.it/dp/B09KCM59ZK?tag=fraym06-21",
+     "amazon.it": "https://www.amazon.fr/dp/B09KCM59ZK?tag=fraym-21",
      "amazon.co.uk": "https://www.amazon.fr/dp/B09KCM59ZK?tag=fraym-21",
      "amazon.com": "https://www.amazon.fr/dp/B09KCM59ZK?tag=fraym-21",
      "amazon.com.au": "https://www.amazon.fr/dp/B09KCM59ZK?tag=fraym-21"
@@ -4435,17 +4405,16 @@
     "asin": "B0BHVFDP42",
     "product": "CORSAIR Vengeance RGB DDR5 32Go (2 x 16Go) Jusqu'à 5600MHz AMD Intel RAM",
     "native": [
-     "amazon.fr",
      "amazon.es",
      "amazon.co.uk",
      "amazon.com",
      "amazon.com.au"
     ],
     "links": {
-     "amazon.fr": "https://www.amazon.fr/dp/B0BHVFDP42?tag=fraym-21",
-     "amazon.de": "https://www.amazon.fr/dp/B0BHVFDP42?tag=fraym-21",
+     "amazon.fr": "https://www.amazon.es/dp/B0BHVFDP42?tag=fraym08-21",
+     "amazon.de": "https://www.amazon.es/dp/B0BHVFDP42?tag=fraym08-21",
      "amazon.es": "https://www.amazon.es/dp/B0BHVFDP42?tag=fraym08-21",
-     "amazon.it": "https://www.amazon.fr/dp/B0BHVFDP42?tag=fraym-21",
+     "amazon.it": "https://www.amazon.es/dp/B0BHVFDP42?tag=fraym08-21",
      "amazon.co.uk": "https://www.amazon.co.uk/dp/B0BHVFDP42?tag=fraym0a-21",
      "amazon.com": "https://www.amazon.com/dp/B0BHVFDP42?tag=fraym-20",
      "amazon.com.au": "https://www.amazon.com.au/dp/B0BHVFDP42?tag=fraym-22"
@@ -4500,7 +4469,6 @@
     "asin": "B0DF27V6L9",
     "product": "CORSAIR Vengeance DDR5 48GB Bis zu 6000MHz Intel RAM | Arbeitsspeicher für Gaming-PCs, Kompatibel mit Intel XMP 3.0, CL30, Weiß, CMK48GX5M2B6000C30W",
     "native": [
-     "amazon.fr",
      "amazon.de",
      "amazon.es",
      "amazon.co.uk",
@@ -4508,7 +4476,7 @@
      "amazon.com.au"
     ],
     "links": {
-     "amazon.fr": "https://www.amazon.fr/dp/B0DF27V6L9?tag=fraym-21",
+     "amazon.fr": "https://www.amazon.de/dp/B0DF27V6L9?tag=fraym03-21",
      "amazon.de": "https://www.amazon.de/dp/B0DF27V6L9?tag=fraym03-21",
      "amazon.es": "https://www.amazon.es/dp/B0DF27V6L9?tag=fraym08-21",
      "amazon.it": "https://www.amazon.de/dp/B0DF27V6L9?tag=fraym03-21",
@@ -4523,18 +4491,16 @@
     "asin": "B0CRSZCQNH",
     "product": "Acer Predator Pallas II DDR5 RAM 64GB (32GBx2) 6000MHz CL30 PC5-51200 Intel XMP 3.0 AMD EXPO Compatible Computer Memory, Black - BL.9BWWR.437 at Amazon.com",
     "native": [
-     "amazon.es",
-     "amazon.it",
-     "amazon.com"
+     "amazon.it"
     ],
     "links": {
-     "amazon.fr": "https://www.amazon.es/dp/B0CRSZCQNH?tag=fraym08-21",
+     "amazon.fr": "https://www.amazon.it/dp/B0CRSZCQNH?tag=fraym06-21",
      "amazon.de": "https://www.amazon.it/dp/B0CRSZCQNH?tag=fraym06-21",
-     "amazon.es": "https://www.amazon.es/dp/B0CRSZCQNH?tag=fraym08-21",
+     "amazon.es": "https://www.amazon.it/dp/B0CRSZCQNH?tag=fraym06-21",
      "amazon.it": "https://www.amazon.it/dp/B0CRSZCQNH?tag=fraym06-21",
-     "amazon.co.uk": "https://www.amazon.com/dp/B0CRSZCQNH?tag=fraym-20",
-     "amazon.com": "https://www.amazon.com/dp/B0CRSZCQNH?tag=fraym-20",
-     "amazon.com.au": "https://www.amazon.com/dp/B0CRSZCQNH?tag=fraym-20"
+     "amazon.co.uk": "https://www.amazon.it/dp/B0CRSZCQNH?tag=fraym06-21",
+     "amazon.com": "https://www.amazon.it/dp/B0CRSZCQNH?tag=fraym06-21",
+     "amazon.com.au": "https://www.amazon.it/dp/B0CRSZCQNH?tag=fraym06-21"
     }
    },
    "ddr5_32_7200c34": {
@@ -4545,14 +4511,13 @@
     "native": [
      "amazon.fr",
      "amazon.es",
-     "amazon.it",
      "amazon.co.uk"
     ],
     "links": {
      "amazon.fr": "https://www.amazon.fr/dp/B0BJ81HV3N?tag=fraym-21",
      "amazon.de": "https://www.amazon.fr/dp/B0BJ81HV3N?tag=fraym-21",
      "amazon.es": "https://www.amazon.es/dp/B0BJ81HV3N?tag=fraym08-21",
-     "amazon.it": "https://www.amazon.it/dp/B0BJ81HV3N?tag=fraym06-21",
+     "amazon.it": "https://www.amazon.fr/dp/B0BJ81HV3N?tag=fraym-21",
      "amazon.co.uk": "https://www.amazon.co.uk/dp/B0BJ81HV3N?tag=fraym0a-21",
      "amazon.com": "https://www.amazon.co.uk/dp/B0BJ81HV3N?tag=fraym0a-21",
      "amazon.com.au": "https://www.amazon.co.uk/dp/B0BJ81HV3N?tag=fraym0a-21"
@@ -4651,7 +4616,6 @@
     "native": [
      "amazon.fr",
      "amazon.es",
-     "amazon.it",
      "amazon.co.uk",
      "amazon.com",
      "amazon.com.au"
@@ -4660,7 +4624,7 @@
      "amazon.fr": "https://www.amazon.fr/dp/B07Z86WG45?tag=fraym-21",
      "amazon.de": "https://www.amazon.fr/dp/B07Z86WG45?tag=fraym-21",
      "amazon.es": "https://www.amazon.es/dp/B07Z86WG45?tag=fraym08-21",
-     "amazon.it": "https://www.amazon.it/dp/B07Z86WG45?tag=fraym06-21",
+     "amazon.it": "https://www.amazon.fr/dp/B07Z86WG45?tag=fraym-21",
      "amazon.co.uk": "https://www.amazon.co.uk/dp/B07Z86WG45?tag=fraym0a-21",
      "amazon.com": "https://www.amazon.com/dp/B07Z86WG45?tag=fraym-20",
      "amazon.com.au": "https://www.amazon.com.au/dp/B07Z86WG45?tag=fraym-22"
@@ -4675,7 +4639,6 @@
      "amazon.fr",
      "amazon.de",
      "amazon.es",
-     "amazon.it",
      "amazon.co.uk",
      "amazon.com",
      "amazon.com.au"
@@ -4684,7 +4647,7 @@
      "amazon.fr": "https://www.amazon.fr/dp/B0DV9PLPBL?tag=fraym-21",
      "amazon.de": "https://www.amazon.de/dp/B0DV9PLPBL?tag=fraym03-21",
      "amazon.es": "https://www.amazon.es/dp/B0DV9PLPBL?tag=fraym08-21",
-     "amazon.it": "https://www.amazon.it/dp/B0DV9PLPBL?tag=fraym06-21",
+     "amazon.it": "https://www.amazon.de/dp/B0DV9PLPBL?tag=fraym03-21",
      "amazon.co.uk": "https://www.amazon.co.uk/dp/B0DV9PLPBL?tag=fraym0a-21",
      "amazon.com": "https://www.amazon.com/dp/B0DV9PLPBL?tag=fraym-20",
      "amazon.com.au": "https://www.amazon.com.au/dp/B0DV9PLPBL?tag=fraym-22"
@@ -4717,7 +4680,6 @@
     "asin": "B0C6HW1GKZ",
     "product": "G.Skill DDR5 48 GB PC 6400 CL32 KIT 2x24 48-RS5K",
     "native": [
-     "amazon.fr",
      "amazon.de",
      "amazon.es",
      "amazon.it",
@@ -4725,7 +4687,7 @@
      "amazon.com.au"
     ],
     "links": {
-     "amazon.fr": "https://www.amazon.fr/dp/B0C6HW1GKZ?tag=fraym-21",
+     "amazon.fr": "https://www.amazon.de/dp/B0C6HW1GKZ?tag=fraym03-21",
      "amazon.de": "https://www.amazon.de/dp/B0C6HW1GKZ?tag=fraym03-21",
      "amazon.es": "https://www.amazon.es/dp/B0C6HW1GKZ?tag=fraym08-21",
      "amazon.it": "https://www.amazon.it/dp/B0C6HW1GKZ?tag=fraym06-21",
@@ -4817,8 +4779,7 @@
     "asin": "B07MDHT3B5",
     "product": "Timetec 8 Go Compatible pour Apple DDR4 2666 MHz pour iMac mi-2020 (20.1/20.2) / iMac mi-2019 (19.1) 27\" avec écran Retina 5K, Fin 2018 Mac Mini (8.1) PC4-21333 / PC4-21300 SODIMM Mac RAM Upgrade",
     "native": [
-     "amazon.com",
-     "amazon.com.au"
+     "amazon.com"
     ],
     "links": {
      "amazon.fr": "https://www.amazon.com/dp/B07MDHT3B5?tag=fraym-20",
@@ -4827,7 +4788,7 @@
      "amazon.it": "https://www.amazon.com/dp/B07MDHT3B5?tag=fraym-20",
      "amazon.co.uk": "https://www.amazon.com/dp/B07MDHT3B5?tag=fraym-20",
      "amazon.com": "https://www.amazon.com/dp/B07MDHT3B5?tag=fraym-20",
-     "amazon.com.au": "https://www.amazon.com.au/dp/B07MDHT3B5?tag=fraym-22"
+     "amazon.com.au": "https://www.amazon.com/dp/B07MDHT3B5?tag=fraym-20"
     }
    },
    "ddr4_16_2666c16": {
@@ -5071,14 +5032,13 @@
     "product": "Kingston FURY Beast Noir DDR5 16Go (2x8Go) 5600MT/s CL36 DIMM Mémoire pour PC de Gamer Kit de 2 AMD EXPO et Intel XMP - KF556C36BBEK2-16",
     "native": [
      "amazon.fr",
-     "amazon.es",
-     "amazon.it"
+     "amazon.es"
     ],
     "links": {
      "amazon.fr": "https://www.amazon.fr/dp/B0BRTJCLBJ?tag=fraym-21",
      "amazon.de": "https://www.amazon.fr/dp/B0BRTJCLBJ?tag=fraym-21",
      "amazon.es": "https://www.amazon.es/dp/B0BRTJCLBJ?tag=fraym08-21",
-     "amazon.it": "https://www.amazon.it/dp/B0BRTJCLBJ?tag=fraym06-21",
+     "amazon.it": "https://www.amazon.fr/dp/B0BRTJCLBJ?tag=fraym-21",
      "amazon.co.uk": "https://www.amazon.fr/dp/B0BRTJCLBJ?tag=fraym-21",
      "amazon.com": "https://www.amazon.fr/dp/B0BRTJCLBJ?tag=fraym-21",
      "amazon.com.au": "https://www.amazon.fr/dp/B0BRTJCLBJ?tag=fraym-21"
@@ -5091,14 +5051,13 @@
     "product": "G.skill Ripjaws M5 Rgb Ddr5 2x16gb 6000mhz Cl36-36 Black F5-6000j3636f16gx2-Rm5rk (f5-6000j3636f16gx2-Rm5rk)",
     "native": [
      "amazon.fr",
-     "amazon.es",
-     "amazon.it"
+     "amazon.es"
     ],
     "links": {
      "amazon.fr": "https://www.amazon.fr/dp/B0DN5SD5LN?tag=fraym-21",
      "amazon.de": "https://www.amazon.fr/dp/B0DN5SD5LN?tag=fraym-21",
      "amazon.es": "https://www.amazon.es/dp/B0DN5SD5LN?tag=fraym08-21",
-     "amazon.it": "https://www.amazon.it/dp/B0DN5SD5LN?tag=fraym06-21",
+     "amazon.it": "https://www.amazon.fr/dp/B0DN5SD5LN?tag=fraym-21",
      "amazon.co.uk": "https://www.amazon.fr/dp/B0DN5SD5LN?tag=fraym-21",
      "amazon.com": "https://www.amazon.fr/dp/B0DN5SD5LN?tag=fraym-21",
      "amazon.com.au": "https://www.amazon.fr/dp/B0DN5SD5LN?tag=fraym-21"
@@ -5175,14 +5134,13 @@
     "native": [
      "amazon.fr",
      "amazon.es",
-     "amazon.it",
      "amazon.com"
     ],
     "links": {
      "amazon.fr": "https://www.amazon.fr/dp/B0DN5S68H3?tag=fraym-21",
      "amazon.de": "https://www.amazon.fr/dp/B0DN5S68H3?tag=fraym-21",
      "amazon.es": "https://www.amazon.es/dp/B0DN5S68H3?tag=fraym08-21",
-     "amazon.it": "https://www.amazon.it/dp/B0DN5S68H3?tag=fraym06-21",
+     "amazon.it": "https://www.amazon.fr/dp/B0DN5S68H3?tag=fraym-21",
      "amazon.co.uk": "https://www.amazon.fr/dp/B0DN5S68H3?tag=fraym-21",
      "amazon.com": "https://www.amazon.com/dp/B0DN5S68H3?tag=fraym-20",
      "amazon.com.au": "https://www.amazon.com/dp/B0DN5S68H3?tag=fraym-20"
@@ -5296,43 +5254,22 @@
      "amazon.com.au": "https://www.amazon.com.au/dp/B0BNGLDD88?tag=fraym-22"
     }
    },
-   "ddr5_32_8000c40": {
-    "name": "32 Go DDR5-8000 CL40",
-    "q": "G.Skill DDR5-8000 32GB CL40",
-    "asin": "B0BF6ZQ8MY",
-    "product": "G.skill Trident Z5 Neo Rgb - Ddr5 - Kit - 32gb: 2 X 16gb - Dimm 288-Pin - 6000 Mhz / Pc5-48000 - Cl36 - NoN-Ecc - Mattschwarz (f5-6000j3636f16gx2-Tz5",
-    "native": [
-     "amazon.fr",
-     "amazon.es",
-     "amazon.it"
-    ],
-    "links": {
-     "amazon.fr": "https://www.amazon.fr/dp/B0BF6ZQ8MY?tag=fraym-21",
-     "amazon.de": "https://www.amazon.fr/dp/B0BF6ZQ8MY?tag=fraym-21",
-     "amazon.es": "https://www.amazon.es/dp/B0BF6ZQ8MY?tag=fraym08-21",
-     "amazon.it": "https://www.amazon.it/dp/B0BF6ZQ8MY?tag=fraym06-21",
-     "amazon.co.uk": "https://www.amazon.fr/dp/B0BF6ZQ8MY?tag=fraym-21",
-     "amazon.com": "https://www.amazon.fr/dp/B0BF6ZQ8MY?tag=fraym-21",
-     "amazon.com.au": "https://www.amazon.fr/dp/B0BF6ZQ8MY?tag=fraym-21"
-    }
-   },
    "ddr5_48_5600c40": {
     "name": "48 Go DDR5-5600 CL40",
     "q": "Corsair DDR5-5600 48GB CL40",
     "asin": "B0BVN1YZKV",
     "product": "CORSAIR Vengeance DDR5 48Go (2 x 24Go) Jusqu'à 5600MHz Intel RAM",
     "native": [
-     "amazon.fr",
      "amazon.es",
      "amazon.co.uk",
      "amazon.com",
      "amazon.com.au"
     ],
     "links": {
-     "amazon.fr": "https://www.amazon.fr/dp/B0BVN1YZKV?tag=fraym-21",
-     "amazon.de": "https://www.amazon.fr/dp/B0BVN1YZKV?tag=fraym-21",
+     "amazon.fr": "https://www.amazon.es/dp/B0BVN1YZKV?tag=fraym08-21",
+     "amazon.de": "https://www.amazon.es/dp/B0BVN1YZKV?tag=fraym08-21",
      "amazon.es": "https://www.amazon.es/dp/B0BVN1YZKV?tag=fraym08-21",
-     "amazon.it": "https://www.amazon.fr/dp/B0BVN1YZKV?tag=fraym-21",
+     "amazon.it": "https://www.amazon.es/dp/B0BVN1YZKV?tag=fraym08-21",
      "amazon.co.uk": "https://www.amazon.co.uk/dp/B0BVN1YZKV?tag=fraym0a-21",
      "amazon.com": "https://www.amazon.com/dp/B0BVN1YZKV?tag=fraym-20",
      "amazon.com.au": "https://www.amazon.com.au/dp/B0BVN1YZKV?tag=fraym-22"
@@ -5367,16 +5304,15 @@
     "asin": "B09WN2H42Y",
     "product": "CORSAIR Vengeance DDR5 64Go (2 x 32Go) Jusqu'à 5600MHz Intel RAM",
     "native": [
-     "amazon.fr",
      "amazon.es",
      "amazon.com.au"
     ],
     "links": {
-     "amazon.fr": "https://www.amazon.fr/dp/B09WN2H42Y?tag=fraym-21",
-     "amazon.de": "https://www.amazon.fr/dp/B09WN2H42Y?tag=fraym-21",
+     "amazon.fr": "https://www.amazon.es/dp/B09WN2H42Y?tag=fraym08-21",
+     "amazon.de": "https://www.amazon.es/dp/B09WN2H42Y?tag=fraym08-21",
      "amazon.es": "https://www.amazon.es/dp/B09WN2H42Y?tag=fraym08-21",
-     "amazon.it": "https://www.amazon.fr/dp/B09WN2H42Y?tag=fraym-21",
-     "amazon.co.uk": "https://www.amazon.fr/dp/B09WN2H42Y?tag=fraym-21",
+     "amazon.it": "https://www.amazon.es/dp/B09WN2H42Y?tag=fraym08-21",
+     "amazon.co.uk": "https://www.amazon.es/dp/B09WN2H42Y?tag=fraym08-21",
      "amazon.com": "https://www.amazon.com.au/dp/B09WN2H42Y?tag=fraym-22",
      "amazon.com.au": "https://www.amazon.com.au/dp/B09WN2H42Y?tag=fraym-22"
     }
@@ -5406,17 +5342,16 @@
     "asin": "B0BVN1FLKN",
     "product": "CORSAIR Vengeance DDR5 96Go (2 x 48Go) Jusqu'à 5600MHz Intel RAM",
     "native": [
-     "amazon.fr",
      "amazon.es",
      "amazon.co.uk",
      "amazon.com",
      "amazon.com.au"
     ],
     "links": {
-     "amazon.fr": "https://www.amazon.fr/dp/B0BVN1FLKN?tag=fraym-21",
-     "amazon.de": "https://www.amazon.fr/dp/B0BVN1FLKN?tag=fraym-21",
+     "amazon.fr": "https://www.amazon.es/dp/B0BVN1FLKN?tag=fraym08-21",
+     "amazon.de": "https://www.amazon.es/dp/B0BVN1FLKN?tag=fraym08-21",
      "amazon.es": "https://www.amazon.es/dp/B0BVN1FLKN?tag=fraym08-21",
-     "amazon.it": "https://www.amazon.fr/dp/B0BVN1FLKN?tag=fraym-21",
+     "amazon.it": "https://www.amazon.es/dp/B0BVN1FLKN?tag=fraym08-21",
      "amazon.co.uk": "https://www.amazon.co.uk/dp/B0BVN1FLKN?tag=fraym0a-21",
      "amazon.com": "https://www.amazon.com/dp/B0BVN1FLKN?tag=fraym-20",
      "amazon.com.au": "https://www.amazon.com.au/dp/B0BVN1FLKN?tag=fraym-22"
@@ -5428,17 +5363,16 @@
     "asin": "B0F79XH4T7",
     "product": "G.SKILL Trident Z5 Neo RGB Series (AMD Expo) DDR5 RAM 96 Go (2 x 48 Go) 6000 MT/s CL26-36-36-96 1,45 V mémoire U-DIMM – Blanc (F5-6000J2636H48GX2-TZ5NRW)",
     "native": [
-     "amazon.fr",
      "amazon.es"
     ],
     "links": {
-     "amazon.fr": "https://www.amazon.fr/dp/B0F79XH4T7?tag=fraym-21",
-     "amazon.de": "https://www.amazon.fr/dp/B0F79XH4T7?tag=fraym-21",
+     "amazon.fr": "https://www.amazon.es/dp/B0F79XH4T7?tag=fraym08-21",
+     "amazon.de": "https://www.amazon.es/dp/B0F79XH4T7?tag=fraym08-21",
      "amazon.es": "https://www.amazon.es/dp/B0F79XH4T7?tag=fraym08-21",
-     "amazon.it": "https://www.amazon.fr/dp/B0F79XH4T7?tag=fraym-21",
-     "amazon.co.uk": "https://www.amazon.fr/dp/B0F79XH4T7?tag=fraym-21",
-     "amazon.com": "https://www.amazon.fr/dp/B0F79XH4T7?tag=fraym-21",
-     "amazon.com.au": "https://www.amazon.fr/dp/B0F79XH4T7?tag=fraym-21"
+     "amazon.it": "https://www.amazon.es/dp/B0F79XH4T7?tag=fraym08-21",
+     "amazon.co.uk": "https://www.amazon.es/dp/B0F79XH4T7?tag=fraym08-21",
+     "amazon.com": "https://www.amazon.es/dp/B0F79XH4T7?tag=fraym08-21",
+     "amazon.com.au": "https://www.amazon.es/dp/B0F79XH4T7?tag=fraym08-21"
     }
    },
    "ddr3_8_1866c9": {
@@ -5465,14 +5399,13 @@
     "asin": "B00CMWRV56",
     "product": "Ddr3 16gb Pc 2133 Cl10d G.skill Kit (2x8gb) 16gab Ares (f3-2133c10D-16gab)",
     "native": [
-     "amazon.fr",
      "amazon.de",
      "amazon.it"
     ],
     "links": {
-     "amazon.fr": "https://www.amazon.fr/dp/B00CMWRV56?tag=fraym-21",
+     "amazon.fr": "https://www.amazon.de/dp/B00CMWRV56?tag=fraym03-21",
      "amazon.de": "https://www.amazon.de/dp/B00CMWRV56?tag=fraym03-21",
-     "amazon.es": "https://www.amazon.fr/dp/B00CMWRV56?tag=fraym-21",
+     "amazon.es": "https://www.amazon.it/dp/B00CMWRV56?tag=fraym06-21",
      "amazon.it": "https://www.amazon.it/dp/B00CMWRV56?tag=fraym06-21",
      "amazon.co.uk": "https://www.amazon.de/dp/B00CMWRV56?tag=fraym03-21",
      "amazon.com": "https://www.amazon.de/dp/B00CMWRV56?tag=fraym03-21",
@@ -5615,6 +5548,24 @@
      "amazon.co.uk": "https://www.amazon.fr/dp/B078211KBB?tag=fraym-21",
      "amazon.com": "https://www.amazon.com/dp/B078211KBB?tag=fraym-20",
      "amazon.com.au": "https://www.amazon.com.au/dp/B078211KBB?tag=fraym-22"
+    }
+   },
+   "nvme-p3plus": {
+    "name": "Crucial P3 Plus (Gen4)",
+    "q": "Crucial P3 Plus",
+    "asin": "B0BYWB6237",
+    "product": "Crucial P3 Plus 1TB M.2 PCIe Gen4 NVMe Internal SSD - Fino a 5000MB/s - CT1000P3PSSD8 (Edizione Acronis) : Electronics",
+    "native": [
+     "amazon.com"
+    ],
+    "links": {
+     "amazon.fr": "https://www.amazon.com/dp/B0BYWB6237?tag=fraym-20",
+     "amazon.de": "https://www.amazon.com/dp/B0BYWB6237?tag=fraym-20",
+     "amazon.es": "https://www.amazon.com/dp/B0BYWB6237?tag=fraym-20",
+     "amazon.it": "https://www.amazon.com/dp/B0BYWB6237?tag=fraym-20",
+     "amazon.co.uk": "https://www.amazon.com/dp/B0BYWB6237?tag=fraym-20",
+     "amazon.com": "https://www.amazon.com/dp/B0BYWB6237?tag=fraym-20",
+     "amazon.com.au": "https://www.amazon.com/dp/B0BYWB6237?tag=fraym-20"
     }
    },
    "nvme-990pro": {
@@ -5912,6 +5863,24 @@
      "amazon.com.au": "https://www.amazon.com/dp/B0D9WTKV1B?tag=fraym-20"
     }
    },
+   "sata-870-250": {
+    "name": "Samsung 870 EVO 250 Go",
+    "q": "Samsung 870 EVO 250GB",
+    "asin": "B08PC3PGZM",
+    "product": "Samsung SSD 870 EVO MZ-77E250B/EU | Disque SSD interne 2,5’’ haute vitesse, 250 Go - Pour les gamers et professionnels.",
+    "native": [
+     "amazon.fr"
+    ],
+    "links": {
+     "amazon.fr": "https://www.amazon.fr/dp/B08PC3PGZM?tag=fraym-21",
+     "amazon.de": "https://www.amazon.fr/dp/B08PC3PGZM?tag=fraym-21",
+     "amazon.es": "https://www.amazon.fr/dp/B08PC3PGZM?tag=fraym-21",
+     "amazon.it": "https://www.amazon.fr/dp/B08PC3PGZM?tag=fraym-21",
+     "amazon.co.uk": "https://www.amazon.fr/dp/B08PC3PGZM?tag=fraym-21",
+     "amazon.com": "https://www.amazon.fr/dp/B08PC3PGZM?tag=fraym-21",
+     "amazon.com.au": "https://www.amazon.fr/dp/B08PC3PGZM?tag=fraym-21"
+    }
+   },
    "hdd-barracuda-1tb": {
     "name": "Seagate BarraCuda 1 To (7200)",
     "q": "Seagate BarraCuda 1TB",
@@ -6088,19 +6057,17 @@
     "asin": "B071KGRXRG",
     "product": "SanDisk Ultra 3D SSD 1TB up to 560MB/s Read / up to 530MB/s Write, Black",
     "native": [
-     "amazon.fr",
-     "amazon.de",
      "amazon.es",
      "amazon.it"
     ],
     "links": {
-     "amazon.fr": "https://www.amazon.fr/dp/B071KGRXRG?tag=fraym-21",
-     "amazon.de": "https://www.amazon.de/dp/B071KGRXRG?tag=fraym03-21",
+     "amazon.fr": "https://www.amazon.es/dp/B071KGRXRG?tag=fraym08-21",
+     "amazon.de": "https://www.amazon.it/dp/B071KGRXRG?tag=fraym06-21",
      "amazon.es": "https://www.amazon.es/dp/B071KGRXRG?tag=fraym08-21",
      "amazon.it": "https://www.amazon.it/dp/B071KGRXRG?tag=fraym06-21",
-     "amazon.co.uk": "https://www.amazon.de/dp/B071KGRXRG?tag=fraym03-21",
-     "amazon.com": "https://www.amazon.de/dp/B071KGRXRG?tag=fraym03-21",
-     "amazon.com.au": "https://www.amazon.de/dp/B071KGRXRG?tag=fraym03-21"
+     "amazon.co.uk": "https://www.amazon.es/dp/B071KGRXRG?tag=fraym08-21",
+     "amazon.com": "https://www.amazon.es/dp/B071KGRXRG?tag=fraym08-21",
+     "amazon.com.au": "https://www.amazon.es/dp/B071KGRXRG?tag=fraym08-21"
     }
    },
    "nvme-970evo-1tb": {
@@ -6295,17 +6262,14 @@
     "product": "Seagate FireCuda 530, 1 TB, Internal Solid State Drive - M,2 PCIe Gen4 4 NVMe 1,4, transfer speeds up to 7,300 MB/s, 3D TLC NAND, 1,275 TBW, Heatsink, 3 year Rescue Services (ZP1000GM3A023)",
     "native": [
      "amazon.fr",
-     "amazon.es",
-     "amazon.it",
-     "amazon.co.uk",
      "amazon.com"
     ],
     "links": {
      "amazon.fr": "https://www.amazon.fr/dp/B0977LW48F?tag=fraym-21",
      "amazon.de": "https://www.amazon.fr/dp/B0977LW48F?tag=fraym-21",
-     "amazon.es": "https://www.amazon.es/dp/B0977LW48F?tag=fraym08-21",
-     "amazon.it": "https://www.amazon.it/dp/B0977LW48F?tag=fraym06-21",
-     "amazon.co.uk": "https://www.amazon.co.uk/dp/B0977LW48F?tag=fraym0a-21",
+     "amazon.es": "https://www.amazon.fr/dp/B0977LW48F?tag=fraym-21",
+     "amazon.it": "https://www.amazon.fr/dp/B0977LW48F?tag=fraym-21",
+     "amazon.co.uk": "https://www.amazon.fr/dp/B0977LW48F?tag=fraym-21",
      "amazon.com": "https://www.amazon.com/dp/B0977LW48F?tag=fraym-20",
      "amazon.com.au": "https://www.amazon.com/dp/B0977LW48F?tag=fraym-20"
     }
@@ -7362,6 +7326,24 @@
      "amazon.co.uk": "https://www.amazon.de/dp/B0BDS4BYTR?tag=fraym03-21",
      "amazon.com": "https://www.amazon.com.au/dp/B0BDS4BYTR?tag=fraym-22",
      "amazon.com.au": "https://www.amazon.com.au/dp/B0BDS4BYTR?tag=fraym-22"
+    }
+   },
+   "gigabyte-x670e-aorus-master": {
+    "name": "Gigabyte X670E Aorus Master",
+    "q": "AMD Gigabyte X670E Aorus Master",
+    "asin": "B0BFNVND8B",
+    "product": "GIGABYTE X670E AORUS Master AMD AM5 ATX Motherboard 4X DDR5~128GB,3X PCIe x16, 4X M.2, 6X SATA 6, 8X USB 3.2, 2X USB-C, 2X USB 2.0 : Electronics",
+    "native": [
+     "amazon.com"
+    ],
+    "links": {
+     "amazon.fr": "https://www.amazon.com/dp/B0BFNVND8B?tag=fraym-20",
+     "amazon.de": "https://www.amazon.com/dp/B0BFNVND8B?tag=fraym-20",
+     "amazon.es": "https://www.amazon.com/dp/B0BFNVND8B?tag=fraym-20",
+     "amazon.it": "https://www.amazon.com/dp/B0BFNVND8B?tag=fraym-20",
+     "amazon.co.uk": "https://www.amazon.com/dp/B0BFNVND8B?tag=fraym-20",
+     "amazon.com": "https://www.amazon.com/dp/B0BFNVND8B?tag=fraym-20",
+     "amazon.com.au": "https://www.amazon.com/dp/B0BFNVND8B?tag=fraym-20"
     }
    },
    "asus-prime-x870-p": {
@@ -11172,8 +11154,13 @@
   ],
   "cpus": [
    {
-    "id": "ultra5_245k",
-    "name": "Core Ultra 5 245K",
+    "id": "r5_5500",
+    "name": "Ryzen 5 5500",
+    "raison": "sans_fiche"
+   },
+   {
+    "id": "amd-ryzen-7-5700g",
+    "name": "Ryzen 7 5700G",
     "raison": "sans_fiche"
    }
   ],
@@ -11181,6 +11168,11 @@
    {
     "id": "ddr5_16_6000c30",
     "name": "16 Go DDR5-6000 CL30",
+    "raison": "sans_fiche"
+   },
+   {
+    "id": "ddr5_32_8000c40",
+    "name": "32 Go DDR5-8000 CL40",
     "raison": "sans_fiche"
    }
   ],
@@ -11201,18 +11193,8 @@
     "raison": "sans_fiche"
    },
    {
-    "id": "nvme-p3plus",
-    "name": "Crucial P3 Plus (Gen4)",
-    "raison": "sans_fiche"
-   },
-   {
     "id": "nvme-t500",
     "name": "Crucial T500 (Gen4)",
-    "raison": "sans_fiche"
-   },
-   {
-    "id": "sata-870-250",
-    "name": "Samsung 870 EVO 250 Go",
     "raison": "sans_fiche"
    },
    {
@@ -11228,13 +11210,6 @@
    {
     "id": "nvme-t500-2tb",
     "name": "Crucial T500 2 To",
-    "raison": "sans_fiche"
-   }
-  ],
-  "mobos": [
-   {
-    "id": "gigabyte-x670e-aorus-master",
-    "name": "Gigabyte X670E Aorus Master",
     "raison": "sans_fiche"
    }
   ],

@@ -56,6 +56,10 @@ BOUTIQUES = {
     "materielnet": lambda: MaterielNetSource(rate_limit=1.5),
 }
 
+# Échecs d'affilée au-delà desquels une boutique est ignorée pour le reste du
+# passage (voir le coupe-circuit dans `principal`).
+SEUIL_COUPURE = 6
+
 
 def _min_eur(offres):
     """Prix mini EN EUROS pour le priceMin d'une NOUVELLE entrée : le moins
@@ -78,6 +82,14 @@ def principal():
     quand = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
     sources = [(b, BOUTIQUES[b]()) for b in boutiques]
+    # COUPE-CIRCUIT : une boutique qui bloque les robots (403, 429, connexion
+    # coupée) échoue sur CHAQUE composant, avec une pause à chaque fois. Sur
+    # 7 catégories, ce seul entêtement faisait durer l'étape plus de deux heures
+    # et le job atteignait sa limite AVANT l'étape de commit : plus aucune donnée
+    # publiée (0 run réussi sur 29 en septembre 2026). Au-delà de SEUIL_COUPURE
+    # échecs d'affilée, la boutique est ignorée jusqu'à la fin du passage.
+    echecs_suivis = {nom: 0 for nom, _src in sources}
+    coupees: set[str] = set()
 
     for cat, (fichier, _cat_id, _slug, q_build, t_build) in CATEGORIES.items():
         if seules and cat not in seules:
@@ -102,6 +114,8 @@ def principal():
             jetons = t_build(it)
             nouvelles = []  # offres retenues, toutes boutiques directes
             for nom_src, src in sources:
+                if nom_src in coupees:
+                    continue
                 try:
                     brutes = src.offres(requete)
                     # Repli : la recherche échoue souvent sur la MARQUE
@@ -110,7 +124,13 @@ def principal():
                         brutes = src.offres(" ".join(requete.split()[1:]))
                 except Exception as e:  # noqa: BLE001 — une requête ratée ne tue pas le run
                     print(f"  ! {nom_src} {cat}/{it['id']}: {e}", file=sys.stderr)
+                    echecs_suivis[nom_src] += 1
+                    if echecs_suivis[nom_src] >= SEUIL_COUPURE:
+                        coupees.add(nom_src)
+                        print(f"  ✂ {nom_src} ignorée pour la fin du passage : {SEUIL_COUPURE} échecs "
+                              f"d'affilée (blocage anti-robot probable)", file=sys.stderr)
                     continue
+                echecs_suivis[nom_src] = 0
                 filtrees = sorted(
                     [o for o in brutes
                      if correspond(o["product"], jetons)

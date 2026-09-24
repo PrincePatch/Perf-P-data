@@ -6,21 +6,21 @@
     "gpuIndex": "GeForce RTX 4070 = 100",
     "cpuGamingIndex": "AMD Ryzen 7 7800X3D = 100"
   },
-  "lastUpdated": "2026-09-24T02:42:09Z",
+  "lastUpdated": "2026-09-24T10:55:57Z",
   "categories": {
-    "gpus": 27,
+    "gpus": 30,
     "cpus": 60
   },
   "benchmarkCoverage": {
     "gpus": {
-      "matched": 27,
-      "total": 27,
+      "matched": 30,
+      "total": 30,
       "reference": 26855
     },
     "cpus": {
       "matched": 60,
       "total": 60,
-      "reference": 34279
+      "reference": 34278
     }
   },
   "note": "Prix live agreges (gputracker.eu). index/gamingIndex = scores PassMark reels (null si non rapproche). tdp = fiche constructeur bundlee."

@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-25T05:10:58Z",
+ "generated": "2026-09-25T13:08:40Z",
  "markets": [
   "amazon.fr",
   "amazon.de",
@@ -9,8 +9,8 @@
   "amazon.com",
   "amazon.com.au"
  ],
- "nativeLinks": 2466,
- "onelinkLinks": 1076,
+ "nativeLinks": 2465,
+ "onelinkLinks": 1077,
  "note": "Liens d'affiliation Amazon pre-calcules vers la FICHE PRODUIT (/dp/<ASIN>), utilises par l'app quand aucune offre Amazon verifiee n'est disponible. ASIN valides sur la fiche Amazon elle-meme ; les marketplaces sans fiche recoivent le lien d'une marketplace voisine, OneLink redirigeant l'acheteur.",
  "items": {
   "gpus": {
@@ -3721,15 +3721,14 @@
     "asin": "B0CHBJXG7G",
     "product": "CPU Intel Core i9-14900KF / LGA1700 / Box 24 Cores / 32 Threads / 36M Cache/Without GPU",
     "native": [
-     "amazon.fr",
      "amazon.de",
      "amazon.co.uk",
      "amazon.com.au"
     ],
     "links": {
-     "amazon.fr": "https://www.amazon.fr/dp/B0CHBJXG7G?tag=fraym-21",
+     "amazon.fr": "https://www.amazon.de/dp/B0CHBJXG7G?tag=fraym03-21",
      "amazon.de": "https://www.amazon.de/dp/B0CHBJXG7G?tag=fraym03-21",
-     "amazon.es": "https://www.amazon.fr/dp/B0CHBJXG7G?tag=fraym-21",
+     "amazon.es": "https://www.amazon.de/dp/B0CHBJXG7G?tag=fraym03-21",
      "amazon.it": "https://www.amazon.de/dp/B0CHBJXG7G?tag=fraym03-21",
      "amazon.co.uk": "https://www.amazon.co.uk/dp/B0CHBJXG7G?tag=fraym0a-21",
      "amazon.com": "https://www.amazon.com.au/dp/B0CHBJXG7G?tag=fraym-22",

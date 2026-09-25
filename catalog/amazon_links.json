@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-25T13:08:40Z",
+ "generated": "2026-09-25T18:25:12Z",
  "markets": [
   "amazon.fr",
   "amazon.de",
@@ -9,8 +9,8 @@
   "amazon.com",
   "amazon.com.au"
  ],
- "nativeLinks": 2465,
- "onelinkLinks": 1077,
+ "nativeLinks": 2464,
+ "onelinkLinks": 1078,
  "note": "Liens d'affiliation Amazon pre-calcules vers la FICHE PRODUIT (/dp/<ASIN>), utilises par l'app quand aucune offre Amazon verifiee n'est disponible. ASIN valides sur la fiche Amazon elle-meme ; les marketplaces sans fiche recoivent le lien d'une marketplace voisine, OneLink redirigeant l'acheteur.",
  "items": {
   "gpus": {
@@ -1286,16 +1286,15 @@
     "product": "Carte Graphique Zotac GeForce GTX 1060 6G Amp Edition",
     "native": [
      "amazon.fr",
-     "amazon.de",
      "amazon.es",
      "amazon.co.uk",
      "amazon.com"
     ],
     "links": {
      "amazon.fr": "https://www.amazon.fr/dp/B01I5O5AP2?tag=fraym-21",
-     "amazon.de": "https://www.amazon.de/dp/B01I5O5AP2?tag=fraym03-21",
+     "amazon.de": "https://www.amazon.fr/dp/B01I5O5AP2?tag=fraym-21",
      "amazon.es": "https://www.amazon.es/dp/B01I5O5AP2?tag=fraym08-21",
-     "amazon.it": "https://www.amazon.de/dp/B01I5O5AP2?tag=fraym03-21",
+     "amazon.it": "https://www.amazon.fr/dp/B01I5O5AP2?tag=fraym-21",
      "amazon.co.uk": "https://www.amazon.co.uk/dp/B01I5O5AP2?tag=fraym0a-21",
      "amazon.com": "https://www.amazon.com/dp/B01I5O5AP2?tag=fraym-20",
      "amazon.com.au": "https://www.amazon.com/dp/B01I5O5AP2?tag=fraym-20"

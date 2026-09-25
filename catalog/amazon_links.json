@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-24T23:09:38Z",
+ "generated": "2026-09-25T05:10:58Z",
  "markets": [
   "amazon.fr",
   "amazon.de",
@@ -9,8 +9,8 @@
   "amazon.com",
   "amazon.com.au"
  ],
- "nativeLinks": 2467,
- "onelinkLinks": 1075,
+ "nativeLinks": 2466,
+ "onelinkLinks": 1076,
  "note": "Liens d'affiliation Amazon pre-calcules vers la FICHE PRODUIT (/dp/<ASIN>), utilises par l'app quand aucune offre Amazon verifiee n'est disponible. ASIN valides sur la fiche Amazon elle-meme ; les marketplaces sans fiche recoivent le lien d'une marketplace voisine, OneLink redirigeant l'acheteur.",
  "items": {
   "gpus": {
@@ -4815,17 +4815,16 @@
     "product": "Mémoire PC - G.Skill Aegis 16 Go (2 x 8 Go) DDR4 3000 MHz CL16 - Kit Dual Channel 2 Barrettes de RAM DDR4 PC4-24000 - F4-3000C16D-16GISB (Garantie à Vie par G.Skill)",
     "native": [
      "amazon.fr",
-     "amazon.de",
      "amazon.es"
     ],
     "links": {
      "amazon.fr": "https://www.amazon.fr/dp/B01IW7Z66U?tag=fraym-21",
-     "amazon.de": "https://www.amazon.de/dp/B01IW7Z66U?tag=fraym03-21",
+     "amazon.de": "https://www.amazon.fr/dp/B01IW7Z66U?tag=fraym-21",
      "amazon.es": "https://www.amazon.es/dp/B01IW7Z66U?tag=fraym08-21",
-     "amazon.it": "https://www.amazon.de/dp/B01IW7Z66U?tag=fraym03-21",
-     "amazon.co.uk": "https://www.amazon.de/dp/B01IW7Z66U?tag=fraym03-21",
-     "amazon.com": "https://www.amazon.de/dp/B01IW7Z66U?tag=fraym03-21",
-     "amazon.com.au": "https://www.amazon.de/dp/B01IW7Z66U?tag=fraym03-21"
+     "amazon.it": "https://www.amazon.fr/dp/B01IW7Z66U?tag=fraym-21",
+     "amazon.co.uk": "https://www.amazon.fr/dp/B01IW7Z66U?tag=fraym-21",
+     "amazon.com": "https://www.amazon.fr/dp/B01IW7Z66U?tag=fraym-21",
+     "amazon.com.au": "https://www.amazon.fr/dp/B01IW7Z66U?tag=fraym-21"
     }
    },
    "ddr4_8_3200c16": {

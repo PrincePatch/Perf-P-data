@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-26T12:50:30Z",
+ "generated": "2026-09-26T17:35:21Z",
  "markets": [
   "amazon.fr",
   "amazon.de",
@@ -9,8 +9,8 @@
   "amazon.com",
   "amazon.com.au"
  ],
- "nativeLinks": 2464,
- "onelinkLinks": 1078,
+ "nativeLinks": 2463,
+ "onelinkLinks": 1079,
  "note": "Liens d'affiliation Amazon pre-calcules vers la FICHE PRODUIT (/dp/<ASIN>), utilises par l'app quand aucune offre Amazon verifiee n'est disponible. ASIN valides sur la fiche Amazon elle-meme ; les marketplaces sans fiche recoivent le lien d'une marketplace voisine, OneLink redirigeant l'acheteur.",
  "items": {
   "gpus": {
@@ -1065,7 +1065,6 @@
      "amazon.es",
      "amazon.it",
      "amazon.co.uk",
-     "amazon.com",
      "amazon.com.au"
     ],
     "links": {
@@ -1074,7 +1073,7 @@
      "amazon.es": "https://www.amazon.es/dp/B0DNV4NRK5?tag=fraym08-21",
      "amazon.it": "https://www.amazon.it/dp/B0DNV4NRK5?tag=fraym06-21",
      "amazon.co.uk": "https://www.amazon.co.uk/dp/B0DNV4NRK5?tag=fraym0a-21",
-     "amazon.com": "https://www.amazon.com/dp/B0DNV4NRK5?tag=fraym-20",
+     "amazon.com": "https://www.amazon.com.au/dp/B0DNV4NRK5?tag=fraym-22",
      "amazon.com.au": "https://www.amazon.com.au/dp/B0DNV4NRK5?tag=fraym-22"
     }
    },

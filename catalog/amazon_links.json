@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-03T05:29:49Z",
+ "generated": "2026-10-03T13:06:07Z",
  "markets": [
   "amazon.fr",
   "amazon.de",
@@ -9,8 +9,8 @@
   "amazon.com",
   "amazon.com.au"
  ],
- "nativeLinks": 2455,
- "onelinkLinks": 1087,
+ "nativeLinks": 2453,
+ "onelinkLinks": 1082,
  "note": "Liens d'affiliation Amazon pre-calcules vers la FICHE PRODUIT (/dp/<ASIN>), utilises par l'app quand aucune offre Amazon verifiee n'est disponible. ASIN valides sur la fiche Amazon elle-meme ; les marketplaces sans fiche recoivent le lien d'une marketplace voisine, OneLink redirigeant l'acheteur.",
  "items": {
   "gpus": {
@@ -1098,24 +1098,6 @@
      "amazon.co.uk": "https://www.amazon.co.uk/dp/B0BM4QGB5K?tag=fraym0a-21",
      "amazon.com": "https://www.amazon.com/dp/B0BM4QGB5K?tag=fraym-20",
      "amazon.com.au": "https://www.amazon.com.au/dp/B0BM4QGB5K?tag=fraym-22"
-    }
-   },
-   "nvidia-gtx-950": {
-    "name": "GeForce GTX 950",
-    "q": "GeForce GTX 950",
-    "asin": "B0BSFZMJDK",
-    "product": "Luqeeg Carte Graphique GTX 950 2 Go Gddr5 Cartes Vidéo 128 Bits pour PC Gaming, Prise en de la Sortie de Résolution 4k, Directx 12, Interface DVI DP HDMI",
-    "native": [
-     "amazon.co.uk"
-    ],
-    "links": {
-     "amazon.fr": "https://www.amazon.co.uk/dp/B0BSFZMJDK?tag=fraym0a-21",
-     "amazon.de": "https://www.amazon.co.uk/dp/B0BSFZMJDK?tag=fraym0a-21",
-     "amazon.es": "https://www.amazon.co.uk/dp/B0BSFZMJDK?tag=fraym0a-21",
-     "amazon.it": "https://www.amazon.co.uk/dp/B0BSFZMJDK?tag=fraym0a-21",
-     "amazon.co.uk": "https://www.amazon.co.uk/dp/B0BSFZMJDK?tag=fraym0a-21",
-     "amazon.com": "https://www.amazon.co.uk/dp/B0BSFZMJDK?tag=fraym0a-21",
-     "amazon.com.au": "https://www.amazon.co.uk/dp/B0BSFZMJDK?tag=fraym0a-21"
     }
    },
    "nvidia-gtx-960": {
@@ -6982,14 +6964,13 @@
     "product": "MSI MAG B650M Mortar WiFi Gaming Motherboard (AMD Ryzen 9000/8000/7000 Series Processors,AM5,DDR5,PCIe 4.0,M.2 Slots,SATA 6Gb/s,USB 3.2 Gen 2,HDMI/DP,Wi-Fi 6E,Bluetooth 5.3,2.5Gbps LAN,mATX) : Electronics",
     "native": [
      "amazon.de",
-     "amazon.es",
      "amazon.co.uk",
      "amazon.com"
     ],
     "links": {
      "amazon.fr": "https://www.amazon.de/dp/B0BHC39YG7?tag=fraym03-21",
      "amazon.de": "https://www.amazon.de/dp/B0BHC39YG7?tag=fraym03-21",
-     "amazon.es": "https://www.amazon.es/dp/B0BHC39YG7?tag=fraym08-21",
+     "amazon.es": "https://www.amazon.de/dp/B0BHC39YG7?tag=fraym03-21",
      "amazon.it": "https://www.amazon.de/dp/B0BHC39YG7?tag=fraym03-21",
      "amazon.co.uk": "https://www.amazon.co.uk/dp/B0BHC39YG7?tag=fraym0a-21",
      "amazon.com": "https://www.amazon.com/dp/B0BHC39YG7?tag=fraym-20",
@@ -11094,6 +11075,11 @@
    {
     "id": "rtx5070tis",
     "name": "GeForce RTX 5070 Ti Super",
+    "raison": "sans_fiche"
+   },
+   {
+    "id": "nvidia-gtx-950",
+    "name": "GeForce GTX 950",
     "raison": "sans_fiche"
    },
    {

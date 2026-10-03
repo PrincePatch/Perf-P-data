@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T23:54:45Z",
+ "generated": "2026-10-03T05:29:49Z",
  "markets": [
   "amazon.fr",
   "amazon.de",
@@ -9,8 +9,8 @@
   "amazon.com",
   "amazon.com.au"
  ],
- "nativeLinks": 2458,
- "onelinkLinks": 1084,
+ "nativeLinks": 2455,
+ "onelinkLinks": 1087,
  "note": "Liens d'affiliation Amazon pre-calcules vers la FICHE PRODUIT (/dp/<ASIN>), utilises par l'app quand aucune offre Amazon verifiee n'est disponible. ASIN valides sur la fiche Amazon elle-meme ; les marketplaces sans fiche recoivent le lien d'une marketplace voisine, OneLink redirigeant l'acheteur.",
  "items": {
   "gpus": {
@@ -1106,16 +1106,13 @@
     "asin": "B0BSFZMJDK",
     "product": "Luqeeg Carte Graphique GTX 950 2 Go Gddr5 Cartes Vidéo 128 Bits pour PC Gaming, Prise en de la Sortie de Résolution 4k, Directx 12, Interface DVI DP HDMI",
     "native": [
-     "amazon.fr",
-     "amazon.es",
-     "amazon.it",
      "amazon.co.uk"
     ],
     "links": {
-     "amazon.fr": "https://www.amazon.fr/dp/B0BSFZMJDK?tag=fraym-21",
-     "amazon.de": "https://www.amazon.fr/dp/B0BSFZMJDK?tag=fraym-21",
-     "amazon.es": "https://www.amazon.es/dp/B0BSFZMJDK?tag=fraym08-21",
-     "amazon.it": "https://www.amazon.it/dp/B0BSFZMJDK?tag=fraym06-21",
+     "amazon.fr": "https://www.amazon.co.uk/dp/B0BSFZMJDK?tag=fraym0a-21",
+     "amazon.de": "https://www.amazon.co.uk/dp/B0BSFZMJDK?tag=fraym0a-21",
+     "amazon.es": "https://www.amazon.co.uk/dp/B0BSFZMJDK?tag=fraym0a-21",
+     "amazon.it": "https://www.amazon.co.uk/dp/B0BSFZMJDK?tag=fraym0a-21",
      "amazon.co.uk": "https://www.amazon.co.uk/dp/B0BSFZMJDK?tag=fraym0a-21",
      "amazon.com": "https://www.amazon.co.uk/dp/B0BSFZMJDK?tag=fraym0a-21",
      "amazon.com.au": "https://www.amazon.co.uk/dp/B0BSFZMJDK?tag=fraym0a-21"

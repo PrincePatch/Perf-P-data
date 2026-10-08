@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T06:05:19Z",
+ "generated": "2026-10-08T14:49:47Z",
  "markets": [
   "amazon.fr",
   "amazon.de",
@@ -9,8 +9,8 @@
   "amazon.com",
   "amazon.com.au"
  ],
- "nativeLinks": 2444,
- "onelinkLinks": 1091,
+ "nativeLinks": 2442,
+ "onelinkLinks": 1093,
  "note": "Liens d'affiliation Amazon pre-calcules vers la FICHE PRODUIT (/dp/<ASIN>), utilises par l'app quand aucune offre Amazon verifiee n'est disponible. ASIN valides sur la fiche Amazon elle-meme ; les marketplaces sans fiche recoivent le lien d'une marketplace voisine, OneLink redirigeant l'acheteur.",
  "items": {
   "gpus": {
@@ -6852,7 +6852,6 @@
      "amazon.de",
      "amazon.es",
      "amazon.it",
-     "amazon.com",
      "amazon.com.au"
     ],
     "links": {
@@ -6861,7 +6860,7 @@
      "amazon.es": "https://www.amazon.es/dp/B09HK7F7KD?tag=fraym08-21",
      "amazon.it": "https://www.amazon.it/dp/B09HK7F7KD?tag=fraym06-21",
      "amazon.co.uk": "https://www.amazon.de/dp/B09HK7F7KD?tag=fraym03-21",
-     "amazon.com": "https://www.amazon.com/dp/B09HK7F7KD?tag=fraym-20",
+     "amazon.com": "https://www.amazon.com.au/dp/B09HK7F7KD?tag=fraym-22",
      "amazon.com.au": "https://www.amazon.com.au/dp/B09HK7F7KD?tag=fraym-22"
     }
    },
@@ -8370,16 +8369,15 @@
     "asin": "B0BQRCD834",
     "product": "Seasonic Vertex GX 1000 W ATX Netzteil",
     "native": [
-     "amazon.de",
      "amazon.es",
      "amazon.com"
     ],
     "links": {
-     "amazon.fr": "https://www.amazon.de/dp/B0BQRCD834?tag=fraym03-21",
-     "amazon.de": "https://www.amazon.de/dp/B0BQRCD834?tag=fraym03-21",
+     "amazon.fr": "https://www.amazon.es/dp/B0BQRCD834?tag=fraym08-21",
+     "amazon.de": "https://www.amazon.es/dp/B0BQRCD834?tag=fraym08-21",
      "amazon.es": "https://www.amazon.es/dp/B0BQRCD834?tag=fraym08-21",
-     "amazon.it": "https://www.amazon.de/dp/B0BQRCD834?tag=fraym03-21",
-     "amazon.co.uk": "https://www.amazon.de/dp/B0BQRCD834?tag=fraym03-21",
+     "amazon.it": "https://www.amazon.es/dp/B0BQRCD834?tag=fraym08-21",
+     "amazon.co.uk": "https://www.amazon.com/dp/B0BQRCD834?tag=fraym-20",
      "amazon.com": "https://www.amazon.com/dp/B0BQRCD834?tag=fraym-20",
      "amazon.com.au": "https://www.amazon.com/dp/B0BQRCD834?tag=fraym-20"
     }

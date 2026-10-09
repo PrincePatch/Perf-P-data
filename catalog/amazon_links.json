@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T14:49:47Z",
+ "generated": "2026-10-09T00:50:02Z",
  "markets": [
   "amazon.fr",
   "amazon.de",
@@ -9,8 +9,8 @@
   "amazon.com",
   "amazon.com.au"
  ],
- "nativeLinks": 2442,
- "onelinkLinks": 1093,
+ "nativeLinks": 2440,
+ "onelinkLinks": 1095,
  "note": "Liens d'affiliation Amazon pre-calcules vers la FICHE PRODUIT (/dp/<ASIN>), utilises par l'app quand aucune offre Amazon verifiee n'est disponible. ASIN valides sur la fiche Amazon elle-meme ; les marketplaces sans fiche recoivent le lien d'une marketplace voisine, OneLink redirigeant l'acheteur.",
  "items": {
   "gpus": {
@@ -991,17 +991,15 @@
     "asin": "B0DFMMF59C",
     "product": "XFX Speedster SWFT319 AMD Radeon RX 6800 Carte Graphique de Jeu avec 16 Go GDDR6, AMD RDNA 2 RX-68XLAQBD9",
     "native": [
-     "amazon.fr",
      "amazon.de",
-     "amazon.it",
      "amazon.co.uk",
      "amazon.com"
     ],
     "links": {
-     "amazon.fr": "https://www.amazon.fr/dp/B0DFMMF59C?tag=fraym-21",
+     "amazon.fr": "https://www.amazon.de/dp/B0DFMMF59C?tag=fraym03-21",
      "amazon.de": "https://www.amazon.de/dp/B0DFMMF59C?tag=fraym03-21",
-     "amazon.es": "https://www.amazon.fr/dp/B0DFMMF59C?tag=fraym-21",
-     "amazon.it": "https://www.amazon.it/dp/B0DFMMF59C?tag=fraym06-21",
+     "amazon.es": "https://www.amazon.de/dp/B0DFMMF59C?tag=fraym03-21",
+     "amazon.it": "https://www.amazon.de/dp/B0DFMMF59C?tag=fraym03-21",
      "amazon.co.uk": "https://www.amazon.co.uk/dp/B0DFMMF59C?tag=fraym0a-21",
      "amazon.com": "https://www.amazon.com/dp/B0DFMMF59C?tag=fraym-20",
      "amazon.com.au": "https://www.amazon.com/dp/B0DFMMF59C?tag=fraym-20"

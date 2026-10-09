@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T00:50:02Z",
+ "generated": "2026-10-09T06:19:03Z",
  "markets": [
   "amazon.fr",
   "amazon.de",
@@ -9,8 +9,8 @@
   "amazon.com",
   "amazon.com.au"
  ],
- "nativeLinks": 2440,
- "onelinkLinks": 1095,
+ "nativeLinks": 2438,
+ "onelinkLinks": 1097,
  "note": "Liens d'affiliation Amazon pre-calcules vers la FICHE PRODUIT (/dp/<ASIN>), utilises par l'app quand aucune offre Amazon verifiee n'est disponible. ASIN valides sur la fiche Amazon elle-meme ; les marketplaces sans fiche recoivent le lien d'une marketplace voisine, OneLink redirigeant l'acheteur.",
  "items": {
   "gpus": {
@@ -4648,7 +4648,6 @@
     "product": "G.Skill DDR5 48 GB PC 6400 CL32 KIT 2x24 48-RS5K",
     "native": [
      "amazon.de",
-     "amazon.es",
      "amazon.it",
      "amazon.com",
      "amazon.com.au"
@@ -4656,7 +4655,7 @@
     "links": {
      "amazon.fr": "https://www.amazon.de/dp/B0C6HW1GKZ?tag=fraym03-21",
      "amazon.de": "https://www.amazon.de/dp/B0C6HW1GKZ?tag=fraym03-21",
-     "amazon.es": "https://www.amazon.es/dp/B0C6HW1GKZ?tag=fraym08-21",
+     "amazon.es": "https://www.amazon.it/dp/B0C6HW1GKZ?tag=fraym06-21",
      "amazon.it": "https://www.amazon.it/dp/B0C6HW1GKZ?tag=fraym06-21",
      "amazon.co.uk": "https://www.amazon.de/dp/B0C6HW1GKZ?tag=fraym03-21",
      "amazon.com": "https://www.amazon.com/dp/B0C6HW1GKZ?tag=fraym-20",
@@ -7355,7 +7354,6 @@
      "amazon.fr",
      "amazon.de",
      "amazon.es",
-     "amazon.it",
      "amazon.co.uk",
      "amazon.com"
     ],
@@ -7363,7 +7361,7 @@
      "amazon.fr": "https://www.amazon.fr/dp/B0DFP2Q3TM?tag=fraym-21",
      "amazon.de": "https://www.amazon.de/dp/B0DFP2Q3TM?tag=fraym03-21",
      "amazon.es": "https://www.amazon.es/dp/B0DFP2Q3TM?tag=fraym08-21",
-     "amazon.it": "https://www.amazon.it/dp/B0DFP2Q3TM?tag=fraym06-21",
+     "amazon.it": "https://www.amazon.de/dp/B0DFP2Q3TM?tag=fraym03-21",
      "amazon.co.uk": "https://www.amazon.co.uk/dp/B0DFP2Q3TM?tag=fraym0a-21",
      "amazon.com": "https://www.amazon.com/dp/B0DFP2Q3TM?tag=fraym-20",
      "amazon.com.au": "https://www.amazon.com/dp/B0DFP2Q3TM?tag=fraym-20"

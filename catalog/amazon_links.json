@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-12T06:07:38Z",
+ "generated": "2026-10-12T16:22:20Z",
  "markets": [
   "amazon.fr",
   "amazon.de",
@@ -9,8 +9,8 @@
   "amazon.com",
   "amazon.com.au"
  ],
- "nativeLinks": 2436,
- "onelinkLinks": 1099,
+ "nativeLinks": 2435,
+ "onelinkLinks": 1100,
  "note": "Liens d'affiliation Amazon pre-calcules vers la FICHE PRODUIT (/dp/<ASIN>), utilises par l'app quand aucune offre Amazon verifiee n'est disponible. ASIN valides sur la fiche Amazon elle-meme ; les marketplaces sans fiche recoivent le lien d'une marketplace voisine, OneLink redirigeant l'acheteur.",
  "items": {
   "gpus": {
@@ -5383,7 +5383,6 @@
     "asin": "B08T1SMTF9",
     "product": "Samsung 870 Evo Disque SSD Interne SATA 2,5\" (MZ-77E1T0) 1 to",
     "native": [
-     "amazon.fr",
      "amazon.de",
      "amazon.it",
      "amazon.co.uk",
@@ -5391,9 +5390,9 @@
      "amazon.com.au"
     ],
     "links": {
-     "amazon.fr": "https://www.amazon.fr/dp/B08T1SMTF9?tag=fraym-21",
+     "amazon.fr": "https://www.amazon.de/dp/B08T1SMTF9?tag=fraym03-21",
      "amazon.de": "https://www.amazon.de/dp/B08T1SMTF9?tag=fraym03-21",
-     "amazon.es": "https://www.amazon.fr/dp/B08T1SMTF9?tag=fraym-21",
+     "amazon.es": "https://www.amazon.it/dp/B08T1SMTF9?tag=fraym06-21",
      "amazon.it": "https://www.amazon.it/dp/B08T1SMTF9?tag=fraym06-21",
      "amazon.co.uk": "https://www.amazon.co.uk/dp/B08T1SMTF9?tag=fraym0a-21",
      "amazon.com": "https://www.amazon.com/dp/B08T1SMTF9?tag=fraym-20",

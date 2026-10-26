@@ -18,8 +18,13 @@ jobs:
           python-version: "3.11"
           cache: pip
       - run: pip install -r scraper/requirements.txt
+      # gputracker.eu (Cloudflare) refuse parfois les runners GitHub (403) : l'etape
+      # ne bloque plus les autres sources de prix. Ses JSON et meta.json restent
+      # ceux de la derniere collecte reussie (le tableau de bord voit la date vieillir).
       - name: Scrape prix (gputracker) + benchmarks (PassMark)
+        id: gputracker
         run: python scraper/main.py --categories gpus,cpus --out-dir .
+        continue-on-error: true
       - name: Telecharger les images produit
         run: python scraper/download_images.py --json gpus.json --images-dir images
       - name: Restaurer les references d'images existantes
@@ -112,3 +117,6 @@ jobs:
           git add -A
           git diff --cached --quiet || git commit -m "data: refresh auto (prix+offres+benchmarks+images)"
           git push
+      - name: Signaler gputracker indisponible
+        if: steps.gputracker.outcome == 'failure'
+        run: echo "::warning::gputracker.eu indisponible sur ce run (prix GPU/CPU de la derniere collecte conserves)"

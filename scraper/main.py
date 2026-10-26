@@ -185,6 +185,14 @@ def main(argv: list[str] | None = None) -> int:
         summary[spec.key] = len(items)
         log.info("[%s] ecrit %d items -> %s", spec.key, len(items), out_file)
 
+    # Aucune categorie collectee (source bloquee, ex. 403 Cloudflare sur les runners
+    # GitHub) : on ne touche a rien. Les JSON precedents restent en place et meta.json
+    # garde la date de la derniere VRAIE collecte, pour que le controle de fraicheur
+    # du tableau de bord signale une panne qui dure.
+    if not any(summary.values()):
+        log.error("Aucune categorie collectee : donnees precedentes conservees. Resume: %s", summary)
+        return 1
+
     meta = {
         "source": "gputracker.eu",
         "benchmarkSource": "PassMark (videocardbenchmark.net / cpubenchmark.net)",

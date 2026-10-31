@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-31T19:11:32Z",
+ "generated": "2026-10-31T23:23:56Z",
  "markets": [
   "amazon.fr",
   "amazon.de",
@@ -9,8 +9,8 @@
   "amazon.com",
   "amazon.com.au"
  ],
- "nativeLinks": 2432,
- "onelinkLinks": 1103,
+ "nativeLinks": 2431,
+ "onelinkLinks": 1097,
  "note": "Liens d'affiliation Amazon pre-calcules vers la FICHE PRODUIT (/dp/<ASIN>), utilises par l'app quand aucune offre Amazon verifiee n'est disponible. ASIN valides sur la fiche Amazon elle-meme ; les marketplaces sans fiche recoivent le lien d'une marketplace voisine, OneLink redirigeant l'acheteur.",
  "items": {
   "gpus": {
@@ -4735,24 +4735,6 @@
      "amazon.co.uk": "https://www.amazon.de/dp/B00EOTVZV6?tag=fraym03-21",
      "amazon.com": "https://www.amazon.de/dp/B00EOTVZV6?tag=fraym03-21",
      "amazon.com.au": "https://www.amazon.de/dp/B00EOTVZV6?tag=fraym03-21"
-    }
-   },
-   "ddr4_8_2666c16": {
-    "name": "8 Go DDR4-2666 CL16",
-    "q": "Corsair DDR4-2666 8GB CL16",
-    "asin": "B07MDHT3B5",
-    "product": "Timetec 8 Go Compatible pour Apple DDR4 2666 MHz pour iMac mi-2020 (20.1/20.2) / iMac mi-2019 (19.1) 27\" avec écran Retina 5K, Fin 2018 Mac Mini (8.1) PC4-21333 / PC4-21300 SODIMM Mac RAM Upgrade",
-    "native": [
-     "amazon.com"
-    ],
-    "links": {
-     "amazon.fr": "https://www.amazon.com/dp/B07MDHT3B5?tag=fraym-20",
-     "amazon.de": "https://www.amazon.com/dp/B07MDHT3B5?tag=fraym-20",
-     "amazon.es": "https://www.amazon.com/dp/B07MDHT3B5?tag=fraym-20",
-     "amazon.it": "https://www.amazon.com/dp/B07MDHT3B5?tag=fraym-20",
-     "amazon.co.uk": "https://www.amazon.com/dp/B07MDHT3B5?tag=fraym-20",
-     "amazon.com": "https://www.amazon.com/dp/B07MDHT3B5?tag=fraym-20",
-     "amazon.com.au": "https://www.amazon.com/dp/B07MDHT3B5?tag=fraym-20"
     }
    },
    "ddr4_16_2666c16": {
@@ -11083,6 +11065,11 @@
    {
     "id": "ddr5_16_6000c30",
     "name": "16 Go DDR5-6000 CL30",
+    "raison": "sans_fiche"
+   },
+   {
+    "id": "ddr4_8_2666c16",
+    "name": "8 Go DDR4-2666 CL16",
     "raison": "sans_fiche"
    },
    {

@@ -23,5 +23,13 @@
       "reference": 34278
     }
   },
-  "note": "Prix live agreges (gputracker.eu). index/gamingIndex = scores PassMark reels (null si non rapproche). tdp = fiche constructeur bundlee."
+  "note": "Prix live agreges (gputracker.eu). index/gamingIndex = scores PassMark reels (null si non rapproche). tdp = fiche constructeur bundlee.",
+  "pricesWithdrawn": {
+    "since": "2026-11-02T14:30:55Z",
+    "files": [
+      "gpus.json",
+      "cpus.json"
+    ],
+    "reason": "gputracker.eu indisponible : prix plus vieux que le seuil retires, l'app utilise les offres par composant (gpus_app.json, cpus_app.json)"
+  }
 }

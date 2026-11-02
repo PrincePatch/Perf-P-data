@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-02T00:06:16Z",
+ "generated": "2026-11-02T06:24:52Z",
  "markets": [
   "amazon.fr",
   "amazon.de",
@@ -9,8 +9,8 @@
   "amazon.com",
   "amazon.com.au"
  ],
- "nativeLinks": 2431,
- "onelinkLinks": 1097,
+ "nativeLinks": 2430,
+ "onelinkLinks": 1098,
  "note": "Liens d'affiliation Amazon pre-calcules vers la FICHE PRODUIT (/dp/<ASIN>), utilises par l'app quand aucune offre Amazon verifiee n'est disponible. ASIN valides sur la fiche Amazon elle-meme ; les marketplaces sans fiche recoivent le lien d'une marketplace voisine, OneLink redirigeant l'acheteur.",
  "items": {
   "gpus": {
@@ -1302,8 +1302,7 @@
      "amazon.fr",
      "amazon.es",
      "amazon.it",
-     "amazon.co.uk",
-     "amazon.com"
+     "amazon.co.uk"
     ],
     "links": {
      "amazon.fr": "https://www.amazon.fr/dp/B076RCTXGX?tag=fraym-21",
@@ -1311,8 +1310,8 @@
      "amazon.es": "https://www.amazon.es/dp/B076RCTXGX?tag=fraym08-21",
      "amazon.it": "https://www.amazon.it/dp/B076RCTXGX?tag=fraym06-21",
      "amazon.co.uk": "https://www.amazon.co.uk/dp/B076RCTXGX?tag=fraym0a-21",
-     "amazon.com": "https://www.amazon.com/dp/B076RCTXGX?tag=fraym-20",
-     "amazon.com.au": "https://www.amazon.com/dp/B076RCTXGX?tag=fraym-20"
+     "amazon.com": "https://www.amazon.co.uk/dp/B076RCTXGX?tag=fraym0a-21",
+     "amazon.com.au": "https://www.amazon.co.uk/dp/B076RCTXGX?tag=fraym0a-21"
     }
    },
    "nvidia-gtx-1080": {

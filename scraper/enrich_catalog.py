@@ -200,12 +200,36 @@ _MOTS_ACCESSOIRE = (
 )
 
 
+# Offres d'OCCASION / RECONDITIONNÉES / « B-stock » (lot 39 de l'app) : le prix
+# d'un article usagé n'est pas celui du composant neuf — « MSI GeForce RTX 5080
+# 16G VENTUS 3X OC - Occasion » (Materiel.net, 1 772,96 €) devenait le prix
+# vérifié le plus bas de la RTX 5080. Mots ENTIERS, casse ignorée, dans les
+# langues des boutiques suivies (fr, en, de, it, es, pt). Même liste que
+# `estProduitOccasion` de l'app (lib/models/components.dart).
+_RE_OCCASION = re.compile(
+    r"(?<!\w)(occasion|used|refurbished|renewed|b[-\s]?stock|"
+    r"reconditionn[ée]e?s?|ricondizionat[oaie]|gebraucht(?:e[rsmn]?)?|"
+    r"usad[oa]s?|reacondicionad[oa]s?|recondicionad[oa]s?|"
+    r"generalüberholt(?:e[rsmn]?)?)(?!\w)",
+    re.IGNORECASE)
+
+
+def produit_occasion(nom_offre):
+    """Vrai si le nom de produit de l'offre désigne un article d'occasion,
+    reconditionné ou « B-stock » (lot 39) : toutes catégories, refroidissement
+    compris."""
+    return bool(_RE_OCCASION.search(nom_offre or ""))
+
+
 def produit_suspect(nom_offre, cat=None):
-    """Vrai si l'offre ressemble à un bundle / PC complet OU à un ACCESSOIRE
-    (waterblock, backplate, câble…) plutôt qu'au composant seul — son prix
-    polluerait les « prix vérifiés » (lot 28-29b). Les mots « accessoire »
-    (waterblock, alphacool, watercooling…) sont des MARQUES/PIÈCES LÉGITIMES
-    pour la catégorie REFROIDISSEMENT : on ne les y applique pas (lot 30)."""
+    """Vrai si l'offre ressemble à un bundle / PC complet, à un ACCESSOIRE
+    (waterblock, backplate, câble…) ou à un article d'OCCASION / reconditionné
+    plutôt qu'au composant neuf seul — son prix polluerait les « prix
+    vérifiés » (lots 28-29b, 39). Les mots « accessoire » (waterblock,
+    alphacool, watercooling…) sont des MARQUES/PIÈCES LÉGITIMES pour la
+    catégorie REFROIDISSEMENT : on ne les y applique pas (lot 30)."""
+    if produit_occasion(nom_offre):
+        return True
     bas = f" {nom_offre.lower()} "
     if any(m in bas for m in _MOTS_BUNDLE):
         return True

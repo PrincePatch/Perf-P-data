@@ -6,9 +6,11 @@ passes d'enrichissement, alors que `sans_aberrantes`/`produit_suspect` ne
 voyaient qu'une passe à la fois).
 
 Deux règles :
-  1. **Accessoires / bundles** : `produit_suspect(nom)` (waterblock, backplate,
-     câble, PC monté…) — ex. « Alphacool Core Geforce RTX 5080 » (~220 €)
-     retiré de la RTX 5080.
+  1. **Accessoires / bundles / occasion** : `produit_suspect(nom)` (waterblock,
+     backplate, câble, PC monté… et, depuis le lot 39, occasion /
+     reconditionné / B-stock / used / gebraucht / usado…) — ex. « Alphacool
+     Core Geforce RTX 5080 » (~220 €) ou « MSI … RTX 5080 … - Occasion »
+     (1 772,96 €) retirés de la RTX 5080.
   2. **Aberrations basses** : offre à moins de 0,4 × la MÉDIANE des prix (en
      euros) du composant — filet pour les accessoires non nommés (le waterblock
      est le moins cher, donc invisible pour un filtre « > 2,5× le mini » ; la

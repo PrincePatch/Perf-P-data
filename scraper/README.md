@@ -25,6 +25,8 @@ python download_images.py --json sample_output/gpus.json --images-dir sample_out
 |---|---|
 | `main.py` | Orchestrateur (args, config, JSON + `meta.json`, fusion benchmarks). |
 | `download_images.py` | Télécharge les photos produit (`image` → `images/<id>.<ext>` + `imageSource`). |
+| `retirer_prix_perimes.py` | Prix de `gpus.json` / `cpus.json` plus vieux que 30 h (gputracker indisponible) : publiés **sans prix**, l'app prend les offres par composant (`gpus_app.json`, `cpus_app.json`). |
+| `enrich_catalog.py` | Offres gputracker par composant de l'app ; sonde + coupe-circuit : gputracker refusé = aucune recherche, ses anciennes offres sont seulement purgées. |
 | `sources/gputracker.py` | Fetch poli (robots-aware, rate-limit) + parsing HTML prix + image. |
 | `sources/passmark.py` | Benchmarks RÉELS PassMark (G3D/CPU Mark) + repli CSV. |
 | `normalize.py` | Brut → schéma Perf P + `prices`/`priceMin` + `merge_benchmarks()`. |
@@ -41,3 +43,7 @@ python download_images.py --json sample_output/gpus.json --images-dir sample_out
   **rien n'est inventé**. Repli `data/benchmarks_*.csv` si réseau bloqué.
 - Publication : CI (`.github/workflows/data.yml`) pousse sur la branche `data-live`.
 - `.env` gitignoré ; aucun secret requis.
+- **gputracker.eu bloque les serveurs de GitHub** (403 Cloudflare, depuis le
+  25/10/2026) : le cron `refresh.yml` s'en passe. Plus de requêtes en boucle
+  (une sonde), plus de prix figés servis à l'app (retirés au-delà de 30 h) ;
+  une collecte réussie remet tout en place sans rien défaire.

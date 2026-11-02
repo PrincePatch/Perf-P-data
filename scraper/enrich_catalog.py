@@ -11,6 +11,11 @@ correspond pas au composant (capacité/fréquence/modèle différents) sont
 de données, structure identique à gpus.json (id APP + prices[] avec nom
 produit réel + image), consommée par l'app via une fusion PAR ID.
 
+gputracker refusé (403 Cloudflare sur les serveurs de GitHub) ou en panne :
+une sonde au départ, puis un coupe-circuit après 5 composants de suite en
+échec. Plus aucune recherche n'est lancée ; ses anciennes offres sont
+seulement retirées des fichiers par composant (`purger_offres_gputracker`).
+
 Usage :
     python scraper/enrich_catalog.py --data-repo <clone de Perf-P-data>
                                      [--only rams,ssds] [--limit N]
@@ -23,7 +28,7 @@ import re
 import sys
 import unicodedata
 from datetime import datetime, timezone
-from urllib.parse import quote
+from urllib.parse import quote, urlparse
 
 sys.path.insert(0, os.path.dirname(__file__))
 from sources.gputracker import GpuTrackerSource, _parse_price  # noqa: E402
@@ -271,6 +276,67 @@ def offres_pour(src, cat_id, slug, requete, fv_shops=None):
     return out
 
 
+# Coupe-circuit : nombre de composants de suite en échec réseau au-delà duquel
+# gputracker est jugé indisponible pour le reste du run.
+ECHECS_DE_SUITE_MAX = 5
+
+
+def gputracker_joignable(src):
+    """Sonde UNE page de gputracker avant toute recherche. gputracker.eu
+    (Cloudflare) refuse les serveurs de GitHub (403, constaté depuis le
+    25/10/2026) : sans sonde, chaque run envoyait ~1 000 requêtes refusées
+    pendant 70 min."""
+    try:
+        src._get(f"{src.base_url}/en/category/1/graphics-cards")
+        return True
+    except Exception as e:  # noqa: BLE001 — refus, panne ou robots.txt : même verdict
+        print(f"gputracker indisponible ({e}) : aucune recherche lancée", file=sys.stderr)
+        return False
+
+
+def est_offre_gputracker(offre):
+    """Vrai pour une offre collectée sur gputracker (lien de redirection www.gputracker.eu)."""
+    return "gputracker.eu" in urlparse(offre.get("url") or "").netloc
+
+
+def _prix_min(prices):
+    """priceMin EN EUROS : moins cher en stock si possible, sinon toutes offres
+    (même règle que nettoyer_offres._price_min)."""
+    dispo = [p for p in prices if p.get("inStock", True)]
+    return round(min(prix_eur(p) for p in (dispo or prices)), 2)
+
+
+def purger_offres_gputracker(chemin, cat):
+    """gputracker indisponible : retire du fichier par composant les offres
+    gputracker d'une collecte précédente, qui ne seraient plus jamais
+    rafraîchies (enrich_shops garde les anciennes offres d'un composant sans
+    nouvelle offre). Un composant qui n'avait QUE des offres gputracker est
+    retiré, comme le ferait une collecte normale ; les offres des autres
+    sources sont gardées et rafraîchies par les étapes suivantes."""
+    try:
+        with open(chemin, encoding="utf-8") as f:
+            data = json.load(f)
+    except (OSError, ValueError):
+        print(f"{cat}: {os.path.basename(chemin)} absent, rien à purger")
+        return
+    gardes, offres_retirees = [], 0
+    for e in data:
+        prices = e.get("prices") or []
+        restantes = [p for p in prices if not est_offre_gputracker(p)]
+        if len(restantes) != len(prices):
+            offres_retirees += len(prices) - len(restantes)
+            if not restantes:
+                continue
+            e["prices"] = restantes
+            e["priceMin"] = _prix_min(restantes)
+        gardes.append(e)
+    if offres_retirees:
+        with open(chemin, "w", encoding="utf-8") as f:
+            json.dump(gardes, f, ensure_ascii=False, indent=1)
+    print(f"{cat}: gputracker indisponible, {offres_retirees} offre(s) gputracker retirée(s), "
+          f"{len(data) - len(gardes)} composant(s) sans autre offre retiré(s) -> {os.path.basename(chemin)}")
+
+
 def correspond(nom_offre, jetons):
     """Vrai si le nom d'offre contient les jetons du composant. Les groupes
     NUMÉRIQUES (capacité, fréquence, CL, chipset…) sont tous obligatoires —
@@ -319,6 +385,10 @@ def principal():
     quand = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
     src = GpuTrackerSource("https://www.gputracker.eu", UA, rate_limit=2.0)
+    # gputracker refusé ou en panne : plus aucune recherche, seulement la purge
+    # de ses anciennes offres (sonde au départ, coupe-circuit en cours de run).
+    disponible = gputracker_joignable(src)
+    echecs_de_suite = 0
 
     for cat, (fichier, cat_id, slug, q_build, t_build) in CATEGORIES.items():
         if seules and cat not in seules:
@@ -326,6 +396,10 @@ def principal():
         # Catégorie sans recherche gputracker (ex. coolers) : gérée uniquement
         # par les boutiques directes (enrich_shops) — lot 30.
         if cat_id is None:
+            continue
+        chemin = os.path.join(args.data_repo, SORTIES.get(cat, f"{cat}.json"))
+        if not disponible:
+            purger_offres_gputracker(chemin, cat)
             continue
         with open(os.path.join(args.items_dir, f"{fichier}.json"),
                   encoding="utf-8") as f:
@@ -359,7 +433,14 @@ def principal():
                                 brutes.append(o)
             except Exception as e:  # noqa: BLE001 — une requête ratée ne tue pas le run
                 print(f"  ! {cat}/{it['id']}: {e}", file=sys.stderr)
+                echecs_de_suite += 1
+                if echecs_de_suite >= ECHECS_DE_SUITE_MAX:
+                    print(f"gputracker indisponible : {echecs_de_suite} composants de suite en échec, "
+                          f"arrêt des recherches", file=sys.stderr)
+                    disponible = False
+                    break
                 continue
+            echecs_de_suite = 0
             offres = sorted(
                 [o for o in brutes
                  if correspond(o["product"], jetons)
@@ -397,7 +478,11 @@ def principal():
             ok += 1
             print(f"  + {cat}/{it['id']}: {len(offres)} offres, min {offres[0]['price']} €")
 
-        chemin = os.path.join(args.data_repo, SORTIES.get(cat, f"{cat}.json"))
+        if not disponible:
+            # Coupé en cours de catégorie : la sortie partielle n'écrase pas le
+            # fichier, qui est seulement purgé comme les catégories suivantes.
+            purger_offres_gputracker(chemin, cat)
+            continue
         with open(chemin, "w", encoding="utf-8") as f:
             json.dump(sortie, f, ensure_ascii=False, indent=1)
         print(f"{cat}: {ok} composants avec offres, {vide} sans correspondance "

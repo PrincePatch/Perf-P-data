@@ -25,6 +25,13 @@ jobs:
         id: gputracker
         run: python scraper/main.py --categories gpus,cpus --out-dir .
         continue-on-error: true
+      # Prix gputracker plus vieux que 30 h : gpus.json / cpus.json sont publies
+      # SANS prix (noms, images, indices gardes). L'app prend alors les offres
+      # par composant (gpus_app.json / cpus_app.json, rafraichies par les autres
+      # sources) au lieu de prix figes. Sans effet tant que gputracker repond.
+      - name: Retirer les prix gputracker perimes
+        run: python scraper/retirer_prix_perimes.py --data-repo . --age-max-h 30
+        continue-on-error: true
       - name: Telecharger les images produit
         run: python scraper/download_images.py --json gpus.json --images-dir images
       - name: Restaurer les references d'images existantes
@@ -32,6 +39,9 @@ jobs:
       # Offres par composant de l'app (GPU/CPU/RAM/SSD/cartes meres/alims/
       # boitiers) : prix constates multi-boutiques A JOUR a chaque execution.
       # Les listes de composants vivent dans catalog/ (copie des assets app).
+      # Source gputracker : une sonde au depart et un coupe-circuit (5 echecs de
+      # suite) ; s'il refuse, aucune recherche, seulement la purge de ses
+      # anciennes offres dans les fichiers par composant.
       - name: Offres par composant (toutes categories)
         run: python scraper/enrich_catalog.py --data-repo . --items-dir catalog
         timeout-minutes: 70

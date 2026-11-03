@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-02T15:51:31Z",
+ "generated": "2026-11-03T01:40:35Z",
  "markets": [
   "amazon.fr",
   "amazon.de",
@@ -9,8 +9,8 @@
   "amazon.com",
   "amazon.com.au"
  ],
- "nativeLinks": 2430,
- "onelinkLinks": 1098,
+ "nativeLinks": 2428,
+ "onelinkLinks": 1086,
  "note": "Liens d'affiliation Amazon pre-calcules vers la FICHE PRODUIT (/dp/<ASIN>), utilises par l'app quand aucune offre Amazon verifiee n'est disponible. ASIN valides sur la fiche Amazon elle-meme ; les marketplaces sans fiche recoivent le lien d'une marketplace voisine, OneLink redirigeant l'acheteur.",
  "items": {
   "gpus": {
@@ -414,42 +414,6 @@
      "amazon.co.uk": "https://www.amazon.co.uk/dp/B08HR6ZBYJ?tag=fraym0a-21",
      "amazon.com": "https://www.amazon.com/dp/B08HR6ZBYJ?tag=fraym-20",
      "amazon.com.au": "https://www.amazon.com.au/dp/B08HR6ZBYJ?tag=fraym-22"
-    }
-   },
-   "rtx3080ti": {
-    "name": "GeForce RTX 3080 Ti",
-    "q": "GeForce RTX 3080 Ti",
-    "asin": "B09WSC85GP",
-    "product": "Geforce RTX 3080 Ti 12GB GDDR6X PCI Express 4.0 Graphics Card Titanium and Black (Renewed) : Electronics",
-    "native": [
-     "amazon.com"
-    ],
-    "links": {
-     "amazon.fr": "https://www.amazon.com/dp/B09WSC85GP?tag=fraym-20",
-     "amazon.de": "https://www.amazon.com/dp/B09WSC85GP?tag=fraym-20",
-     "amazon.es": "https://www.amazon.com/dp/B09WSC85GP?tag=fraym-20",
-     "amazon.it": "https://www.amazon.com/dp/B09WSC85GP?tag=fraym-20",
-     "amazon.co.uk": "https://www.amazon.com/dp/B09WSC85GP?tag=fraym-20",
-     "amazon.com": "https://www.amazon.com/dp/B09WSC85GP?tag=fraym-20",
-     "amazon.com.au": "https://www.amazon.com/dp/B09WSC85GP?tag=fraym-20"
-    }
-   },
-   "rtx3080": {
-    "name": "GeForce RTX 3080",
-    "q": "GeForce RTX 3080",
-    "asin": "B09J1QCT9Y",
-    "product": "MSI Gaming GeForce RTX 3080 LHR 10GB GDRR6X 320-Bit HDMI/DP Nvlink Torx Fan 3 Ampere Architecture OC Graphics Card (RTX 3080 Ventus 3X 10G OC LHR) (Renewed) : Electronics",
-    "native": [
-     "amazon.com"
-    ],
-    "links": {
-     "amazon.fr": "https://www.amazon.com/dp/B09J1QCT9Y?tag=fraym-20",
-     "amazon.de": "https://www.amazon.com/dp/B09J1QCT9Y?tag=fraym-20",
-     "amazon.es": "https://www.amazon.com/dp/B09J1QCT9Y?tag=fraym-20",
-     "amazon.it": "https://www.amazon.com/dp/B09J1QCT9Y?tag=fraym-20",
-     "amazon.co.uk": "https://www.amazon.com/dp/B09J1QCT9Y?tag=fraym-20",
-     "amazon.com": "https://www.amazon.com/dp/B09J1QCT9Y?tag=fraym-20",
-     "amazon.com.au": "https://www.amazon.com/dp/B09J1QCT9Y?tag=fraym-20"
     }
    },
    "rtx3070ti": {
@@ -11032,6 +10996,16 @@
  },
  "skipped": {
   "gpus": [
+   {
+    "id": "rtx3080ti",
+    "name": "GeForce RTX 3080 Ti",
+    "raison": "sans_fiche"
+   },
+   {
+    "id": "rtx3080",
+    "name": "GeForce RTX 3080",
+    "raison": "sans_fiche"
+   },
    {
     "id": "rtx5070tis",
     "name": "GeForce RTX 5070 Ti Super",

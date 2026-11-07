@@ -5,12 +5,22 @@
   "priceMin": 159.95,
   "prices": [
    {
+    "shop": "amazon.co.uk",
+    "price": 155.0,
+    "currency": "GBP",
+    "url": "https://www.amazon.co.uk/dp/B0143UM4TC?tag=fraym0a-21",
+    "inStock": true,
+    "lastSeen": "2026-11-07T13:04:10Z",
+    "product": "CORSAIR VENGEANCE LPX DDR4 RAM 16GB (2x8GB) Up to 3200MHz CL16 Intel XMP AMD EXPO Computer Memory – Black (CMK16GX4M2B3200C16)",
+    "image": null
+   },
+   {
     "shop": "materiel.net",
     "price": 159.95,
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202009180072.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "Textorm - 1 x 16 Go (16 Go) - DDR4 3200 MHz - CL16",
     "image": "https://media.materiel.net/r250/products/MN0005754152_1_0005754153.jpg"
    },
@@ -20,7 +30,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/201509130022.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Ripjaws V Black - 2 x 8 Go (16 Go) - DDR4 3200 MHz - CL16",
     "image": "https://media.materiel.net/r250/products/MN0005216418_1.jpg"
    },
@@ -30,7 +40,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202011230065.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "Textorm - 2 x 8 Go (16 Go) - DDR4 3200 MHz - CL16",
     "image": "https://media.materiel.net/r250/products/MN0005754137_1.jpg"
    },
@@ -40,7 +50,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202408090034.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "Textorm - 2 x 8 Go (16 Go) - DDR4 3200 MHz - CL16",
     "image": "https://media.materiel.net/r250/products/MN0006159470.jpg"
    },
@@ -50,7 +60,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202105110033.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "Corsair Vengeance LPX White - 2 x 8 Go (16 Go) - DDR4 3200 MHz - CL16",
     "image": "https://media.materiel.net/r250/products/MN0005206370_1_0005215840_0005215845_0005833377.jpg"
    },
@@ -60,7 +70,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202108180055.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "Corsair Vengeance RGB RS - 2 x 8 Go (16 Go) - DDR4 3200 MHz - CL16",
     "image": "https://media.materiel.net/r250/products/MN0005872453_1.jpg"
    },
@@ -70,7 +80,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202101180123.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "Corsair Vengeance RGB Pro SL Blanche - 2 x 8 Go (16 Go) - DDR4 3200 MHz - CL16",
     "image": "https://media.materiel.net/r250/products/MN0005774788_1.jpg"
    },
@@ -80,23 +90,13 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202106280117.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "Kingston Fury Beast - 2 x 8 Go (16 Go) - DDR4 3200 MHz - CL16",
     "image": "https://media.materiel.net/r250/products/MN0005855232_1.jpg"
-   },
-   {
-    "shop": "amazon.co.uk",
-    "price": 155.0,
-    "currency": "GBP",
-    "url": "https://www.amazon.co.uk/dp/B0143UM4TC?tag=fraym0a-21",
-    "inStock": true,
-    "lastSeen": "2026-11-07T13:04:10Z",
-    "product": "CORSAIR VENGEANCE LPX DDR4 RAM 16GB (2x8GB) Up to 3200MHz CL16 Intel XMP AMD EXPO Computer Memory – Black (CMK16GX4M2B3200C16)",
-    "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-07T13:04:10Z"
+  "lastUpdated": "2026-11-07T21:25:06Z"
  },
  {
   "id": "ddr4_32_3200c16",
@@ -112,96 +112,6 @@
     "lastSeen": "2026-11-06T05:32:56Z",
     "product": "Corsair Vengeance LPX DDR4 RAM 32GB Bis zu 3200MHz CL16 Intel XMP 2.0 Computerspeicher - Schwarz",
     "image": null
-   },
-   {
-    "shop": "amazon.es",
-    "price": 300.82,
-    "currency": "EUR",
-    "url": "https://www.amazon.es/dp/B07RW6Z692?tag=fraym08-21",
-    "inStock": true,
-    "lastSeen": "2026-11-06T23:28:33Z",
-    "product": "CORSAIR Vengeance LPX DDR4 RAM 32GB (2x16GB) hasta 3200MHz CL16-20-20-38 1.35V Intel AMD Memoria de Ordenador de Sobremesa - Negro (CMK32GX4M2E3200C16)",
-    "image": null
-   },
-   {
-    "shop": "materiel.net",
-    "price": 319.94,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202011230066.html",
-    "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
-    "product": "Textorm - 2 x 16 Go (32 Go) - DDR4 3200 MHz - CL16",
-    "image": "https://media.materiel.net/r250/products/MN0005754137_1_0005754138.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 399.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202011230070.html",
-    "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
-    "product": "Textorm - 4 x 8 Go (32 Go) - DDR4 3200 MHz - CL16",
-    "image": "https://media.materiel.net/r250/products/MN0005755728_1.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 422.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202108180056.html",
-    "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
-    "product": "Corsair Vengeance RGB RS - 2 x 16 Go (32 Go) - DDR4 3200 MHz - CL16",
-    "image": "https://media.materiel.net/r250/products/MN0005872448_1.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 465.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202106280120.html",
-    "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
-    "product": "Kingston Fury Beast - 2 x 16 Go (32 Go) - DDR4 3200 MHz - CL16",
-    "image": "https://media.materiel.net/r250/products/MN0005855232_1_0005855265.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 491.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202310240143.html",
-    "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
-    "product": "Kingston Fury Beast RGB - 2 x 16 Go (32 Go) - DDR4 3200 MHz - CL16",
-    "image": "https://media.materiel.net/r250/products/MN0006103883.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 597.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202106280125.html",
-    "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
-    "product": "Kingston Fury Beast - 1 x 32 Go (32 Go) - DDR4 3200 MHz - CL16",
-    "image": "https://media.materiel.net/r250/products/MN0005854747_1_0005855165_0005855216_0005855263_0005855298_0005855357.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 609.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202310240144.html",
-    "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
-    "product": "Kingston Fury Beast RGB - 2 x 16 Go (32 Go) - DDR4 3200 MHz - CL16",
-    "image": "https://media.materiel.net/r250/products/MN0006103874.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 392.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202105110032.html",
-    "inStock": false,
-    "lastSeen": "2026-11-07T12:22:04Z",
-    "product": "Corsair Vengeance LPX White - 2 x 16 Go (32 Go) - DDR4 3200 MHz CL16",
-    "image": "https://media.materiel.net/r250/products/MN0005206370_1_0005215840_0005215845_0005833345.jpg"
    },
    {
     "shop": "amazon.co.uk",
@@ -232,10 +142,100 @@
     "lastSeen": "2026-11-07T13:04:10Z",
     "product": "Corsair VENGEANCE LPX DDR4 RAM 32GB (2x16GB) 3200MHz CL16 Intel XMP 2.0 Memoria per computer - Nero (CMK32GX4M2E3200C16)",
     "image": null
+   },
+   {
+    "shop": "materiel.net",
+    "price": 319.94,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202011230066.html",
+    "inStock": true,
+    "lastSeen": "2026-11-07T21:25:06Z",
+    "product": "Textorm - 2 x 16 Go (32 Go) - DDR4 3200 MHz - CL16",
+    "image": "https://media.materiel.net/r250/products/MN0005754137_1_0005754138.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 399.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202011230070.html",
+    "inStock": true,
+    "lastSeen": "2026-11-07T21:25:06Z",
+    "product": "Textorm - 4 x 8 Go (32 Go) - DDR4 3200 MHz - CL16",
+    "image": "https://media.materiel.net/r250/products/MN0005755728_1.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 422.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202108180056.html",
+    "inStock": true,
+    "lastSeen": "2026-11-07T21:25:06Z",
+    "product": "Corsair Vengeance RGB RS - 2 x 16 Go (32 Go) - DDR4 3200 MHz - CL16",
+    "image": "https://media.materiel.net/r250/products/MN0005872448_1.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 465.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202106280120.html",
+    "inStock": true,
+    "lastSeen": "2026-11-07T21:25:06Z",
+    "product": "Kingston Fury Beast - 2 x 16 Go (32 Go) - DDR4 3200 MHz - CL16",
+    "image": "https://media.materiel.net/r250/products/MN0005855232_1_0005855265.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 491.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202310240143.html",
+    "inStock": true,
+    "lastSeen": "2026-11-07T21:25:06Z",
+    "product": "Kingston Fury Beast RGB - 2 x 16 Go (32 Go) - DDR4 3200 MHz - CL16",
+    "image": "https://media.materiel.net/r250/products/MN0006103883.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 597.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202106280125.html",
+    "inStock": true,
+    "lastSeen": "2026-11-07T21:25:06Z",
+    "product": "Kingston Fury Beast - 1 x 32 Go (32 Go) - DDR4 3200 MHz - CL16",
+    "image": "https://media.materiel.net/r250/products/MN0005854747_1_0005855165_0005855216_0005855263_0005855298_0005855357.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 609.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202310240144.html",
+    "inStock": true,
+    "lastSeen": "2026-11-07T21:25:06Z",
+    "product": "Kingston Fury Beast RGB - 2 x 16 Go (32 Go) - DDR4 3200 MHz - CL16",
+    "image": "https://media.materiel.net/r250/products/MN0006103874.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 392.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202105110032.html",
+    "inStock": false,
+    "lastSeen": "2026-11-07T21:25:06Z",
+    "product": "Corsair Vengeance LPX White - 2 x 16 Go (32 Go) - DDR4 3200 MHz CL16",
+    "image": "https://media.materiel.net/r250/products/MN0005206370_1_0005215840_0005215845_0005833345.jpg"
+   },
+   {
+    "shop": "amazon.es",
+    "price": 300.82,
+    "currency": "EUR",
+    "url": "https://www.amazon.es/dp/B07RW6Z692?tag=fraym08-21",
+    "inStock": true,
+    "lastSeen": "2026-11-07T22:08:22Z",
+    "product": "CORSAIR Vengeance LPX DDR4 RAM 32GB (2x16GB) hasta 3200MHz CL16-20-20-38 1.35V Intel AMD Memoria de Ordenador de Sobremesa - Negro (CMK32GX4M2E3200C16)",
+    "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-07T13:04:10Z"
+  "lastUpdated": "2026-11-07T22:08:22Z"
  },
  {
   "id": "ddr4_32_3600c18",
@@ -253,12 +253,22 @@
     "image": null
    },
    {
+    "shop": "amazon.com",
+    "price": 259.99,
+    "currency": "USD",
+    "url": "https://www.amazon.com/dp/B07Z87ZMN3?tag=fraym-20",
+    "inStock": true,
+    "lastSeen": "2026-11-07T13:04:10Z",
+    "product": "G.Skill DDR4 32GB PC 3600 CL18 KIT (2x16GB) 32GTZR Tri/RGB at Amazon.com",
+    "image": null
+   },
+   {
     "shop": "materiel.net",
     "price": 329.95,
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/201909300080.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Ripjaws V Black - 2 x 16 Go (32 Go) - DDR4 3600 MHz CL18",
     "image": "https://media.materiel.net/r250/products/MN0005216361_1_0005216421_0005466207_0005467312.jpg"
    },
@@ -268,7 +278,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/201909300090.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Trident Z RGB - 2 x 16 Go (32 Go) - DDR4 3600 MHz - CL18",
     "image": "https://media.materiel.net/r250/products/MN0005145139_1_0005180109_0005202198_0005468872_0005469086.jpg"
    },
@@ -278,7 +288,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202106280132.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "Kingston Fury Beast - 2 x 16 Go (32 Go) - DDR4 3600 MHz - CL18",
     "image": "https://media.materiel.net/r250/products/MN0005856151_1.jpg"
    },
@@ -288,7 +298,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202310240147.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "Kingston Fury Beast RGB - 2 x 16 Go (32 Go) - DDR4 3600 MHz - CL18",
     "image": "https://media.materiel.net/r250/products/MN0006103852.jpg"
    },
@@ -298,23 +308,13 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202310230058.html",
     "inStock": false,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Ripjaws V White - 2 x 16 Go (32 Go) - DDR4 3600 MHz - CL18",
     "image": "https://media.materiel.net/r250/products/MN0006138094.jpg"
-   },
-   {
-    "shop": "amazon.com",
-    "price": 259.99,
-    "currency": "USD",
-    "url": "https://www.amazon.com/dp/B07Z87ZMN3?tag=fraym-20",
-    "inStock": true,
-    "lastSeen": "2026-11-07T13:04:10Z",
-    "product": "G.Skill DDR4 32GB PC 3600 CL18 KIT (2x16GB) 32GTZR Tri/RGB at Amazon.com",
-    "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-07T13:04:10Z"
+  "lastUpdated": "2026-11-07T22:08:22Z"
  },
  {
   "id": "ddr5_16_5200c40",
@@ -327,7 +327,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202601080099.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "Corsair Vengeance DDR5 - 2 x 8 Go (16 Go) - 5200 MHz - CL40",
     "image": "https://media.materiel.net/r250/products/MN0006309841.jpg"
    },
@@ -337,7 +337,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202110120086.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "Kingston Fury Beast - 1 x 16 Go (16 Go) - DDR5 5200 MHz - CL40",
     "image": "https://media.materiel.net/r250/products/MN0005900649_1_0005900651.jpg"
    },
@@ -347,7 +347,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202206080101.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "Kingston Fury Beast RGB - 2 x 8 Go (16 Go) - DDR5 5200 MHz - CL40",
     "image": "https://media.materiel.net/r250/products/MN0005959138_0005959149.jpg"
    },
@@ -357,7 +357,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202502030078.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Flare X5 - 2 x 16 Go (32 Go) - DDR5 5200 MHz - CL40",
     "image": "https://media.materiel.net/r250/products/MN0006211240.jpg"
    },
@@ -367,7 +367,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202502160018.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Aegis 5 - 2 x 16 Go (32 Go) - DDR5 5200 MHz - CL40",
     "image": "https://media.materiel.net/r250/products/MN0006222295.jpg"
    },
@@ -377,7 +377,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202110120087.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "Kingston Fury Beast - 2 x 16 Go (32 Go) - DDR5 5200 MHz - CL40",
     "image": "https://media.materiel.net/r250/products/MN0005900659_1.jpg"
    },
@@ -387,7 +387,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202206080102.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "Kingston Fury Beast RGB - 2 x 16 Go (32 Go) - DDR5 5200 MHz - CL40",
     "image": "https://media.materiel.net/r250/products/MN0005959138_0005959149_0005959150.jpg"
    },
@@ -397,13 +397,13 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202305090049.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "Kingston Fury Beast White RGB - 2 x 16 Go (32 Go) - DDR5 5200 MHz - CL40",
     "image": "https://media.materiel.net/r250/products/MN0006036387.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-07T12:22:04Z"
+  "lastUpdated": "2026-11-07T21:25:06Z"
  },
  {
   "id": "ddr5_32_5600c36",
@@ -416,7 +416,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202209060012.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Flare X5 - 2 x 16 Go (32 Go) - DDR5 5600 MHz - CL36",
     "image": "https://media.materiel.net/r250/products/MN0006001785.jpg"
    },
@@ -426,7 +426,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202201120095.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Trident Z5 RGB Black - 2 x 16 Go (32 Go) - DDR5 5600 MHz - CL36",
     "image": "https://media.materiel.net/r250/products/MN0005902777_1_0005924181.jpg"
    },
@@ -436,7 +436,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202506230017.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "Kingston FURY Beast 1 x 32 Go (32Go) DDR5 5600 MHz CL36",
     "image": "https://media.materiel.net/r250/products/MN0005982609_0006259629_0006259633.jpg"
    },
@@ -446,7 +446,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202506230019.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "Kingston FURY Beast RGB 1 x 32 Go (32Go) DDR5 5600 MHz CL36",
     "image": "https://media.materiel.net/r250/products/MN0006160871_0006259668_0006259675.jpg"
    },
@@ -456,7 +456,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202209190026.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "Kingston Fury Beast - 2 x 16 Go (32 Go) - DDR5 5600 MHz - CL36",
     "image": "https://media.materiel.net/r250/products/MN0005982605.jpg"
    },
@@ -466,7 +466,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202209190030.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "Kingston Fury Beast RGB - 2 x 16 Go (32 Go) - DDR5 5600 MHz - CL36",
     "image": "https://media.materiel.net/r250/products/MN0005982581.jpg"
    },
@@ -476,7 +476,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202305090050.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "Kingston Fury Beast White RGB - 2 x 16 Go (32 Go) - DDR5 5600 MHz - CL36",
     "image": "https://media.materiel.net/r250/products/MN0006036376.jpg"
    },
@@ -486,13 +486,13 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202610290047.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "Kingston Fury Beast - 2 x 32 Go (64 Go) - DDR5 5600 MHz - CL36",
     "image": "https://media.materiel.net/r250/products/MN0006012763.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-07T12:22:04Z"
+  "lastUpdated": "2026-11-07T21:25:06Z"
  },
  {
   "id": "ddr5_32_6000c30",
@@ -505,7 +505,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202204200060.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Ripjaws S5 White - 2 x 16 Go (32 Go) - DDR5 6000 MHz - CL30",
     "image": "https://media.materiel.net/r250/products/MN0005902766_1_0005914579_0005948025_0005948086_0005948095.jpg"
    },
@@ -515,7 +515,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202411130035.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "Kingston Fury Beast - 2 x 16 Go (32 Go) - DDR5 6000 MHz - CL30",
     "image": "https://media.materiel.net/r250/products/MN0006192614.jpg"
    },
@@ -525,7 +525,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202411130038.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "Kingston Fury Beast White - 2 x 16 Go (32 Go) - DDR5 6000 MHz - CL30",
     "image": "https://media.materiel.net/r250/products/MN0006192587.jpg"
    },
@@ -535,7 +535,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202408190004.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "Kingston Fury Beast RGB - 2 x 16 Go (32 Go) - DDR5 6000 MHz - CL30",
     "image": "https://media.materiel.net/r250/products/MN0006160835.jpg"
    },
@@ -545,7 +545,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202303280143.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Flare X5 - 2 x 16 Go (32 Go) - DDR5 6000 MHz - CL30",
     "image": "https://media.materiel.net/r250/products/MN0006027567.jpg"
    },
@@ -555,7 +555,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202408130015.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Flare X5 - 2 x 16 Go (32 Go) - DDR5 6000 MHz - CL30",
     "image": "https://media.materiel.net/r250/products/MN0006160014.jpg"
    },
@@ -565,7 +565,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202409240020.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Ripjaws S5 Black - 2 x 16 Go (32 Go) - DDR5 6000 MHz - CL30",
     "image": "https://media.materiel.net/r250/products/MN0006182391.jpg"
    },
@@ -575,13 +575,13 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202405200014.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Ripjaws M5 RGB Black - 2 x 16 Go (32 Go) - DDR5 6000 MHz - CL30",
     "image": "https://media.materiel.net/r250/products/MN0006139646.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-07T12:22:04Z"
+  "lastUpdated": "2026-11-07T21:25:06Z"
  },
  {
   "id": "ddr5_32_6400c32",
@@ -594,7 +594,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202211160009.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Ripjaws S5 Black - 2 x 16 Go (32 Go) - DDR5 6400 MHz - CL32",
     "image": "https://media.materiel.net/r250/products/MN0006003145.jpg"
    },
@@ -604,7 +604,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202405200022.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Ripjaws M5 RGB Black - 2 x 16 Go (32 Go) - DDR5 6400 MHz - CL32",
     "image": "https://media.materiel.net/r250/products/MN0006139924.jpg"
    },
@@ -614,7 +614,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202201180037.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Trident Z5 RGB Black - 2 x 16 Go (32 Go) - DDR5 6400 MHz - CL32",
     "image": "https://media.materiel.net/r250/products/MN0005923456_1.jpg"
    },
@@ -624,7 +624,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202405200021.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Ripjaws M5 RGB White - 2 x 16 Go (32 Go) - DDR5 6400 MHz - CL32",
     "image": "https://media.materiel.net/r250/products/MN0006139930.jpg"
    },
@@ -634,7 +634,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202307040056.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Trident Z5 RGB White - 2 x 16 Go (32 Go) - DDR5 6400 MHz - CL32",
     "image": "https://media.materiel.net/r250/products/MN0006095009.jpg"
    },
@@ -644,7 +644,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202309060017.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Trident Z5 Neo RGB Silver - 2 x 16 Go (32 Go) - DDR5 6400 MHz - CL32",
     "image": "https://media.materiel.net/r250/products/MN0006064835.jpg"
    },
@@ -654,13 +654,13 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202408130016.html",
     "inStock": false,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Flare X5 - 2 x 16 Go (32 Go) - DDR5 6400 MHz - CL32",
     "image": "https://media.materiel.net/r250/products/MN0006160018.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-07T12:22:04Z"
+  "lastUpdated": "2026-11-07T21:25:06Z"
  },
  {
   "id": "ddr5_48_6000c30",
@@ -673,7 +673,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202502160001.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Ripjaws S5 Black - 2 x 24 Go (48 Go) - DDR5 6000 MHz - CL30",
     "image": "https://media.materiel.net/r250/products/MN0006226222.jpg"
    },
@@ -683,7 +683,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202502160010.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Flare X5 - 2 x 24 Go (48 Go) - DDR5 6000 MHz - CL30",
     "image": "https://media.materiel.net/r250/products/MN0006221918.jpg"
    },
@@ -693,7 +693,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202509100183.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Trident Z5 RGB Noir - 2 x 24 Go (48 Go) -  DDR5 6000 MHz - CL30",
     "image": "https://media.materiel.net/r250/products/MN0006284238_0006284248_0006284252.jpg"
    },
@@ -703,7 +703,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202502160052.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Ripjaws M5 Neo RGB White - 2 x 24 Go (48 Go) - DDR5 6000 MHz - CL30",
     "image": "https://media.materiel.net/r250/products/MN0006222677.jpg"
    },
@@ -713,13 +713,13 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202502160042.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Ripjaws M5 RGB White - 2 x 24 Go (48 Go) - DDR5 6000 MHz - CL30",
     "image": "https://media.materiel.net/r250/products/MN0006223941.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-07T12:22:04Z"
+  "lastUpdated": "2026-11-07T21:25:06Z"
  },
  {
   "id": "ddr5_64_6000c30",
@@ -732,7 +732,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202408190006.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "Kingston Fury Beast - 2 x 32 Go (64 Go) - DDR5 6000 MHz - CL30",
     "image": "https://media.materiel.net/r250/products/MN0006160875.jpg"
    },
@@ -742,13 +742,13 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202502030194.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "Kingston Fury Beast White - 2 x 32 Go (64 Go) - DDR5 6000 MHz - CL30",
     "image": "https://media.materiel.net/r250/products/MN0006210993.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-07T12:22:04Z"
+  "lastUpdated": "2026-11-07T21:25:06Z"
  },
  {
   "id": "ddr5_32_7200c34",
@@ -761,7 +761,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202210180062.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Trident Z5 RGB Black - 2 x 16 Go (32 Go) - DDR5 7200 MHz - CL34",
     "image": "https://media.materiel.net/r250/products/MN0005989651.jpg"
    },
@@ -771,13 +771,13 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202405200025.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Trident Z5 RGB White - 2 x 16 Go (32 Go) - DDR5 7200 MHz - CL34",
     "image": "https://media.materiel.net/r250/products/MN0006138368.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-07T13:04:10Z"
+  "lastUpdated": "2026-11-07T22:08:22Z"
  },
  {
   "id": "ddr5_32_8000c38",
@@ -790,7 +790,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202408130051.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Trident Z5 Neo RGB Black - 2 x 16 Go (32 Go) - DDR5 8000 MHz - CL38",
     "image": "https://media.materiel.net/r250/products/MN0006160034.jpg"
    },
@@ -800,7 +800,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202408130052.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Trident Z5 Neo RGB White - 2 x 16 Go (32 Go) - DDR5 8000 MHz - CL38",
     "image": "https://media.materiel.net/r250/products/MN0006160043.jpg"
    },
@@ -810,13 +810,13 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202408130059.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Trident Z5 Royal Neo - 2 x 16 Go (32 Go) - DDR5 8000 MHz - CL38",
     "image": "https://media.materiel.net/r250/products/MN0006160075.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-07T12:22:04Z"
+  "lastUpdated": "2026-11-07T21:25:06Z"
  },
  {
   "id": "ddr4_16_3600c16",
@@ -839,7 +839,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/201909300082.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Ripjaws V Black - 2 x 16 Go (32 Go) - DDR4 3600 MHz - CL16",
     "image": "https://media.materiel.net/r250/products/MN0005216361_1_0005216421_0005466207_0005467312_0005467334.jpg"
    },
@@ -849,13 +849,13 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/201909300063.html",
     "inStock": false,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Ripjaws V Black - 2 x 8 Go (16 Go) - DDR4 3600 MHz - CL16",
     "image": "https://media.materiel.net/r250/products/MN0005216361_1_0005466204.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-07T12:22:04Z"
+  "lastUpdated": "2026-11-07T21:25:06Z"
  },
  {
   "id": "ddr5_32_6000c28",
@@ -878,7 +878,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202502030076.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Ripjaws S5 Black - 2 x 16 Go (32 Go) - DDR5 6000 MHz - CL28",
     "image": "https://media.materiel.net/r250/products/MN0006211247.jpg"
    },
@@ -888,7 +888,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202502160049.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Ripjaws M5 Neo RGB Black - 2 x 16 Go (32 Go) - DDR5 6000 MHz - CL28",
     "image": "https://media.materiel.net/r250/products/MN0006222763.jpg"
    },
@@ -898,7 +898,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202502160050.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Ripjaws M5 Neo RGB White - 2 x 16 Go (32 Go) - DDR5 6000 MHz - CL28",
     "image": "https://media.materiel.net/r250/products/MN0006222691.jpg"
    },
@@ -908,7 +908,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202502160044.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Ripjaws M5 RGB White - 2 x 32 Go (64 Go) - DDR5 6000 MHz - CL28",
     "image": "https://media.materiel.net/r250/products/MN0006223909.jpg"
    },
@@ -918,7 +918,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202502160003.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Ripjaws S5 Black - 2 x 32 Go (64 Go) - DDR5 6000 MHz - CL28",
     "image": "https://media.materiel.net/r250/products/MN0006226218.jpg"
    },
@@ -928,59 +928,19 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202408130056.html",
     "inStock": false,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Trident Z5 Royal Neo - 2 x 16 Go (32 Go) - DDR5 6000 MHz - CL28",
     "image": "https://media.materiel.net/r250/products/MN0006160059.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-07T12:22:04Z"
+  "lastUpdated": "2026-11-07T21:25:06Z"
  },
  {
   "id": "ddr5_32_6400c30",
   "name": "32 Go DDR5-6400 CL30",
   "priceMin": 568.76,
   "prices": [
-   {
-    "shop": "materiel.net",
-    "price": 1345.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202408130045.html",
-    "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
-    "product": "G.Skill Trident Z5 Neo RGB Black - 2 x 16 Go (32 Go) - DDR5 6400 MHz - CL30",
-    "image": "https://media.materiel.net/r250/products/MN0006160028.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 1379.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202408130046.html",
-    "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
-    "product": "G.Skill Trident Z5 Neo RGB White - 2 x 16 Go (32 Go) - DDR5 6400 MHz - CL30",
-    "image": "https://media.materiel.net/r250/products/MN0006160037.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 1379.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202408130054.html",
-    "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
-    "product": "G.Skill Trident Z5 Royal - 2 x 16 Go (32 Go) - DDR5 6400 MHz - CL30",
-    "image": "https://media.materiel.net/r250/products/MN0006160046.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 1419.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202408130055.html",
-    "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
-    "product": "G.Skill Trident Z5 Royal Or - 2 x 16 Go (32 Go) - DDR5 6400 MHz - CL30",
-    "image": "https://media.materiel.net/r250/products/MN0006160055.jpg"
-   },
    {
     "shop": "amazon.de",
     "price": 568.76,
@@ -990,10 +950,50 @@
     "lastSeen": "2026-11-07T13:04:10Z",
     "product": "CORSAIR Vengeance RGB DDR5 32GB Bis zu 6400MHz Intel RAM | Arbeitsspeicher für Gaming-PCs, Kompatibel mit Intel XMP 3.0, CL32, Schwarz, CMH32GX5M2B6400C32",
     "image": null
+   },
+   {
+    "shop": "materiel.net",
+    "price": 1345.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202408130045.html",
+    "inStock": true,
+    "lastSeen": "2026-11-07T21:25:06Z",
+    "product": "G.Skill Trident Z5 Neo RGB Black - 2 x 16 Go (32 Go) - DDR5 6400 MHz - CL30",
+    "image": "https://media.materiel.net/r250/products/MN0006160028.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 1379.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202408130046.html",
+    "inStock": true,
+    "lastSeen": "2026-11-07T21:25:06Z",
+    "product": "G.Skill Trident Z5 Neo RGB White - 2 x 16 Go (32 Go) - DDR5 6400 MHz - CL30",
+    "image": "https://media.materiel.net/r250/products/MN0006160037.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 1379.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202408130054.html",
+    "inStock": true,
+    "lastSeen": "2026-11-07T21:25:06Z",
+    "product": "G.Skill Trident Z5 Royal - 2 x 16 Go (32 Go) - DDR5 6400 MHz - CL30",
+    "image": "https://media.materiel.net/r250/products/MN0006160046.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 1419.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202408130055.html",
+    "inStock": true,
+    "lastSeen": "2026-11-07T21:25:06Z",
+    "product": "G.Skill Trident Z5 Royal Or - 2 x 16 Go (32 Go) - DDR5 6400 MHz - CL30",
+    "image": "https://media.materiel.net/r250/products/MN0006160055.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-07T13:04:10Z"
+  "lastUpdated": "2026-11-07T22:08:22Z"
  },
  {
   "id": "ddr5_64_6000c32",
@@ -1006,13 +1006,13 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202405200015.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Ripjaws M5 RGB White - 2 x 32 Go (64 Go) - DDR5 6000 MHz - CL32",
     "image": "https://media.materiel.net/r250/products/MN0006139653.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-07T12:22:04Z"
+  "lastUpdated": "2026-11-07T21:25:06Z"
  },
  {
   "id": "ddr5_16_6000c30",
@@ -1025,7 +1025,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202511100073.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Flare X5 - 1 x 16 Go  - DDR5 6000 MHz - CL30 - Bulk",
     "image": "https://media.materiel.net/r250/products/MN0006296191.jpg"
    },
@@ -1035,7 +1035,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202511200055.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Trident Z5 Neo Black - 16 Go - DDR5 6000 MHz - CL30 (Version Bulk)",
     "image": "https://media.materiel.net/r250/products/MN0006311766.jpg"
    },
@@ -1045,7 +1045,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202512220040.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Flare X5 - 2 x 8 Go (16 Go) - DDR5 6000 MHz - CL30",
     "image": "https://media.materiel.net/r250/products/MN0006160018_0006308312.jpg"
    },
@@ -1055,7 +1055,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202411130015.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "Kingston Fury Beast - 2 x 8 Go (16 Go) - DDR5 6000 MHz - CL30",
     "image": "https://media.materiel.net/r250/products/MN0006188567.jpg"
    },
@@ -1065,7 +1065,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202411130014.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "Kingston Fury Beast - 1 x 16 Go (16 Go) - DDR5 6000 MHz - CL30",
     "image": "https://media.materiel.net/r250/products/MN0006188560.jpg"
    },
@@ -1075,7 +1075,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202411130016.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "Kingston Fury Beast RGB - 2 x 8 Go (16 Go) - DDR5 6000 MHz - CL30",
     "image": "https://media.materiel.net/r250/products/MN0006188589.jpg"
    },
@@ -1085,7 +1085,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202204200060.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Ripjaws S5 White - 2 x 16 Go (32 Go) - DDR5 6000 MHz - CL30",
     "image": "https://media.materiel.net/r250/products/MN0005902766_1_0005914579_0005948025_0005948086_0005948095.jpg"
    },
@@ -1095,13 +1095,13 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202411130035.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "Kingston Fury Beast - 2 x 16 Go (32 Go) - DDR5 6000 MHz - CL30",
     "image": "https://media.materiel.net/r250/products/MN0006192614.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-07T12:22:04Z"
+  "lastUpdated": "2026-11-07T21:25:06Z"
  },
  {
   "id": "ddr4_8_3200c16",
@@ -1114,7 +1114,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202009180071.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "Textorm - 1 x 8 Go (8 Go) - DDR4 3200 MHz - CL16",
     "image": "https://media.materiel.net/r250/products/MN0005754152_1.jpg"
    },
@@ -1124,7 +1124,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202106280116.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "Kingston Fury Beast - 1 x 8 Go (8 Go) - DDR4 3200 MHz - CL16",
     "image": "https://media.materiel.net/r250/products/MN0005854747_1_0005855165_0005855216.jpg"
    },
@@ -1134,7 +1134,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/201509130022.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Ripjaws V Black - 2 x 8 Go (16 Go) - DDR4 3200 MHz - CL16",
     "image": "https://media.materiel.net/r250/products/MN0005216418_1.jpg"
    },
@@ -1144,7 +1144,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202011230065.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "Textorm - 2 x 8 Go (16 Go) - DDR4 3200 MHz - CL16",
     "image": "https://media.materiel.net/r250/products/MN0005754137_1.jpg"
    },
@@ -1154,7 +1154,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202408090034.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "Textorm - 2 x 8 Go (16 Go) - DDR4 3200 MHz - CL16",
     "image": "https://media.materiel.net/r250/products/MN0006159470.jpg"
    },
@@ -1164,7 +1164,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202105110033.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "Corsair Vengeance LPX White - 2 x 8 Go (16 Go) - DDR4 3200 MHz - CL16",
     "image": "https://media.materiel.net/r250/products/MN0005206370_1_0005215840_0005215845_0005833377.jpg"
    },
@@ -1174,13 +1174,13 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202108180055.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "Corsair Vengeance RGB RS - 2 x 8 Go (16 Go) - DDR4 3200 MHz - CL16",
     "image": "https://media.materiel.net/r250/products/MN0005872453_1.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-07T12:22:04Z"
+  "lastUpdated": "2026-11-07T21:25:06Z"
  },
  {
   "id": "ddr4_32_3600c16",
@@ -1193,7 +1193,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/201909300082.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Ripjaws V Black - 2 x 16 Go (32 Go) - DDR4 3600 MHz - CL16",
     "image": "https://media.materiel.net/r250/products/MN0005216361_1_0005216421_0005466207_0005467312_0005467334.jpg"
    },
@@ -1203,13 +1203,13 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202401310043.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "Kingston Fury Renegade - 2 x 16 Go (32 Go) - DDR4 3600 MHz - CL16",
     "image": "https://media.materiel.net/r250/products/MN0006106778.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-07T12:22:04Z"
+  "lastUpdated": "2026-11-07T21:25:06Z"
  },
  {
   "id": "ddr4_64_3200c16",
@@ -1222,13 +1222,13 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202011230071.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "Textorm - 4 x 16 Go (64 Go) - DDR4 3200 MHz - CL16",
     "image": "https://media.materiel.net/r250/products/MN0005755728_1_0005755729.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-07T12:22:04Z"
+  "lastUpdated": "2026-11-07T21:25:06Z"
  },
  {
   "id": "ddr5_16_4800c38",
@@ -1241,13 +1241,13 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202202230064.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "Kingston Fury Impact SO-DIMM - 2 x 8 Go (16 Go) - DDR5 4800 MHz - CL38",
     "image": "https://media.materiel.net/r250/products/MN0005973257.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-07T12:22:04Z"
+  "lastUpdated": "2026-11-07T21:25:06Z"
  },
  {
   "id": "ddr5_16_4800c40",
@@ -1260,7 +1260,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202206280090.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Ripjaws SO-DIMM - 1 x 16 Go (16 Go) - DDR5 4800 MHz - CL40",
     "image": "https://media.materiel.net/r250/products/MN0005978524.jpg"
    },
@@ -1270,7 +1270,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202206280082.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Ripjaws SO-DIMM - 2 x 16 Go (32 Go) - DDR5 4800 MHz - CL40",
     "image": "https://media.materiel.net/r250/products/MN0005973290.jpg"
    },
@@ -1280,13 +1280,13 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202204110114.html",
     "inStock": false,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "Corsair Vengeance SO-DIMM - 1 x 16 Go (16 Go) - DDR5 4800 MHz - CL40",
     "image": "https://media.materiel.net/r250/products/MN0005973216.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-07T12:22:04Z"
+  "lastUpdated": "2026-11-07T21:25:06Z"
  },
  {
   "id": "ddr5_16_5600c36",
@@ -1299,7 +1299,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202512220039.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Flare X5 - 2 x 8 Go (16 Go) - DDR5 5600 MHz - CL36",
     "image": "https://media.materiel.net/r250/products/MN0006160018_0006308312_0006308316.jpg"
    },
@@ -1309,7 +1309,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202209190025.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "Kingston Fury Beast - 1 x 16 Go (16 Go) - DDR5 5600 MHz - CL36",
     "image": "https://media.materiel.net/r250/products/MN0005982609.jpg"
    },
@@ -1319,7 +1319,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202209190029.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "Kingston Fury Beast RGB - 1 x 16 Go (16 Go) - DDR5 5600 MHz - CL36",
     "image": "https://media.materiel.net/r250/products/MN0005982588.jpg"
    },
@@ -1329,7 +1329,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202302020046.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "Kingston Fury Beast - 2 x 8 Go (16 Go) - DDR5 5600 MHz - CL36",
     "image": "https://media.materiel.net/r250/products/MN0006012795.jpg"
    },
@@ -1339,7 +1339,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202302020044.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "Kingston Fury Beast RGB - 2 x 8 Go (16 Go) - DDR5 5600 MHz - CL36",
     "image": "https://media.materiel.net/r250/products/MN0006012812.jpg"
    },
@@ -1349,7 +1349,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202209060012.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Flare X5 - 2 x 16 Go (32 Go) - DDR5 5600 MHz - CL36",
     "image": "https://media.materiel.net/r250/products/MN0006001785.jpg"
    },
@@ -1359,7 +1359,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202201120095.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Trident Z5 RGB Black - 2 x 16 Go (32 Go) - DDR5 5600 MHz - CL36",
     "image": "https://media.materiel.net/r250/products/MN0005902777_1_0005924181.jpg"
    },
@@ -1369,13 +1369,13 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202209190026.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "Kingston Fury Beast - 2 x 16 Go (32 Go) - DDR5 5600 MHz - CL36",
     "image": "https://media.materiel.net/r250/products/MN0005982605.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-07T12:22:04Z"
+  "lastUpdated": "2026-11-07T21:25:06Z"
  },
  {
   "id": "ddr5_16_6000c36",
@@ -1388,7 +1388,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202606220008.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "Textorm - 1 x 16 Go (16 Go) - DDR5 6000 MHz - CL36",
     "image": "https://media.materiel.net/r250/products/MN0006302820.jpg"
    },
@@ -1398,7 +1398,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202512080011.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "Textorm - 1 x 16 Go (16 Go) - DDR5 6000 MHz - CL36",
     "image": "https://media.materiel.net/r250/products/MN0006302820.jpg"
    },
@@ -1408,7 +1408,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202511200047.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Flare X5 - 16 Go - DDR5 6000 MHz - CL36 (Version Bulk)",
     "image": "https://media.materiel.net/r250/products/MN0006311713.jpg"
    },
@@ -1418,7 +1418,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202502160029.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Aegis 5 - 1 x 16 Go (16 Go) - DDR5 6000 MHz - CL36",
     "image": "https://media.materiel.net/r250/products/MN0006222183.jpg"
    },
@@ -1428,7 +1428,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202511200048.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "Corsair Vengeance RGB Black - 1 x 16 Go (16 Go) - DDR5 6000 MHz - CL36 - Intel (Version Bulk)",
     "image": "https://media.materiel.net/r250/products/MN0006243721_0006311798.jpg"
    },
@@ -1438,7 +1438,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202411130021.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "Kingston Fury Beast - 1 x 16 Go (16 Go) - DDR5 6000 MHz - CL36",
     "image": "https://media.materiel.net/r250/products/MN0006191514.jpg"
    },
@@ -1448,7 +1448,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202411130022.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "Kingston Fury Beast RGB - 1 x 16 Go (16 Go) - DDR5 6000 MHz - CL36",
     "image": "https://media.materiel.net/r250/products/MN0006191542.jpg"
    },
@@ -1458,13 +1458,13 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202605200069.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "Textorm - 2 x 16 Go (32 Go) - DDR5 6000 MHz - CL36",
     "image": "https://media.materiel.net/r250/products/MN0006346980.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-07T12:22:04Z"
+  "lastUpdated": "2026-11-07T21:25:06Z"
  },
  {
   "id": "ddr5_32_4800c40",
@@ -1477,7 +1477,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202206280082.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Ripjaws SO-DIMM - 2 x 16 Go (32 Go) - DDR5 4800 MHz - CL40",
     "image": "https://media.materiel.net/r250/products/MN0005973290.jpg"
    },
@@ -1487,7 +1487,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202206280084.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Ripjaws SO-DIMM - 1 x 32 Go (32 Go) - DDR5 4800 MHz - CL40",
     "image": "https://media.materiel.net/r250/products/MN0005973288.jpg"
    },
@@ -1497,13 +1497,13 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202206280059.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Ripjaws SO-DIMM - 2 x 32 Go (64 Go) - DDR5 4800 MHz - CL40",
     "image": "https://media.materiel.net/r250/products/MN0005973300.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-07T12:22:04Z"
+  "lastUpdated": "2026-11-07T21:25:06Z"
  },
  {
   "id": "ddr5_32_5200c40",
@@ -1516,7 +1516,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202502030078.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Flare X5 - 2 x 16 Go (32 Go) - DDR5 5200 MHz - CL40",
     "image": "https://media.materiel.net/r250/products/MN0006211240.jpg"
    },
@@ -1526,7 +1526,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202502160018.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Aegis 5 - 2 x 16 Go (32 Go) - DDR5 5200 MHz - CL40",
     "image": "https://media.materiel.net/r250/products/MN0006222295.jpg"
    },
@@ -1536,7 +1536,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202506230011.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "Kingston Fury Beast - 1 x 32 Go (32Go) - DDR5 5200 MHz - CL40",
     "image": "https://media.materiel.net/r250/products/MN0005946950_0006259602.jpg"
    },
@@ -1546,7 +1546,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202110120087.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "Kingston Fury Beast - 2 x 16 Go (32 Go) - DDR5 5200 MHz - CL40",
     "image": "https://media.materiel.net/r250/products/MN0005900659_1.jpg"
    },
@@ -1556,7 +1556,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202206080102.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "Kingston Fury Beast RGB - 2 x 16 Go (32 Go) - DDR5 5200 MHz - CL40",
     "image": "https://media.materiel.net/r250/products/MN0005959138_0005959149_0005959150.jpg"
    },
@@ -1566,7 +1566,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202305090049.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "Kingston Fury Beast White RGB - 2 x 16 Go (32 Go) - DDR5 5200 MHz - CL40",
     "image": "https://media.materiel.net/r250/products/MN0006036387.jpg"
    },
@@ -1576,7 +1576,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202209190024.html",
     "inStock": false,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "Corsair Vengeance Black - 2 x 16 Go (32 Go) - DDR5 5200 MHz - CL40 - Ryzen Edition",
     "image": "https://media.materiel.net/r250/products/MN0005982625.jpg"
    },
@@ -1586,99 +1586,19 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202502160021.html",
     "inStock": false,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Aegis 5 - 1 x 32 Go (32 Go) - DDR5 5200 MHz - CL40",
     "image": "https://media.materiel.net/r250/products/MN0006222284.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-07T13:04:10Z"
+  "lastUpdated": "2026-11-07T21:25:06Z"
  },
  {
   "id": "ddr5_32_5600c40",
   "name": "32 Go DDR5-5600 CL40",
   "priceMin": 496.29,
   "prices": [
-   {
-    "shop": "materiel.net",
-    "price": 697.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202506230027.html",
-    "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
-    "product": "Kingston Fury Beast - 1 x 32 Go (32Go) - DDR5 5600 MHz - CL40",
-    "image": "https://media.materiel.net/r250/products/MN0005946958_0006259649_0006259653.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 732.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202112140061.html",
-    "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
-    "product": "Kingston Fury Beast - 2 x 16 Go (32 Go) - DDR5 5600 MHz - CL40",
-    "image": "https://media.materiel.net/r250/products/MN0005900659_1_0005914760.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 742.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202204120090.html",
-    "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
-    "product": "Kingston Fury Beast - 1 x 32 Go (32Go) - DDR5 5600 MHz - CL40",
-    "image": "https://media.materiel.net/r250/products/MN0005946958.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 753.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202206080105.html",
-    "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
-    "product": "Kingston Fury Beast RGB - 2 x 16 Go (32 Go) - DDR5 5600 MHz - CL40",
-    "image": "https://media.materiel.net/r250/products/MN0005959138_0005959149_0005959155_0005959156.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 771.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202305090051.html",
-    "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
-    "product": "Kingston Fury Beast White RGB - 2 x 16 Go (32 Go) - DDR5 5600 MHz - CL40",
-    "image": "https://media.materiel.net/r250/products/MN0006036373.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 834.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202302020048.html",
-    "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
-    "product": "Kingston Fury Impact SO-DIMM - 2 x 16 Go (32 Go) - DDR5 5600 MHz - CL40",
-    "image": "https://media.materiel.net/r250/products/MN0006012844.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 849.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202502030182.html",
-    "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
-    "product": "Kingston Fury Impact SO-DIMM - 1 x 32 Go (32 Go) - DDR5 5600 MHz - CL40",
-    "image": "https://media.materiel.net/r250/products/MN0006211251.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 1373.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202506230029.html",
-    "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
-    "product": "Kingston FURY Beast RGB 2 x 32 Go (64 Go) DDR5 5600 MHz CL40",
-    "image": "https://media.materiel.net/r250/products/MN0006259719.jpg"
-   },
    {
     "shop": "amazon.com",
     "price": 535.99,
@@ -1688,10 +1608,90 @@
     "lastSeen": "2026-11-07T13:04:10Z",
     "product": "CORSAIR VENGEANCE RGB DDR5 32GB (2x16GB) DDR5 5600MHz CL40 AMD EXPO Intel XMP iCUE Compatible Computer Memory – Gray (CMH32GX5M2B5600Z40) : Electronics",
     "image": null
+   },
+   {
+    "shop": "materiel.net",
+    "price": 697.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202506230027.html",
+    "inStock": true,
+    "lastSeen": "2026-11-07T21:25:06Z",
+    "product": "Kingston Fury Beast - 1 x 32 Go (32Go) - DDR5 5600 MHz - CL40",
+    "image": "https://media.materiel.net/r250/products/MN0005946958_0006259649_0006259653.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 732.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202112140061.html",
+    "inStock": true,
+    "lastSeen": "2026-11-07T21:25:06Z",
+    "product": "Kingston Fury Beast - 2 x 16 Go (32 Go) - DDR5 5600 MHz - CL40",
+    "image": "https://media.materiel.net/r250/products/MN0005900659_1_0005914760.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 742.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202204120090.html",
+    "inStock": true,
+    "lastSeen": "2026-11-07T21:25:06Z",
+    "product": "Kingston Fury Beast - 1 x 32 Go (32Go) - DDR5 5600 MHz - CL40",
+    "image": "https://media.materiel.net/r250/products/MN0005946958.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 753.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202206080105.html",
+    "inStock": true,
+    "lastSeen": "2026-11-07T21:25:06Z",
+    "product": "Kingston Fury Beast RGB - 2 x 16 Go (32 Go) - DDR5 5600 MHz - CL40",
+    "image": "https://media.materiel.net/r250/products/MN0005959138_0005959149_0005959155_0005959156.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 771.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202305090051.html",
+    "inStock": true,
+    "lastSeen": "2026-11-07T21:25:06Z",
+    "product": "Kingston Fury Beast White RGB - 2 x 16 Go (32 Go) - DDR5 5600 MHz - CL40",
+    "image": "https://media.materiel.net/r250/products/MN0006036373.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 834.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202302020048.html",
+    "inStock": true,
+    "lastSeen": "2026-11-07T21:25:06Z",
+    "product": "Kingston Fury Impact SO-DIMM - 2 x 16 Go (32 Go) - DDR5 5600 MHz - CL40",
+    "image": "https://media.materiel.net/r250/products/MN0006012844.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 849.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202502030182.html",
+    "inStock": true,
+    "lastSeen": "2026-11-07T21:25:06Z",
+    "product": "Kingston Fury Impact SO-DIMM - 1 x 32 Go (32 Go) - DDR5 5600 MHz - CL40",
+    "image": "https://media.materiel.net/r250/products/MN0006211251.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 1373.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202506230029.html",
+    "inStock": true,
+    "lastSeen": "2026-11-07T21:25:06Z",
+    "product": "Kingston FURY Beast RGB 2 x 32 Go (64 Go) DDR5 5600 MHz CL40",
+    "image": "https://media.materiel.net/r250/products/MN0006259719.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-07T13:04:10Z"
+  "lastUpdated": "2026-11-07T21:25:06Z"
  },
  {
   "id": "ddr5_32_6000c36",
@@ -1704,7 +1704,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202605200069.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "Textorm - 2 x 16 Go (32 Go) - DDR5 6000 MHz - CL36",
     "image": "https://media.materiel.net/r250/products/MN0006346980.jpg"
    },
@@ -1714,7 +1714,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202209060014.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Flare X5 - 2 x 16 Go (32 Go) - DDR5 6000 MHz - CL36",
     "image": "https://media.materiel.net/r250/products/MN0006001781.jpg"
    },
@@ -1724,7 +1724,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202502160031.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Aegis 5 - 1 x 32 Go (32 Go) - DDR5 6000 MHz - CL36",
     "image": "https://media.materiel.net/r250/products/MN0006222169.jpg"
    },
@@ -1734,7 +1734,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202409240025.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Ripjaws M5 Neo RGB Black - 2 x 16 Go (32 Go) - DDR5 6000 MHz - CL36",
     "image": "https://media.materiel.net/r250/products/MN0006182331.jpg"
    },
@@ -1744,7 +1744,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202409240023.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Ripjaws M5 RGB Black - 2 x 16 Go (32 Go) - DDR5 6000 MHz - CL36",
     "image": "https://media.materiel.net/r250/products/MN0006182346.jpg"
    },
@@ -1754,7 +1754,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202209060031.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Trident Z5 Neo RGB Black - 2 x 16 Go (32 Go) - DDR5 6000 MHz - CL36",
     "image": "https://media.materiel.net/r250/products/MN0006001760.jpg"
    },
@@ -1764,7 +1764,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202409240022.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Ripjaws M5 RGB White - 2 x 16 Go (32 Go) - DDR5 6000 MHz - CL36",
     "image": "https://media.materiel.net/r250/products/MN0006182369.jpg"
    },
@@ -1774,13 +1774,13 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202409240024.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Ripjaws M5 Neo RGB White - 2 x 16 Go (32 Go) - DDR5 6000 MHz - CL36",
     "image": "https://media.materiel.net/r250/products/MN0006182364.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-07T12:22:04Z"
+  "lastUpdated": "2026-11-07T21:25:06Z"
  },
  {
   "id": "ddr5_32_6000c32",
@@ -1793,7 +1793,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202209060016.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Flare X5 - 2 x 16 Go (32 Go) - DDR5 6000 MHz - CL32",
     "image": "https://media.materiel.net/r250/products/MN0006001779.jpg"
    },
@@ -1803,7 +1803,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202405200012.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Ripjaws M5 RGB Black - 2 x 16 Go (32 Go) - DDR5 6000 MHz - CL32",
     "image": "https://media.materiel.net/r250/products/MN0006139557.jpg"
    },
@@ -1813,7 +1813,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202204200062.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Trident Z5 RGB Silver - 2 x 16 Go (32 Go) - DDR5 6000 MHz - CL32",
     "image": "https://media.materiel.net/r250/products/MN0005902778_1_0005907485_0005948096.jpg"
    },
@@ -1823,7 +1823,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202204200063.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Trident Z5 RGB Black - 2 x 16 Go (32 Go) - DDR5 6000 MHz - CL32",
     "image": "https://media.materiel.net/r250/products/MN0005902777_1_0005902783_0005907486_0005907488_0005924191_0005924202_0005948097.jpg"
    },
@@ -1833,7 +1833,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202405200011.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Ripjaws M5 RGB White - 2 x 16 Go (32 Go) - DDR5 6000 MHz - CL32",
     "image": "https://media.materiel.net/r250/products/MN0006139548.jpg"
    },
@@ -1843,39 +1843,19 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202405200015.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Ripjaws M5 RGB White - 2 x 32 Go (64 Go) - DDR5 6000 MHz - CL32",
     "image": "https://media.materiel.net/r250/products/MN0006139653.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-07T12:22:04Z"
+  "lastUpdated": "2026-11-07T21:25:06Z"
  },
  {
   "id": "ddr5_32_7600c36",
   "name": "32 Go DDR5-7600 CL36",
   "priceMin": 1214.95,
   "prices": [
-   {
-    "shop": "materiel.net",
-    "price": 1214.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202405280042.html",
-    "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
-    "product": "G.Skill Trident Z5 Black - 2 x 16 Go (32 Go) - DDR5 7600 MHz - CL36",
-    "image": "https://media.materiel.net/r250/products/MN0006139973.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 1399.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202405200028.html",
-    "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
-    "product": "G.Skill Trident Z5 Royal - 2 x 16 Go (32 Go) - DDR5 7600 MHz - CL36",
-    "image": "https://media.materiel.net/r250/products/MN0006140254.jpg"
-   },
    {
     "shop": "amazon.com",
     "price": 1427.82,
@@ -1885,10 +1865,30 @@
     "lastSeen": "2026-11-07T13:04:10Z",
     "product": "32GB G.Skill DDR5 Trident Z5 RGB 7600MHz CL36 1.40V Dual Channel Kit 2X 16GB Black : Electronics",
     "image": null
+   },
+   {
+    "shop": "materiel.net",
+    "price": 1214.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202405280042.html",
+    "inStock": true,
+    "lastSeen": "2026-11-07T21:25:06Z",
+    "product": "G.Skill Trident Z5 Black - 2 x 16 Go (32 Go) - DDR5 7600 MHz - CL36",
+    "image": "https://media.materiel.net/r250/products/MN0006139973.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 1399.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202405200028.html",
+    "inStock": true,
+    "lastSeen": "2026-11-07T21:25:06Z",
+    "product": "G.Skill Trident Z5 Royal - 2 x 16 Go (32 Go) - DDR5 7600 MHz - CL36",
+    "image": "https://media.materiel.net/r250/products/MN0006140254.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-07T13:04:10Z"
+  "lastUpdated": "2026-11-07T21:25:06Z"
  },
  {
   "id": "ddr5_48_5600c40",
@@ -1911,7 +1911,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202302160065.html",
     "inStock": false,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "Corsair Vengeance Black  - 2 x 48 Go (96 Go) - DDR5 5600 MHz - CL40",
     "image": "https://media.materiel.net/r250/products/MN0006022397.jpg"
    },
@@ -1921,13 +1921,13 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202302160061.html",
     "inStock": false,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "Corsair Vengeance RGB Black - 2 x 48 Go (96 Go) - DDR5 5600 MHz - CL40",
     "image": "https://media.materiel.net/r250/products/MN0006022447.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-07T13:04:10Z"
+  "lastUpdated": "2026-11-07T22:08:22Z"
  },
  {
   "id": "ddr5_64_5600c40",
@@ -1940,13 +1940,13 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202506230029.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "Kingston FURY Beast RGB 2 x 32 Go (64 Go) DDR5 5600 MHz CL40",
     "image": "https://media.materiel.net/r250/products/MN0006259719.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-07T12:22:04Z"
+  "lastUpdated": "2026-11-07T21:25:06Z"
  },
  {
   "id": "ddr5_64_6400c32",
@@ -1969,39 +1969,19 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202303060076.html",
     "inStock": true,
-    "lastSeen": "2026-11-07T12:22:04Z",
+    "lastSeen": "2026-11-07T21:25:06Z",
     "product": "G.Skill Ripjaws S5 Black - 2 x 32 Go (64 Go) - DDR5 6400 MHz - CL32",
     "image": "https://media.materiel.net/r250/products/MN0006022084.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-07T12:22:04Z"
+  "lastUpdated": "2026-11-07T21:25:06Z"
  },
  {
   "id": "ddr5_96_5600c40",
   "name": "96 Go DDR5-5600 CL40",
   "priceMin": 1759.25,
   "prices": [
-   {
-    "shop": "materiel.net",
-    "price": 1689.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202302160065.html",
-    "inStock": false,
-    "lastSeen": "2026-11-07T12:22:04Z",
-    "product": "Corsair Vengeance Black  - 2 x 48 Go (96 Go) - DDR5 5600 MHz - CL40",
-    "image": "https://media.materiel.net/r250/products/MN0006022397.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 1723.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202302160061.html",
-    "inStock": false,
-    "lastSeen": "2026-11-07T12:22:04Z",
-    "product": "Corsair Vengeance RGB Black - 2 x 48 Go (96 Go) - DDR5 5600 MHz - CL40",
-    "image": "https://media.materiel.net/r250/products/MN0006022447.jpg"
-   },
    {
     "shop": "amazon.com",
     "price": 1899.99,
@@ -2011,10 +1991,30 @@
     "lastSeen": "2026-11-07T13:04:10Z",
     "product": "CORSAIR VENGEANCE DDR5 RAM 96GB (2x48GB) 5600MHz CL40 Intel XMP iCUE Compatible Computer Memory - Black (CMK96GX5M2B5600C40) at Amazon.com",
     "image": null
+   },
+   {
+    "shop": "materiel.net",
+    "price": 1689.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202302160065.html",
+    "inStock": false,
+    "lastSeen": "2026-11-07T21:25:06Z",
+    "product": "Corsair Vengeance Black  - 2 x 48 Go (96 Go) - DDR5 5600 MHz - CL40",
+    "image": "https://media.materiel.net/r250/products/MN0006022397.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 1723.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202302160061.html",
+    "inStock": false,
+    "lastSeen": "2026-11-07T21:25:06Z",
+    "product": "Corsair Vengeance RGB Black - 2 x 48 Go (96 Go) - DDR5 5600 MHz - CL40",
+    "image": "https://media.materiel.net/r250/products/MN0006022447.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-07T13:04:10Z"
+  "lastUpdated": "2026-11-07T21:25:06Z"
  },
  {
   "id": "ddr4_16_3000c16",
@@ -2113,13 +2113,13 @@
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B0F79XH4T7?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-06T23:28:33Z",
+    "lastSeen": "2026-11-07T22:08:22Z",
     "product": "G.SKILL Trident Z5 Neo RGB Series DDR5 RAM (AMD EXPO) 96 GB (2 x 48 GB) hasta 6000 MT/s* CL26-36-36-96 1.45V Memoria de computadora de escritorio U-DIMM - Blanco mate (F5-6000J2636H48GX2-TZ5NRW)",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-06T23:28:33Z"
+  "lastUpdated": "2026-11-07T22:08:22Z"
  },
  {
   "id": "ddr4_16_3600c14",

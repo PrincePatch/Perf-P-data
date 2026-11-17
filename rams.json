@@ -90,29 +90,19 @@
     "currency": "GBP",
     "url": "https://www.amazon.co.uk/dp/B0143UM4TC?tag=fraym0a-21",
     "inStock": true,
-    "lastSeen": "2026-11-17T02:07:44Z",
+    "lastSeen": "2026-11-17T16:12:40Z",
     "product": "CORSAIR VENGEANCE LPX DDR4 RAM 16GB (2x8GB) Up to 3200MHz CL16 Intel XMP AMD EXPO Computer Memory – Black (CMK16GX4M2B3200C16)",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-17T02:07:44Z"
+  "lastUpdated": "2026-11-17T16:12:40Z"
  },
  {
   "id": "ddr4_32_3200c16",
   "name": "32 Go DDR4-3200 CL16",
   "priceMin": 196.71,
   "prices": [
-   {
-    "shop": "amazon.de",
-    "price": 201.67,
-    "currency": "EUR",
-    "url": "https://www.amazon.de/dp/B07RW6Z692?tag=fraym03-21",
-    "inStock": true,
-    "lastSeen": "2026-11-16T05:08:02Z",
-    "product": "Corsair Vengeance LPX DDR4 RAM 32GB Bis zu 3200MHz CL16 Intel XMP 2.0 Computerspeicher - Schwarz",
-    "image": null
-   },
    {
     "shop": "materiel.net",
     "price": 319.94,
@@ -194,16 +184,6 @@
     "image": "https://media.materiel.net/r250/products/MN0006103874.jpg"
    },
    {
-    "shop": "amazon.com",
-    "price": 278.49,
-    "currency": "USD",
-    "url": "https://www.amazon.com/dp/B07RW6Z692?tag=fraym-20",
-    "inStock": true,
-    "lastSeen": "2026-11-16T15:22:15Z",
-    "product": "CORSAIR Vengeance LPX DDR4 RAM 32GB (2x16GB) Up to 3200MHz CL16-20-20-38 1.35V Intel XMP AMD EXPO Computer Memory – Black (CMK32GX4M2E3200C16) at Amazon.com",
-    "image": null
-   },
-   {
     "shop": "amazon.it",
     "price": 196.71,
     "currency": "EUR",
@@ -215,17 +195,37 @@
    },
    {
     "shop": "amazon.co.uk",
-    "price": 199.17,
+    "price": 199.99,
     "currency": "GBP",
     "url": "https://www.amazon.co.uk/dp/B07RW6Z692?tag=fraym0a-21",
     "inStock": true,
-    "lastSeen": "2026-11-17T02:07:44Z",
+    "lastSeen": "2026-11-17T16:12:40Z",
     "product": "CORSAIR VENGEANCE LPX DDR4 RAM 32GB (2x16GB) Up to 3200MHz CL16-20-20-38 1.35V Intel XMP AMD EXPO Computer Memory – Black (CMK32GX4M2E3200C16)",
+    "image": null
+   },
+   {
+    "shop": "amazon.com",
+    "price": 315.0,
+    "currency": "USD",
+    "url": "https://www.amazon.com/dp/B07RW6Z692?tag=fraym-20",
+    "inStock": true,
+    "lastSeen": "2026-11-17T16:12:40Z",
+    "product": "CORSAIR Vengeance LPX DDR4 RAM 32GB (2x16GB) Up to 3200MHz CL16-20-20-38 1.35V Intel XMP AMD EXPO Computer Memory – Black (CMK32GX4M2E3200C16) at Amazon.com",
+    "image": null
+   },
+   {
+    "shop": "amazon.de",
+    "price": 201.67,
+    "currency": "EUR",
+    "url": "https://www.amazon.de/dp/B07RW6Z692?tag=fraym03-21",
+    "inStock": true,
+    "lastSeen": "2026-11-17T16:12:40Z",
+    "product": "Corsair Vengeance LPX DDR4 RAM 32GB Bis zu 3200MHz CL16 Intel XMP 2.0 Computerspeicher - Schwarz",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-17T02:07:44Z"
+  "lastUpdated": "2026-11-17T16:12:40Z"
  },
  {
   "id": "ddr4_32_3600c18",
@@ -283,16 +283,6 @@
     "image": "https://media.materiel.net/r250/products/MN0006138094.jpg"
    },
    {
-    "shop": "amazon.com",
-    "price": 268.02,
-    "currency": "USD",
-    "url": "https://www.amazon.com/dp/B07Z87ZMN3?tag=fraym-20",
-    "inStock": true,
-    "lastSeen": "2026-11-16T15:22:15Z",
-    "product": "G.Skill DDR4 32GB PC 3600 CL18 KIT (2x16GB) 32GTZR Tri/RGB at Amazon.com",
-    "image": null
-   },
-   {
     "shop": "amazon.fr",
     "price": 261.66,
     "currency": "EUR",
@@ -301,10 +291,20 @@
     "lastSeen": "2026-11-16T15:22:15Z",
     "product": "G.Skill Trident Z RGB F4-3600C18D-32GTZR Module de mémoire 32 Go 2 x 16 Go DDR4 3600 MHz",
     "image": null
+   },
+   {
+    "shop": "amazon.com",
+    "price": 268.02,
+    "currency": "USD",
+    "url": "https://www.amazon.com/dp/B07Z87ZMN3?tag=fraym-20",
+    "inStock": true,
+    "lastSeen": "2026-11-17T16:12:40Z",
+    "product": "G.Skill DDR4 32GB PC 3600 CL18 KIT (2x16GB) 32GTZR Tri/RGB at Amazon.com",
+    "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-16T15:22:15Z"
+  "lastUpdated": "2026-11-17T16:12:40Z"
  },
  {
   "id": "ddr5_16_5200c40",
@@ -486,13 +486,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0BHVFDP42?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-17T02:07:44Z",
+    "lastSeen": "2026-11-17T16:12:40Z",
     "product": "CORSAIR VENGEANCE RGB DDR5 32GB (2x16GB) DDR5 5600MHz CL36 AMD EXPO Intel XMP iCUE Compatible Computer Memory – Gray (CMH32GX5M2B5600Z36K) at Amazon.com",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-17T02:07:44Z"
+  "lastUpdated": "2026-11-17T16:12:40Z"
  },
  {
   "id": "ddr5_32_6000c30",
@@ -797,7 +797,7 @@
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-17T02:07:44Z"
+  "lastUpdated": "2026-11-17T16:12:40Z"
  },
  {
   "id": "ddr5_32_8000c38",
@@ -963,16 +963,6 @@
     "image": "https://media.materiel.net/r250/products/MN0006222381_0006232306.jpg"
    },
    {
-    "shop": "amazon.com",
-    "price": 1377.21,
-    "currency": "USD",
-    "url": "https://www.amazon.com/dp/B0DV9PLPBL?tag=fraym-20",
-    "inStock": true,
-    "lastSeen": "2026-11-16T15:22:15Z",
-    "product": "GSKILL F5-6000J2836G16GX2-TR5NS 32GB DDR5 6000MHz CL36 EAN Brand 4713294236753 at Amazon.com",
-    "image": null
-   },
-   {
     "shop": "amazon.fr",
     "price": 1212.79,
     "currency": "EUR",
@@ -981,10 +971,20 @@
     "lastSeen": "2026-11-17T02:07:44Z",
     "product": "GSKILL Mémoire RAM F5-6000J2836G16GX2-TR5NS 32 Go DDR5 6000 MHz CL36 - Marque EAN : 4713294236753",
     "image": null
+   },
+   {
+    "shop": "amazon.com",
+    "price": 1377.21,
+    "currency": "USD",
+    "url": "https://www.amazon.com/dp/B0DV9PLPBL?tag=fraym-20",
+    "inStock": true,
+    "lastSeen": "2026-11-17T16:12:40Z",
+    "product": "GSKILL F5-6000J2836G16GX2-TR5NS 32GB DDR5 6000MHz CL36 EAN Brand 4713294236753 at Amazon.com",
+    "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-17T02:07:44Z"
+  "lastUpdated": "2026-11-17T16:12:40Z"
  },
  {
   "id": "ddr5_32_6400c30",
@@ -1053,7 +1053,7 @@
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-17T02:07:44Z"
+  "lastUpdated": "2026-11-17T16:12:40Z"
  },
  {
   "id": "ddr5_64_6000c32",
@@ -1732,7 +1732,7 @@
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-17T02:07:44Z"
+  "lastUpdated": "2026-11-17T16:12:40Z"
  },
  {
   "id": "ddr5_32_5600c40",
@@ -1825,13 +1825,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0CJ92G4RR?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-16T15:22:15Z",
+    "lastSeen": "2026-11-17T16:12:40Z",
     "product": "CORSAIR VENGEANCE RGB DDR5 32GB (2x16GB) DDR5 5600MHz CL40 AMD EXPO Intel XMP iCUE Compatible Computer Memory – Gray (CMH32GX5M2B5600Z40) : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-16T15:22:15Z"
+  "lastUpdated": "2026-11-17T16:12:40Z"
  },
  {
   "id": "ddr5_32_6000c36",
@@ -2125,7 +2125,7 @@
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-17T02:07:44Z"
+  "lastUpdated": "2026-11-17T16:12:40Z"
  },
  {
   "id": "ddr5_96_5600c40",
@@ -2158,13 +2158,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0BVN1FLKN?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-17T02:07:44Z",
+    "lastSeen": "2026-11-17T16:12:40Z",
     "product": "CORSAIR VENGEANCE DDR5 RAM 96GB (2x48GB) 5600MHz CL40 Intel XMP iCUE Compatible Computer Memory - Black (CMK96GX5M2B5600C40) at Amazon.com",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-17T02:07:44Z"
+  "lastUpdated": "2026-11-17T16:12:40Z"
  },
  {
   "id": "ddr4_16_3000c16",
@@ -2187,13 +2187,13 @@
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B01IW7Z66U?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-16T15:22:15Z",
+    "lastSeen": "2026-11-17T16:12:40Z",
     "product": "G.Skill Aegis - Memoria para Ordenador (16 GB (2 x 8 GB) DDR4 3000 MHz, CL16, 2 módulos de RAM DDR4 PC4-24000, F4-3000C16D-16GISB",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-16T15:22:15Z"
+  "lastUpdated": "2026-11-17T16:12:40Z"
  },
  {
   "id": "ddr4_32_3200c14",
@@ -2211,16 +2211,6 @@
     "image": null
    },
    {
-    "shop": "amazon.com",
-    "price": 320.0,
-    "currency": "USD",
-    "url": "https://www.amazon.com/dp/B07RDCXGVD?tag=fraym-20",
-    "inStock": true,
-    "lastSeen": "2026-11-16T15:22:15Z",
-    "product": "Trident Z Royal 32 Go (2X 16 Go) DDR4 3200 MHz CL16 - Argent at Amazon.com",
-    "image": null
-   },
-   {
     "shop": "amazon.fr",
     "price": 857.56,
     "currency": "EUR",
@@ -2229,10 +2219,20 @@
     "lastSeen": "2026-11-17T02:07:44Z",
     "product": "G.Skill Kit Barrettes mémoire 32Go (2x16Go) DIMM DDR4 Trident Z Royal RGB PC4-25600 (3200 MHz) (Blanc) F4-3200C16D-32GTRS",
     "image": null
+   },
+   {
+    "shop": "amazon.com",
+    "price": 320.0,
+    "currency": "USD",
+    "url": "https://www.amazon.com/dp/B07RDCXGVD?tag=fraym-20",
+    "inStock": true,
+    "lastSeen": "2026-11-17T16:12:40Z",
+    "product": "Trident Z Royal 32 Go (2X 16 Go) DDR4 3200 MHz CL16 - Argent at Amazon.com",
+    "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-17T02:07:44Z"
+  "lastUpdated": "2026-11-17T16:12:40Z"
  },
  {
   "id": "ddr5_32_6400c34",
@@ -2245,13 +2245,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0BT85LK5P?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-16T15:22:15Z",
+    "lastSeen": "2026-11-17T16:12:40Z",
     "product": "Patriot Viper Venom RGB DDR5 RAM 32GB (2X16GB) 6400MHz CL32 RGB Memory | Voltage: 1.4v; Supports Intel XMP; Module type: UDIMM. at Amazon.com",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-16T15:22:15Z"
+  "lastUpdated": "2026-11-17T16:12:40Z"
  },
  {
   "id": "ddr5_32_7200c36",
@@ -2293,13 +2293,13 @@
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B0F79XH4T7?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-16T15:22:15Z",
+    "lastSeen": "2026-11-17T16:12:40Z",
     "product": "G.SKILL Trident Z5 Neo RGB Series DDR5 RAM (AMD EXPO) 96 GB (2 x 48 GB) hasta 6000 MT/s* CL26-36-36-96 1.45V Memoria de computadora de escritorio U-DIMM - Blanco mate (F5-6000J2636H48GX2-TZ5NRW)",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-16T15:22:15Z"
+  "lastUpdated": "2026-11-17T16:12:40Z"
  },
  {
   "id": "ddr4_16_3600c14",

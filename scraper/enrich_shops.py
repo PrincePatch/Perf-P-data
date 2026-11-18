@@ -13,10 +13,15 @@ Les ventilateurs (`fans.json`) ne font PAS partie de l'étape : le catalogue les
 vend par lots (« Arctic P12 (×3) ») quand les boutiques vendent l'unité, et
 l'app ne lit pas d'offres par id pour eux.
 
-REMPLACEMENT PAR BOUTIQUE (18/11/2026). Quand une boutique RÉPOND pour un
-composant (liste de résultats, fiche produit ou « aucun résultat » explicite),
-ses anciennes offres pour ce composant sont REMPLACÉES par les nouvelles :
-celles qui ne sont plus trouvées disparaissent. Une boutique en échec (403,
+REMPLACEMENT PAR BOUTIQUE (18/11/2026). Quand une boutique TROUVE au moins une
+offre pour un composant, ses anciennes offres pour ce composant sont
+REMPLACÉES par les nouvelles : celles qui ne sont plus trouvées disparaissent.
+Quand elle ne trouve RIEN (« aucun résultat », aucune correspondance), ses
+anciennes offres sont gardées : le premier run en production a montré qu'une
+page servie différemment aux serveurs de GitHub (Alternate : 2 correspondances
+sur 528) passait pour « aucun résultat » et vidait la boutique d'un coup (474
+offres retirées). La purge par âge (72 h) retire de toute façon une offre qui
+n'est plus jamais revue. Une boutique en échec (403,
 429, délai, page non reconnue), coupée ou non visitée faute de temps GARDE ses
 anciennes offres : c'est la purge par âge de `nettoyer_offres` qui les
 retire. Avant, un composant sans nouvelle offre gardait TOUTES ses anciennes
@@ -359,7 +364,11 @@ def fusionner_offres(entree, domaine, nouvelles, quand, domaines_directs):
     anciennes = entree.get("prices") or []
     autres = [p for p in anciennes if not _de_la_boutique(p, domaine)]
     retirees = len(anciennes) - len(autres)
-    if not nouvelles and not retirees:  # rien à changer
+    if not nouvelles:
+        # Rien trouvé : on ne retire RIEN. Une panne silencieuse (page servie
+        # autrement aux robots, nouvelle mise en page lue comme « aucun
+        # résultat ») viderait sinon la boutique entière ; la purge par âge
+        # de `nettoyer_offres` (72 h) se charge des offres jamais revues.
         return 0, 0
     directes = [p for p in autres if any(_de_la_boutique(p, d) for d in domaines_directs)]
     if nouvelles and directes:

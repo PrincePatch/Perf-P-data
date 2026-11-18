@@ -158,6 +158,8 @@ _BUNDLE_AMZ = (
     "pc de bureau", "tour gaming", "gaming desktop", "workstation pc",
     "unite centrale", "pc complet", "pc monte",
 )
+_BUNDLE_AMZ_RAM_SSD = tuple(m for m in _BUNDLE_AMZ
+                            if m not in ("memory pc", "pc de bureau"))
 
 # Un vrai composant ne mentionne pas les caractéristiques d'une AUTRE pièce
 # maîtresse : un processeur vendu seul n'annonce ni « RTX » ni « 32 GB DDR5 »,
@@ -199,7 +201,15 @@ def _neutraliser(titre):
 def suspect_amazon(cat, titre):
     """Bundle ou machine montée déguisé en composant, dans un titre Amazon."""
     plat = _norm_espace(titre)
-    if any(m in plat for m in _BUNDLE_AMZ):
+    # Mémoire et SSD : « Mémoire pour PC de bureau », « Desktop Memory PC »
+    # disent la machine cible, pas un PC monté (faux rejets du 18/11/2026).
+    mots = _BUNDLE_AMZ_RAM_SSD if cat in ("rams", "ssds") else _BUNDLE_AMZ
+    if any(m in plat for m in mots):
+        return True
+    # … mais « PC de bureau » non précédé de « pour » reste un PC monté
+    # (« PC de bureau gaming Ryzen 7 avec 32 Go DDR5 »).
+    if (cat in ("rams", "ssds") and "pc de bureau" in plat
+            and not re.search(r"\b(?:pour|for|fur|per|para)\s+(?:(?:un|le|les|la)\s+)?pc de bureau", plat)):
         return True
     motif = _HORS_CAT.get(cat)
     return bool(motif and motif.search(titre))
@@ -738,11 +748,21 @@ _LABEL_80 = re.compile(
     rf"|\b({_NOMS_LABEL})\s*-?\s*80\s*(?:\+|plus)", re.I)
 
 
+# Label cité SANS « 80 PLUS » devant : « ASUS ROG Strix - 1000W Platinum ».
+# « Or » et « argent » restent exclus (trop courants hors label), et un label
+# Cybenetics (« Cybenetics Platinum ») n'est pas un label 80 PLUS.
+_LABELS_SEULS = {"bronze", "silver", "gold", "platinum", "platine", "titanium", "titane"}
+
+
 def label_coherent(fiche, titre):
     voulu = (fiche.get("rating") or "").lower().replace("80+", "").strip()
     if not voulu:
         return True
     trouves = {_LABELS[(a or b).lower()] for a, b in _LABEL_80.findall(titre)}
+    if not trouves:
+        mots = _mots(titre)
+        trouves = {_LABELS[m] for k, m in enumerate(mots)
+                   if m in _LABELS_SEULS and not (k and mots[k - 1] == "cybenetics")}
     return not trouves or voulu in trouves
 
 
@@ -751,18 +771,27 @@ def label_coherent(fiche, titre):
 # (« RTX 6000 Ada » ≠ « Quadro RTX 6000 » de 2018, « RTX 4000 Ada » ≠ « RTX
 # A4000 »). La tolérance de `correspond` reste pour les noms de gamme que les
 # vendeurs omettent (« GeForce », « Radeon »).
+# La mémoire s'écrit aussi collée au code du modèle : « RX570-O8G » (O = OC),
+# « 08G », « 8G ».
+# « SFF » désigne une VERSION compacte (« RTX 4000 SFF Ada », 70 W) ; « SFF-
+# Ready » ne fait que dire qu'une carte normale entre dans un petit boîtier.
 _GPU_FACULTATIFS = {"geforce", "radeon", "arc", "nvidia", "amd", "intel"}
+_MEMOIRE_GPU = re.compile(r"(?<![a-z0-9])o?0?(\d{1,2})\s?(?:gb|go|g)\b")
+_GPU_COMPACTE = re.compile(r"\b(?:sff|small form factor)\b(?! ready)")
 
 
 def carte_graphique_coherente(nom_app, titre, fiche):
     texte = " ".join(_mots(titre))
-    for mot in _mots(nom_app):
+    nom = _mots(nom_app)
+    for mot in nom:
         if mot.isalpha() and len(mot) >= 3 and mot not in _GPU_FACULTATIFS:
             if not re.search(rf"(?<![a-z]){mot}(?![a-z])", texte):
                 return False
+    if "sff" not in nom and _GPU_COMPACTE.search(texte):
+        return False
     vram = fiche.get("vramGb")
     if vram:
-        trouves = {int(x) for x in re.findall(r"\b(\d{1,2})\s?(?:gb|go|g)\b", texte)}
+        trouves = {int(x) for x in _MEMOIRE_GPU.findall(texte)}
         if trouves and int(vram) not in trouves:
             return False
     return True
@@ -808,9 +837,15 @@ def memoire_coherente(nom_app, titre):
 
 
 # Stockage : disque INTERNE du type du catalogue, à la bonne vitesse de
-# rotation (« WD Blue 2 To Mobile … 5400 RPM » ≠ WD Blue 7200 tr/min ; un
-# disque dur externe USB-C ou un SSD NVMe ne remplacent pas un disque dur).
+# rotation (« WD Blue 2 To Mobile … 5400 RPM », « WD20EZAZ … 5400 tours/min »
+# ≠ WD Blue 7200 tr/min ; un disque dur externe USB-C ou un SSD NVMe ne
+# remplacent pas un disque dur).
 _EXTERNE = re.compile(r"\b(externe?|external|esterno|externo|usb c|usb 3)\b")
+# Un disque dur de 2,5 pouces est un disque de portable (5400 tr/min) : le
+# « FireCuda 2 To » à 7200 tr/min du catalogue est le 3,5 pouces. Cherché sur
+# le titre BRUT, où le guillemet des pouces existe encore.
+_FORMAT_25 = re.compile(
+    r"\b2[.,]5\s?(?:\"|''|”|″|pouces?|inch|in\b|zoll|pollici|pulgadas|-inch)", re.I)
 
 
 def stockage_coherent(nom_app, titre, fiche):
@@ -823,8 +858,11 @@ def stockage_coherent(nom_app, titre, fiche):
     if voulu:
         # « 7 200 tr/min » s'écrit avec une espace de milliers.
         texte = re.sub(r"\b(\d) (\d{3})\b", r"\1\2", texte)
-        trouves = set(re.findall(r"\b(\d{4,5})\s?(?:rpm|tr|u min|giri)\b", texte))
+        trouves = set(re.findall(
+            r"\b(\d{4,5})\s?(?:rpm|tr|tours?|u min|upm|giri)\b", texte))
         if trouves and voulu.group(1) not in trouves:
+            return False
+        if voulu.group(1) == "7200" and _FORMAT_25.search(titre):
             return False
     return True
 

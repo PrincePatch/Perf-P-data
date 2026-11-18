@@ -325,19 +325,21 @@ class TestFusion(unittest.TestCase):
         self.assertEqual(e["priceMin"], 990.0)
         self.assertEqual(e["lastUpdated"], "Q")
 
-    def test_offre_plus_trouvee_disparait(self):
+    def test_rien_trouve_garde_les_anciennes_offres(self):
+        # Une page servie autrement aux robots passait pour « aucun résultat »
+        # et vidait la boutique (Alternate, 474 offres, 18/11/2026) : rien
+        # trouvé ne retire rien, la purge par âge s'en charge.
         e = self.entree()
-        self.assertEqual(es.fusionner_offres(e, "ldlc.com", [], "Q", DIRECTS), (0, 1))
-        self.assertNotIn("ldlc.com", [p["shop"] for p in e["prices"]])
-        self.assertEqual(e["priceMin"], 1000.0)
+        avant = json.dumps(e)
+        self.assertEqual(es.fusionner_offres(e, "ldlc.com", [], "Q", DIRECTS), (0, 0))
+        self.assertEqual(json.dumps(e), avant)
 
-    def test_derniere_offre_retiree_price_min_null(self):
+    def test_seule_offre_gardee_si_rien_trouve(self):
         e = {"id": "x", "name": "X", "priceMin": 50.0, "image": "images/x.jpg",
              "prices": [publiee("Seule", 50.0, "ldlc.com")]}
         es.fusionner_offres(e, "ldlc.com", [], "Q", DIRECTS)
-        self.assertEqual(e["prices"], [])
-        self.assertIsNone(e["priceMin"])
-        self.assertEqual(e["image"], "images/x.jpg")
+        self.assertEqual([p["shop"] for p in e["prices"]], ["ldlc.com"])
+        self.assertEqual(e["priceMin"], 50.0)
 
     def test_rien_a_changer(self):
         e = self.entree()
@@ -464,9 +466,10 @@ class TestPassage(unittest.TestCase):
         # RTX 5070 : nouvelle offre de A, l'offre de B (en échec) est gardée.
         self.assertEqual(sorted(p["shop"] for p in gpus["rtx5070"]["prices"]),
                          ["boutique-a.fr", "boutique-b.fr"])
-        # RTX 5080 : l'ancienne offre de A disparaît, celle d'Amazon reste.
-        self.assertEqual([p["shop"] for p in gpus["rtx5080"]["prices"]], ["amazon.fr"])
-        self.assertEqual(gpus["rtx5080"]["priceMin"], 1400.0)
+        # RTX 5080 : A ne trouve plus rien → son ancienne offre est GARDÉE
+        # (la purge par âge la retirera si elle n'est jamais revue).
+        self.assertEqual([p["shop"] for p in gpus["rtx5080"]["prices"]],
+                         ["boutique-a.fr", "amazon.fr"])
         coolers = {e["id"]: e for e in self.lire("coolers.json")}
         self.assertIn("nh-d15", coolers)
         # Le refroidisseur livré avec le processeur n'est jamais recherché.

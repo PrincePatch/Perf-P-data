@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T11:53:44Z",
+ "generated": "2026-11-18T12:10:34Z",
  "markets": [
   "amazon.fr",
   "amazon.de",
@@ -9,8 +9,8 @@
   "amazon.com",
   "amazon.com.au"
  ],
- "nativeLinks": 2197,
- "onelinkLinks": 1170,
+ "nativeLinks": 2207,
+ "onelinkLinks": 1188,
  "note": "Liens d'affiliation Amazon pre-calcules vers la FICHE PRODUIT (/dp/<ASIN>), utilises par l'app quand aucune offre Amazon verifiee n'est disponible. ASIN valides sur la fiche Amazon elle-meme ; les marketplaces sans fiche recoivent le lien d'une marketplace voisine, OneLink redirigeant l'acheteur.",
  "items": {
   "gpus": {
@@ -414,6 +414,44 @@
      "amazon.co.uk": "https://www.amazon.co.uk/dp/B08HR6ZBYJ?tag=fraym0a-21",
      "amazon.com": "https://www.amazon.com/dp/B08HR6ZBYJ?tag=fraym-20",
      "amazon.com.au": "https://www.amazon.com.au/dp/B08HR6ZBYJ?tag=fraym-22"
+    }
+   },
+   "rtx3080ti": {
+    "name": "GeForce RTX 3080 Ti",
+    "q": "GeForce RTX 3080 Ti",
+    "asin": "B0957TV4YR",
+    "product": "MSI GeForce RTX 3080 Ti Gaming X Trio 12G NVIDIA 12 Go GDDR6X Carte Graphique Noir",
+    "native": [
+     "amazon.fr",
+     "amazon.com"
+    ],
+    "links": {
+     "amazon.fr": "https://www.amazon.fr/dp/B0957TV4YR?tag=fraym-21",
+     "amazon.de": "https://www.amazon.fr/dp/B0957TV4YR?tag=fraym-21",
+     "amazon.es": "https://www.amazon.fr/dp/B0957TV4YR?tag=fraym-21",
+     "amazon.it": "https://www.amazon.fr/dp/B0957TV4YR?tag=fraym-21",
+     "amazon.co.uk": "https://www.amazon.fr/dp/B0957TV4YR?tag=fraym-21",
+     "amazon.com": "https://www.amazon.com/dp/B0957TV4YR?tag=fraym-20",
+     "amazon.com.au": "https://www.amazon.com/dp/B0957TV4YR?tag=fraym-20"
+    }
+   },
+   "rtx3080": {
+    "name": "GeForce RTX 3080",
+    "q": "GeForce RTX 3080",
+    "asin": "B099ZC8H3G",
+    "product": "ASUS TUF Gaming NVIDIA GeForce RTX 3080 V2 OC Edition Carte graphique (PCIe 4.0, GDDR6X, LHR, HDMI 2.1, DisplayPort 1.4a, double roulement à billes, certification militaire GPU Tweak II)",
+    "native": [
+     "amazon.fr",
+     "amazon.com"
+    ],
+    "links": {
+     "amazon.fr": "https://www.amazon.fr/dp/B099ZC8H3G?tag=fraym-21",
+     "amazon.de": "https://www.amazon.fr/dp/B099ZC8H3G?tag=fraym-21",
+     "amazon.es": "https://www.amazon.fr/dp/B099ZC8H3G?tag=fraym-21",
+     "amazon.it": "https://www.amazon.fr/dp/B099ZC8H3G?tag=fraym-21",
+     "amazon.co.uk": "https://www.amazon.fr/dp/B099ZC8H3G?tag=fraym-21",
+     "amazon.com": "https://www.amazon.com/dp/B099ZC8H3G?tag=fraym-20",
+     "amazon.com.au": "https://www.amazon.com/dp/B099ZC8H3G?tag=fraym-20"
     }
    },
    "rtx3070ti": {
@@ -1060,6 +1098,25 @@
      "amazon.com.au": "https://www.amazon.com.au/dp/B0BM4QGB5K?tag=fraym-22"
     }
    },
+   "nvidia-gtx-950": {
+    "name": "GeForce GTX 950",
+    "q": "GeForce GTX 950",
+    "asin": "B0142H5R7M",
+    "product": "ASUS 90YV08V0-M0NA00 NVIDIA VGA GTX950 Strix OC Grafikkarte",
+    "native": [
+     "amazon.de",
+     "amazon.com"
+    ],
+    "links": {
+     "amazon.fr": "https://www.amazon.de/dp/B0142H5R7M?tag=fraym03-21",
+     "amazon.de": "https://www.amazon.de/dp/B0142H5R7M?tag=fraym03-21",
+     "amazon.es": "https://www.amazon.de/dp/B0142H5R7M?tag=fraym03-21",
+     "amazon.it": "https://www.amazon.de/dp/B0142H5R7M?tag=fraym03-21",
+     "amazon.co.uk": "https://www.amazon.de/dp/B0142H5R7M?tag=fraym03-21",
+     "amazon.com": "https://www.amazon.com/dp/B0142H5R7M?tag=fraym-20",
+     "amazon.com.au": "https://www.amazon.com/dp/B0142H5R7M?tag=fraym-20"
+    }
+   },
    "nvidia-gtx-960": {
     "name": "GeForce GTX 960",
     "q": "GeForce GTX 960",
@@ -1609,19 +1666,19 @@
    "amd-rx-570": {
     "name": "Radeon RX 570",
     "q": "Radeon RX 570",
-    "asin": "B07XH69LKM",
-    "product": "Asustor ROG-STRIX-RX570-O8G-GAMING",
+    "asin": "B06ZY1LVYJ",
+    "product": "ASUS ROG-STRIX-RX570-O4G-GAMING Carte Graphique AMD Radeon RX 570 HDMI",
     "native": [
      "amazon.fr"
     ],
     "links": {
-     "amazon.fr": "https://www.amazon.fr/dp/B07XH69LKM?tag=fraym-21",
-     "amazon.de": "https://www.amazon.fr/dp/B07XH69LKM?tag=fraym-21",
-     "amazon.es": "https://www.amazon.fr/dp/B07XH69LKM?tag=fraym-21",
-     "amazon.it": "https://www.amazon.fr/dp/B07XH69LKM?tag=fraym-21",
-     "amazon.co.uk": "https://www.amazon.fr/dp/B07XH69LKM?tag=fraym-21",
-     "amazon.com": "https://www.amazon.fr/dp/B07XH69LKM?tag=fraym-21",
-     "amazon.com.au": "https://www.amazon.fr/dp/B07XH69LKM?tag=fraym-21"
+     "amazon.fr": "https://www.amazon.fr/dp/B06ZY1LVYJ?tag=fraym-21",
+     "amazon.de": "https://www.amazon.fr/dp/B06ZY1LVYJ?tag=fraym-21",
+     "amazon.es": "https://www.amazon.fr/dp/B06ZY1LVYJ?tag=fraym-21",
+     "amazon.it": "https://www.amazon.fr/dp/B06ZY1LVYJ?tag=fraym-21",
+     "amazon.co.uk": "https://www.amazon.fr/dp/B06ZY1LVYJ?tag=fraym-21",
+     "amazon.com": "https://www.amazon.fr/dp/B06ZY1LVYJ?tag=fraym-21",
+     "amazon.com.au": "https://www.amazon.fr/dp/B06ZY1LVYJ?tag=fraym-21"
     }
    },
    "amd-rx-580": {
@@ -1832,6 +1889,24 @@
      "amazon.co.uk": "https://www.amazon.co.uk/dp/B099Y6439Y?tag=fraym0a-21",
      "amazon.com": "https://www.amazon.com/dp/B099Y6439Y?tag=fraym-20",
      "amazon.com.au": "https://www.amazon.com.au/dp/B099Y6439Y?tag=fraym-22"
+    }
+   },
+   "amd-rx-6700": {
+    "name": "Radeon RX 6700",
+    "q": "Radeon RX 6700",
+    "asin": "B0BCL3L6ZG",
+    "product": "XFX Speedster SWFT309 Radeon RX 6700 Gaming Graphics Card with 10GB GDDR6 HDMI 3xDP, AMD RDNA 2 RX-67XLKWFDV : Electronics",
+    "native": [
+     "amazon.com"
+    ],
+    "links": {
+     "amazon.fr": "https://www.amazon.com/dp/B0BCL3L6ZG?tag=fraym-20",
+     "amazon.de": "https://www.amazon.com/dp/B0BCL3L6ZG?tag=fraym-20",
+     "amazon.es": "https://www.amazon.com/dp/B0BCL3L6ZG?tag=fraym-20",
+     "amazon.it": "https://www.amazon.com/dp/B0BCL3L6ZG?tag=fraym-20",
+     "amazon.co.uk": "https://www.amazon.com/dp/B0BCL3L6ZG?tag=fraym-20",
+     "amazon.com": "https://www.amazon.com/dp/B0BCL3L6ZG?tag=fraym-20",
+     "amazon.com.au": "https://www.amazon.com/dp/B0BCL3L6ZG?tag=fraym-20"
     }
    },
    "amd-rx-6900-xt": {
@@ -2076,24 +2151,6 @@
      "amazon.co.uk": "https://www.amazon.co.uk/dp/B0CJQH8519?tag=fraym0a-21",
      "amazon.com": "https://www.amazon.com/dp/B0CJQH8519?tag=fraym-20",
      "amazon.com.au": "https://www.amazon.com.au/dp/B0CJQH8519?tag=fraym-22"
-    }
-   },
-   "rtx4000ada": {
-    "name": "RTX 4000 Ada",
-    "q": "RTX 4000 Ada",
-    "asin": "B09N7VWYR7",
-    "product": "Nvidia Leadtek RTX 4000 SFF Ada Retail",
-    "native": [
-     "amazon.fr"
-    ],
-    "links": {
-     "amazon.fr": "https://www.amazon.fr/dp/B09N7VWYR7?tag=fraym-21",
-     "amazon.de": "https://www.amazon.fr/dp/B09N7VWYR7?tag=fraym-21",
-     "amazon.es": "https://www.amazon.fr/dp/B09N7VWYR7?tag=fraym-21",
-     "amazon.it": "https://www.amazon.fr/dp/B09N7VWYR7?tag=fraym-21",
-     "amazon.co.uk": "https://www.amazon.fr/dp/B09N7VWYR7?tag=fraym-21",
-     "amazon.com": "https://www.amazon.fr/dp/B09N7VWYR7?tag=fraym-21",
-     "amazon.com.au": "https://www.amazon.fr/dp/B09N7VWYR7?tag=fraym-21"
     }
    },
    "rtx2000ada": {
@@ -2923,6 +2980,24 @@
      "amazon.com.au": "https://www.amazon.com.au/dp/B0C3T39N6P?tag=fraym-22"
     }
    },
+   "r5_5500": {
+    "name": "Ryzen 5 5500",
+    "q": "AMD Ryzen 5 5500",
+    "asin": "B09VCJ171S",
+    "product": "AMD Ryzen 5 5500 6-Core, 12-Thread Unlocked Desktop Processor with Wraith Stealth Cooler : Electronics",
+    "native": [
+     "amazon.com"
+    ],
+    "links": {
+     "amazon.fr": "https://www.amazon.com/dp/B09VCJ171S?tag=fraym-20",
+     "amazon.de": "https://www.amazon.com/dp/B09VCJ171S?tag=fraym-20",
+     "amazon.es": "https://www.amazon.com/dp/B09VCJ171S?tag=fraym-20",
+     "amazon.it": "https://www.amazon.com/dp/B09VCJ171S?tag=fraym-20",
+     "amazon.co.uk": "https://www.amazon.com/dp/B09VCJ171S?tag=fraym-20",
+     "amazon.com": "https://www.amazon.com/dp/B09VCJ171S?tag=fraym-20",
+     "amazon.com.au": "https://www.amazon.com/dp/B09VCJ171S?tag=fraym-20"
+    }
+   },
    "r5_5700x3d": {
     "name": "Ryzen 7 5700X3D",
     "q": "AMD Ryzen 7 5700X3D",
@@ -3279,6 +3354,25 @@
      "amazon.co.uk": "https://www.amazon.co.uk/dp/B09VCHQHZ6?tag=fraym0a-21",
      "amazon.com": "https://www.amazon.co.uk/dp/B09VCHQHZ6?tag=fraym0a-21",
      "amazon.com.au": "https://www.amazon.co.uk/dp/B09VCHQHZ6?tag=fraym0a-21"
+    }
+   },
+   "amd-ryzen-7-5700g": {
+    "name": "Ryzen 7 5700G",
+    "q": "AMD Ryzen 7 5700G",
+    "asin": "B091J3NYVF",
+    "product": "AMD Ryzen 7 5700G Processeur (Radeon Graphique Intégré, 8 Coeurs/16 Threads, 65W TDP, Socket AM4, Cache 20 Mo, jusqu'à 4.6 Ghz Fréquence Boost, Ventilateur wraith Stealth)",
+    "native": [
+     "amazon.fr",
+     "amazon.com"
+    ],
+    "links": {
+     "amazon.fr": "https://www.amazon.fr/dp/B091J3NYVF?tag=fraym-21",
+     "amazon.de": "https://www.amazon.fr/dp/B091J3NYVF?tag=fraym-21",
+     "amazon.es": "https://www.amazon.fr/dp/B091J3NYVF?tag=fraym-21",
+     "amazon.it": "https://www.amazon.fr/dp/B091J3NYVF?tag=fraym-21",
+     "amazon.co.uk": "https://www.amazon.fr/dp/B091J3NYVF?tag=fraym-21",
+     "amazon.com": "https://www.amazon.com/dp/B091J3NYVF?tag=fraym-20",
+     "amazon.com.au": "https://www.amazon.com/dp/B091J3NYVF?tag=fraym-20"
     }
    },
    "amd-ryzen-5-5600g": {
@@ -4628,6 +4722,25 @@
      "amazon.com.au": "https://www.amazon.de/dp/B00EOTVZV6?tag=fraym03-21"
     }
    },
+   "ddr4_8_2666c16": {
+    "name": "8 Go DDR4-2666 CL16",
+    "q": "Corsair DDR4-2666 8GB CL16",
+    "asin": "B0123ZB70Q",
+    "product": "Corsair Vengeance LPX 8Go (2x4Go) DDR4 Jusqu'à 2666MHz C16 XMP 2.0 Kit de Mémoire Haute Performance - Noir",
+    "native": [
+     "amazon.fr",
+     "amazon.com"
+    ],
+    "links": {
+     "amazon.fr": "https://www.amazon.fr/dp/B0123ZB70Q?tag=fraym-21",
+     "amazon.de": "https://www.amazon.fr/dp/B0123ZB70Q?tag=fraym-21",
+     "amazon.es": "https://www.amazon.fr/dp/B0123ZB70Q?tag=fraym-21",
+     "amazon.it": "https://www.amazon.fr/dp/B0123ZB70Q?tag=fraym-21",
+     "amazon.co.uk": "https://www.amazon.fr/dp/B0123ZB70Q?tag=fraym-21",
+     "amazon.com": "https://www.amazon.com/dp/B0123ZB70Q?tag=fraym-20",
+     "amazon.com.au": "https://www.amazon.com/dp/B0123ZB70Q?tag=fraym-20"
+    }
+   },
    "ddr4_16_2666c16": {
     "name": "16 Go DDR4-2666 CL16",
     "q": "Corsair DDR4-2666 16GB CL16",
@@ -5066,6 +5179,25 @@
      "amazon.co.uk": "https://www.amazon.co.uk/dp/B0BNGLDD88?tag=fraym0a-21",
      "amazon.com": "https://www.amazon.com/dp/B0BNGLDD88?tag=fraym-20",
      "amazon.com.au": "https://www.amazon.com.au/dp/B0BNGLDD88?tag=fraym-22"
+    }
+   },
+   "ddr5_32_8000c40": {
+    "name": "32 Go DDR5-8000 CL40",
+    "q": "G.Skill DDR5-8000 32GB CL40",
+    "asin": "B0F2J23X58",
+    "product": "G.skill Dimm 32 Gb Ddr5-8000 (2x 16 Gb) DuaL-Kit (gold, F5-8000j3848h16gx2-Tr5ng, Trident Z5 Royal Neo, Amd Expo) (f5-8000j3848h16gx2-Tr5ng)",
+    "native": [
+     "amazon.fr",
+     "amazon.com"
+    ],
+    "links": {
+     "amazon.fr": "https://www.amazon.fr/dp/B0F2J23X58?tag=fraym-21",
+     "amazon.de": "https://www.amazon.fr/dp/B0F2J23X58?tag=fraym-21",
+     "amazon.es": "https://www.amazon.fr/dp/B0F2J23X58?tag=fraym-21",
+     "amazon.it": "https://www.amazon.fr/dp/B0F2J23X58?tag=fraym-21",
+     "amazon.co.uk": "https://www.amazon.fr/dp/B0F2J23X58?tag=fraym-21",
+     "amazon.com": "https://www.amazon.com/dp/B0F2J23X58?tag=fraym-20",
+     "amazon.com.au": "https://www.amazon.com/dp/B0F2J23X58?tag=fraym-20"
     }
    },
    "ddr5_48_5600c40": {
@@ -5705,42 +5837,6 @@
      "amazon.co.uk": "https://www.amazon.fr/dp/B01LNJBA2I?tag=fraym-21",
      "amazon.com": "https://www.amazon.fr/dp/B01LNJBA2I?tag=fraym-21",
      "amazon.com.au": "https://www.amazon.fr/dp/B01LNJBA2I?tag=fraym-21"
-    }
-   },
-   "hdd-wdblue-2tb": {
-    "name": "WD Blue 2 To (7200)",
-    "q": "Western Digital WD Blue 2TB",
-    "asin": "B07JC1TQ7N",
-    "product": "WESTERN DIGITAL Blue WD20EZAZ - Disque dur - 2 To - interne - 3.5\" - SATA 6Gb/s - 5400 tours/min - mémoire tampon : 256 Mo",
-    "native": [
-     "amazon.fr"
-    ],
-    "links": {
-     "amazon.fr": "https://www.amazon.fr/dp/B07JC1TQ7N?tag=fraym-21",
-     "amazon.de": "https://www.amazon.fr/dp/B07JC1TQ7N?tag=fraym-21",
-     "amazon.es": "https://www.amazon.fr/dp/B07JC1TQ7N?tag=fraym-21",
-     "amazon.it": "https://www.amazon.fr/dp/B07JC1TQ7N?tag=fraym-21",
-     "amazon.co.uk": "https://www.amazon.fr/dp/B07JC1TQ7N?tag=fraym-21",
-     "amazon.com": "https://www.amazon.fr/dp/B07JC1TQ7N?tag=fraym-21",
-     "amazon.com.au": "https://www.amazon.fr/dp/B07JC1TQ7N?tag=fraym-21"
-    }
-   },
-   "hdd-firecuda-2tb": {
-    "name": "Seagate FireCuda 2 To (7200)",
-    "q": "Seagate FireCuda 2TB",
-    "asin": "B01M1UQQT5",
-    "product": "Seagate FireCuda, 2 To, Disque hybride hautes performances SSHD, 2,5\" SATA 6 Gbit/s, 8 Go de mémoire cache, pour PC portable de jeu, services Rescue valables 3 ans (ST2000LX001)",
-    "native": [
-     "amazon.fr"
-    ],
-    "links": {
-     "amazon.fr": "https://www.amazon.fr/dp/B01M1UQQT5?tag=fraym-21",
-     "amazon.de": "https://www.amazon.fr/dp/B01M1UQQT5?tag=fraym-21",
-     "amazon.es": "https://www.amazon.fr/dp/B01M1UQQT5?tag=fraym-21",
-     "amazon.it": "https://www.amazon.fr/dp/B01M1UQQT5?tag=fraym-21",
-     "amazon.co.uk": "https://www.amazon.fr/dp/B01M1UQQT5?tag=fraym-21",
-     "amazon.com": "https://www.amazon.fr/dp/B01M1UQQT5?tag=fraym-21",
-     "amazon.com.au": "https://www.amazon.fr/dp/B01M1UQQT5?tag=fraym-21"
     }
    },
    "hdd-p300-1tb": {
@@ -7893,24 +7989,6 @@
      "amazon.co.uk": "https://www.amazon.co.uk/dp/B0BSSNC8LY?tag=fraym0a-21",
      "amazon.com": "https://www.amazon.com/dp/B0FJZHR289?tag=fraym-20",
      "amazon.com.au": "https://www.amazon.com/dp/B0FJZHR289?tag=fraym-20"
-    }
-   },
-   "asus-rog-strix-1000w": {
-    "name": "ASUS ROG Strix 1000W",
-    "q": "ASUS ROG Strix 1000W",
-    "asin": "B0DZPCGF7T",
-    "product": "ASUS ROG Strix - 1000W Platinum, Alimentation modulaire, Blanc | 1000W, ATX 3.1, compatible PCIe 5.1, ventilateur FDB 135mm ARGB, GaN MOSFET, stabilisateur GPU-First, garantie 10 ans",
-    "native": [
-     "amazon.fr"
-    ],
-    "links": {
-     "amazon.fr": "https://www.amazon.fr/dp/B0DZPCGF7T?tag=fraym-21",
-     "amazon.de": "https://www.amazon.fr/dp/B0DZPCGF7T?tag=fraym-21",
-     "amazon.es": "https://www.amazon.fr/dp/B0DZPCGF7T?tag=fraym-21",
-     "amazon.it": "https://www.amazon.fr/dp/B0DZPCGF7T?tag=fraym-21",
-     "amazon.co.uk": "https://www.amazon.fr/dp/B0DZPCGF7T?tag=fraym-21",
-     "amazon.com": "https://www.amazon.fr/dp/B0DZPCGF7T?tag=fraym-21",
-     "amazon.com.au": "https://www.amazon.fr/dp/B0DZPCGF7T?tag=fraym-21"
     }
    },
    "corsair-cx550": {
@@ -10409,42 +10487,17 @@
  "skipped": {
   "gpus": [
    {
-    "id": "rtx3080ti",
-    "name": "GeForce RTX 3080 Ti",
-    "raison": "sans_fiche"
-   },
-   {
-    "id": "rtx3080",
-    "name": "GeForce RTX 3080",
-    "raison": "sans_fiche"
-   },
-   {
     "id": "rtx5070tis",
     "name": "GeForce RTX 5070 Ti Super",
     "raison": "sans_fiche"
    },
    {
-    "id": "nvidia-gtx-950",
-    "name": "GeForce GTX 950",
-    "raison": "sans_fiche"
-   },
-   {
-    "id": "amd-rx-6700",
-    "name": "Radeon RX 6700",
+    "id": "rtx4000ada",
+    "name": "RTX 4000 Ada",
     "raison": "sans_fiche"
    }
   ],
   "cpus": [
-   {
-    "id": "r5_5500",
-    "name": "Ryzen 5 5500",
-    "raison": "sans_fiche"
-   },
-   {
-    "id": "amd-ryzen-7-5700g",
-    "name": "Ryzen 7 5700G",
-    "raison": "sans_fiche"
-   },
    {
     "id": "xeonw93495x",
     "name": "Xeon w9-3495X",
@@ -10463,18 +10516,8 @@
     "raison": "sans_fiche"
    },
    {
-    "id": "ddr4_8_2666c16",
-    "name": "8 Go DDR4-2666 CL16",
-    "raison": "sans_fiche"
-   },
-   {
     "id": "ddr5_32_4800c40",
     "name": "32 Go DDR5-4800 CL40",
-    "raison": "sans_fiche"
-   },
-   {
-    "id": "ddr5_32_8000c40",
-    "name": "32 Go DDR5-8000 CL40",
     "raison": "sans_fiche"
    }
   ],
@@ -10497,6 +10540,16 @@
    {
     "id": "nvme-t500",
     "name": "Crucial T500 (Gen4)",
+    "raison": "sans_fiche"
+   },
+   {
+    "id": "hdd-wdblue-2tb",
+    "name": "WD Blue 2 To (7200)",
+    "raison": "sans_fiche"
+   },
+   {
+    "id": "hdd-firecuda-2tb",
+    "name": "Seagate FireCuda 2 To (7200)",
     "raison": "sans_fiche"
    },
    {
@@ -10541,6 +10594,11 @@
    {
     "id": "evga-supernova-1200-p6",
     "name": "EVGA SuperNOVA 1200 P6",
+    "raison": "sans_fiche"
+   },
+   {
+    "id": "asus-rog-strix-1000w",
+    "name": "ASUS ROG Strix 1000W",
     "raison": "sans_fiche"
    },
    {

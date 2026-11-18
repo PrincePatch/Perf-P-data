@@ -126,7 +126,7 @@ jobs:
       - name: Prix et validite des liens Amazon
         run: >
           python scraper/verifier_amazon.py --data-repo . --items-dir catalog
-          --budget-min 30 --paralleles 4 --frais-h 4
+          --budget-min 30 --paralleles 4 --frais-h 4 --pause 1.5
         timeout-minutes: 38
         continue-on-error: true
       - name: Nettoyage des offres Amazon en devise convertie

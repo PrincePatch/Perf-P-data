@@ -228,6 +228,15 @@ def produit_occasion(nom_offre):
     return bool(_RE_OCCASION.search(nom_offre or ""))
 
 
+# Mémoire vive et SSD : leurs fiches disent presque toujours pour quelle machine
+# ils sont faits (« Desktop-Arbeitsspeicher », « Mémoire pour Ordinateur de
+# Bureau », « Laptop und Desktop ») — ce n'est pas un PC monté. Seules les
+# tournures de PC complet restent rédhibitoires (18/11/2026 : trois bons kits
+# Corsair et un Crucial T500 étaient rejetés).
+_MOTS_BUNDLE_RAM_SSD = tuple(m for m in _MOTS_BUNDLE
+                             if m not in ("desktop", "laptop", "notebook", "ordinateur"))
+
+
 def produit_suspect(nom_offre, cat=None):
     """Vrai si l'offre ressemble à un bundle / PC complet, à un ACCESSOIRE
     (waterblock, backplate, câble…) ou à un article d'OCCASION / reconditionné
@@ -238,7 +247,8 @@ def produit_suspect(nom_offre, cat=None):
     if produit_occasion(nom_offre):
         return True
     bas = f" {nom_offre.lower()} "
-    if any(m in bas for m in _MOTS_BUNDLE):
+    mots_bundle = _MOTS_BUNDLE_RAM_SSD if cat in ("rams", "ssds") else _MOTS_BUNDLE
+    if any(m in bas for m in mots_bundle):
         return True
     if cat == "coolers":
         return False

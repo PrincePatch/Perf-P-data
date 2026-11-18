@@ -111,7 +111,7 @@
    "amd-ryzen-7-2700x": "AMD Processeur Ryzen 7 2700X Socket AM4 (3,7 Ghz)",
    "amd-ryzen-7-3700x": "AMD Ryzen 7 3700X - Processeur 3.6 GHz - 8 cores - 16 filetages - 32 Mo Cache - Socket AM4 - Box 100-100000071MPK",
    "amd-ryzen-7-3800x": "AMD Ryzen 7 3800X - 3.9 GHz - 8 c¿urs - 16 filetages - 32 Mo Cache - Socket AM4 - Box",
-   "amd-ryzen-7-5700g": "ARCTIC Senza 5700G - PC Montage sous Table, Refroidissement Passif",
+   "amd-ryzen-7-5700g": "AMD Ryzen 7 5700G Processeur (Radeon Graphique Intégré, 8 Coeurs/16 Threads, 65W TDP, Socket AM4, Cache 20 Mo, jusqu'à 4.6 Ghz Fréquence Boost, Ventilateur wraith Stealth)",
    "amd-ryzen-7-5700x": "AMD Ryzen 7 5700X Processeur (8 Coeurs/16 Threads,65W TDP, Socket AM4, Cache 36Mo, jusqu'à 4.6 GHz Fréquence Boost, pas de Ventilateur)",
    "amd-ryzen-9-3900x": "AMD PROCESADOR CPU RYZEN 9 3900X 12X3.8GHZ/70MB Box (Pas de VGA)",
    "amd-ryzen-9-3950x": "AMD Ryzen 9 3950x Retail (AM4/16 Core/4,70 GHz/70 Mo/105 W) 100100000051WOF",
@@ -159,7 +159,7 @@
    "intel-core-ultra-5-245kf": "Intel® Core™ Ultra 5 Desktop-Prozessor 245KF 14 Kerne bis zu 5,2 GHz",
    "intel-core-ultra-7-265kf": "Intel Ultra 7 265KF Processeur de Bureau, 20 cœurs, jusqu'à 5,5 GHz, Cache 36 Mo, Socket LGA1851, 125 W, sans Solution Thermique",
    "r5_3600": "Amd Cpu Ryzen 5 3600, Box with Wraith Spire Cooler",
-   "r5_5500": "AMD Ryzen 5 5500 Processeur (6 Coeurs/12 Threads, 65W TDP, Socket AM4, Cache 19Mo, jusqu'à 4.2 GHz Fréquence Boost, Ventilateur wraith Stealth)",
+   "r5_5500": "AMD Ryzen 5 5500 6-Core, 12-Thread Unlocked Desktop Processor with Wraith Stealth Cooler : Electronics",
    "r5_5600": "AMD Ryzen 5 5600 Processeur (6 Coeurs/12 Threads, 65W TDP, Socket AM4, jusqu'à 4.4 Ghz Fréquence Boost, Ventilateur wraith Stealth)",
    "r5_5600x": "AMD Ryzen 5 5600X Processeur (6 Coeurs/12Threads, 65W TDP, Socket AM4, Cache 35Mo, jusqu'à 4.6 GHz Fréquence Boost, Ventilateur wraith Stealth)",
    "r5_5700x3d": "AMD Ryzen 7 5700X3D Processeur avec La Technologie 3D V-Cache (8 Cœurs/16 Threads, 105W TDP, Socket AM4, 100Mo Cache, Jusqu'à 4,1 GHz Fréquence Boost, Pas de Ventilateur)",
@@ -195,7 +195,7 @@
    "amd-rx-5500-xt": "MSI Radeon RX 5500 XT Mech 8G OC Carte Graphique Enthusiast",
    "amd-rx-560": "QTHREE Radeon RX 560 Carte Graphique, 4GB GDDR5 128-bit, HDMI, DisplayPort, DVI, Carte Video PC, GPU, Video Card, PCI Express x8, DirectX 12",
    "amd-rx-5600-xt": "Sapphire Pulse Radeon RX 5600 XT 6G GDDR6 HDMI/Triple DP OC W/BP (UEFI)",
-   "amd-rx-570": "Asustor ROG-STRIX-RX570-O8G-GAMING",
+   "amd-rx-570": "ASUS ROG-STRIX-RX570-O4G-GAMING Carte Graphique AMD Radeon RX 570 HDMI",
    "amd-rx-5700": "ASUS AMD Radeon ROG Strix RX 5700 OC Gaming Carte Graphique 8Go / GB GDDR6 HDMI/3xDP",
    "amd-rx-5700-xt": "MSI Carte Graphique AMD Radeon PowerColor RX 5700 XT Red Dragon 8Go",
    "amd-rx-580": "XFX RX580P8DFD6 Carte graphique AMD Radeon RX 580 1366 MHz 8 Go PCI Express 3.0",
@@ -203,6 +203,7 @@
    "amd-rx-6400": "MSI Radeon RX 6400 Aero ITX 4G",
    "amd-rx-6500-xt": "MSI RX 6500 XT Radeon Mech 2X 4G OC V508-003R Noir",
    "amd-rx-6600-xt": "Sapphire Nitro+ AMD Radeon RX 6600 XT Gaming OC 8 Go GDDR6 HDMI/Triple DP Carte Graphique 11309-01-20G Noir",
+   "amd-rx-6700": "XFX Speedster SWFT309 Radeon RX 6700 Gaming Graphics Card with 10GB GDDR6 HDMI 3xDP, AMD RDNA 2 RX-67XLKWFDV : Electronics",
    "amd-rx-6900-xt": "GIGABYTE Carte Graphique AMD Radeon RX 6900 XT Gaming OC 16Go Taille Unique Noir",
    "amd-rx-6950-xt": "AMD Radeon RX 6950 XT, Carte Graphique Gaming avec 16 Go GDDR6, PCIe 4.0, HDMI 2.1, DisplayPort 1.4, Fréquences Boost 2310 MHz, 335W, 2x8 Pin",
    "amd-rx-7600-xt": "ASUS TUF RX 7600XT O16G Gaming",
@@ -226,7 +227,7 @@
    "nvidia-gtx-1650-super": "MSI GeForce GTX 1650 Super Ventus XS OC Gaming GeForce GTX 1650 Super 128-Bit HDMI/DP/DVI 4GB GDRR6 HDCP Support DirectX 12 Dual Fan VR Ready OC Carte Graphique (GTX 1650 Super Ventus XS OC)",
    "nvidia-gtx-1660": "MSI GeForce GTX 1660 Gaming X 6G (6 Go GDDR5/PCI Express 3.0/1860 MHz/8000 MHz)",
    "nvidia-gtx-1660-ti": "GIGABYTE GeForce GTX 1660 Ti OC 6G 192 Bits GDDR6 DisplayPort 1.4 HDMI 2.0B avec système de Refroidissement Windforce 2X Gv-N166TOC-6GD",
-   "nvidia-gtx-950": "Luqeeg Carte Graphique GTX 950 2 Go Gddr5 Cartes Vidéo 128 Bits pour PC Gaming, Prise en de la Sortie de Résolution 4k, Directx 12, Interface DVI DP HDMI",
+   "nvidia-gtx-950": "ASUS 90YV08V0-M0NA00 NVIDIA VGA GTX950 Strix OC Grafikkarte",
    "nvidia-gtx-960": "MSI V320-004R GTX960 NVIDIA Gaming Grafikkarte",
    "nvidia-gtx-970": "MSI GTX970 Gaming 4G Carte graphique Nvidia GeForce GTX 970 1114 MHz 4096 Mo PCIExpress : MSI",
    "nvidia-gtx-980": "EVGA GeForce GTX 980 Hybride – Graphics Cards (GeForce GTX 980 Gaming 4 Go, 4 Go, GDDR5, 256 bit, 4096 x 2160 Pixels, PCI Express x16 3.0)",
@@ -251,11 +252,10 @@
    "rtx3060ti": "NVIDIA GeForce RTX 3060 Ti - Founders Edition - Carte graphique GDDR6 PCI Express 4.0 8 Go",
    "rtx3070": "MSI GeForce RTX 3070 GAMING X TRIO Gaming Graphics Card - RTX 3070, TRI FROZR 2 , TORX Fan 4.0, 8GB GDDR6, 256 bit, PCI Express Gen 4, DisplayPort v1.4a, HDMI 2.1, Zero Frozr, 1440p resolution, Black",
    "rtx3070ti": "MSI RTX 3070 TI Ventus 3X 8G OC Carte Graphique NVIDIA GeForce RTX 3070 Ti 8 Go GDDR6X Gris",
-   "rtx3080": "MSI Gaming GeForce RTX 3080 LHR 10GB GDRR6X 320-Bit HDMI/DP Nvlink Torx Fan 3 Ampere Architecture OC Graphics Card (RTX 3080 Ventus 3X 10G OC LHR) (Renewed) : Electronics",
-   "rtx3080ti": "Geforce RTX 3080 Ti 12GB GDDR6X PCI Express 4.0 Graphics Card Titanium and Black (Renewed) : Electronics",
+   "rtx3080": "ASUS TUF Gaming NVIDIA GeForce RTX 3080 V2 OC Edition Carte graphique (PCIe 4.0, GDDR6X, LHR, HDMI 2.1, DisplayPort 1.4a, double roulement à billes, certification militaire GPU Tweak II)",
+   "rtx3080ti": "MSI GeForce RTX 3080 Ti Gaming X Trio 12G NVIDIA 12 Go GDDR6X Carte Graphique Noir",
    "rtx3090": "nVidia GeForce RTX 3090 Founders Edition Graphics Card : Electronics",
    "rtx3090ti": "Nvidia GeForce RTX 3090 Ti Founders Edition : Electronics",
-   "rtx4000ada": "Nvidia Leadtek RTX 4000 SFF Ada Retail",
    "rtx4060": "MSI GeForce RTX 4060 Ventus 2X Black 8G OC Gaming Graphics Card - 8GB GDDR6X, PCI Express Gen 4, 128-bit, 3X DP v 1.4a, HDMI 2.1a (Supports 4K & 8K HDR) : Electronics",
    "rtx4060ti": "ASUS Dual GeForce RTX 4060 Ti EVO OC Edition 8GB GDDR6 (PCIe 4.0, 8GB GDDR6, DLSS 3, HDMI 2.1a, DisplayPort 1.4a, Axial-tech Fan Design, Auto-Extreme Technology), 3 Year Warranty : Electronics",
    "rtx4060ti16": "Gigabyte NVIDIA GeForce RTX 4060 Ti GAMING OC Carte graphique - 16GB GDDR6, 128-bit, PCI-E 4.0, 2595MHz Core Clock, 2x DP 1.4, 2x HDMI 2.1a, NVIDIA DLSS 3 - GV-N406TGAMING OC-16GD",
@@ -348,7 +348,6 @@
    "z890-itx": "ASUS ROG STRIX Z890-I GAMING WIFI Intel® Z890 LGA 1851 Mini-iTX motherboard, Intel® Core™ Ultra Series 2 Ready, Advanced AI PC-ready, 10+2+1+1 stages, DDR5, WiFi 7, 2x M.2, Thunderbolt™ 4, USB Type-C® : Electronics"
   },
   "psus": {
-   "asus-rog-strix-1000w": "ASUS ROG Strix - 1000W Platinum, Alimentation modulaire, Blanc | 1000W, ATX 3.1, compatible PCIe 5.1, ventilateur FDB 135mm ARGB, GaN MOSFET, stabilisateur GPU-First, garantie 10 ans",
    "asus-tuf-gaming-750w": "ASUS TUF Gaming 750W Gold - Bloc d'alimentation (750 Watts, modulaire, 80+ Gold, ATX 3.1, PCIE 5.1, Composants de qualité Militaire, Double roulement à Billes, Ventilateur Axial-Tech, revêtement PCB)",
    "be-quiet-dark-power-13-1000w": "be quiet! Dark Power 13 1000W, ATX 3.0, 80 Plus® Titanium, modular Netzteil, PCIe 5.0 und PCIe 4.0 Grafikkarten, 12VHPWR Kabel enthalten, nahezu unhörbarer Silent Wings-Lüfter",
    "be-quiet-dark-power-13-850w": "be quiet! Dark Power 13 850W, ATX 3.0, 80 Plus® Titanium, modular Netzteil, PCIe 5.0 und PCIe 4.0 Grafikkarten, 12VHPWR Kabel enthalten, nahezu unhörbarer Silent Wings-Lüfter",
@@ -420,7 +419,7 @@
    "ddr4_32_4000c18": "G.skill Ripjaws V - Ddr4 - 32 Gb: 4 X 8 Gb - Dimm 288-Pin - 4000 Mhz / Pc4-32000 - Cl18 - 1.35 V - Ungepuffert - NoN-Ecc - Classic Black (f4-4000c18q",
    "ddr4_64_3200c16": "Corsair Vengeance LPX 64GB (2x32GB) DDR4 Jusqu'à 3200MHz C16 - Black",
    "ddr4_64_3600c18": "G.Skill DDR4 64 GB PC 3600 CL18 KIT 2x32 GB 64GVK Ripjaws 64 GB 3.600 MHz 2 32",
-   "ddr4_8_2666c16": "Timetec 8 Go Compatible pour Apple DDR4 2666 MHz pour iMac mi-2020 (20.1/20.2) / iMac mi-2019 (19.1) 27\" avec écran Retina 5K, Fin 2018 Mac Mini (8.1) PC4-21333 / PC4-21300 SODIMM Mac RAM Upgrade",
+   "ddr4_8_2666c16": "Corsair Vengeance LPX 8Go (2x4Go) DDR4 Jusqu'à 2666MHz C16 XMP 2.0 Kit de Mémoire Haute Performance - Noir",
    "ddr4_8_3200c16": "Gigabyte TeamGroup T-Force Vulcan Z 8GB DDR4-3200 PC4-25600U DIMM 288-Pin CL16-18-18 grau",
    "ddr5_128_5600c40": "Crucial Pro RAM 128Go Kit (2x64Go) DDR5 5600MHz, Intel XMP 3.0 / AMD Expo, PC Mémoire 128Go DDR5 - CP2K64G56C46U5",
    "ddr5_16_4800c38": "Kingston Fury Beast DDR5 RGB 16GB 4800MT/s DDR5 CL38 DIMM Mémoire pour PC de Gamer Module Simple - KF548C38BBA-16",
@@ -443,7 +442,7 @@
    "ddr5_32_7200c36": "32 Go G.Skill DDR5 Trident Z5 RGB 7200MHz CL34 1.40V Kit Double Canal 2X 16 Go Argent",
    "ddr5_32_7600c36": "32GB G.Skill DDR5 Trident Z5 RGB 7600MHz CL36 1.40V Dual Channel Kit 2x 16GB Noir",
    "ddr5_32_8000c38": "32GB G.Skill DDR5 Trident Z5 RGB 8000MHz CL38 1.45V Dual Channel Kit 2X 16GB Black",
-   "ddr5_32_8000c40": "G.skill Trident Z5 Neo Rgb - Ddr5 - Kit - 32gb: 2 X 16gb - Dimm 288-Pin - 6000 Mhz / Pc5-48000 - Cl36 - NoN-Ecc - Mattschwarz (f5-6000j3636f16gx2-Tz5",
+   "ddr5_32_8000c40": "G.skill Dimm 32 Gb Ddr5-8000 (2x 16 Gb) DuaL-Kit (gold, F5-8000j3848h16gx2-Tr5ng, Trident Z5 Royal Neo, Amd Expo) (f5-8000j3848h16gx2-Tr5ng)",
    "ddr5_48_5600c40": "CORSAIR Vengeance DDR5 48Go (2 x 24Go) Jusqu'à 5600MHz Intel RAM",
    "ddr5_48_6400c32": "G.Skill DDR5 48 GB PC 6400 CL32 KIT 2x24 48-RS5K",
    "ddr5_48_7200c36": "48 Go G.Skill DDR5 Trident Z5 RGB 7200MHz CL36 1.35V Kit Double Canal 2X 24 Go Noir",
@@ -460,9 +459,7 @@
    "hdd-7200": "Seagate Barracuda Disque dur Interne SATA 7200 tr/min 1 To",
    "hdd-barracuda": "Seagate BarraCuda 2 To, Disque dur interne HDD – 3,5 pouces SATA 6 Gbit/s 7 200 tr/min, 256 Mo de mémoire cache – Ouverture facile (ST2000DM008)",
    "hdd-barracuda-1tb": "Seagate Barracuda Disque dur interne 1 To Argent",
-   "hdd-firecuda-2tb": "Seagate FireCuda, 2 To, Disque hybride hautes performances SSHD, 2,5\" SATA 6 Gbit/s, 8 Go de mémoire cache, pour PC portable de jeu, services Rescue valables 3 ans (ST2000LX001)",
    "hdd-p300-1tb": "Toshiba P300 1 To Disques internes (8,9 cm (3,5\"), SATA)",
-   "hdd-wdblue-2tb": "WESTERN DIGITAL Blue WD20EZAZ - Disque dur - 2 To - interne - 3.5\" - SATA 6Gb/s - 5400 tours/min - mémoire tampon : 256 Mo",
    "nvme-9100pro-2tb": "Samsung SSD Interne 9100 Pro, NVMe 2.0 PCIe 5.0x4, Capacité 2To, Vitesse de Lecture jusqu'à 14 800 Mo/s, Les Performances de la Gen5, MZ-VAP2T0BW",
    "nvme-970evo-1tb": "Samsung 970 EVO Plus MZ-V7S1T0BW Disque SSD Interne NVMe M.2, 1 To, Jusqu'à 3 500Mo/s en lecture sequentielle",
    "nvme-980pro": "Samsung 980 PRO MZ-V8P1T0BW | Disque SSD Interne NVMe M.2, PCIe 4.0, 1 To, Contrôle thermique intelligent - Compatible PS5",
@@ -1605,12 +1602,12 @@
    "amazon.it": "B08669ZRP7"
   },
   "amd-ryzen-7-5700g": {
-   "amazon.co.uk": false,
-   "amazon.com": false,
-   "amazon.com.au": false,
-   "amazon.de": false,
-   "amazon.es": false,
-   "amazon.fr": null,
+   "amazon.co.uk": null,
+   "amazon.com": "B091J3NYVF",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B091J3NYVF",
    "amazon.it": null
   },
   "amd-ryzen-7-5700x": {
@@ -2038,8 +2035,8 @@
   },
   "r5_5500": {
    "amazon.co.uk": null,
-   "amazon.com": false,
-   "amazon.com.au": false,
+   "amazon.com": "B09VCJ171S",
+   "amazon.com.au": null,
    "amazon.de": null,
    "amazon.es": null,
    "amazon.fr": null,
@@ -2352,7 +2349,7 @@
    "amazon.com.au": null,
    "amazon.de": null,
    "amazon.es": null,
-   "amazon.fr": "B07XH69LKM",
+   "amazon.fr": "B06ZY1LVYJ",
    "amazon.it": null
   },
   "amd-rx-5700": {
@@ -2420,7 +2417,7 @@
   },
   "amd-rx-6700": {
    "amazon.co.uk": null,
-   "amazon.com": null,
+   "amazon.com": "B0BCL3L6ZG",
    "amazon.com.au": null,
    "amazon.de": null,
    "amazon.es": null,
@@ -2636,9 +2633,9 @@
   },
   "nvidia-gtx-950": {
    "amazon.co.uk": null,
-   "amazon.com": false,
-   "amazon.com.au": false,
-   "amazon.de": false,
+   "amazon.com": "B0142H5R7M",
+   "amazon.com.au": null,
+   "amazon.de": "B0142H5R7M",
    "amazon.es": null,
    "amazon.fr": null,
    "amazon.it": null
@@ -2860,22 +2857,22 @@
    "amazon.it": "B0957VHM86"
   },
   "rtx3080": {
-   "amazon.co.uk": false,
-   "amazon.com": null,
-   "amazon.com.au": false,
-   "amazon.de": false,
-   "amazon.es": false,
-   "amazon.fr": false,
-   "amazon.it": false
+   "amazon.co.uk": null,
+   "amazon.com": "B099ZC8H3G",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B099ZC8H3G",
+   "amazon.it": null
   },
   "rtx3080ti": {
-   "amazon.co.uk": false,
-   "amazon.com": null,
-   "amazon.com.au": false,
-   "amazon.de": false,
-   "amazon.es": false,
-   "amazon.fr": false,
-   "amazon.it": false
+   "amazon.co.uk": null,
+   "amazon.com": "B0957TV4YR",
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0957TV4YR",
+   "amazon.it": null
   },
   "rtx3090": {
    "amazon.co.uk": "B08HR6ZBYJ",
@@ -2894,15 +2891,6 @@
    "amazon.es": "B09X4JVZB5",
    "amazon.fr": "B09X4JVZB5",
    "amazon.it": "B09X4JVZB5"
-  },
-  "rtx4000ada": {
-   "amazon.co.uk": null,
-   "amazon.com": null,
-   "amazon.com.au": null,
-   "amazon.de": null,
-   "amazon.es": null,
-   "amazon.fr": "B09N7VWYR7",
-   "amazon.it": null
   },
   "rtx4060": {
    "amazon.co.uk": "B0C7W8GZMJ",
@@ -3718,15 +3706,6 @@
   }
  },
  "psus": {
-  "asus-rog-strix-1000w": {
-   "amazon.co.uk": null,
-   "amazon.com": null,
-   "amazon.com.au": null,
-   "amazon.de": null,
-   "amazon.es": null,
-   "amazon.fr": "B0DZPCGF7T",
-   "amazon.it": null
-  },
   "asus-tuf-gaming-750w": {
    "amazon.co.uk": null,
    "amazon.com": false,
@@ -4378,13 +4357,13 @@
    "amazon.it": false
   },
   "ddr4_8_2666c16": {
-   "amazon.co.uk": false,
-   "amazon.com": null,
+   "amazon.co.uk": null,
+   "amazon.com": "B0123ZB70Q",
    "amazon.com.au": null,
-   "amazon.de": false,
-   "amazon.es": false,
-   "amazon.fr": false,
-   "amazon.it": false
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": "B0123ZB70Q",
+   "amazon.it": null
   },
   "ddr4_8_3200c16": {
    "amazon.co.uk": "B07YCVJ89W",
@@ -4603,12 +4582,12 @@
    "amazon.it": "B0BRL75D7Y"
   },
   "ddr5_32_8000c40": {
-   "amazon.co.uk": false,
-   "amazon.com": false,
-   "amazon.com.au": false,
-   "amazon.de": false,
+   "amazon.co.uk": null,
+   "amazon.com": "B0F2J23X58",
+   "amazon.com.au": null,
+   "amazon.de": null,
    "amazon.es": null,
-   "amazon.fr": null,
+   "amazon.fr": "B0F2J23X58",
    "amazon.it": null
   },
   "ddr5_48_5600c40": {
@@ -4748,15 +4727,6 @@
    "amazon.fr": "B01LNJBA2I",
    "amazon.it": false
   },
-  "hdd-firecuda-2tb": {
-   "amazon.co.uk": null,
-   "amazon.com": null,
-   "amazon.com.au": null,
-   "amazon.de": null,
-   "amazon.es": null,
-   "amazon.fr": "B01M1UQQT5",
-   "amazon.it": null
-  },
   "hdd-p300-1tb": {
    "amazon.co.uk": null,
    "amazon.com": "B013J7IN86",
@@ -4773,15 +4743,6 @@
    "amazon.de": null,
    "amazon.es": null,
    "amazon.fr": null,
-   "amazon.it": null
-  },
-  "hdd-wdblue-2tb": {
-   "amazon.co.uk": null,
-   "amazon.com": null,
-   "amazon.com.au": null,
-   "amazon.de": null,
-   "amazon.es": null,
-   "amazon.fr": "B07JC1TQ7N",
    "amazon.it": null
   },
   "nvme-9100pro-2tb": {

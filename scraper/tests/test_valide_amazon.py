@@ -60,6 +60,7 @@ CATALOGUE = {
         {"name": "be quiet! Pure Power 12 M 650W", "rating": "80+ Gold"},
         {"name": "be quiet! System Power 10 550W", "rating": "80+ Bronze"},
         {"name": "Cooler Master MWE Gold 750 V2", "rating": "80+ Gold"},
+        {"name": "NZXT C750 Gold", "rating": "80+ Gold"},
     ],
     "gpus": [
         {"name": "GeForce GTX 1050", "vramGb": 2},
@@ -74,6 +75,7 @@ CATALOGUE = {
         {"name": "GeForce RTX 3080 12G", "vramGb": 12},
         {"name": "GeForce RTX 4060 Ti", "vramGb": 8},
         {"name": "GeForce RTX 4060 Ti 16G", "vramGb": 16},
+        {"name": "GeForce RTX 5070", "vramGb": 12},
     ],
     "cpus": [{"name": n} for n in (
         "Ryzen 7 5700G", "Core i5-14500", "Core i5-10600K", "Xeon w9-3495X",
@@ -474,6 +476,52 @@ class AuditVentilateurs(_Base):
         self.accepte("fans", "Lian Li UNI SL120 (×3)", "Lian Li UNI FAN SL120 V2 RGB 3er Pack mit Controller, schwarz")
 
 
+# --- premier run GitHub du validateur (18/11/2026) : 5 faux encore acceptés -------
+class PremierRunGithub(_Base):
+    def test_memoire_collee_au_code_du_modele(self):
+        # « O8G » (O = OC), « 08G » : 8 Go, quand le catalogue dit 4 Go.
+        self.rejete("gpus", "Radeon RX 570", "Asustor ROG-STRIX-RX570-O8G-GAMING")
+        self.rejete("gpus", "Radeon RX 570", "Sapphire Pulse Radeon RX 570 08G GDDR5")
+        self.accepte("gpus", "Radeon RX 570",
+                     "ASUS ROG-STRIX-RX570-O4G-GAMING Carte Graphique AMD Radeon RX 570 HDMI")
+
+    def test_version_sff(self):
+        self.rejete("gpus", "RTX 4000 Ada", "Nvidia Leadtek RTX 4000 SFF Ada Retail")
+        self.accepte("gpus", "RTX 4000 Ada",
+                     "PNY NVIDIA RTX 4000 Ada Generation 20GB GDDR6 Carte Graphique Professionnelle")
+        # « SFF-Ready » décrit une carte normale qui entre dans un petit boîtier.
+        self.accepte("gpus", "GeForce RTX 5070",
+                     "ASUS Prime GeForce RTX™ 5070 GDDR7 12GB OC Edition – Graphics Card "
+                     "(PCIe 5.0, HDMI, Display 2.1, 2.5 Slot, Axial Fans, SFF-Ready)")
+
+    def test_label_sans_80_plus(self):
+        self.rejete("psus", "ASUS ROG Strix 1000W",
+                    "ASUS ROG Strix - 1000W Platinum, Alimentation modulaire, Blanc | 1000W, ATX 3.1")
+        self.accepte("psus", "ASUS ROG Strix 1000W",
+                     "ASUS ROG Strix 1000W Gold Aura Edition, Alimentation modulaire, ATX 3.0")
+        # Un label Cybenetics n'est pas un label 80 PLUS.
+        self.accepte("psus", "NZXT C750 Gold",
+                     "NZXT C750 Gold - 750W ATX 3.1 Netzteil, Cybenetics Platinum, vollmodular")
+
+    def test_vitesse_en_tours_par_minute(self):
+        self.rejete("ssds", "WD Blue 2 To (7200)",
+                    "WESTERN DIGITAL Blue WD20EZAZ - Disque dur - 2 To - interne - 3.5\" - "
+                    "SATA 6Gb/s - 5400 tours/min")
+        self.accepte("ssds", "WD Blue 2 To (7200)",
+                     "WESTERN DIGITAL Blue WD20EZBX - Disque dur - 2 To - interne - 3.5\" - "
+                     "SATA 6Gb/s - 7200 tours/min")
+
+    def test_disque_de_2_5_pouces_pour_un_7200(self):
+        self.rejete("ssds", "Seagate FireCuda 2 To (7200)",
+                    "Seagate FireCuda, 2 To, Disque hybride hautes performances SSHD, 2,5\" "
+                    "SATA 6 Gbit/s, 8 Go de mémoire cache")
+        self.rejete("ssds", "Seagate FireCuda 2 To (7200)",
+                    "Seagate FireCuda 2 To SSHD 2.5 pouces SATA 6 Gbit/s")
+        self.accepte("ssds", "Seagate FireCuda 2 To (7200)",
+                     "Seagate FireCuda, 2 To, Disque dur hybride SSHD interne 3,5\" SATA 6 Gbit/s, "
+                     "7200 tr/min, 64 Mo de mémoire cache")
+
+
 # --- mécanique ------------------------------------------------------------------
 class Mecanique(unittest.TestCase):
     def test_signature_compatible(self):
@@ -513,6 +561,28 @@ class Mecanique(unittest.TestCase):
         self.assertTrue(ra.numeros_coherents("Lian Li Lancool III", "Lian Li Lancool Iii Rgb - Mid Tower"))
         self.assertFalse(ra.numeros_coherents("Lian Li Lancool II", "Lian Li Lancool III Rgb - Mid Tower"))
 
+
+    def test_memoire_et_ssd_disent_leur_machine_cible(self):
+        # « Desktop », « Ordinateur de bureau », « Laptop » décrivent la machine
+        # cible d'une barrette ou d'un SSD, pas un PC monté (18/11/2026).
+        ram48 = {"name": "48 Go DDR5-6000 CL30", "kind": "DDR5", "mhz": 6000, "sizeGb": 48, "cl": 30}
+        ram32 = {"name": "32 Go DDR5-4800 CL40", "kind": "DDR5", "mhz": 4800, "sizeGb": 32, "cl": 40}
+        t500 = {"name": "Crucial T500 (Gen4)", "kind": "NVMe Gen4"}
+        cas = [
+            ("rams", ram48, "CORSAIR VENGEANCE DDR5 RAM 48Go (2x24Go) 6000MHz CL30 Intel XMP "
+             "iCUE Compatible Mémoire pour Ordinateur de Bureau - Noir (CMK48GX5M2B6000C30)"),
+            ("rams", ram32, "Corsair VENGEANCE DDR5 32GB (2x16GB) 4800MHz C40 "
+             "Desktop-Arbeitsspeicher (CMK32GX5M2A4800C40)"),
+            ("ssds", t500, "Crucial T500 SSD 1To PCIe Gen4 NVMe M.2 SSD Interne, "
+             "Laptop und Desktop (CT1000T500SSD8)"),
+        ]
+        for cat, it, titre in cas:
+            self.assertTrue(ra.valide(cat, it["name"], titre, ra._jetons(cat, it), souple=True,
+                                      catalogue=[]), titre)
+        # Un vrai PC monté reste rejeté.
+        ram = {"name": "32 Go DDR5-6000 CL30", "kind": "DDR5", "mhz": 6000, "sizeGb": 32, "cl": 30}
+        self.assertFalse(ra.valide("rams", ram["name"], "PC de bureau gaming Ryzen 7 avec 32 Go DDR5 6000 CL30",
+                                   ra._jetons("rams", ram), souple=True, catalogue=[]))
 
 if __name__ == "__main__":
     unittest.main()

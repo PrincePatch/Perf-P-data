@@ -262,10 +262,24 @@ class AlternateSource(_ClientPoli):
         (18/11/2026). La latence est contrôlée ensuite via `Timing`."""
         return f"{it['sizeGb']} Go {it['kind']}-{it['mhz']}"
 
+    def _diagnostiquer(self, soup):
+        """Une fois par passage : ce que la boutique a vraiment servi quand la
+        liste est vide. Le 18/11/2026, depuis les serveurs de GitHub, Alternate
+        ne donnait presque plus aucun résultat alors que la même recherche en
+        renvoie 24 depuis la France : cette ligne du journal dira pourquoi."""
+        if getattr(self, "_diagnostic_fait", False):
+            return
+        self._diagnostic_fait = True
+        titre = soup.title.get_text(" ", strip=True) if soup.title else ""
+        texte = soup.get_text(" ", strip=True)[:300]
+        print(f"  diagnostic alternate : page sans produit, url={self.url_finale} "
+              f"titre={titre[:80]!r} texte={texte!r}", flush=True)
+
     def offres(self, requete):
         soup = self._get(f"{self.base_url}/listing.xhtml?q={quote(requete)}")
         boites = soup.select("a.productBox")
         if not boites:
+            self._diagnostiquer(soup)
             if aucun_resultat(soup, AUCUN_RESULTAT_FR):
                 return []
             raise PageNonReconnue(f"page non reconnue : {self.url_finale}")

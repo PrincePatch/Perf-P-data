@@ -23,7 +23,7 @@ import sys
 
 sys.path.insert(0, os.path.dirname(__file__))
 from gen_amazon_links import FICHIERS  # noqa: E402
-from resolve_amazon_asins import _jetons, valide  # noqa: E402
+from resolve_amazon_asins import _jetons, definir_catalogue, valide  # noqa: E402
 
 RACINE = os.path.join(os.path.dirname(__file__), "..")
 
@@ -34,6 +34,9 @@ def principal():
     ap.add_argument("--items-dir", default=os.path.join(RACINE, "assets", "data"))
     ap.add_argument("--dry-run", action="store_true")
     args = ap.parse_args()
+    # Les garde-fous de `valide` (modèle voisin plus précis…) lisent le MÊME
+    # catalogue que celui qu'on revalide.
+    definir_catalogue(args.items_dir)
 
     with open(args.asins, encoding="utf-8") as f:
         cache = json.load(f)

@@ -180,9 +180,13 @@ FV_SHOPS_SECONDAIRES = [
 # composant) — lot 28. Comparaison sur le nom BRUT en minuscules (pas _norm,
 # pour garder les séparateurs : « pc » seul matcherait « PCIe »).
 _MOTS_BUNDLE = (
-    " + ", "combo", "bundle", "komputer", "zestaw", "gaming pc", "pc gamer",
-    "desktop", "laptop", "notebook", "ordinateur", "barebone", "mini pc",
-    "upgrade kit", "kit upgrade", "kit évolution", "system", "all-in-one",
+    " + ", "combo", "bundle", "komputer", "zestaw", "gaming pc", "gaming-pc",
+    "pc gamer", "desktop", "laptop", "notebook", "ordinateur", "barebone",
+    "mini pc", "upgrade kit", "kit upgrade", "kit évolution", "all-in-one",
+    # « system » seul rejetait toute la gamme d'alimentations be quiet!
+    # « System Power » : seules les tournures de PC monté sont retenues.
+    "gaming system", "pc system", "pc-system", "computer system",
+    "komplettsystem", "komplett-pc",
 )
 
 # ACCESSOIRES portant le nom d'un composant (waterblock, backplate, support
@@ -207,7 +211,10 @@ _MOTS_ACCESSOIRE = (
 # langues des boutiques suivies (fr, en, de, it, es, pt). Même liste que
 # `estProduitOccasion` de l'app (lib/models/components.dart).
 _RE_OCCASION = re.compile(
-    r"(?<!\w)(occasion|used|refurbished|renewed|b[-\s]?stock|"
+    # « open box » (article déballé, revendu moins cher) : relevé chez Newegg
+    # et Canada Computers le 18/11. « outlet » n'est volontairement PAS ici :
+    # le mot apparaît aussi dans des descriptions de ventilation (« air outlet »).
+    r"(?<!\w)(occasion|used|refurbished|renewed|b[-\s]?stock|open[-\s]?box|"
     r"reconditionn[ée]e?s?|ricondizionat[oaie]|gebraucht(?:e[rsmn]?)?|"
     r"usad[oa]s?|reacondicionad[oa]s?|recondicionad[oa]s?|"
     r"generalüberholt(?:e[rsmn]?)?)(?!\w)",
@@ -240,7 +247,11 @@ def produit_suspect(nom_offre, cat=None):
 
 # Taux €→devise pour comparer des offres multi-devises (mêmes taux figés que
 # le modèle Dart de l'app).
-_TAUX_EUR = {"USD": 1.08, "GBP": 0.86, "CHF": 0.94, "PLN": 4.30, "CAD": 1.47}
+# AUD : amazon.com.au publie en dollars australiens ; sans taux, une offre AUD
+# était comptée 1:1 dans les médianes et les minima (l'app, elle, ignore les
+# devises qu'elle ne connaît pas).
+_TAUX_EUR = {"USD": 1.08, "GBP": 0.86, "CHF": 0.94, "PLN": 4.30, "CAD": 1.47,
+             "AUD": 1.65}
 
 
 def prix_eur(offre):

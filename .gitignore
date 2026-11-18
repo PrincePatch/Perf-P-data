@@ -1,0 +1,4 @@
+# Fichiers temporaires des écritures atomiques des scripts (os.replace) :
+# une étape tuée au mauvais moment peut en laisser un, à ne jamais committer.
+*.tmp
+__pycache__/

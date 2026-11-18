@@ -8,8 +8,13 @@ permissions:
 jobs:
   refresh:
     runs-on: ubuntu-latest
-    # 300 min (plafond GitHub : 360) ; chaque étape de scraping a SA limite, pour
+    # 300 min (plafond GitHub : 360) ; chaque étape réseau a SA limite, pour
     # qu'une source lente ne puisse plus empêcher l'étape « Commit data » d'arriver.
+    # Somme des limites d'étape : 15 + 10 + 70 + 20 + 50 + 15 + 20 + 45 + 20
+    # = 265 min, les étapes locales prennent moins d'une minute : le job ne peut
+    # plus atteindre ses 300 min. C'est nécessaire, car un job arrêté par SON
+    # timeout est annulé, et le commit (if: !cancelled()) n'aurait pas lieu.
+    # Durée réelle constatée : ~80 min (gputracker bloqué), ~135 min sinon.
     timeout-minutes: 300
     steps:
       - uses: actions/checkout@v4
@@ -21,9 +26,12 @@ jobs:
       # gputracker.eu (Cloudflare) refuse parfois les runners GitHub (403) : l'etape
       # ne bloque plus les autres sources de prix. Ses JSON et meta.json restent
       # ceux de la derniere collecte reussie (le tableau de bord voit la date vieillir).
+      # Limite de 15 min : ~4 min quand gputracker répond, quelques secondes
+      # quand il refuse ; elle borne la durée du job s'il répond au ralenti.
       - name: Scrape prix (gputracker) + benchmarks (PassMark)
         id: gputracker
         run: python scraper/main.py --categories gpus,cpus --out-dir .
+        timeout-minutes: 15
         continue-on-error: true
       # Prix gputracker plus vieux que 30 h : gpus.json / cpus.json sont publies
       # SANS prix (noms, images, indices gardes). L'app prend alors les offres
@@ -32,10 +40,17 @@ jobs:
       - name: Retirer les prix gputracker perimes
         run: python scraper/retirer_prix_perimes.py --data-repo . --age-max-h 30
         continue-on-error: true
+      # Réseau aussi (~1 min) : bornée, et son échec n'arrête plus les sources
+      # de prix qui suivent.
       - name: Telecharger les images produit
         run: python scraper/download_images.py --json gpus.json --images-dir images
+        timeout-minutes: 10
+        continue-on-error: true
+      # Sans continue-on-error, son échec sauterait toutes les sources de prix
+      # suivantes (elles n'ont que le `if: success()` implicite).
       - name: Restaurer les references d'images existantes
         run: python scraper/restore_images.py --data-repo .
+        continue-on-error: true
       # Offres par composant de l'app (GPU/CPU/RAM/SSD/cartes meres/alims/
       # boitiers) : prix constates multi-boutiques A JOUR a chaque execution.
       # Les listes de composants vivent dans catalog/ (copie des assets app).
@@ -57,9 +72,13 @@ jobs:
       # Alternate (EUR, stock reel + tout le catalogue), Morele (PLN) et
       # Canada Computers (CAD) — enrichissent les 7 categories id-clees
       # en plus des offres gputracker/Newegg.
+      # Un fil par boutique (--paralleles 5) et arrêt PROPRE après 40 min
+      # (--budget-min) : les fichiers sont écrits avant la limite de l'étape
+      # (50 min), qui ne sert plus que de filet. Avant, l'étape était tuée à
+      # 45 min à chaque run et les dernières catégories n'étaient plus relevées.
       - name: Prix boutiques directes (LDLC, Materiel.net, Alternate, Morele, Canada Computers)
-        run: python scraper/enrich_shops.py --data-repo . --items-dir catalog
-        timeout-minutes: 45
+        run: python scraper/enrich_shops.py --data-repo . --items-dir catalog --budget-min 40 --paralleles 5
+        timeout-minutes: 50
         continue-on-error: true
       # Prix verifies AMAZON (lot 31) via la Product Advertising API 5.0 :
       # Amazon n'est pas scrapable en direct, et c'est le lien d'affiliation
@@ -96,9 +115,19 @@ jobs:
       # NB : le runner GitHub est AMERICAIN, il obtient donc les prix
       # amazon.com en dollars — ce qu'une execution depuis l'Europe ne peut pas
       # faire (Amazon y convertit tout en euros, et ces montants sont ecartes).
+      # 4 fils (une marketplace n'est jamais servie par deux fils : la pause
+      # par domaine tient ; ~2 requetes/s vers Amazon au total) et arret PROPRE
+      # apres 30 min (--budget-min), sous la limite de l'etape (38 min). Les
+      # couples les plus anciennement verifies passent d'abord
+      # (amazon_verif.json) : une passe complete prend ~20 min. Avant, l'etape
+      # etait tuee a 30 min et les fiches de fin de catalogue jamais revues.
+      # Un composant dont la DERNIERE fiche meurt sort du cache : il est
+      # re-cherche par resolve_amazon_asins au passage suivant.
       - name: Prix et validite des liens Amazon
-        run: python scraper/verifier_amazon.py --data-repo . --items-dir catalog
-        timeout-minutes: 30
+        run: >
+          python scraper/verifier_amazon.py --data-repo . --items-dir catalog
+          --budget-min 30 --paralleles 4 --frais-h 4
+        timeout-minutes: 38
         continue-on-error: true
       - name: Nettoyage des offres Amazon en devise convertie
         run: python scraper/nettoyer_amazon.py --data-repo .
@@ -108,11 +137,17 @@ jobs:
           python scraper/gen_amazon_links.py --out catalog/amazon_links.json
           --items-dir catalog --asins amazon_asins.json
         continue-on-error: true
-      # Nettoyage FINAL (lot 29b) : retire des prices[] fusionnes les accessoires
-      # (waterblock, backplate, cable...) et les aberrations basses (< 0,4x la
-      # mediane) qui ont echappe aux filtres par-source, et recalcule priceMin.
-      - name: Nettoyage des offres (accessoires + aberrations)
-        run: python scraper/nettoyer_offres.py --data-repo .
+      # Nettoyage FINAL (lot 29b) : retire des prices[] fusionnes, dans les 9
+      # fichiers par composant (ventilateurs compris), d'abord les offres
+      # PERIMEES (lastSeen absent ou de plus de 72 h : au moins 5 runs pour
+      # qu'une source revoie une offre, les runs ayant lieu toutes les 5 a 14 h),
+      # puis les accessoires (waterblock, backplate, cable...), les aberrations
+      # basses (< 0,4x la mediane) et hautes (> 2,5x la mediane des autres
+      # offres, en euros), et recalcule priceMin (null sans offre : l'app
+      # affiche alors le prix de son catalogue). gpus.json / cpus.json restent
+      # a « Retirer les prix gputracker perimes » (30 h).
+      - name: Nettoyage des offres (perimees + accessoires + aberrations)
+        run: python scraper/nettoyer_offres.py --data-repo . --age-max-h 72
         continue-on-error: true
       # Photos par MODELE (variante AIB) pour les modeles sans image d'offre
       # (lot 17, item 3) : incremental, ne re-cherche que les nouveaux.
@@ -120,7 +155,46 @@ jobs:
         run: python scraper/fetch_model_images.py --data-repo .
         timeout-minutes: 20
         continue-on-error: true
+      # Une étape tuée par sa limite peut laisser un JSON à moitié écrit ;
+      # publié, il ferait perdre toute la catégorie à l'app (lecture refusée).
+      # Chaque JSON modifié ou nouveau (amazon_verif.json compris) est relu :
+      # illisible, il reprend sa version précédente (nouveau : il est retiré).
+      - name: Verifier les JSON avant commit
+        if: ${{ !cancelled() }}
+        run: |
+          python - <<'EOF'
+          import json, os, subprocess
+          sortie = subprocess.run(["git", "status", "--porcelain", "-z", "-uall", "--", "*.json"],
+                                  capture_output=True, text=True, check=True).stdout
+          for entree in filter(None, sortie.split("\0")):
+              etat, chemin = entree[:2], entree[3:]
+              if "D" in etat or not os.path.isfile(chemin):
+                  continue
+              try:
+                  with open(chemin, encoding="utf-8") as f:
+                      json.load(f)
+              except ValueError as e:
+                  nouveau = etat == "??"
+                  print(f"::warning::{chemin} illisible ({e}) : "
+                        f"{'non publie' if nouveau else 'version precedente gardee'}")
+                  if nouveau:
+                      os.remove(chemin)
+                  else:
+                      subprocess.run(["git", "checkout", "--", chemin], check=True)
+          EOF
+        continue-on-error: true
+      # Règle GitHub Actions : une étape sans fonction de statut dans son `if`
+      # reçoit `if: success()`, vrai quand toutes les étapes précédentes ont
+      # réussi. Une étape `continue-on-error: true` qui échoue — y compris
+      # tuée par son `timeout-minutes` — a pour outcome `failure` mais pour
+      # conclusion `success` : elle ne bloque donc pas le commit (vérifié au
+      # run du 18/11 : deux étapes tuées, commit 50b852d poussé). En revanche
+      # une étape SANS continue-on-error qui échoue (pip install…) l'aurait
+      # sauté : `!cancelled()` le lance quand même, sauf annulation manuelle
+      # ou job arrêté par son propre timeout (voir en haut). `always()` est
+      # écarté : il pousserait aussi après une annulation manuelle.
       - name: Commit data
+        if: ${{ !cancelled() }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"

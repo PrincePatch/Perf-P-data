@@ -225,7 +225,7 @@
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-17T16:12:40Z"
+  "lastUpdated": "2026-11-18T01:12:58Z"
  },
  {
   "id": "ddr4_32_3600c18",
@@ -797,7 +797,7 @@
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-17T16:12:40Z"
+  "lastUpdated": "2026-11-18T01:12:58Z"
  },
  {
   "id": "ddr5_32_8000c38",
@@ -1053,7 +1053,7 @@
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-17T16:12:40Z"
+  "lastUpdated": "2026-11-18T01:12:58Z"
  },
  {
   "id": "ddr5_64_6000c32",
@@ -1304,7 +1304,7 @@
  {
   "id": "ddr4_64_3200c16",
   "name": "64 Go DDR4-3200 CL16",
-  "priceMin": 659.95,
+  "priceMin": 576.55,
   "prices": [
    {
     "shop": "materiel.net",
@@ -1317,18 +1317,28 @@
     "image": "https://media.materiel.net/r250/products/MN0005755728_1_0005755729.jpg"
    },
    {
+    "shop": "amazon.co.uk",
+    "price": 495.83,
+    "currency": "GBP",
+    "url": "https://www.amazon.co.uk/dp/B07Y4ZZ7LQ?tag=fraym0a-21",
+    "inStock": true,
+    "lastSeen": "2026-11-18T01:12:58Z",
+    "product": "CORSAIR VENGEANCE LPX DDR4 RAM 64GB (2x32GB) Up to 3200MHz CL16-20-20-38 1.35V Intel XMP AMD EXPO Computer Memory – Black (CMK64GX4M2E3200C16)",
+    "image": null
+   },
+   {
     "shop": "amazon.fr",
-    "price": 679.22,
+    "price": 839.25,
     "currency": "EUR",
     "url": "https://www.amazon.fr/dp/B07Y4ZZ7LQ?tag=fraym-21",
     "inStock": true,
-    "lastSeen": "2026-11-17T02:07:44Z",
+    "lastSeen": "2026-11-18T01:12:58Z",
     "product": "Corsair Vengeance LPX 64GB (2x32GB) DDR4 Jusqu'à 3200MHz C16 - Black",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-17T02:07:44Z"
+  "lastUpdated": "2026-11-18T01:12:58Z"
  },
  {
   "id": "ddr5_16_4800c38",
@@ -1352,7 +1362,7 @@
  {
   "id": "ddr5_16_4800c40",
   "name": "16 Go DDR5-4800 CL40",
-  "priceMin": 279.95,
+  "priceMin": 233.29,
   "prices": [
    {
     "shop": "materiel.net",
@@ -1385,18 +1395,38 @@
     "image": "https://media.materiel.net/r250/products/MN0005973290.jpg"
    },
    {
+    "shop": "amazon.es",
+    "price": 343.08,
+    "currency": "EUR",
+    "url": "https://www.amazon.es/dp/B09HW2JNHX?tag=fraym08-21",
+    "inStock": true,
+    "lastSeen": "2026-11-18T01:12:58Z",
+    "product": "Crucial RAM DDR5 16GB 4800MHz, Memoria PC, CL40 - CT16G48C40U5",
+    "image": null
+   },
+   {
     "shop": "amazon.fr",
-    "price": 279.95,
+    "price": 233.29,
     "currency": "EUR",
     "url": "https://www.amazon.fr/dp/B09HW2JNHX?tag=fraym-21",
     "inStock": true,
-    "lastSeen": "2026-11-17T02:07:44Z",
+    "lastSeen": "2026-11-18T01:12:58Z",
     "product": "Crucial RAM DDR5 16Go 4800MHz, PC Mémoire, CL40 - CT16G48C40U5",
+    "image": null
+   },
+   {
+    "shop": "amazon.it",
+    "price": 330.37,
+    "currency": "EUR",
+    "url": "https://www.amazon.it/dp/B09HW2JNHX?tag=fraym06-21",
+    "inStock": true,
+    "lastSeen": "2026-11-18T01:12:58Z",
+    "product": "Crucial RAM DDR5 16GB 4800MHz, Memoria PC, CL40 - CT16G48C40U5",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-17T02:07:44Z"
+  "lastUpdated": "2026-11-18T01:12:58Z"
  },
  {
   "id": "ddr5_16_5600c36",
@@ -1633,7 +1663,7 @@
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-17T02:07:44Z"
+  "lastUpdated": "2026-11-18T01:12:58Z"
  },
  {
   "id": "ddr5_32_5200c40",
@@ -2077,7 +2107,7 @@
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-17T02:07:44Z"
+  "lastUpdated": "2026-11-18T01:12:58Z"
  },
  {
   "id": "ddr5_64_5600c40",
@@ -2125,7 +2155,7 @@
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-17T16:12:40Z"
+  "lastUpdated": "2026-11-18T01:12:58Z"
  },
  {
   "id": "ddr5_96_5600c40",
@@ -2164,7 +2194,7 @@
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-17T16:12:40Z"
+  "lastUpdated": "2026-11-18T01:12:58Z"
  },
  {
   "id": "ddr4_16_3000c16",
@@ -2440,10 +2470,20 @@
     "lastSeen": "2026-11-17T02:07:44Z",
     "product": "Corsair Vengeance LPX 16Go (2x8Go) DDR4 Jusqu'à 2666MHz C16 XMP 2.0 Kit de Mémoire Haute Performance - Noir",
     "image": null
+   },
+   {
+    "shop": "amazon.es",
+    "price": 223.38,
+    "currency": "EUR",
+    "url": "https://www.amazon.es/dp/B0123ZC44Y?tag=fraym08-21",
+    "inStock": true,
+    "lastSeen": "2026-11-18T01:12:58Z",
+    "product": "Corsair Vengeance LPX - Módulo de Memoria XMP 2.0 de 16GB (2 X 8GB, DDR4, hasta 2666MHz, CL16), Negro",
+    "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-17T02:07:44Z"
+  "lastUpdated": "2026-11-18T01:12:58Z"
  },
  {
   "id": "ddr5_32_6600c32",
@@ -2463,5 +2503,43 @@
   ],
   "image": null,
   "lastUpdated": "2026-11-17T02:07:44Z"
+ },
+ {
+  "id": "ddr4_64_3600c18",
+  "name": "64 Go DDR4-3600 CL18",
+  "priceMin": 2322.5,
+  "prices": [
+   {
+    "shop": "amazon.de",
+    "price": 2322.5,
+    "currency": "EUR",
+    "url": "https://www.amazon.de/dp/B0879LFQ63?tag=fraym03-21",
+    "inStock": true,
+    "lastSeen": "2026-11-18T01:12:58Z",
+    "product": "G.Skill DDR4 64 GB PC 3600 CL18 KIT 2x32 GB 64GVK Ripjaws 64 GB 3.600 MHz 2 32",
+    "image": null
+   }
+  ],
+  "image": null,
+  "lastUpdated": "2026-11-18T01:12:58Z"
+ },
+ {
+  "id": "ddr5_48_6400c32",
+  "name": "48 Go DDR5-6400 CL32",
+  "priceMin": 2145.75,
+  "prices": [
+   {
+    "shop": "amazon.de",
+    "price": 2145.75,
+    "currency": "EUR",
+    "url": "https://www.amazon.de/dp/B0C6HW1GKZ?tag=fraym03-21",
+    "inStock": true,
+    "lastSeen": "2026-11-18T01:12:58Z",
+    "product": "G.Skill DDR5 48 GB PC 6400 CL32 KIT 2x24 48-RS5K",
+    "image": null
+   }
+  ],
+  "image": null,
+  "lastUpdated": "2026-11-18T01:12:58Z"
  }
 ]

@@ -13,12 +13,62 @@
   "priceMin": 104.95,
   "prices": [
    {
+    "shop": "morele.net",
+    "price": 506.3,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-gigabyte-b550m-aorus-elite-7005841/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Gigabyte B550M AORUS ELITE",
+    "image": "https://images.morele.net/i256/7005841_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 541.61,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-gigabyte-b550m-x-aorus-elite-600407063/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Gigabyte B550M X AORUS ELITE",
+    "image": "https://images.morele.net/i256/600407063_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 542.91,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-gigabyte-b550m-aorus-elite-ax-13673761/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Gigabyte B550M AORUS ELITE AX",
+    "image": "https://images.morele.net/i256/13673761_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 633.99,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-gigabyte-b550m-x-aorus-elite-wifi7-600407061/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Gigabyte B550M X AORUS ELITE WIFI7",
+    "image": "https://images.morele.net/i256/600407061_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 751.92,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-gigabyte-b550i-aorus-pro-ax-6960477/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Gigabyte B550I AORUS PRO AX",
+    "image": "https://images.morele.net/i256/6960477_0_i256.jpg"
+   },
+   {
     "shop": "ldlc.com",
     "price": 104.95,
     "currency": "EUR",
     "url": "https://www.ldlc.com/fiche/PB00357556.html",
     "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
+    "lastSeen": "2026-11-18T15:02:32Z",
     "product": "Gigabyte B550M AORUS ELITE",
     "image": "https://media.ldlc.com/r150/ld/products/00/05/83/25/LD0005832533_1.jpg"
    },
@@ -28,7 +78,7 @@
     "currency": "EUR",
     "url": "https://www.ldlc.com/fiche/PB00755462.html",
     "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
+    "lastSeen": "2026-11-18T15:02:32Z",
     "product": "Gigabyte B550M X AORUS ELITE",
     "image": "https://media.ldlc.com/r150/ld/products/00/06/38/27/LD0006382711.jpg"
    },
@@ -38,7 +88,7 @@
     "currency": "EUR",
     "url": "https://www.ldlc.com/fiche/PB00755464.html",
     "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
+    "lastSeen": "2026-11-18T15:02:32Z",
     "product": "Gigabyte B550M X AORUS ELITE WIFI7",
     "image": "https://media.ldlc.com/r150/ld/products/00/06/38/27/LD0006382755.jpg"
    },
@@ -48,7 +98,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202008200053.html",
     "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
+    "lastSeen": "2026-11-18T15:02:32Z",
     "product": "Gigabyte B550M Aorus Elite",
     "image": "https://media.materiel.net/r250/products/MN0005709120_1.jpg"
    },
@@ -58,7 +108,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202609250123.html",
     "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
+    "lastSeen": "2026-11-18T15:02:32Z",
     "product": "Gigabyte B550M X AORUS ELITE",
     "image": "https://media.materiel.net/r250/products/MN0006383195.jpg"
    },
@@ -68,18 +118,18 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202609250124.html",
     "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
+    "lastSeen": "2026-11-18T15:02:32Z",
     "product": "Gigabyte B550M X AORUS ELITE WIFI7",
     "image": "https://media.materiel.net/r250/products/MN0006383199.jpg"
    }
   ],
   "image": "images/mobos-b550-aorus.jpg",
-  "lastUpdated": "2026-11-18T12:17:00Z"
+  "lastUpdated": "2026-11-18T15:02:32Z"
  },
  {
   "id": "z790-edge",
   "name": "MSI MPG Z790 Edge WiFi",
-  "priceMin": 229.95,
+  "priceMin": 155.58,
   "prices": [
    {
     "shop": "materiel.net",
@@ -110,10 +160,40 @@
     "lastSeen": "2026-11-16T14:37:02Z",
     "product": "MSI MAG Z790 TOMAHAWK WIFI",
     "image": "https://media.materiel.net/r250/products/MN0005983384.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 669.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-msi-z790-gaming-plus-wifi-13120242/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna MSI Z790 GAMING PLUS WIFI",
+    "image": "https://images.morele.net/i256/13120242_4_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 695.45,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-msi-pro-z790-p-wifi-12210952/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna MSI PRO Z790-P WIFI",
+    "image": "https://images.morele.net/i256/12210952_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 831.63,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-msi-mag-z790-tomahawk-wifi-12812986/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna MSI MAG Z790 TOMAHAWK WIFI",
+    "image": "https://images.morele.net/i256/12812986_0_i256.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-16T14:37:02Z"
+  "lastUpdated": "2026-11-18T15:45:00Z"
  },
  {
   "id": "b760-pro",
@@ -139,46 +219,6 @@
     "lastSeen": "2026-11-18T11:50:13Z",
     "product": "ASUS Prime B760-PLUS (Socket 1700/B760/DDR5/S-ATA 6Gb/s/ATX) : Electronics",
     "image": null
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 139.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00536056.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
-    "product": "ASUS PRIME B760-PLUS D4",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/00/25/LD0006002565.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 159.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00563612.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
-    "product": "ASUS PRIME B760-PLUS",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/05/39/LD0006053995.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 139.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202211250028.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
-    "product": "Asus PRIME B760-PLUS D4",
-    "image": "https://media.materiel.net/r250/products/MN0006004739.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 159.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202307180093.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
-    "product": "Asus PRIME B760-PLUS",
-    "image": "https://media.materiel.net/r250/products/MN0006055359.jpg"
    },
    {
     "shop": "amazon.fr",
@@ -209,15 +249,85 @@
     "lastSeen": "2026-11-18T13:08:37Z",
     "product": "ASUS Prime B760-PLUS (Socket 1700/B760/DDR5/S-ATA 6 Gb/s/ATX) | PCIe 5.0, 3x PCIe 4.0 M.2, Ethernet Realtek 2,5 Gb, USB 3.2 Gen 2x2 Type-C, Thunderbolt (USB4), Aura Sync",
     "image": null
+   },
+   {
+    "shop": "morele.net",
+    "price": 439.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-asus-prime-b760-plus-12812529/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Asus PRIME B760-PLUS",
+    "image": "https://images.morele.net/i256/12812529_6_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 502.96,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-asus-prime-b760-plus-d4-12481740/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Asus PRIME B760-PLUS D4",
+    "image": "https://images.morele.net/i256/12481740_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 632.4,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-asus-tuf-gaming-b760-plus-wifi-12851885/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Asus TUF GAMING B760-PLUS WIFI",
+    "image": "https://images.morele.net/i256/12851885_8_i256.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 139.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00536056.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "ASUS PRIME B760-PLUS D4",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/00/25/LD0006002565.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 159.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00563612.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "ASUS PRIME B760-PLUS",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/05/39/LD0006053995.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 139.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202211250028.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Asus PRIME B760-PLUS D4",
+    "image": "https://media.materiel.net/r250/products/MN0006004739.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 159.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202307180093.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Asus PRIME B760-PLUS",
+    "image": "https://media.materiel.net/r250/products/MN0006055359.jpg"
    }
   ],
   "image": "images/mobos-b760-pro.jpg",
-  "lastUpdated": "2026-11-18T13:08:37Z"
+  "lastUpdated": "2026-11-18T15:02:32Z"
  },
  {
   "id": "z890-carbon",
   "name": "MSI MPG Z890 Carbon WiFi",
-  "priceMin": 342.58,
+  "priceMin": 238.06,
   "prices": [
    {
     "shop": "amazon.es",
@@ -240,12 +350,92 @@
     "image": null
    },
    {
+    "shop": "morele.net",
+    "price": 1023.66,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-msi-pro-z890-s-wifi-14204665/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna MSI PRO Z890-S WIFI",
+    "image": "https://images.morele.net/i256/14204665_1_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1024.97,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-msi-pro-z890-s-wifi6e-16223039/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna MSI PRO Z890-S WIFI6E",
+    "image": "https://images.morele.net/i256/16223039_2_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1098.8,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-msi-pro-z890-p-wifi6e-16222990/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna MSI PRO Z890-P WIFI6E",
+    "image": "https://images.morele.net/i256/16222990_7_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1104.7,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-msi-pro-z890-s-wifi-pz-14782456/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna MSI PRO Z890-S WIFI PZ",
+    "image": "https://images.morele.net/i256/14782456_5_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1121.2,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-msi-z890-gaming-plus-wifi6e-600077131/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna MSI Z890 GAMING PLUS WIFI6E",
+    "image": "https://images.morele.net/i256/600077131_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1153.3,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-msi-z890-gaming-wifi-15752379/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna MSI Z890 GAMING WIFI",
+    "image": "https://images.morele.net/i256/15752379_6_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1199.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-msi-pro-z890-a-wifi-14253052/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna MSI PRO Z890-A WIFI",
+    "image": "https://images.morele.net/i256/14253052_5_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1380.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-msi-mpg-z890-edge-ti-wifi-14185621/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna MSI MPG Z890 EDGE TI WIFI",
+    "image": "https://images.morele.net/i256/14185621_0_i256.jpg"
+   },
+   {
     "shop": "materiel.net",
     "price": 569.95,
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202409240050.html",
     "inStock": false,
-    "lastSeen": "2026-11-18T12:17:00Z",
+    "lastSeen": "2026-11-18T15:02:32Z",
     "product": "MSI MPG Z890 CARBON WIFI",
     "image": "https://media.materiel.net/r900/products/MN0006176632.jpg"
    },
@@ -255,13 +445,13 @@
     "currency": "EUR",
     "url": "https://www.ldlc.com/fiche/PB00648535.html",
     "inStock": false,
-    "lastSeen": "2026-11-18T12:17:00Z",
+    "lastSeen": "2026-11-18T15:02:32Z",
     "product": "MSI MPG Z890 CARBON WIFI",
     "image": "https://media.ldlc.com/r1600/ld/products/00/06/17/55/LD0006175548.jpg"
    }
   ],
   "image": "images/mobos-z890-carbon.jpg",
-  "lastUpdated": "2026-11-18T12:17:00Z"
+  "lastUpdated": "2026-11-18T15:02:32Z"
  },
  {
   "id": "b860-gaming",
@@ -297,10 +487,50 @@
     "lastSeen": "2026-11-18T13:07:09Z",
     "product": "GIGABYTE B860 Gaming X WIFI6E Intel Core Ultra (Series 2) LGA 1851 Motherboard, ATX, DDR5, 3X M.2, PCIe 5.0, USB-C, WIFI6E, 2.5GbE LAN, EZ-Latch",
     "image": null
+   },
+   {
+    "shop": "morele.net",
+    "price": 695.72,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-gigabyte-b860m-gaming-wifi6-15668722/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Gigabyte B860M GAMING WIFI6",
+    "image": "https://images.morele.net/i256/15668722_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 744.61,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-gigabyte-b860m-gaming-x-wifi6e-14456109/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Gigabyte B860M GAMING X WIFI6E",
+    "image": "https://images.morele.net/i256/14456109_4_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 910.28,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-gigabyte-b860-gaming-x-wifi6e-14456121/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Gigabyte B860 GAMING X WIFI6E",
+    "image": "https://images.morele.net/i256/14456121_4_i256.jpg"
+   },
+   {
+    "shop": "amazon.it",
+    "price": 208.39,
+    "currency": "EUR",
+    "url": "https://www.amazon.it/dp/B0DQLLLHYY?tag=fraym06-21",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:44:43Z",
+    "product": "GIGABYTE B860 Gaming X WIFI6E Intel Core Ultra (Series 2) LGA 1851 Scheda madre, ATX, DDR5, 3X M.2, PCIe 5.0, USB-C, WIFI6E, 2.5GbE LAN, EZ-Latch",
+    "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-18T13:07:09Z"
+  "lastUpdated": "2026-11-18T15:44:43Z"
  },
  {
   "id": "x870e-aorus",
@@ -348,12 +578,102 @@
     "image": null
    },
    {
+    "shop": "amazon.co.uk",
+    "price": 212.45,
+    "currency": "GBP",
+    "url": "https://www.amazon.co.uk/dp/B0DGVBM73J?tag=fraym0a-21",
+    "inStock": true,
+    "lastSeen": "2026-11-18T13:07:32Z",
+    "product": "GIGABYTE X870E AORUS Elite WIFI7 AMD AM5 LGA 1718 Motherboard, ATX, DDR5, 4X M.2, PCIe 5.0, USB4, WIFI7, 2.5GbE LAN, EZ-Latch, 5-Year Warranty",
+    "image": null
+   },
+   {
+    "shop": "morele.net",
+    "price": 1279.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-gigabyte-x870e-aorus-elite-wifi7-14136030/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Gigabyte X870E AORUS ELITE WIFI7",
+    "image": "https://images.morele.net/i256/14136030_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1315.99,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-gigabyte-x870e-aorus-elite-wifi7-ice-14852235/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Gigabyte X870E AORUS ELITE WIFI7 ICE",
+    "image": "https://images.morele.net/i256/14852235_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1512.7,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-gigabyte-x870e-aorus-elite-x3d-15545429/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Gigabyte X870E AORUS ELITE X3D",
+    "image": "https://images.morele.net/i256/15545429_4_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1658.61,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-gigabyte-x870e-aorus-pro-ice-14186019/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Gigabyte X870E AORUS PRO ICE",
+    "image": "https://images.morele.net/i256/14186019_5_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1739.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-gigabyte-x870e-aorus-pro-x3d-ice-15538621/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Gigabyte X870E AORUS PRO X3D ICE",
+    "image": "https://images.morele.net/i256/15538621_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1749.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-gigabyte-x870e-aorus-pro-x3d-15744839/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Gigabyte X870E AORUS PRO X3D",
+    "image": "https://images.morele.net/i256/15744839_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1776.61,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-gigabyte-x870e-aorus-pro-14186020/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Gigabyte X870E AORUS PRO",
+    "image": "https://images.morele.net/i256/14186020_5_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 2100.98,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-gigabyte-x870e-aorus-master-14134006/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Gigabyte X870E AORUS MASTER",
+    "image": "https://images.morele.net/i256/14134006_0_i256.jpg"
+   },
+   {
     "shop": "ldlc.com",
     "price": 339.95,
     "currency": "EUR",
     "url": "https://www.ldlc.com/fiche/PB00643333.html",
     "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
+    "lastSeen": "2026-11-18T15:02:32Z",
     "product": "Gigabyte X870E AORUS ELITE WIFI7",
     "image": "https://media.ldlc.com/r150/ld/products/00/06/16/90/LD0006169071.jpg"
    },
@@ -363,7 +683,7 @@
     "currency": "EUR",
     "url": "https://www.ldlc.com/fiche/PB00684443.html",
     "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
+    "lastSeen": "2026-11-18T15:02:32Z",
     "product": "Gigabyte X870E AORUS ELITE WIFI7 ICE",
     "image": "https://media.ldlc.com/r150/ld/products/00/06/24/42/LD0006244298.jpg"
    },
@@ -373,7 +693,7 @@
     "currency": "EUR",
     "url": "https://www.ldlc.com/fiche/PB00716774.html",
     "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
+    "lastSeen": "2026-11-18T15:02:32Z",
     "product": "Gigabyte X870E AORUS ELITE X3D",
     "image": "https://media.ldlc.com/r150/ld/products/00/06/30/26/LD0006302691.jpg"
    },
@@ -383,7 +703,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202409110283.html",
     "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
+    "lastSeen": "2026-11-18T15:02:32Z",
     "product": "Gigabyte X870E AORUS ELITE WIFI7",
     "image": "https://media.materiel.net/r250/products/MN0006172063.jpg"
    },
@@ -393,7 +713,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202505060116.html",
     "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
+    "lastSeen": "2026-11-18T15:02:32Z",
     "product": "Gigabyte X870E AORUS ELITE WIFI7 ICE",
     "image": "https://media.materiel.net/r250/products/MN0006244566.jpg"
    },
@@ -403,23 +723,23 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202512050099.html",
     "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
+    "lastSeen": "2026-11-18T15:02:32Z",
     "product": "Gigabyte X870E AORUS ELITE X3D",
     "image": "https://media.materiel.net/r250/products/MN0006304241.jpg"
    },
    {
-    "shop": "amazon.co.uk",
-    "price": 212.45,
-    "currency": "GBP",
-    "url": "https://www.amazon.co.uk/dp/B0DGVBM73J?tag=fraym0a-21",
+    "shop": "amazon.it",
+    "price": 338.47,
+    "currency": "EUR",
+    "url": "https://www.amazon.it/dp/B0DGVBM73J?tag=fraym06-21",
     "inStock": true,
-    "lastSeen": "2026-11-18T13:07:32Z",
-    "product": "GIGABYTE X870E AORUS Elite WIFI7 AMD AM5 LGA 1718 Motherboard, ATX, DDR5, 4X M.2, PCIe 5.0, USB4, WIFI7, 2.5GbE LAN, EZ-Latch, 5-Year Warranty",
+    "lastSeen": "2026-11-18T15:44:55Z",
+    "product": "GIGABYTE X870E AORUS Elite WIFI7 AM5 LGA 1718, ATX, DDR5, 4X M.2, PCIe 5.0, USB4, Wi-Fi 7, 2.5GbE LAN, EZ-Latch, Q-Flash",
     "image": null
    }
   ],
   "image": "images/mobos-x870e-aorus.jpg",
-  "lastUpdated": "2026-11-18T13:07:32Z"
+  "lastUpdated": "2026-11-18T15:44:55Z"
  },
  {
   "id": "b650-steel",
@@ -435,10 +755,20 @@
     "lastSeen": "2026-11-18T11:50:09Z",
     "product": "ASRock B650 Steel Legend WiFi 6E AMD Socket AM5 Ryzen 9000 8000 and 7000 Series SATA3 M.2 DDR5 7200+(OC) 256GB SATA3 6.0 Gb/s ATX Motherboard BIOS Flashback : Electronics",
     "image": null
+   },
+   {
+    "shop": "morele.net",
+    "price": 879.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-asrock-b650-steel-legend-wifi-13203104/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna ASRock B650 STEEL LEGEND WIFI",
+    "image": "https://images.morele.net/i256/13203104_0_i256.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-18T11:50:09Z"
+  "lastUpdated": "2026-11-18T15:02:32Z"
  },
  {
   "id": "a620m",
@@ -454,10 +784,30 @@
     "lastSeen": "2026-11-18T11:49:52Z",
     "product": "ASUS Prime A620M-K Mainboard Sockel AMD A620 | Ryzen 7000, Micro-ATX, DDR5 Speicher, PCIe 4.0, BIOS Flashback, USB 3.2 Gen 2, Aura Sync",
     "image": null
+   },
+   {
+    "shop": "morele.net",
+    "price": 396.18,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-asus-prime-a620m-k-13120480/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Asus PRIME A620M-K",
+    "image": "https://images.morele.net/i256/13120480_7_i256.jpg"
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 73.52,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B0C6HWSX8C?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:44:11Z",
+    "product": "ASUS Prime A620M-K AMD A620 Emplacement AM5 Micro ATX",
+    "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-18T11:49:52Z"
+  "lastUpdated": "2026-11-18T15:44:11Z"
  },
  {
   "id": "b550m-pro",
@@ -493,15 +843,55 @@
     "lastSeen": "2026-11-18T13:07:01Z",
     "product": "MSI B550M PRO-VDH WIFI Carte mère Micro-ATX, AM4 | Pour AMD Ryzen 3è gén, M.2, USB 3.2 Gen 1, USB Type-C pour panneau avant, Wi-Fi, HDMI",
     "image": null
+   },
+   {
+    "shop": "morele.net",
+    "price": 416.31,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-msi-b550m-pro-vdh-7676490/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna MSI B550M PRO-VDH",
+    "image": "https://images.morele.net/i256/7676490_12_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 489.15,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-msi-b550m-pro-vdh-wifi-6893339/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna MSI B550M PRO-VDH WIFI",
+    "image": "https://images.morele.net/i256/6893339_5_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 524.42,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-msi-pro-b550m-p-wifi6e-600383378/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna MSI PRO B550M-P WIFI6E",
+    "image": "https://images.morele.net/i256/600383378_0_i256.jpg"
+   },
+   {
+    "shop": "amazon.it",
+    "price": 115.83,
+    "currency": "EUR",
+    "url": "https://www.amazon.it/dp/B089D1YG11?tag=fraym06-21",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:44:34Z",
+    "product": "MSI B550M Pro-VDH WiFi Scheda Madre Micro-ATX, AM4 | Supporta processori AMD Ryzen 3rd Gen, M.2, USB 3.2 Gen 1, USB Type-C, Wi-Fi, HDMI",
+    "image": null
    }
   ],
   "image": "images/mobos-b550m-pro.jpg",
-  "lastUpdated": "2026-11-18T13:07:01Z"
+  "lastUpdated": "2026-11-18T15:44:34Z"
  },
  {
   "id": "z790-aorus",
   "name": "Gigabyte Z790 Aorus Elite AX",
-  "priceMin": 174.38,
+  "priceMin": 167.21,
   "prices": [
    {
     "shop": "amazon.co.uk",
@@ -512,10 +902,50 @@
     "lastSeen": "2026-11-18T13:07:34Z",
     "product": "Gigabyte Z790 AORUS ELITE AX Motherboard - Supports Intel Core 14th CPUs, 16*+2+１ Phases Digital VRM, up to 7600MHz DDR5 (OC), 4xPCIe 4.0 M.2, Wi-Fi 6E, 2.5GbE LAN, USB 3.2 Gen 2x2",
     "image": null
+   },
+   {
+    "shop": "morele.net",
+    "price": 719.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-gigabyte-z790-d-ax-13190072/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Gigabyte Z790 D AX",
+    "image": "https://images.morele.net/i256/13190072_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 839.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-gigabyte-z790-eagle-ax-13180352/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Gigabyte Z790 EAGLE AX",
+    "image": "https://images.morele.net/i256/13180352_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 928.31,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-gigabyte-z790-aorus-elite-ax-12200993/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Gigabyte Z790 AORUS ELITE AX",
+    "image": "https://images.morele.net/i256/12200993_0_i256.jpg"
+   },
+   {
+    "shop": "amazon.it",
+    "price": 196.64,
+    "currency": "EUR",
+    "url": "https://www.amazon.it/dp/B0BH28M64J?tag=fraym06-21",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:44:58Z",
+    "product": "GIGABYTE Z790 AORUS ELITE AX Scheda madre - Supporta CPU Intel Core di 14a generazione, 16*+2+1 fasi VRM digitali, fino a 7600MHz DDR5 (OC), 4xPCIe 4.0 M.2, Wi-Fi 6E, LAN 2.5GbE, USB 3.2 Gen 2x2",
+    "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-18T13:07:34Z"
+  "lastUpdated": "2026-11-18T15:44:58Z"
  },
  {
   "id": "h610m",
@@ -533,12 +963,52 @@
     "image": null
    },
    {
+    "shop": "morele.net",
+    "price": 233.63,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-asus-prime-h610m-k-13120108/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Asus PRIME H610M-K",
+    "image": "https://images.morele.net/i256/13120108_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 286.52,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-asus-prime-h610m-k-d4-9639724/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Asus PRIME H610M-K D4",
+    "image": "https://images.morele.net/i256/9639724_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 289.78,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-asus-prime-h610m-k-argb-13120397/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Asus PRIME H610M-K ARGB",
+    "image": "https://images.morele.net/i256/13120397_4_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 303.2,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-asus-prime-h610m-k-d4-argb-13180473/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Asus PRIME H610M-K D4 ARGB",
+    "image": "https://images.morele.net/i256/13180473_0_i256.jpg"
+   },
+   {
     "shop": "materiel.net",
     "price": 109.95,
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202401310049.html",
     "inStock": false,
-    "lastSeen": "2026-11-18T12:17:00Z",
+    "lastSeen": "2026-11-18T15:02:32Z",
     "product": "Asus PRIME H610M-K D4 ARGB",
     "image": "https://media.materiel.net/r900/products/MN0006108363.jpg"
    },
@@ -548,18 +1018,18 @@
     "currency": "EUR",
     "url": "https://www.ldlc.com/fiche/PB00591528.html",
     "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
+    "lastSeen": "2026-11-18T15:02:32Z",
     "product": "ASUS PRIME H610M-K D4 ARGB",
     "image": "https://media.ldlc.com/r150/ld/products/00/06/10/48/LD0006104832.jpg"
    }
   ],
   "image": "images/mobos-h610m.jpg",
-  "lastUpdated": "2026-11-18T12:17:00Z"
+  "lastUpdated": "2026-11-18T15:02:32Z"
  },
  {
   "id": "z890-aorus",
   "name": "Gigabyte Z890 Aorus Master",
-  "priceMin": 303.69,
+  "priceMin": 218.97,
   "prices": [
    {
     "shop": "amazon.com",
@@ -570,23 +1040,133 @@
     "lastSeen": "2026-11-18T11:46:20Z",
     "product": "GIGABYTE Z890 AORUS Master Intel Core Ultra (Series 2) LGA 1851 Motherboard, ATX, DDR5, 5X M.2, PCIe 5.0, Thunderbolt 4, WIFI7, 10GbE LAN, EZ-Latch : Electronics",
     "image": null
+   },
+   {
+    "shop": "morele.net",
+    "price": 941.55,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-gigabyte-z890m-aorus-elite-wifi7-ice-14181842/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Gigabyte Z890M AORUS ELITE WIFI7 ICE",
+    "image": "https://images.morele.net/i256/14181842_5_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1117.37,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-gigabyte-z890-aorus-elite-x-ice-14181857/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Gigabyte Z890 AORUS ELITE X ICE",
+    "image": "https://images.morele.net/i256/14181857_5_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1155.26,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-gigabyte-z890-aorus-elite-wifi7-ice-14181853/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Gigabyte Z890 AORUS ELITE WIFI7 ICE",
+    "image": "https://images.morele.net/i256/14181853_5_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1269.86,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-gigabyte-z890-aorus-pro-ice-14181858/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Gigabyte Z890 AORUS PRO ICE",
+    "image": "https://images.morele.net/i256/14181858_5_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1306.52,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-gigabyte-z890-aorus-elite-wifi7-plus-16130049/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Gigabyte Z890 AORUS ELITE WIFI7 PLUS",
+    "image": "https://images.morele.net/i256/16130049_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1382.45,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-gigabyte-z890i-aorus-ultra-14181844/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Gigabyte Z890I AORUS ULTRA",
+    "image": "https://images.morele.net/i256/14181844_5_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1508.25,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-gigabyte-z890-aorus-elite-duo-x-600547876/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Gigabyte Z890 AORUS ELITE DUO X",
+    "image": "https://images.morele.net/i256/600547876_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1789.86,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-gigabyte-z890-aorus-master-14181856/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Gigabyte Z890 AORUS MASTER",
+    "image": "https://images.morele.net/i256/14181856_5_i256.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-18T11:46:20Z"
+  "lastUpdated": "2026-11-18T15:02:32Z"
  },
  {
   "id": "b550-tuf",
   "name": "ASUS TUF B550-Plus",
-  "priceMin": 124.95,
+  "priceMin": 104.42,
   "prices": [
+   {
+    "shop": "morele.net",
+    "price": 449.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-asus-prime-b550-plus-6858217/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Asus PRIME B550-PLUS",
+    "image": "https://images.morele.net/i256/6858217_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 519.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-asus-tuf-gaming-b550-plus-6787913/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Asus TUF GAMING B550-PLUS",
+    "image": "https://images.morele.net/i256/6787913_5_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 661.74,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-asus-tuf-gaming-b550-plus-wifi-ii-9515165/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Asus TUF GAMING B550-PLUS WIFI II",
+    "image": "https://images.morele.net/i256/9515165_0_i256.jpg"
+   },
    {
     "shop": "ldlc.com",
     "price": 124.95,
     "currency": "EUR",
     "url": "https://www.ldlc.com/fiche/PB00346166.html",
     "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
+    "lastSeen": "2026-11-18T15:02:32Z",
     "product": "ASUS TUF GAMING B550-PLUS",
     "image": "https://media.ldlc.com/r150/ld/products/00/05/68/67/LD0005686751_1.jpg"
    },
@@ -596,7 +1176,7 @@
     "currency": "EUR",
     "url": "https://www.ldlc.com/fiche/PB00486410.html",
     "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
+    "lastSeen": "2026-11-18T15:02:32Z",
     "product": "ASUS TUF GAMING B550-PLUS WIFI II",
     "image": "https://media.ldlc.com/r150/ld/products/00/05/92/92/LD0005929258_1.jpg"
    },
@@ -606,7 +1186,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202005250069.html",
     "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
+    "lastSeen": "2026-11-18T15:02:32Z",
     "product": "Asus TUF GAMING B550-PLUS",
     "image": "https://media.materiel.net/r250/products/MN0005686345_1.jpg"
    },
@@ -616,13 +1196,13 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202111190018.html",
     "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
+    "lastSeen": "2026-11-18T15:02:32Z",
     "product": "Asus TUF GAMING B550-PLUS Wi-FI II",
     "image": "https://media.materiel.net/r250/products/MN0005930319_1.jpg"
    }
   ],
   "image": "images/mobos-b550-tuf.jpg",
-  "lastUpdated": "2026-11-18T12:17:00Z"
+  "lastUpdated": "2026-11-18T15:02:32Z"
  },
  {
   "id": "b760-tuf",
@@ -638,26 +1218,6 @@
     "lastSeen": "2026-11-18T11:45:57Z",
     "product": "ASUS TUF Gaming B760-PLUS WiFi - Placa Base ATX Intel B760 (LGA 1700) con DDR5, Ranura PCIe 5.0, 3X PCIe 4.0 M.2, 12+1 DrMOS, 2.5Gb Ethernet, DisplayPort, HDMI, USB 3.2 Gen 2 Tipo C, Aura Sync",
     "image": null
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 189.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00563847.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
-    "product": "ASUS TUF GAMING B760-PLUS WIFI",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/05/45/LD0006054587.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 189.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202307180094.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
-    "product": "Asus TUF GAMING B760-PLUS WIFI",
-    "image": "https://media.materiel.net/r250/products/MN0006055304.jpg"
    },
    {
     "shop": "amazon.fr",
@@ -678,10 +1238,50 @@
     "lastSeen": "2026-11-18T13:07:43Z",
     "product": "ASUS TUF Gaming B760-PLUS WiFi Mainboard Sockel Intel LGA 1700 | Intel B760, ATX, DDR5 Speicher, PCIe 5.0, 2x M.2, WiFi6, Thunderbolt 4, Aura Sync",
     "image": null
+   },
+   {
+    "shop": "morele.net",
+    "price": 632.4,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-asus-tuf-gaming-b760-plus-wifi-12851885/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Asus TUF GAMING B760-PLUS WIFI",
+    "image": "https://images.morele.net/i256/12851885_8_i256.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 189.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00563847.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "ASUS TUF GAMING B760-PLUS WIFI",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/05/45/LD0006054587.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 189.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202307180094.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Asus TUF GAMING B760-PLUS WIFI",
+    "image": "https://media.materiel.net/r250/products/MN0006055304.jpg"
+   },
+   {
+    "shop": "amazon.it",
+    "price": 143.87,
+    "currency": "EUR",
+    "url": "https://www.amazon.it/dp/B0BVKYWPFT?tag=fraym06-21",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:44:39Z",
+    "product": "ASUS TUF GAMING B760-PLUS WIFI, Scheda Madre Intel ATX, Slot DDR5, Nera | LGA 1700, PCIe 5.0, 3 Slot M.2, WiFi 6E, USB 3.2 Gen 2 Type-C",
+    "image": null
    }
   ],
   "image": "images/mobos-b760-tuf.jpg",
-  "lastUpdated": "2026-11-18T13:07:43Z"
+  "lastUpdated": "2026-11-18T15:44:39Z"
  },
  {
   "id": "asus-prime-a520m-k",
@@ -709,26 +1309,6 @@
     "image": null
    },
    {
-    "shop": "ldlc.com",
-    "price": 69.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00383000.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
-    "product": "ASUS PRIME A520M-K",
-    "image": "https://media.ldlc.com/r150/ld/products/00/05/73/54/LD0005735413_1.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 69.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202010120032.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
-    "product": "Asus PRIME A520M-K",
-    "image": "https://media.materiel.net/r250/products/MN0006136542.jpg"
-   },
-   {
     "shop": "amazon.fr",
     "price": 48.16,
     "currency": "EUR",
@@ -747,15 +1327,55 @@
     "lastSeen": "2026-11-18T13:07:08Z",
     "product": "ASUS Prime A520M-K Mainboard Sockel AM4 | AMD Ryzen, micro-ATX, M.2, 1Gbit/s-Ethernet, SATA 6Gbit/s, USB 3.2 Gen 2 Typ-A",
     "image": null
+   },
+   {
+    "shop": "morele.net",
+    "price": 286.1,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-asus-prime-a520m-k-7070152/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Asus PRIME A520M-K",
+    "image": "https://images.morele.net/i256/7070152_0_i256.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 69.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00383000.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "ASUS PRIME A520M-K",
+    "image": "https://media.ldlc.com/r150/ld/products/00/05/73/54/LD0005735413_1.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 69.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202010120032.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Asus PRIME A520M-K",
+    "image": "https://media.materiel.net/r250/products/MN0006136542.jpg"
+   },
+   {
+    "shop": "amazon.co.uk",
+    "price": 47.49,
+    "currency": "GBP",
+    "url": "https://www.amazon.co.uk/dp/B08DQB2GDN?tag=fraym0a-21",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:43:06Z",
+    "product": "ASUS PRIME A520M-K, AMD AM4 Motherboard",
+    "image": null
    }
   ],
   "image": "images/mobos-asus-prime-a520m-k.jpg",
-  "lastUpdated": "2026-11-18T13:07:08Z"
+  "lastUpdated": "2026-11-18T15:43:06Z"
  },
  {
   "id": "gigabyte-a520m-s2h",
   "name": "Gigabyte A520M S2H",
-  "priceMin": 61.53,
+  "priceMin": 61.45,
   "prices": [
    {
     "shop": "amazon.es",
@@ -786,10 +1406,30 @@
     "lastSeen": "2026-11-18T13:07:11Z",
     "product": "Gigabyte A520M S2H (AMD Ryzen AM4/MicroATX/4+3 Phases Digital PWM Gaming GbE LAN/NVMe PCIe 3.0 x4 M.2/3 Display Interfaces/Q-Flash Plus/RGB Fusion 2.0/Motherboard)",
     "image": null
+   },
+   {
+    "shop": "morele.net",
+    "price": 264.23,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-gigabyte-a520m-s2h-7007676/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Gigabyte A520M S2H",
+    "image": "https://images.morele.net/i256/7007676_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 277.57,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-gigabyte-a520m-s2hp-600358994/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Gigabyte A520M S2HP",
+    "image": "https://images.morele.net/i256/600358994_0_i256.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-18T13:07:11Z"
+  "lastUpdated": "2026-11-18T15:02:32Z"
  },
  {
   "id": "asrock-b450m-pro4",
@@ -825,26 +1465,6 @@
     "image": null
    },
    {
-    "shop": "ldlc.com",
-    "price": 189.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00474551.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
-    "product": "ASUS ROG STRIX B550-F GAMING (WI-FI) II",
-    "image": "https://media.ldlc.com/r150/ld/products/00/05/91/26/LD0005912640_1.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 189.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202111190020.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
-    "product": "Asus ROG STRIX B550-F GAMING WiFi II",
-    "image": "https://media.materiel.net/r250/products/MN0005915083_1.jpg"
-   },
-   {
     "shop": "amazon.co.uk",
     "price": 99.33,
     "currency": "GBP",
@@ -863,10 +1483,50 @@
     "lastSeen": "2026-11-18T13:06:39Z",
     "product": "ASUS ROG Strix B550-F Gaming Motherboard Gaming ATX, AMD B550, Socket AM4, DDR4, PCI 4.0, Intel 2.5GB LAN, 2xM.2, ASUS Optimem II, USB 3.2 Gen 2, Aura Sync RGB, Black : Electronics",
     "image": null
+   },
+   {
+    "shop": "morele.net",
+    "price": 684.09,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-asus-rog-strix-b550-f-gaming-6787911/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Asus ROG STRIX B550-F GAMING",
+    "image": "https://images.morele.net/i256/6787911_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 745.2,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-asus-rog-strix-b550-f-gaming-wifi-ii-9553279/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Asus ROG STRIX B550-F GAMING WIFI II",
+    "image": "https://images.morele.net/i256/9553279_13_i256.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 189.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00474551.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "ASUS ROG STRIX B550-F GAMING (WI-FI) II",
+    "image": "https://media.ldlc.com/r150/ld/products/00/05/91/26/LD0005912640_1.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 189.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202111190020.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Asus ROG STRIX B550-F GAMING WiFi II",
+    "image": "https://media.materiel.net/r250/products/MN0005915083_1.jpg"
    }
   ],
   "image": "images/mobos-asus-rog-strix-b550-f.jpg",
-  "lastUpdated": "2026-11-18T13:06:39Z"
+  "lastUpdated": "2026-11-18T15:02:32Z"
  },
  {
   "id": "asus-tuf-b650-plus",
@@ -892,26 +1552,6 @@
     "lastSeen": "2026-11-18T11:50:04Z",
     "product": "ASUS TUF Gaming B650-PLUS WiFi Motherboard Socket AMD AM5 (Ryzen 7000, ATX, PCIe 5.0, DDR5 Memory, 14 Power Stage, USB 3.1 Gen 2 x 2 Type-C, WiFi6, Aura Sync) : Electronics",
     "image": null
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 184.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00520904.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
-    "product": "ASUS TUF GAMING B650-PLUS WIFI",
-    "image": "https://media.ldlc.com/r150/ld/products/00/05/98/60/LD0005986054.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 184.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202210070067.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
-    "product": "Asus TUF GAMING B650-PLUS WIFI",
-    "image": "https://media.materiel.net/r250/products/MN0005986140.jpg"
    },
    {
     "shop": "amazon.fr",
@@ -942,10 +1582,50 @@
     "lastSeen": "2026-11-18T13:08:28Z",
     "product": "ASUS TUF GAMING B650-PLUS WIFI, Scheda Madre AMD ATX, Slot DDR5, Nera | AM5, Ryzen 9000/8000/7000, AMD B650, DDR5, 4xPCI 4.0, WiFi 6E (802.11ax), 2.5Gb Lan, 3xM.2, 4xSATA 6GB/s, Aura Sync RGB",
     "image": null
+   },
+   {
+    "shop": "morele.net",
+    "price": 639.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-asus-tuf-gaming-b650-plus-wifi-11947331/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Asus TUF GAMING B650-PLUS WIFI",
+    "image": "https://images.morele.net/i256/11947331_1_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 649.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-asus-tuf-gaming-b650-plus-11947332/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Asus TUF GAMING B650-PLUS",
+    "image": "https://images.morele.net/i256/11947332_1_i256.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 184.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00520904.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "ASUS TUF GAMING B650-PLUS WIFI",
+    "image": "https://media.ldlc.com/r150/ld/products/00/05/98/60/LD0005986054.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 184.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202210070067.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Asus TUF GAMING B650-PLUS WIFI",
+    "image": "https://media.materiel.net/r250/products/MN0005986140.jpg"
    }
   ],
   "image": "images/mobos-asus-tuf-b650-plus.jpg",
-  "lastUpdated": "2026-11-18T13:08:28Z"
+  "lastUpdated": "2026-11-18T15:02:32Z"
  },
  {
   "id": "asus-rog-strix-b650e-f",
@@ -971,15 +1651,25 @@
     "lastSeen": "2026-11-18T13:07:12Z",
     "product": "ASUS ROG Strix B650E-F Gaming WiFi Mainboard Sockel AMD AM5 | Ryzen 7000, ATX, DDR5 Speicher, 12+2 Power Stages, USB 3.2 Gen 2x2 Typ-C, PCIe 5.0, Q-Release, WiFi 6E, Aura Sync",
     "image": null
+   },
+   {
+    "shop": "morele.net",
+    "price": 1281.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-asus-rog-strix-b650e-f-gaming-wifi-11947328/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Asus ROG STRIX B650E-F GAMING WIFI",
+    "image": "https://images.morele.net/i256/11947328_1_i256.jpg"
    }
   ],
   "image": "images/mobos-asus-rog-strix-b650e-f.jpg",
-  "lastUpdated": "2026-11-18T13:07:12Z"
+  "lastUpdated": "2026-11-18T15:02:32Z"
  },
  {
   "id": "msi-mpg-b650-edge",
   "name": "MSI MPG B650 Edge WiFi",
-  "priceMin": 301.21,
+  "priceMin": 106.74,
   "prices": [
    {
     "shop": "amazon.de",
@@ -990,10 +1680,30 @@
     "lastSeen": "2026-11-18T11:50:08Z",
     "product": "MSI MPG B650 Edge WiFi Mainboard, ATX - Unterstützt Ryzen 9000, 8000 & 7000 Serie Prozessoren, AM5-14 Duet Rail 80A VRM, DDR5 6600+MHz/OC, 2 x PCIe 4.0 x16, 1x M.2 Gen5, 2 x M.2 Gen4, Wi-Fi 6E",
     "image": null
+   },
+   {
+    "shop": "morele.net",
+    "price": 459.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-msi-b650m-gaming-wifi-600568865/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna MSI B650M GAMING WIFI",
+    "image": "https://images.morele.net/i256/600568865_5_i256.jpg"
+   },
+   {
+    "shop": "amazon.it",
+    "price": 248.82,
+    "currency": "EUR",
+    "url": "https://www.amazon.it/dp/B0BDS4BYTR?tag=fraym06-21",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:44:51Z",
+    "product": "MSI MPG B650 EDGE WIFI Scheda Madre, ATX - Supporta CPU AMD Ryzen 7000, AM5 - Alimentazione CPU DRPS a 14 fasi 80A VRM, DDR5 Memory Boost fino a 6600+MHz/OC, 2 x PCI-E 4.0 x16, 1 x M.2 Gen5, 2 x M.2 G",
+    "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-18T11:50:08Z"
+  "lastUpdated": "2026-11-18T15:44:51Z"
  },
  {
   "id": "asus-prime-x870-p",
@@ -1031,12 +1741,52 @@
     "image": null
    },
    {
+    "shop": "morele.net",
+    "price": 1047.53,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-asus-prime-x870-p-wifi-14137922/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Asus PRIME X870-P WIFI",
+    "image": "https://images.morele.net/i256/14137922_11_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1130.93,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-asus-prime-x870-p-14137923/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Asus PRIME X870-P",
+    "image": "https://images.morele.net/i256/14137923_10_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1267.44,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-asus-tuf-gaming-x870-plus-wifi-14137921/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Asus TUF GAMING X870-PLUS WIFI",
+    "image": "https://images.morele.net/i256/14137921_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1482.47,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-asus-tuf-gaming-x870-pro-wifi7-w-neo-15830233/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Asus TUF GAMING X870-PRO WIFI7 W NEO",
+    "image": "https://images.morele.net/i256/15830233_11_i256.jpg"
+   },
+   {
     "shop": "ldlc.com",
     "price": 279.95,
     "currency": "EUR",
     "url": "https://www.ldlc.com/fiche/PB00633564.html",
     "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
+    "lastSeen": "2026-11-18T15:02:32Z",
     "product": "ASUS PRIME X870-P WIFI",
     "image": "https://media.ldlc.com/r150/ld/products/00/06/16/55/LD0006165577.jpg"
    },
@@ -1046,13 +1796,23 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202409020091.html",
     "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
+    "lastSeen": "2026-11-18T15:02:32Z",
     "product": "Asus PRIME X870-P WIFI",
     "image": "https://media.materiel.net/r250/products/MN0006167977.jpg"
+   },
+   {
+    "shop": "amazon.it",
+    "price": 196.71,
+    "currency": "EUR",
+    "url": "https://www.amazon.it/dp/B0DGQ6RGD6?tag=fraym06-21",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:44:30Z",
+    "product": "ASUS PRIME X870-P WIFI, Scheda Madre AMD ATX, Slot DDR5, Nera | Socket AM5, PCIe 5.0 x16 per GPU Nuova Generazione, 4 slot M.2, WiFi 7, Q-Antenna, Slot PCIe Q-Release",
+    "image": null
    }
   ],
   "image": "images/mobos-asus-prime-x870-p.jpg",
-  "lastUpdated": "2026-11-18T12:17:00Z"
+  "lastUpdated": "2026-11-18T15:44:30Z"
  },
  {
   "id": "msi-mag-x870-tomahawk",
@@ -1078,23 +1838,173 @@
     "lastSeen": "2026-11-18T13:07:30Z",
     "product": "MSI Mag X870 Tomahawk Carte mère de Jeu WiFi AMD Ryzen série 9000/8000/7000, AM5, DDR5, PCIe 5.0, M.2 Gen5, SATA 6 GB/s, USB 40 GB/s, HDMI/DP, Wi-FI 7, Bluetooth 5.4, 5 Gbps LAN,",
     "image": null
+   },
+   {
+    "shop": "morele.net",
+    "price": 1084.99,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-msi-pro-x870e-s-evo-wifi-15885841/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna MSI PRO X870E-S EVO WIFI",
+    "image": "https://images.morele.net/i256/15885841_4_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1085.16,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-msi-x870e-gaming-plus-wifi-15280383/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna MSI X870E GAMING PLUS WIFI",
+    "image": "https://images.morele.net/i256/15280383_4_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1239.64,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-msi-mag-x870e-gaming-max-wifi-15800656/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna MSI MAG X870E GAMING MAX WIFI",
+    "image": "https://images.morele.net/i256/15800656_2_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1259.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-msi-mag-x870e-gaming-plus-max-wifi-16222844/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna MSI MAG X870E GAMING PLUS MAX WIFI",
+    "image": "https://images.morele.net/i256/16222844_3_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1416.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-msi-pro-x870e-p-wifi-15290302/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna MSI PRO X870E-P WIFI",
+    "image": "https://images.morele.net/i256/15290302_4_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1708.64,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-msi-mag-x870e-tomahawk-max-wifi-pz-15608707/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna MSI MAG X870E TOMAHAWK MAX WIFI PZ",
+    "image": "https://images.morele.net/i256/15608707_5_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1769.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-msi-mag-x870e-tomahawk-wifi-14483812/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna MSI MAG X870E TOMAHAWK WIFI",
+    "image": "https://images.morele.net/i256/14483812_5_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1838.51,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-msi-mpg-x870i-edge-ti-evo-wifi-15694646/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna MSI MPG X870I EDGE TI EVO WIFI",
+    "image": "https://images.morele.net/i256/15694646_4_i256.jpg"
+   },
+   {
+    "shop": "amazon.it",
+    "price": 410.56,
+    "currency": "EUR",
+    "url": "https://www.amazon.it/dp/B0DG3HK897?tag=fraym06-21",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:44:49Z",
+    "product": "MSI Mag X870 Tomahawk - Scheda madre WiFi da gioco, processori AMD Ryzen serie 9000/8000/7000, AM5, DDR5, PCIe 5.0, M.2 Gen5, SATA 6Gb/s, USB 40Gbps, HDMI/DP, Wi-Fi 7, Bluetooth 5.4, 5Gbps LAN,",
+    "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-18T13:07:30Z"
+  "lastUpdated": "2026-11-18T15:44:49Z"
  },
  {
   "id": "asrock-x870e-taichi",
   "name": "ASRock X870E Taichi",
-  "priceMin": 519.95,
+  "priceMin": 327.4,
   "prices": [
+   {
+    "shop": "morele.net",
+    "price": 1407.8,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-asrock-x870e-challenger-wifi-600011079/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna ASRock X870E CHALLENGER WIFI",
+    "image": "https://images.morele.net/i256/600011079_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1413.69,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-asrock-x870e-challenger-wifi-white-600011077/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna ASRock X870E CHALLENGER WIFI WHITE",
+    "image": "https://images.morele.net/i256/600011077_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1497.17,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-asrock-x870e-nova-wifi-14167137/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna ASRock X870E NOVA WIFI",
+    "image": "https://images.morele.net/i256/14167137_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1617.47,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-asrock-x870e-taichi-lite-14167135/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna ASRock X870E TAICHI LITE",
+    "image": "https://images.morele.net/i256/14167135_1_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 2026.04,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-asrock-x870e-taichi-14167134/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna ASRock X870E TAICHI",
+    "image": "https://images.morele.net/i256/14167134_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 2147.53,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-asrock-x870e-taichi-ocf-15724934/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna ASRock X870E TAICHI OCF",
+    "image": "https://images.morele.net/i256/15724934_3_i256.jpg"
+   },
    {
     "shop": "ldlc.com",
     "price": 519.95,
     "currency": "EUR",
     "url": "https://www.ldlc.com/fiche/PB00649645.html",
     "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
+    "lastSeen": "2026-11-18T15:02:32Z",
     "product": "ASRock X870E Taichi Lite",
     "image": "https://media.ldlc.com/r150/ld/products/00/06/17/82/LD0006178299.jpg"
    },
@@ -1104,7 +2014,7 @@
     "currency": "EUR",
     "url": "https://www.ldlc.com/fiche/PB00759506.html",
     "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
+    "lastSeen": "2026-11-18T15:02:32Z",
     "product": "ASRock X870E Taichi OCF",
     "image": "https://media.ldlc.com/r150/ld/products/00/06/38/69/LD0006386988.jpg"
    },
@@ -1114,7 +2024,7 @@
     "currency": "EUR",
     "url": "https://www.ldlc.com/fiche/PB00649642.html",
     "inStock": false,
-    "lastSeen": "2026-11-18T12:17:00Z",
+    "lastSeen": "2026-11-18T15:02:32Z",
     "product": "ASRock X870E Taichi",
     "image": "https://media.ldlc.com/r150/ld/products/00/06/17/82/LD0006178277.jpg"
    },
@@ -1124,7 +2034,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202410100052.html",
     "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
+    "lastSeen": "2026-11-18T15:02:32Z",
     "product": "ASRock X870E Taichi Lite",
     "image": "https://media.materiel.net/r250/products/MN0006199861.jpg"
    },
@@ -1134,7 +2044,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202610010106.html",
     "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
+    "lastSeen": "2026-11-18T15:02:32Z",
     "product": "ASRock X870E Taichi OCF",
     "image": "https://media.materiel.net/r250/products/MN0006388991.jpg"
    },
@@ -1144,13 +2054,13 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202410100051.html",
     "inStock": false,
-    "lastSeen": "2026-11-18T12:17:00Z",
+    "lastSeen": "2026-11-18T15:02:32Z",
     "product": "ASRock X870E Taichi",
     "image": "https://media.materiel.net/r250/products/MN0006199882.jpg"
    }
   ],
   "image": "images/mobos-asrock-x870e-taichi.jpg",
-  "lastUpdated": "2026-11-18T12:17:00Z"
+  "lastUpdated": "2026-11-18T15:02:32Z"
  },
  {
   "id": "gigabyte-a620m-gaming",
@@ -1206,15 +2116,95 @@
     "lastSeen": "2026-11-18T13:07:14Z",
     "product": "Gigabyte A620M GAMING X Motherboard - Supports AMD Ryzen 8000 CPUs, 8+2+1 Phases Digital VRM, up to 8000MHz DDR5 (OC), 1xPCIe 4.0 M.2, GbE LAN, USB 3.2 Gen 2",
     "image": null
+   },
+   {
+    "shop": "morele.net",
+    "price": 329.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-gigabyte-a620m-h-13075011/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Gigabyte A620M H",
+    "image": "https://images.morele.net/i256/13075011_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 386.77,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-gigabyte-a620m-s2h-13063700/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Gigabyte A620M S2H",
+    "image": "https://images.morele.net/i256/13063700_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 434.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-gigabyte-a620m-ds3h-13063704/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Gigabyte A620M DS3H",
+    "image": "https://images.morele.net/i256/13063704_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 437.92,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-gigabyte-a620m-gaming-x-12908412/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Gigabyte A620M GAMING X",
+    "image": "https://images.morele.net/i256/12908412_7_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 498.11,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-asus-a620m-f-gaming-wifi-15850428/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Asus A620M-F GAMING WIFI",
+    "image": "https://images.morele.net/i256/15850428_6_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 539.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-asus-tuf-gaming-a620m-plus-wifi-12887199/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Asus TUF GAMING A620M-PLUS WIFI",
+    "image": "https://images.morele.net/i256/12887199_9_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 539.23,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-asus-tuf-gaming-a620m-plus-12887198/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Asus TUF GAMING A620M-PLUS",
+    "image": "https://images.morele.net/i256/12887198_7_i256.jpg"
+   },
+   {
+    "shop": "amazon.it",
+    "price": 77.86,
+    "currency": "EUR",
+    "url": "https://www.amazon.it/dp/B0C1ZZ57ZW?tag=fraym06-21",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:44:45Z",
+    "product": "GIGABYTE A620M GAMING X Scheda Madre - Supporta CPU AMD Ryzen 8000, 8+2+1 Fasi VRM Digitale, fino a 8000MHz DDR5 (OC), 1xPCIe 4.0 M.2, GbE LAN, USB 3.2 Gen 2",
+    "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-18T13:07:14Z"
+  "lastUpdated": "2026-11-18T15:44:45Z"
  },
  {
   "id": "asus-rog-strix-b650e-i",
   "name": "ASUS ROG Strix B650E-I Gaming WiFi",
-  "priceMin": 198.75,
+  "priceMin": 191.66,
   "prices": [
    {
     "shop": "amazon.de",
@@ -1225,10 +2215,30 @@
     "lastSeen": "2026-11-18T13:07:15Z",
     "product": "ASUS ROG Strix B650E-I Gaming WiFi Mainboard Sockel AMD AM5 | Ryzen 7000, Mini-ITX, DDR5 Speicher, 10+2 Power Stages, USB 3.2 Gen 2 Typ-C, PCIe 5.0, Q-Release, WiFi 6E, Aura Sync",
     "image": null
+   },
+   {
+    "shop": "morele.net",
+    "price": 1281.12,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-asus-asus-rog-strix-b650e-i-gaming-wifi-11947330/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Asus ASUS ROG STRIX B650E-I GAMING WIFI",
+    "image": "https://images.morele.net/i256/11947330_1_i256.jpg"
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 191.66,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B0BHHVC3BS?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:44:13Z",
+    "product": "ASUS ROG Strix B650E-I Gaming WiFi",
+    "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-18T13:07:15Z"
+  "lastUpdated": "2026-11-18T15:44:13Z"
  },
  {
   "id": "asus-prime-b860-plus",
@@ -1256,12 +2266,52 @@
     "image": null
    },
    {
+    "shop": "amazon.de",
+    "price": 131.85,
+    "currency": "EUR",
+    "url": "https://www.amazon.de/dp/B0DPMQHPZM?tag=fraym03-21",
+    "inStock": true,
+    "lastSeen": "2026-11-18T13:07:10Z",
+    "product": "ASUS Prime B860-PLUS WiFi Gaming Mainboard Sockel Intel LGA 1851 | Intel B860, ATX, DDR5 Speicher, PCIe 5.0, 1x PCIe 4.0 M.2, WiFi 6E, Aura Sync",
+    "image": null
+   },
+   {
+    "shop": "morele.net",
+    "price": 739.37,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-asus-tuf-gaming-b860-plus-wifi-14456112/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Asus TUF GAMING B860-PLUS WIFI",
+    "image": "https://images.morele.net/i256/14456112_8_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 819.79,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-asus-prime-b860-plus-csm-14456122/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Asus PRIME B860-PLUS-CSM",
+    "image": "https://images.morele.net/i256/14456122_2_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 924.79,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-asus-prime-b860-plus-wifi-14456117/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Asus PRIME B860-PLUS WIFI",
+    "image": "https://images.morele.net/i256/14456117_11_i256.jpg"
+   },
+   {
     "shop": "ldlc.com",
     "price": 195.46,
     "currency": "EUR",
     "url": "https://www.ldlc.com/fiche/PB00660755.html",
     "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
+    "lastSeen": "2026-11-18T15:02:32Z",
     "product": "ASUS PRIME B860-PLUS WIFI",
     "image": "https://media.ldlc.com/r1600/ld/products/00/06/20/18/LD0006201886.jpg"
    },
@@ -1271,23 +2321,13 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202411280227.html",
     "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
+    "lastSeen": "2026-11-18T15:02:32Z",
     "product": "Asus PRIME B860-PLUS WIFI",
     "image": "https://media.materiel.net/r250/products/MN0006203000.jpg"
-   },
-   {
-    "shop": "amazon.de",
-    "price": 131.85,
-    "currency": "EUR",
-    "url": "https://www.amazon.de/dp/B0DPMQHPZM?tag=fraym03-21",
-    "inStock": true,
-    "lastSeen": "2026-11-18T13:07:10Z",
-    "product": "ASUS Prime B860-PLUS WiFi Gaming Mainboard Sockel Intel LGA 1851 | Intel B860, ATX, DDR5 Speicher, PCIe 5.0, 1x PCIe 4.0 M.2, WiFi 6E, Aura Sync",
-    "image": null
    }
   ],
   "image": "images/mobos-asus-prime-b860-plus.jpg",
-  "lastUpdated": "2026-11-18T13:07:10Z"
+  "lastUpdated": "2026-11-18T15:02:32Z"
  },
  {
   "id": "asus-rog-strix-z890-a",
@@ -1343,15 +2383,25 @@
     "lastSeen": "2026-11-18T13:08:26Z",
     "product": "ASUS ROG STRIX Z890-A GAMING WIFI, Scheda Madre Intel ATX, Slot DDR5 Bianca | 16+1+2+2 Fasi di Alimentazione, PCIe 5.0, GPU di Nuova Generazione, 5 Slot M.2, WiFi 7, AI Overclocking, AI Networking II",
     "image": null
+   },
+   {
+    "shop": "morele.net",
+    "price": 1283.57,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-asus-rog-strix-z890-a-gaming-wifi-14181841/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Asus ROG STRIX Z890-A GAMING WIFI",
+    "image": "https://images.morele.net/i256/14181841_12_i256.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-18T13:08:26Z"
+  "lastUpdated": "2026-11-18T15:02:32Z"
  },
  {
   "id": "asrock-z890-taichi-ocf",
   "name": "ASRock Z890 Taichi OCF",
-  "priceMin": 486.55,
+  "priceMin": 451.06,
   "prices": [
    {
     "shop": "amazon.de",
@@ -1362,10 +2412,30 @@
     "lastSeen": "2026-11-18T11:45:30Z",
     "product": "ASRock Z890 Taichi OCF 90-MXBPM0-A0UAYZ",
     "image": null
+   },
+   {
+    "shop": "morele.net",
+    "price": 1939.55,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-asrock-z890-taichi-14167143/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna ASRock Z890 TAICHI",
+    "image": "https://images.morele.net/i256/14167143_1_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 3242.03,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-asrock-z890-taichi-aqua-14167141/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna ASRock Z890 TAICHI AQUA",
+    "image": "https://images.morele.net/i256/14167141_1_i256.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-18T11:45:30Z"
+  "lastUpdated": "2026-11-18T15:02:32Z"
  },
  {
   "id": "asus-tuf-x570-plus",
@@ -1389,15 +2459,25 @@
     "lastSeen": "2026-11-18T11:50:09Z",
     "product": "ASRock B650E PG-ITX WiFi AMD Ryzen 7000 Series CPU Compatible (Soket AM5) B650 Mini-ITX Motherboard : Electronics",
     "image": null
+   },
+   {
+    "shop": "morele.net",
+    "price": 1786.91,
+    "currency": "PLN",
+    "url": "https://www.morele.net/asrock-plyta-glowna-1x-am5-amd-ryzen-7000-b650e-4xdimm-sata-2xm-2-2x1gbe-ipmi-13811921/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "ASRock Płyta główna 1x AM5 AMD Ryzen 7000 B650E (4xDIMM SATA 2xM.2 2x1GbE IPMI)",
+    "image": "https://images.morele.net/i256/13811921_0_i256.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-18T11:50:09Z"
+  "lastUpdated": "2026-11-18T15:02:32Z"
  },
  {
   "id": "b650-tomahawk",
   "name": "MSI B650 Tomahawk WiFi",
-  "priceMin": 115.73,
+  "priceMin": 106.74,
   "prices": [
    {
     "shop": "amazon.com",
@@ -1408,15 +2488,25 @@
     "lastSeen": "2026-11-18T11:50:11Z",
     "product": "MSI MAG B650 Tomahawk WiFi AMD B650 Socket AM5 ATX : Electronics",
     "image": null
+   },
+   {
+    "shop": "morele.net",
+    "price": 459.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-msi-b650m-gaming-wifi-600568865/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna MSI B650M GAMING WIFI",
+    "image": "https://images.morele.net/i256/600568865_5_i256.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-18T11:50:11Z"
+  "lastUpdated": "2026-11-18T15:02:32Z"
  },
  {
   "id": "b650m-mortar",
   "name": "MSI B650M Mortar WiFi",
-  "priceMin": 129.62,
+  "priceMin": 106.74,
   "prices": [
    {
     "shop": "amazon.com",
@@ -1427,10 +2517,20 @@
     "lastSeen": "2026-11-18T11:50:12Z",
     "product": "MSI MAG B650M Mortar WiFi Gaming Motherboard (AMD Ryzen 9000/8000/7000 Series Processors,AM5,DDR5,PCIe 4.0,M.2 Slots,SATA 6Gb/s,USB 3.2 Gen 2,HDMI/DP,Wi-Fi 6E,Bluetooth 5.3,2.5Gbps LAN,mATX) : Electronics",
     "image": null
+   },
+   {
+    "shop": "morele.net",
+    "price": 459.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-msi-b650m-gaming-wifi-600568865/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna MSI B650M GAMING WIFI",
+    "image": "https://images.morele.net/i256/600568865_5_i256.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-18T11:50:12Z"
+  "lastUpdated": "2026-11-18T15:02:32Z"
  },
  {
   "id": "b760m-itx",
@@ -1493,10 +2593,20 @@
     "lastSeen": "2026-11-18T13:07:52Z",
     "product": "MSI PRO B860M-A WIFI - LGA 1851 mATX Mainboard | Unterstützt Intel Core Ultra Prozessoren , - 12 DRPS, DDR5 Memory Boost , PCIe 5.0",
     "image": null
+   },
+   {
+    "shop": "amazon.it",
+    "price": 202.25,
+    "currency": "EUR",
+    "url": "https://www.amazon.it/dp/B0BSNBHCK1?tag=fraym06-21",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:44:53Z",
+    "product": "MSI PRO B860M-A WIFI MSI Scheda Madre, mATX, 5G LAN, LGA 1851-12M.2 Gen5 | Supporta processori Intel Core Ultra (Serie 2), DRPS, DDR5 Memory Boost (8600+ MT/s OC), PCIe 5.0 x16 e 4.0 x16, Wi-Fi 7",
+    "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-18T13:07:52Z"
+  "lastUpdated": "2026-11-18T15:44:53Z"
  },
  {
   "id": "x670-strix",
@@ -1520,7 +2630,7 @@
  {
   "id": "z890-itx",
   "name": "ASUS ROG Strix Z890-I",
-  "priceMin": 1277.99,
+  "priceMin": 355.5,
   "prices": [
    {
     "shop": "amazon.co.uk",
@@ -1531,9 +2641,19 @@
     "lastSeen": "2026-11-18T13:07:42Z",
     "product": "ASUS ROG STRIX Z890-I GAMING WIFI Mini-ITX Motherboard",
     "image": null
+   },
+   {
+    "shop": "morele.net",
+    "price": 1528.66,
+    "currency": "PLN",
+    "url": "https://www.morele.net/plyta-glowna-asus-rog-strix-z890-i-gaming-wifi-14181843/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T15:02:32Z",
+    "product": "Płyta główna Asus ROG STRIX Z890-I GAMING WIFI",
+    "image": "https://images.morele.net/i256/14181843_0_i256.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-18T13:07:42Z"
+  "lastUpdated": "2026-11-18T15:02:32Z"
  }
 ]

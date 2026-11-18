@@ -36,7 +36,6 @@
    "lian-li-lancool-207": "Lian Li Lancool 207 Digital PC-Geh?use MidI-Tower Atx Tempered Glass (lan207dx)",
    "lian-li-lancool-216": "Lian Li Lancool 216 Midi Tower Trasparente, Bianco (lian Li Lancool 216 Rgb MiD-Tower Pc Case - White)",
    "lian-li-lancool-iii": "Lian Li Lancool Iii Rgb - Mid Tower - E-Atx - Seitenteil Mit Fenster (geh?rtetes Glas) - Keine Spannungsversorgung - Schwarz - Usb/audio (lancool Iii",
-   "lian-li-o11-dynamic-evo": "Lian Li O11 Dynamic Evo - Tower - Atx - Seitenteil Mit Fenster (geh?rtetes Glas) - Keine Spannungsversorgung - Schwarz - Usb/audio (o11dexL-x)",
    "lian-li-o11-dynamic-mini": "Lian Li O11 Dynamic Mini Snow Edition, Midi-Tower, Tempered Glass - Weiãÿ",
    "lian-li-o11-vision": "Lian Li O11 Vision Midi-Tower, Tempered Glass - Schwarz",
    "montech-air-903-max": "Montech AIR 903 Max Midi-Tower, Tempered Glass - Schwarz",
@@ -100,8 +99,7 @@
    "thermalright-assassin-x120-r": "Thermalright Assassin X 120R SE V2 CPU Luftkühler, 4 Heat Pipes, TL-C12C-L V2 PWM Leise Lüfter CPU Kühler Mit S-FDB Lager,Für AMD AM4 AM5/Intel LGA 1700/1150/1151/1200,Feste Lampenfarbe,PC Kühler",
    "thermalright-frost-commander-140": "Thermalright Ventilateur CPU Frost Commander 140 Argent/Gris",
    "thermalright-frozen-notte-360": "Thermalright Frozen Notte 360 Noir ARGB V2 Refroidissement à eau CPU Radiateur 360 Caractéristiques du radiateur CPU Ventilateur PWM 3×120 mm, roulements S-FDB, convient pour AMD/AM4, Intel LGA",
-   "thermalright-peerless-assassin-120": "Thermalright Peerless Assassin 120 Refroidisseur d'air CPU 6 caloducs Double ventilateur TL-C12 PWM 120 mm Couvercle de dissipateur thermique en aluminium Technologie AGHP pour AMD AM4/AM5 Intel LGA",
-   "thermalright-phantom-spirit-120-se": "Thermalright Phantom Spirit 120SE ARGB Refroidisseur de CPU, Refroidisseur de CPU à 7 caloducs, Double ventilateur 120mm PWM, Technilogie AGHP 4.0, Pour AMD AM4 AM5/Intel 1700/1150/1151/1200"
+   "thermalright-peerless-assassin-120": "Thermalright Peerless Assassin 120 Refroidisseur d'air CPU 6 caloducs Double ventilateur TL-C12 PWM 120 mm Couvercle de dissipateur thermique en aluminium Technologie AGHP pour AMD AM4/AM5 Intel LGA"
   },
   "cpus": {
    "amd-ryzen-3-3100": "AMD Ryzen 3 3100 processeur 3,6 GHz 2 Mo L2 Boîte",
@@ -569,10 +567,10 @@
    "amazon.co.uk": null,
    "amazon.com": null,
    "amazon.com.au": "B0C597FL85",
-   "amazon.de": "B0C597FL85",
+   "amazon.de": null,
    "amazon.es": "B0C597FL85",
    "amazon.fr": "B0C597FL85",
-   "amazon.it": "B0C597FL85"
+   "amazon.it": null
   },
   "be-quiet-silent-base-802": {
    "amazon.co.uk": "B08NW5741Z",
@@ -870,15 +868,6 @@
    "amazon.es": null,
    "amazon.fr": null,
    "amazon.it": null
-  },
-  "lian-li-o11-dynamic-evo": {
-   "amazon.co.uk": false,
-   "amazon.com": false,
-   "amazon.com.au": false,
-   "amazon.de": null,
-   "amazon.es": false,
-   "amazon.fr": "B0CGM5HJM8",
-   "amazon.it": "B0CGM5HJM8"
   },
   "lian-li-o11-dynamic-mini": {
    "amazon.co.uk": "B09138FCV5",
@@ -1345,10 +1334,10 @@
    "amazon.co.uk": "B0D83QQWDD",
    "amazon.com": "B0D83QQWDD",
    "amazon.com.au": "B0D83QQWDD",
-   "amazon.de": "B0D83QQWDD",
+   "amazon.de": null,
    "amazon.es": "B0D83QQWDD",
    "amazon.fr": "B0D83QQWDD",
-   "amazon.it": "B0D83QQWDD"
+   "amazon.it": null
   },
   "msi-mag-coreliquid-360r2": {
    "amazon.co.uk": null,
@@ -1462,7 +1451,7 @@
    "amazon.co.uk": "B0BNYP87RZ",
    "amazon.com": false,
    "amazon.com.au": "B0BNYP87RZ",
-   "amazon.de": "B0BNYP87RZ",
+   "amazon.de": null,
    "amazon.es": null,
    "amazon.fr": "B0BNYP87RZ",
    "amazon.it": "B0BNYP87RZ"
@@ -1492,7 +1481,7 @@
    "amazon.de": null,
    "amazon.es": "B0CGZHQ223",
    "amazon.fr": "B0CGZHQ223",
-   "amazon.it": "B0CGZHQ223"
+   "amazon.it": null
   },
   "thermalright-assassin-king-120-se": {
    "amazon.co.uk": false,
@@ -1538,15 +1527,6 @@
    "amazon.es": null,
    "amazon.fr": "B0B8WMKGWX",
    "amazon.it": null
-  },
-  "thermalright-phantom-spirit-120-se": {
-   "amazon.co.uk": false,
-   "amazon.com": false,
-   "amazon.com.au": false,
-   "amazon.de": false,
-   "amazon.es": false,
-   "amazon.fr": null,
-   "amazon.it": "B0BTY6ML7S"
   }
  },
  "cpus": {
@@ -2415,6 +2395,15 @@
    "amazon.es": "B075VGN4M1",
    "amazon.fr": "B075VGN4M1",
    "amazon.it": false
+  },
+  "noctua_a12_2": {
+   "amazon.co.uk": null,
+   "amazon.com": null,
+   "amazon.com.au": null,
+   "amazon.de": null,
+   "amazon.es": null,
+   "amazon.fr": null,
+   "amazon.it": null
   },
   "nzxt_f120rgb_3": {
    "amazon.co.uk": null,
@@ -4328,7 +4317,7 @@
    "amazon.com": false,
    "amazon.com.au": false,
    "amazon.de": false,
-   "amazon.es": "B0076W9Q5A",
+   "amazon.es": null,
    "amazon.fr": "B0076W9Q5A",
    "amazon.it": false
   },

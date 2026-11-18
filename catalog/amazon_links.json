@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T10:47:30Z",
+ "generated": "2026-11-18T11:53:44Z",
  "markets": [
   "amazon.fr",
   "amazon.de",
@@ -9,8 +9,8 @@
   "amazon.com",
   "amazon.com.au"
  ],
- "nativeLinks": 2173,
- "onelinkLinks": 949,
+ "nativeLinks": 2197,
+ "onelinkLinks": 1170,
  "note": "Liens d'affiliation Amazon pre-calcules vers la FICHE PRODUIT (/dp/<ASIN>), utilises par l'app quand aucune offre Amazon verifiee n'est disponible. ASIN valides sur la fiche Amazon elle-meme ; les marketplaces sans fiche recoivent le lien d'une marketplace voisine, OneLink redirigeant l'acheteur.",
  "items": {
   "gpus": {
@@ -1149,6 +1149,25 @@
      "amazon.com.au": "https://www.amazon.com.au/dp/B017YPHVGO?tag=fraym-22"
     }
    },
+   "nvidia-gtx-1050": {
+    "name": "GeForce GTX 1050",
+    "q": "GeForce GTX 1050",
+    "asin": "B01M4MIU94",
+    "product": "Zotac GeForce GTX 1050 Mini GeForce GTX 1050 2Go GDDR5 - Cartes Graphiques (NVIDIA, GeForce GTX 1050, 7680 x 4320 Pixels, GDDR5, PCI Express 3.0, 2.0b)",
+    "native": [
+     "amazon.fr",
+     "amazon.com"
+    ],
+    "links": {
+     "amazon.fr": "https://www.amazon.fr/dp/B01M4MIU94?tag=fraym-21",
+     "amazon.de": "https://www.amazon.fr/dp/B01M4MIU94?tag=fraym-21",
+     "amazon.es": "https://www.amazon.fr/dp/B01M4MIU94?tag=fraym-21",
+     "amazon.it": "https://www.amazon.fr/dp/B01M4MIU94?tag=fraym-21",
+     "amazon.co.uk": "https://www.amazon.fr/dp/B01M4MIU94?tag=fraym-21",
+     "amazon.com": "https://www.amazon.com/dp/B01M4MIU94?tag=fraym-20",
+     "amazon.com.au": "https://www.amazon.com/dp/B01M4MIU94?tag=fraym-20"
+    }
+   },
    "nvidia-gtx-1050-ti": {
     "name": "GeForce GTX 1050 Ti",
     "q": "GeForce GTX 1050 Ti",
@@ -1299,6 +1318,25 @@
      "amazon.co.uk": "https://www.amazon.co.uk/dp/B08FT2NYS1?tag=fraym0a-21",
      "amazon.com": "https://www.amazon.com.au/dp/B08FT2NYS1?tag=fraym-22",
      "amazon.com.au": "https://www.amazon.com.au/dp/B08FT2NYS1?tag=fraym-22"
+    }
+   },
+   "nvidia-gtx-1650-super": {
+    "name": "GeForce GTX 1650 Super",
+    "q": "GeForce GTX 1650 Super",
+    "asin": "B081Q6KKDS",
+    "product": "MSI GeForce GTX 1650 Super Ventus XS OC Gaming GeForce GTX 1650 Super 128-Bit HDMI/DP/DVI 4GB GDRR6 HDCP Support DirectX 12 Dual Fan VR Ready OC Carte Graphique (GTX 1650 Super Ventus XS OC)",
+    "native": [
+     "amazon.fr",
+     "amazon.com"
+    ],
+    "links": {
+     "amazon.fr": "https://www.amazon.fr/dp/B081Q6KKDS?tag=fraym-21",
+     "amazon.de": "https://www.amazon.fr/dp/B081Q6KKDS?tag=fraym-21",
+     "amazon.es": "https://www.amazon.fr/dp/B081Q6KKDS?tag=fraym-21",
+     "amazon.it": "https://www.amazon.fr/dp/B081Q6KKDS?tag=fraym-21",
+     "amazon.co.uk": "https://www.amazon.fr/dp/B081Q6KKDS?tag=fraym-21",
+     "amazon.com": "https://www.amazon.com/dp/B081Q6KKDS?tag=fraym-20",
+     "amazon.com.au": "https://www.amazon.com/dp/B081Q6KKDS?tag=fraym-20"
     }
    },
    "nvidia-gtx-1660": {
@@ -1566,6 +1604,24 @@
      "amazon.co.uk": "https://www.amazon.co.uk/dp/B0FF1WKLWW?tag=fraym0a-21",
      "amazon.com": "https://www.amazon.com/dp/B0FF1WKLWW?tag=fraym-20",
      "amazon.com.au": "https://www.amazon.com.au/dp/B0FF1WKLWW?tag=fraym-22"
+    }
+   },
+   "amd-rx-570": {
+    "name": "Radeon RX 570",
+    "q": "Radeon RX 570",
+    "asin": "B07XH69LKM",
+    "product": "Asustor ROG-STRIX-RX570-O8G-GAMING",
+    "native": [
+     "amazon.fr"
+    ],
+    "links": {
+     "amazon.fr": "https://www.amazon.fr/dp/B07XH69LKM?tag=fraym-21",
+     "amazon.de": "https://www.amazon.fr/dp/B07XH69LKM?tag=fraym-21",
+     "amazon.es": "https://www.amazon.fr/dp/B07XH69LKM?tag=fraym-21",
+     "amazon.it": "https://www.amazon.fr/dp/B07XH69LKM?tag=fraym-21",
+     "amazon.co.uk": "https://www.amazon.fr/dp/B07XH69LKM?tag=fraym-21",
+     "amazon.com": "https://www.amazon.fr/dp/B07XH69LKM?tag=fraym-21",
+     "amazon.com.au": "https://www.amazon.fr/dp/B07XH69LKM?tag=fraym-21"
     }
    },
    "amd-rx-580": {
@@ -1916,6 +1972,25 @@
      "amazon.com.au": "https://www.amazon.co.uk/dp/B0CJGSP9R7?tag=fraym0a-21"
     }
    },
+   "intel-arc-a770": {
+    "name": "Arc A770",
+    "q": "Arc A770",
+    "asin": "B0BYPFTPZJ",
+    "product": "Intel Arc A770 Carte Graphique 16 Go GDDR6",
+    "native": [
+     "amazon.fr",
+     "amazon.com"
+    ],
+    "links": {
+     "amazon.fr": "https://www.amazon.fr/dp/B0BYPFTPZJ?tag=fraym-21",
+     "amazon.de": "https://www.amazon.fr/dp/B0BYPFTPZJ?tag=fraym-21",
+     "amazon.es": "https://www.amazon.fr/dp/B0BYPFTPZJ?tag=fraym-21",
+     "amazon.it": "https://www.amazon.fr/dp/B0BYPFTPZJ?tag=fraym-21",
+     "amazon.co.uk": "https://www.amazon.fr/dp/B0BYPFTPZJ?tag=fraym-21",
+     "amazon.com": "https://www.amazon.com/dp/B0BYPFTPZJ?tag=fraym-20",
+     "amazon.com.au": "https://www.amazon.com/dp/B0BYPFTPZJ?tag=fraym-20"
+    }
+   },
    "intel-arc-b570": {
     "name": "Arc B570",
     "q": "Arc B570",
@@ -1935,6 +2010,25 @@
      "amazon.co.uk": "https://www.amazon.de/dp/B0DR337DJG?tag=fraym03-21",
      "amazon.com": "https://www.amazon.de/dp/B0DR337DJG?tag=fraym03-21",
      "amazon.com.au": "https://www.amazon.de/dp/B0DR337DJG?tag=fraym03-21"
+    }
+   },
+   "rtx6000ada": {
+    "name": "RTX 6000 Ada",
+    "q": "RTX 6000 Ada",
+    "asin": "B0BNYR4VX8",
+    "product": "PNY NVIDIA RTX 6000 ADA",
+    "native": [
+     "amazon.fr",
+     "amazon.com"
+    ],
+    "links": {
+     "amazon.fr": "https://www.amazon.fr/dp/B0BNYR4VX8?tag=fraym-21",
+     "amazon.de": "https://www.amazon.fr/dp/B0BNYR4VX8?tag=fraym-21",
+     "amazon.es": "https://www.amazon.fr/dp/B0BNYR4VX8?tag=fraym-21",
+     "amazon.it": "https://www.amazon.fr/dp/B0BNYR4VX8?tag=fraym-21",
+     "amazon.co.uk": "https://www.amazon.fr/dp/B0BNYR4VX8?tag=fraym-21",
+     "amazon.com": "https://www.amazon.com/dp/B0BNYR4VX8?tag=fraym-20",
+     "amazon.com.au": "https://www.amazon.com/dp/B0BNYR4VX8?tag=fraym-20"
     }
    },
    "rtx5000ada": {
@@ -1982,6 +2076,24 @@
      "amazon.co.uk": "https://www.amazon.co.uk/dp/B0CJQH8519?tag=fraym0a-21",
      "amazon.com": "https://www.amazon.com/dp/B0CJQH8519?tag=fraym-20",
      "amazon.com.au": "https://www.amazon.com.au/dp/B0CJQH8519?tag=fraym-22"
+    }
+   },
+   "rtx4000ada": {
+    "name": "RTX 4000 Ada",
+    "q": "RTX 4000 Ada",
+    "asin": "B09N7VWYR7",
+    "product": "Nvidia Leadtek RTX 4000 SFF Ada Retail",
+    "native": [
+     "amazon.fr"
+    ],
+    "links": {
+     "amazon.fr": "https://www.amazon.fr/dp/B09N7VWYR7?tag=fraym-21",
+     "amazon.de": "https://www.amazon.fr/dp/B09N7VWYR7?tag=fraym-21",
+     "amazon.es": "https://www.amazon.fr/dp/B09N7VWYR7?tag=fraym-21",
+     "amazon.it": "https://www.amazon.fr/dp/B09N7VWYR7?tag=fraym-21",
+     "amazon.co.uk": "https://www.amazon.fr/dp/B09N7VWYR7?tag=fraym-21",
+     "amazon.com": "https://www.amazon.fr/dp/B09N7VWYR7?tag=fraym-21",
+     "amazon.com.au": "https://www.amazon.fr/dp/B09N7VWYR7?tag=fraym-21"
     }
    },
    "rtx2000ada": {
@@ -2341,7 +2453,6 @@
      "amazon.fr",
      "amazon.de",
      "amazon.es",
-     "amazon.it",
      "amazon.co.uk",
      "amazon.com.au"
     ],
@@ -2349,7 +2460,7 @@
      "amazon.fr": "https://www.amazon.fr/dp/B08166SLDF?tag=fraym-21",
      "amazon.de": "https://www.amazon.de/dp/B08166SLDF?tag=fraym03-21",
      "amazon.es": "https://www.amazon.es/dp/B08166SLDF?tag=fraym08-21",
-     "amazon.it": "https://www.amazon.it/dp/B08166SLDF?tag=fraym06-21",
+     "amazon.it": "https://www.amazon.de/dp/B08166SLDF?tag=fraym03-21",
      "amazon.co.uk": "https://www.amazon.co.uk/dp/B08166SLDF?tag=fraym0a-21",
      "amazon.com": "https://www.amazon.com.au/dp/B08166SLDF?tag=fraym-22",
      "amazon.com.au": "https://www.amazon.com.au/dp/B08166SLDF?tag=fraym-22"
@@ -2598,16 +2709,15 @@
     "asin": "B09NPJRDGD",
     "product": "INTEL CPU Core i5-12400F / 6/12 / 2.5GHz / 6xxChipset / BX8071512400F : Electronics",
     "native": [
-     "amazon.co.uk",
      "amazon.com",
      "amazon.com.au"
     ],
     "links": {
-     "amazon.fr": "https://www.amazon.co.uk/dp/B09NPJRDGD?tag=fraym0a-21",
-     "amazon.de": "https://www.amazon.co.uk/dp/B09NPJRDGD?tag=fraym0a-21",
-     "amazon.es": "https://www.amazon.co.uk/dp/B09NPJRDGD?tag=fraym0a-21",
-     "amazon.it": "https://www.amazon.co.uk/dp/B09NPJRDGD?tag=fraym0a-21",
-     "amazon.co.uk": "https://www.amazon.co.uk/dp/B09NPJRDGD?tag=fraym0a-21",
+     "amazon.fr": "https://www.amazon.com/dp/B09NPJRDGD?tag=fraym-20",
+     "amazon.de": "https://www.amazon.com/dp/B09NPJRDGD?tag=fraym-20",
+     "amazon.es": "https://www.amazon.com/dp/B09NPJRDGD?tag=fraym-20",
+     "amazon.it": "https://www.amazon.com/dp/B09NPJRDGD?tag=fraym-20",
+     "amazon.co.uk": "https://www.amazon.com/dp/B09NPJRDGD?tag=fraym-20",
      "amazon.com": "https://www.amazon.com/dp/B09NPJRDGD?tag=fraym-20",
      "amazon.com.au": "https://www.amazon.com.au/dp/B09NPJRDGD?tag=fraym-22"
     }
@@ -3568,6 +3678,24 @@
      "amazon.com.au": "https://www.amazon.com.au/dp/B0CHBH63YX?tag=fraym-22"
     }
    },
+   "intel-core-i5-14500": {
+    "name": "Core i5-14500",
+    "q": "Intel Core i5-14500",
+    "asin": "B0CQ27H8VY",
+    "product": "Intel Core i5-14500 Desktop-Prozessor, 14 Kerne bis zu 5,0 GHz",
+    "native": [
+     "amazon.de"
+    ],
+    "links": {
+     "amazon.fr": "https://www.amazon.de/dp/B0CQ27H8VY?tag=fraym03-21",
+     "amazon.de": "https://www.amazon.de/dp/B0CQ27H8VY?tag=fraym03-21",
+     "amazon.es": "https://www.amazon.de/dp/B0CQ27H8VY?tag=fraym03-21",
+     "amazon.it": "https://www.amazon.de/dp/B0CQ27H8VY?tag=fraym03-21",
+     "amazon.co.uk": "https://www.amazon.de/dp/B0CQ27H8VY?tag=fraym03-21",
+     "amazon.com": "https://www.amazon.de/dp/B0CQ27H8VY?tag=fraym03-21",
+     "amazon.com.au": "https://www.amazon.de/dp/B0CQ27H8VY?tag=fraym03-21"
+    }
+   },
    "intel-core-i9-13900ks": {
     "name": "Core i9-13900KS",
     "q": "Intel Core i9-13900KS",
@@ -3819,6 +3947,25 @@
      "amazon.co.uk": "https://www.amazon.co.uk/dp/B0883NPRL9?tag=fraym0a-21",
      "amazon.com": "https://www.amazon.com/dp/B0883NPRL9?tag=fraym-20",
      "amazon.com.au": "https://www.amazon.com.au/dp/B0883NPRL9?tag=fraym-22"
+    }
+   },
+   "intel-core-i5-10600k": {
+    "name": "Core i5-10600K",
+    "q": "Intel Core i5-10600K",
+    "asin": "B08KY5862B",
+    "product": "Intel BX8070110600K Micro Core I5-10600 K 4,10/4,80 GHz LGA1200 10ème génération, Noir, I5-10600K 4,1/4,8GHZ 10ªGEN",
+    "native": [
+     "amazon.fr",
+     "amazon.com"
+    ],
+    "links": {
+     "amazon.fr": "https://www.amazon.fr/dp/B08KY5862B?tag=fraym-21",
+     "amazon.de": "https://www.amazon.fr/dp/B08KY5862B?tag=fraym-21",
+     "amazon.es": "https://www.amazon.fr/dp/B08KY5862B?tag=fraym-21",
+     "amazon.it": "https://www.amazon.fr/dp/B08KY5862B?tag=fraym-21",
+     "amazon.co.uk": "https://www.amazon.fr/dp/B08KY5862B?tag=fraym-21",
+     "amazon.com": "https://www.amazon.com/dp/B08KY5862B?tag=fraym-20",
+     "amazon.com.au": "https://www.amazon.com/dp/B08KY5862B?tag=fraym-20"
     }
    },
    "intel-core-i3-10100f": {
@@ -4733,6 +4880,24 @@
      "amazon.com.au": "https://www.amazon.fr/dp/B0BRTJCLBJ?tag=fraym-21"
     }
    },
+   "ddr5_16_6000c36": {
+    "name": "16 Go DDR5-6000 CL36",
+    "q": "G.Skill DDR5-6000 16GB CL36",
+    "asin": "B0CB8Q4W3N",
+    "product": "DDR5 16GB PC 6000 CL36 G.Skill 16-RS5K",
+    "native": [
+     "amazon.de"
+    ],
+    "links": {
+     "amazon.fr": "https://www.amazon.de/dp/B0CB8Q4W3N?tag=fraym03-21",
+     "amazon.de": "https://www.amazon.de/dp/B0CB8Q4W3N?tag=fraym03-21",
+     "amazon.es": "https://www.amazon.de/dp/B0CB8Q4W3N?tag=fraym03-21",
+     "amazon.it": "https://www.amazon.de/dp/B0CB8Q4W3N?tag=fraym03-21",
+     "amazon.co.uk": "https://www.amazon.de/dp/B0CB8Q4W3N?tag=fraym03-21",
+     "amazon.com": "https://www.amazon.de/dp/B0CB8Q4W3N?tag=fraym03-21",
+     "amazon.com.au": "https://www.amazon.de/dp/B0CB8Q4W3N?tag=fraym03-21"
+    }
+   },
    "ddr5_32_5200c40": {
     "name": "32 Go DDR5-5200 CL40",
     "q": "Kingston DDR5-5200 32GB CL40",
@@ -5356,8 +5521,7 @@
      "amazon.es",
      "amazon.it",
      "amazon.co.uk",
-     "amazon.com",
-     "amazon.com.au"
+     "amazon.com"
     ],
     "links": {
      "amazon.fr": "https://www.amazon.fr/dp/B073SB2MXT?tag=fraym-21",
@@ -5366,7 +5530,7 @@
      "amazon.it": "https://www.amazon.it/dp/B073SB2MXT?tag=fraym06-21",
      "amazon.co.uk": "https://www.amazon.co.uk/dp/B073SB2MXT?tag=fraym0a-21",
      "amazon.com": "https://www.amazon.com/dp/B073SB2MXT?tag=fraym-20",
-     "amazon.com.au": "https://www.amazon.com.au/dp/B073SB2MXT?tag=fraym-22"
+     "amazon.com.au": "https://www.amazon.com/dp/B073SB2MXT?tag=fraym-20"
     }
    },
    "nvme-p41": {
@@ -5413,6 +5577,24 @@
      "amazon.co.uk": "https://www.amazon.co.uk/dp/B0BX4HGFGV?tag=fraym0a-21",
      "amazon.com": "https://www.amazon.com/dp/B0BX4HGFGV?tag=fraym-20",
      "amazon.com.au": "https://www.amazon.com.au/dp/B0BX4HGFGV?tag=fraym-22"
+    }
+   },
+   "hdd-barracuda": {
+    "name": "Seagate BarraCuda 2 To",
+    "q": "Seagate BarraCuda 2TB",
+    "asin": "B075QJTBVT",
+    "product": "Seagate BarraCuda 2 To, Disque dur interne HDD – 3,5 pouces SATA 6 Gbit/s 7 200 tr/min, 256 Mo de mémoire cache – Ouverture facile (ST2000DM008)",
+    "native": [
+     "amazon.fr"
+    ],
+    "links": {
+     "amazon.fr": "https://www.amazon.fr/dp/B075QJTBVT?tag=fraym-21",
+     "amazon.de": "https://www.amazon.fr/dp/B075QJTBVT?tag=fraym-21",
+     "amazon.es": "https://www.amazon.fr/dp/B075QJTBVT?tag=fraym-21",
+     "amazon.it": "https://www.amazon.fr/dp/B075QJTBVT?tag=fraym-21",
+     "amazon.co.uk": "https://www.amazon.fr/dp/B075QJTBVT?tag=fraym-21",
+     "amazon.com": "https://www.amazon.fr/dp/B075QJTBVT?tag=fraym-21",
+     "amazon.com.au": "https://www.amazon.fr/dp/B075QJTBVT?tag=fraym-21"
     }
    },
    "nvme-sn770-250": {
@@ -5523,6 +5705,42 @@
      "amazon.co.uk": "https://www.amazon.fr/dp/B01LNJBA2I?tag=fraym-21",
      "amazon.com": "https://www.amazon.fr/dp/B01LNJBA2I?tag=fraym-21",
      "amazon.com.au": "https://www.amazon.fr/dp/B01LNJBA2I?tag=fraym-21"
+    }
+   },
+   "hdd-wdblue-2tb": {
+    "name": "WD Blue 2 To (7200)",
+    "q": "Western Digital WD Blue 2TB",
+    "asin": "B07JC1TQ7N",
+    "product": "WESTERN DIGITAL Blue WD20EZAZ - Disque dur - 2 To - interne - 3.5\" - SATA 6Gb/s - 5400 tours/min - mémoire tampon : 256 Mo",
+    "native": [
+     "amazon.fr"
+    ],
+    "links": {
+     "amazon.fr": "https://www.amazon.fr/dp/B07JC1TQ7N?tag=fraym-21",
+     "amazon.de": "https://www.amazon.fr/dp/B07JC1TQ7N?tag=fraym-21",
+     "amazon.es": "https://www.amazon.fr/dp/B07JC1TQ7N?tag=fraym-21",
+     "amazon.it": "https://www.amazon.fr/dp/B07JC1TQ7N?tag=fraym-21",
+     "amazon.co.uk": "https://www.amazon.fr/dp/B07JC1TQ7N?tag=fraym-21",
+     "amazon.com": "https://www.amazon.fr/dp/B07JC1TQ7N?tag=fraym-21",
+     "amazon.com.au": "https://www.amazon.fr/dp/B07JC1TQ7N?tag=fraym-21"
+    }
+   },
+   "hdd-firecuda-2tb": {
+    "name": "Seagate FireCuda 2 To (7200)",
+    "q": "Seagate FireCuda 2TB",
+    "asin": "B01M1UQQT5",
+    "product": "Seagate FireCuda, 2 To, Disque hybride hautes performances SSHD, 2,5\" SATA 6 Gbit/s, 8 Go de mémoire cache, pour PC portable de jeu, services Rescue valables 3 ans (ST2000LX001)",
+    "native": [
+     "amazon.fr"
+    ],
+    "links": {
+     "amazon.fr": "https://www.amazon.fr/dp/B01M1UQQT5?tag=fraym-21",
+     "amazon.de": "https://www.amazon.fr/dp/B01M1UQQT5?tag=fraym-21",
+     "amazon.es": "https://www.amazon.fr/dp/B01M1UQQT5?tag=fraym-21",
+     "amazon.it": "https://www.amazon.fr/dp/B01M1UQQT5?tag=fraym-21",
+     "amazon.co.uk": "https://www.amazon.fr/dp/B01M1UQQT5?tag=fraym-21",
+     "amazon.com": "https://www.amazon.fr/dp/B01M1UQQT5?tag=fraym-21",
+     "amazon.com.au": "https://www.amazon.fr/dp/B01M1UQQT5?tag=fraym-21"
     }
    },
    "hdd-p300-1tb": {
@@ -6092,6 +6310,25 @@
      "amazon.com.au": "https://www.amazon.co.uk/dp/B0BKL4JJD8?tag=fraym0a-21"
     }
    },
+   "b550-aorus": {
+    "name": "Gigabyte B550 Aorus Elite",
+    "q": "AMD Gigabyte B550 Aorus Elite",
+    "asin": "B08JHDL4WP",
+    "product": "Gigabyte B550 AORUS Elite V2 , Black",
+    "native": [
+     "amazon.de",
+     "amazon.com"
+    ],
+    "links": {
+     "amazon.fr": "https://www.amazon.de/dp/B08JHDL4WP?tag=fraym03-21",
+     "amazon.de": "https://www.amazon.de/dp/B08JHDL4WP?tag=fraym03-21",
+     "amazon.es": "https://www.amazon.de/dp/B08JHDL4WP?tag=fraym03-21",
+     "amazon.it": "https://www.amazon.de/dp/B08JHDL4WP?tag=fraym03-21",
+     "amazon.co.uk": "https://www.amazon.de/dp/B08JHDL4WP?tag=fraym03-21",
+     "amazon.com": "https://www.amazon.com/dp/B08JHDL4WP?tag=fraym-20",
+     "amazon.com.au": "https://www.amazon.com/dp/B08JHDL4WP?tag=fraym-20"
+    }
+   },
    "z790-edge": {
     "name": "MSI MPG Z790 Edge WiFi",
     "q": "Intel MSI MPG Z790 Edge WiFi",
@@ -6154,6 +6391,24 @@
      "amazon.co.uk": "https://www.amazon.co.uk/dp/B0BJYY8TBJ?tag=fraym0a-21",
      "amazon.com": "https://www.amazon.com/dp/B0BJYY8TBJ?tag=fraym-20",
      "amazon.com.au": "https://www.amazon.com.au/dp/B0BJYY8TBJ?tag=fraym-22"
+    }
+   },
+   "b760m-mortar": {
+    "name": "MSI MAG B760M Mortar",
+    "q": "Intel MSI MAG B760M Mortar",
+    "asin": "B0BNLMC3KN",
+    "product": "MSI MAG B760M Mortar WiFi Motherboard, Micro-ATX - Für Intel Core Prozessoren der 12. und 13. Generation, LGA 1700-75A DrMOS VRM, DDR5 Memory Boost 7000+MHz/OC, PCIe 5.0 x16, M.2 Gen4, Wi-Fi 6E",
+    "native": [
+     "amazon.de"
+    ],
+    "links": {
+     "amazon.fr": "https://www.amazon.de/dp/B0BNLMC3KN?tag=fraym03-21",
+     "amazon.de": "https://www.amazon.de/dp/B0BNLMC3KN?tag=fraym03-21",
+     "amazon.es": "https://www.amazon.de/dp/B0BNLMC3KN?tag=fraym03-21",
+     "amazon.it": "https://www.amazon.de/dp/B0BNLMC3KN?tag=fraym03-21",
+     "amazon.co.uk": "https://www.amazon.de/dp/B0BNLMC3KN?tag=fraym03-21",
+     "amazon.com": "https://www.amazon.de/dp/B0BNLMC3KN?tag=fraym03-21",
+     "amazon.com.au": "https://www.amazon.de/dp/B0BNLMC3KN?tag=fraym03-21"
     }
    },
    "z890-carbon": {
@@ -6343,7 +6598,6 @@
     "native": [
      "amazon.fr",
      "amazon.de",
-     "amazon.es",
      "amazon.it",
      "amazon.co.uk",
      "amazon.com",
@@ -6352,7 +6606,7 @@
     "links": {
      "amazon.fr": "https://www.amazon.fr/dp/B08L598DYN?tag=fraym-21",
      "amazon.de": "https://www.amazon.de/dp/B08L598DYN?tag=fraym03-21",
-     "amazon.es": "https://www.amazon.es/dp/B08L598DYN?tag=fraym08-21",
+     "amazon.es": "https://www.amazon.fr/dp/B08L598DYN?tag=fraym-21",
      "amazon.it": "https://www.amazon.it/dp/B08L598DYN?tag=fraym06-21",
      "amazon.co.uk": "https://www.amazon.co.uk/dp/B08L598DYN?tag=fraym0a-21",
      "amazon.com": "https://www.amazon.com/dp/B08L598DYN?tag=fraym-20",
@@ -6380,6 +6634,62 @@
      "amazon.co.uk": "https://www.amazon.co.uk/dp/B0BH28M64J?tag=fraym0a-21",
      "amazon.com": "https://www.amazon.com/dp/B0BH28M64J?tag=fraym-20",
      "amazon.com.au": "https://www.amazon.com/dp/B0BH28M64J?tag=fraym-20"
+    }
+   },
+   "z690-edge": {
+    "name": "MSI MPG Z690 Edge WiFi",
+    "q": "Intel MSI MPG Z690 Edge WiFi",
+    "asin": "B09HK5YSW7",
+    "product": "MSI MPG Z690 Edge WiFi Carte Mère Gaming, ATX - pour Processeur Intel Core 12è Gén, LGA 1700 - Direct 16 Phase VRM 75A, DDR5 Memory Boost 6400+MHz/OC, 1 x PCIe 5.0 x16, 4 x M.2 Gen4, Wi-FI 6E",
+    "native": [
+     "amazon.fr",
+     "amazon.com"
+    ],
+    "links": {
+     "amazon.fr": "https://www.amazon.fr/dp/B09HK5YSW7?tag=fraym-21",
+     "amazon.de": "https://www.amazon.fr/dp/B09HK5YSW7?tag=fraym-21",
+     "amazon.es": "https://www.amazon.fr/dp/B09HK5YSW7?tag=fraym-21",
+     "amazon.it": "https://www.amazon.fr/dp/B09HK5YSW7?tag=fraym-21",
+     "amazon.co.uk": "https://www.amazon.fr/dp/B09HK5YSW7?tag=fraym-21",
+     "amazon.com": "https://www.amazon.com/dp/B09HK5YSW7?tag=fraym-20",
+     "amazon.com.au": "https://www.amazon.com/dp/B09HK5YSW7?tag=fraym-20"
+    }
+   },
+   "h610m": {
+    "name": "ASUS Prime H610M-K",
+    "q": "Intel ASUS Prime H610M-K",
+    "asin": "B07ML1XBK3",
+    "product": "ASUS Prime H610M-K ARGB Carte mère mATX Intel H610 (LGA 1700), DDR5, PCIe 4.0, Emplacement M.2, Realtek 1 Go Ethernet, HDMI, VGA, USB 3.2 Gen 1, SATA 6 Gbps, Header adressable Gen 2, Aura Sync",
+    "native": [
+     "amazon.fr"
+    ],
+    "links": {
+     "amazon.fr": "https://www.amazon.fr/dp/B07ML1XBK3?tag=fraym-21",
+     "amazon.de": "https://www.amazon.fr/dp/B07ML1XBK3?tag=fraym-21",
+     "amazon.es": "https://www.amazon.fr/dp/B07ML1XBK3?tag=fraym-21",
+     "amazon.it": "https://www.amazon.fr/dp/B07ML1XBK3?tag=fraym-21",
+     "amazon.co.uk": "https://www.amazon.fr/dp/B07ML1XBK3?tag=fraym-21",
+     "amazon.com": "https://www.amazon.fr/dp/B07ML1XBK3?tag=fraym-21",
+     "amazon.com.au": "https://www.amazon.fr/dp/B07ML1XBK3?tag=fraym-21"
+    }
+   },
+   "z890-aorus": {
+    "name": "Gigabyte Z890 Aorus Master",
+    "q": "Intel Gigabyte Z890 Aorus Master",
+    "asin": "B0DJP9LCYC",
+    "product": "GIGABYTE Z890 AORUS Master Intel Core Ultra LGA 1851 Motherboard, ATX, DDR5, 5X M.2, PCIe 5.0, Thunderbolt 4, WIFI7, 10GbE LAN, EZ-Latch",
+    "native": [
+     "amazon.de",
+     "amazon.com"
+    ],
+    "links": {
+     "amazon.fr": "https://www.amazon.de/dp/B0DJP9LCYC?tag=fraym03-21",
+     "amazon.de": "https://www.amazon.de/dp/B0DJP9LCYC?tag=fraym03-21",
+     "amazon.es": "https://www.amazon.de/dp/B0DJP9LCYC?tag=fraym03-21",
+     "amazon.it": "https://www.amazon.de/dp/B0DJP9LCYC?tag=fraym03-21",
+     "amazon.co.uk": "https://www.amazon.de/dp/B0DJP9LCYC?tag=fraym03-21",
+     "amazon.com": "https://www.amazon.com/dp/B0DJP9LCYC?tag=fraym-20",
+     "amazon.com.au": "https://www.amazon.com/dp/B0DJP9LCYC?tag=fraym-20"
     }
    },
    "b650-pg-itx": {
@@ -6442,6 +6752,24 @@
      "amazon.com.au": "https://www.amazon.com/dp/B0BHC39YG7?tag=fraym-20"
     }
    },
+   "b550-tuf": {
+    "name": "ASUS TUF B550-Plus",
+    "q": "AMD ASUS TUF B550-Plus",
+    "asin": "B089HG351D",
+    "product": "ASUS TUF GAMING B550 PLUS – Carte mère AMD B550 Ryzen AM4, ATX, PCIe 4.0, 2xM.2, 10 phases d'alimentation DrMOS, DDR4 4400, Ethernet Intel 2.5Gb, HDMI, DisplayPort, USB 3.2 G.2 Type-A/C, Aura Sync RGB",
+    "native": [
+     "amazon.fr"
+    ],
+    "links": {
+     "amazon.fr": "https://www.amazon.fr/dp/B089HG351D?tag=fraym-21",
+     "amazon.de": "https://www.amazon.fr/dp/B089HG351D?tag=fraym-21",
+     "amazon.es": "https://www.amazon.fr/dp/B089HG351D?tag=fraym-21",
+     "amazon.it": "https://www.amazon.fr/dp/B089HG351D?tag=fraym-21",
+     "amazon.co.uk": "https://www.amazon.fr/dp/B089HG351D?tag=fraym-21",
+     "amazon.com": "https://www.amazon.fr/dp/B089HG351D?tag=fraym-21",
+     "amazon.com.au": "https://www.amazon.fr/dp/B089HG351D?tag=fraym-21"
+    }
+   },
    "b760-tuf": {
     "name": "ASUS TUF B760-Plus WiFi",
     "q": "Intel ASUS TUF B760-Plus WiFi",
@@ -6474,8 +6802,7 @@
      "amazon.de",
      "amazon.es",
      "amazon.it",
-     "amazon.co.uk",
-     "amazon.com"
+     "amazon.co.uk"
     ],
     "links": {
      "amazon.fr": "https://www.amazon.fr/dp/B0BQWQ9QPK?tag=fraym-21",
@@ -6483,8 +6810,8 @@
      "amazon.es": "https://www.amazon.es/dp/B0BQWQ9QPK?tag=fraym08-21",
      "amazon.it": "https://www.amazon.it/dp/B0BQWQ9QPK?tag=fraym06-21",
      "amazon.co.uk": "https://www.amazon.co.uk/dp/B0BQWQ9QPK?tag=fraym0a-21",
-     "amazon.com": "https://www.amazon.com/dp/B0BQWQ9QPK?tag=fraym-20",
-     "amazon.com.au": "https://www.amazon.com/dp/B0BQWQ9QPK?tag=fraym-20"
+     "amazon.com": "https://www.amazon.co.uk/dp/B0BQWQ9QPK?tag=fraym0a-21",
+     "amazon.com.au": "https://www.amazon.co.uk/dp/B0BQWQ9QPK?tag=fraym0a-21"
     }
    },
    "z890-itx": {
@@ -6554,6 +6881,25 @@
      "amazon.co.uk": "https://www.amazon.co.uk/dp/B08F7HPJ4F?tag=fraym0a-21",
      "amazon.com": "https://www.amazon.com/dp/B08F7HPJ4F?tag=fraym-20",
      "amazon.com.au": "https://www.amazon.com/dp/B08F7HPJ4F?tag=fraym-20"
+    }
+   },
+   "asus-tuf-x570-plus": {
+    "name": "ASUS TUF Gaming X570-Plus",
+    "q": "AMD ASUS TUF Gaming X570-Plus",
+    "asin": "B07SXFK1TP",
+    "product": "ASUS AM4 TUF Gaming X570-Plus ATX Carte mère avec PCIe 4.0, Dual M.2, 12+2 avec Dr. MOS Power Stage, HDMI, DP, SATA 6 GB/s, USB 3.2 Gen 2 et éclairage Aura Sync RGB",
+    "native": [
+     "amazon.fr",
+     "amazon.com"
+    ],
+    "links": {
+     "amazon.fr": "https://www.amazon.fr/dp/B07SXFK1TP?tag=fraym-21",
+     "amazon.de": "https://www.amazon.fr/dp/B07SXFK1TP?tag=fraym-21",
+     "amazon.es": "https://www.amazon.fr/dp/B07SXFK1TP?tag=fraym-21",
+     "amazon.it": "https://www.amazon.fr/dp/B07SXFK1TP?tag=fraym-21",
+     "amazon.co.uk": "https://www.amazon.fr/dp/B07SXFK1TP?tag=fraym-21",
+     "amazon.com": "https://www.amazon.com/dp/B07SXFK1TP?tag=fraym-20",
+     "amazon.com.au": "https://www.amazon.com/dp/B07SXFK1TP?tag=fraym-20"
     }
    },
    "asrock-b450m-pro4": {
@@ -6837,6 +7183,44 @@
      "amazon.com.au": "https://www.amazon.com/dp/B09NTP4PVK?tag=fraym-20"
     }
    },
+   "gigabyte-b660-ds3h": {
+    "name": "Gigabyte B660 DS3H DDR4",
+    "q": "Intel Gigabyte B660 DS3H DDR4",
+    "asin": "B09SD5DKX9",
+    "product": "GIGABYTE B660 DS3H AX DDR4 Carte mère Noir",
+    "native": [
+     "amazon.fr",
+     "amazon.com"
+    ],
+    "links": {
+     "amazon.fr": "https://www.amazon.fr/dp/B09SD5DKX9?tag=fraym-21",
+     "amazon.de": "https://www.amazon.fr/dp/B09SD5DKX9?tag=fraym-21",
+     "amazon.es": "https://www.amazon.fr/dp/B09SD5DKX9?tag=fraym-21",
+     "amazon.it": "https://www.amazon.fr/dp/B09SD5DKX9?tag=fraym-21",
+     "amazon.co.uk": "https://www.amazon.fr/dp/B09SD5DKX9?tag=fraym-21",
+     "amazon.com": "https://www.amazon.com/dp/B09SD5DKX9?tag=fraym-20",
+     "amazon.com.au": "https://www.amazon.com/dp/B09SD5DKX9?tag=fraym-20"
+    }
+   },
+   "asus-prime-z690-p": {
+    "name": "ASUS Prime Z690-P WiFi",
+    "q": "Intel ASUS Prime Z690-P WiFi",
+    "asin": "B09J1S3K36",
+    "product": "ASUS Prime Z690-P WiFi Intel LGA1700 DDR5 Carte mère",
+    "native": [
+     "amazon.fr",
+     "amazon.com"
+    ],
+    "links": {
+     "amazon.fr": "https://www.amazon.fr/dp/B09J1S3K36?tag=fraym-21",
+     "amazon.de": "https://www.amazon.fr/dp/B09J1S3K36?tag=fraym-21",
+     "amazon.es": "https://www.amazon.fr/dp/B09J1S3K36?tag=fraym-21",
+     "amazon.it": "https://www.amazon.fr/dp/B09J1S3K36?tag=fraym-21",
+     "amazon.co.uk": "https://www.amazon.fr/dp/B09J1S3K36?tag=fraym-21",
+     "amazon.com": "https://www.amazon.com/dp/B09J1S3K36?tag=fraym-20",
+     "amazon.com.au": "https://www.amazon.com/dp/B09J1S3K36?tag=fraym-20"
+    }
+   },
    "asrock-b760m-pro-rs": {
     "name": "ASRock B760M Pro RS/D4",
     "q": "Intel ASRock B760M Pro RS/D4",
@@ -7024,18 +7408,16 @@
     "asin": "B0BT33WJ38",
     "product": "be quiet! Pure Power 12 M 650 W Bloc d’Alimentation, Certification 80 Plus® Gold, Alimentation ATX 3.0 entièrement Compatible avec Les Cartes Graphiques PCIe 5.0, 2 Solides Rails 12 V",
     "native": [
-     "amazon.fr",
-     "amazon.de",
-     "amazon.es"
+     "amazon.fr"
     ],
     "links": {
      "amazon.fr": "https://www.amazon.fr/dp/B0BT33WJ38?tag=fraym-21",
-     "amazon.de": "https://www.amazon.de/dp/B0F9YYVX6R?tag=fraym03-21",
-     "amazon.es": "https://www.amazon.es/dp/B0DLH776YJ?tag=fraym08-21",
-     "amazon.it": "https://www.amazon.de/dp/B0F9YYVX6R?tag=fraym03-21",
-     "amazon.co.uk": "https://www.amazon.de/dp/B0F9YYVX6R?tag=fraym03-21",
-     "amazon.com": "https://www.amazon.de/dp/B0F9YYVX6R?tag=fraym03-21",
-     "amazon.com.au": "https://www.amazon.de/dp/B0F9YYVX6R?tag=fraym03-21"
+     "amazon.de": "https://www.amazon.fr/dp/B0BT33WJ38?tag=fraym-21",
+     "amazon.es": "https://www.amazon.fr/dp/B0BT33WJ38?tag=fraym-21",
+     "amazon.it": "https://www.amazon.fr/dp/B0BT33WJ38?tag=fraym-21",
+     "amazon.co.uk": "https://www.amazon.fr/dp/B0BT33WJ38?tag=fraym-21",
+     "amazon.com": "https://www.amazon.fr/dp/B0BT33WJ38?tag=fraym-21",
+     "amazon.com.au": "https://www.amazon.fr/dp/B0BT33WJ38?tag=fraym-21"
     }
    },
    "seasonic-focus-gx-650": {
@@ -7223,8 +7605,7 @@
     "native": [
      "amazon.fr",
      "amazon.de",
-     "amazon.co.uk",
-     "amazon.com"
+     "amazon.co.uk"
     ],
     "links": {
      "amazon.fr": "https://www.amazon.fr/dp/B0B7XM98VK?tag=fraym-21",
@@ -7232,24 +7613,23 @@
      "amazon.es": "https://www.amazon.fr/dp/B0B7XM98VK?tag=fraym-21",
      "amazon.it": "https://www.amazon.de/dp/B0DMTN5WLB?tag=fraym03-21",
      "amazon.co.uk": "https://www.amazon.co.uk/dp/B0BYKT9SNJ?tag=fraym0a-21",
-     "amazon.com": "https://www.amazon.com/dp/B0DMYCCRV1?tag=fraym-20",
-     "amazon.com.au": "https://www.amazon.com/dp/B0DMYCCRV1?tag=fraym-20"
+     "amazon.com": "https://www.amazon.co.uk/dp/B0BYKT9SNJ?tag=fraym0a-21",
+     "amazon.com.au": "https://www.amazon.co.uk/dp/B0BYKT9SNJ?tag=fraym0a-21"
     }
    },
    "corsair-rm850x": {
     "name": "Corsair RM850x",
     "q": "Corsair RM850x",
-    "asin": "B079H5WNXN",
+    "asin": "B0D9C1DT62",
     "product": "Corsair RM850X unité d'alimentation d'énergie 850 W ATX Noir - Unités d'alimentation d'énergie (850 W, 100 - 240 V, 935 W, 47 - 63 Hz, 12 A, 12 A)",
     "native": [
-     "amazon.fr",
      "amazon.de",
      "amazon.es",
      "amazon.co.uk",
      "amazon.com"
     ],
     "links": {
-     "amazon.fr": "https://www.amazon.fr/dp/B079H5WNXN?tag=fraym-21",
+     "amazon.fr": "https://www.amazon.de/dp/B0D9C1DT62?tag=fraym03-21",
      "amazon.de": "https://www.amazon.de/dp/B0D9C1DT62?tag=fraym03-21",
      "amazon.es": "https://www.amazon.es/dp/B0D9C1DT62?tag=fraym08-21",
      "amazon.it": "https://www.amazon.de/dp/B0D9C1DT62?tag=fraym03-21",
@@ -7306,17 +7686,14 @@
     "product": "NZXT C850 Gold ATX 3.1 - Alimentation 850W Entièrement Modulaire | Alimentation 850W 80 PLUS Gold ATX 3.1, entièrement modulaire, silencieuse. Prête PCIe 5 pour GPU modernes, garantie 10 ans.",
     "native": [
      "amazon.fr",
-     "amazon.de",
-     "amazon.es",
-     "amazon.it",
      "amazon.co.uk",
      "amazon.com"
     ],
     "links": {
      "amazon.fr": "https://www.amazon.fr/dp/B0DCJCGZW5?tag=fraym-21",
-     "amazon.de": "https://www.amazon.de/dp/B0FQ51D4B6?tag=fraym03-21",
-     "amazon.es": "https://www.amazon.es/dp/B0FQ51D4B6?tag=fraym08-21",
-     "amazon.it": "https://www.amazon.it/dp/B0FQ51D4B6?tag=fraym06-21",
+     "amazon.de": "https://www.amazon.fr/dp/B0DCJCGZW5?tag=fraym-21",
+     "amazon.es": "https://www.amazon.fr/dp/B0DCJCGZW5?tag=fraym-21",
+     "amazon.it": "https://www.amazon.fr/dp/B0DCJCGZW5?tag=fraym-21",
      "amazon.co.uk": "https://www.amazon.co.uk/dp/B0FQ57W9F9?tag=fraym0a-21",
      "amazon.com": "https://www.amazon.com/dp/B0D1VDTX8B?tag=fraym-20",
      "amazon.com.au": "https://www.amazon.com/dp/B0D1VDTX8B?tag=fraym-20"
@@ -7340,6 +7717,25 @@
      "amazon.co.uk": "https://www.amazon.de/dp/B0DMTN57C1?tag=fraym03-21",
      "amazon.com": "https://www.amazon.com/dp/B0BBWF227X?tag=fraym-20",
      "amazon.com.au": "https://www.amazon.com/dp/B0BBWF227X?tag=fraym-20"
+    }
+   },
+   "corsair-rm1000x": {
+    "name": "Corsair RM1000x",
+    "q": "Corsair RM1000x",
+    "asin": "B08ZYTBVXJ",
+    "product": "Corsair RM1000x 80 Plus Gold Vollmodulares 1000 Watt ATX-Netzteil EU - Schwarz",
+    "native": [
+     "amazon.de",
+     "amazon.com"
+    ],
+    "links": {
+     "amazon.fr": "https://www.amazon.de/dp/B08ZYTBVXJ?tag=fraym03-21",
+     "amazon.de": "https://www.amazon.de/dp/B08ZYTBVXJ?tag=fraym03-21",
+     "amazon.es": "https://www.amazon.de/dp/B08ZYTBVXJ?tag=fraym03-21",
+     "amazon.it": "https://www.amazon.de/dp/B08ZYTBVXJ?tag=fraym03-21",
+     "amazon.co.uk": "https://www.amazon.de/dp/B08ZYTBVXJ?tag=fraym03-21",
+     "amazon.com": "https://www.amazon.com/dp/B08ZYTBVXJ?tag=fraym-20",
+     "amazon.com.au": "https://www.amazon.com/dp/B08ZYTBVXJ?tag=fraym-20"
     }
    },
    "be-quiet-dark-power-13-1000w": {
@@ -7499,6 +7895,24 @@
      "amazon.com.au": "https://www.amazon.com/dp/B0FJZHR289?tag=fraym-20"
     }
    },
+   "asus-rog-strix-1000w": {
+    "name": "ASUS ROG Strix 1000W",
+    "q": "ASUS ROG Strix 1000W",
+    "asin": "B0DZPCGF7T",
+    "product": "ASUS ROG Strix - 1000W Platinum, Alimentation modulaire, Blanc | 1000W, ATX 3.1, compatible PCIe 5.1, ventilateur FDB 135mm ARGB, GaN MOSFET, stabilisateur GPU-First, garantie 10 ans",
+    "native": [
+     "amazon.fr"
+    ],
+    "links": {
+     "amazon.fr": "https://www.amazon.fr/dp/B0DZPCGF7T?tag=fraym-21",
+     "amazon.de": "https://www.amazon.fr/dp/B0DZPCGF7T?tag=fraym-21",
+     "amazon.es": "https://www.amazon.fr/dp/B0DZPCGF7T?tag=fraym-21",
+     "amazon.it": "https://www.amazon.fr/dp/B0DZPCGF7T?tag=fraym-21",
+     "amazon.co.uk": "https://www.amazon.fr/dp/B0DZPCGF7T?tag=fraym-21",
+     "amazon.com": "https://www.amazon.fr/dp/B0DZPCGF7T?tag=fraym-21",
+     "amazon.com.au": "https://www.amazon.fr/dp/B0DZPCGF7T?tag=fraym-21"
+    }
+   },
    "corsair-cx550": {
     "name": "Corsair CX550",
     "q": "Corsair CX550",
@@ -7508,8 +7922,7 @@
      "amazon.fr",
      "amazon.de",
      "amazon.it",
-     "amazon.co.uk",
-     "amazon.com"
+     "amazon.co.uk"
     ],
     "links": {
      "amazon.fr": "https://www.amazon.fr/dp/B0CJRVGGPS?tag=fraym-21",
@@ -7517,8 +7930,8 @@
      "amazon.es": "https://www.amazon.fr/dp/B0CJRVGGPS?tag=fraym-21",
      "amazon.it": "https://www.amazon.it/dp/B0CK8MXWK1?tag=fraym06-21",
      "amazon.co.uk": "https://www.amazon.co.uk/dp/B0CJRVGGPS?tag=fraym0a-21",
-     "amazon.com": "https://www.amazon.com/dp/B0CQMQY2V2?tag=fraym-20",
-     "amazon.com.au": "https://www.amazon.com/dp/B0CQMQY2V2?tag=fraym-20"
+     "amazon.com": "https://www.amazon.co.uk/dp/B0CJRVGGPS?tag=fraym0a-21",
+     "amazon.com.au": "https://www.amazon.co.uk/dp/B0CJRVGGPS?tag=fraym0a-21"
     }
    },
    "corsair-cx750": {
@@ -7558,6 +7971,24 @@
      "amazon.co.uk": "https://www.amazon.fr/dp/B015Q7F3NA?tag=fraym-21",
      "amazon.com": "https://www.amazon.fr/dp/B015Q7F3NA?tag=fraym-21",
      "amazon.com.au": "https://www.amazon.fr/dp/B015Q7F3NA?tag=fraym-21"
+    }
+   },
+   "corsair-hx850": {
+    "name": "Corsair HX850",
+    "q": "Corsair HX850",
+    "asin": "B008O0RXC6",
+    "product": "Corsair HX850 (Alimentation PC 850 W 100 à 240 V 47-63 Hz 140 mm Plus Actif,) Noir",
+    "native": [
+     "amazon.fr"
+    ],
+    "links": {
+     "amazon.fr": "https://www.amazon.fr/dp/B008O0RXC6?tag=fraym-21",
+     "amazon.de": "https://www.amazon.fr/dp/B008O0RXC6?tag=fraym-21",
+     "amazon.es": "https://www.amazon.fr/dp/B008O0RXC6?tag=fraym-21",
+     "amazon.it": "https://www.amazon.fr/dp/B008O0RXC6?tag=fraym-21",
+     "amazon.co.uk": "https://www.amazon.fr/dp/B008O0RXC6?tag=fraym-21",
+     "amazon.com": "https://www.amazon.fr/dp/B008O0RXC6?tag=fraym-21",
+     "amazon.com.au": "https://www.amazon.fr/dp/B008O0RXC6?tag=fraym-21"
     }
    },
    "corsair-hx1200": {
@@ -7675,6 +8106,24 @@
      "amazon.co.uk": "https://www.amazon.com/dp/B0BQRCD834?tag=fraym-20",
      "amazon.com": "https://www.amazon.com/dp/B0BQRCD834?tag=fraym-20",
      "amazon.com.au": "https://www.amazon.com/dp/B0BQRCD834?tag=fraym-20"
+    }
+   },
+   "be-quiet-pure-power-12-m-550w": {
+    "name": "be quiet! Pure Power 12 M 550W",
+    "q": "be quiet! Pure Power 12 M 550W",
+    "asin": "B0BT32N4C2",
+    "product": "be quiet! Pure Power 12 M 550W, ATX 3.1 und PCIe 5.1 kompatibel, 80 Plus Gold, modulares Netzteil, 12V-2x6-Kabel inkludiert, 120mm be quiet! Lüfter, BN341",
+    "native": [
+     "amazon.de"
+    ],
+    "links": {
+     "amazon.fr": "https://www.amazon.de/dp/B0BT32N4C2?tag=fraym03-21",
+     "amazon.de": "https://www.amazon.de/dp/B0BT32N4C2?tag=fraym03-21",
+     "amazon.es": "https://www.amazon.de/dp/B0BT32N4C2?tag=fraym03-21",
+     "amazon.it": "https://www.amazon.de/dp/B0BT32N4C2?tag=fraym03-21",
+     "amazon.co.uk": "https://www.amazon.de/dp/B0BT32N4C2?tag=fraym03-21",
+     "amazon.com": "https://www.amazon.de/dp/B0BT32N4C2?tag=fraym03-21",
+     "amazon.com.au": "https://www.amazon.de/dp/B0BT32N4C2?tag=fraym03-21"
     }
    },
    "be-quiet-pure-power-12-m-850w": {
@@ -7795,6 +8244,25 @@
      "amazon.co.uk": "https://www.amazon.de/dp/B0B434DB7Y?tag=fraym03-21",
      "amazon.com": "https://www.amazon.de/dp/B0B434DB7Y?tag=fraym03-21",
      "amazon.com.au": "https://www.amazon.de/dp/B0B434DB7Y?tag=fraym03-21"
+    }
+   },
+   "nzxt-c750-gold": {
+    "name": "NZXT C750 Gold",
+    "q": "NZXT C750 Gold",
+    "asin": "B0BNZ6WVZB",
+    "product": "NZXT C750 ‎- PA-7G1BB-EU-Bloc d’Alimentation ATX 750 Watts pour PC Gaming-Certifié 80+ Gold-Entièrement modulaire-Ventilateur FDB Silencieux 135 mm- Garantie 10 Ans – Noir",
+    "native": [
+     "amazon.fr",
+     "amazon.com"
+    ],
+    "links": {
+     "amazon.fr": "https://www.amazon.fr/dp/B0BNZ6WVZB?tag=fraym-21",
+     "amazon.de": "https://www.amazon.fr/dp/B0BNZ6WVZB?tag=fraym-21",
+     "amazon.es": "https://www.amazon.fr/dp/B0BNZ6WVZB?tag=fraym-21",
+     "amazon.it": "https://www.amazon.fr/dp/B0BNZ6WVZB?tag=fraym-21",
+     "amazon.co.uk": "https://www.amazon.fr/dp/B0BNZ6WVZB?tag=fraym-21",
+     "amazon.com": "https://www.amazon.com/dp/B0BNZ6WVZB?tag=fraym-20",
+     "amazon.com.au": "https://www.amazon.com/dp/B0BNZ6WVZB?tag=fraym-20"
     }
    },
    "nzxt-c1000-gold": {
@@ -8019,6 +8487,62 @@
      "amazon.com.au": "https://www.amazon.com.au/dp/B08SR7LPCD?tag=fraym-22"
     }
    },
+   "fractal-meshify-2": {
+    "name": "Fractal Meshify 2",
+    "q": "Fractal Meshify 2",
+    "asin": "B0822Y6H34",
+    "product": "Fractal Design Meshify 2 Black ATX Flexible Mid Tower Computer Case",
+    "native": [
+     "amazon.fr",
+     "amazon.com"
+    ],
+    "links": {
+     "amazon.fr": "https://www.amazon.fr/dp/B0822Y6H34?tag=fraym-21",
+     "amazon.de": "https://www.amazon.fr/dp/B0822Y6H34?tag=fraym-21",
+     "amazon.es": "https://www.amazon.fr/dp/B0822Y6H34?tag=fraym-21",
+     "amazon.it": "https://www.amazon.fr/dp/B0822Y6H34?tag=fraym-21",
+     "amazon.co.uk": "https://www.amazon.fr/dp/B0822Y6H34?tag=fraym-21",
+     "amazon.com": "https://www.amazon.com/dp/B0822Y6H34?tag=fraym-20",
+     "amazon.com.au": "https://www.amazon.com/dp/B0822Y6H34?tag=fraym-20"
+    }
+   },
+   "fractal-torrent": {
+    "name": "Fractal Torrent",
+    "q": "Fractal Torrent",
+    "asin": "B08699NR75",
+    "product": "Fractal Design Torrent Boîtier Moyen E-ATX Haute Perf. RGB Verre Trempé Grand Flux d'air",
+    "native": [
+     "amazon.fr",
+     "amazon.com"
+    ],
+    "links": {
+     "amazon.fr": "https://www.amazon.fr/dp/B08699NR75?tag=fraym-21",
+     "amazon.de": "https://www.amazon.fr/dp/B08699NR75?tag=fraym-21",
+     "amazon.es": "https://www.amazon.fr/dp/B08699NR75?tag=fraym-21",
+     "amazon.it": "https://www.amazon.fr/dp/B08699NR75?tag=fraym-21",
+     "amazon.co.uk": "https://www.amazon.fr/dp/B08699NR75?tag=fraym-21",
+     "amazon.com": "https://www.amazon.com/dp/B08699NR75?tag=fraym-20",
+     "amazon.com.au": "https://www.amazon.com/dp/B08699NR75?tag=fraym-20"
+    }
+   },
+   "fractal-ridge-itx": {
+    "name": "Fractal Ridge (ITX)",
+    "q": "Fractal Ridge",
+    "asin": "B0C6P2BN67",
+    "product": "Fractal Design Ridge - SFF - Mini ITX : Electronics",
+    "native": [
+     "amazon.com"
+    ],
+    "links": {
+     "amazon.fr": "https://www.amazon.com/dp/B0C6P2BN67?tag=fraym-20",
+     "amazon.de": "https://www.amazon.com/dp/B0C6P2BN67?tag=fraym-20",
+     "amazon.es": "https://www.amazon.com/dp/B0C6P2BN67?tag=fraym-20",
+     "amazon.it": "https://www.amazon.com/dp/B0C6P2BN67?tag=fraym-20",
+     "amazon.co.uk": "https://www.amazon.com/dp/B0C6P2BN67?tag=fraym-20",
+     "amazon.com": "https://www.amazon.com/dp/B0C6P2BN67?tag=fraym-20",
+     "amazon.com.au": "https://www.amazon.com/dp/B0C6P2BN67?tag=fraym-20"
+    }
+   },
    "corsair-4000d-airflow": {
     "name": "Corsair 4000D Airflow",
     "q": "Corsair 4000D Airflow",
@@ -8038,6 +8562,24 @@
      "amazon.co.uk": "https://www.amazon.de/dp/B0CM6XNPDH?tag=fraym03-21",
      "amazon.com": "https://www.amazon.de/dp/B0CM6XNPDH?tag=fraym03-21",
      "amazon.com.au": "https://www.amazon.de/dp/B0CM6XNPDH?tag=fraym03-21"
+    }
+   },
+   "corsair-5000d-airflow": {
+    "name": "Corsair 5000D Airflow",
+    "q": "Corsair 5000D Airflow",
+    "asin": "B0BKC8V2L2",
+    "product": "Corsair iCUE 5000D RGB Airflow TG wh ATX CC-9011243-WW",
+    "native": [
+     "amazon.fr"
+    ],
+    "links": {
+     "amazon.fr": "https://www.amazon.fr/dp/B0BKC8V2L2?tag=fraym-21",
+     "amazon.de": "https://www.amazon.fr/dp/B0BKC8V2L2?tag=fraym-21",
+     "amazon.es": "https://www.amazon.fr/dp/B0BKC8V2L2?tag=fraym-21",
+     "amazon.it": "https://www.amazon.fr/dp/B0BKC8V2L2?tag=fraym-21",
+     "amazon.co.uk": "https://www.amazon.fr/dp/B0BKC8V2L2?tag=fraym-21",
+     "amazon.com": "https://www.amazon.fr/dp/B0BKC8V2L2?tag=fraym-21",
+     "amazon.com.au": "https://www.amazon.fr/dp/B0BKC8V2L2?tag=fraym-21"
     }
    },
    "corsair-2000d-airflow-itx": {
@@ -8128,6 +8670,24 @@
      "amazon.co.uk": "https://www.amazon.co.uk/dp/B0B469JRGC?tag=fraym0a-21",
      "amazon.com": "https://www.amazon.com/dp/B0B469JRGC?tag=fraym-20",
      "amazon.com.au": "https://www.amazon.com/dp/B0B469JRGC?tag=fraym-20"
+    }
+   },
+   "lian-li-a4-h2o-itx": {
+    "name": "Lian Li A4-H2O (ITX)",
+    "q": "Lian Li A4-H2O",
+    "asin": "B09T73JG49",
+    "product": "Lian Li A4-H2O Mini-ITX PC Case, Triple-Slot Mount GPU, Aluminum Exterior & SPCC Steel Interior, 240mm AIO, SFX Sandwich Layout, PCIe 4.0, Supports SFX/SFX-L PSU (A4-H2O A4 Black) : Electronics",
+    "native": [
+     "amazon.com"
+    ],
+    "links": {
+     "amazon.fr": "https://www.amazon.com/dp/B09T73JG49?tag=fraym-20",
+     "amazon.de": "https://www.amazon.com/dp/B09T73JG49?tag=fraym-20",
+     "amazon.es": "https://www.amazon.com/dp/B09T73JG49?tag=fraym-20",
+     "amazon.it": "https://www.amazon.com/dp/B09T73JG49?tag=fraym-20",
+     "amazon.co.uk": "https://www.amazon.com/dp/B09T73JG49?tag=fraym-20",
+     "amazon.com": "https://www.amazon.com/dp/B09T73JG49?tag=fraym-20",
+     "amazon.com.au": "https://www.amazon.com/dp/B09T73JG49?tag=fraym-20"
     }
    },
    "cooler-master-nr200p-itx": {
@@ -8251,7 +8811,6 @@
     "asin": "B08NW5741Z",
     "product": "be quiet! Boîtier PC Silent Base 802 Black, 3 Ventilateurs Pure Wings 140 mm, 2 capots supérieurs et Avant interchangeables, Plateau de Carte mère découplé",
     "native": [
-     "amazon.de",
      "amazon.es",
      "amazon.it",
      "amazon.co.uk",
@@ -8259,8 +8818,8 @@
      "amazon.com.au"
     ],
     "links": {
-     "amazon.fr": "https://www.amazon.de/dp/B08NW5741Z?tag=fraym03-21",
-     "amazon.de": "https://www.amazon.de/dp/B08NW5741Z?tag=fraym03-21",
+     "amazon.fr": "https://www.amazon.es/dp/B08NW5741Z?tag=fraym08-21",
+     "amazon.de": "https://www.amazon.it/dp/B08NW5741Z?tag=fraym06-21",
      "amazon.es": "https://www.amazon.es/dp/B08NW5741Z?tag=fraym08-21",
      "amazon.it": "https://www.amazon.it/dp/B08NW5741Z?tag=fraym06-21",
      "amazon.co.uk": "https://www.amazon.co.uk/dp/B08NW5741Z?tag=fraym0a-21",
@@ -8754,7 +9313,6 @@
      "amazon.es",
      "amazon.it",
      "amazon.co.uk",
-     "amazon.com",
      "amazon.com.au"
     ],
     "links": {
@@ -8763,7 +9321,7 @@
      "amazon.es": "https://www.amazon.es/dp/B0C597FL85?tag=fraym08-21",
      "amazon.it": "https://www.amazon.it/dp/B0C597FL85?tag=fraym06-21",
      "amazon.co.uk": "https://www.amazon.co.uk/dp/B0C597FL85?tag=fraym0a-21",
-     "amazon.com": "https://www.amazon.com/dp/B0C597FL85?tag=fraym-20",
+     "amazon.com": "https://www.amazon.com.au/dp/B0C597FL85?tag=fraym-22",
      "amazon.com.au": "https://www.amazon.com.au/dp/B0C597FL85?tag=fraym-22"
     }
    },
@@ -8773,7 +9331,6 @@
     "asin": "B0D73R2CGN",
     "product": "be quiet! Light Base 600 LX Black boîtier PC, Panneaux Avant et latéral entièrement vitrés, Éclairage Impressionnant, 4 Ventilateurs Light Wings LX 120 mm PWM, Inversée ou Horizontale",
     "native": [
-     "amazon.fr",
      "amazon.de",
      "amazon.es",
      "amazon.it",
@@ -8782,13 +9339,32 @@
      "amazon.com.au"
     ],
     "links": {
-     "amazon.fr": "https://www.amazon.fr/dp/B0D73R2CGN?tag=fraym-21",
+     "amazon.fr": "https://www.amazon.de/dp/B0D73R2CGN?tag=fraym03-21",
      "amazon.de": "https://www.amazon.de/dp/B0D73R2CGN?tag=fraym03-21",
      "amazon.es": "https://www.amazon.es/dp/B0D73R2CGN?tag=fraym08-21",
      "amazon.it": "https://www.amazon.it/dp/B0D73R2CGN?tag=fraym06-21",
      "amazon.co.uk": "https://www.amazon.co.uk/dp/B0D73R2CGN?tag=fraym0a-21",
      "amazon.com": "https://www.amazon.com/dp/B0D73R2CGN?tag=fraym-20",
      "amazon.com.au": "https://www.amazon.com.au/dp/B0D73R2CGN?tag=fraym-22"
+    }
+   },
+   "montech-king-95": {
+    "name": "Montech King 95",
+    "q": "Montech King 95",
+    "asin": "B0CQBYTG2N",
+    "product": "MONTECH King 95 PC-ATX-Gaming-Gehäuse mit Zwei Kammern und Seitenwand aus gebogenem gehärtetem Glas, ARGB-Beleuchtung, King 95 Black US",
+    "native": [
+     "amazon.de",
+     "amazon.com"
+    ],
+    "links": {
+     "amazon.fr": "https://www.amazon.de/dp/B0CQBYTG2N?tag=fraym03-21",
+     "amazon.de": "https://www.amazon.de/dp/B0CQBYTG2N?tag=fraym03-21",
+     "amazon.es": "https://www.amazon.de/dp/B0CQBYTG2N?tag=fraym03-21",
+     "amazon.it": "https://www.amazon.de/dp/B0CQBYTG2N?tag=fraym03-21",
+     "amazon.co.uk": "https://www.amazon.de/dp/B0CQBYTG2N?tag=fraym03-21",
+     "amazon.com": "https://www.amazon.com/dp/B0CQBYTG2N?tag=fraym-20",
+     "amazon.com.au": "https://www.amazon.com/dp/B0CQBYTG2N?tag=fraym-20"
     }
    },
    "montech-xr": {
@@ -8901,26 +9477,80 @@
      "amazon.com": "https://www.amazon.com/dp/B0B7F8C35R?tag=fraym-20",
      "amazon.com.au": "https://www.amazon.com.au/dp/B0B7F8C35R?tag=fraym-22"
     }
+   },
+   "hyte-y70": {
+    "name": "Hyte Y70",
+    "q": "Hyte Y70",
+    "asin": "B0D93FYHJK",
+    "product": "Hyte Y70 Midi Tower Rosa",
+    "native": [
+     "amazon.de"
+    ],
+    "links": {
+     "amazon.fr": "https://www.amazon.de/dp/B0D93FYHJK?tag=fraym03-21",
+     "amazon.de": "https://www.amazon.de/dp/B0D93FYHJK?tag=fraym03-21",
+     "amazon.es": "https://www.amazon.de/dp/B0D93FYHJK?tag=fraym03-21",
+     "amazon.it": "https://www.amazon.de/dp/B0D93FYHJK?tag=fraym03-21",
+     "amazon.co.uk": "https://www.amazon.de/dp/B0D93FYHJK?tag=fraym03-21",
+     "amazon.com": "https://www.amazon.de/dp/B0D93FYHJK?tag=fraym03-21",
+     "amazon.com.au": "https://www.amazon.de/dp/B0D93FYHJK?tag=fraym03-21"
+    }
    }
   },
   "coolers": {
+   "cooler-master-hyper-212": {
+    "name": "Cooler Master Hyper 212",
+    "q": "Cooler Master Hyper 212",
+    "asin": "B0CGJ1J5KL",
+    "product": "Cooler Master Hyper 212 Black Refroidisseur CPU Ventirad - Finition Aluminium, 4 Caloducs Compacts à Contact Direct Continu, Ventilateur SickleFlow 120 Edge, Brackets LGA1700 & AM5 - Noir",
+    "native": [
+     "amazon.fr",
+     "amazon.com"
+    ],
+    "links": {
+     "amazon.fr": "https://www.amazon.fr/dp/B0CGJ1J5KL?tag=fraym-21",
+     "amazon.de": "https://www.amazon.fr/dp/B0CGJ1J5KL?tag=fraym-21",
+     "amazon.es": "https://www.amazon.fr/dp/B0CGJ1J5KL?tag=fraym-21",
+     "amazon.it": "https://www.amazon.fr/dp/B0CGJ1J5KL?tag=fraym-21",
+     "amazon.co.uk": "https://www.amazon.fr/dp/B0CGJ1J5KL?tag=fraym-21",
+     "amazon.com": "https://www.amazon.com/dp/B0CGJ1J5KL?tag=fraym-20",
+     "amazon.com.au": "https://www.amazon.com/dp/B0CGJ1J5KL?tag=fraym-20"
+    }
+   },
+   "thermalright-assassin-x120-r": {
+    "name": "Thermalright Assassin X120 R",
+    "q": "Thermalright Assassin X120 R",
+    "asin": "B0C5458QJ5",
+    "product": "Thermalright Assassin X 120R SE V2 CPU Luftkühler, 4 Heat Pipes, TL-C12C-L V2 PWM Leise Lüfter CPU Kühler Mit S-FDB Lager,Für AMD AM4 AM5/Intel LGA 1700/1150/1151/1200,Feste Lampenfarbe,PC Kühler",
+    "native": [
+     "amazon.de"
+    ],
+    "links": {
+     "amazon.fr": "https://www.amazon.de/dp/B0C5458QJ5?tag=fraym03-21",
+     "amazon.de": "https://www.amazon.de/dp/B0C5458QJ5?tag=fraym03-21",
+     "amazon.es": "https://www.amazon.de/dp/B0C5458QJ5?tag=fraym03-21",
+     "amazon.it": "https://www.amazon.de/dp/B0C5458QJ5?tag=fraym03-21",
+     "amazon.co.uk": "https://www.amazon.de/dp/B0C5458QJ5?tag=fraym03-21",
+     "amazon.com": "https://www.amazon.de/dp/B0C5458QJ5?tag=fraym03-21",
+     "amazon.com.au": "https://www.amazon.de/dp/B0C5458QJ5?tag=fraym03-21"
+    }
+   },
    "thermalright-phantom-spirit-120-se": {
     "name": "Thermalright Phantom Spirit 120 SE",
     "q": "Thermalright Phantom Spirit 120 SE",
     "asin": "B0BTY6ML7S",
     "product": "Thermalright Phantom Spirit 120SE ARGB Refroidisseur de CPU, Refroidisseur de CPU à 7 caloducs, Double ventilateur 120mm PWM, Technilogie AGHP 4.0, Pour AMD AM4 AM5/Intel 1700/1150/1151/1200",
     "native": [
-     "amazon.fr",
      "amazon.it"
     ],
     "links": {
-     "amazon.fr": "https://www.amazon.fr/dp/B0BTY6ML7S?tag=fraym-21",
-     "amazon.de": "https://www.amazon.fr/dp/B0BTY6ML7S?tag=fraym-21",
-     "amazon.es": "https://www.amazon.fr/dp/B0BTY6ML7S?tag=fraym-21",
+     "amazon.fr": "https://www.amazon.it/dp/B0BTY6ML7S?tag=fraym06-21",
+     "amazon.de": "https://www.amazon.it/dp/B0BTY6ML7S?tag=fraym06-21",
+     "amazon.es": "https://www.amazon.it/dp/B0BTY6ML7S?tag=fraym06-21",
      "amazon.it": "https://www.amazon.it/dp/B0BTY6ML7S?tag=fraym06-21",
-     "amazon.co.uk": "https://www.amazon.fr/dp/B0BTY6ML7S?tag=fraym-21",
-     "amazon.com": "https://www.amazon.fr/dp/B0BTY6ML7S?tag=fraym-21",
-     "amazon.com.au": "https://www.amazon.fr/dp/B0BTY6ML7S?tag=fraym-21"
+     "amazon.co.uk": "https://www.amazon.it/dp/B0BTY6ML7S?tag=fraym06-21",
+     "amazon.com": "https://www.amazon.it/dp/B0BTY6ML7S?tag=fraym06-21",
+     "amazon.com.au": "https://www.amazon.it/dp/B0BTY6ML7S?tag=fraym06-21"
     }
    },
    "arctic-freezer-36": {
@@ -8953,7 +9583,6 @@
     "asin": "B087VL2Z21",
     "product": "be quiet! Pure Rock 2 Black, refroidisseur de processeur, TDP 150W, ventilateur Pure Wings 2 120mm PWM, 4x 6mm Heatpipes, conception asymétrique, Single Tower, BK007",
     "native": [
-     "amazon.fr",
      "amazon.de",
      "amazon.es",
      "amazon.it",
@@ -8961,7 +9590,7 @@
      "amazon.com.au"
     ],
     "links": {
-     "amazon.fr": "https://www.amazon.fr/dp/B087VL2Z21?tag=fraym-21",
+     "amazon.fr": "https://www.amazon.de/dp/B087VL2Z21?tag=fraym03-21",
      "amazon.de": "https://www.amazon.de/dp/B087VL2Z21?tag=fraym03-21",
      "amazon.es": "https://www.amazon.es/dp/B087VL2Z21?tag=fraym08-21",
      "amazon.it": "https://www.amazon.it/dp/B087VL2Z21?tag=fraym06-21",
@@ -9094,20 +9723,17 @@
     "product": "Scythe Fuma 3 Processore Raffreddatore D'aria 12 Cm Nero 1 Pz (scythe Fuma 3 ScfM-3000 - ProcessoR-K?)",
     "native": [
      "amazon.fr",
-     "amazon.de",
      "amazon.es",
-     "amazon.it",
-     "amazon.com",
-     "amazon.com.au"
+     "amazon.it"
     ],
     "links": {
      "amazon.fr": "https://www.amazon.fr/dp/B0CGZHQ223?tag=fraym-21",
-     "amazon.de": "https://www.amazon.de/dp/B0CGZHQ223?tag=fraym03-21",
+     "amazon.de": "https://www.amazon.fr/dp/B0CGZHQ223?tag=fraym-21",
      "amazon.es": "https://www.amazon.es/dp/B0CGZHQ223?tag=fraym08-21",
      "amazon.it": "https://www.amazon.it/dp/B0CGZHQ223?tag=fraym06-21",
-     "amazon.co.uk": "https://www.amazon.de/dp/B0CGZHQ223?tag=fraym03-21",
-     "amazon.com": "https://www.amazon.com/dp/B0CGZHQ223?tag=fraym-20",
-     "amazon.com.au": "https://www.amazon.com.au/dp/B0CGZHQ223?tag=fraym-22"
+     "amazon.co.uk": "https://www.amazon.fr/dp/B0CGZHQ223?tag=fraym-21",
+     "amazon.com": "https://www.amazon.fr/dp/B0CGZHQ223?tag=fraym-21",
+     "amazon.com.au": "https://www.amazon.fr/dp/B0CGZHQ223?tag=fraym-21"
     }
    },
    "cooler-master-hyper-620s": {
@@ -9183,7 +9809,6 @@
     "product": "ARCTIC Liquid Freezer III 360 A-RGB (blanc) - PC à refroidissement par eau",
     "native": [
      "amazon.fr",
-     "amazon.de",
      "amazon.es",
      "amazon.it",
      "amazon.com",
@@ -9191,10 +9816,10 @@
     ],
     "links": {
      "amazon.fr": "https://www.amazon.fr/dp/B09VGMGJ7W?tag=fraym-21",
-     "amazon.de": "https://www.amazon.de/dp/B09VGMGJ7W?tag=fraym03-21",
+     "amazon.de": "https://www.amazon.fr/dp/B09VGMGJ7W?tag=fraym-21",
      "amazon.es": "https://www.amazon.es/dp/B09VGMGJ7W?tag=fraym08-21",
      "amazon.it": "https://www.amazon.it/dp/B09VGMGJ7W?tag=fraym06-21",
-     "amazon.co.uk": "https://www.amazon.de/dp/B09VGMGJ7W?tag=fraym03-21",
+     "amazon.co.uk": "https://www.amazon.fr/dp/B09VGMGJ7W?tag=fraym-21",
      "amazon.com": "https://www.amazon.com/dp/B09VGMGJ7W?tag=fraym-20",
      "amazon.com.au": "https://www.amazon.com.au/dp/B09VGMGJ7W?tag=fraym-22"
     }
@@ -9230,7 +9855,6 @@
     "product": "NZXT Kraken 360 - RL-KN360-B1 - Refroidissement liquide CPU AIO 360 mm - Écran LCD 1,54\" personnalisable - Pompe haute performance - 3 ventilateurs F120P - Noir",
     "native": [
      "amazon.fr",
-     "amazon.de",
      "amazon.it",
      "amazon.co.uk",
      "amazon.com",
@@ -9238,7 +9862,7 @@
     ],
     "links": {
      "amazon.fr": "https://www.amazon.fr/dp/B0BNYQQ97K?tag=fraym-21",
-     "amazon.de": "https://www.amazon.de/dp/B0BNYQQ97K?tag=fraym03-21",
+     "amazon.de": "https://www.amazon.fr/dp/B0BNYQQ97K?tag=fraym-21",
      "amazon.es": "https://www.amazon.fr/dp/B0BNYQQ97K?tag=fraym-21",
      "amazon.it": "https://www.amazon.it/dp/B0BNYQQ97K?tag=fraym06-21",
      "amazon.co.uk": "https://www.amazon.co.uk/dp/B0BNYQQ97K?tag=fraym0a-21",
@@ -9638,7 +10262,6 @@
      "amazon.es",
      "amazon.it",
      "amazon.co.uk",
-     "amazon.com",
      "amazon.com.au"
     ],
     "links": {
@@ -9647,7 +10270,7 @@
      "amazon.es": "https://www.amazon.es/dp/B09YC262VM?tag=fraym08-21",
      "amazon.it": "https://www.amazon.it/dp/B09YC262VM?tag=fraym06-21",
      "amazon.co.uk": "https://www.amazon.co.uk/dp/B09YC262VM?tag=fraym0a-21",
-     "amazon.com": "https://www.amazon.com/dp/B09YC262VM?tag=fraym-20",
+     "amazon.com": "https://www.amazon.com.au/dp/B09YC262VM?tag=fraym-22",
      "amazon.com.au": "https://www.amazon.com.au/dp/B09YC262VM?tag=fraym-22"
     }
    },
@@ -9748,13 +10371,12 @@
     "product": "be quiet! Silent Loop 3 360mm système de refroidissement liquide, plaque froide usinée avec haute précision, 3 ventilateurs Silent Wings 4 120mm PWM high-speed, performances exceptionnelles",
     "native": [
      "amazon.fr",
-     "amazon.es",
      "amazon.it"
     ],
     "links": {
      "amazon.fr": "https://www.amazon.fr/dp/B0DWZJNH28?tag=fraym-21",
      "amazon.de": "https://www.amazon.fr/dp/B0DWZJNH28?tag=fraym-21",
-     "amazon.es": "https://www.amazon.es/dp/B0DWZJNH28?tag=fraym08-21",
+     "amazon.es": "https://www.amazon.fr/dp/B0DWZJNH28?tag=fraym-21",
      "amazon.it": "https://www.amazon.it/dp/B0DWZJNH28?tag=fraym06-21",
      "amazon.co.uk": "https://www.amazon.fr/dp/B0DWZJNH28?tag=fraym-21",
      "amazon.com": "https://www.amazon.fr/dp/B0DWZJNH28?tag=fraym-21",
@@ -9770,19 +10392,16 @@
     "product": "Corsair LL120 RGB, Ventilateur de Boitier Dual Light Loop RGB LED PWM 120mm avec Lighting Node et Hub (Triple Pack)",
     "native": [
      "amazon.fr",
-     "amazon.de",
-     "amazon.es",
-     "amazon.com",
-     "amazon.com.au"
+     "amazon.es"
     ],
     "links": {
      "amazon.fr": "https://www.amazon.fr/dp/B075VGN4M1?tag=fraym-21",
-     "amazon.de": "https://www.amazon.de/dp/B075VGN4M1?tag=fraym03-21",
+     "amazon.de": "https://www.amazon.fr/dp/B075VGN4M1?tag=fraym-21",
      "amazon.es": "https://www.amazon.es/dp/B075VGN4M1?tag=fraym08-21",
-     "amazon.it": "https://www.amazon.de/dp/B075VGN4M1?tag=fraym03-21",
-     "amazon.co.uk": "https://www.amazon.de/dp/B075VGN4M1?tag=fraym03-21",
-     "amazon.com": "https://www.amazon.com/dp/B075VGN4M1?tag=fraym-20",
-     "amazon.com.au": "https://www.amazon.com.au/dp/B075VGN4M1?tag=fraym-22"
+     "amazon.it": "https://www.amazon.fr/dp/B075VGN4M1?tag=fraym-21",
+     "amazon.co.uk": "https://www.amazon.fr/dp/B075VGN4M1?tag=fraym-21",
+     "amazon.com": "https://www.amazon.fr/dp/B075VGN4M1?tag=fraym-21",
+     "amazon.com.au": "https://www.amazon.fr/dp/B075VGN4M1?tag=fraym-21"
     }
    }
   }
@@ -9810,38 +10429,8 @@
     "raison": "sans_fiche"
    },
    {
-    "id": "nvidia-gtx-1050",
-    "name": "GeForce GTX 1050",
-    "raison": "sans_fiche"
-   },
-   {
-    "id": "nvidia-gtx-1650-super",
-    "name": "GeForce GTX 1650 Super",
-    "raison": "sans_fiche"
-   },
-   {
-    "id": "amd-rx-570",
-    "name": "Radeon RX 570",
-    "raison": "sans_fiche"
-   },
-   {
     "id": "amd-rx-6700",
     "name": "Radeon RX 6700",
-    "raison": "sans_fiche"
-   },
-   {
-    "id": "intel-arc-a770",
-    "name": "Arc A770",
-    "raison": "sans_fiche"
-   },
-   {
-    "id": "rtx6000ada",
-    "name": "RTX 6000 Ada",
-    "raison": "sans_fiche"
-   },
-   {
-    "id": "rtx4000ada",
-    "name": "RTX 4000 Ada",
     "raison": "sans_fiche"
    }
   ],
@@ -9854,16 +10443,6 @@
    {
     "id": "amd-ryzen-7-5700g",
     "name": "Ryzen 7 5700G",
-    "raison": "sans_fiche"
-   },
-   {
-    "id": "intel-core-i5-14500",
-    "name": "Core i5-14500",
-    "raison": "sans_fiche"
-   },
-   {
-    "id": "intel-core-i5-10600k",
-    "name": "Core i5-10600K",
     "raison": "sans_fiche"
    },
    {
@@ -9886,11 +10465,6 @@
    {
     "id": "ddr4_8_2666c16",
     "name": "8 Go DDR4-2666 CL16",
-    "raison": "sans_fiche"
-   },
-   {
-    "id": "ddr5_16_6000c36",
-    "name": "16 Go DDR5-6000 CL36",
     "raison": "sans_fiche"
    },
    {
@@ -9926,21 +10500,6 @@
     "raison": "sans_fiche"
    },
    {
-    "id": "hdd-barracuda",
-    "name": "Seagate BarraCuda 2 To",
-    "raison": "sans_fiche"
-   },
-   {
-    "id": "hdd-wdblue-2tb",
-    "name": "WD Blue 2 To (7200)",
-    "raison": "sans_fiche"
-   },
-   {
-    "id": "hdd-firecuda-2tb",
-    "name": "Seagate FireCuda 2 To (7200)",
-    "raison": "sans_fiche"
-   },
-   {
     "id": "hdd-wdblack-4tb",
     "name": "WD Black 4 To (7200)",
     "raison": "sans_fiche"
@@ -9968,53 +10527,8 @@
   ],
   "mobos": [
    {
-    "id": "b550-aorus",
-    "name": "Gigabyte B550 Aorus Elite",
-    "raison": "sans_fiche"
-   },
-   {
-    "id": "b760m-mortar",
-    "name": "MSI MAG B760M Mortar",
-    "raison": "sans_fiche"
-   },
-   {
-    "id": "z690-edge",
-    "name": "MSI MPG Z690 Edge WiFi",
-    "raison": "sans_fiche"
-   },
-   {
-    "id": "h610m",
-    "name": "ASUS Prime H610M-K",
-    "raison": "sans_fiche"
-   },
-   {
-    "id": "z890-aorus",
-    "name": "Gigabyte Z890 Aorus Master",
-    "raison": "sans_fiche"
-   },
-   {
-    "id": "b550-tuf",
-    "name": "ASUS TUF B550-Plus",
-    "raison": "sans_fiche"
-   },
-   {
     "id": "z790-apex",
     "name": "ASUS ROG Maximus Z790 Apex",
-    "raison": "sans_fiche"
-   },
-   {
-    "id": "asus-tuf-x570-plus",
-    "name": "ASUS TUF Gaming X570-Plus",
-    "raison": "sans_fiche"
-   },
-   {
-    "id": "gigabyte-b660-ds3h",
-    "name": "Gigabyte B660 DS3H DDR4",
-    "raison": "sans_fiche"
-   },
-   {
-    "id": "asus-prime-z690-p",
-    "name": "ASUS Prime Z690-P WiFi",
     "raison": "sans_fiche"
    }
   ],
@@ -10025,38 +10539,13 @@
     "raison": "sans_fiche"
    },
    {
-    "id": "corsair-rm1000x",
-    "name": "Corsair RM1000x",
-    "raison": "sans_fiche"
-   },
-   {
     "id": "evga-supernova-1200-p6",
     "name": "EVGA SuperNOVA 1200 P6",
     "raison": "sans_fiche"
    },
    {
-    "id": "asus-rog-strix-1000w",
-    "name": "ASUS ROG Strix 1000W",
-    "raison": "sans_fiche"
-   },
-   {
     "id": "be-quiet-system-power-10-450w",
     "name": "be quiet! System Power 10 450W",
-    "raison": "sans_fiche"
-   },
-   {
-    "id": "corsair-hx850",
-    "name": "Corsair HX850",
-    "raison": "sans_fiche"
-   },
-   {
-    "id": "be-quiet-pure-power-12-m-550w",
-    "name": "be quiet! Pure Power 12 M 550W",
-    "raison": "sans_fiche"
-   },
-   {
-    "id": "nzxt-c750-gold",
-    "name": "NZXT C750 Gold",
     "raison": "sans_fiche"
    }
   ],
@@ -10067,26 +10556,6 @@
     "raison": "sans_fiche"
    },
    {
-    "id": "fractal-meshify-2",
-    "name": "Fractal Meshify 2",
-    "raison": "sans_fiche"
-   },
-   {
-    "id": "fractal-torrent",
-    "name": "Fractal Torrent",
-    "raison": "sans_fiche"
-   },
-   {
-    "id": "fractal-ridge-itx",
-    "name": "Fractal Ridge (ITX)",
-    "raison": "sans_fiche"
-   },
-   {
-    "id": "corsair-5000d-airflow",
-    "name": "Corsair 5000D Airflow",
-    "raison": "sans_fiche"
-   },
-   {
     "id": "corsair-icue-3000d",
     "name": "Corsair iCUE 3000D",
     "raison": "sans_fiche"
@@ -10094,11 +10563,6 @@
    {
     "id": "lian-li-o11-dynamic",
     "name": "Lian Li O11 Dynamic",
-    "raison": "sans_fiche"
-   },
-   {
-    "id": "lian-li-a4-h2o-itx",
-    "name": "Lian Li A4-H2O (ITX)",
     "raison": "sans_fiche"
    },
    {
@@ -10120,16 +10584,6 @@
     "id": "fractal-terra-itx",
     "name": "Fractal Terra (ITX)",
     "raison": "sans_fiche"
-   },
-   {
-    "id": "montech-king-95",
-    "name": "Montech King 95",
-    "raison": "sans_fiche"
-   },
-   {
-    "id": "hyte-y70",
-    "name": "Hyte Y70",
-    "raison": "sans_fiche"
    }
   ],
   "coolers": [
@@ -10137,16 +10591,6 @@
     "id": "refroidisseur-stock",
     "name": "Refroidisseur stock",
     "raison": "generique"
-   },
-   {
-    "id": "cooler-master-hyper-212",
-    "name": "Cooler Master Hyper 212",
-    "raison": "sans_fiche"
-   },
-   {
-    "id": "thermalright-assassin-x120-r",
-    "name": "Thermalright Assassin X120 R",
-    "raison": "sans_fiche"
    },
    {
     "id": "thermalright-peerless-assassin-120",

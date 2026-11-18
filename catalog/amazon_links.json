@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T13:12:31Z",
+ "generated": "2026-11-18T14:06:19Z",
  "markets": [
   "amazon.fr",
   "amazon.de",
@@ -9,8 +9,8 @@
   "amazon.com",
   "amazon.com.au"
  ],
- "nativeLinks": 2219,
- "onelinkLinks": 1267,
+ "nativeLinks": 2218,
+ "onelinkLinks": 1261,
  "note": "Liens d'affiliation Amazon pre-calcules vers la FICHE PRODUIT (/dp/<ASIN>), utilises par l'app quand aucune offre Amazon verifiee n'est disponible. ASIN valides sur la fiche Amazon elle-meme ; les marketplaces sans fiche recoivent le lien d'une marketplace voisine, OneLink redirigeant l'acheteur.",
  "items": {
   "gpus": {
@@ -10678,24 +10678,6 @@
      "amazon.com.au": "https://www.amazon.fr/dp/B075VGN4M1?tag=fraym-21"
     }
    },
-   "noctua_a12_2": {
-    "name": "Noctua NF-A12x25 (×2)",
-    "q": "Noctua NF-A12x25",
-    "asin": "B07C5Q2VW6",
-    "product": "Noctua NF-A12x25 ULN, High-Performance Whisper Quiet Fan 120mm | Ultra Low Noise 25mm Thick Fan, for Heatsinks and Radiators, Rich Accessory Kit, 2 Speed Settings 1200/900rpm 3-Pin : Electronics",
-    "native": [
-     "amazon.com"
-    ],
-    "links": {
-     "amazon.fr": "https://www.amazon.com/dp/B07C5Q2VW6?tag=fraym-20",
-     "amazon.de": "https://www.amazon.com/dp/B07C5Q2VW6?tag=fraym-20",
-     "amazon.es": "https://www.amazon.com/dp/B07C5Q2VW6?tag=fraym-20",
-     "amazon.it": "https://www.amazon.com/dp/B07C5Q2VW6?tag=fraym-20",
-     "amazon.co.uk": "https://www.amazon.com/dp/B07C5Q2VW6?tag=fraym-20",
-     "amazon.com": "https://www.amazon.com/dp/B07C5Q2VW6?tag=fraym-20",
-     "amazon.com.au": "https://www.amazon.com/dp/B07C5Q2VW6?tag=fraym-20"
-    }
-   },
    "lianli_sl120_3": {
     "name": "Lian Li UNI SL120 (×3)",
     "q": "Lian Li UNI SL120",
@@ -10928,6 +10910,11 @@
    {
     "id": "bequiet_silent3",
     "name": "be quiet! Silent Wings 4 (×3)",
+    "raison": "sans_fiche"
+   },
+   {
+    "id": "noctua_a12_2",
+    "name": "Noctua NF-A12x25 (×2)",
     "raison": "sans_fiche"
    }
   ]

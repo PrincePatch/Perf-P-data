@@ -696,7 +696,13 @@ def lot_de_ventilateurs(nom_app, titre):
     motifs = [
         rf"\b{n}\s?(?:er\s)?(?:pack|pcs|pieces|stuck|unidades|pezzi|"
         rf"ventilateurs|ventiladores|ventole|fans|lufter)\b",
-        rf"\b(?:pack|lot|kit|set|paquete|confezione)\s(?:de\s|of\s|da\s)?{n}\b",
+        # « kit » et « set » exigent « de / of / da » : « Rich Accessory Kit, 2
+        # Speed Settings » (un seul Noctua NF-A12x25) passait pour un lot de 2
+        # (18/11/2026). Un nombre suivi de « speed / vitesse / mode » n'est
+        # jamais une quantité.
+        rf"\b(?:pack|lot|paquete|confezione)\s(?:de\s|of\s|da\s)?{n}\b"
+        rf"(?!\s(?:speed|speeds|vitesse|vitesses|mode|modes|setting|settings))",
+        rf"\b(?:kit|set)\s(?:de|of|da)\s{n}\b",
     ]
     motifs.append({"3": r"\btri(?:ple)?\s?pack\b", "2": r"\b(?:dual|twin|duo)\s?pack\b"}
                   .get(n, r"$^"))

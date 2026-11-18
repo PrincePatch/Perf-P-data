@@ -584,5 +584,13 @@ class Mecanique(unittest.TestCase):
         self.assertFalse(ra.valide("rams", ram["name"], "PC de bureau gaming Ryzen 7 avec 32 Go DDR5 6000 CL30",
                                    ra._jetons("rams", ram), souple=True, catalogue=[]))
 
+    def test_kit_accessoires_et_vitesses_ne_font_pas_un_lot(self):
+        # « Rich Accessory Kit, 2 Speed Settings » : un seul ventilateur (18/11/2026).
+        self.assertFalse(ra.lot_de_ventilateurs("Noctua NF-A12x25 (×2)",
+            "Noctua NF-A12x25 ULN, High-Performance Whisper Quiet Fan 120mm | Ultra Low Noise 25mm "
+            "Thick Fan, for Heatsinks and Radiators, Rich Accessory Kit, 2 Speed Settings 1200/900rpm"))
+        self.assertTrue(ra.lot_de_ventilateurs("Noctua NF-A12x25 (×2)",
+                                               "Noctua NF-A12x25 PWM, lot de 2 ventilateurs 120 mm"))
+
 if __name__ == "__main__":
     unittest.main()

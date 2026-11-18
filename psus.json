@@ -2,18 +2,8 @@
  {
   "id": "msi-mag-a550bn",
   "name": "MSI MAG A550BN",
-  "priceMin": 58.41,
+  "priceMin": 50.5,
   "prices": [
-   {
-    "shop": "materiel.net",
-    "price": 59.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202305090083.html",
-    "inStock": false,
-    "lastSeen": "2026-11-16T14:37:02Z",
-    "product": "MSI MAG A550BN",
-    "image": "https://media.materiel.net/r250/products/MN0005896886_1_0006038821.jpg"
-   },
    {
     "shop": "amazon.es",
     "price": 58.41,
@@ -23,10 +13,40 @@
     "lastSeen": "2026-11-18T11:46:54Z",
     "product": "MSI mag A550BN - Fuente de alimentación Gaming: 80 Plus Bronze, 550 vatios, 12V Single-Rail, Circuito DC-to-DC, Ventilador de 120mm",
     "image": null
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 59.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00553942.html",
+    "inStock": false,
+    "lastSeen": "2026-11-18T12:17:00Z",
+    "product": "MSI MAG A550BN",
+    "image": "https://media.ldlc.com/r1600/ld/products/00/05/88/55/LD0005885517_1_0006036033.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 59.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202305090083.html",
+    "inStock": false,
+    "lastSeen": "2026-11-18T12:17:00Z",
+    "product": "MSI MAG A550BN",
+    "image": "https://media.materiel.net/r900/products/MN0005896886_1_0006038821.jpg"
+   },
+   {
+    "shop": "amazon.co.uk",
+    "price": 43.43,
+    "currency": "GBP",
+    "url": "https://www.amazon.co.uk/dp/B0991W1HKT?tag=fraym0a-21",
+    "inStock": true,
+    "lastSeen": "2026-11-18T13:08:11Z",
+    "product": "MSI MAG A550BN Power Supply, EU Plug - 550 W, 80 Plus Bronze Certified, ATX Power Supply, 12 V Single Rail, DC/DC Voltage Converter Design, 120 mm Fan",
+    "image": null
    }
   ],
-  "image": null,
-  "lastUpdated": "2026-11-18T11:46:54Z"
+  "image": "images/psus-msi-mag-a550bn.jpg",
+  "lastUpdated": "2026-11-18T13:08:11Z"
  },
  {
   "id": "be-quiet-pure-power-12-m-650w",
@@ -42,16 +62,6 @@
   "priceMin": 59.66,
   "prices": [
    {
-    "shop": "materiel.net",
-    "price": 99.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202503130015.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T00:27:45Z",
-    "product": "Corsair RM650e (2025) - Noir",
-    "image": "https://media.materiel.net/r250/products/MN0006241005.jpg"
-   },
-   {
     "shop": "amazon.de",
     "price": 59.66,
     "currency": "EUR",
@@ -60,36 +70,36 @@
     "lastSeen": "2026-11-18T11:46:47Z",
     "product": "CORSAIR RM650e ATX-Netzteil mit 12V-2x6 Kable – Schwarz | Vollständig Modulares, Geräuscharmes, Zero RPM-Lüftermodus, ATX 3.1-Konform, PCIe 5.1-Unterstützung, Cybenetics Gold",
     "image": null
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 99.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00672682.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T12:17:00Z",
+    "product": "Corsair RM650e (2025)",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/22/66/LD0006226600.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 99.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202503130015.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T12:17:00Z",
+    "product": "Corsair RM650e (2025) - Noir",
+    "image": "https://media.materiel.net/r250/products/MN0006241005.jpg"
    }
   ],
   "image": "images/psus-corsair-rm650e.jpg",
-  "lastUpdated": "2026-11-18T11:46:47Z"
+  "lastUpdated": "2026-11-18T12:17:00Z"
  },
  {
   "id": "msi-mag-a650gl",
   "name": "MSI MAG A650GL",
   "priceMin": 79.16,
   "prices": [
-   {
-    "shop": "materiel.net",
-    "price": 84.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202310180019.html",
-    "inStock": false,
-    "lastSeen": "2026-11-18T00:27:45Z",
-    "product": "MSI MAG A650GL",
-    "image": "https://media.materiel.net/r250/products/MN0006196196.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 119.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202505220025.html",
-    "inStock": false,
-    "lastSeen": "2026-11-18T00:27:45Z",
-    "product": "MSI MAG A650GLS PCIE5",
-    "image": "https://media.materiel.net/r250/products/MN0006312400.jpg"
-   },
    {
     "shop": "amazon.com",
     "price": 92.38,
@@ -109,36 +119,56 @@
     "lastSeen": "2026-11-18T11:46:57Z",
     "product": "MSI PSU mag A650GL 80 Plus Gold Full Modular",
     "image": null
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 84.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00577699.html",
+    "inStock": false,
+    "lastSeen": "2026-11-18T12:17:00Z",
+    "product": "MSI MAG A650GL",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/07/61/LD0006076101.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 104.9,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00721810.html",
+    "inStock": false,
+    "lastSeen": "2026-11-18T12:17:00Z",
+    "product": "MSI MAG A650GLS PCIE5",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/31/19/LD0006311975.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 84.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202310180019.html",
+    "inStock": false,
+    "lastSeen": "2026-11-18T12:17:00Z",
+    "product": "MSI MAG A650GL",
+    "image": "https://media.materiel.net/r250/products/MN0006196196.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 119.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202505220025.html",
+    "inStock": false,
+    "lastSeen": "2026-11-18T12:17:00Z",
+    "product": "MSI MAG A650GLS PCIE5",
+    "image": "https://media.materiel.net/r250/products/MN0006312400.jpg"
    }
   ],
   "image": "images/psus-msi-mag-a650gl.jpg",
-  "lastUpdated": "2026-11-18T11:46:57Z"
+  "lastUpdated": "2026-11-18T12:17:00Z"
  },
  {
   "id": "corsair-rm750e",
   "name": "Corsair RM750e",
   "priceMin": 62.18,
   "prices": [
-   {
-    "shop": "materiel.net",
-    "price": 119.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202412050100.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T00:27:45Z",
-    "product": "Corsair RM750e (2025) - Noir",
-    "image": "https://media.materiel.net/r250/products/MN0006346074.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 124.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202504100018.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T00:27:45Z",
-    "product": "Corsair RM750e (2025) - Blanc",
-    "image": "https://media.materiel.net/r250/products/MN0006240236.jpg"
-   },
    {
     "shop": "amazon.de",
     "price": 62.18,
@@ -148,10 +178,50 @@
     "lastSeen": "2026-11-18T11:46:48Z",
     "product": "CORSAIR RM750e ATX-Netzteil mit 12V-2x6 Kable – Schwarz | Vollständig Modulares, Geräuscharmes, Zero RPM-Lüftermodus, ATX 3.1-Konform, PCIe 5.1-Unterstützung, Cybenetics Gold",
     "image": null
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 119.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00663403.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T12:17:00Z",
+    "product": "Corsair RM750e (2025)",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/20/69/LD0006206987.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 124.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00677513.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T12:17:00Z",
+    "product": "Corsair RM750e (2025) - Blanc",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/23/79/LD0006237925.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 119.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202412050100.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T12:17:00Z",
+    "product": "Corsair RM750e (2025) - Noir",
+    "image": "https://media.materiel.net/r250/products/MN0006346074.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 124.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202504100018.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T12:17:00Z",
+    "product": "Corsair RM750e (2025) - Blanc",
+    "image": "https://media.materiel.net/r250/products/MN0006240236.jpg"
    }
   ],
   "image": "images/psus-corsair-rm750e.jpg",
-  "lastUpdated": "2026-11-18T11:46:48Z"
+  "lastUpdated": "2026-11-18T12:17:00Z"
  },
  {
   "id": "be-quiet-pure-power-12-m-750w",
@@ -167,12 +237,32 @@
   "priceMin": 169.95,
   "prices": [
    {
+    "shop": "ldlc.com",
+    "price": 169.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00647650.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T12:17:00Z",
+    "product": "Seasonic FOCUS GX-750 ATX 3 (2024)",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/17/40/LD0006174024.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 169.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00647656.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T12:17:00Z",
+    "product": "Seasonic FOCUS GX-750 ATX 3 (2024) - Blanc",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/17/41/LD0006174146.jpg"
+   },
+   {
     "shop": "materiel.net",
     "price": 169.95,
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202409020025.html",
     "inStock": true,
-    "lastSeen": "2026-11-18T00:27:45Z",
+    "lastSeen": "2026-11-18T12:17:00Z",
     "product": "Seasonic FOCUS GX-750 ATX 3 (2024) - Blanc",
     "image": "https://media.materiel.net/r250/products/MN0006196224.jpg"
    },
@@ -182,18 +272,18 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202409020019.html",
     "inStock": true,
-    "lastSeen": "2026-11-18T00:27:45Z",
+    "lastSeen": "2026-11-18T12:17:00Z",
     "product": "Seasonic FOCUS GX-750 ATX 3 (2024) - Noir",
     "image": "https://media.materiel.net/r250/products/MN0006196225.jpg"
    }
   ],
   "image": "images/psus-seasonic-focus-gx-750.jpg",
-  "lastUpdated": "2026-11-18T10:55:58Z"
+  "lastUpdated": "2026-11-18T12:17:00Z"
  },
  {
   "id": "corsair-rm750x",
   "name": "Corsair RM750x",
-  "priceMin": 82.34,
+  "priceMin": 81.66,
   "prices": [
    {
     "shop": "amazon.de",
@@ -204,10 +294,60 @@
     "lastSeen": "2026-11-18T11:46:49Z",
     "product": "CORSAIR RM750x Vollständig Modulares ATX-Netzteil – Schwarz | Zero RPM-Lüftermodus, ATX 3.1-Konform, PCIe 5.1-Unterstützung, Geräuscharmes, Cybenetics Gold, Native 12V-2x6-Anschluss",
     "image": null
+   },
+   {
+    "shop": "materiel.net",
+    "price": 109.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202411180059.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T12:17:00Z",
+    "product": "Corsair RM750x (2024)",
+    "image": "https://media.materiel.net/r900/products/MN0006192069.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 134.9,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00656140.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T12:17:00Z",
+    "product": "Corsair RM750x Cybenetics Gold (2024)",
+    "image": "https://media.ldlc.com/r1600/ld/products/00/06/19/18/LD0006191829.jpg"
+   },
+   {
+    "shop": "amazon.co.uk",
+    "price": 79.16,
+    "currency": "GBP",
+    "url": "https://www.amazon.co.uk/dp/B0D9BZ2BDB?tag=fraym0a-21",
+    "inStock": true,
+    "lastSeen": "2026-11-18T13:07:59Z",
+    "product": "CORSAIR RM750x Fully Modular Low-Noise ATX Power Supply – Black | ATX 3.1 Compliant, PCIe 5.1 Support, Cybenetics Gold Efficiency, Native 12V-2x6 Connector",
+    "image": null
+   },
+   {
+    "shop": "amazon.com",
+    "price": 122.99,
+    "currency": "USD",
+    "url": "https://www.amazon.com/dp/B0FLG9Y4HZ?tag=fraym-20",
+    "inStock": true,
+    "lastSeen": "2026-11-18T13:08:02Z",
+    "product": "CORSAIR RM750x ATX 3.1 PCIe 5.1 750W Power Supply – Black | Native 12V-2x6 Connector, Fully Modular, Low-Noise, Cybenetics Gold, NA : Electronics",
+    "image": null
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 81.66,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B0D9C2K4VS?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-18T13:08:04Z",
+    "product": "CORSAIR RM750x Alimentation ATX entièrement modulaire et silencieuse – Noir | Conformité ATX 3.1, Prise en Charge PCIe 5.1, Efficacité Cybenetics Gold, Connecteur natif 12V–2x6",
+    "image": null
    }
   ],
-  "image": null,
-  "lastUpdated": "2026-11-18T11:46:49Z"
+  "image": "images/psus-corsair-rm750x.jpg",
+  "lastUpdated": "2026-11-18T13:08:04Z"
  },
  {
   "id": "msi-mpg-a750g",
@@ -252,12 +392,42 @@
   "priceMin": 69.74,
   "prices": [
    {
+    "shop": "amazon.de",
+    "price": 69.74,
+    "currency": "EUR",
+    "url": "https://www.amazon.de/dp/B0DMTN5WLB?tag=fraym03-21",
+    "inStock": true,
+    "lastSeen": "2026-11-18T11:46:50Z",
+    "product": "CORSAIR RM850e ATX-Netzteil mit 12V-2x6 Kable – Schwarz | Vollständig Modulares, Geräuscharmes, Zero RPM-Lüftermodus, ATX 3.1-Konform, PCIe 5.1-Unterstützung, Cybenetics Gold",
+    "image": null
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 134.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00663406.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T12:17:00Z",
+    "product": "Corsair RM850e (2025)",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/20/70/LD0006207012.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 134.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00677515.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T12:17:00Z",
+    "product": "Corsair RM850e (2025) - Blanc",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/23/79/LD0006237932.jpg"
+   },
+   {
     "shop": "materiel.net",
     "price": 134.95,
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202412050101.html",
     "inStock": true,
-    "lastSeen": "2026-11-18T00:27:45Z",
+    "lastSeen": "2026-11-18T12:17:00Z",
     "product": "Corsair RM850e (2025) - Noir",
     "image": "https://media.materiel.net/r250/products/MN0006207114.jpg"
    },
@@ -267,39 +437,19 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202504100019.html",
     "inStock": true,
-    "lastSeen": "2026-11-18T00:27:45Z",
+    "lastSeen": "2026-11-18T12:17:00Z",
     "product": "Corsair RM850e (2025) - Blanc",
     "image": "https://media.materiel.net/r250/products/MN0006240262.jpg"
-   },
-   {
-    "shop": "amazon.de",
-    "price": 69.74,
-    "currency": "EUR",
-    "url": "https://www.amazon.de/dp/B0DMTN5WLB?tag=fraym03-21",
-    "inStock": true,
-    "lastSeen": "2026-11-18T11:46:50Z",
-    "product": "CORSAIR RM850e ATX-Netzteil mit 12V-2x6 Kable – Schwarz | Vollständig Modulares, Geräuscharmes, Zero RPM-Lüftermodus, ATX 3.1-Konform, PCIe 5.1-Unterstützung, Cybenetics Gold",
-    "image": null
    }
   ],
   "image": "images/psus-corsair-rm850e.jpg",
-  "lastUpdated": "2026-11-18T11:46:50Z"
+  "lastUpdated": "2026-11-18T12:17:00Z"
  },
  {
   "id": "corsair-rm850x",
   "name": "Corsair RM850x",
   "priceMin": 99.06,
   "prices": [
-   {
-    "shop": "materiel.net",
-    "price": 134.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202411180060.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T00:27:45Z",
-    "product": "Corsair RM850x (2024)",
-    "image": "https://media.materiel.net/r250/products/MN0006192076.jpg"
-   },
    {
     "shop": "amazon.es",
     "price": 99.06,
@@ -319,36 +469,56 @@
     "lastSeen": "2026-11-18T11:46:49Z",
     "product": "CORSAIR RM850x ATX 3.1 PCIe 5.1 Ready Fully Modular 850W Power Supply – Low-Noise, Cybenetics Gold Efficiency, Native 12V-2x6 Connector – Black : Electronics",
     "image": null
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 134.9,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00656151.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T12:17:00Z",
+    "product": "Corsair RM850x Cybenetics Gold (2024)",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/19/18/LD0006191888.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 134.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202411180060.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T12:17:00Z",
+    "product": "Corsair RM850x (2024)",
+    "image": "https://media.materiel.net/r250/products/MN0006192076.jpg"
+   },
+   {
+    "shop": "amazon.co.uk",
+    "price": 87.49,
+    "currency": "GBP",
+    "url": "https://www.amazon.co.uk/dp/B0D9C16979?tag=fraym0a-21",
+    "inStock": true,
+    "lastSeen": "2026-11-18T13:08:06Z",
+    "product": "CORSAIR RM850x Fully Modular Low-Noise ATX Power Supply – Black | ATX 3.1 Compliant, PCIe 5.1 Support, Cybenetics Gold Efficiency, Native 12V-2x6 Connector",
+    "image": null
+   },
+   {
+    "shop": "amazon.de",
+    "price": 104.2,
+    "currency": "EUR",
+    "url": "https://www.amazon.de/dp/B0D9C1DT62?tag=fraym03-21",
+    "inStock": true,
+    "lastSeen": "2026-11-18T13:08:45Z",
+    "product": "CORSAIR RM850x Geräuscharmes Vollständig Modulares ATX-Netzteil – Schwarz | Zero RPM-Lüftermodus, ATX 3.1-Konform, PCIe 5.1-Unterstützung, Cybenetics Gold, Native 12V-2x6-Anschluss",
+    "image": null
    }
   ],
   "image": "images/psus-corsair-rm850x.jpg",
-  "lastUpdated": "2026-11-18T11:46:49Z"
+  "lastUpdated": "2026-11-18T13:08:45Z"
  },
  {
   "id": "seasonic-focus-gx-850",
   "name": "Seasonic Focus GX-850",
   "priceMin": 128.9,
   "prices": [
-   {
-    "shop": "materiel.net",
-    "price": 199.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202409020020.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T00:27:45Z",
-    "product": "Seasonic FOCUS GX-850 ATX 3 (2024) - Noir",
-    "image": "https://media.materiel.net/r250/products/MN0006196229.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 199.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202409020026.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T00:27:45Z",
-    "product": "Seasonic FOCUS GX-850 ATX 3 (2024) - Blanc",
-    "image": "https://media.materiel.net/r250/products/MN0006196228.jpg"
-   },
    {
     "shop": "amazon.es",
     "price": 128.9,
@@ -368,10 +538,50 @@
     "lastSeen": "2026-11-18T11:47:11Z",
     "product": "SEASONIC FOCUS V4 GX-850-850W - 80+ Gold - Full-Modular - ATX Form Factor - Premium Japanese Capacitor - 10 Year Warranty - Nvidia RTX 30/40 Super & AMD GPU Compatible (Ref. SRP-FGX851-A5A32SF) : Electronics",
     "image": null
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 199.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00647652.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T12:17:00Z",
+    "product": "Seasonic FOCUS GX-850 ATX 3 (2024)",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/17/41/LD0006174106.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 199.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00647659.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T12:17:00Z",
+    "product": "Seasonic FOCUS GX-850 ATX 3 (2024) - Blanc",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/17/41/LD0006174157.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 199.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202409020020.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T12:17:00Z",
+    "product": "Seasonic FOCUS GX-850 ATX 3 (2024) - Noir",
+    "image": "https://media.materiel.net/r250/products/MN0006196229.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 199.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202409020026.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T12:17:00Z",
+    "product": "Seasonic FOCUS GX-850 ATX 3 (2024) - Blanc",
+    "image": "https://media.materiel.net/r250/products/MN0006196228.jpg"
    }
   ],
   "image": "images/psus-seasonic-focus-gx-850.jpg",
-  "lastUpdated": "2026-11-18T11:47:11Z"
+  "lastUpdated": "2026-11-18T12:17:00Z"
  },
  {
   "id": "be-quiet-straight-power-12-850w",
@@ -427,12 +637,42 @@
   "priceMin": 90.75,
   "prices": [
    {
+    "shop": "amazon.de",
+    "price": 90.75,
+    "currency": "EUR",
+    "url": "https://www.amazon.de/dp/B0DMTN57C1?tag=fraym03-21",
+    "inStock": true,
+    "lastSeen": "2026-11-18T11:46:45Z",
+    "product": "CORSAIR RM1000e ATX-Netzteil mit 12V-2x6 Kable – Schwarz | Vollständig Modulares, Geräuscharmes, Zero RPM-Lüftermodus, ATX 3.1-Konform, PCIe 5.1-Unterstützung, Cybenetics Gold",
+    "image": null
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 174.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00663407.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T12:17:00Z",
+    "product": "Corsair RM1000e (2025)",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/20/70/LD0006207029.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 174.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00677518.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T12:17:00Z",
+    "product": "Corsair RM1000e (2025) - Blanc",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/23/79/LD0006237942.jpg"
+   },
+   {
     "shop": "materiel.net",
     "price": 174.95,
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202412050102.html",
     "inStock": true,
-    "lastSeen": "2026-11-18T00:27:45Z",
+    "lastSeen": "2026-11-18T12:17:00Z",
     "product": "Corsair RM1000e (2025) - Noir",
     "image": "https://media.materiel.net/r250/products/MN0006207121.jpg"
    },
@@ -442,31 +682,42 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202504100021.html",
     "inStock": true,
-    "lastSeen": "2026-11-18T00:27:45Z",
+    "lastSeen": "2026-11-18T12:17:00Z",
     "product": "Corsair RM1000e (2025) - Blanc",
     "image": "https://media.materiel.net/r250/products/MN0006240256.jpg"
-   },
-   {
-    "shop": "amazon.de",
-    "price": 90.75,
-    "currency": "EUR",
-    "url": "https://www.amazon.de/dp/B0DMTN57C1?tag=fraym03-21",
-    "inStock": true,
-    "lastSeen": "2026-11-18T11:46:45Z",
-    "product": "CORSAIR RM1000e ATX-Netzteil mit 12V-2x6 Kable – Schwarz | Vollständig Modulares, Geräuscharmes, Zero RPM-Lüftermodus, ATX 3.1-Konform, PCIe 5.1-Unterstützung, Cybenetics Gold",
-    "image": null
    }
   ],
   "image": "images/psus-corsair-rm1000e.jpg",
-  "lastUpdated": "2026-11-18T11:46:45Z"
+  "lastUpdated": "2026-11-18T12:17:00Z"
  },
  {
   "id": "corsair-rm1000x",
   "name": "Corsair RM1000x",
-  "priceMin": null,
-  "prices": [],
-  "image": null,
-  "lastUpdated": "2026-11-18T10:55:58Z"
+  "priceMin": 139.95,
+  "prices": [
+   {
+    "shop": "materiel.net",
+    "price": 139.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202411180061.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T12:17:00Z",
+    "product": "Corsair RM1000x (2024)",
+    "image": "https://media.materiel.net/r900/products/MN0006192083.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 164.9,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00656152.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T12:17:00Z",
+    "product": "Corsair RM1000x Cybenetics Gold (2024)",
+    "image": "https://media.ldlc.com/r1600/ld/products/00/06/19/18/LD0006191891.jpg"
+   }
+  ],
+  "image": "images/psus-corsair-rm1000x.jpg",
+  "lastUpdated": "2026-11-18T12:17:00Z"
  },
  {
   "id": "be-quiet-dark-power-13-1000w",
@@ -493,12 +744,32 @@
   "priceMin": 224.95,
   "prices": [
    {
+    "shop": "ldlc.com",
+    "price": 249.9,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00554552.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T12:17:00Z",
+    "product": "Corsair HX1000i 80PLUS Platinum ATX 3.1",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/03/68/LD0006036861.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 265.96,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00714159.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T12:17:00Z",
+    "product": "Corsair HX1000i 80PLUS Platinum ATX 3.1",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/03/68/LD0006036861.jpg"
+   },
+   {
     "shop": "materiel.net",
     "price": 224.95,
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202304270038.html",
     "inStock": true,
-    "lastSeen": "2026-11-18T00:27:45Z",
+    "lastSeen": "2026-11-18T12:17:00Z",
     "product": "Corsair HX1000i",
     "image": "https://media.materiel.net/r250/products/MN0006196131.jpg"
    },
@@ -508,29 +779,19 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202511130080.html",
     "inStock": true,
-    "lastSeen": "2026-11-18T00:27:45Z",
+    "lastSeen": "2026-11-18T12:17:00Z",
     "product": "Corsair HX1000i",
     "image": "https://media.materiel.net/r250/products/MN0006196131.jpg"
    }
   ],
   "image": "images/psus-corsair-hx1000i.jpg",
-  "lastUpdated": "2026-11-18T10:55:58Z"
+  "lastUpdated": "2026-11-18T12:17:00Z"
  },
  {
   "id": "msi-meg-ai1300p",
   "name": "MSI MEG Ai1300P",
   "priceMin": 309.0,
   "prices": [
-   {
-    "shop": "materiel.net",
-    "price": 399.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202303090010.html",
-    "inStock": true,
-    "lastSeen": "2026-11-16T14:37:02Z",
-    "product": "MSI MEG Ai1300P PCIE5",
-    "image": "https://media.materiel.net/r250/products/MN0006210328.jpg"
-   },
    {
     "shop": "amazon.de",
     "price": 309.0,
@@ -540,10 +801,30 @@
     "lastSeen": "2026-11-18T11:47:01Z",
     "product": "MSI MEG Ai1300P PCIE5 - 1300W 80 Plus Platinum Netzteil | Vollmodularer ATX 3.0, unterstützt PCIe 5.0 GPU, japanische Kondensatoren, Gaming Intelligence, ummantelte Kabel",
     "image": null
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 399.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00546474.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T12:17:00Z",
+    "product": "MSI MEG AI1300P PCIE5",
+    "image": "https://media.ldlc.com/r1600/ld/products/00/06/02/25/LD0006022571.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 399.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202303090010.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T12:17:00Z",
+    "product": "MSI MEG Ai1300P PCIE5",
+    "image": "https://media.materiel.net/r900/products/MN0006210328.jpg"
    }
   ],
-  "image": null,
-  "lastUpdated": "2026-11-18T11:47:01Z"
+  "image": "images/psus-msi-meg-ai1300p.jpg",
+  "lastUpdated": "2026-11-18T12:17:00Z"
  },
  {
   "id": "thermaltake-toughpower-gf3-1000w",
@@ -567,7 +848,7 @@
  {
   "id": "gigabyte-ud1000gm-pg5",
   "name": "Gigabyte UD1000GM PG5",
-  "priceMin": 138.88,
+  "priceMin": 109.92,
   "prices": [
    {
     "shop": "amazon.com",
@@ -578,34 +859,207 @@
     "lastSeen": "2026-11-18T11:46:51Z",
     "product": "GIGABYTE UD1000GM PG5 V2-1000W 80 Plus Gold Certified - PCIe5.1 Ready - ATX3.1 - Fully Modular Power Supply (UD1000GM PG5 V2) : Electronics",
     "image": null
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 109.92,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B0BSSNC8LY?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-18T13:08:07Z",
+    "product": "GIGABYTE GP-UD1000GM PG5 1000W 80+ Gold Rev 2.0",
+    "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-18T11:46:51Z"
+  "lastUpdated": "2026-11-18T13:08:07Z"
  },
  {
   "id": "asus-rog-strix-1000w",
   "name": "ASUS ROG Strix 1000W",
-  "priceMin": null,
-  "prices": [],
+  "priceMin": 150.42,
+  "prices": [
+   {
+    "shop": "materiel.net",
+    "price": 269.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202606080108.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T12:17:00Z",
+    "product": "ASUS ROG Strix 1000W Platinum - ROG Equalizer",
+    "image": "https://media.materiel.net/r250/products/MN0006355366.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 269.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202606080107.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T12:17:00Z",
+    "product": "ASUS ROG Strix 1000W Platinum - ROG Equalizer - Blanc",
+    "image": "https://media.materiel.net/r250/products/MN0006366585.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 233.9,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00672811.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T12:17:00Z",
+    "product": "ASUS ROG Strix 1000W Platinum",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/22/75/LD0006227553.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 269.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00672812.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T12:17:00Z",
+    "product": "ASUS ROG Strix 1000W Platinum White Edition",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/22/75/LD0006227573.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 269.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00745721.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T12:17:00Z",
+    "product": "ASUS ROG Strix 1000W Platinum - ROG Equalizer",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/35/42/LD0006354213.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 269.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00748273.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T12:17:00Z",
+    "product": "ASUS ROG Strix 1000W Platinum White Edition - ROG Equalizer",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/36/27/LD0006362745.jpg"
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 150.42,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B0BPM64FHX?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-18T13:07:43Z",
+    "product": "ASUS ROG Strix 1000W Gold Aura Edition – Bloc d'alimentation PC (1000 Watt, modulable, 80+ Gold, ATX 3.0 Compatible, Lambda A+, PCIE 5.0, Ventilateurs axiaux, Aura Sync RGB)",
+    "image": null
+   }
+  ],
   "image": "images/psus-asus-rog-strix-1000w.jpg",
-  "lastUpdated": "2026-11-18T10:55:58Z"
+  "lastUpdated": "2026-11-18T13:07:43Z"
  },
  {
   "id": "corsair-cx550",
   "name": "Corsair CX550",
-  "priceMin": null,
-  "prices": [],
-  "image": null,
-  "lastUpdated": "2026-11-18T10:55:58Z"
+  "priceMin": 33.81,
+  "prices": [
+   {
+    "shop": "materiel.net",
+    "price": 59.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202309260101.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T12:17:00Z",
+    "product": "Corsair CX550",
+    "image": "https://media.materiel.net/r900/products/MN0006084191.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 59.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00580848.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T12:17:00Z",
+    "product": "Corsair CX550 80PLUS Bronze (2023)",
+    "image": "https://media.ldlc.com/r1600/ld/products/00/06/08/18/LD0006081883.jpg"
+   },
+   {
+    "shop": "amazon.co.uk",
+    "price": 29.08,
+    "currency": "GBP",
+    "url": "https://www.amazon.co.uk/dp/B0CJRVGGPS?tag=fraym0a-21",
+    "inStock": true,
+    "lastSeen": "2026-11-18T13:07:51Z",
+    "product": "CORSAIR CX550 Non Modular Low-Noise ATX 550 Watt Power Supply – Black | 80 PLUS Bronze, UK",
+    "image": null
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 71.84,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B0CJRVGGPS?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-18T13:07:57Z",
+    "product": "Corsair CX550 80 Plus Bronze - Bloc d'alimentation Non modulaire ATX à Faible Bruit de 550 W, Couleur Noire",
+    "image": null
+   },
+   {
+    "shop": "amazon.de",
+    "price": 35.21,
+    "currency": "EUR",
+    "url": "https://www.amazon.de/dp/B0CK8MXWK1?tag=fraym03-21",
+    "inStock": true,
+    "lastSeen": "2026-11-18T13:08:38Z",
+    "product": "CORSAIR CX550 ATX 550W EU Netzteil - Schwarz | 80 PLUS Bronze zertifiziert, Kompaktes, Geräuscharm, Ummantelte Kabel, Nicht Modular",
+    "image": null
+   }
+  ],
+  "image": "images/psus-corsair-cx550.jpg",
+  "lastUpdated": "2026-11-18T13:08:38Z"
  },
  {
   "id": "corsair-cx750",
   "name": "Corsair CX750",
-  "priceMin": null,
-  "prices": [],
-  "image": null,
-  "lastUpdated": "2026-11-18T10:55:58Z"
+  "priceMin": 38.74,
+  "prices": [
+   {
+    "shop": "materiel.net",
+    "price": 79.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202309260104.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T12:17:00Z",
+    "product": "Corsair CX750",
+    "image": "https://media.materiel.net/r900/products/MN0006084206.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 79.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00580852.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T12:17:00Z",
+    "product": "Corsair CX750 80PLUS Bronze (2023)",
+    "image": "https://media.ldlc.com/r1600/ld/products/00/06/08/19/LD0006081970.jpg"
+   },
+   {
+    "shop": "amazon.co.uk",
+    "price": 33.32,
+    "currency": "GBP",
+    "url": "https://www.amazon.co.uk/dp/B0CJRXNXZT?tag=fraym0a-21",
+    "inStock": true,
+    "lastSeen": "2026-11-18T13:07:55Z",
+    "product": "CORSAIR CX750 Non Modular Low-Noise ATX 750 Watt Power Supply – Black | 80 PLUS Bronze, UK",
+    "image": null
+   },
+   {
+    "shop": "amazon.com",
+    "price": 68.84,
+    "currency": "USD",
+    "url": "https://www.amazon.com/dp/B0CQMJN49P?tag=fraym-20",
+    "inStock": true,
+    "lastSeen": "2026-11-18T13:07:57Z",
+    "product": "CORSAIR CX750 80 Plus Bronze Non Modular Low-Noise ATX 750 Watt Power Supply - NA - Black : Home & Kitchen",
+    "image": null
+   }
+  ],
+  "image": "images/psus-corsair-cx750.jpg",
+  "lastUpdated": "2026-11-18T13:07:57Z"
  },
  {
   "id": "corsair-hx1200",
@@ -670,15 +1124,25 @@
     "lastSeen": "2026-11-18T11:46:53Z",
     "product": "CORSAIR SF750 Vollständig Modulares ATX-Netzteil – Schwarz | ATX 3.1-Kompatibel, PCIe 5.1-Fähig, 80 PLUS Platinum, Geräuscharm, SFX-to-ATX-Halterung Enthalten",
     "image": null
+   },
+   {
+    "shop": "amazon.co.uk",
+    "price": 85.75,
+    "currency": "GBP",
+    "url": "https://www.amazon.co.uk/dp/B0D5HTTCSB?tag=fraym0a-21",
+    "inStock": true,
+    "lastSeen": "2026-11-18T13:08:08Z",
+    "product": "CORSAIR SF750 (2024) Fully Modular SFX Low Noise Power Supply – Black | ATX 3.1 Compliant, PCIe 5.1 Ready, 80 PLUS Platinum, Small Form Factor, SFX-to-ATX Bracket Included",
+    "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-18T11:46:53Z"
+  "lastUpdated": "2026-11-18T13:08:08Z"
  },
  {
   "id": "seasonic-focus-gx-1000",
   "name": "Seasonic Focus GX-1000",
-  "priceMin": 150.24,
+  "priceMin": 142.04,
   "prices": [
    {
     "shop": "amazon.es",
@@ -689,10 +1153,60 @@
     "lastSeen": "2026-11-18T11:47:06Z",
     "product": "Seasonic Netzteil 1000w FocuS-GX-1000 Atx3 Modular Gold (focuS-GX-1000-V4)",
     "image": null
+   },
+   {
+    "shop": "materiel.net",
+    "price": 224.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202409020023.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T12:17:00Z",
+    "product": "Seasonic FOCUS GX-1000 ATX 3 (2024) - Noir",
+    "image": "https://media.materiel.net/r250/products/MN0006196223.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 224.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202409020027.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T12:17:00Z",
+    "product": "Seasonic FOCUS GX-1000 ATX 3 (2024) - Blanc",
+    "image": "https://media.materiel.net/r250/products/MN0006196234.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 224.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00647654.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T12:17:00Z",
+    "product": "Seasonic FOCUS GX-1000 ATX 3 (2024)",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/17/41/LD0006174140.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 224.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00647662.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T12:17:00Z",
+    "product": "Seasonic FOCUS GX-1000 ATX 3 (2024) - Blanc",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/17/42/LD0006174207.jpg"
+   },
+   {
+    "shop": "amazon.de",
+    "price": 142.04,
+    "currency": "EUR",
+    "url": "https://www.amazon.de/dp/B0DP4JRTST?tag=fraym03-21",
+    "inStock": true,
+    "lastSeen": "2026-11-18T13:08:54Z",
+    "product": "Seasonic Focus GX-1000 ATX 3.1 White | PC-Netzteil | 80 Plus & Cybenetics Gold Vollmodular 12V-2x6 RTX 5090 AMD RX 9000 Ready Premium Japanische Kondensatoren",
+    "image": null
    }
   ],
   "image": "images/psus-seasonic-focus-gx-1000.jpg",
-  "lastUpdated": "2026-11-18T11:47:06Z"
+  "lastUpdated": "2026-11-18T13:08:54Z"
  },
  {
   "id": "seasonic-vertex-gx-1000",
@@ -810,15 +1324,36 @@
  {
   "id": "msi-mag-a750gl",
   "name": "MSI MAG A750GL PCIE5",
-  "priceMin": null,
-  "prices": [],
+  "priceMin": 119.95,
+  "prices": [
+   {
+    "shop": "materiel.net",
+    "price": 119.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202307110022.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T12:17:00Z",
+    "product": "MSI MAG A750GL PCIE5",
+    "image": "https://media.materiel.net/r900/products/MN0006196206.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 119.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00562322.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T12:17:00Z",
+    "product": "MSI MAG A750GL PCIE5",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/05/15/LD0006051585.jpg"
+   }
+  ],
   "image": "images/psus-msi-mag-a750gl.jpg",
-  "lastUpdated": "2026-11-18T10:55:58Z"
+  "lastUpdated": "2026-11-18T12:17:00Z"
  },
  {
   "id": "msi-mag-a850gl",
   "name": "MSI MAG A850GL PCIE5",
-  "priceMin": 115.78,
+  "priceMin": 96.2,
   "prices": [
    {
     "shop": "amazon.es",
@@ -829,10 +1364,40 @@
     "lastSeen": "2026-11-18T11:46:58Z",
     "product": "MSI mag 850W Fuente de alimentación 80 Plus Gold - ATX 3.0 PCIe 5.0 Ready - 12VHPWR [mag A850GL PCIE5]",
     "image": null
+   },
+   {
+    "shop": "materiel.net",
+    "price": 129.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202307110021.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T12:17:00Z",
+    "product": "MSI MAG A850GL PCIE5",
+    "image": "https://media.materiel.net/r900/products/MN0006196208.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 129.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00562324.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T12:17:00Z",
+    "product": "MSI MAG A850GL PCIE5",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/05/16/LD0006051636.jpg"
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 96.2,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B0CB9MSJ5N?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-18T13:08:10Z",
+    "product": "MSI MAG Bloc d'alimentation 850 W 80 Plus Gold - ATX 3.0 PCIe 5.0 Ready - 12VHPWR [MAG A850GL PCIE5]",
+    "image": null
    }
   ],
   "image": "images/psus-msi-mag-a850gl.jpg",
-  "lastUpdated": "2026-11-18T11:46:58Z"
+  "lastUpdated": "2026-11-18T13:08:10Z"
  },
  {
   "id": "nzxt-c750-gold",
@@ -845,7 +1410,7 @@
  {
   "id": "nzxt-c1000-gold",
   "name": "NZXT C1000 Gold",
-  "priceMin": 111.57,
+  "priceMin": 110.66,
   "prices": [
    {
     "shop": "amazon.es",
@@ -866,10 +1431,30 @@
     "lastSeen": "2026-11-18T11:47:04Z",
     "product": "NZXT C1000 Gold ATX 3.1-1000W Vollmodulares Netzteil | 1000W 80 PLUS Gold ATX 3.1 Netzteil, vollständig modular und leise. PCIe 5 für moderne GPUs, 10 Jahre Garantie.",
     "image": null
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 112.5,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B0DCJDCHRV?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-18T13:08:13Z",
+    "product": "NZXT C1000 Gold ATX 3.1 - Alimentation 1000W Entièrement Modulaire | Alimentation 1000W 80 PLUS Gold ATX 3.1, entièrement modulaire, silencieuse. Prête PCIe 5 pour GPU modernes, garantie 10 ans.",
+    "image": null
+   },
+   {
+    "shop": "amazon.it",
+    "price": 110.66,
+    "currency": "EUR",
+    "url": "https://www.amazon.it/dp/B0DCJDCHRV?tag=fraym06-21",
+    "inStock": true,
+    "lastSeen": "2026-11-18T13:09:25Z",
+    "product": "NZXT C1000 Gold ATX 3.1 - Alimentatore 1000W Completamente Modulare | PSU 1000W 80 PLUS Gold ATX 3.1, completamente modulare e silenzioso. Pronto per PCIe 5 e GPU moderne, garanzia 10 anni.",
+    "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-18T11:47:04Z"
+  "lastUpdated": "2026-11-18T13:09:25Z"
  },
  {
   "id": "asus-tuf-gaming-750w",
@@ -903,15 +1488,26 @@
  {
   "id": "gigabyte-ud850gm",
   "name": "Gigabyte UD850GM",
-  "priceMin": null,
-  "prices": [],
+  "priceMin": 99.83,
+  "prices": [
+   {
+    "shop": "amazon.fr",
+    "price": 99.83,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B0CT9138Y6?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-18T13:08:08Z",
+    "product": "GIGABYTE UD850GM PG5W Bloc d'alimentation - PCIe 5.0, 80 Plus Gold, Design entièrement modulaire, Ventilateur 120 mm, Compatible ATX 3.0, Prise EU",
+    "image": null
+   }
+  ],
   "image": null,
-  "lastUpdated": "2026-11-18T10:55:58Z"
+  "lastUpdated": "2026-11-18T13:08:08Z"
  },
  {
   "id": "corsair-cx650",
   "name": "Corsair CX650",
-  "priceMin": 65.92,
+  "priceMin": 33.91,
   "prices": [
    {
     "shop": "amazon.com",
@@ -922,10 +1518,50 @@
     "lastSeen": "2026-11-18T11:46:38Z",
     "product": "CORSAIR CX650 Small 650W Power Supply – Black | Low-Noise, Non-Modular, 80 PLUS Bronze, NA : Home & Kitchen",
     "image": null
+   },
+   {
+    "shop": "materiel.net",
+    "price": 69.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202309260102.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T12:17:00Z",
+    "product": "Corsair CX650",
+    "image": "https://media.materiel.net/r900/products/MN0006084196.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 69.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00580851.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T12:17:00Z",
+    "product": "Corsair CX650 80PLUS Bronze (2023)",
+    "image": "https://media.ldlc.com/r1600/ld/products/00/06/08/19/LD0006081965.jpg"
+   },
+   {
+    "shop": "amazon.co.uk",
+    "price": 29.16,
+    "currency": "GBP",
+    "url": "https://www.amazon.co.uk/dp/B0CJRXX5WT?tag=fraym0a-21",
+    "inStock": true,
+    "lastSeen": "2026-11-18T13:07:53Z",
+    "product": "CORSAIR CX650 Non Modular Low-Noise ATX 650 Watt Power Supply – Black | 80 PLUS Bronze, UK",
+    "image": null
+   },
+   {
+    "shop": "amazon.de",
+    "price": 37.73,
+    "currency": "EUR",
+    "url": "https://www.amazon.de/dp/B0CK8NDN1Q?tag=fraym03-21",
+    "inStock": true,
+    "lastSeen": "2026-11-18T13:08:39Z",
+    "product": "CORSAIR CX650 ATX 650W EU Netzteil - Schwarz | 80 PLUS Bronze zertifiziert, Kompaktes, Geräuscharm, Ummantelte Kabel, Nicht Modular",
+    "image": null
    }
   ],
-  "image": null,
-  "lastUpdated": "2026-11-18T11:46:38Z"
+  "image": "images/psus-corsair-cx650.jpg",
+  "lastUpdated": "2026-11-18T13:08:39Z"
  },
  {
   "id": "cooler-master-mwe-gold-750-v2",
@@ -941,9 +1577,106 @@
     "lastSeen": "2026-11-18T11:46:32Z",
     "product": "Cooler Master MWE Gold 750 V2 Power Supply, Fully Modular | Certification Cybenetics Gold & Noise Standard +, 80 PLUS Gold, 750W, Semi-Fanless Low Noise, Fully Modular : Electronics",
     "image": null
+   },
+   {
+    "shop": "amazon.co.uk",
+    "price": 86.9,
+    "currency": "GBP",
+    "url": "https://www.amazon.co.uk/dp/B0DHGXT61R?tag=fraym0a-21",
+    "inStock": true,
+    "lastSeen": "2026-11-18T13:07:47Z",
+    "product": "Cooler Master MWE Gold 750 V2 ATX 3.1 Fully Modular PSU (UK Plug) - ATX 3.1 Support, 80 PLUS Gold 750W Power Supply, PCIe 5.1 Cabling, 120mm HDB Fan, High-Temperature Threshold, 5 Year Warranty",
+    "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-18T11:46:32Z"
+  "lastUpdated": "2026-11-18T13:07:47Z"
+ },
+ {
+  "id": "seasonic-prime-tx-1000",
+  "name": "Seasonic Prime TX-1000",
+  "priceMin": 459.95,
+  "prices": [
+   {
+    "shop": "materiel.net",
+    "price": 459.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202001260001.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T12:17:00Z",
+    "product": "Seasonic Prime TX-1000 - Titanium",
+    "image": "https://media.materiel.net/r900/products/MN0005592474_1.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 459.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00313575.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T12:17:00Z",
+    "product": "Seasonic PRIME TX-1000",
+    "image": "https://media.ldlc.com/r1600/ld/products/00/05/58/31/LD0005583126_2.jpg"
+   }
+  ],
+  "image": "images/psus-seasonic-prime-tx-1000.jpg",
+  "lastUpdated": "2026-11-18T12:17:00Z"
+ },
+ {
+  "id": "corsair-ax1600i",
+  "name": "Corsair AX1600i",
+  "priceMin": 579.95,
+  "prices": [
+   {
+    "shop": "materiel.net",
+    "price": 579.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/201801040066.html",
+    "inStock": false,
+    "lastSeen": "2026-11-18T12:17:00Z",
+    "product": "Corsair AX1600i Digital",
+    "image": "https://media.materiel.net/r900/oproducts/AR201801040066_g1.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 579.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00255067.html",
+    "inStock": false,
+    "lastSeen": "2026-11-18T12:17:00Z",
+    "product": "Corsair AX1600i 80PLUS Titanium",
+    "image": "https://media.ldlc.com/r1600/ld/products/00/05/67/38/LD0005673811_1.jpg"
+   }
+  ],
+  "image": "images/psus-corsair-ax1600i.jpg",
+  "lastUpdated": "2026-11-18T12:17:00Z"
+ },
+ {
+  "id": "msi-mpg-a1000g",
+  "name": "MSI MPG A1000G PCIE5",
+  "priceMin": 134.95,
+  "prices": [
+   {
+    "shop": "materiel.net",
+    "price": 134.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202501160038.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T12:17:00Z",
+    "product": "MSI MPG A1000GS PCIE5",
+    "image": "https://media.materiel.net/r900/products/MN0006210275.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 134.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00663809.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T12:17:00Z",
+    "product": "MSI MPG A1000GS PCIE5",
+    "image": "https://media.ldlc.com/r1600/ld/products/00/06/20/76/LD0006207651.jpg"
+   }
+  ],
+  "image": "images/psus-msi-mpg-a1000g.jpg",
+  "lastUpdated": "2026-11-18T12:17:00Z"
  }
 ]

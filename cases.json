@@ -5,76 +5,6 @@
   "priceMin": 40.83,
   "prices": [
    {
-    "shop": "amazon.es",
-    "price": 61.9,
-    "currency": "EUR",
-    "url": "https://www.amazon.es/dp/B0D2MK6NML?tag=fraym08-21",
-    "inStock": true,
-    "lastSeen": "2026-11-18T11:48:24Z",
-    "product": "NZXT H5 Flow - Caja PC Semitorre ATX Compacta - Negro | Semitorre compacta con 2 ventiladores de 120mm, soporte de radiador frontal de 360mm y vidrio templado. Ideal primer montaje.",
-    "image": null
-   },
-   {
-    "shop": "amazon.com",
-    "price": 59.99,
-    "currency": "USD",
-    "url": "https://www.amazon.com/dp/B0D2MK6NML?tag=fraym-20",
-    "inStock": true,
-    "lastSeen": "2026-11-18T11:48:24Z",
-    "product": "NZXT H5 Flow - Compact ATX Mid-Tower PC Case - Black | Compact mid-tower with 2 included 120mm fans, 360mm front radiator support, and tempered glass. A great first airflow build. : Electronics",
-    "image": null
-   },
-   {
-    "shop": "amazon.co.uk",
-    "price": 49.99,
-    "currency": "GBP",
-    "url": "https://www.amazon.co.uk/dp/B0D2MK6NML?tag=fraym0a-21",
-    "inStock": true,
-    "lastSeen": "2026-11-18T13:09:08Z",
-    "product": "NZXT H5 Flow - Compact ATX Mid-Tower PC Case - Black | Compact mid-tower with 2 included 120mm fans, 360mm front radiator support, and tempered glass. A great first airflow build.",
-    "image": null
-   },
-   {
-    "shop": "materiel.net",
-    "price": 79.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202407080068.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
-    "product": "NZXT H5 Flow - Noir (2024)",
-    "image": "https://media.materiel.net/r250/products/MN0006180533.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 79.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202407080067.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
-    "product": "NZXT H5 Flow - Blanc (2024)",
-    "image": "https://media.materiel.net/r250/products/MN0006180500.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 99.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202407080069.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
-    "product": "NZXT H5 Flow RGB - Blanc (2024)",
-    "image": "https://media.materiel.net/r250/products/MN0006180581.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 99.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202407080070.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
-    "product": "NZXT H5 Flow RGB - Noir (2024)",
-    "image": "https://media.materiel.net/r250/products/MN0006180564.jpg"
-   },
-   {
     "shop": "morele.net",
     "price": 299.0,
     "currency": "PLN",
@@ -173,66 +103,86 @@
     "lastSeen": "2026-11-18T15:44:34Z",
     "product": "NZXT H5 Flow - Boîtier PC Compact ATX Mid-Tower - Noir | Moyenne tour compacte, 2 ventilateurs 120mm inclus, radiateur avant 360mm et verre trempé. Idéale pour un premier build.",
     "image": null
+   },
+   {
+    "shop": "materiel.net",
+    "price": 79.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202407080067.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "NZXT H5 Flow - Blanc (2024)",
+    "image": "https://media.materiel.net/r250/products/MN0006180500.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 79.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202407080068.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "NZXT H5 Flow - Noir (2024)",
+    "image": "https://media.materiel.net/r250/products/MN0006180533.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 99.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202407080069.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "NZXT H5 Flow RGB - Blanc (2024)",
+    "image": "https://media.materiel.net/r250/products/MN0006180581.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 99.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202407080070.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "NZXT H5 Flow RGB - Noir (2024)",
+    "image": "https://media.materiel.net/r250/products/MN0006180564.jpg"
+   },
+   {
+    "shop": "amazon.es",
+    "price": 61.9,
+    "currency": "EUR",
+    "url": "https://www.amazon.es/dp/B0D2MK6NML?tag=fraym08-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T00:23:10Z",
+    "product": "NZXT H5 Flow - Caja PC Semitorre ATX Compacta - Negro | Semitorre compacta con 2 ventiladores de 120mm, soporte de radiador frontal de 360mm y vidrio templado. Ideal primer montaje.",
+    "image": null
+   },
+   {
+    "shop": "amazon.com",
+    "price": 59.99,
+    "currency": "USD",
+    "url": "https://www.amazon.com/dp/B0D2MK6NML?tag=fraym-20",
+    "inStock": true,
+    "lastSeen": "2026-11-19T00:23:21Z",
+    "product": "NZXT H5 Flow - Compact ATX Mid-Tower PC Case - Black | Compact mid-tower with 2 included 120mm fans, 360mm front radiator support, and tempered glass. A great first airflow build. : Electronics",
+    "image": null
+   },
+   {
+    "shop": "amazon.co.uk",
+    "price": 49.99,
+    "currency": "GBP",
+    "url": "https://www.amazon.co.uk/dp/B0D2MK6NML?tag=fraym0a-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T00:28:21Z",
+    "product": "NZXT H5 Flow - Compact ATX Mid-Tower PC Case - Black | Compact mid-tower with 2 included 120mm fans, 360mm front radiator support, and tempered glass. A great first airflow build.",
+    "image": null
    }
   ],
   "image": "images/cases-nzxt-h5-flow.jpg",
-  "lastUpdated": "2026-11-18T15:44:34Z"
+  "lastUpdated": "2026-11-19T00:28:21Z"
  },
  {
   "id": "nzxt-h7-flow",
   "name": "NZXT H7 Flow",
   "priceMin": 49.92,
   "prices": [
-   {
-    "shop": "amazon.de",
-    "price": 71.34,
-    "currency": "EUR",
-    "url": "https://www.amazon.de/dp/B0CV4R1TWS?tag=fraym03-21",
-    "inStock": true,
-    "lastSeen": "2026-11-18T11:48:28Z",
-    "product": "NZXT H7 Flow - Mid-Tower ATX Airflow PC-Gehäuse - Schwarz | ATX-Midi-Tower mit Airflow-Fokus. Bodenlüfter für direkte GPU-Kühlung, 420mm Front-Radiator, sauberes Kabelmanagement.",
-    "image": null
-   },
-   {
-    "shop": "materiel.net",
-    "price": 99.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202402200029.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
-    "product": "NZXT H7 Flow (2024) - Blanc",
-    "image": "https://media.materiel.net/r250/products/MN0006148626.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 99.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202402200030.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
-    "product": "NZXT H7 Flow (2024) - Noir",
-    "image": "https://media.materiel.net/r250/products/MN0006148687.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 119.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202402200032.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
-    "product": "NZXT H7 Flow RGB (2024) - Noir",
-    "image": "https://media.materiel.net/r250/products/MN0006148687_0006148697.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 119.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202402200031.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
-    "product": "NZXT H7 Flow RGB (2024) - Blanc",
-    "image": "https://media.materiel.net/r250/products/MN0006148626_0006148692.jpg"
-   },
    {
     "shop": "morele.net",
     "price": 377.8,
@@ -332,46 +282,66 @@
     "lastSeen": "2026-11-18T15:45:57Z",
     "product": "NZXT H7 Flow - Case PC Mid-Tower ATX Airflow - Nero | Mid-tower ATX orientato al flusso d'aria. Ventole inferiori raffreddano la GPU, radiatore frontale 420mm, cavi ordinati.",
     "image": null
+   },
+   {
+    "shop": "materiel.net",
+    "price": 99.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202402200029.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "NZXT H7 Flow (2024) - Blanc",
+    "image": "https://media.materiel.net/r250/products/MN0006148626.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 99.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202402200030.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "NZXT H7 Flow (2024) - Noir",
+    "image": "https://media.materiel.net/r250/products/MN0006148687.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 119.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202402200032.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "NZXT H7 Flow RGB (2024) - Noir",
+    "image": "https://media.materiel.net/r250/products/MN0006148687_0006148697.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 119.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202402200031.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "NZXT H7 Flow RGB (2024) - Blanc",
+    "image": "https://media.materiel.net/r250/products/MN0006148626_0006148692.jpg"
+   },
+   {
+    "shop": "amazon.de",
+    "price": 71.34,
+    "currency": "EUR",
+    "url": "https://www.amazon.de/dp/B0CV4R1TWS?tag=fraym03-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T00:23:11Z",
+    "product": "NZXT H7 Flow - Mid-Tower ATX Airflow PC-Gehäuse - Schwarz | ATX-Midi-Tower mit Airflow-Fokus. Bodenlüfter für direkte GPU-Kühlung, 420mm Front-Radiator, sauberes Kabelmanagement.",
+    "image": null
    }
   ],
   "image": "images/cases-nzxt-h7-flow.jpg",
-  "lastUpdated": "2026-11-18T15:45:57Z"
+  "lastUpdated": "2026-11-19T00:23:11Z"
  },
  {
   "id": "nzxt-h9-flow",
   "name": "NZXT H9 Flow",
   "priceMin": 77.51,
   "prices": [
-   {
-    "shop": "amazon.de",
-    "price": 92.35,
-    "currency": "EUR",
-    "url": "https://www.amazon.de/dp/B0DQPPKNSS?tag=fraym03-21",
-    "inStock": true,
-    "lastSeen": "2026-11-18T11:48:29Z",
-    "product": "NZXT H9 Flow - Dual-Kammer ATX PC-Gehäuse - Schwarz | Dual-Kammer-ATX-Flaggschiff mit 4 Lüftern, 420mm-Radiator oben und vorne und umlaufendem gehärtetem Glas.",
-    "image": null
-   },
-   {
-    "shop": "amazon.es",
-    "price": 93.38,
-    "currency": "EUR",
-    "url": "https://www.amazon.es/dp/B0DQPPKNSS?tag=fraym08-21",
-    "inStock": true,
-    "lastSeen": "2026-11-18T11:48:29Z",
-    "product": "NZXT H9 Flow - Caja PC ATX Doble Cámara - Negro | Insignia ATX de doble cámara con 4 ventiladores, soporte de radiador de 420mm arriba y frontal, y vidrio templado envolvente.",
-    "image": null
-   },
-   {
-    "shop": "amazon.com",
-    "price": 99.99,
-    "currency": "USD",
-    "url": "https://www.amazon.com/dp/B0DQPPKNSS?tag=fraym-20",
-    "inStock": true,
-    "lastSeen": "2026-11-18T11:48:30Z",
-    "product": "NZXT H9 Flow - Dual-Chamber ATX PC Case - Black | Dual-chamber ATX flagship with 4 included fans, 420mm top and front radiator support, and wraparound tempered glass. : Electronics",
-    "image": null
-   },
    {
     "shop": "amazon.co.uk",
     "price": 66.66,
@@ -381,46 +351,6 @@
     "lastSeen": "2026-11-18T13:09:09Z",
     "product": "NZXT H9 Flow - Dual-Chamber ATX PC Case - Black | Dual-chamber ATX flagship with 4 included fans, 420mm top and front radiator support, and wraparound tempered glass.",
     "image": null
-   },
-   {
-    "shop": "materiel.net",
-    "price": 139.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202504300032.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
-    "product": "NZXT H9 Flow Noir - 2025",
-    "image": "https://media.materiel.net/r250/products/MN0006269308.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 139.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202504300033.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
-    "product": "NZXT H9 Flow Blanc - 2025",
-    "image": "https://media.materiel.net/r250/products/MN0006269302.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 197.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202504300035.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
-    "product": "NZXT H9 Flow RGB Blanc - 2025",
-    "image": "https://media.materiel.net/r250/products/MN0006269285.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 197.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202504300034.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
-    "product": "NZXT H9 Flow RGB Noir - 2025",
-    "image": "https://media.materiel.net/r250/products/MN0006269289.jpg"
    },
    {
     "shop": "morele.net",
@@ -523,44 +453,94 @@
     "image": "https://media.ldlc.com/r150/ld/products/00/06/26/91/LD0006269115.jpg"
    },
    {
+    "shop": "materiel.net",
+    "price": 139.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202504300032.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "NZXT H9 Flow Noir - 2025",
+    "image": "https://media.materiel.net/r250/products/MN0006269308.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 139.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202504300033.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "NZXT H9 Flow Blanc - 2025",
+    "image": "https://media.materiel.net/r250/products/MN0006269302.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 197.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202504300035.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "NZXT H9 Flow RGB Blanc - 2025",
+    "image": "https://media.materiel.net/r250/products/MN0006269285.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 197.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202504300034.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "NZXT H9 Flow RGB Noir - 2025",
+    "image": "https://media.materiel.net/r250/products/MN0006269289.jpg"
+   },
+   {
+    "shop": "amazon.de",
+    "price": 92.35,
+    "currency": "EUR",
+    "url": "https://www.amazon.de/dp/B0DQPPKNSS?tag=fraym03-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T00:23:12Z",
+    "product": "NZXT H9 Flow - Dual-Kammer ATX PC-Gehäuse - Schwarz | Dual-Kammer-ATX-Flaggschiff mit 4 Lüftern, 420mm-Radiator oben und vorne und umlaufendem gehärtetem Glas.",
+    "image": null
+   },
+   {
+    "shop": "amazon.es",
+    "price": 93.38,
+    "currency": "EUR",
+    "url": "https://www.amazon.es/dp/B0DQPPKNSS?tag=fraym08-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T00:23:15Z",
+    "product": "NZXT H9 Flow - Caja PC ATX Doble Cámara - Negro | Insignia ATX de doble cámara con 4 ventiladores, soporte de radiador de 420mm arriba y frontal, y vidrio templado envolvente.",
+    "image": null
+   },
+   {
+    "shop": "amazon.com",
+    "price": 99.99,
+    "currency": "USD",
+    "url": "https://www.amazon.com/dp/B0DQPPKNSS?tag=fraym-20",
+    "inStock": true,
+    "lastSeen": "2026-11-19T00:23:24Z",
+    "product": "NZXT H9 Flow - Dual-Chamber ATX PC Case - Black | Dual-chamber ATX flagship with 4 included fans, 420mm top and front radiator support, and wraparound tempered glass. : Electronics",
+    "image": null
+   },
+   {
     "shop": "amazon.fr",
     "price": 91.58,
     "currency": "EUR",
     "url": "https://www.amazon.fr/dp/B0DQPPKNSS?tag=fraym-21",
     "inStock": true,
-    "lastSeen": "2026-11-18T15:44:41Z",
+    "lastSeen": "2026-11-19T00:31:04Z",
     "product": "NZXT H9 Flow - Boîtier PC Double Chambre ATX - Noir | Phare ATX double chambre, 4 ventilateurs inclus, support radiateur 420mm haut et avant, verre trempé enveloppant.",
     "image": null
    }
   ],
   "image": "images/cases-nzxt-h9-flow.jpg",
-  "lastUpdated": "2026-11-18T15:44:41Z"
+  "lastUpdated": "2026-11-19T00:31:04Z"
  },
  {
   "id": "fractal-north",
   "name": "Fractal North",
   "priceMin": 97.07,
   "prices": [
-   {
-    "shop": "amazon.es",
-    "price": 98.75,
-    "currency": "EUR",
-    "url": "https://www.amazon.es/dp/B09V8HNWW9?tag=fraym08-21",
-    "inStock": true,
-    "lastSeen": "2026-11-18T11:47:51Z",
-    "product": "Fractal Design North Charcoal Black Tempered Glass Dark - Frente de Madera de Nogal - Panel Lateral de Vidrio - Incluye Dos Ventiladores Aspect PWM de 140 mm - Puerto USB Tipo C",
-    "image": null
-   },
-   {
-    "shop": "amazon.com",
-    "price": 154.99,
-    "currency": "USD",
-    "url": "https://www.amazon.com/dp/B09V8HNWW9?tag=fraym-20",
-    "inStock": true,
-    "lastSeen": "2026-11-18T13:08:47Z",
-    "product": "Fractal Design North Charcoal Black Tempered Glass Dark - Genuine Walnut Wood Front - Glass Side Panel - Two 140mm Aspect PWM Fans Included - Type C USB - ATX Airflow Mid Tower PC Gaming Case : Electronics",
-    "image": null
-   },
    {
     "shop": "amazon.fr",
     "price": 97.07,
@@ -570,76 +550,6 @@
     "lastSeen": "2026-11-18T13:08:49Z",
     "product": "Fractal Design North Charcoal Black Tempered Glass Dark - Façade en Bois de Noyer – Panneau latéral en Verre – Deux Ventilateurs Aspect PWM de 140 mm Inclus – USB Type-C",
     "image": null
-   },
-   {
-    "shop": "materiel.net",
-    "price": 132.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202306050004.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
-    "product": "Fractal Design North Mesh - Noir",
-    "image": "https://media.materiel.net/r250/products/MN0006006183.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 132.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202609210009.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
-    "product": "Fractal Design North TG - Noir",
-    "image": "https://media.materiel.net/r250/products/MN0006000460.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 139.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202301020063.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
-    "product": "Fractal Design North Mesh - Noir",
-    "image": "https://media.materiel.net/r250/products/MN0006006183.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 139.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202209060121.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
-    "product": "Fractal Design North TG - Noir",
-    "image": "https://media.materiel.net/r250/products/MN0006000460.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 139.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202301020065.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
-    "product": "Fractal Design North Mesh - Blanc",
-    "image": "https://media.materiel.net/r250/products/MN0006006188.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 139.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202209060122.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
-    "product": "Fractal Design North TG - Blanc",
-    "image": "https://media.materiel.net/r250/products/MN0006000516.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 199.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202512150067.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
-    "product": "Fractal Design North Momentum - Noir",
-    "image": "https://media.materiel.net/r250/products/MN0006317431.jpg"
    },
    {
     "shop": "morele.net",
@@ -760,36 +670,106 @@
     "lastSeen": "2026-11-18T15:02:32Z",
     "product": "Fractal Design North Momentum Edition",
     "image": "https://media.ldlc.com/r150/ld/products/00/06/31/75/LD0006317513.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 132.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202306050004.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Fractal Design North Mesh - Noir",
+    "image": "https://media.materiel.net/r250/products/MN0006006183.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 132.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202609210009.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Fractal Design North TG - Noir",
+    "image": "https://media.materiel.net/r250/products/MN0006000460.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 139.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202301020063.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Fractal Design North Mesh - Noir",
+    "image": "https://media.materiel.net/r250/products/MN0006006183.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 139.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202209060121.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Fractal Design North TG - Noir",
+    "image": "https://media.materiel.net/r250/products/MN0006000460.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 139.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202301020065.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Fractal Design North Mesh - Blanc",
+    "image": "https://media.materiel.net/r250/products/MN0006006188.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 139.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202209060122.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Fractal Design North TG - Blanc",
+    "image": "https://media.materiel.net/r250/products/MN0006000516.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 199.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202512150067.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Fractal Design North Momentum - Noir",
+    "image": "https://media.materiel.net/r250/products/MN0006317431.jpg"
+   },
+   {
+    "shop": "amazon.es",
+    "price": 98.75,
+    "currency": "EUR",
+    "url": "https://www.amazon.es/dp/B09V8HNWW9?tag=fraym08-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T00:22:51Z",
+    "product": "Fractal Design North Charcoal Black Tempered Glass Dark - Frente de Madera de Nogal - Panel Lateral de Vidrio - Incluye Dos Ventiladores Aspect PWM de 140 mm - Puerto USB Tipo C",
+    "image": null
+   },
+   {
+    "shop": "amazon.com",
+    "price": 154.99,
+    "currency": "USD",
+    "url": "https://www.amazon.com/dp/B09V8HNWW9?tag=fraym-20",
+    "inStock": true,
+    "lastSeen": "2026-11-19T00:28:02Z",
+    "product": "Fractal Design North Charcoal Black Tempered Glass Dark - Genuine Walnut Wood Front - Glass Side Panel - Two 140mm Aspect PWM Fans Included - Type C USB - ATX Airflow Mid Tower PC Gaming Case : Electronics",
+    "image": null
    }
   ],
   "image": "images/cases-fractal-north.jpg",
-  "lastUpdated": "2026-11-18T15:02:32Z"
+  "lastUpdated": "2026-11-19T00:28:02Z"
  },
  {
   "id": "fractal-pop-air",
   "name": "Fractal Pop Air",
   "priceMin": 65.87,
   "prices": [
-   {
-    "shop": "amazon.es",
-    "price": 67.73,
-    "currency": "EUR",
-    "url": "https://www.amazon.es/dp/B08SR7LPCD?tag=fraym08-21",
-    "inStock": true,
-    "lastSeen": "2026-11-18T11:47:55Z",
-    "product": "Fractal Design Pop Air Negro, Vidrio Templado, Tinte Claro",
-    "image": null
-   },
-   {
-    "shop": "amazon.com",
-    "price": 89.99,
-    "currency": "USD",
-    "url": "https://www.amazon.com/dp/B08SR7LPCD?tag=fraym-20",
-    "inStock": true,
-    "lastSeen": "2026-11-18T11:47:56Z",
-    "product": "Fractal Design Pop Air Black Tempered Glass Clear Tint : Electronics",
-    "image": null
-   },
    {
     "shop": "amazon.co.uk",
     "price": 66.66,
@@ -801,16 +781,6 @@
     "image": null
    },
    {
-    "shop": "amazon.fr",
-    "price": 66.66,
-    "currency": "EUR",
-    "url": "https://www.amazon.fr/dp/B08SR7LPCD?tag=fraym-21",
-    "inStock": true,
-    "lastSeen": "2026-11-18T13:08:51Z",
-    "product": "Fractal Design Pop Air Black - Boîtier PC Gaming ATX Mid Tower, Façade Mesh Hexagonale, Verre Trempé, 3 Ventilateurs Aspect 12 Inclus, Haute Ventilation",
-    "image": null
-   },
-   {
     "shop": "amazon.it",
     "price": 77.04,
     "currency": "EUR",
@@ -819,46 +789,6 @@
     "lastSeen": "2026-11-18T13:09:51Z",
     "product": "Fractal Design Pop Air Black - Tempered Glass Clear Tint - Honeycomb Mesh Front – TG side panel - Three 120 mm Aspect 12 fans included – ATX High Airflow Mid Tower PC Gaming Case",
     "image": null
-   },
-   {
-    "shop": "materiel.net",
-    "price": 89.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202510130045.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
-    "product": "Fractal Design Pop 2 Air TG RGB - Blanc",
-    "image": "https://media.materiel.net/r250/products/MN0006312772.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 99.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202209150041.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
-    "product": "Fractal Design Pop Air Solid - Noir",
-    "image": "https://media.materiel.net/r250/products/MN0005984188.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 109.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202205120067.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
-    "product": "Fractal Design Pop Air TG - Blanc",
-    "image": "https://media.materiel.net/r250/products/MN0005963979.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 129.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202502110087.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
-    "product": "Fractal Design Pop Air RGB TG - Noir",
-    "image": "https://media.materiel.net/r250/products/MN0005964006_0006268973.jpg"
    },
    {
     "shop": "morele.net",
@@ -989,36 +919,86 @@
     "lastSeen": "2026-11-18T15:44:30Z",
     "product": "Fractal Design Pop Air Black - ATX PC Gehäuse mit Tempered Glass, Honeycomb-Mesh-Front, 3X 120 mm Lüfter, High Airflow Mid Tower Gaming Case",
     "image": null
+   },
+   {
+    "shop": "materiel.net",
+    "price": 89.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202510130045.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Fractal Design Pop 2 Air TG RGB - Blanc",
+    "image": "https://media.materiel.net/r250/products/MN0006312772.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 99.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202209150041.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Fractal Design Pop Air Solid - Noir",
+    "image": "https://media.materiel.net/r250/products/MN0005984188.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 109.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202205120067.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Fractal Design Pop Air TG - Blanc",
+    "image": "https://media.materiel.net/r250/products/MN0005963979.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 129.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202502110087.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Fractal Design Pop Air RGB TG - Noir",
+    "image": "https://media.materiel.net/r250/products/MN0005964006_0006268973.jpg"
+   },
+   {
+    "shop": "amazon.es",
+    "price": 67.76,
+    "currency": "EUR",
+    "url": "https://www.amazon.es/dp/B08SR7LPCD?tag=fraym08-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T00:22:55Z",
+    "product": "Fractal Design Pop Air Negro, Vidrio Templado, Tinte Claro",
+    "image": null
+   },
+   {
+    "shop": "amazon.com",
+    "price": 89.99,
+    "currency": "USD",
+    "url": "https://www.amazon.com/dp/B08SR7LPCD?tag=fraym-20",
+    "inStock": true,
+    "lastSeen": "2026-11-19T00:23:02Z",
+    "product": "Fractal Design Pop Air Black Tempered Glass Clear Tint : Electronics",
+    "image": null
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 66.66,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B08SR7LPCD?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T00:28:17Z",
+    "product": "Fractal Design Pop Air Black - Boîtier PC Gaming ATX Mid Tower, Façade Mesh Hexagonale, Verre Trempé, 3 Ventilateurs Aspect 12 Inclus, Haute Ventilation",
+    "image": null
    }
   ],
   "image": "images/cases-fractal-pop-air.jpg",
-  "lastUpdated": "2026-11-18T15:44:30Z"
+  "lastUpdated": "2026-11-19T00:28:17Z"
  },
  {
   "id": "fractal-meshify-2",
   "name": "Fractal Meshify 2",
   "priceMin": 100.41,
   "prices": [
-   {
-    "shop": "amazon.com",
-    "price": 164.99,
-    "currency": "USD",
-    "url": "https://www.amazon.com/dp/B0822Y6H34?tag=fraym-20",
-    "inStock": true,
-    "lastSeen": "2026-11-18T11:47:49Z",
-    "product": "Fractal Design Meshify 2 Black ATX Flexible Mid Tower Computer Case : Electronics",
-    "image": null
-   },
-   {
-    "shop": "amazon.fr",
-    "price": 100.41,
-    "currency": "EUR",
-    "url": "https://www.amazon.fr/dp/B0822Y6H34?tag=fraym-21",
-    "inStock": true,
-    "lastSeen": "2026-11-18T13:08:46Z",
-    "product": "Fractal Design Meshify 2 Black ATX Flexible Mid Tower Computer Case",
-    "image": null
-   },
    {
     "shop": "morele.net",
     "price": 482.81,
@@ -1068,36 +1048,36 @@
     "lastSeen": "2026-11-18T15:02:32Z",
     "product": "Obudowa Fractal Design Meshify 2 RGB TG Clear Tint (FD-C-MES2A-08)",
     "image": "https://images.morele.net/i256/10590501_24_i256.jpg"
+   },
+   {
+    "shop": "amazon.com",
+    "price": 164.99,
+    "currency": "USD",
+    "url": "https://www.amazon.com/dp/B0822Y6H34?tag=fraym-20",
+    "inStock": true,
+    "lastSeen": "2026-11-19T00:22:57Z",
+    "product": "Fractal Design Meshify 2 Black ATX Flexible Mid Tower Computer Case : Electronics",
+    "image": null
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 100.41,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B0822Y6H34?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T00:28:13Z",
+    "product": "Fractal Design Meshify 2 Black ATX Flexible Mid Tower Computer Case",
+    "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-18T15:02:32Z"
+  "lastUpdated": "2026-11-19T00:28:13Z"
  },
  {
   "id": "fractal-torrent",
   "name": "Fractal Torrent",
   "priceMin": 219.95,
   "prices": [
-   {
-    "shop": "amazon.com",
-    "price": 249.99,
-    "currency": "USD",
-    "url": "https://www.amazon.com/dp/B08699NR75?tag=fraym-20",
-    "inStock": true,
-    "lastSeen": "2026-11-18T11:48:01Z",
-    "product": "Fractal Design Torrent RGB Black - Light Tint Tempered Glass Panels - Open Grille for Maximum air Intake - Two 180mm RGB PWM and Three 140mm RGB Fans Included - ATX Airflow Mid Tower PC Gaming Case : Electronics",
-    "image": null
-   },
-   {
-    "shop": "materiel.net",
-    "price": 219.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202103100047.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
-    "product": "Fractal Design Torrent Black Solid - Noir",
-    "image": "https://media.materiel.net/r900/products/MN0005873006_1.jpg"
-   },
    {
     "shop": "morele.net",
     "price": 1023.56,
@@ -1127,10 +1107,30 @@
     "lastSeen": "2026-11-18T15:02:32Z",
     "product": "Fractal Design Torrent Black Solid (Noir)",
     "image": "https://media.ldlc.com/r1600/ld/products/00/05/87/16/LD0005871612_1.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 219.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202103100047.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Fractal Design Torrent Black Solid - Noir",
+    "image": "https://media.materiel.net/r900/products/MN0005873006_1.jpg"
+   },
+   {
+    "shop": "amazon.com",
+    "price": 249.99,
+    "currency": "USD",
+    "url": "https://www.amazon.com/dp/B08699NR75?tag=fraym-20",
+    "inStock": true,
+    "lastSeen": "2026-11-19T00:23:05Z",
+    "product": "Fractal Design Torrent RGB Black - Light Tint Tempered Glass Panels - Open Grille for Maximum air Intake - Two 180mm RGB PWM and Three 140mm RGB Fans Included - ATX Airflow Mid Tower PC Gaming Case : Electronics",
+    "image": null
    }
   ],
   "image": "images/cases-fractal-torrent.jpg",
-  "lastUpdated": "2026-11-18T15:02:32Z"
+  "lastUpdated": "2026-11-19T00:23:05Z"
  },
  {
   "id": "fractal-ridge-itx",
@@ -1411,56 +1411,6 @@
   "priceMin": 74.95,
   "prices": [
    {
-    "shop": "materiel.net",
-    "price": 74.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202105250026.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
-    "product": "Lian Li O11 Dynamic Mini - Snow Edition",
-    "image": "https://media.materiel.net/r250/products/MN0005852536_1.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 99.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202506050052.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
-    "product": "Lian Li O11 Dynamic Mini V2 - Blanc",
-    "image": "https://media.materiel.net/r250/products/MN0006290743.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 99.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202506050051.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
-    "product": "Lian Li O11 Dynamic Mini V2 - Noir",
-    "image": "https://media.materiel.net/r250/products/MN0006290738.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 109.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202506050053.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
-    "product": "Lian Li O11 Dynamic Mini V2 Flow  - Noir",
-    "image": "https://media.materiel.net/r250/products/MN0006290647.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 109.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202506050054.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
-    "product": "Lian Li O11 Dynamic Mini V2 Flow  - Blanc",
-    "image": "https://media.materiel.net/r250/products/MN0006290628.jpg"
-   },
-   {
     "shop": "ldlc.com",
     "price": 74.95,
     "currency": "EUR",
@@ -1509,46 +1459,126 @@
     "lastSeen": "2026-11-18T15:02:32Z",
     "product": "Lian Li O11 Dynamic Mini V2 Flow (Blanc)",
     "image": "https://media.ldlc.com/r150/ld/products/00/06/28/94/LD0006289424.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 339.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-lian-li-o11-dynamic-mini-v2-flow-biala-o11dmiv2w-15486260/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Lian Li O11 Dynamic Mini V2 Flow biała (O11DMIV2W)",
+    "image": "https://images.morele.net/i256/15486260_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 349.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-lian-li-o11-dynamic-mini-v2-czarna-o11dmiv2x-15417457/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Lian Li O11 Dynamic Mini V2 czarna (O11DMIV2X)",
+    "image": "https://images.morele.net/i256/15417457_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 389.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-lian-li-o11-dynamic-mini-v2-flow-biala-o11dmiv2fw-15417458/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Lian Li O11 Dynamic Mini V2 Flow biała (O11DMIV2FW)",
+    "image": "https://images.morele.net/i256/15417458_1_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 389.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-lian-li-o11-dynamic-mini-v2-flow-czarna-o11dmiv2fx-15417460/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Lian Li O11 Dynamic Mini V2 Flow czarna (O11DMIV2FX)",
+    "image": "https://images.morele.net/i256/15417460_2_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 429.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-lian-li-o11-dynamic-mini-snow-edition-8387222/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Lian Li O11 Dynamic Mini Snow Edition",
+    "image": "https://images.morele.net/i256/8387222_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 446.98,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-lian-li-o11-dynamic-mini-x-8265613/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Lian Li O11 Dynamic Mini-X",
+    "image": "https://images.morele.net/i256/8265613_0_i256.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 74.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202105250026.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Lian Li O11 Dynamic Mini - Snow Edition",
+    "image": "https://media.materiel.net/r250/products/MN0005852536_1.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 99.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202506050052.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Lian Li O11 Dynamic Mini V2 - Blanc",
+    "image": "https://media.materiel.net/r250/products/MN0006290743.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 99.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202506050051.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Lian Li O11 Dynamic Mini V2 - Noir",
+    "image": "https://media.materiel.net/r250/products/MN0006290738.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 109.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202506050053.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Lian Li O11 Dynamic Mini V2 Flow  - Noir",
+    "image": "https://media.materiel.net/r250/products/MN0006290647.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 109.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202506050054.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Lian Li O11 Dynamic Mini V2 Flow  - Blanc",
+    "image": "https://media.materiel.net/r250/products/MN0006290628.jpg"
    }
   ],
   "image": "images/cases-lian-li-o11-dynamic-mini.jpg",
-  "lastUpdated": "2026-11-18T15:02:32Z"
+  "lastUpdated": "2026-11-18T23:53:24Z"
  },
  {
   "id": "lian-li-lancool-216",
   "name": "Lian Li Lancool 216",
   "priceMin": 114.95,
   "prices": [
-   {
-    "shop": "amazon.com",
-    "price": 130.24,
-    "currency": "USD",
-    "url": "https://www.amazon.com/dp/B0BN3TTBKM?tag=fraym-20",
-    "inStock": true,
-    "lastSeen": "2026-11-18T11:48:08Z",
-    "product": "Lian Li Lancool 216 Mid-Tower Airflow Case-3 PWM Fans-White-LANCOOL 216R-W | High Cooling Performance, Dual Front 160MM PWM Fans & 1 Rear 140MM PWM Fan, Airflow Focused, Up to 10 Fans : Electronics",
-    "image": null
-   },
-   {
-    "shop": "materiel.net",
-    "price": 114.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202211220019.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
-    "product": "Lian Li LANCOOL 216 - Noir",
-    "image": "https://media.materiel.net/r250/products/MN0006002362.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 114.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202211220018.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
-    "product": "Lian Li LANCOOL 216 - Blanc",
-    "image": "https://media.materiel.net/r250/products/MN0006002375.jpg"
-   },
    {
     "shop": "ldlc.com",
     "price": 114.95,
@@ -1568,56 +1598,26 @@
     "lastSeen": "2026-11-18T15:02:32Z",
     "product": "Lian Li LANCOOL 216 RGB Blanc",
     "image": "https://media.ldlc.com/r150/ld/products/00/05/99/73/LD0005997352.jpg"
+   },
+   {
+    "shop": "amazon.com",
+    "price": 130.24,
+    "currency": "USD",
+    "url": "https://www.amazon.com/dp/B0BN3TTBKM?tag=fraym-20",
+    "inStock": true,
+    "lastSeen": "2026-11-19T00:23:12Z",
+    "product": "Lian Li Lancool 216 Mid-Tower Airflow Case-3 PWM Fans-White-LANCOOL 216R-W | High Cooling Performance, Dual Front 160MM PWM Fans & 1 Rear 140MM PWM Fan, Airflow Focused, Up to 10 Fans : Electronics",
+    "image": null
    }
   ],
   "image": "images/cases-lian-li-lancool-216.jpg",
-  "lastUpdated": "2026-11-18T15:02:32Z"
+  "lastUpdated": "2026-11-19T00:23:12Z"
  },
  {
   "id": "lian-li-lancool-iii",
   "name": "Lian Li Lancool III",
   "priceMin": 149.95,
   "prices": [
-   {
-    "shop": "materiel.net",
-    "price": 149.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202208240061.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
-    "product": "Lian Li LANCOOL III - Noir",
-    "image": "https://media.materiel.net/r250/products/MN0005981310.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 149.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202208240062.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
-    "product": "Lian Li LANCOOL III - Blanc",
-    "image": "https://media.materiel.net/r250/products/MN0005981315.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 169.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202208240063.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
-    "product": "Lian Li LANCOOL III RGB - Noir",
-    "image": "https://media.materiel.net/r250/products/MN0005981369.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 169.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202208240064.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
-    "product": "Lian Li LANCOOL III RGB - Blanc",
-    "image": "https://media.materiel.net/r250/products/MN0005981374.jpg"
-   },
    {
     "shop": "ldlc.com",
     "price": 149.95,
@@ -1660,41 +1660,52 @@
    }
   ],
   "image": "images/cases-lian-li-lancool-iii.jpg",
-  "lastUpdated": "2026-11-18T15:02:32Z"
+  "lastUpdated": "2026-11-18T23:53:24Z"
  },
  {
   "id": "cooler-master-q300l",
   "name": "Cooler Master Q300L",
-  "priceMin": null,
-  "prices": [],
+  "priceMin": 39.57,
+  "prices": [
+   {
+    "shop": "morele.net",
+    "price": 195.08,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-cooler-master-masterbox-q300l-mcb-q300l-kann-s00-1804692/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Cooler Master MasterBox Q300L (MCB-Q300L-KANN-S00)",
+    "image": "https://images.morele.net/i256/1804692_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 224.21,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-cooler-master-q300l-v2-q300lv2-kgnn-s00-13117544/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Cooler Master Q300L V2 (Q300LV2-KGNN-S00)",
+    "image": "https://images.morele.net/i256/13117544_0_i256.jpg"
+   },
+   {
+    "shop": "amazon.com",
+    "price": 42.74,
+    "currency": "USD",
+    "url": "https://www.amazon.com/dp/B0785GRMPG?tag=fraym-20",
+    "inStock": true,
+    "lastSeen": "2026-11-19T00:22:48Z",
+    "product": "Cooler Master Q300L V1 Micro-ATX PC Case, High Airflow, Transparent Panel | 360mm Graphics Card Support, 240mm AIO Support, Micro-ATX Motherboard, Magnetic Dust Filters, Modular I/O Panel : Electronics",
+    "image": null
+   }
+  ],
   "image": null,
-  "lastUpdated": "2026-11-18T10:55:58Z"
+  "lastUpdated": "2026-11-19T00:22:48Z"
  },
  {
   "id": "cooler-master-haf-500",
   "name": "Cooler Master HAF 500",
   "priceMin": 360.19,
   "prices": [
-   {
-    "shop": "amazon.com",
-    "price": 389.0,
-    "currency": "USD",
-    "url": "https://www.amazon.com/dp/B09HCHC9WH?tag=fraym-20",
-    "inStock": true,
-    "lastSeen": "2026-11-18T11:47:30Z",
-    "product": "Cooler Master HAF 500 PC Case: Mid-Tower, 2 x 200mm Pre-Installed ARGB Fans for High-Volume Airflow, Rotatable 120mm GPU Fan, Versatile Cooling Options, Tempered Glass Side Panel, Removeable Top : Electronics",
-    "image": null
-   },
-   {
-    "shop": "materiel.net",
-    "price": 184.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202609080036.html",
-    "inStock": false,
-    "lastSeen": "2026-11-18T15:02:32Z",
-    "product": "Cooler Master HAF II 500 Noir",
-    "image": "https://media.materiel.net/r900/products/MN0006379345.jpg"
-   },
    {
     "shop": "ldlc.com",
     "price": 184.95,
@@ -1704,46 +1715,36 @@
     "lastSeen": "2026-11-18T15:02:32Z",
     "product": "Cooler Master HAF II 500 Noir",
     "image": "https://media.ldlc.com/r1600/ld/products/00/06/37/92/LD0006379269.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 184.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202609080036.html",
+    "inStock": false,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Cooler Master HAF II 500 Noir",
+    "image": "https://media.materiel.net/r900/products/MN0006379345.jpg"
+   },
+   {
+    "shop": "amazon.com",
+    "price": 389.0,
+    "currency": "USD",
+    "url": "https://www.amazon.com/dp/B09HCHC9WH?tag=fraym-20",
+    "inStock": true,
+    "lastSeen": "2026-11-19T00:22:47Z",
+    "product": "Cooler Master HAF 500 PC Case: Mid-Tower, 2 x 200mm Pre-Installed ARGB Fans for High-Volume Airflow, Rotatable 120mm GPU Fan, Versatile Cooling Options, Tempered Glass Side Panel, Removeable Top : Electronics",
+    "image": null
    }
   ],
   "image": "images/cases-cooler-master-haf-500.jpg",
-  "lastUpdated": "2026-11-18T15:02:32Z"
+  "lastUpdated": "2026-11-19T00:22:47Z"
  },
  {
   "id": "be-quiet-silent-base-802",
   "name": "be quiet! Silent Base 802",
-  "priceMin": 166.95,
+  "priceMin": 151.95,
   "prices": [
-   {
-    "shop": "amazon.com",
-    "price": 198.53,
-    "currency": "USD",
-    "url": "https://www.amazon.com/dp/B08NW5741Z?tag=fraym-20",
-    "inStock": true,
-    "lastSeen": "2026-11-18T11:47:29Z",
-    "product": "be quiet! Silent Base 802 Black ATX Midi Tower PC Case, 3 Installed Fans | Computer Case with I/O-Panel, Fan Controller, USB 3.2 Gen. 2 Type C, up to 420mm Water Coolings, Extra Thick Insulation Mats : Electronics",
-    "image": null
-   },
-   {
-    "shop": "materiel.net",
-    "price": 166.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202011100093.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
-    "product": "be quiet! Silent Base 802 Window - Noir",
-    "image": "https://media.materiel.net/r250/products/MN0005753758_1.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 179.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202011100087.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
-    "product": "be quiet! Silent Base 802 - Noir",
-    "image": "https://media.materiel.net/r250/products/MN0005753745_1.jpg"
-   },
    {
     "shop": "ldlc.com",
     "price": 166.95,
@@ -1763,15 +1764,75 @@
     "lastSeen": "2026-11-18T15:02:32Z",
     "product": "be quiet! Silent Base 802 (Noir)",
     "image": "https://media.ldlc.com/r150/ld/products/00/05/75/16/LD0005751672_1.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 653.39,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-be-quiet-silent-base-802-window-czarna-bgw39-5945604/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa be quiet! Silent Base 802 Window Czarna (BGW39)",
+    "image": "https://images.morele.net/i256/5945604_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 683.9,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-be-quiet-silent-base-802-czarna-bg039-7625325/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa be quiet! Silent Base 802 Czarna (BG039)",
+    "image": "https://images.morele.net/i256/7625325_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 902.99,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-be-quiet-silent-base-802-window-biala-bgw40-7563298/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa be quiet! Silent Base 802 Window Biała (BGW40)",
+    "image": "https://images.morele.net/i256/7563298_0_i256.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 166.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202011100093.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "be quiet! Silent Base 802 Window - Noir",
+    "image": "https://media.materiel.net/r250/products/MN0005753758_1.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 179.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202011100087.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "be quiet! Silent Base 802 - Noir",
+    "image": "https://media.materiel.net/r250/products/MN0005753745_1.jpg"
+   },
+   {
+    "shop": "amazon.com",
+    "price": 198.53,
+    "currency": "USD",
+    "url": "https://www.amazon.com/dp/B08NW5741Z?tag=fraym-20",
+    "inStock": true,
+    "lastSeen": "2026-11-19T00:22:45Z",
+    "product": "be quiet! Silent Base 802 Black ATX Midi Tower PC Case, 3 Installed Fans | Computer Case with I/O-Panel, Fan Controller, USB 3.2 Gen. 2 Type C, up to 420mm Water Coolings, Extra Thick Insulation Mats : Electronics",
+    "image": null
    }
   ],
   "image": "images/cases-be-quiet-silent-base-802.jpg",
-  "lastUpdated": "2026-11-18T15:02:32Z"
+  "lastUpdated": "2026-11-19T00:22:45Z"
  },
  {
   "id": "phanteks-evolv-x2",
   "name": "Phanteks Evolv X2",
-  "priceMin": 169.95,
+  "priceMin": 139.3,
   "prices": [
    {
     "shop": "ldlc.com",
@@ -1872,10 +1933,50 @@
     "lastSeen": "2026-11-18T15:02:32Z",
     "product": "Phanteks Evolv X2 Matrix - Noir",
     "image": "https://media.materiel.net/r250/products/MN0006309924.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 599.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-phanteks-evolv-x2-drgb-czarna-ph-es524xtg-dbk01-14723225/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Phanteks Evolv X2 DRGB czarna (PH-ES524XTG_DBK01)",
+    "image": "https://images.morele.net/i256/14723225_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 723.98,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-phanteks-evolv-x2-drgb-biala-ph-es524xtg-dmw01-14511151/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Phanteks Evolv X2 DRGB biała (PH-ES524XTG_DMW01)",
+    "image": "https://images.morele.net/i256/14511151_2_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 739.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-phanteks-evolv-x2-matrix-drgb-czarna-ph-es524xm-dbk01-15801647/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Phanteks Evolv X2 Matrix DRGB czarna (PH-ES524XM_DBK01)",
+    "image": "https://images.morele.net/i256/15801647_2_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 785.07,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-phanteks-evolv-x2-matrix-drgb-biala-ph-es524xm-dmw01-15801646/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Phanteks Evolv X2 Matrix DRGB biała (PH-ES524XM_DMW01)",
+    "image": "https://images.morele.net/i256/15801646_2_i256.jpg"
    }
   ],
   "image": "images/cases-phanteks-evolv-x2.jpg",
-  "lastUpdated": "2026-11-18T15:02:32Z"
+  "lastUpdated": "2026-11-18T23:53:24Z"
  },
  {
   "id": "montech-air-903-max",
@@ -1883,12 +1984,22 @@
   "priceMin": 74.06,
   "prices": [
    {
+    "shop": "morele.net",
+    "price": 503.07,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-montech-air-903-max-biala-13114438/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Montech AIR 903 Max biała",
+    "image": "https://images.morele.net/i256/13114438_4_i256.jpg"
+   },
+   {
     "shop": "amazon.com",
     "price": 79.99,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0C98RRPXL?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-18T11:48:17Z",
+    "lastSeen": "2026-11-19T00:23:17Z",
     "product": "Montech AIR 903 Series, E-ATX Mid Tower Case, High Airflow, Fans Pre-Installed Gaming case (Air 903 MAX Black)",
     "image": null
    },
@@ -1898,34 +2009,106 @@
     "currency": "GBP",
     "url": "https://www.amazon.co.uk/dp/B0C98RRPXL?tag=fraym0a-21",
     "inStock": true,
-    "lastSeen": "2026-11-18T13:09:03Z",
+    "lastSeen": "2026-11-19T00:28:16Z",
     "product": "Montech AIR 903 MAX Midi-Tower, Tempered Glass - Schwarz",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-18T13:09:03Z"
+  "lastUpdated": "2026-11-19T00:28:16Z"
  },
  {
   "id": "montech-sky-two",
   "name": "Montech Sky Two",
-  "priceMin": null,
-  "prices": [],
+  "priceMin": 88.24,
+  "prices": [
+   {
+    "shop": "morele.net",
+    "price": 379.43,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-montech-sky-two-argb-czarna-13114443/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Montech SKY TWO ARGB czarna",
+    "image": "https://images.morele.net/i256/13114443_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 442.06,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-montech-sky-two-gx-biala-skytwogxw-13248966/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Montech Sky Two GX biała (SKYTWOGXW)",
+    "image": "https://images.morele.net/i256/13248966_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 618.76,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-montech-sky-two-argb-biala-13114444/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Montech SKY TWO ARGB biała",
+    "image": "https://images.morele.net/i256/13114444_0_i256.jpg"
+   }
+  ],
   "image": null,
-  "lastUpdated": "2026-11-18T10:55:58Z"
+  "lastUpdated": "2026-11-18T23:53:24Z"
  },
  {
   "id": "hyte-y60",
   "name": "Hyte Y60",
-  "priceMin": null,
-  "prices": [],
+  "priceMin": 127.67,
+  "prices": [
+   {
+    "shop": "morele.net",
+    "price": 549.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-hyte-y60-panda-cs-hyte-y60-bw-11738545/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Hyte Y60 Panda (CS-HYTE-Y60-BW)",
+    "image": "https://images.morele.net/i256/11738545_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 642.71,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-hyte-y60-pitch-black-cs-hyte-y60-b-11738546/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Hyte Y60 Pitch Black (CS-HYTE-Y60-B)",
+    "image": "https://images.morele.net/i256/11738546_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 778.99,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-hyte-y60-black-cherry-cs-hyte-y60-br-11738547/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Hyte Y60 Black Cherry (CS-HYTE-Y60-BR)",
+    "image": "https://images.morele.net/i256/11738547_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 871.99,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-hyte-y60-snow-white-cs-hyte-y60-ww-13338577/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Hyte Y60 Snow White (CS-HYTE-Y60-WW)",
+    "image": "https://images.morele.net/i256/13338577_4_i256.jpg"
+   }
+  ],
   "image": null,
-  "lastUpdated": "2026-11-18T10:55:58Z"
+  "lastUpdated": "2026-11-18T23:53:24Z"
  },
  {
   "id": "hyte-y40",
   "name": "Hyte Y40",
-  "priceMin": 129.95,
+  "priceMin": 91.19,
   "prices": [
    {
     "shop": "materiel.net",
@@ -2006,10 +2189,30 @@
     "lastSeen": "2026-11-18T15:02:32Z",
     "product": "Hyte Y40 (Blanc)",
     "image": "https://media.ldlc.com/r150/ld/products/00/06/03/58/LD0006035832.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 392.1,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-hyte-y40-panda-cs-hyte-y40-bw-13115883/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Hyte Y40 Panda (CS-HYTE-Y40-BW)",
+    "image": "https://images.morele.net/i256/13115883_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 639.33,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-hyte-y40-pitch-black-cs-hyte-y40-b-13115881/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Hyte Y40 Pitch Black (CS-HYTE-Y40-B)",
+    "image": "https://images.morele.net/i256/13115881_0_i256.jpg"
    }
   ],
   "image": "images/cases-hyte-y40.jpg",
-  "lastUpdated": "2026-11-18T15:02:32Z"
+  "lastUpdated": "2026-11-18T23:53:24Z"
  },
  {
   "id": "nzxt-h5-elite",
@@ -2024,16 +2227,6 @@
   "name": "NZXT H6 Flow",
   "priceMin": 57.3,
   "prices": [
-   {
-    "shop": "amazon.es",
-    "price": 57.77,
-    "currency": "EUR",
-    "url": "https://www.amazon.es/dp/B0C89G9QDK?tag=fraym08-21",
-    "inStock": true,
-    "lastSeen": "2026-11-18T11:48:25Z",
-    "product": "NZXT H6 Flow - Caja PC ATX Compacta Doble Cámara - Blanco | Caja ATX de doble cámara con vidrio panorámico y 3 ventiladores de 120mm. Optimizada para montajes limpios y frescos.",
-    "image": null
-   },
    {
     "shop": "materiel.net",
     "price": 99.95,
@@ -2123,10 +2316,60 @@
     "lastSeen": "2026-11-18T15:45:55Z",
     "product": "NZXT H6 Flow - Case PC ATX Compatto a Doppia Camera - Bianco | Case ATX compatto a doppia camera con vetro panoramico e 3 ventole 120mm incluse. Ottimizzato per build pulite e fresche.",
     "image": null
+   },
+   {
+    "shop": "morele.net",
+    "price": 373.45,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-nzxt-h6-flow-cc-h61fw-01-13132952/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Nzxt H6 Flow (CC-H61FW-01)",
+    "image": "https://images.morele.net/i256/13132952_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 379.79,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-nzxt-h6-flow-cc-h61fb-01-13132953/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Nzxt H6 Flow (CC-H61FB-01)",
+    "image": "https://images.morele.net/i256/13132953_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 442.95,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-nzxt-h6-flow-cc-h61fb-r1-13132948/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Nzxt H6 Flow (CC-H61FB-R1)",
+    "image": "https://images.morele.net/i256/13132948_1_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 595.99,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-nzxt-h6-flow-rgb-cc-h61fw-r1-13132949/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Nzxt H6 Flow RGB (CC-H61FW-R1)",
+    "image": "https://images.morele.net/i256/13132949_0_i256.jpg"
+   },
+   {
+    "shop": "amazon.es",
+    "price": 57.77,
+    "currency": "EUR",
+    "url": "https://www.amazon.es/dp/B0C89G9QDK?tag=fraym08-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T00:23:11Z",
+    "product": "NZXT H6 Flow - Caja PC ATX Compacta Doble Cámara - Blanco | Caja ATX de doble cámara con vidrio panorámico y 3 ventiladores de 120mm. Optimizada para montajes limpios y frescos.",
+    "image": null
    }
   ],
   "image": "images/cases-nzxt-h6-flow.jpg",
-  "lastUpdated": "2026-11-18T15:45:55Z"
+  "lastUpdated": "2026-11-19T00:23:11Z"
  },
  {
   "id": "nzxt-h7-elite",
@@ -2141,36 +2384,6 @@
   "name": "Fractal North XL",
   "priceMin": 120.41,
   "prices": [
-   {
-    "shop": "amazon.es",
-    "price": 127.68,
-    "currency": "EUR",
-    "url": "https://www.amazon.es/dp/B0CJCK95ZC?tag=fraym08-21",
-    "inStock": true,
-    "lastSeen": "2026-11-18T11:47:52Z",
-    "product": "Fractal Design North XL Charcoal Black Mesh- Incluye Tres Ventiladores Aspect PWM de 140 mm - Puerto USB Tipo C - Torre Completa EATX con Flujo de Aire para gabinete de PC para Juegos",
-    "image": null
-   },
-   {
-    "shop": "amazon.com",
-    "price": 194.99,
-    "currency": "USD",
-    "url": "https://www.amazon.com/dp/B0CJCK95ZC?tag=fraym-20",
-    "inStock": true,
-    "lastSeen": "2026-11-18T11:47:54Z",
-    "product": "Fractal Design North XL Charcoal Black : Electronics",
-    "image": null
-   },
-   {
-    "shop": "amazon.fr",
-    "price": 120.41,
-    "currency": "EUR",
-    "url": "https://www.amazon.fr/dp/B0CJCK95ZC?tag=fraym-21",
-    "inStock": true,
-    "lastSeen": "2026-11-18T11:47:54Z",
-    "product": "Fractal Design North XL Charcoal Black Mesh- Boîtier PC Gaming Grande Tour EATX à Flux d'air – Trois Ventilateurs Aspect PWM de 140 mm Inclus – Port USB Type-C.",
-    "image": null
-   },
    {
     "shop": "materiel.net",
     "price": 180.45,
@@ -2310,15 +2523,115 @@
     "lastSeen": "2026-11-18T15:45:42Z",
     "product": "Fractal Design North XL Charcoal Black Mesh- Tre ventole PWM Aspect da 140 mm incluse - USB di tipo C - Case EATX Full Tower con flusso d’aria per PC da gaming",
     "image": null
+   },
+   {
+    "shop": "morele.net",
+    "price": 738.24,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-fractal-design-north-xl-mesh-czarna-fd-c-nor1x-01-13187790/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Fractal Design North XL Mesh czarna (FD−C−NOR1X−01)",
+    "image": "https://images.morele.net/i256/13187790_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 749.07,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-fractal-design-north-xl-clear-czarna-fd-c-nor1x-02-13187791/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Fractal Design North XL Clear czarna (FD−C−NOR1X−02)",
+    "image": "https://images.morele.net/i256/13187791_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 778.84,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-fractal-design-north-xl-clear-biala-fd-c-nor1x-04-13187793/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Fractal Design North XL Clear biała (FD−C−NOR1X−04)",
+    "image": "https://images.morele.net/i256/13187793_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 810.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-fractal-design-north-xl-mesh-biala-fd-c-nor1x-03-13187792/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Fractal Design North XL Mesh biała (FD−C−NOR1X−03)",
+    "image": "https://images.morele.net/i256/13187792_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 829.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-fractal-design-north-xl-rc-fd-c-nor1x-05-14845996/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Fractal Design North XL RC (FD-C-NOR1X-05)",
+    "image": "https://images.morele.net/i256/14845996_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 849.2,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-fractal-design-north-xl-rc-chalk-biala-fd-c-nor1x-06-14893746/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Fractal Design North XL RC Chalk biała (FD-C-NOR1X-06)",
+    "image": "https://images.morele.net/i256/14893746_1_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 923.75,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-fractal-design-north-xl-momentum-edition-fd-c-nor1x-07-15818963/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Fractal Design North XL Momentum Edition (FD-C-NOR1X-07)",
+    "image": "https://images.morele.net/i256/15818963_0_i256.jpg"
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 120.41,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B0CJCK95ZC?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T00:22:47Z",
+    "product": "Fractal Design North XL Charcoal Black Mesh- Boîtier PC Gaming Grande Tour EATX à Flux d'air – Trois Ventilateurs Aspect PWM de 140 mm Inclus – Port USB Type-C.",
+    "image": null
+   },
+   {
+    "shop": "amazon.es",
+    "price": 127.68,
+    "currency": "EUR",
+    "url": "https://www.amazon.es/dp/B0CJCK95ZC?tag=fraym08-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T00:22:53Z",
+    "product": "Fractal Design North XL Charcoal Black Mesh- Incluye Tres Ventiladores Aspect PWM de 140 mm - Puerto USB Tipo C - Torre Completa EATX con Flujo de Aire para gabinete de PC para Juegos",
+    "image": null
+   },
+   {
+    "shop": "amazon.com",
+    "price": 194.99,
+    "currency": "USD",
+    "url": "https://www.amazon.com/dp/B0CJCK95ZC?tag=fraym-20",
+    "inStock": true,
+    "lastSeen": "2026-11-19T00:23:00Z",
+    "product": "Fractal Design North XL Charcoal Black : Electronics",
+    "image": null
    }
   ],
   "image": "images/cases-fractal-north-xl.jpg",
-  "lastUpdated": "2026-11-18T15:45:42Z"
+  "lastUpdated": "2026-11-19T00:23:00Z"
  },
  {
   "id": "fractal-meshify-2-compact",
   "name": "Fractal Meshify 2 Compact",
-  "priceMin": 142.31,
+  "priceMin": 129.72,
   "prices": [
    {
     "shop": "amazon.it",
@@ -2329,46 +2642,46 @@
     "lastSeen": "2026-11-18T13:09:46Z",
     "product": "Fractal Design Meshify 2 Compact Black TG Light Tint Midi Tower Case Gaming Case",
     "image": null
+   },
+   {
+    "shop": "morele.net",
+    "price": 557.79,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-fractal-design-meshify-2-compact-solid-czarna-fd-c-mes2c-01-8036952/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Fractal Design Meshify 2 Compact Solid Czarna (FD-C-MES2C-01)",
+    "image": "https://images.morele.net/i256/8036952_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 596.18,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-fractal-design-meshify-2-compact-tg-clear-tint-biala-fd-c-mes2c-05-8157608/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Fractal Design Meshify 2 Compact TG Clear Tint Biała (FD-C-MES2C-05)",
+    "image": "https://images.morele.net/i256/8157608_5_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 685.7,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-fractal-design-meshify-2-compact-rgb-biala-fd-c-mes2c-08-11813637/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Fractal Design Meshify 2 Compact RGB Biała (FD-C-MES2C-08)",
+    "image": "https://images.morele.net/i256/11813637_0_i256.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-18T13:09:46Z"
+  "lastUpdated": "2026-11-18T23:53:24Z"
  },
  {
   "id": "fractal-define-7",
   "name": "Fractal Define 7",
-  "priceMin": 133.9,
+  "priceMin": 114.53,
   "prices": [
-   {
-    "shop": "amazon.es",
-    "price": 153.71,
-    "currency": "EUR",
-    "url": "https://www.amazon.es/dp/B08146JLXK?tag=fraym08-21",
-    "inStock": true,
-    "lastSeen": "2026-11-18T11:47:47Z",
-    "product": "Fractal Design Define 7 Caja de Computadora Mid Tower Silenciosa y Modular E-ATX de Aluminio/Acero Negro",
-    "image": null
-   },
-   {
-    "shop": "amazon.fr",
-    "price": 159.03,
-    "currency": "EUR",
-    "url": "https://www.amazon.fr/dp/B08146JLXK?tag=fraym-21",
-    "inStock": true,
-    "lastSeen": "2026-11-18T11:47:48Z",
-    "product": "Fractal Design Define 7 Black Brushed Aluminum/Steel E-ATX Silent Modular Mid Tower Computer Case",
-    "image": null
-   },
-   {
-    "shop": "amazon.com",
-    "price": 308.86,
-    "currency": "USD",
-    "url": "https://www.amazon.com/dp/B08146JLXK?tag=fraym-20",
-    "inStock": true,
-    "lastSeen": "2026-11-18T11:47:48Z",
-    "product": "Fractal Design Define 7 Black Solid Brushed Aluminum/Steel E-ATX Silent Modular Mid Tower Computer Case : Electronics",
-    "image": null
-   },
    {
     "shop": "amazon.co.uk",
     "price": 129.16,
@@ -2438,26 +2751,66 @@
     "lastSeen": "2026-11-18T15:45:40Z",
     "product": "Fractal Design Define 7 Black Solid Brushed Aluminum/Steel E-ATX Silent Modular Mid Tower Computer Case : Fractal-Design",
     "image": null
+   },
+   {
+    "shop": "morele.net",
+    "price": 492.5,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-fractal-design-define-7-nano-tg-light-tint-fd-c-def7n-02-11738543/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Fractal Design Define 7 Nano TG Light Tint (FD-C-DEF7N-02)",
+    "image": "https://images.morele.net/i256/11738543_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 960.99,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-fractal-design-define-7-solid-czarna-fd-c-def7a-01-15251598/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Fractal Design Define 7 Solid czarna (FD-C-DEF7A-01)",
+    "image": "https://images.morele.net/i256/15251598_1_i256.jpg"
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 143.25,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B08146JLXK?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T00:22:45Z",
+    "product": "Fractal Design Define 7 Black Brushed Aluminum/Steel E-ATX Silent Modular Mid Tower Computer Case",
+    "image": null
+   },
+   {
+    "shop": "amazon.es",
+    "price": 153.71,
+    "currency": "EUR",
+    "url": "https://www.amazon.es/dp/B08146JLXK?tag=fraym08-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T00:22:48Z",
+    "product": "Fractal Design Define 7 Caja de Computadora Mid Tower Silenciosa y Modular E-ATX de Aluminio/Acero Negro",
+    "image": null
+   },
+   {
+    "shop": "amazon.com",
+    "price": 308.74,
+    "currency": "USD",
+    "url": "https://www.amazon.com/dp/B08146JLXK?tag=fraym-20",
+    "inStock": true,
+    "lastSeen": "2026-11-19T00:22:55Z",
+    "product": "Fractal Design Define 7 Black Solid Brushed Aluminum/Steel E-ATX Silent Modular Mid Tower Computer Case : Electronics",
+    "image": null
    }
   ],
   "image": "images/cases-fractal-define-7.jpg",
-  "lastUpdated": "2026-11-18T15:45:40Z"
+  "lastUpdated": "2026-11-19T00:22:55Z"
  },
  {
   "id": "fractal-pop-xl-air",
   "name": "Fractal Pop XL Air",
-  "priceMin": 124.95,
+  "priceMin": 123.75,
   "prices": [
-   {
-    "shop": "amazon.com",
-    "price": 139.04,
-    "currency": "USD",
-    "url": "https://www.amazon.com/dp/B08KTMWY5H?tag=fraym-20",
-    "inStock": true,
-    "lastSeen": "2026-11-18T13:08:53Z",
-    "product": "Fractal Design Pop XL Air RGB White Core Tempered Glass Clear Tint : Electronics",
-    "image": null
-   },
    {
     "shop": "materiel.net",
     "price": 124.95,
@@ -2497,23 +2850,74 @@
     "lastSeen": "2026-11-18T15:02:32Z",
     "product": "Fractal Design Pop XL Air RGB TG (Noir)",
     "image": "https://media.ldlc.com/r150/ld/products/00/05/96/20/LD0005962055.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 532.13,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-fractal-design-pop-xl-air-fd-c-por1x-01-11738534/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Fractal Design Pop XL Air (FD-C-POR1X-01)",
+    "image": "https://images.morele.net/i256/11738534_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 540.21,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-fractal-design-pop-xl-air-fd-c-por1x-06-11005529/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Fractal Design Pop XL Air (FD-C-POR1X-06)",
+    "image": "https://images.morele.net/i256/11005529_11_i256.jpg"
+   },
+   {
+    "shop": "amazon.com",
+    "price": 134.99,
+    "currency": "USD",
+    "url": "https://www.amazon.com/dp/B08KTMWY5H?tag=fraym-20",
+    "inStock": true,
+    "lastSeen": "2026-11-19T00:28:04Z",
+    "product": "Fractal Design Pop XL Air RGB White Core Tempered Glass Clear Tint : Electronics",
+    "image": null
    }
   ],
   "image": "images/cases-fractal-pop-xl-air.jpg",
-  "lastUpdated": "2026-11-18T15:02:32Z"
+  "lastUpdated": "2026-11-19T00:28:04Z"
  },
  {
   "id": "fractal-terra-itx",
   "name": "Fractal Terra (ITX)",
-  "priceMin": null,
-  "prices": [],
+  "priceMin": 204.23,
+  "prices": [
+   {
+    "shop": "morele.net",
+    "price": 878.2,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-fractal-design-terra-silver-fd-c-ter1n-02-12921268/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Fractal Design Terra Silver (FD-C-TER1N-02)",
+    "image": "https://images.morele.net/i256/12921268_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1119.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-fractal-design-terra-jade-fd-c-ter1n-03-12921267/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Fractal Design Terra Jade (FD-C-TER1N-03)",
+    "image": "https://images.morele.net/i256/12921267_0_i256.jpg"
+   }
+  ],
   "image": null,
-  "lastUpdated": "2026-11-18T10:55:58Z"
+  "lastUpdated": "2026-11-18T23:53:24Z"
  },
  {
   "id": "lian-li-o11-vision",
   "name": "Lian Li O11 Vision",
-  "priceMin": 74.95,
+  "priceMin": 62.32,
   "prices": [
    {
     "shop": "materiel.net",
@@ -2594,15 +2998,45 @@
     "lastSeen": "2026-11-18T15:02:32Z",
     "product": "Lian Li écran LCD O11 Vision-M 9.2\" (Noir)",
     "image": "https://media.ldlc.com/r150/ld/products/00/06/37/70/LD0006377030.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 267.99,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-lian-li-o11-vision-m-czarna-g99-o11vmx-00-600137068/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Lian Li O11 Vision-M czarna (G99.O11VMX.00)",
+    "image": "https://images.morele.net/i256/600137068_4_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 324.75,
+    "currency": "PLN",
+    "url": "https://www.morele.net/lian-li-9-2-cale-lcd-kit-do-o11-vision-m-divider-z-display-1-920-x-462-pixel-czarny-g89-sm092vmx-00-600031744/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Lian Li 9,2 cale LCD Kit do O11 Vision-M, Divider z Display, 1.920 x 462 Pixel - czarny (G89.SM092VMX.00)",
+    "image": "https://images.morele.net/i256/600031744_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 339.13,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-lian-li-o11-vision-m-biala-g99-o11vmw-00-600137070/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Lian Li O11 Vision-M biała (G99.O11VMW.00)",
+    "image": "https://images.morele.net/i256/600137070_0_i256.jpg"
    }
   ],
   "image": "images/cases-lian-li-o11-vision.jpg",
-  "lastUpdated": "2026-11-18T15:02:32Z"
+  "lastUpdated": "2026-11-18T23:53:24Z"
  },
  {
   "id": "lian-li-o11-dynamic-evo",
   "name": "Lian Li O11 Dynamic EVO",
-  "priceMin": 189.95,
+  "priceMin": 150.93,
   "prices": [
    {
     "shop": "materiel.net",
@@ -2623,10 +3057,30 @@
     "lastSeen": "2026-11-18T15:02:32Z",
     "product": "Lian Li O11 Dynamic EVO RGB - Noir",
     "image": "https://media.materiel.net/r250/products/MN0006108289.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 649.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-lian-li-o11-dynamic-evo-rgb-czarna-o11dergbx-13179419/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Lian Li O11 Dynamic EVO RGB czarna (O11DERGBX)",
+    "image": "https://images.morele.net/i256/13179419_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 699.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-lian-li-o11-dynamic-evo-rgb-o11dergbw-13178992/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Lian Li O11 Dynamic EVO RGB (O11DERGBW)",
+    "image": "https://images.morele.net/i256/13178992_0_i256.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-18T15:02:32Z"
+  "lastUpdated": "2026-11-18T23:53:24Z"
  },
  {
   "id": "lian-li-lancool-207",
@@ -2665,43 +3119,13 @@
    }
   ],
   "image": "images/cases-lian-li-lancool-207.jpg",
-  "lastUpdated": "2026-11-18T15:02:32Z"
+  "lastUpdated": "2026-11-18T23:53:24Z"
  },
  {
   "id": "corsair-3500x",
   "name": "Corsair 3500X ARGB",
   "priceMin": 51.63,
   "prices": [
-   {
-    "shop": "amazon.fr",
-    "price": 52.49,
-    "currency": "EUR",
-    "url": "https://www.amazon.fr/dp/B0FJ2Y9GK1?tag=fraym-21",
-    "inStock": true,
-    "lastSeen": "2026-11-18T11:47:42Z",
-    "product": "CORSAIR 3500X RS-R ARGB Boîtier PC Mi-Tour avec Vitre Panoramique – Blanc | 3 Ventilateurs RS120-R ARGB Préinstallés, Système de Fixation InfiniRail, Compatible une Carte mère à Connexion Inversée",
-    "image": null
-   },
-   {
-    "shop": "amazon.es",
-    "price": 61.33,
-    "currency": "EUR",
-    "url": "https://www.amazon.es/dp/B0FJ2Y9GK1?tag=fraym08-21",
-    "inStock": true,
-    "lastSeen": "2026-11-18T11:47:42Z",
-    "product": "CORSAIR 3500X RS-R ARGB Caja de PC Semitorre con Panel de Cristal Panorámico – 3X RS120-R ARGB Incluidos, Puede Incluir hasta 10 Ventiladores de 120mm, Compatible con Placas Base Inversas – Blanco",
-    "image": null
-   },
-   {
-    "shop": "amazon.it",
-    "price": 51.63,
-    "currency": "EUR",
-    "url": "https://www.amazon.it/dp/B0FJ2Y9GK1?tag=fraym06-21",
-    "inStock": true,
-    "lastSeen": "2026-11-18T11:47:43Z",
-    "product": "CORSAIR 3500X RS-R ARGB Case PC Mid-Tower Panoramico – Bianco | 3x Ventole RS120-R ARGB, Compatibile con Fino a 10 Ventole da 120 mm, Scheda Madre con Connessione Inversa Compatibile",
-    "image": null
-   },
    {
     "shop": "amazon.de",
     "price": 52.93,
@@ -2731,26 +3155,76 @@
     "lastSeen": "2026-11-18T15:02:32Z",
     "product": "Corsair 3500X RS-R ARGB (Noir)",
     "image": "https://media.ldlc.com/r150/ld/products/00/06/31/84/LD0006318493.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 548.2,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-corsair-3500x-rsr-argb-czarna-cc-9011322-ww-15540103/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Corsair 3500X RSR ARGB czarna (CC-9011322-WW)",
+    "image": "https://images.morele.net/i256/15540103_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 588.81,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-corsair-3500x-argb-biala-cc-9011279-ww-13812405/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Corsair 3500X ARGB biała (CC-9011279-WW)",
+    "image": "https://images.morele.net/i256/13812405_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 633.61,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-corsair-3500x-rsr-argb-biala-cc-9011323-ww-15591762/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Corsair 3500X RSR ARGB biała (CC-9011323-WW)",
+    "image": "https://images.morele.net/i256/15591762_0_i256.jpg"
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 52.49,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B0FJ2Y9GK1?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T00:22:39Z",
+    "product": "CORSAIR 3500X RS-R ARGB Boîtier PC Mi-Tour avec Vitre Panoramique – Blanc | 3 Ventilateurs RS120-R ARGB Préinstallés, Système de Fixation InfiniRail, Compatible une Carte mère à Connexion Inversée",
+    "image": null
+   },
+   {
+    "shop": "amazon.it",
+    "price": 51.63,
+    "currency": "EUR",
+    "url": "https://www.amazon.it/dp/B0FJ2Y9GK1?tag=fraym06-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T00:22:41Z",
+    "product": "CORSAIR 3500X RS-R ARGB Case PC Mid-Tower Panoramico – Bianco | 3x Ventole RS120-R ARGB, Compatibile con Fino a 10 Ventole da 120 mm, Scheda Madre con Connessione Inversa Compatibile",
+    "image": null
+   },
+   {
+    "shop": "amazon.es",
+    "price": 61.33,
+    "currency": "EUR",
+    "url": "https://www.amazon.es/dp/B0FJ2Y9GK1?tag=fraym08-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T00:22:44Z",
+    "product": "CORSAIR 3500X RS-R ARGB Caja de PC Semitorre con Panel de Cristal Panorámico – 3X RS120-R ARGB Incluidos, Puede Incluir hasta 10 Ventiladores de 120mm, Compatible con Placas Base Inversas – Blanco",
+    "image": null
    }
   ],
   "image": "images/cases-corsair-3500x.jpg",
-  "lastUpdated": "2026-11-18T15:02:32Z"
+  "lastUpdated": "2026-11-19T00:22:44Z"
  },
  {
   "id": "corsair-2500x",
   "name": "Corsair 2500X",
-  "priceMin": 160.31,
+  "priceMin": 90.04,
   "prices": [
-   {
-    "shop": "amazon.es",
-    "price": 160.31,
-    "currency": "EUR",
-    "url": "https://www.amazon.es/dp/B0CQ5DH88N?tag=fraym08-21",
-    "inStock": true,
-    "lastSeen": "2026-11-18T11:47:40Z",
-    "product": "CORSAIR 2500X Pequeña-Torre mATX Caja de PC de Doble Cámara - Cristal Templado Panorámico - Conexión Inversa Compatible con Placa Base - Sin Ventiladores Incluidos - Negro",
-    "image": null
-   },
    {
     "shop": "ldlc.com",
     "price": 169.95,
@@ -2830,26 +3304,56 @@
     "lastSeen": "2026-11-18T15:02:32Z",
     "product": "Corsair 2500X iCUE LINK RGB - Blanc",
     "image": "https://media.materiel.net/r250/products/MN0006154791.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 387.17,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-corsair-icue-2500x-rgb-biala-cc-9011268-ww-13229105/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Corsair iCUE 2500X RGB biała (CC-9011268-WW)",
+    "image": "https://images.morele.net/i256/13229105_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 541.53,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-corsair-2500x-bialo-srebrna-cc-9011289-ww-13400463/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Corsair 2500X biało-srebrna (CC-9011289-WW)",
+    "image": "https://images.morele.net/i256/13400463_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 756.99,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-corsair-2500x-bialo-brazowa-cc-9011288-ww-13400462/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Corsair 2500X biało-brązowa (CC-9011288-WW",
+    "image": "https://images.morele.net/i256/13400462_0_i256.jpg"
+   },
+   {
+    "shop": "amazon.es",
+    "price": 160.26,
+    "currency": "EUR",
+    "url": "https://www.amazon.es/dp/B0CQ5DH88N?tag=fraym08-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T00:22:42Z",
+    "product": "CORSAIR 2500X Pequeña-Torre mATX Caja de PC de Doble Cámara - Cristal Templado Panorámico - Conexión Inversa Compatible con Placa Base - Sin Ventiladores Incluidos - Negro",
+    "image": null
    }
   ],
   "image": "images/cases-corsair-2500x.jpg",
-  "lastUpdated": "2026-11-18T15:02:32Z"
+  "lastUpdated": "2026-11-19T00:22:42Z"
  },
  {
   "id": "be-quiet-shadow-base-800-fx",
   "name": "be quiet! Shadow Base 800 FX",
-  "priceMin": 178.91,
+  "priceMin": 146.28,
   "prices": [
-   {
-    "shop": "amazon.es",
-    "price": 178.91,
-    "currency": "EUR",
-    "url": "https://www.amazon.es/dp/B0C597FL85?tag=fraym08-21",
-    "inStock": true,
-    "lastSeen": "2026-11-18T11:47:26Z",
-    "product": "be quiet! Shadow Base 800 FX White ATX Midi Tower Gaming Caja PC, ARGB | 4 Ventiladores ARGB preinstalados, Diseño Mesh de Alto Flujo de Aire, Hub PWM y ARGB Integrado, Panel I/O Moderno",
-    "image": null
-   },
    {
     "shop": "materiel.net",
     "price": 185.21,
@@ -2909,26 +3413,46 @@
     "lastSeen": "2026-11-18T15:02:32Z",
     "product": "be quiet! Shadow Base 800 FX - Noir",
     "image": "https://media.ldlc.com/r150/ld/products/00/06/06/29/LD0006062957.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 629.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-be-quiet-shadow-base-800-fx-bgw64-13097397/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa be quiet! Shadow Base 800 FX (BGW64)",
+    "image": "https://images.morele.net/i256/13097397_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 759.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-be-quiet-shadow-base-800-fx-bgw63-13095166/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa be quiet! Shadow Base 800 FX (BGW63)",
+    "image": "https://images.morele.net/i256/13095166_0_i256.jpg"
+   },
+   {
+    "shop": "amazon.es",
+    "price": 178.91,
+    "currency": "EUR",
+    "url": "https://www.amazon.es/dp/B0C597FL85?tag=fraym08-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T00:22:28Z",
+    "product": "be quiet! Shadow Base 800 FX White ATX Midi Tower Gaming Caja PC, ARGB | 4 Ventiladores ARGB preinstalados, Diseño Mesh de Alto Flujo de Aire, Hub PWM y ARGB Integrado, Panel I/O Moderno",
+    "image": null
    }
   ],
   "image": "images/cases-be-quiet-shadow-base-800-fx.jpg",
-  "lastUpdated": "2026-11-18T15:02:32Z"
+  "lastUpdated": "2026-11-19T00:22:28Z"
  },
  {
   "id": "be-quiet-light-base-600-lx",
   "name": "be quiet! Light Base 600 LX",
   "priceMin": 139.95,
   "prices": [
-   {
-    "shop": "amazon.com",
-    "price": 179.9,
-    "currency": "USD",
-    "url": "https://www.amazon.com/dp/B0D73R2CGN?tag=fraym-20",
-    "inStock": true,
-    "lastSeen": "2026-11-18T11:47:21Z",
-    "product": "be quiet! Light Base 600 LX Black PC Case, Fully Windowed Front and Side | Dual Chamber, ARGB LED Strip, Mid Tower, 4 Light Wings LX 120mm PWM Fans, Inverted and Horizontal Layout Customizable : Electronics",
-    "image": null
-   },
    {
     "shop": "materiel.net",
     "price": 139.95,
@@ -2948,42 +3472,114 @@
     "lastSeen": "2026-11-18T15:02:32Z",
     "product": "be quiet! Light Base 600 LX (Noir)",
     "image": "https://media.ldlc.com/r1600/ld/products/00/06/36/36/LD0006363653.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 659.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-be-quiet-light-base-600-lx-argb-biala-bgw68-14181583/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa be quiet! Light Base 600 LX ARGB biała (BGW68)",
+    "image": "https://images.morele.net/i256/14181583_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 699.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-be-quiet-light-base-600-lx-argb-czarna-bgw67-14181582/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa be quiet! Light Base 600 LX ARGB czarna (BGW67)",
+    "image": "https://images.morele.net/i256/14181582_5_i256.jpg"
+   },
+   {
+    "shop": "amazon.com",
+    "price": 179.9,
+    "currency": "USD",
+    "url": "https://www.amazon.com/dp/B0D73R2CGN?tag=fraym-20",
+    "inStock": true,
+    "lastSeen": "2026-11-19T00:22:40Z",
+    "product": "be quiet! Light Base 600 LX Black PC Case, Fully Windowed Front and Side | Dual Chamber, ARGB LED Strip, Mid Tower, 4 Light Wings LX 120mm PWM Fans, Inverted and Horizontal Layout Customizable : Electronics",
+    "image": null
    }
   ],
   "image": "images/cases-be-quiet-light-base-600-lx.jpg",
-  "lastUpdated": "2026-11-18T15:02:32Z"
+  "lastUpdated": "2026-11-19T00:22:40Z"
  },
  {
   "id": "montech-king-95",
   "name": "Montech King 95",
-  "priceMin": null,
-  "prices": [],
+  "priceMin": 96.94,
+  "prices": [
+   {
+    "shop": "morele.net",
+    "price": 416.83,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-montech-king-95-argb-czarna-king95b-13173105/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Montech King 95 ARGB czarna (KING95B)",
+    "image": "https://images.morele.net/i256/13173105_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 469.36,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-montech-king-95-argb-biala-king95w-13173106/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Montech King 95 ARGB biała (KING95W)",
+    "image": "https://images.morele.net/i256/13173106_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 485.04,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-montech-king-95-argb-czerwona-king95r-13173104/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Montech King 95 ARGB czerwona (KING95R)",
+    "image": "https://images.morele.net/i256/13173104_0_i256.jpg"
+   }
+  ],
   "image": null,
-  "lastUpdated": "2026-11-18T10:55:58Z"
+  "lastUpdated": "2026-11-18T23:53:24Z"
  },
  {
   "id": "montech-xr",
   "name": "Montech XR",
-  "priceMin": null,
-  "prices": [],
+  "priceMin": 56.51,
+  "prices": [
+   {
+    "shop": "morele.net",
+    "price": 243.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-montech-xr-wood-biala-argb-15058320/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Montech XR Wood biała ARGB",
+    "image": "https://images.morele.net/i256/15058320_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 332.99,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-montech-xr-wood-czarna-argb-15234316/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Montech XR Wood czarna ARGB",
+    "image": "https://images.morele.net/i256/15234316_3_i256.jpg"
+   }
+  ],
   "image": null,
-  "lastUpdated": "2026-11-18T10:55:58Z"
+  "lastUpdated": "2026-11-18T23:53:24Z"
  },
  {
   "id": "asus-prime-ap201",
   "name": "ASUS Prime AP201",
   "priceMin": 44.45,
   "prices": [
-   {
-    "shop": "amazon.es",
-    "price": 49.58,
-    "currency": "EUR",
-    "url": "https://www.amazon.es/dp/B0B7F8C35R?tag=fraym08-21",
-    "inStock": true,
-    "lastSeen": "2026-11-18T11:47:17Z",
-    "product": "ASUS Prime AP201 - Caja para PC Micro-ATX - Negra",
-    "image": null
-   },
    {
     "shop": "amazon.fr",
     "price": 54.08,
@@ -3013,15 +3609,65 @@
     "lastSeen": "2026-11-18T15:44:15Z",
     "product": "ASUS Prime AP201 MicroATX Gehäuse schwarz | 33 Liter, unterstützt 280- & 360-mm-Kühler, Grafikkarten bis 338 mm Länge und Standard-ATX-Netzteile",
     "image": null
+   },
+   {
+    "shop": "morele.net",
+    "price": 298.06,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-asus-prime-ap201-tempered-glass-90dc00g0-b39010-12801291/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Asus Prime AP201 Tempered Glass (90DC00G0-B39010)",
+    "image": "https://images.morele.net/i256/12801291_1_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 320.01,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-asus-prime-ap201-90dc00g0-b39000-11643712/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Asus Prime AP201 (90DC00G0-B39000)",
+    "image": "https://images.morele.net/i256/11643712_10_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 342.47,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-asus-prime-ap201-90dc00g3-b39000-11902119/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Asus Prime AP201 (90DC00G3-B39000)",
+    "image": "https://images.morele.net/i256/11902119_10_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 361.61,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-asus-prime-ap201-tempered-glass-90dc00g3-b39010-12888231/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Asus Prime AP201 Tempered Glass (90DC00G3-B39010)",
+    "image": "https://images.morele.net/i256/12888231_1_i256.jpg"
+   },
+   {
+    "shop": "amazon.es",
+    "price": 49.58,
+    "currency": "EUR",
+    "url": "https://www.amazon.es/dp/B0B7F8C35R?tag=fraym08-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T00:22:22Z",
+    "product": "ASUS Prime AP201 - Caja para PC Micro-ATX - Negra",
+    "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-18T15:44:15Z"
+  "lastUpdated": "2026-11-19T00:22:22Z"
  },
  {
   "id": "hyte-y70",
   "name": "Hyte Y70",
-  "priceMin": 189.95,
+  "priceMin": 185.35,
   "prices": [
    {
     "shop": "materiel.net",
@@ -3182,10 +3828,90 @@
     "lastSeen": "2026-11-18T15:02:32Z",
     "product": "Hyte Y70 (Rouge/Noir)",
     "image": "https://media.ldlc.com/r150/ld/products/00/06/14/82/LD0006148216.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 796.99,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-hyte-y70-blueberry-milk-cs-hyte-y70-bm-14504612/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Hyte Y70 Blueberry Milk (CS-HYTE-Y70-BM)",
+    "image": "https://images.morele.net/i256/14504612_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 799.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-hyte-y70-strawberry-milk-cs-hyte-y70-sm-14504611/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Hyte Y70 Strawberry Milk (CS-HYTE-Y70-SM)",
+    "image": "https://images.morele.net/i256/14504611_1_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 799.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-hyte-y70-taro-milk-cs-hyte-y70-tm-14504613/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Hyte Y70 Taro Milk (CS-HYTE-Y70-TM)",
+    "image": "https://images.morele.net/i256/14504613_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 823.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-hyte-y70-matcha-cs-hyte-y70-mm-15759552/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Hyte Y70 Matcha (CS-HYTE-Y70-MM)",
+    "image": "https://images.morele.net/i256/15759552_6_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 829.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-hyte-y70-panda-cs-hyte-y70-bw-13263562/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Hyte Y70 Panda (CS-HYTE-Y70-BW)",
+    "image": "https://images.morele.net/i256/13263562_6_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 890.99,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-hyte-y70-black-cherry-cs-hyte-y70-br-13268879/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Hyte Y70 Black Cherry (CS-HYTE-Y70-BR)",
+    "image": "https://images.morele.net/i256/13268879_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 930.71,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-hyte-y70-snow-white-cs-hyte-y70-ww-13983635/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Hyte Y70 Snow White (CS-HYTE-Y70-WW)",
+    "image": "https://images.morele.net/i256/13983635_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 971.99,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-hyte-y70-pitch-black-cs-hyte-y70-b-13268880/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Hyte Y70 Pitch Black (CS-HYTE-Y70-B)",
+    "image": "https://images.morele.net/i256/13268880_0_i256.jpg"
    }
   ],
   "image": "images/cases-hyte-y70.jpg",
-  "lastUpdated": "2026-11-18T15:02:32Z"
+  "lastUpdated": "2026-11-18T23:53:24Z"
  },
  {
   "id": "be-quiet-pure-base-500dx",
@@ -3239,18 +3965,8 @@
  {
   "id": "phanteks-g400a",
   "name": "Phanteks Eclipse G400A",
-  "priceMin": 109.95,
+  "priceMin": 88.14,
   "prices": [
-   {
-    "shop": "amazon.com",
-    "price": 206.0,
-    "currency": "USD",
-    "url": "https://www.amazon.com/dp/B086YSG1RW?tag=fraym-20",
-    "inStock": true,
-    "lastSeen": "2026-11-18T11:48:35Z",
-    "product": "Phanteks Eclipse G400A DRGB White 4 Fans PH-EC400GA_DMW01 : Clothing, Shoes & Jewelry",
-    "image": null
-   },
    {
     "shop": "materiel.net",
     "price": 109.95,
@@ -3270,26 +3986,46 @@
     "lastSeen": "2026-11-18T15:02:32Z",
     "product": "Phanteks Eclipse G400A (Blanc)",
     "image": "https://media.ldlc.com/r1600/ld/products/00/06/21/84/LD0006218447.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 379.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-phanteks-eclipse-g400a-argb-ph-ec400ga-dbk01-14473188/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Phanteks Eclipse G400A ARGB (PH-EC400GA_DBK01)",
+    "image": "https://images.morele.net/i256/14473188_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 399.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-phanteks-eclipse-g400a-drgb-biala-ph-ec400ga-dmw01-14473187/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Phanteks Eclipse G400A DRGB biała (PH-EC400GA_DMW01)",
+    "image": "https://images.morele.net/i256/14473187_4_i256.jpg"
+   },
+   {
+    "shop": "amazon.com",
+    "price": 206.0,
+    "currency": "USD",
+    "url": "https://www.amazon.com/dp/B086YSG1RW?tag=fraym-20",
+    "inStock": true,
+    "lastSeen": "2026-11-19T00:23:28Z",
+    "product": "Phanteks Eclipse G400A DRGB White 4 Fans PH-EC400GA_DMW01 : Clothing, Shoes & Jewelry",
+    "image": null
    }
   ],
   "image": "images/cases-phanteks-g400a.jpg",
-  "lastUpdated": "2026-11-18T15:02:32Z"
+  "lastUpdated": "2026-11-19T00:23:28Z"
  },
  {
   "id": "cooler-master-td500-mesh",
   "name": "Cooler Master TD500 Mesh",
   "priceMin": 89.95,
   "prices": [
-   {
-    "shop": "materiel.net",
-    "price": 89.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202302020079.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
-    "product": "Cooler Master MasterBox TD500 Mesh V2 - Blanc",
-    "image": "https://media.materiel.net/r900/products/MN0006014032.jpg"
-   },
    {
     "shop": "ldlc.com",
     "price": 89.95,
@@ -3299,10 +4035,20 @@
     "lastSeen": "2026-11-18T15:02:32Z",
     "product": "Cooler Master MasterBox TD500 Mesh Blanc V2",
     "image": "https://media.ldlc.com/r1600/ld/products/00/06/01/30/LD0006013031.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 89.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202302020079.html",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Cooler Master MasterBox TD500 Mesh V2 - Blanc",
+    "image": "https://media.materiel.net/r900/products/MN0006014032.jpg"
    }
   ],
   "image": "images/cases-cooler-master-td500-mesh.jpg",
-  "lastUpdated": "2026-11-18T15:02:32Z"
+  "lastUpdated": "2026-11-18T23:53:24Z"
  },
  {
   "id": "be-quiet-pure-base-500-fx",
@@ -3332,5 +4078,219 @@
   ],
   "image": "images/cases-be-quiet-pure-base-500-fx.jpg",
   "lastUpdated": "2026-11-18T15:02:32Z"
+ },
+ {
+  "id": "lian-li-a4-h2o-itx",
+  "name": "Lian Li A4-H2O (ITX)",
+  "priceMin": 164.18,
+  "prices": [
+   {
+    "shop": "morele.net",
+    "price": 705.99,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-lian-li-dan-cases-a4-h2o-srebrna-g99-a4h2oa5-00-600011050/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Lian Li DAN Cases A4-H2O srebrna (G99.A4H2OA5.00)",
+    "image": "https://images.morele.net/i256/600011050_2_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 722.53,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-lian-li-dan-cases-a4-h2o-czarna-g99-a4h2ox5-00-600011052/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Lian Li DAN Cases A4-H2O czarna (G99.A4H2OX5.00)",
+    "image": "https://images.morele.net/i256/600011052_0_i256.jpg"
+   }
+  ],
+  "image": null,
+  "lastUpdated": "2026-11-18T23:53:24Z"
+ },
+ {
+  "id": "cooler-master-nr200p-itx",
+  "name": "Cooler Master NR200P (ITX)",
+  "priceMin": 12.46,
+  "prices": [
+   {
+    "shop": "morele.net",
+    "price": 53.57,
+    "currency": "PLN",
+    "url": "https://www.morele.net/demciflex-filtr-przeciwkurzowy-do-cooler-master-nr200p-tyl-1092-9808154/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "DEMCiflex Filtr przeciwkurzowy do Cooler Master NR200p - tył (1092)",
+    "image": "https://images.morele.net/i256/9808154_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 108.88,
+    "currency": "PLN",
+    "url": "https://www.morele.net/demciflex-filtr-przeciwkurzowy-do-cooler-master-nr200p-bok-1090-9571575/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "DEMCiflex Filtr przeciwkurzowy do Cooler Master NR200p - bok (1090)",
+    "image": "https://images.morele.net/i256/9571575_0_i256.jpg"
+   }
+  ],
+  "image": null,
+  "lastUpdated": "2026-11-18T23:53:24Z"
+ },
+ {
+  "id": "deepcool-ch510",
+  "name": "Deepcool CH510",
+  "priceMin": 55.58,
+  "prices": [
+   {
+    "shop": "morele.net",
+    "price": 239.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-deepcool-ch510-r-ch510-bknne1-g-1-11815122/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Deepcool CH510 (R-CH510-BKNNE1-G-1)",
+    "image": "https://images.morele.net/i256/11815122_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 252.99,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-deepcool-ch510-r-ch510-whnne1-g-1-11815121/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Deepcool CH510 (R-CH510-WHNNE1-G-1)",
+    "image": "https://images.morele.net/i256/11815121_0_i256.jpg"
+   }
+  ],
+  "image": null,
+  "lastUpdated": "2026-11-18T23:53:24Z"
+ },
+ {
+  "id": "deepcool-macube-110-matx",
+  "name": "Deepcool Macube 110 (mATX)",
+  "priceMin": 40.19,
+  "prices": [
+   {
+    "shop": "morele.net",
+    "price": 172.8,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-deepcool-macube-110-czarna-r-macube110-bkngm1n-g-1-7893964/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Deepcool Macube 110 Czarna (R-MACUBE110-BKNGM1N-G-1)",
+    "image": "https://images.morele.net/i256/7893964_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 172.8,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-deepcool-macube-110-czarna-r-macube110-bkngm1n-g-1-7893964/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Deepcool Macube 110 Czarna (R-MACUBE110-BKNGM1N-G-1)",
+    "image": "https://images.morele.net/i256/7893964_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 172.8,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-deepcool-macube-110-czarna-r-macube110-bkngm1n-g-1-7893964/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Deepcool Macube 110 Czarna (R-MACUBE110-BKNGM1N-G-1)",
+    "image": "https://images.morele.net/i256/7893964_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 183.96,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-deepcool-macube-110-biala-r-macube110-whngm1n-g-1-7893965/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Deepcool Macube 110 Biała (R-MACUBE110-WHNGM1N-G-1)",
+    "image": "https://images.morele.net/i256/7893965_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 183.96,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-deepcool-macube-110-biala-r-macube110-whngm1n-g-1-7893965/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Deepcool Macube 110 Biała (R-MACUBE110-WHNGM1N-G-1)",
+    "image": "https://images.morele.net/i256/7893965_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 183.96,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-deepcool-macube-110-biala-r-macube110-whngm1n-g-1-7893965/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Deepcool Macube 110 Biała (R-MACUBE110-WHNGM1N-G-1)",
+    "image": "https://images.morele.net/i256/7893965_0_i256.jpg"
+   }
+  ],
+  "image": null,
+  "lastUpdated": "2026-11-18T23:53:24Z"
+ },
+ {
+  "id": "thermaltake-versa-h18-matx",
+  "name": "Thermaltake Versa H18 (mATX)",
+  "priceMin": 47.25,
+  "prices": [
+   {
+    "shop": "morele.net",
+    "price": 203.16,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-thermaltake-versa-h18-window-ca-1j4-00s1wn-00-1793889/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Thermaltake Versa H18 Window (CA-1J4-00S1WN-00)",
+    "image": "https://images.morele.net/i256/1793889_0_i256.jpg"
+   }
+  ],
+  "image": null,
+  "lastUpdated": "2026-11-18T23:53:24Z"
+ },
+ {
+  "id": "phanteks-nv7",
+  "name": "Phanteks NV7",
+  "priceMin": 174.19,
+  "prices": [
+   {
+    "shop": "morele.net",
+    "price": 749.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-phanteks-nv7-argb-ph-nv723tg-dmw01-13116542/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Phanteks NV7 ARGB (PH-NV723TG_DMW01)",
+    "image": "https://images.morele.net/i256/13116542_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 749.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/obudowa-phanteks-nv7-d-rgb-ph-nv723tg-dbk01-13116540/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Obudowa Phanteks NV7 D-RGB (PH-NV723TG_DBK01)",
+    "image": "https://images.morele.net/i256/13116540_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1762.77,
+    "currency": "PLN",
+    "url": "https://www.morele.net/stealkey-customs-phanteks-nv7-x-stealkey-distroplate-d-rgb-bialy-15366304/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Stealkey Customs Phanteks NV7 x Stealkey Distroplate D-RGB- biały",
+    "image": "https://images.morele.net/i256/15366304_0_i256.jpg"
+   }
+  ],
+  "image": null,
+  "lastUpdated": "2026-11-18T23:53:24Z"
  }
 ]

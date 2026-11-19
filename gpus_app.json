@@ -10,109 +10,59 @@
     "currency": "CAD",
     "url": "https://www.canadacomputers.com/en/gaming-laptops/292502/msi-raider-16-hx-16-intel-ultra-9-275hx-rtx-5090-32gb-2tb-win11h-raider-16-hx-b2wj-292ca.html?keyword=geforce rtx 5090",
     "inStock": true,
-    "lastSeen": "2026-11-18T00:27:45Z",
+    "lastSeen": "2026-11-19T15:08:49Z",
     "product": "MSI Raider 16 HX 16\" Intel Ultra 9 275HX RTX 5090 32GB 2TB Win11H",
     "image": "https://ccimg.canadacomputers.com/Products/800x800/135/4187/84407.jpg"
    },
    {
     "shop": "canadacomputers.com",
-    "price": 7999.0,
+    "price": 9499.0,
     "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/gaming-laptops/295927/asus-rog-strix-scar-18-ultra-9-290hx-plus-geforce-rtx-5090-64gb-4tb-g835lxg-ds99-ca.html?keyword=geforce rtx 5090",
+    "url": "https://www.canadacomputers.com/en/powered-by-nvidia/269045/pny-geforce-rtx-5090-triple-fan-gddr7-triple-fans-vcg509032tfxpb1.html?keyword=geforce rtx 5090",
     "inStock": true,
-    "lastSeen": "2026-11-18T00:27:45Z",
-    "product": "ASUS ROG Strix SCAR 18\" Ultra 9-290HX Plus GeForce RTX 5090 64GB 4TB",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/135/4187/76691.jpg"
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "PNY GeForce RTX 5090 Triple Fan GDDR7 Triple Fans",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/420/38575.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 9999.0,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/powered-by-nvidia/297357/zotac-geforce-rtx-5090-arcticstorm-aio-gddr7-triple-fans-zt-b50900k-30a.html?keyword=geforce rtx 5090",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "ZOTAC GeForce RTX 5090 ArcticStorm AIO GDDR7 Triple Fans",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/420/08017.jpg"
+   },
+   {
+    "shop": "amazon.es",
+    "price": 10983.51,
+    "currency": "EUR",
+    "url": "https://www.amazon.es/dp/B0DTHV8THW?tag=fraym08-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:39:15Z",
+    "product": "Tarjeta gráfica gaming ASUS ROG Astral GeForce RTX 5090 32GB GDDR7 OC Ed. | Nvidia DLSS 4, 4 ventiladores Axial-tech, diseño de 3,8 ranuras, PCIe 5.0, 2x HDMI 2.1b, 3x DisplayPort 2.1a, cámara de vapor",
+    "image": null
+   },
+   {
+    "shop": "amazon.com",
+    "price": 7699.0,
+    "currency": "USD",
+    "url": "https://www.amazon.com/dp/B0DTHV8THW?tag=fraym-20",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:52:33Z",
+    "product": "ASUS ROG Astral GeForce RTX 5090 32GB GDDR7 OC Edition Gaming Graphics Card (Nvidia GeForce RTX5090, Four Fans, 3.8 Slot Design, PCIe 5.0, 2X HDMI 2.1b, 3X DisplayPort 2.1a) : Electronics",
+    "image": null
    }
   ],
   "image": "images/gpus-rtx5090.jpg",
-  "lastUpdated": "2026-11-19T00:25:11Z"
+  "lastUpdated": "2026-11-19T15:52:33Z"
  },
  {
   "id": "rtx5080",
   "name": "GeForce RTX 5080",
   "priceMin": 1817.36,
   "prices": [
-   {
-    "shop": "canadacomputers.com",
-    "price": 2899.0,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/powered-by-nvidia/268141/gigabyte-geforce-rtx-5080-windforce-oc-sff-16g-graphics-card-gv-n5080wf3oc-16gd.html?keyword=geforce rtx 5080",
-    "inStock": true,
-    "lastSeen": "2026-11-18T00:27:45Z",
-    "product": "GIGABYTE GeForce RTX 5080 WINDFORCE OC SFF 16G Graphics Card",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/420/268141/16823.jpg"
-   },
-   {
-    "shop": "canadacomputers.com",
-    "price": 2999.0,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/powered-by-nvidia/267147/asus-prime-geforce-rtx-5080-16gb-gddr7-oc-edition-sff-prime-rtx5080-o16g.html?keyword=geforce rtx 5080",
-    "inStock": true,
-    "lastSeen": "2026-11-18T00:27:45Z",
-    "product": "ASUS PRIME GeForce RTX 5080 16GB GDDR7 OC Edition SFF",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/420/267147/54869.jpg"
-   },
-   {
-    "shop": "canadacomputers.com",
-    "price": 2999.0,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/powered-by-nvidia/270411/msi-geforce-rtx-5080-16g-ventus-3x-oc-white-rtx-5080-16g-ventus-3x-oc-white.html?keyword=geforce rtx 5080",
-    "inStock": true,
-    "lastSeen": "2026-11-18T00:27:45Z",
-    "product": "MSI GeForce RTX 5080 16G VENTUS 3X OC WHITE",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/420/270411/75742.jpg"
-   },
-   {
-    "shop": "canadacomputers.com",
-    "price": 3049.0,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/powered-by-nvidia/268151/asus-prime-geforce-rtx-5080-16gb-gddr7-prime-rtx5080-16g.html?keyword=geforce rtx 5080",
-    "inStock": true,
-    "lastSeen": "2026-11-18T00:27:45Z",
-    "product": "ASUS PRIME GeForce RTX 5080 16GB GDDR7",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/420/57311.jpg"
-   },
-   {
-    "shop": "canadacomputers.com",
-    "price": 3099.0,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/powered-by-nvidia/268146/msi-geforce-rtx-5080-16g-gaming-trio-oc-white-rtx-5080-16g-gaming-trio-oc-white.html?keyword=geforce rtx 5080",
-    "inStock": true,
-    "lastSeen": "2026-11-18T00:27:45Z",
-    "product": "MSI GeForce RTX 5080 16G GAMING TRIO OC WHITE",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/420/268146/24950.jpg"
-   },
-   {
-    "shop": "canadacomputers.com",
-    "price": 3199.0,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/powered-by-nvidia/267619/msi-geforce-rtx-5080-16g-suprim-liquid-soc-gddr7-16gb-rtx-5080-16g-suprim-liquid-soc.html?keyword=geforce rtx 5080",
-    "inStock": true,
-    "lastSeen": "2026-11-18T00:27:45Z",
-    "product": "MSI GeForce RTX 5080 16G SUPRIM LIQUID SOC, GDDR7 16GB",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/420/267619/86912.jpg"
-   },
-   {
-    "shop": "canadacomputers.com",
-    "price": 2999.0,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/powered-by-nvidia/268138/gigabyte-geforce-rtx-5080-gaming-oc-ai-gaming-graphics-card-gv-n5080gaming-oc-16gd.html?keyword=geforce rtx 5080",
-    "inStock": false,
-    "lastSeen": "2026-11-18T00:27:45Z",
-    "product": "GIGABYTE GeForce RTX 5080 GAMING OC AI Gaming Graphics Card",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/420/268138/04477.jpg"
-   },
-   {
-    "shop": "canadacomputers.com",
-    "price": 2999.0,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/powered-by-nvidia/270345/msi-geforce-rtx-5080-16g-shadow-3x-oc-rtx-5080-16g-shadow-3x-oc.html?keyword=geforce rtx 5080",
-    "inStock": false,
-    "lastSeen": "2026-11-18T00:27:45Z",
-    "product": "MSI GeForce RTX 5080 16G SHADOW 3X OC",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/420/270345/87999.jpg"
-   },
    {
     "shop": "morele.net",
     "price": 9455.27,
@@ -192,26 +142,6 @@
     "lastSeen": "2026-11-18T23:53:24Z",
     "product": "Karta graficzna Zotac Gaming GeForce RTX 5080 Solid CORE OC 16GB GDDR7 DLSS4 (ZT-B50800J2-10P)",
     "image": "https://images.morele.net/i256/14791480_1_i256.jpg"
-   },
-   {
-    "shop": "amazon.de",
-    "price": 1831.85,
-    "currency": "EUR",
-    "url": "https://www.amazon.de/dp/B0DS65KD1C?tag=fraym03-21",
-    "inStock": true,
-    "lastSeen": "2026-11-19T00:24:27Z",
-    "product": "ASUS TUF Gaming GeForce RTX 5080 OC Edition 16GB GDDR7 Gaming Grafikkarte | Nvidia GeForce RTX5080, 3,6 Slot Design, PCIe 5.0, 2x HDMI 2.1b, 3x DisplayPort 2.1a",
-    "image": null
-   },
-   {
-    "shop": "amazon.es",
-    "price": 1817.36,
-    "currency": "EUR",
-    "url": "https://www.amazon.es/dp/B0DS65KD1C?tag=fraym08-21",
-    "inStock": true,
-    "lastSeen": "2026-11-19T00:33:07Z",
-    "product": "ASUS TUF Gaming GeForce RTX 5080 16GB GDDR7 OC Edition - Tarjeta gráfica | PCIe 5.0, HDMI/DP 2.1, 3.6 ranuras, grado militar, revestimiento PCB, ventiladores axial-tech, cámara de vapor",
-    "image": null
    },
    {
     "shop": "materiel.net",
@@ -374,84 +304,124 @@
     "image": "https://media.ldlc.com/r150/ld/products/00/06/35/75/LD0006357574.jpg"
    },
    {
+    "shop": "canadacomputers.com",
+    "price": 2899.0,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/powered-by-nvidia/268141/gigabyte-geforce-rtx-5080-windforce-oc-sff-16g-graphics-card-gv-n5080wf3oc-16gd.html?keyword=geforce rtx 5080",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "GIGABYTE GeForce RTX 5080 WINDFORCE OC SFF 16G Graphics Card",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/420/268141/16823.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 2999.0,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/powered-by-nvidia/267147/asus-prime-geforce-rtx-5080-16gb-gddr7-oc-edition-sff-prime-rtx5080-o16g.html?keyword=geforce rtx 5080",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "ASUS PRIME GeForce RTX 5080 16GB GDDR7 OC Edition SFF",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/420/267147/54869.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 2999.0,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/powered-by-nvidia/270411/msi-geforce-rtx-5080-16g-ventus-3x-oc-white-rtx-5080-16g-ventus-3x-oc-white.html?keyword=geforce rtx 5080",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "MSI GeForce RTX 5080 16G VENTUS 3X OC WHITE",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/420/270411/75742.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 3049.0,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/powered-by-nvidia/268151/asus-prime-geforce-rtx-5080-16gb-gddr7-prime-rtx5080-16g.html?keyword=geforce rtx 5080",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "ASUS PRIME GeForce RTX 5080 16GB GDDR7",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/420/57311.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 3099.0,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/powered-by-nvidia/268146/msi-geforce-rtx-5080-16g-gaming-trio-oc-white-rtx-5080-16g-gaming-trio-oc-white.html?keyword=geforce rtx 5080",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "MSI GeForce RTX 5080 16G GAMING TRIO OC WHITE",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/420/268146/24950.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 3199.0,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/powered-by-nvidia/267619/msi-geforce-rtx-5080-16g-suprim-liquid-soc-gddr7-16gb-rtx-5080-16g-suprim-liquid-soc.html?keyword=geforce rtx 5080",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "MSI GeForce RTX 5080 16G SUPRIM LIQUID SOC, GDDR7 16GB",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/420/267619/86912.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 2999.0,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/powered-by-nvidia/268138/gigabyte-geforce-rtx-5080-gaming-oc-ai-gaming-graphics-card-gv-n5080gaming-oc-16gd.html?keyword=geforce rtx 5080",
+    "inStock": false,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "GIGABYTE GeForce RTX 5080 GAMING OC AI Gaming Graphics Card",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/420/268138/04477.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 2999.0,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/powered-by-nvidia/270345/msi-geforce-rtx-5080-16g-shadow-3x-oc-rtx-5080-16g-shadow-3x-oc.html?keyword=geforce rtx 5080",
+    "inStock": false,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "MSI GeForce RTX 5080 16G SHADOW 3X OC",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/420/270345/87999.jpg"
+   },
+   {
+    "shop": "amazon.de",
+    "price": 1831.85,
+    "currency": "EUR",
+    "url": "https://www.amazon.de/dp/B0DS65KD1C?tag=fraym03-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:43:13Z",
+    "product": "ASUS TUF Gaming GeForce RTX 5080 OC Edition 16GB GDDR7 Gaming Grafikkarte | Nvidia GeForce RTX5080, 3,6 Slot Design, PCIe 5.0, 2x HDMI 2.1b, 3x DisplayPort 2.1a",
+    "image": null
+   },
+   {
+    "shop": "amazon.es",
+    "price": 1817.36,
+    "currency": "EUR",
+    "url": "https://www.amazon.es/dp/B0DS65KD1C?tag=fraym08-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:44:39Z",
+    "product": "ASUS TUF Gaming GeForce RTX 5080 16GB GDDR7 OC Edition - Tarjeta gráfica | PCIe 5.0, HDMI/DP 2.1, 3.6 ranuras, grado militar, revestimiento PCB, ventiladores axial-tech, cámara de vapor",
+    "image": null
+   },
+   {
     "shop": "amazon.com",
     "price": 2699.99,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0DS65KD1C?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:15:21Z",
+    "lastSeen": "2026-11-19T15:53:18Z",
     "product": "ASUS TUF Gaming GeForce RTX 5080 16GB GDDR7 OC Edition Gaming Graphics Card (PCIe 5.0, HDMI/DP 2.1, 3.6-Slot, Military-Grade Components, Protective PCB Coating, axial-tech Fans, Vapor Chamber : Electronics",
     "image": null
    }
   ],
   "image": "images/gpus-rtx5080.jpg",
-  "lastUpdated": "2026-11-19T06:15:21Z"
+  "lastUpdated": "2026-11-19T15:53:18Z"
  },
  {
   "id": "rtx5070ti",
   "name": "GeForce RTX 5070 Ti",
   "priceMin": 1312.24,
   "prices": [
-   {
-    "shop": "canadacomputers.com",
-    "price": 1929.0,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/powered-by-nvidia/268906/msi-geforce-rtx-5070-ti-16g-ventus-3x-oc-rtx-5070-ti-16g-ventus-3x-oc.html?keyword=geforce rtx 5070 ti",
-    "inStock": true,
-    "lastSeen": "2026-11-18T00:27:45Z",
-    "product": "MSI GeForce RTX 5070 Ti 16G VENTUS 3X OC",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/268906/78132.jpg"
-   },
-   {
-    "shop": "canadacomputers.com",
-    "price": 1999.0,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/powered-by-nvidia/268304/asus-prime-geforce-rtx-5070-ti-16gb-gddr-prime-rtx5070ti-16g.html?keyword=geforce rtx 5070 ti",
-    "inStock": true,
-    "lastSeen": "2026-11-18T00:27:45Z",
-    "product": "ASUS Prime GeForce RTX 5070 Ti 16GB GDDR",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/268304/89525.jpg"
-   },
-   {
-    "shop": "canadacomputers.com",
-    "price": 1999.0,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/powered-by-nvidia/268819/gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-gv-n507tgaming-oc-16gd.html?keyword=geforce rtx 5070 ti",
-    "inStock": true,
-    "lastSeen": "2026-11-18T00:27:45Z",
-    "product": "GIGABYTE GeForce RTX 5070 Ti GAMING OC 16G  Graphics Card",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/420/25554.jpg"
-   },
-   {
-    "shop": "canadacomputers.com",
-    "price": 1999.0,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/powered-by-nvidia/268305/asus-prime-geforce-rtx-5070-ti-oc-edition-16gb-gddr7-prime-rtx5070ti-o16g.html?keyword=geforce rtx 5070 ti",
-    "inStock": true,
-    "lastSeen": "2026-11-18T00:27:45Z",
-    "product": "ASUS Prime GeForce RTX 5070 Ti OC Edition 16GB GDDR7",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/268305/20823.jpg"
-   },
-   {
-    "shop": "canadacomputers.com",
-    "price": 2129.0,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/powered-by-nvidia/290517/zotac-gaming-geforce-rtx-5070-ti-solid-sff-oc-gddr7-zt-b50710j3-10a.html?keyword=geforce rtx 5070 ti",
-    "inStock": true,
-    "lastSeen": "2026-11-18T00:27:45Z",
-    "product": "ZOTAC GAMING GeForce RTX 5070 Ti SOLID SFF OC GDDR7",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/420/92884.jpg"
-   },
-   {
-    "shop": "canadacomputers.com",
-    "price": 1899.0,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/powered-by-nvidia/268823/gigabyte-geforce-rtx-5070-ti-windforce-oc-sff-16g-graphics-card-gv-n507twf3oc-16gd.html?keyword=geforce rtx 5070 ti",
-    "inStock": false,
-    "lastSeen": "2026-11-18T00:27:45Z",
-    "product": "GIGABYTE GeForce RTX 5070 Ti WINDFORCE OC SFF 16G Graphics Card",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/420/268823/42940.jpg"
-   },
    {
     "shop": "morele.net",
     "price": 6299.0,
@@ -691,96 +661,106 @@
     "lastSeen": "2026-11-19T05:36:19Z",
     "product": "Gigabyte AORUS GeForce RTX 5070 Ti MASTER 16G",
     "image": "https://media.ldlc.com/r150/ld/products/00/06/21/17/LD0006211753.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 1929.0,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/powered-by-nvidia/268906/msi-geforce-rtx-5070-ti-16g-ventus-3x-oc-rtx-5070-ti-16g-ventus-3x-oc.html?keyword=geforce rtx 5070 ti",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "MSI GeForce RTX 5070 Ti 16G VENTUS 3X OC",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/268906/78132.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 1999.0,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/powered-by-nvidia/268304/asus-prime-geforce-rtx-5070-ti-16gb-gddr-prime-rtx5070ti-16g.html?keyword=geforce rtx 5070 ti",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "ASUS Prime GeForce RTX 5070 Ti 16GB GDDR",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/268304/89525.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 1999.0,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/powered-by-nvidia/268819/gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card-gv-n507tgaming-oc-16gd.html?keyword=geforce rtx 5070 ti",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "GIGABYTE GeForce RTX 5070 Ti GAMING OC 16G  Graphics Card",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/420/25554.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 1999.0,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/powered-by-nvidia/268305/asus-prime-geforce-rtx-5070-ti-oc-edition-16gb-gddr7-prime-rtx5070ti-o16g.html?keyword=geforce rtx 5070 ti",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "ASUS Prime GeForce RTX 5070 Ti OC Edition 16GB GDDR7",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/268305/20823.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 2129.0,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/powered-by-nvidia/290517/zotac-gaming-geforce-rtx-5070-ti-solid-sff-oc-gddr7-zt-b50710j3-10a.html?keyword=geforce rtx 5070 ti",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "ZOTAC GAMING GeForce RTX 5070 Ti SOLID SFF OC GDDR7",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/420/92884.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 1899.0,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/powered-by-nvidia/268823/gigabyte-geforce-rtx-5070-ti-windforce-oc-sff-16g-graphics-card-gv-n507twf3oc-16gd.html?keyword=geforce rtx 5070 ti",
+    "inStock": false,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "GIGABYTE GeForce RTX 5070 Ti WINDFORCE OC SFF 16G Graphics Card",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/420/268823/42940.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 1929.0,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/powered-by-nvidia/269441/msi-rtx-5070-ti-16g-shadow-3x-oc-gddr7-triple-fans-rtx-5070-ti-16g-shadow-3x-oc.html?keyword=geforce rtx 5070 ti",
+    "inStock": false,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "MSI RTX 5070 TI 16G SHADOW 3X OC GDDR7 Triple Fans",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/420/269441/52208.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 1929.99,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/powered-by-nvidia/290942/msi-geforce-rtx-5070-ti-16g-ventus-3x-oc-gddr7-triple-fans-rtx-5070-ti-16g-ventus-3x-oc-black.html?keyword=geforce rtx 5070 ti",
+    "inStock": false,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "MSI GeForce RTX 5070 Ti 16G VENTUS 3X OC GDDR7 Triple Fans",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/420/97182.jpg"
+   },
+   {
+    "shop": "amazon.es",
+    "price": 1573.31,
+    "currency": "EUR",
+    "url": "https://www.amazon.es/dp/B0DZD6QV9L?tag=fraym08-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:37:40Z",
+    "product": "MSI GeForce RTX 5070 Ti 16G SHADOW 3X OC - Tarjeta gráfica | 16 GB de GDDR7 (28 Gbps/256 bits), PCIe 5.0 - Diseño térmico (3 x TORX FAN 5.0) - HDMI 2.1b, DisplayPort 2.1b",
+    "image": null
    }
   ],
   "image": "images/gpus-rtx5070ti.jpg",
-  "lastUpdated": "2026-11-19T05:36:19Z"
+  "lastUpdated": "2026-11-19T15:37:40Z"
  },
  {
   "id": "rtx5070",
   "name": "GeForce RTX 5070",
-  "priceMin": 810.0,
+  "priceMin": 814.2,
   "prices": [
-   {
-    "shop": "canadacomputers.com",
-    "price": 1269.0,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/powered-by-nvidia/268827/gigabyte-geforce-rtx-5070-eagle-oc-ice-sff-12g-graphics-card-gv-n5070eagleoc-ice-12gd.html?keyword=geforce rtx 5070",
-    "inStock": true,
-    "lastSeen": "2026-11-18T00:27:45Z",
-    "product": "GIGABYTE GeForce RTX 5070 EAGLE OC ICE SFF 12G Graphics Card",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/420/268827/37642.jpg"
-   },
-   {
-    "shop": "canadacomputers.com",
-    "price": 1299.99,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/powered-by-nvidia/268300/asus-prime-geforce-rtx-5070-12gb-gddr7-graphics-card-prime-rtx5070-12g.html?keyword=geforce rtx 5070",
-    "inStock": true,
-    "lastSeen": "2026-11-18T00:27:45Z",
-    "product": "ASUS Prime GeForce RTX 5070 12GB GDDR7 Graphics Card",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/268300/70283.jpg"
-   },
-   {
-    "shop": "canadacomputers.com",
-    "price": 1299.99,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/powered-by-nvidia/268301/prime-geforce-rtx-5070-oc-edition-12gb-gddr7-prime-rtx5070-o12g.html?keyword=geforce rtx 5070",
-    "inStock": true,
-    "lastSeen": "2026-11-18T00:27:45Z",
-    "product": "Prime GeForce RTX 5070 OC Edition 12GB GDDR7",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/268301/837522.jpg"
-   },
-   {
-    "shop": "canadacomputers.com",
-    "price": 1329.0,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/powered-by-nvidia/268828/gigabyte-geforce-rtx-5070-eagle-oc-sff-12g-graphics-card-gv-n5070eagle-oc-12gd.html?keyword=geforce rtx 5070",
-    "inStock": true,
-    "lastSeen": "2026-11-18T00:27:45Z",
-    "product": "GIGABYTE GeForce RTX 5070 EAGLE OC SFF 12G Graphics Card",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/420/268828/25485.jpg"
-   },
-   {
-    "shop": "canadacomputers.com",
-    "price": 1339.99,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/powered-by-nvidia/269805/msi-geforce-rtx-5070-ventus-3x-oc-gddr7-triple-fans-rtx-5070-12g-ventus-3x-oc.html?keyword=geforce rtx 5070",
-    "inStock": true,
-    "lastSeen": "2026-11-18T00:27:45Z",
-    "product": "MSI GeForce RTX 5070 VENTUS 3X OC GDDR7 Triple Fans",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/420/269805/23369.jpg"
-   },
-   {
-    "shop": "canadacomputers.com",
-    "price": 1369.99,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/powered-by-nvidia/269554/msi-geforce-rtx-5070-12g-gaming-trio-oc-rtx-5070-12g-gaming-trio-oc.html?keyword=geforce rtx 5070",
-    "inStock": true,
-    "lastSeen": "2026-11-18T00:27:45Z",
-    "product": "MSI GeForce RTX 5070 12G GAMING TRIO OC",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/420/269554/43443.jpg"
-   },
-   {
-    "shop": "canadacomputers.com",
-    "price": 1259.0,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/powered-by-nvidia/268829/gigabyte-geforce-rtx-5070-windforce-oc-sff-12g-graphics-card-gv-n5070wf3oc-12gd.html?keyword=geforce rtx 5070",
-    "inStock": false,
-    "lastSeen": "2026-11-18T00:27:45Z",
-    "product": "GIGABYTE GeForce RTX 5070 WINDFORCE OC SFF 12G Graphics Card",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/420/268829/71847.jpg"
-   },
-   {
-    "shop": "canadacomputers.com",
-    "price": 1299.0,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/powered-by-nvidia/268826/gigabyte-geforce-rtx-5070-gaming-oc-12g-graphics-card-gv-n5070gaming-oc-12gd.html?keyword=geforce rtx 5070",
-    "inStock": false,
-    "lastSeen": "2026-11-18T00:27:45Z",
-    "product": "GIGABYTE GeForce RTX 5070 GAMING OC 12G Graphics Card",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/420/268826/84350.jpg"
-   },
    {
     "shop": "amazon.it",
     "price": 818.85,
@@ -870,16 +850,6 @@
     "lastSeen": "2026-11-18T23:53:24Z",
     "product": "Karta graficzna MSI GeForce RTX 5070 Gaming Trio OC 12GB GDDR7 DLSS4",
     "image": "https://images.morele.net/i256/14727986_0_i256.jpg"
-   },
-   {
-    "shop": "amazon.es",
-    "price": 825.62,
-    "currency": "EUR",
-    "url": "https://www.amazon.es/dp/B0DYPFY7JG?tag=fraym08-21",
-    "inStock": true,
-    "lastSeen": "2026-11-19T00:33:03Z",
-    "product": "ASUS Prime GeForce RTX 5070 OC Edition 12GB GDDR7 - Tarjeta gráfica SFF-Ready (PCIe 5.0, 12GB GDDR7, HDMI/DP 2.1, 2.5 Ranuras, Ventiladores Axial-Tech, Dual BIOS)",
-    "image": null
    },
    {
     "shop": "materiel.net",
@@ -1042,28 +1012,118 @@
     "image": "https://media.ldlc.com/r150/ld/products/00/06/22/00/LD0006220078.jpg"
    },
    {
+    "shop": "canadacomputers.com",
+    "price": 1269.0,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/powered-by-nvidia/268827/gigabyte-geforce-rtx-5070-eagle-oc-ice-sff-12g-graphics-card-gv-n5070eagleoc-ice-12gd.html?keyword=geforce rtx 5070",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "GIGABYTE GeForce RTX 5070 EAGLE OC ICE SFF 12G Graphics Card",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/420/268827/37642.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 1299.99,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/powered-by-nvidia/268300/asus-prime-geforce-rtx-5070-12gb-gddr7-graphics-card-prime-rtx5070-12g.html?keyword=geforce rtx 5070",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "ASUS Prime GeForce RTX 5070 12GB GDDR7 Graphics Card",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/268300/70283.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 1299.99,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/powered-by-nvidia/268301/prime-geforce-rtx-5070-oc-edition-12gb-gddr7-prime-rtx5070-o12g.html?keyword=geforce rtx 5070",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "Prime GeForce RTX 5070 OC Edition 12GB GDDR7",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/268301/837522.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 1329.0,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/powered-by-nvidia/268828/gigabyte-geforce-rtx-5070-eagle-oc-sff-12g-graphics-card-gv-n5070eagle-oc-12gd.html?keyword=geforce rtx 5070",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "GIGABYTE GeForce RTX 5070 EAGLE OC SFF 12G Graphics Card",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/420/268828/25485.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 1339.99,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/powered-by-nvidia/269805/msi-geforce-rtx-5070-ventus-3x-oc-gddr7-triple-fans-rtx-5070-12g-ventus-3x-oc.html?keyword=geforce rtx 5070",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "MSI GeForce RTX 5070 VENTUS 3X OC GDDR7 Triple Fans",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/420/269805/23369.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 1369.99,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/powered-by-nvidia/269554/msi-geforce-rtx-5070-12g-gaming-trio-oc-rtx-5070-12g-gaming-trio-oc.html?keyword=geforce rtx 5070",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "MSI GeForce RTX 5070 12G GAMING TRIO OC",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/420/269554/43443.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 1259.0,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/powered-by-nvidia/268829/gigabyte-geforce-rtx-5070-windforce-oc-sff-12g-graphics-card-gv-n5070wf3oc-12gd.html?keyword=geforce rtx 5070",
+    "inStock": false,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "GIGABYTE GeForce RTX 5070 WINDFORCE OC SFF 12G Graphics Card",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/420/268829/71847.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 1299.0,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/powered-by-nvidia/268826/gigabyte-geforce-rtx-5070-gaming-oc-12g-graphics-card-gv-n5070gaming-oc-12gd.html?keyword=geforce rtx 5070",
+    "inStock": false,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "GIGABYTE GeForce RTX 5070 GAMING OC 12G Graphics Card",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/420/268826/84350.jpg"
+   },
+   {
+    "shop": "amazon.es",
+    "price": 825.62,
+    "currency": "EUR",
+    "url": "https://www.amazon.es/dp/B0DYPFY7JG?tag=fraym08-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:44:38Z",
+    "product": "ASUS Prime GeForce RTX 5070 OC Edition 12GB GDDR7 - Tarjeta gráfica SFF-Ready (PCIe 5.0, 12GB GDDR7, HDMI/DP 2.1, 2.5 Ranuras, Ventiladores Axial-Tech, Dual BIOS)",
+    "image": null
+   },
+   {
     "shop": "amazon.de",
-    "price": 810.0,
+    "price": 814.2,
     "currency": "EUR",
     "url": "https://www.amazon.de/dp/B0DYPFY7JG?tag=fraym03-21",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:04:20Z",
+    "lastSeen": "2026-11-19T15:46:52Z",
     "product": "ASUS PRIME GeForce RTX 5070 12GB GDDR7 OC Edition Gaming Grafikkarte | NVIDIA Blackwell Architektur und DLSS 4, 2,5-Slot Design, SSF, PCIe 5.0, 3x DisplayPort 2.1b, 1x HDMI 2.1b",
     "image": null
    },
    {
     "shop": "amazon.com",
-    "price": 1224.01,
+    "price": 1230.26,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0DYPFY7JG?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:13:29Z",
+    "lastSeen": "2026-11-19T15:51:42Z",
     "product": "ASUS Prime GeForce RTX 5070 12GB GDDR7 OC Edition Gaming Graphics Card | SFF-Ready, PCIe 5.0, HDMI/DP 2.1, 2.5-slot, Axis technology Fans, Dual BIOS : Electronics",
     "image": null
    }
   ],
   "image": "images/gpus-rtx5070.jpg",
-  "lastUpdated": "2026-11-19T06:13:29Z"
+  "lastUpdated": "2026-11-19T15:51:42Z"
  },
  {
   "id": "rtx5060ti",
@@ -1139,16 +1199,6 @@
     "lastSeen": "2026-11-18T23:53:24Z",
     "product": "Karta graficzna MSI GeForce RTX 5060 Ti Gaming Trio OC White 16GB GDDR7 DLSS4",
     "image": "https://images.morele.net/i256/14848090_10_i256.jpg"
-   },
-   {
-    "shop": "amazon.es",
-    "price": 1207.56,
-    "currency": "EUR",
-    "url": "https://www.amazon.es/dp/B0F8BR2H6Z?tag=fraym08-21",
-    "inStock": true,
-    "lastSeen": "2026-11-19T00:33:01Z",
-    "product": "MSI GeForce RTX 5060 Ti 16G Shadow 2X OC Plus - Tarjeta gráfica RTX 5060 Ti, 16GB GDDR7, 28 Gbps/128-bit, PCIe 5.0, Diseño de Doble Ventilador Stormforce Fan, HDMI 2.1b",
-    "image": null
    },
    {
     "shop": "materiel.net",
@@ -1289,10 +1339,20 @@
     "lastSeen": "2026-11-19T06:04:44Z",
     "product": "MSI GeForce RTX 5060 Ti 16G SHADOW 2X OC PLUS Graphics Card | RTX 5060 Ti GPU, 16GB GDDR7 (28Gbps/128-bit), PCIe 5 - Dual-Fan Thermal Design (2 x STORMFORCE FAN) - HDMI 2.1b, DP 2.1b",
     "image": null
+   },
+   {
+    "shop": "amazon.es",
+    "price": 1212.81,
+    "currency": "EUR",
+    "url": "https://www.amazon.es/dp/B0F8BR2H6Z?tag=fraym08-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:44:36Z",
+    "product": "MSI GeForce RTX 5060 Ti 16G Shadow 2X OC Plus - Tarjeta gráfica RTX 5060 Ti, 16GB GDDR7, 28 Gbps/128-bit, PCIe 5.0, Diseño de Doble Ventilador Stormforce Fan, HDMI 2.1b",
+    "image": null
    }
   ],
   "image": "images/gpus-rtx5060ti.jpg",
-  "lastUpdated": "2026-11-19T06:04:44Z"
+  "lastUpdated": "2026-11-19T15:44:36Z"
  },
  {
   "id": "rtx5060",
@@ -1358,16 +1418,6 @@
     "lastSeen": "2026-11-18T00:27:45Z",
     "product": "MSI GeForce RTX 5060 8G GAMING TRIO OC, GDDR7 8GB, PCI-E 5.0, 128 bit",
     "image": "https://ccimg.canadacomputers.com/Products/800x800/230/420/272909/51601.jpg"
-   },
-   {
-    "shop": "amazon.es",
-    "price": 578.5,
-    "currency": "EUR",
-    "url": "https://www.amazon.es/dp/B0F6NLT7M4?tag=fraym08-21",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:47:42Z",
-    "product": "GIGABYTE GeForce RTX 5060 WINDFORCE OC 8G Tarjeta Gráfica - 8GB GDDR7, 128bit, PCI-E 5.0, 2512 MHz Frecuencia del núcleo, 3 x DisplayPort, 1 x HDMI, GV-N5060WF2OC-8GD",
-    "image": null
    },
    {
     "shop": "morele.net",
@@ -1618,26 +1668,26 @@
     "lastSeen": "2026-11-19T06:05:49Z",
     "product": "Gigabyte GeForce RTX 5060 WINDFORCE OC 8G Graphics Card - 8GB GDDR7, 128bit, PCI-E 5.0, 2512 MHz Core Clock, 3 x DisplayPort, 1 x HDMI, GV-N5060WF2OC-8GD",
     "image": null
+   },
+   {
+    "shop": "amazon.es",
+    "price": 578.5,
+    "currency": "EUR",
+    "url": "https://www.amazon.es/dp/B0F6NLT7M4?tag=fraym08-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:39:13Z",
+    "product": "GIGABYTE GeForce RTX 5060 WINDFORCE OC 8G Tarjeta Gráfica - 8GB GDDR7, 128bit, PCI-E 5.0, 2512 MHz Frecuencia del núcleo, 3 x DisplayPort, 1 x HDMI, GV-N5060WF2OC-8GD",
+    "image": null
    }
   ],
   "image": "images/gpus-rtx5060.jpg",
-  "lastUpdated": "2026-11-19T06:05:49Z"
+  "lastUpdated": "2026-11-19T15:39:13Z"
  },
  {
   "id": "rtx4080",
   "name": "GeForce RTX 4080",
   "priceMin": 1989.81,
   "prices": [
-   {
-    "shop": "canadacomputers.com",
-    "price": 4249.0,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/gaming-laptops/259772/msi-raider-18-hx-17-i9-14900hx-rtx-4080-32gb-1tb-win11home-raider-18-hx-a14vhg-431ca.html?keyword=geforce rtx 4080",
-    "inStock": true,
-    "lastSeen": "2026-11-18T00:27:45Z",
-    "product": "MSI Raider 18 HX 17\" i9-14900HX RTX 4080 32GB 1TB WIN11Home",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/135/4187/259772/46648.jpg"
-   },
    {
     "shop": "amazon.it",
     "price": 4623.49,
@@ -1649,18 +1699,28 @@
     "image": null
    },
    {
+    "shop": "canadacomputers.com",
+    "price": 4249.0,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/gaming-laptops/259772/msi-raider-18-hx-17-i9-14900hx-rtx-4080-32gb-1tb-win11home-raider-18-hx-a14vhg-431ca.html?keyword=geforce rtx 4080",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "MSI Raider 18 HX 17\" i9-14900HX RTX 4080 32GB 1TB WIN11Home",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/135/4187/259772/46648.jpg"
+   },
+   {
     "shop": "amazon.com",
     "price": 2149.0,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0BKK3RFT6?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:15:17Z",
+    "lastSeen": "2026-11-19T15:53:15Z",
     "product": "ZOTAC Gaming GeForce RTX 4080 16GB AMP Extreme AIRO 16GB GDDR6X 256-bit 22.4 Gbps PCIE 4.0 Gaming Graphics Card, IceStorm 2.0 Advanced Cooling, Spectra 2.0 RGB Lighting, ZT-D40810B-10P : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-19T06:15:17Z"
+  "lastUpdated": "2026-11-19T15:53:15Z"
  },
  {
   "id": "rtx4070ti",
@@ -1673,59 +1733,19 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0BZZML1LG?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:15:13Z",
+    "lastSeen": "2026-11-19T15:53:12Z",
     "product": "GIGABYTE GeForce RTX 4070 TI WINDFORCE OC 12GB Graphics Card - 12GB DDRX6 21Gbps, PCI-E 4.0, 3 x DP 1.4a, HDMI 2.1a, NVIDIA DLSS 3, Ada Lovelace Arch, GV-N407TWF3OC-12GD : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-19T06:15:13Z"
+  "lastUpdated": "2026-11-19T15:53:12Z"
  },
  {
   "id": "rtx4060ti",
   "name": "GeForce RTX 4060 Ti",
   "priceMin": 497.43,
   "prices": [
-   {
-    "shop": "amazon.fr",
-    "price": 887.71,
-    "currency": "EUR",
-    "url": "https://www.amazon.fr/dp/B0CVPHDLTD?tag=fraym-21",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:43:28Z",
-    "product": "ASUS Dual GeForce RTX™ 4060 Ti Evo OC Edition 8 Go GDDR6 (PCIe 4.0, 8 Go GDDR6, DLSS 3, HDMI 2.1a, DisplayPort 1.4a, Conception de Ventilateur axial-Tech, Technologie 0dB, Plaque arrière de",
-    "image": null
-   },
-   {
-    "shop": "amazon.it",
-    "price": 909.51,
-    "currency": "EUR",
-    "url": "https://www.amazon.it/dp/B0CVPHDLTD?tag=fraym06-21",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:44:00Z",
-    "product": "ASUS Dual GeForce RTX™ 4060 Ti EVO OC Edition 8GB GDDR6 (PCIe 4.0, 8GB GDDR6, DLSS 3, HDMI 2.1a, DisplayPort 1.4a, design ventola Axial-tech, tecnologia 0dB, piastra posteriore protettiva, tecnologia",
-    "image": null
-   },
-   {
-    "shop": "amazon.es",
-    "price": 897.76,
-    "currency": "EUR",
-    "url": "https://www.amazon.es/dp/B0CVPHDLTD?tag=fraym08-21",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:47:11Z",
-    "product": "ASUS Dual GeForce RTX™ 4060 Ti EVO OC Edition 8GB GDDR6 (PCIe 4.0, 8GB GDDR6, DLSS 3, HDMI 2.1a, DisplayPort 1.4a, diseño de ventilador Axial-Tech, tecnología 0dB, placa trasera protectora, tecnología",
-    "image": null
-   },
-   {
-    "shop": "amazon.com",
-    "price": 537.22,
-    "currency": "USD",
-    "url": "https://www.amazon.com/dp/B0CVPHDLTD?tag=fraym-20",
-    "inStock": true,
-    "lastSeen": "2026-11-19T00:25:53Z",
-    "product": "ASUS Dual GeForce RTX 4060 Ti EVO OC Edition 8GB GDDR6 (PCIe 4.0, 8GB GDDR6, DLSS 3, HDMI 2.1a, DisplayPort 1.4a, Axial-tech Fan Design, Auto-Extreme Technology), 3 Year Warranty : Electronics",
-    "image": null
-   },
    {
     "shop": "amazon.de",
     "price": 877.8,
@@ -1735,10 +1755,50 @@
     "lastSeen": "2026-11-19T06:01:30Z",
     "product": "ASUS Dual GeForce RTX™ 4060 Ti EVO OC Edition 8GB GDDR6",
     "image": null
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 887.71,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B0CVPHDLTD?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:38:04Z",
+    "product": "ASUS Dual GeForce RTX™ 4060 Ti Evo OC Edition 8 Go GDDR6 (PCIe 4.0, 8 Go GDDR6, DLSS 3, HDMI 2.1a, DisplayPort 1.4a, Conception de Ventilateur axial-Tech, Technologie 0dB, Plaque arrière de",
+    "image": null
+   },
+   {
+    "shop": "amazon.it",
+    "price": 909.51,
+    "currency": "EUR",
+    "url": "https://www.amazon.it/dp/B0CVPHDLTD?tag=fraym06-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:38:26Z",
+    "product": "ASUS Dual GeForce RTX™ 4060 Ti EVO OC Edition 8GB GDDR6 (PCIe 4.0, 8GB GDDR6, DLSS 3, HDMI 2.1a, DisplayPort 1.4a, design ventola Axial-tech, tecnologia 0dB, piastra posteriore protettiva, tecnologia",
+    "image": null
+   },
+   {
+    "shop": "amazon.es",
+    "price": 897.76,
+    "currency": "EUR",
+    "url": "https://www.amazon.es/dp/B0CVPHDLTD?tag=fraym08-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:39:01Z",
+    "product": "ASUS Dual GeForce RTX™ 4060 Ti EVO OC Edition 8GB GDDR6 (PCIe 4.0, 8GB GDDR6, DLSS 3, HDMI 2.1a, DisplayPort 1.4a, diseño de ventilador Axial-Tech, tecnología 0dB, placa trasera protectora, tecnología",
+    "image": null
+   },
+   {
+    "shop": "amazon.com",
+    "price": 537.22,
+    "currency": "USD",
+    "url": "https://www.amazon.com/dp/B0CVPHDLTD?tag=fraym-20",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:43:06Z",
+    "product": "ASUS Dual GeForce RTX 4060 Ti EVO OC Edition 8GB GDDR6 (PCIe 4.0, 8GB GDDR6, DLSS 3, HDMI 2.1a, DisplayPort 1.4a, Axial-tech Fan Design, Auto-Extreme Technology), 3 Year Warranty : Electronics",
+    "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-19T06:01:30Z"
+  "lastUpdated": "2026-11-19T15:43:06Z"
  },
  {
   "id": "rtx4060",
@@ -1754,16 +1814,6 @@
     "lastSeen": "2026-11-18T23:53:24Z",
     "product": "Karta graficzna PNY GeForce RTX 4060 Verto Dual 8GB GDDR6 (VCG40608DFXPB1)",
     "image": "https://images.morele.net/i256/12971656_0_i256.jpg"
-   },
-   {
-    "shop": "amazon.co.uk",
-    "price": 790.51,
-    "currency": "GBP",
-    "url": "https://www.amazon.co.uk/dp/B0C7W8GZMJ?tag=fraym0a-21",
-    "inStock": true,
-    "lastSeen": "2026-11-19T00:29:07Z",
-    "product": "MSI GeForce RTX 4060 VENTUS 2X BLACK 8G OC Gaming Graphics Card - 8GB GDDR6X, PCI Express Gen 4, 128-bit, 3x DP v 1.4a, HDMI 2.1a (Supports 4K & 8K HDR)",
-    "image": null
    },
    {
     "shop": "amazon.es",
@@ -1796,18 +1846,28 @@
     "image": null
    },
    {
+    "shop": "amazon.co.uk",
+    "price": 790.51,
+    "currency": "GBP",
+    "url": "https://www.amazon.co.uk/dp/B0C7W8GZMJ?tag=fraym0a-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:44:15Z",
+    "product": "MSI GeForce RTX 4060 VENTUS 2X BLACK 8G OC Gaming Graphics Card - 8GB GDDR6X, PCI Express Gen 4, 128-bit, 3x DP v 1.4a, HDMI 2.1a (Supports 4K & 8K HDR)",
+    "image": null
+   },
+   {
     "shop": "amazon.com",
     "price": 437.22,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0C7W8GZMJ?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:15:07Z",
+    "lastSeen": "2026-11-19T15:53:08Z",
     "product": "MSI GeForce RTX 4060 Ventus 2X Black 8G OC Gaming Graphics Card - 8GB GDDR6X, PCI Express Gen 4, 128-bit, 3X DP v 1.4a, HDMI 2.1a (Supports 4K & 8K HDR) : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-19T06:15:07Z"
+  "lastUpdated": "2026-11-19T15:53:08Z"
  },
  {
   "id": "rtx3090",
@@ -1846,7 +1906,7 @@
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-19T06:16:05Z"
+  "lastUpdated": "2026-11-19T15:53:59Z"
  },
  {
   "id": "rtx3080ti",
@@ -1869,29 +1929,19 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0957TV4YR?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:16:26Z",
+    "lastSeen": "2026-11-19T15:54:18Z",
     "product": "MSI GeForce RTX 3080 Ti Gaming X Trio 12G Gaming Graphics Card - 12GB GDDR6X, 1770 MHz, PCI Express Gen 4, 384-bit, 3X DP v 1.4a, HDMI 2.1 (Supports 4K) : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-19T06:16:26Z"
+  "lastUpdated": "2026-11-19T15:54:18Z"
  },
  {
   "id": "rtx3080",
   "name": "GeForce RTX 3080",
-  "priceMin": 657.1,
+  "priceMin": 748.14,
   "prices": [
-   {
-    "shop": "amazon.fr",
-    "price": 807.42,
-    "currency": "EUR",
-    "url": "https://www.amazon.fr/dp/B099ZC8H3G?tag=fraym-21",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:43:24Z",
-    "product": "ASUS TUF Gaming NVIDIA GeForce RTX 3080 V2 OC Edition Carte graphique (PCIe 4.0, GDDR6X, LHR, HDMI 2.1, DisplayPort 1.4a, double roulement à billes, certification militaire GPU Tweak II)",
-    "image": null
-   },
    {
     "shop": "morele.net",
     "price": 3216.99,
@@ -1913,18 +1963,18 @@
     "image": "https://images.morele.net/i256/5946829_0_i256.jpg"
    },
    {
-    "shop": "amazon.com",
-    "price": 709.67,
-    "currency": "USD",
-    "url": "https://www.amazon.com/dp/B099ZC8H3G?tag=fraym-20",
+    "shop": "amazon.fr",
+    "price": 807.42,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B099ZC8H3G?tag=fraym-21",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:16:25Z",
-    "product": "ASUS TUF Gaming NVIDIA GeForce RTX 3080 V2 OC Edition Graphics Card (PCIe 4.0, 10GB GDDR6X, LHR, HDMI 2.1, DisplayPort 1.4a, Dual Ball Fan Bearings, Military-Grade Certification, GPU Tweak II) : Electronics",
+    "lastSeen": "2026-11-19T15:38:02Z",
+    "product": "ASUS TUF Gaming NVIDIA GeForce RTX 3080 V2 OC Edition Carte graphique (PCIe 4.0, GDDR6X, LHR, HDMI 2.1, DisplayPort 1.4a, double roulement à billes, certification militaire GPU Tweak II)",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-19T06:16:25Z"
+  "lastUpdated": "2026-11-19T15:38:02Z"
  },
  {
   "id": "rtx3070ti",
@@ -1952,36 +2002,6 @@
     "image": "https://images.morele.net/i256/8679904_9_i256.jpg"
    },
    {
-    "shop": "amazon.it",
-    "price": 1083.01,
-    "currency": "EUR",
-    "url": "https://www.amazon.it/dp/B0957VHM86?tag=fraym06-21",
-    "inStock": true,
-    "lastSeen": "2026-11-19T00:18:34Z",
-    "product": "MSI GeForce RTX 3070 Ti VENTUS 3X 8G OC Scheda video gaming - 8GB GDDR6X, 1800 MHz, PCI Express Gen 4, 256-bit, 3x DP v 1.4a, HDMI 2.1 (Supporta 4K)",
-    "image": null
-   },
-   {
-    "shop": "amazon.co.uk",
-    "price": 900.0,
-    "currency": "GBP",
-    "url": "https://www.amazon.co.uk/dp/B0957VHM86?tag=fraym0a-21",
-    "inStock": true,
-    "lastSeen": "2026-11-19T00:29:05Z",
-    "product": "MSI GeForce RTX 3070 Ti VENTUS 3X 8G OC Gaming Graphics Card - 8GB GDDR6X, 1800 MHz, PCI Express Gen 4, 256 bit, 3x DP v 1.4a, HDMI 2.1 (Supports 4K)",
-    "image": null
-   },
-   {
-    "shop": "amazon.fr",
-    "price": 1122.27,
-    "currency": "EUR",
-    "url": "https://www.amazon.fr/dp/B0957VHM86?tag=fraym-21",
-    "inStock": true,
-    "lastSeen": "2026-11-19T06:01:37Z",
-    "product": "MSI RTX 3070 TI Ventus 3X 8G OC Carte Graphique NVIDIA GeForce RTX 3070 Ti 8 Go GDDR6X Gris",
-    "image": null
-   },
-   {
     "shop": "amazon.es",
     "price": 1000.0,
     "currency": "EUR",
@@ -1992,18 +2012,48 @@
     "image": null
    },
    {
+    "shop": "amazon.it",
+    "price": 1083.01,
+    "currency": "EUR",
+    "url": "https://www.amazon.it/dp/B0957VHM86?tag=fraym06-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:41:12Z",
+    "product": "MSI GeForce RTX 3070 Ti VENTUS 3X 8G OC Scheda video gaming - 8GB GDDR6X, 1800 MHz, PCI Express Gen 4, 256-bit, 3x DP v 1.4a, HDMI 2.1 (Supporta 4K)",
+    "image": null
+   },
+   {
+    "shop": "amazon.co.uk",
+    "price": 900.0,
+    "currency": "GBP",
+    "url": "https://www.amazon.co.uk/dp/B0957VHM86?tag=fraym0a-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:44:14Z",
+    "product": "MSI GeForce RTX 3070 Ti VENTUS 3X 8G OC Gaming Graphics Card - 8GB GDDR6X, 1800 MHz, PCI Express Gen 4, 256 bit, 3x DP v 1.4a, HDMI 2.1 (Supports 4K)",
+    "image": null
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 1000.0,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B0957VHM86?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:45:13Z",
+    "product": "MSI RTX 3070 TI Ventus 3X 8G OC Carte Graphique NVIDIA GeForce RTX 3070 Ti 8 Go GDDR6X Gris",
+    "image": null
+   },
+   {
     "shop": "amazon.com",
     "price": 880.0,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0957VHM86?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:15:06Z",
+    "lastSeen": "2026-11-19T15:53:06Z",
     "product": "MSI GeForce RTX 3070 Ti Ventus 3X 8G OC Gaming Graphics Card - 8GB GDDR6X, 1800 MHz, PCI Express Gen 4, 256 bit, 3X DP v 1.4a, HDMI 2.1 (Supports 4K) : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-19T06:15:06Z"
+  "lastUpdated": "2026-11-19T15:53:06Z"
  },
  {
   "id": "rtx3070",
@@ -2055,29 +2105,19 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B08PW559LL?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:15:04Z",
+    "lastSeen": "2026-11-19T15:53:05Z",
     "product": "Geforce Nvidia RTX 3060ti Founders Edition 8GB : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-19T06:15:04Z"
+  "lastUpdated": "2026-11-19T15:53:05Z"
  },
  {
   "id": "rtx3060",
   "name": "GeForce RTX 3060",
   "priceMin": 430.23,
   "prices": [
-   {
-    "shop": "canadacomputers.com",
-    "price": 649.99,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/powered-by-nvidia/242414/gigabyte-geforce-rtx-3060-windforce-oc-12g-rev-2-0-gddr6-graphics-card-gv-n3060wf2oc-12gd-g20.html?keyword=geforce rtx 3060",
-    "inStock": false,
-    "lastSeen": "2026-11-18T00:27:45Z",
-    "product": "GIGABYTE GeForce RTX 3060 WINDFORCE OC 12G (rev. 2.0) GDDR6 Graphics Card",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/522/242414/25363.jpg"
-   },
    {
     "shop": "amazon.it",
     "price": 862.41,
@@ -2229,34 +2269,34 @@
     "image": "https://media.ldlc.com/r150/ld/products/00/05/78/80/LD0005788028_1.jpg"
    },
    {
+    "shop": "canadacomputers.com",
+    "price": 649.99,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/powered-by-nvidia/242414/gigabyte-geforce-rtx-3060-windforce-oc-12g-rev-2-0-gddr6-graphics-card-gv-n3060wf2oc-12gd-g20.html?keyword=geforce rtx 3060",
+    "inStock": false,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "GIGABYTE GeForce RTX 3060 WINDFORCE OC 12G (rev. 2.0) GDDR6 Graphics Card",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/522/242414/25363.jpg"
+   },
+   {
     "shop": "amazon.com",
     "price": 533.8,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B08WHML7GL?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:15:03Z",
+    "lastSeen": "2026-11-19T15:53:03Z",
     "product": "MSI Geforce RTX 3060 Gaming X, 12gb, Gddr6, 192-bit, 912-v397-019 Video Card, Model: V397-019R : Electronics",
     "image": null
    }
   ],
   "image": "images/gpus-rtx3060.jpg",
-  "lastUpdated": "2026-11-19T06:15:03Z"
+  "lastUpdated": "2026-11-19T15:53:03Z"
  },
  {
   "id": "rx7600",
   "name": "Radeon RX 7600",
   "priceMin": 358.93,
   "prices": [
-   {
-    "shop": "canadacomputers.com",
-    "price": 579.99,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/powered-by-amd/241115/gigabyte-radeon-rx-7600-gaming-oc-8gb-gddr6-graphics-card-gv-r76gaming-oc-8gd.html?keyword=radeon rx 7600",
-    "inStock": true,
-    "lastSeen": "2026-11-18T00:27:45Z",
-    "product": "GIGABYTE Radeon RX 7600 GAMING OC 8GB GDDR6 Graphics Card",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/522/241115/23544.jpg"
-   },
    {
     "shop": "morele.net",
     "price": 1799.0,
@@ -2286,26 +2326,6 @@
     "lastSeen": "2026-11-18T23:53:24Z",
     "product": "Karta graficzna Gigabyte Radeon RX 7600 Gaming OC 8GB GDDR6 (GV-R76GAMING OC-8GD)",
     "image": "https://images.morele.net/i256/12899799_1_i256.jpg"
-   },
-   {
-    "shop": "amazon.fr",
-    "price": 444.47,
-    "currency": "EUR",
-    "url": "https://www.amazon.fr/dp/B0DR25XD68?tag=fraym-21",
-    "inStock": true,
-    "lastSeen": "2026-11-19T00:18:37Z",
-    "product": "XFX Speedster SWFT210 Radeon RX 7600 Carte graphique avec 8 Go GDDR6 HDMI 3 x DP, AMD RDNA 3 RX-76PSWFTFA",
-    "image": null
-   },
-   {
-    "shop": "amazon.it",
-    "price": 461.16,
-    "currency": "EUR",
-    "url": "https://www.amazon.it/dp/B0DR25XD68?tag=fraym06-21",
-    "inStock": true,
-    "lastSeen": "2026-11-19T00:19:03Z",
-    "product": "XFX Speedster SWFT210 - Scheda grafica Radeon RX 7600 con 8 GB GDDR6 HDMI 3xDP, AMD RDNA 3 RX-76PSWFTFA",
-    "image": null
    },
    {
     "shop": "amazon.de",
@@ -2388,12 +2408,42 @@
     "image": "https://media.ldlc.com/r150/ld/products/00/06/04/00/LD0006040071.jpg"
    },
    {
+    "shop": "canadacomputers.com",
+    "price": 579.99,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/powered-by-amd/241115/gigabyte-radeon-rx-7600-gaming-oc-8gb-gddr6-graphics-card-gv-r76gaming-oc-8gd.html?keyword=radeon rx 7600",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "GIGABYTE Radeon RX 7600 GAMING OC 8GB GDDR6 Graphics Card",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/522/241115/23544.jpg"
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 444.47,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B0DR25XD68?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:40:51Z",
+    "product": "XFX Speedster SWFT210 Radeon RX 7600 Carte graphique avec 8 Go GDDR6 HDMI 3 x DP, AMD RDNA 3 RX-76PSWFTFA",
+    "image": null
+   },
+   {
+    "shop": "amazon.it",
+    "price": 461.16,
+    "currency": "EUR",
+    "url": "https://www.amazon.it/dp/B0DR25XD68?tag=fraym06-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:41:42Z",
+    "product": "XFX Speedster SWFT210 - Scheda grafica Radeon RX 7600 con 8 GB GDDR6 HDMI 3xDP, AMD RDNA 3 RX-76PSWFTFA",
+    "image": null
+   },
+   {
     "shop": "amazon.co.uk",
     "price": 368.84,
     "currency": "GBP",
     "url": "https://www.amazon.co.uk/dp/B0DR25XD68?tag=fraym0a-21",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:01:16Z",
+    "lastSeen": "2026-11-19T15:44:33Z",
     "product": "XFX Speedster SWFT210 Radeon RX 7600 Graphics Card with 8GB GDDR6 HDMI 3xDP, AMD RDNA 3 RX-76PSWFTFA",
     "image": null
    },
@@ -2403,109 +2453,19 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0DR25XD68?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:15:23Z",
+    "lastSeen": "2026-11-19T15:53:20Z",
     "product": "XFX Speedster SWFT210 Radeon RX 7600 Graphics Card with 8GB GDDR6 HDMI 3xDP, AMD RDNA 3 RX-76PSWFTFA : Electronics",
     "image": null
    }
   ],
   "image": "images/gpus-rx7600.jpg",
-  "lastUpdated": "2026-11-19T06:15:23Z"
+  "lastUpdated": "2026-11-19T15:53:20Z"
  },
  {
   "id": "rx9070xt",
   "name": "Radeon RX 9070 XT",
   "priceMin": 800.37,
   "prices": [
-   {
-    "shop": "canadacomputers.com",
-    "price": 1349.99,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/powered-by-amd/267624/gigabyte-radeon-rx-9070-xt-gaming-oc-gddr6-triple-fans-gv-r9070xtgaming-oc-16gd.html?keyword=radeon rx 9070 xt",
-    "inStock": true,
-    "lastSeen": "2026-11-18T00:27:45Z",
-    "product": "GIGABYTE Radeon RX 9070 XT GAMING OC GDDR6 Triple Fans",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/419/267624/760257.jpg"
-   },
-   {
-    "shop": "canadacomputers.com",
-    "price": 1399.0,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/powered-by-amd/269139/sapphire-pulse-amd-radeon-rx-9070-xt-16gb-gddr6-11348-03-20g.html?keyword=radeon rx 9070 xt",
-    "inStock": true,
-    "lastSeen": "2026-11-18T00:27:45Z",
-    "product": "SAPPHIRE PULSE AMD RADEON RX 9070 XT 16GB GDDR6",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/419/269139/18117.jpg"
-   },
-   {
-    "shop": "canadacomputers.com",
-    "price": 1399.0,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/powered-by-amd/268988/xfx-swift-amd-radeon-rx-9070-xt-white-triple-fan-gaming-edition-with-16gb-gddr6-rx-97tswf3w9.html?keyword=radeon rx 9070 xt",
-    "inStock": true,
-    "lastSeen": "2026-11-18T00:27:45Z",
-    "product": "XFX Swift AMD Radeon RX 9070 XT White Triple fan Gaming Edition with 16GB GDDR6",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/419/268988/12966.jpg"
-   },
-   {
-    "shop": "canadacomputers.com",
-    "price": 1449.0,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/powered-by-amd/269136/sapphire-pure-amd-radeon-rx-9070-xt-16gb-gddr6-11348-02-20g.html?keyword=radeon rx 9070 xt",
-    "inStock": true,
-    "lastSeen": "2026-11-18T00:27:45Z",
-    "product": "SAPPHIRE PURE AMD RADEON RX 9070 XT 16GB GDDR6",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/419/269136/13149.jpg"
-   },
-   {
-    "shop": "canadacomputers.com",
-    "price": 1499.0,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/powered-by-amd/269135/sapphire-nitro-amd-radeon-rx-9070-xt-16gb-gddr6-11348-01-20g.html?keyword=radeon rx 9070 xt",
-    "inStock": true,
-    "lastSeen": "2026-11-18T00:27:45Z",
-    "product": "SAPPHIRE NITRO+ AMD RADEON RX 9070 XT 16GB GDDR6",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/419/269135/59518.jpg"
-   },
-   {
-    "shop": "canadacomputers.com",
-    "price": 1499.0,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/powered-by-amd/280858/xfx-swift-amd-radeon-rx-9070-xt-triple-fan-gaming-edition-black-rx-97tswf3b9.html?keyword=radeon rx 9070 xt",
-    "inStock": true,
-    "lastSeen": "2026-11-18T00:27:45Z",
-    "product": "XFX Swift AMD Radeon RX 9070 XT Triple fan Gaming Edition - Black",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/419/280858/70590.jpg"
-   },
-   {
-    "shop": "canadacomputers.com",
-    "price": 1499.0,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/powered-by-amd/282569/gigabyte-radeon-rx-9070-xt-gaming-oc-ice-gddr6-triple-fans-gv-r907xgamingocice-16gd.html?keyword=radeon rx 9070 xt",
-    "inStock": true,
-    "lastSeen": "2026-11-18T00:27:45Z",
-    "product": "GIGABYTE Radeon RX 9070 XT GAMING OC ICE GDDR6 Triple Fans",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/282569/86795.jpg"
-   },
-   {
-    "shop": "canadacomputers.com",
-    "price": 1539.99,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/powered-by-amd/267968/asus-prime-radeon-rx-9070-xt-oc-edition-gddr6-triple-fans-prime-rx9070xt-o16g.html?keyword=radeon rx 9070 xt",
-    "inStock": true,
-    "lastSeen": "2026-11-18T00:27:45Z",
-    "product": "ASUS Prime Radeon RX 9070 XT OC Edition GDDR6 Triple Fans",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/419/267968/76775858.jpg"
-   },
-   {
-    "shop": "amazon.it",
-    "price": 1308.75,
-    "currency": "EUR",
-    "url": "https://www.amazon.it/dp/B0DRPRZMK2?tag=fraym06-21",
-    "inStock": true,
-    "lastSeen": "2026-11-19T00:19:07Z",
-    "product": "Sapphire Pulse Radeon RX 9070 XT - Grafikkarte",
-    "image": null
-   },
    {
     "shop": "materiel.net",
     "price": 1329.95,
@@ -2667,16 +2627,6 @@
     "image": "https://media.ldlc.com/r150/ld/products/00/06/21/98/LD0006219808.jpg"
    },
    {
-    "shop": "amazon.es",
-    "price": 826.44,
-    "currency": "EUR",
-    "url": "https://www.amazon.es/dp/B0DRPRZMK2?tag=fraym08-21",
-    "inStock": true,
-    "lastSeen": "2026-11-19T06:04:32Z",
-    "product": "Sapphire Pulse Radeon Rx 9070 Xt Amd 16 Gb Gddr6 (rx 9070 Xt 16gb Sapphire Pulse Radeon Gddr6 3 Fan)",
-    "image": null
-   },
-   {
     "shop": "amazon.fr",
     "price": 842.54,
     "currency": "EUR",
@@ -2697,64 +2647,124 @@
     "image": null
    },
    {
+    "shop": "canadacomputers.com",
+    "price": 1349.99,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/powered-by-amd/267624/gigabyte-radeon-rx-9070-xt-gaming-oc-gddr6-triple-fans-gv-r9070xtgaming-oc-16gd.html?keyword=radeon rx 9070 xt",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "GIGABYTE Radeon RX 9070 XT GAMING OC GDDR6 Triple Fans",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/419/267624/760257.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 1399.0,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/powered-by-amd/269139/sapphire-pulse-amd-radeon-rx-9070-xt-16gb-gddr6-11348-03-20g.html?keyword=radeon rx 9070 xt",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "SAPPHIRE PULSE AMD RADEON RX 9070 XT 16GB GDDR6",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/419/269139/18117.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 1399.0,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/powered-by-amd/268988/xfx-swift-amd-radeon-rx-9070-xt-white-triple-fan-gaming-edition-with-16gb-gddr6-rx-97tswf3w9.html?keyword=radeon rx 9070 xt",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "XFX Swift AMD Radeon RX 9070 XT White Triple fan Gaming Edition with 16GB GDDR6",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/419/268988/12966.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 1449.0,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/powered-by-amd/269136/sapphire-pure-amd-radeon-rx-9070-xt-16gb-gddr6-11348-02-20g.html?keyword=radeon rx 9070 xt",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "SAPPHIRE PURE AMD RADEON RX 9070 XT 16GB GDDR6",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/419/269136/13149.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 1499.0,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/powered-by-amd/269135/sapphire-nitro-amd-radeon-rx-9070-xt-16gb-gddr6-11348-01-20g.html?keyword=radeon rx 9070 xt",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "SAPPHIRE NITRO+ AMD RADEON RX 9070 XT 16GB GDDR6",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/419/269135/59518.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 1499.0,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/powered-by-amd/280858/xfx-swift-amd-radeon-rx-9070-xt-triple-fan-gaming-edition-black-rx-97tswf3b9.html?keyword=radeon rx 9070 xt",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "XFX Swift AMD Radeon RX 9070 XT Triple fan Gaming Edition - Black",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/419/280858/70590.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 1499.0,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/powered-by-amd/282569/gigabyte-radeon-rx-9070-xt-gaming-oc-ice-gddr6-triple-fans-gv-r907xgamingocice-16gd.html?keyword=radeon rx 9070 xt",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "GIGABYTE Radeon RX 9070 XT GAMING OC ICE GDDR6 Triple Fans",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/282569/86795.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 1539.99,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/powered-by-amd/267968/asus-prime-radeon-rx-9070-xt-oc-edition-gddr6-triple-fans-prime-rx9070xt-o16g.html?keyword=radeon rx 9070 xt",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "ASUS Prime Radeon RX 9070 XT OC Edition GDDR6 Triple Fans",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/419/267968/76775858.jpg"
+   },
+   {
+    "shop": "amazon.it",
+    "price": 1308.75,
+    "currency": "EUR",
+    "url": "https://www.amazon.it/dp/B0DRPRZMK2?tag=fraym06-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:41:46Z",
+    "product": "Sapphire Pulse Radeon RX 9070 XT - Grafikkarte",
+    "image": null
+   },
+   {
+    "shop": "amazon.es",
+    "price": 826.44,
+    "currency": "EUR",
+    "url": "https://www.amazon.es/dp/B0DRPRZMK2?tag=fraym08-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:47:01Z",
+    "product": "Sapphire Pulse Radeon Rx 9070 Xt Amd 16 Gb Gddr6 (rx 9070 Xt 16gb Sapphire Pulse Radeon Gddr6 3 Fan)",
+    "image": null
+   },
+   {
     "shop": "amazon.com",
     "price": 1363.99,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0DRPRZMK2?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:14:26Z",
+    "lastSeen": "2026-11-19T15:52:28Z",
     "product": "Sapphire Pulse AMD Radeon™ RX 9070 XT Gaming 16GB Dual HDMI/Dual DP : Electronics",
     "image": null
    }
   ],
   "image": "images/gpus-rx9070xt.jpg",
-  "lastUpdated": "2026-11-19T06:14:26Z"
+  "lastUpdated": "2026-11-19T15:52:28Z"
  },
  {
   "id": "rx9070",
   "name": "Radeon RX 9070",
   "priceMin": 931.29,
   "prices": [
-   {
-    "shop": "canadacomputers.com",
-    "price": 1369.0,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/powered-by-amd/267626/gigabyte-radeon-rx-9070-gaming-oc-gddr6-triple-fans-gv-r9070gaming-oc-16gd.html?keyword=radeon rx 9070",
-    "inStock": true,
-    "lastSeen": "2026-11-18T00:27:45Z",
-    "product": "GIGABYTE Radeon RX 9070 GAMING OC GDDR6 Triple Fans",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/419/267626/19601.jpg"
-   },
-   {
-    "shop": "canadacomputers.com",
-    "price": 1449.99,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/powered-by-amd/281960/asus-prime-radeon-rx-9070-oc-edition-graphics-card-prime-rx9070-o16g-evo.html?keyword=radeon rx 9070",
-    "inStock": true,
-    "lastSeen": "2026-11-18T00:27:45Z",
-    "product": "ASUS Prime Radeon RX 9070 OC Edition Graphics Card",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/419/281960/35960.jpg"
-   },
-   {
-    "shop": "canadacomputers.com",
-    "price": 1419.99,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/powered-by-amd/267255/asus-prime-radeon-rx-9070-oc-gddr6-triple-fans-prime-rx9070-o16g.html?keyword=radeon rx 9070",
-    "inStock": false,
-    "lastSeen": "2026-11-18T00:27:45Z",
-    "product": "ASUS Prime Radeon RX 9070 OC GDDR6 Triple Fans",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/419/267255/73498.jpg"
-   },
-   {
-    "shop": "amazon.co.uk",
-    "price": 1020.59,
-    "currency": "GBP",
-    "url": "https://www.amazon.co.uk/dp/B0DRPRN49L?tag=fraym0a-21",
-    "inStock": true,
-    "lastSeen": "2026-11-19T00:18:38Z",
-    "product": "Sapphire PURE AMD RADEON™ RX 9070 GAMING OC 16GB DUAL HDMI/DUAL DP",
-    "image": null
-   },
    {
     "shop": "materiel.net",
     "price": 1129.95,
@@ -2836,18 +2846,58 @@
     "image": "https://media.ldlc.com/r150/ld/products/00/06/22/02/LD0006220268.jpg"
    },
    {
+    "shop": "canadacomputers.com",
+    "price": 1369.0,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/powered-by-amd/267626/gigabyte-radeon-rx-9070-gaming-oc-gddr6-triple-fans-gv-r9070gaming-oc-16gd.html?keyword=radeon rx 9070",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "GIGABYTE Radeon RX 9070 GAMING OC GDDR6 Triple Fans",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/419/267626/19601.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 1449.99,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/powered-by-amd/281960/asus-prime-radeon-rx-9070-oc-edition-graphics-card-prime-rx9070-o16g-evo.html?keyword=radeon rx 9070",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "ASUS Prime Radeon RX 9070 OC Edition Graphics Card",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/419/281960/35960.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 1419.99,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/powered-by-amd/267255/asus-prime-radeon-rx-9070-oc-gddr6-triple-fans-prime-rx9070-o16g.html?keyword=radeon rx 9070",
+    "inStock": false,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "ASUS Prime Radeon RX 9070 OC GDDR6 Triple Fans",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/419/267255/73498.jpg"
+   },
+   {
+    "shop": "amazon.co.uk",
+    "price": 1020.59,
+    "currency": "GBP",
+    "url": "https://www.amazon.co.uk/dp/B0DRPRN49L?tag=fraym0a-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:39:25Z",
+    "product": "Sapphire PURE AMD RADEON™ RX 9070 GAMING OC 16GB DUAL HDMI/DUAL DP",
+    "image": null
+   },
+   {
     "shop": "amazon.com",
     "price": 1153.99,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0DRPRN49L?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:16:56Z",
+    "lastSeen": "2026-11-19T15:54:46Z",
     "product": "Sapphire Pure AMD Radeon™ RX 9070 Gaming OC 16GB Dual HDMI/Dual DP : Electronics",
     "image": null
    }
   ],
   "image": "images/gpus-rx9070.jpg",
-  "lastUpdated": "2026-11-19T06:16:56Z"
+  "lastUpdated": "2026-11-19T15:54:46Z"
  },
  {
   "id": "rtx5050",
@@ -3154,16 +3204,6 @@
   "priceMin": 272.1,
   "prices": [
    {
-    "shop": "canadacomputers.com",
-    "price": 399.99,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/powered-by-nvidia/294744/zotac-gaming-geforce-rtx-3050-twin-edge-oc-gddr6-double-fans-zt-a30510h-10a.html?keyword=geforce rtx 3050",
-    "inStock": true,
-    "lastSeen": "2026-11-18T00:27:45Z",
-    "product": "ZOTAC GAMING GeForce RTX 3050 Twin Edge OC GDDR6 Double Fans",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/420/98636.jpg"
-   },
-   {
     "shop": "morele.net",
     "price": 1773.7,
     "currency": "PLN",
@@ -3222,10 +3262,20 @@
     "lastSeen": "2026-11-19T05:36:19Z",
     "product": "Gigabyte GeForce RTX 3050 WINDFORCE OC V2 8G",
     "image": "https://media.ldlc.com/r150/ld/products/00/06/09/41/LD0006094147.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 399.99,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/powered-by-nvidia/294744/zotac-gaming-geforce-rtx-3050-twin-edge-oc-gddr6-double-fans-zt-a30510h-10a.html?keyword=geforce rtx 3050",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "ZOTAC GAMING GeForce RTX 3050 Twin Edge OC GDDR6 Double Fans",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/420/98636.jpg"
    }
   ],
   "image": "images/gpus-rtx3050.jpg",
-  "lastUpdated": "2026-11-19T05:36:19Z"
+  "lastUpdated": "2026-11-19T15:08:49Z"
  },
  {
   "id": "rx9060xt",
@@ -3490,12 +3540,22 @@
   "priceMin": 483.72,
   "prices": [
    {
+    "shop": "morele.net",
+    "price": 2080.01,
+    "currency": "PLN",
+    "url": "https://www.morele.net/karta-graficzna-asrock-arc-b580-challenger-oc-12gb-gddr6-b580-cl-12go-14450505/",
+    "inStock": true,
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Karta graficzna ASRock Arc B580 Challenger OC 12GB GDDR6 (B580 CL 12GO)",
+    "image": "https://images.morele.net/i256/14450505_0_i256.jpg"
+   },
+   {
     "shop": "materiel.net",
     "price": 519.95,
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202412010002.html",
     "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
+    "lastSeen": "2026-11-19T15:08:49Z",
     "product": "ASRock Intel Arc B580 Challenger 12GB OC",
     "image": "https://media.materiel.net/r900/products/MN0006195657.jpg"
    },
@@ -3505,23 +3565,13 @@
     "currency": "EUR",
     "url": "https://www.ldlc.com/fiche/PB00657525.html",
     "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
+    "lastSeen": "2026-11-19T15:08:49Z",
     "product": "ASRock Intel Arc B580 Challenger 12GB OC",
     "image": "https://media.ldlc.com/r1600/ld/products/00/06/19/56/LD0006195623.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 2080.01,
-    "currency": "PLN",
-    "url": "https://www.morele.net/karta-graficzna-asrock-arc-b580-challenger-oc-12gb-gddr6-b580-cl-12go-14450505/",
-    "inStock": true,
-    "lastSeen": "2026-11-18T23:53:24Z",
-    "product": "Karta graficzna ASRock Arc B580 Challenger OC 12GB GDDR6 (B580 CL 12GO)",
-    "image": "https://images.morele.net/i256/14450505_0_i256.jpg"
    }
   ],
   "image": "images/gpus-arcb580.jpg",
-  "lastUpdated": "2026-11-18T23:53:24Z"
+  "lastUpdated": "2026-11-19T15:08:49Z"
  },
  {
   "id": "arca750",
@@ -3803,49 +3853,19 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0CSPRNRZC?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:14:30Z",
+    "lastSeen": "2026-11-19T15:52:32Z",
     "product": "MSI GeForce RTX 3050 LP 6G OC Gaming Graphics Card - 6GB GDDR6, 1492 MHz, PCI Express Gen 4, 96-bit, 1x DP (v1.4a), 2X HDMI 2.1 (Supports 4K) : Electronics",
     "image": null
    }
   ],
   "image": "images/gpus-nvidia-rtx-3050-6g.jpg",
-  "lastUpdated": "2026-11-19T06:14:30Z"
+  "lastUpdated": "2026-11-19T15:52:32Z"
  },
  {
   "id": "nvidia-rtx-5060-ti-8g",
   "name": "GeForce RTX 5060 Ti 8G",
   "priceMin": 510.92,
   "prices": [
-   {
-    "shop": "canadacomputers.com",
-    "price": 799.99,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/powered-by-nvidia/273070/asus-dual-geforce-rtx-5060-ti-8gb-gddr7-oc-edition-dual-rtx5060ti-o8g.html?keyword=geforce rtx 5060 ti 8g",
-    "inStock": true,
-    "lastSeen": "2026-11-18T00:27:45Z",
-    "product": "ASUS Dual GeForce RTX 5060 Ti 8GB GDDR7 OC Edition",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/420/273070/97371.jpg"
-   },
-   {
-    "shop": "canadacomputers.com",
-    "price": 799.99,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/powered-by-nvidia/271350/asus-prime-geforce-rtx-5060-ti-8gb-gddr7-triple-fans-prime-rtx5060ti-8g.html?keyword=geforce rtx 5060 ti 8g",
-    "inStock": false,
-    "lastSeen": "2026-11-18T00:27:45Z",
-    "product": "ASUS Prime GeForce RTX 5060 Ti 8GB GDDR7 Triple Fans",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/271350/11248.jpg"
-   },
-   {
-    "shop": "canadacomputers.com",
-    "price": 849.99,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/powered-by-nvidia/271351/asus-prime-geforce-rtx-5060-ti-8gb-oc-gddr7-triple-fans-prime-rtx5060ti-o8g.html?keyword=geforce rtx 5060 ti 8g",
-    "inStock": false,
-    "lastSeen": "2026-11-18T00:27:45Z",
-    "product": "ASUS Prime GeForce RTX 5060 Ti 8GB OC GDDR7 Triple Fans",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/271351/16858.jpg"
-   },
    {
     "shop": "morele.net",
     "price": 2499.0,
@@ -3855,16 +3875,6 @@
     "lastSeen": "2026-11-18T10:55:58Z",
     "product": "Karta graficzna MSI GeForce RTX 5060 Ti Ventus 2X OC Plus 8GB GDDR7 DLSS4",
     "image": "https://images.morele.net/i256/14848098_4_i256.jpg"
-   },
-   {
-    "shop": "amazon.fr",
-    "price": 524.92,
-    "currency": "EUR",
-    "url": "https://www.amazon.fr/dp/B096Z886F8?tag=fraym-21",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:45:40Z",
-    "product": "MSI NVIDIA GeForce RTX 5060 Ti 8G GAMING TRIO OC Carte graphique | 8 Go GDDR7 (28 GB/s, 128-bit), PCIe 5.0, TRI FROZR 4 (3 ventilateurs STORMFORCE), RGB, HDMI 2.1b, DisplayPort 2.1b",
-    "image": null
    },
    {
     "shop": "materiel.net",
@@ -3987,18 +3997,98 @@
     "image": null
    },
    {
+    "shop": "canadacomputers.com",
+    "price": 799.99,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/powered-by-nvidia/273070/asus-dual-geforce-rtx-5060-ti-8gb-gddr7-oc-edition-dual-rtx5060ti-o8g.html?keyword=geforce rtx 5060 ti 8g",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "ASUS Dual GeForce RTX 5060 Ti 8GB GDDR7 OC Edition",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/420/273070/97371.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 731.49,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/powered-by-nvidia/292151/gigabyte-geforce-rtx-5060-ti-windforce-oc-8g-graphics-card-8gb-128-bit-gddr7-pcie-5-0-windforce-cooling-system-gv-n506twf2oc-8g-gv-n506twf2oc-8gd.html?keyword=geforce rtx 5060 ti 8g",
+    "inStock": false,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "GIGABYTE GeForce RTX 5060 Ti WINDFORCE OC 8G Graphics Card, 8GB 128-bit GDDR7, PCIe 5.0, WINDFORCE cooling system, GV-N506TW...",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/272235/24787.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 769.99,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/powered-by-nvidia/272235/gigabyte-geforce-rtx-5060-ti-windforce-oc-8g-graphics-card-8gb-128-bit-gddr7-pcie-5-0-windforce-cooling-system-gv-n506twf2oc-8g-gv-n506twf2oc-8gd.html?keyword=geforce rtx 5060 ti 8g",
+    "inStock": false,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "GIGABYTE GeForce RTX 5060 Ti WINDFORCE OC 8G Graphics Card, 8GB 128-bit GDDR7, PCIe 5.0, WINDFORCE cooling system, GV-N506TWF2O",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/272235/24787.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 799.99,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/powered-by-nvidia/271350/asus-prime-geforce-rtx-5060-ti-8gb-gddr7-triple-fans-prime-rtx5060ti-8g.html?keyword=geforce rtx 5060 ti 8g",
+    "inStock": false,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "ASUS Prime GeForce RTX 5060 Ti 8GB GDDR7 Triple Fans",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/271350/11248.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 849.99,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/powered-by-nvidia/271351/asus-prime-geforce-rtx-5060-ti-8gb-oc-gddr7-triple-fans-prime-rtx5060ti-o8g.html?keyword=geforce rtx 5060 ti 8g",
+    "inStock": false,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "ASUS Prime GeForce RTX 5060 Ti 8GB OC GDDR7 Triple Fans",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/230/271351/16858.jpg"
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 524.92,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B096Z886F8?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:39:24Z",
+    "product": "MSI NVIDIA GeForce RTX 5060 Ti 8G GAMING TRIO OC Carte graphique | 8 Go GDDR7 (28 GB/s, 128-bit), PCIe 5.0, TRI FROZR 4 (3 ventilateurs STORMFORCE), RGB, HDMI 2.1b, DisplayPort 2.1b",
+    "image": null
+   },
+   {
+    "shop": "amazon.it",
+    "price": 693.39,
+    "currency": "EUR",
+    "url": "https://www.amazon.it/dp/B096Z886F8?tag=fraym06-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:41:25Z",
+    "product": "MSI NVIDIA GeForce RTX 5060 Ti 8G Gaming Trio OC Scheda Grafica | 8GB GDDR7 28 Gbps 128 bit, PCIe 5.0, TRI FROZR 4 con 3 ventole STORMFORCE, RGB, HDMI 2.1b, DP 2.1b",
+    "image": null
+   },
+   {
+    "shop": "amazon.es",
+    "price": 680.69,
+    "currency": "EUR",
+    "url": "https://www.amazon.es/dp/B096Z886F8?tag=fraym08-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:43:39Z",
+    "product": "MSI GeForce RTX 5060 Ti 8G Gaming Trio OC | 8GB GDDR7 28Gbps 128bit, PCIe 5.0, TRI FROZR 4 con 3 ventiladores STORMFORCE, RGB, HDMI 2.1b, DP 2.1b",
+    "image": null
+   },
+   {
     "shop": "amazon.com",
     "price": 832.9,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B096Z886F8?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:17:26Z",
+    "lastSeen": "2026-11-19T15:55:16Z",
     "product": "MSI GeForce RTX 5060 Ti 8G Gaming Trio OC - Gaming Graphics Card | 8GB GDDR7 (28Gbps/128-bit), PCIe 5, Boost: 2647MHz, HDMI 2.1b, DisplayPort 2.1b : Electronics",
     "image": null
    }
   ],
   "image": "images/gpus-nvidia-rtx-5060-ti-8g.jpg",
-  "lastUpdated": "2026-11-19T06:17:26Z"
+  "lastUpdated": "2026-11-19T15:55:16Z"
  },
  {
   "id": "amd-rx-570",
@@ -4022,16 +4112,6 @@
   "priceMin": 619.94,
   "prices": [
    {
-    "shop": "ldlc.com",
-    "price": 619.94,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00276529.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
-    "product": "MSI Radeon RX 5700 XT MECH OC",
-    "image": "https://media.ldlc.com/r1600/ld/products/00/05/41/85/LD0005418584_2.jpg"
-   },
-   {
     "shop": "materiel.net",
     "price": 619.94,
     "currency": "EUR",
@@ -4040,10 +4120,20 @@
     "lastSeen": "2026-11-19T05:36:19Z",
     "product": "MSI Radeon RX 5700 XT MECH OC",
     "image": "https://media.materiel.net/r900/products/MN0005418294_1.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 619.94,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00276529.html",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "MSI Radeon RX 5700 XT MECH OC",
+    "image": "https://media.ldlc.com/r1600/ld/products/00/05/41/85/LD0005418584_2.jpg"
    }
   ],
   "image": "images/gpus-amd-rx-5700-xt.jpg",
-  "lastUpdated": "2026-11-19T05:36:19Z"
+  "lastUpdated": "2026-11-19T15:08:49Z"
  },
  {
   "id": "amd-rx-6400",
@@ -4066,13 +4156,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B09WF47XF4?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:14:32Z",
+    "lastSeen": "2026-11-19T15:52:35Z",
     "product": "MSI Gaming Radeon RX 6400 64-bit 4GB GDDR6 DP/HDMI PCIe 4 Torx Single Fan FreeSync DirectX 12 VR Ready ITX OC Graphics Card (RX 6400 AERO ITX 4G) : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-19T06:14:32Z"
+  "lastUpdated": "2026-11-19T15:52:35Z"
  },
  {
   "id": "amd-rx-6500-xt",
@@ -4105,13 +4195,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B09R1RVN3R?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:17:16Z",
+    "lastSeen": "2026-11-19T15:55:06Z",
     "product": "MSI Gaming AMD Radeon RX 6500 XT 64-bit 4GB GDDR6 DP/HDMI PCIe 4 Torx Twin Fans FreeSync DirectX 12 VR Ready OC Graphics Card (RX 6500 XT MECH 2X 4G OC) : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-19T06:17:16Z"
+  "lastUpdated": "2026-11-19T15:55:06Z"
  },
  {
   "id": "amd-rx-9060-xt-8g",
@@ -4193,13 +4283,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0BFD8DSM3?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:14:28Z",
+    "lastSeen": "2026-11-19T15:52:30Z",
     "product": "ASRock Intel Arc A380 Challenger ITX 6GB OC, 2250MHz GPU, 6GB GDDR6 96-bit, PCIe 4.0, Single Fan, 0dB Silent, DP 2.0, HDMI 2.0b : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-19T06:14:28Z"
+  "lastUpdated": "2026-11-19T15:52:30Z"
  },
  {
   "id": "intel-arc-a770",
@@ -4225,36 +4315,6 @@
   "name": "Arc B570",
   "priceMin": 325.35,
   "prices": [
-   {
-    "shop": "materiel.net",
-    "price": 399.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202412010003.html",
-    "inStock": false,
-    "lastSeen": "2026-11-18T15:02:32Z",
-    "product": "ASRock Intel Arc B570 Challenger 10GB OC",
-    "image": "https://media.materiel.net/r900/products/MN0006200062.jpg"
-   },
-   {
-    "shop": "amazon.fr",
-    "price": 457.39,
-    "currency": "EUR",
-    "url": "https://www.amazon.fr/dp/B0DR337DJG?tag=fraym-21",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:45:33Z",
-    "product": "Sparkle Intel Arc B570 Guardian OC 10GB GDDR6",
-    "image": null
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 399.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00657520.html",
-    "inStock": false,
-    "lastSeen": "2026-11-18T23:53:24Z",
-    "product": "ASRock Intel Arc B570 Challenger 10GB OC",
-    "image": "https://media.ldlc.com/r1600/ld/products/00/06/19/55/LD0006195581.jpg"
-   },
    {
     "shop": "amazon.it",
     "price": 469.46,
@@ -4284,26 +4344,46 @@
     "lastSeen": "2026-11-19T05:36:19Z",
     "product": "Karta graficzna Sparkle Arc B570 Guardian OC 10GB GDDR6 (SB570G-10GOC)",
     "image": "https://images.morele.net/i256/14492974_3_i256.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 399.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202412010003.html",
+    "inStock": false,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "ASRock Intel Arc B570 Challenger 10GB OC",
+    "image": "https://media.materiel.net/r900/products/MN0006200062.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 399.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00657520.html",
+    "inStock": false,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "ASRock Intel Arc B570 Challenger 10GB OC",
+    "image": "https://media.ldlc.com/r1600/ld/products/00/06/19/55/LD0006195581.jpg"
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 457.39,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B0DR337DJG?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:39:20Z",
+    "product": "Sparkle Intel Arc B570 Guardian OC 10GB GDDR6",
+    "image": null
    }
   ],
   "image": "images/gpus-intel-arc-b570.jpg",
-  "lastUpdated": "2026-11-19T05:36:19Z"
+  "lastUpdated": "2026-11-19T15:39:20Z"
  },
  {
   "id": "rtx5000ada",
   "name": "RTX 5000 Ada",
   "priceMin": 3606.55,
   "prices": [
-   {
-    "shop": "amazon.it",
-    "price": 3606.55,
-    "currency": "EUR",
-    "url": "https://www.amazon.it/dp/B0CKPTSVG4?tag=fraym06-21",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:47:01Z",
-    "product": "PNY NVIDIA RTX 5000 Ada Generation - Grafikkarte",
-    "image": null
-   },
    {
     "shop": "amazon.de",
     "price": 3697.47,
@@ -4363,26 +4443,26 @@
     "lastSeen": "2026-11-19T06:13:15Z",
     "product": "PNY NVIDIA RTX 5000 Ada Generation 32 GB GDDR6 PCI Express 4.0 Dual Slot 4X DisplayPort, 8K Support, Ventilador Activo Ultra silencioso",
     "image": null
+   },
+   {
+    "shop": "amazon.it",
+    "price": 3606.55,
+    "currency": "EUR",
+    "url": "https://www.amazon.it/dp/B0CKPTSVG4?tag=fraym06-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:40:26Z",
+    "product": "PNY NVIDIA RTX 5000 Ada Generation - Grafikkarte",
+    "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-19T06:13:15Z"
+  "lastUpdated": "2026-11-19T15:40:26Z"
  },
  {
   "id": "rtx4500ada",
   "name": "RTX 4500 Ada",
   "priceMin": 2413.0,
   "prices": [
-   {
-    "shop": "amazon.co.uk",
-    "price": 3049.74,
-    "currency": "GBP",
-    "url": "https://www.amazon.co.uk/dp/B0CJQH8519?tag=fraym0a-21",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:47:39Z",
-    "product": "PNY NVIDIA RTX 4500 Ada Generation",
-    "image": null
-   },
    {
     "shop": "morele.net",
     "price": 13453.38,
@@ -4414,16 +4494,6 @@
     "image": "https://images.morele.net/i256/13127434_1_i256.jpg"
    },
    {
-    "shop": "amazon.fr",
-    "price": 2413.0,
-    "currency": "EUR",
-    "url": "https://www.amazon.fr/dp/B0CJQH8519?tag=fraym-21",
-    "inStock": true,
-    "lastSeen": "2026-11-19T06:01:29Z",
-    "product": "PNY NVIDIA RTX 4500 Ada Generation 24 Go GDDR6 PCI Express 4.0 Dual Slot 4X DisplayPort, Support 8K, Ventilateur Actif Ultra Silencieux",
-    "image": null
-   },
-   {
     "shop": "amazon.it",
     "price": 2641.16,
     "currency": "EUR",
@@ -4444,18 +4514,38 @@
     "image": null
    },
    {
+    "shop": "amazon.co.uk",
+    "price": 3049.74,
+    "currency": "GBP",
+    "url": "https://www.amazon.co.uk/dp/B0CJQH8519?tag=fraym0a-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:39:07Z",
+    "product": "PNY NVIDIA RTX 4500 Ada Generation",
+    "image": null
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 2413.0,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B0CJQH8519?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:45:07Z",
+    "product": "PNY NVIDIA RTX 4500 Ada Generation 24 Go GDDR6 PCI Express 4.0 Dual Slot 4X DisplayPort, Support 8K, Ventilateur Actif Ultra Silencieux",
+    "image": null
+   },
+   {
     "shop": "amazon.com",
     "price": 3000.0,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0CJQH8519?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:15:18Z",
+    "lastSeen": "2026-11-19T15:53:17Z",
     "product": "PNY NVIDIA RTX 4500 Ada Generation 24GB GDDR6 PCI Express 4.0 Dual Slot 4X DisplayPort, 8K Support, Ultra Quiet Active Fan : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-19T06:15:18Z"
+  "lastUpdated": "2026-11-19T15:53:17Z"
  },
  {
   "id": "rtx4000ada",
@@ -4530,16 +4620,6 @@
     "lastSeen": "2026-11-18T10:55:58Z",
     "product": "NVIDIA RTX™ 2000 Ada Professional Graphics Card 16GB GDDR6",
     "image": "https://ccimg.canadacomputers.com/Products/800x800/230/132/255496/86227.jpg"
-   },
-   {
-    "shop": "amazon.it",
-    "price": 894.91,
-    "currency": "EUR",
-    "url": "https://www.amazon.it/dp/B0CYQH4LLL?tag=fraym06-21",
-    "inStock": true,
-    "lastSeen": "2026-11-19T00:18:15Z",
-    "product": "PNY NVIDIA RTX 2000 Ada Professional Graphics Card 16GB GDDR11",
-    "image": null
    },
    {
     "shop": "amazon.es",
@@ -4650,10 +4730,20 @@
     "lastSeen": "2026-11-19T06:17:29Z",
     "product": "PNY NVIDIA RTX 2000 Ada Generation 16GB GDDR6 PCI Express 4.0 Dual Slot, Low Profil 4X MiniDisplayPort, 8K Support, Ultraleiser Aktiver Lüfter : Electronics",
     "image": null
+   },
+   {
+    "shop": "amazon.it",
+    "price": 894.91,
+    "currency": "EUR",
+    "url": "https://www.amazon.it/dp/B0CYQH4LLL?tag=fraym06-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:40:54Z",
+    "product": "PNY NVIDIA RTX 2000 Ada Professional Graphics Card 16GB GDDR11",
+    "image": null
    }
   ],
   "image": "images/gpus-rtx2000ada.jpg",
-  "lastUpdated": "2026-11-19T06:17:29Z"
+  "lastUpdated": "2026-11-19T15:40:54Z"
  },
  {
   "id": "rtxpro6000bw",
@@ -4829,16 +4919,6 @@
     "lastSeen": "2026-11-19T05:36:19Z",
     "product": "PNY NVIDIA RTX PRO 6000 Blackwell Server Edition",
     "image": "https://media.ldlc.com/r150/ld/products/00/06/39/46/LD0006394657.jpg"
-   },
-   {
-    "shop": "amazon.com",
-    "price": 23065.6,
-    "currency": "USD",
-    "url": "https://www.amazon.com/dp/B0FW53295F?tag=fraym-20",
-    "inStock": true,
-    "lastSeen": "2026-11-19T06:17:35Z",
-    "product": "PNY NVIDIA RTX PRO 6000 Blackwell Workstation Edition : Electronics",
-    "image": null
    }
   ],
   "image": "images/gpus-rtxpro6000bw.jpg",
@@ -4879,16 +4959,6 @@
   "priceMin": 2873.25,
   "prices": [
    {
-    "shop": "ldlc.com",
-    "price": 2599.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00555973.html",
-    "inStock": false,
-    "lastSeen": "2026-11-18T15:02:32Z",
-    "product": "AMD Radeon Pro W7800",
-    "image": "https://media.ldlc.com/r1600/ld/products/00/06/04/00/LD0006040070.jpg"
-   },
-   {
     "shop": "materiel.net",
     "price": 2599.95,
     "currency": "EUR",
@@ -4907,10 +4977,20 @@
     "lastSeen": "2026-11-19T05:36:19Z",
     "product": "Karta graficzna AMD Radeon PRO W7800 32GB GDDR6 (100-300000075)",
     "image": "https://images.morele.net/i256/12961610_1_i256.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 2599.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00555973.html",
+    "inStock": false,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "AMD Radeon Pro W7800",
+    "image": "https://media.ldlc.com/r1600/ld/products/00/06/04/00/LD0006040070.jpg"
    }
   ],
   "image": "images/gpus-radprow7800.jpg",
-  "lastUpdated": "2026-11-19T05:36:19Z"
+  "lastUpdated": "2026-11-19T15:08:49Z"
  },
  {
   "id": "amd-rx-580",
@@ -4990,29 +5070,19 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0BKPT56HK?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:14:47Z",
+    "lastSeen": "2026-11-19T15:52:50Z",
     "product": "AMD Radeon™ RX 6950 XT gddr6 Graphics Card : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-19T06:14:47Z"
+  "lastUpdated": "2026-11-19T15:52:50Z"
  },
  {
   "id": "gtx1660s",
   "name": "GeForce GTX 1660 Super",
   "priceMin": 301.63,
   "prices": [
-   {
-    "shop": "amazon.it",
-    "price": 538.55,
-    "currency": "EUR",
-    "url": "https://www.amazon.it/dp/B07ZHWQ81N?tag=fraym06-21",
-    "inStock": true,
-    "lastSeen": "2026-11-18T13:05:08Z",
-    "product": "ASUS GeForce GTX 1660 Super Overclocked 6GB Dual-Fan Evo Edition VR Ready HDMI DisplayPort DVI Scheda grafica (DUAL-GTX1660S-O6G-EVO)",
-    "image": null
-   },
    {
     "shop": "morele.net",
     "price": 1297.02,
@@ -5044,12 +5114,22 @@
     "image": "https://images.morele.net/i256/6317640_7_i256.jpg"
    },
    {
+    "shop": "amazon.it",
+    "price": 538.55,
+    "currency": "EUR",
+    "url": "https://www.amazon.it/dp/B07ZHWQ81N?tag=fraym06-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:37:53Z",
+    "product": "ASUS GeForce GTX 1660 Super Overclocked 6GB Dual-Fan Evo Edition VR Ready HDMI DisplayPort DVI Scheda grafica (DUAL-GTX1660S-O6G-EVO)",
+    "image": null
+   },
+   {
     "shop": "amazon.co.uk",
-    "price": 465.76,
+    "price": 460.24,
     "currency": "GBP",
     "url": "https://www.amazon.co.uk/dp/B07ZHWQ81N?tag=fraym0a-21",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:01:05Z",
+    "lastSeen": "2026-11-19T15:44:30Z",
     "product": "ASUS GeForce GTX 1660 Super Overclocked 6GB Dual-Fan Evo Edition VR Ready HDMI DisplayPort DVI Graphics Card (DUAL-GTX1660S-O6G-EVO)",
     "image": null
    },
@@ -5059,29 +5139,19 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B07ZHWQ81N?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:14:49Z",
+    "lastSeen": "2026-11-19T15:52:51Z",
     "product": "ASUS GeForce GTX 1660 Super Overclocked 6GB Dual-Fan Evo Edition VR Ready HDMI DisplayPort DVI Graphics Card, 3 Year Warranty : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-19T06:14:49Z"
+  "lastUpdated": "2026-11-19T15:52:51Z"
  },
  {
   "id": "nvidia-gtx-1050-ti",
   "name": "GeForce GTX 1050 Ti",
   "priceMin": 195.8,
   "prices": [
-   {
-    "shop": "amazon.com",
-    "price": 320.0,
-    "currency": "USD",
-    "url": "https://www.amazon.com/dp/B01M360WG6?tag=fraym-20",
-    "inStock": true,
-    "lastSeen": "2026-11-19T00:25:35Z",
-    "product": "ASUS GeForce GTX 1050 Ti 4GB Phoenix Fan Edition DVI-D HDMI DP 1.4 Gaming Graphics Card (PH-GTX1050TI-4G) Graphic Cards, 3 Year Warranty : Electronics",
-    "image": null
-   },
    {
     "shop": "morele.net",
     "price": 841.95,
@@ -5091,46 +5161,26 @@
     "lastSeen": "2026-11-19T05:36:19Z",
     "product": "Karta graficzna Biostar GeForce GTX 1050 Ti 4G GDDR5 (VN1055TF41)",
     "image": "https://images.morele.net/i256/12812965_0_i256.jpg"
+   },
+   {
+    "shop": "amazon.com",
+    "price": 320.0,
+    "currency": "USD",
+    "url": "https://www.amazon.com/dp/B01M360WG6?tag=fraym-20",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:42:59Z",
+    "product": "ASUS GeForce GTX 1050 Ti 4GB Phoenix Fan Edition DVI-D HDMI DP 1.4 Gaming Graphics Card (PH-GTX1050TI-4G) Graphic Cards, 3 Year Warranty : Electronics",
+    "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-19T05:36:19Z"
+  "lastUpdated": "2026-11-19T15:42:59Z"
  },
  {
   "id": "nvidia-gtx-1070-ti",
   "name": "GeForce GTX 1070 Ti",
-  "priceMin": 598.01,
+  "priceMin": 598.81,
   "prices": [
-   {
-    "shop": "amazon.it",
-    "price": 602.44,
-    "currency": "EUR",
-    "url": "https://www.amazon.it/dp/B076RCTXGX?tag=fraym06-21",
-    "inStock": true,
-    "lastSeen": "2026-11-18T13:05:15Z",
-    "product": "ASUS Geforce GTX 1070 TI ROG Strix A8G Gaming GeForce GTX1070 - Scheda grafica 8192 MB",
-    "image": null
-   },
-   {
-    "shop": "amazon.fr",
-    "price": 641.22,
-    "currency": "EUR",
-    "url": "https://www.amazon.fr/dp/B076RCTXGX?tag=fraym-21",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:47:21Z",
-    "product": "ASUS Geforce GTX 1070 TI ROG Strix A8G Gaming GeForce GTX1070 Carte Graphique 8192 Mo",
-    "image": null
-   },
-   {
-    "shop": "amazon.co.uk",
-    "price": 514.29,
-    "currency": "GBP",
-    "url": "https://www.amazon.co.uk/dp/B076RCTXGX?tag=fraym0a-21",
-    "inStock": true,
-    "lastSeen": "2026-11-19T00:25:19Z",
-    "product": "Asus Geforce GTX 1070 TI ROG Strix A8G Gaming GeForce GTX1070 Graphic Card 8192 MB",
-    "image": null
-   },
    {
     "shop": "amazon.es",
     "price": 625.65,
@@ -5140,10 +5190,40 @@
     "lastSeen": "2026-11-19T06:13:13Z",
     "product": "ASUS ROG-STRIX-GTX1070TI-A8G-GAMING GeForce GTX 1070 Ti 8 GB GDDR5 - Tarjeta gráfica (GeForce GTX 1070 Ti, 8 GB, GDDR5, 8008 MHz, 7680 x 4320 Pixeles, PCI Express 3.0)",
     "image": null
+   },
+   {
+    "shop": "amazon.it",
+    "price": 602.44,
+    "currency": "EUR",
+    "url": "https://www.amazon.it/dp/B076RCTXGX?tag=fraym06-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:37:56Z",
+    "product": "ASUS Geforce GTX 1070 TI ROG Strix A8G Gaming GeForce GTX1070 - Scheda grafica 8192 MB",
+    "image": null
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 641.12,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B076RCTXGX?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:40:22Z",
+    "product": "ASUS Geforce GTX 1070 TI ROG Strix A8G Gaming GeForce GTX1070 Carte Graphique 8192 Mo",
+    "image": null
+   },
+   {
+    "shop": "amazon.co.uk",
+    "price": 514.98,
+    "currency": "GBP",
+    "url": "https://www.amazon.co.uk/dp/B076RCTXGX?tag=fraym0a-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:42:56Z",
+    "product": "Asus Geforce GTX 1070 TI ROG Strix A8G Gaming GeForce GTX1070 Graphic Card 8192 MB",
+    "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-19T06:13:13Z"
+  "lastUpdated": "2026-11-19T15:42:56Z"
  },
  {
   "id": "nvidia-gtx-1080",
@@ -5215,29 +5295,19 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B00SKTY6PS?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:14:53Z",
+    "lastSeen": "2026-11-19T15:52:54Z",
     "product": "MSI Video Card GTX 960 GAMING 2G Retail : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-19T06:14:53Z"
+  "lastUpdated": "2026-11-19T15:52:54Z"
  },
  {
   "id": "nvidia-rtx-2080-ti",
   "name": "GeForce RTX 2080 Ti",
   "priceMin": 738.89,
   "prices": [
-   {
-    "shop": "amazon.fr",
-    "price": 1556.61,
-    "currency": "EUR",
-    "url": "https://www.amazon.fr/dp/B07HNMT91C?tag=fraym-21",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:45:37Z",
-    "product": "ASUS 90YV0CC0-M0NM00 Carte Graphique Nvidia Geforce ROG Strix RTX 2080TI 11 Go",
-    "image": null
-   },
    {
     "shop": "amazon.es",
     "price": 1175.9,
@@ -5259,44 +5329,34 @@
     "image": null
    },
    {
+    "shop": "amazon.fr",
+    "price": 1556.61,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B07HNMT91C?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:39:22Z",
+    "product": "ASUS 90YV0CC0-M0NM00 Carte Graphique Nvidia Geforce ROG Strix RTX 2080TI 11 Go",
+    "image": null
+   },
+   {
     "shop": "amazon.com",
     "price": 798.0,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B07HNMT91C?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:17:25Z",
+    "lastSeen": "2026-11-19T15:55:15Z",
     "product": "ASUS GeForce RTX 2080 TI ROG Strix 11GB GDDR6 Graphics Card : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-19T06:17:25Z"
+  "lastUpdated": "2026-11-19T15:55:15Z"
  },
  {
   "id": "nvidia-rtx-3080-12g",
   "name": "GeForce RTX 3080 12G",
   "priceMin": 967.59,
   "prices": [
-   {
-    "shop": "amazon.es",
-    "price": 1812.6,
-    "currency": "EUR",
-    "url": "https://www.amazon.es/dp/B09TNLQRSJ?tag=fraym08-21",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:46:26Z",
-    "product": "MSI Gaming GeForce RTX 3080 LHR 12GB GDRR6X 384-Bit HDMI/DP Nvlink Torx Fan 3 Ampere Architecture OC Tarjeta gráfica (RTX 3080 Ventus 3X Plus 12G OC LHR)",
-    "image": null
-   },
-   {
-    "shop": "amazon.co.uk",
-    "price": 1507.31,
-    "currency": "GBP",
-    "url": "https://www.amazon.co.uk/dp/B09TNLQRSJ?tag=fraym0a-21",
-    "inStock": true,
-    "lastSeen": "2026-11-19T00:25:25Z",
-    "product": "msi Gaming GeForce RTX 3080 LHR 12GB GDRR6X 384-Bit HDMI/DP Nvlink Torx Fan 3 Ampere Architecture OC Graphics Card (RTX 3080 Ventus 3X Plus 12G OC LHR)",
-    "image": null
-   },
    {
     "shop": "amazon.it",
     "price": 1575.34,
@@ -5308,12 +5368,32 @@
     "image": null
    },
    {
+    "shop": "amazon.es",
+    "price": 1812.6,
+    "currency": "EUR",
+    "url": "https://www.amazon.es/dp/B09TNLQRSJ?tag=fraym08-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:38:45Z",
+    "product": "MSI Gaming GeForce RTX 3080 LHR 12GB GDRR6X 384-Bit HDMI/DP Nvlink Torx Fan 3 Ampere Architecture OC Tarjeta gráfica (RTX 3080 Ventus 3X Plus 12G OC LHR)",
+    "image": null
+   },
+   {
+    "shop": "amazon.co.uk",
+    "price": 1507.31,
+    "currency": "GBP",
+    "url": "https://www.amazon.co.uk/dp/B09TNLQRSJ?tag=fraym0a-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:42:58Z",
+    "product": "msi Gaming GeForce RTX 3080 LHR 12GB GDRR6X 384-Bit HDMI/DP Nvlink Torx Fan 3 Ampere Architecture OC Graphics Card (RTX 3080 Ventus 3X Plus 12G OC LHR)",
+    "image": null
+   },
+   {
     "shop": "amazon.fr",
-    "price": 1472.97,
+    "price": 1471.88,
     "currency": "EUR",
     "url": "https://www.amazon.fr/dp/B09TNLQRSJ?tag=fraym-21",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:01:55Z",
+    "lastSeen": "2026-11-19T15:45:28Z",
     "product": "MSI Gaming GeForce RTX 3080 LHR 12 Go GDRR6X 384 Bits HDMI/DP Nvlink Torx Fan 3 Ampères Architecture OC Carte Graphique (RTX 3080 Ventus 3X Plus 12G OC LHR)",
     "image": null
    },
@@ -5323,29 +5403,19 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B09TNLQRSJ?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:14:55Z",
+    "lastSeen": "2026-11-19T15:52:56Z",
     "product": "msi Gaming GeForce RTX 3080 LHR 12GB GDRR6X 384-Bit HDMI/DP Nvlink Torx Fan 3 Ampere Architecture OC Graphics Card (RTX 3080 Ventus 3X Plus 12G OC LHR) : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-19T06:14:55Z"
+  "lastUpdated": "2026-11-19T15:52:56Z"
  },
  {
   "id": "radprow7600",
   "name": "Radeon PRO W7600",
   "priceMin": 554.63,
   "prices": [
-   {
-    "shop": "ldlc.com",
-    "price": 739.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00570790.html",
-    "inStock": false,
-    "lastSeen": "2026-11-18T15:02:32Z",
-    "product": "AMD Radeon Pro W7600",
-    "image": "https://media.ldlc.com/r1600/ld/products/00/06/06/36/LD0006063698.jpg"
-   },
    {
     "shop": "amazon.es",
     "price": 674.88,
@@ -5405,10 +5475,20 @@
     "lastSeen": "2026-11-19T06:14:57Z",
     "product": "AMD Radeon Pro W7600 100-300000077 : Electronics",
     "image": null
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 739.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00570790.html",
+    "inStock": false,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "AMD Radeon Pro W7600",
+    "image": "https://media.ldlc.com/r1600/ld/products/00/06/06/36/LD0006063698.jpg"
    }
   ],
   "image": "images/gpus-radprow7600.jpg",
-  "lastUpdated": "2026-11-19T06:14:57Z"
+  "lastUpdated": "2026-11-19T15:08:49Z"
  },
  {
   "id": "radprow7700",
@@ -5439,13 +5519,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B07QC8RSZB?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:15:01Z",
+    "lastSeen": "2026-11-19T15:53:02Z",
     "product": "ZOTAC Gaming GeForce RTX 2060, Black : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-19T06:15:01Z"
+  "lastUpdated": "2026-11-19T15:53:02Z"
  },
  {
   "id": "rtx3090ti",
@@ -5484,7 +5564,7 @@
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-19T06:14:42Z"
+  "lastUpdated": "2026-11-19T15:52:44Z"
  },
  {
   "id": "rtx4070",
@@ -5497,7 +5577,7 @@
     "currency": "EUR",
     "url": "https://www.amazon.fr/dp/B0BZHCQ6PF?tag=fraym-21",
     "inStock": true,
-    "lastSeen": "2026-11-18T15:45:46Z",
+    "lastSeen": "2026-11-19T15:39:28Z",
     "product": "Gigabyte GeForce RTX 4070 WINDFORCE OC 12G Carte Graphique, 3 Ventilateurs WINDFORCE, 12 Go 192 Bits GDDR6X, GV-N4070WF3OC-12GD Carte vidéo",
     "image": null
    },
@@ -5507,13 +5587,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0BZHCQ6PF?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:15:10Z",
+    "lastSeen": "2026-11-19T15:53:09Z",
     "product": "GIGABYTE GeForce RTX 4070 WINDFORCE OC 12G Graphics Card, 3X WINDFORCE Fans, 12GB 192-bit GDDR6X, GV-N4070WF3OC-12GD Video Card : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-19T06:15:10Z"
+  "lastUpdated": "2026-11-19T15:53:09Z"
  },
  {
   "id": "rtx4070s",
@@ -5546,13 +5626,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0CSJV61BN?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:15:12Z",
+    "lastSeen": "2026-11-19T15:53:11Z",
     "product": "GIGABYTE GeForce RTX 4070 Super WINDFORCE OC 12G Graphics Card, 3X WINDFORCE Fans, 12GB 192-bit GDDR6X, GV-N407SWF3OC-12GD Video Card : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-19T06:15:12Z"
+  "lastUpdated": "2026-11-19T15:53:11Z"
  },
  {
   "id": "rtx4070tis",
@@ -5565,13 +5645,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0DC6HYBYR?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:15:15Z",
+    "lastSeen": "2026-11-19T15:53:14Z",
     "product": "Gigabyte GeForce RTX­­ 4070 Ti Super WINDFORCE MAX OC Graphics Card - 16GB GDDR6X, 256bit, PCI-E 4.0, 2655MHz Core Clock, 3 x DisplayPort 1.4a, 1 x HDMI 2.1a, NVIDIA DLSS 3, GV-N407TSWF3MAX OC-16GD : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-19T06:15:15Z"
+  "lastUpdated": "2026-11-19T15:53:14Z"
  },
  {
   "id": "rtx6000ada",
@@ -5604,13 +5684,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0BNYR4VX8?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:17:34Z",
+    "lastSeen": "2026-11-19T15:55:24Z",
     "product": "PNY NVIDIA RTX 6000 ADA : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-19T06:17:34Z"
+  "lastUpdated": "2026-11-19T15:55:24Z"
  },
  {
   "id": "rx7900xt",
@@ -5652,13 +5732,13 @@
     "currency": "GBP",
     "url": "https://www.amazon.co.uk/dp/B0BT524DL4?tag=fraym0a-21",
     "inStock": true,
-    "lastSeen": "2026-11-19T00:29:11Z",
+    "lastSeen": "2026-11-19T15:44:16Z",
     "product": "Sapphire NITRO+ Radeon RX 7900 XTX Vapor-X AMD 24 Go GDDR6",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-19T00:29:11Z"
+  "lastUpdated": "2026-11-19T15:44:16Z"
  },
  {
   "id": "nvidia-rtx-2070",
@@ -5671,13 +5751,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B07JBTS8HR?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:16:23Z",
+    "lastSeen": "2026-11-19T15:54:15Z",
     "product": "Gigabyte GeForce RTX 2070 Windforce 8G Graphics Card, 3X Windforce Fans, 8GB 256-Bit GDDR6, GV-N2070WF3-8GC Video Card : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-19T06:16:23Z"
+  "lastUpdated": "2026-11-19T15:54:15Z"
  },
  {
   "id": "rx7700xt",
@@ -5698,13 +5778,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B01I5O5AP2?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:14:34Z",
+    "lastSeen": "2026-11-19T15:52:36Z",
     "product": "ZOTAC GeForce GTX 1060 AMP Edition, ZT-P10600B-10M, 6GB GDDR5 VR Ready Super Compact Gaming Graphics Card : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-19T06:14:34Z"
+  "lastUpdated": "2026-11-19T15:52:36Z"
  },
  {
   "id": "amd-rx-560",
@@ -5875,13 +5955,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B09YHTMKL2?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T00:33:14Z",
+    "lastSeen": "2026-11-19T15:44:23Z",
     "product": "MSI Gaming Radeon RX 6750 XT 192-bit 12GB GDDR6 DP/HDMI Triple Torx 4.0 Fans FreeSync DirectX 12 VR Ready OC Graphics Card (RX 6750 XT Gaming X Trio 12G) : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-19T00:33:14Z"
+  "lastUpdated": "2026-11-19T15:44:23Z"
  },
  {
   "id": "rx6650xt",
@@ -5894,13 +5974,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B09VYHB8XG?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:14:43Z",
+    "lastSeen": "2026-11-19T15:52:45Z",
     "product": "PowerColor Hellhound AMD Radeon RX 6650 XT Graphics Card with 8GB GDDR6 Memory : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-19T06:14:43Z"
+  "lastUpdated": "2026-11-19T15:52:45Z"
  },
  {
   "id": "intel-arc-a580",
@@ -5940,7 +6020,7 @@
  {
   "id": "amd-rx-550",
   "name": "Radeon RX 550",
-  "priceMin": 104.62,
+  "priceMin": 88.93,
   "prices": [
    {
     "shop": "morele.net",
@@ -5954,33 +6034,23 @@
    },
    {
     "shop": "amazon.com",
-    "price": 112.99,
+    "price": 96.04,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B08VHWFWSD?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:17:08Z",
+    "lastSeen": "2026-11-19T15:54:58Z",
     "product": "MAXSUN AMD Radeon RX 550 4GB GDDR5 ITX Computer PC Gaming Video Graphics Card GPU 128-Bit DirectX 12 PCI Express X16 3.0 DVI-D Dual Link, HDMI, DisplayPort : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-19T06:17:08Z"
+  "lastUpdated": "2026-11-19T15:54:58Z"
  },
  {
   "id": "rx6700xt",
   "name": "Radeon RX 6700 XT",
   "priceMin": 770.26,
   "prices": [
-   {
-    "shop": "amazon.co.uk",
-    "price": 985.18,
-    "currency": "GBP",
-    "url": "https://www.amazon.co.uk/dp/B002TCB038?tag=fraym0a-21",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:47:57Z",
-    "product": "MSI Radeon RX 6700 XT MECH 2X 12G OC Gaming Graphics Card - 12GB GDDR6, 2620MHz, PCI Express 4, 192-bit, 3x DP v 1.4, HDMI 2.1 (Supports 4K & 8K)",
-    "image": null
-   },
    {
     "shop": "morele.net",
     "price": 3312.12,
@@ -5990,10 +6060,20 @@
     "lastSeen": "2026-11-18T23:53:24Z",
     "product": "Karta graficzna Sapphire Radeon RX 6700 XT Pulse Gaming OC 12GB GDDR6 (11306-05-20G)",
     "image": "https://images.morele.net/i256/9289654_4_i256.jpg"
+   },
+   {
+    "shop": "amazon.co.uk",
+    "price": 978.17,
+    "currency": "GBP",
+    "url": "https://www.amazon.co.uk/dp/B002TCB038?tag=fraym0a-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:39:19Z",
+    "product": "MSI Radeon RX 6700 XT MECH 2X 12G OC Gaming Graphics Card - 12GB GDDR6, 2620MHz, PCI Express 4, 192-bit, 3x DP v 1.4, HDMI 2.1 (Supports 4K & 8K)",
+    "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-18T23:53:24Z"
+  "lastUpdated": "2026-11-19T15:39:19Z"
  },
  {
   "id": "rx6800xt",
@@ -6132,7 +6212,7 @@
  {
   "id": "nvidia-gtx-1050",
   "name": "GeForce GTX 1050",
-  "priceMin": 177.61,
+  "priceMin": 145.88,
   "prices": [
    {
     "shop": "amazon.fr",
@@ -6143,10 +6223,20 @@
     "lastSeen": "2026-11-19T06:08:47Z",
     "product": "Zotac GeForce GTX 1050 Mini GeForce GTX 1050 2Go GDDR5 - Cartes Graphiques (NVIDIA, GeForce GTX 1050, 7680 x 4320 Pixels, GDDR5, PCI Express 3.0, 2.0b)",
     "image": null
+   },
+   {
+    "shop": "amazon.com",
+    "price": 157.55,
+    "currency": "USD",
+    "url": "https://www.amazon.com/dp/B01M4MIU94?tag=fraym-20",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:55:09Z",
+    "product": "ZOTAC GeForce GTX 1050, 2GB GDDR5 DisplayPort, HDMI, Dual-Link DVI-D, Super Compact Gaming Graphics Card (ZT-P10500A-10L) : Electronics",
+    "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-19T06:08:47Z"
+  "lastUpdated": "2026-11-19T15:55:09Z"
  },
  {
   "id": "nvidia-gtx-1650-super",
@@ -6169,12 +6259,12 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B081Q6KKDS?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:17:20Z",
+    "lastSeen": "2026-11-19T15:55:10Z",
     "product": "GIGABYTE MSI GeForce GTX 1650 Super Ventus XS OC Gaming GeForce GTX 1650 Super 128-Bit HDMI/DP/DVI 4GB GDRR6 HDCP Support DirectX 12 Dual Fan VR Ready OC Graphics Card (GTX 1650 Super Ventus XS OC) : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-19T06:17:20Z"
+  "lastUpdated": "2026-11-19T15:55:10Z"
  }
 ]

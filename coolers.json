@@ -10,7 +10,7 @@
  {
   "id": "cooler-master-hyper-212",
   "name": "Cooler Master Hyper 212",
-  "priceMin": 18.6,
+  "priceMin": 16.66,
   "prices": [
    {
     "shop": "morele.net",
@@ -173,18 +173,28 @@
     "image": "https://media.ldlc.com/r150/ld/products/00/06/29/80/LD0006298047.jpg"
    },
    {
+    "shop": "amazon.fr",
+    "price": 16.66,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B0CGJ1J5KL?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:38:51Z",
+    "product": "Cooler Master Hyper 212 Black Refroidisseur CPU Ventirad - Finition Aluminium, 4 Caloducs Compacts à Contact Direct Continu, Ventilateur SickleFlow 120 Edge, Brackets LGA1700 & AM5 - Noir",
+    "image": null
+   },
+   {
     "shop": "amazon.com",
-    "price": 34.62,
+    "price": 24.98,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0CGJ1J5KL?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:16:46Z",
+    "lastSeen": "2026-11-19T15:54:38Z",
     "product": "Cooler Master Hyper 212 Black CPU Air Cooler - Aluminium Finish, 4 Compact Continuous Direct Contact Heat Pipes, SickleFlow 120 Edge Fan, LGA1700 & AM5 Brackets - Black : Electronics",
     "image": null
    }
   ],
   "image": "images/coolers-cooler-master-hyper-212.jpg",
-  "lastUpdated": "2026-11-19T06:16:46Z"
+  "lastUpdated": "2026-11-19T15:54:38Z"
  },
  {
   "id": "thermalright-assassin-x120-r",
@@ -271,16 +281,6 @@
   "priceMin": 45.35,
   "prices": [
    {
-    "shop": "amazon.fr",
-    "price": 59.11,
-    "currency": "EUR",
-    "url": "https://www.amazon.fr/dp/B0B8WMKGWX?tag=fraym-21",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:45:20Z",
-    "product": "Thermalright Peerless Assassin 120 Refroidisseur d'air CPU 6 caloducs Double ventilateur TL-C12 PWM 120 mm Couvercle de dissipateur thermique en aluminium Technologie AGHP pour AMD AM4/AM5 Intel LGA",
-    "image": null
-   },
-   {
     "shop": "morele.net",
     "price": 195.0,
     "currency": "PLN",
@@ -359,15 +359,25 @@
     "lastSeen": "2026-11-19T05:36:19Z",
     "product": "Thermalright Peerless Assassin 120 Vision ARGB - Blanc",
     "image": "https://media.materiel.net/r250/products/MN0006329437.jpg"
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 59.11,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B0B8WMKGWX?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:39:11Z",
+    "product": "Thermalright Peerless Assassin 120 Refroidisseur d'air CPU 6 caloducs Double ventilateur TL-C12 PWM 120 mm Couvercle de dissipateur thermique en aluminium Technologie AGHP pour AMD AM4/AM5 Intel LGA",
+    "image": null
    }
   ],
   "image": "images/coolers-thermalright-peerless-assassin-120.jpg",
-  "lastUpdated": "2026-11-19T05:36:19Z"
+  "lastUpdated": "2026-11-19T15:39:11Z"
  },
  {
   "id": "thermalright-phantom-spirit-120-se",
   "name": "Thermalright Phantom Spirit 120 SE",
-  "priceMin": 35.18,
+  "priceMin": 28.14,
   "prices": [
    {
     "shop": "morele.net",
@@ -381,17 +391,17 @@
    },
    {
     "shop": "amazon.com",
-    "price": 37.99,
+    "price": 30.39,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0D976HB8D?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:07:59Z",
+    "lastSeen": "2026-11-19T15:48:35Z",
     "product": "Thermalright Phantom Spirit 120 SE Black CPU Air Cooler,Doubler CPU Fans and Double Towers,154mm High CPU Cooler,for AMD:AM4/AM5,Intel 1150/1151/1200/1851/1700(PS120 SE Black) : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-19T06:07:59Z"
+  "lastUpdated": "2026-11-19T15:48:35Z"
  },
  {
   "id": "arctic-freezer-36",
@@ -594,13 +604,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B09VG6NBSJ?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:13:15Z",
+    "lastSeen": "2026-11-19T15:51:31Z",
     "product": "ARCTIC Freezer 36 - Single-Tower CPU Cooler with Push-Pull, Two Pressure-optimised 120 mm P Fans, Fluid Dynamic Bearing, 200–1800 RPM, 4 Heatpipes, incl. MX-6 Thermal Compound : Electronics",
     "image": null
    }
   ],
   "image": "images/coolers-arctic-freezer-36.jpg",
-  "lastUpdated": "2026-11-19T06:13:15Z"
+  "lastUpdated": "2026-11-19T15:51:31Z"
  },
  {
   "id": "deepcool-ak400",
@@ -883,16 +893,6 @@
   "priceMin": 84.95,
   "prices": [
    {
-    "shop": "ldlc.com",
-    "price": 84.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00576680.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T23:53:24Z",
-    "product": "be quiet! Dark Rock Pro 5",
-    "image": "https://media.ldlc.com/r1600/ld/products/00/06/07/38/LD0006073865.jpg"
-   },
-   {
     "shop": "morele.net",
     "price": 440.38,
     "currency": "PLN",
@@ -921,10 +921,20 @@
     "lastSeen": "2026-11-19T05:36:19Z",
     "product": "be quiet! Dark Rock Pro 5 CPU Air Cooler Black",
     "image": "https://ccimg.canadacomputers.com/Products/800x800/232/387/247478/65916.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 84.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00576680.html",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "be quiet! Dark Rock Pro 5",
+    "image": "https://media.ldlc.com/r1600/ld/products/00/06/07/38/LD0006073865.jpg"
    }
   ],
   "image": "images/coolers-be-quiet-dark-rock-pro-5.jpg",
-  "lastUpdated": "2026-11-19T05:36:19Z"
+  "lastUpdated": "2026-11-19T15:08:49Z"
  },
  {
   "id": "noctua-nh-u12s-redux",
@@ -977,13 +987,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B08WPDD6GD?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:16:52Z",
+    "lastSeen": "2026-11-19T15:54:42Z",
     "product": "Noctua NH-U12S redux, Quiet High-Performance Single Tower CPU Cooler | 158mm Height, Low-Noise Cooling, 5 Heatpipes, For Intel & AMD, 120mm Fan, 100% RAM Compatibility : Electronics",
     "image": null
    }
   ],
   "image": "images/coolers-noctua-nh-u12s-redux.jpg",
-  "lastUpdated": "2026-11-19T06:16:52Z"
+  "lastUpdated": "2026-11-19T15:54:42Z"
  },
  {
   "id": "noctua-nh-u12a",
@@ -1036,13 +1046,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B07PN4RDW3?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:13:13Z",
+    "lastSeen": "2026-11-19T15:51:30Z",
     "product": "Noctua NH-U12A, Quiet High-Performance Single Tower CPU Cooler | 158mm Height, High-End Low-Noise Cooling, For Intel & AMD, Dual 120mm Fans, 100% RAM Compatibility, Rich Accessory Kit : Electronics",
     "image": null
    }
   ],
   "image": "images/coolers-noctua-nh-u12a.jpg",
-  "lastUpdated": "2026-11-19T06:13:13Z"
+  "lastUpdated": "2026-11-19T15:51:30Z"
  },
  {
   "id": "noctua-nh-d15",
@@ -1254,13 +1264,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0D5B5B821?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:13:02Z",
+    "lastSeen": "2026-11-19T15:51:22Z",
     "product": "Noctua NH-D15 G2 LBC, Quiet High-Performance Dual Tower CPU Cooler | 168mm Height, Ultimate Low-Noise Cooling, 8 Heatpipes, AMD AM5/AM4 Specific Low Base Convexity, Dual 140mm Fans : Electronics",
     "image": null
    }
   ],
   "image": "images/coolers-noctua-nh-d15-g2.jpg",
-  "lastUpdated": "2026-11-19T06:13:02Z"
+  "lastUpdated": "2026-11-19T15:51:22Z"
  },
  {
   "id": "scythe-fuma-3",
@@ -1377,7 +1387,7 @@
    }
   ],
   "image": "images/coolers-arctic-liquid-freezer-iii-280.jpg",
-  "lastUpdated": "2026-11-19T06:12:46Z"
+  "lastUpdated": "2026-11-19T15:51:10Z"
  },
  {
   "id": "arctic-liquid-freezer-iii-360",
@@ -1472,16 +1482,6 @@
     "lastSeen": "2026-11-19T05:36:19Z",
     "product": "NZXT KRAKEN CORE 240 RGB 240mm Liquid Cooler Black",
     "image": "https://ccimg.canadacomputers.com/Products/800x800/232/390/281172/01353.jpg"
-   },
-   {
-    "shop": "amazon.com",
-    "price": 249.99,
-    "currency": "USD",
-    "url": "https://www.amazon.com/dp/B0BNYQJJLV?tag=fraym-20",
-    "inStock": true,
-    "lastSeen": "2026-11-19T06:13:08Z",
-    "product": "NZXT Kraken 240-240mm AIO CPU Liquid Cooler - Customizable 1.54\"\" Square LCD Display for Images, Performance Metrics and More - High-Performance Pump - 2 x F120P Fans - Black (RL-KN240-B1) : Electronics",
-    "image": null
    }
   ],
   "image": "images/coolers-nzxt-kraken-240.jpg",
@@ -1847,17 +1847,17 @@
    },
    {
     "shop": "amazon.com",
-    "price": 256.0,
+    "price": 255.0,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0CQ4C265S?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:13:00Z",
+    "lastSeen": "2026-11-19T15:51:21Z",
     "product": "Lian-Li Galahad II 360 Trinity SL-Inf, AIO Water Cooler, ARGB - Black : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-19T06:13:00Z"
+  "lastUpdated": "2026-11-19T15:51:21Z"
  },
  {
   "id": "deepcool-lt520",
@@ -2211,10 +2211,20 @@
     "lastSeen": "2026-11-19T06:04:37Z",
     "product": "CORSAIR NAUTILUS 360 RS ARGB Refroidisseur Liquide pour CPU – Blanc | 360mm AIO, Faible Bruit, Connexion Directe de Carte Mère, Intel LGA 1851/1700, AMD AM5/AM4, 3x RS120 ARGB Ventilateurs Inclus",
     "image": null
+   },
+   {
+    "shop": "amazon.com",
+    "price": 129.99,
+    "currency": "USD",
+    "url": "https://www.amazon.com/dp/B0DF7G8JFP?tag=fraym-20",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:46:40Z",
+    "product": "CORSAIR NAUTILUS 360 RS ARGB Low-Noise Liquid CPU Cooler – White | 360mm AIO, Direct Motherboard Connection, Daisy-Chain, Intel LGA 1851/1700, AMD AM5/AM4, 3x RS120 ARGB Fans Included : Electronics",
+    "image": null
    }
   ],
   "image": "images/coolers-corsair-nautilus-360-rs.jpg",
-  "lastUpdated": "2026-11-19T06:04:37Z"
+  "lastUpdated": "2026-11-19T15:46:40Z"
  },
  {
   "id": "be-quiet-pure-loop-2-fx-280",
@@ -2276,13 +2286,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B08HM3X5ZV?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:04:06Z",
+    "lastSeen": "2026-11-19T15:46:43Z",
     "product": "Noctua NH-D15S chromax.Black, Quiet High-Performance CPU Cooler | 160mm Height, Low-Noise Cooling, 6 Heatpipes, For Intel & AMD, Dual 140mm Fans, High RAM Compatibility, Rich Accessory Kit : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-19T06:04:06Z"
+  "lastUpdated": "2026-11-19T15:46:43Z"
  },
  {
   "id": "noctua-nh-u14s",
@@ -2380,18 +2390,28 @@
     "image": "https://media.ldlc.com/r150/ld/products/00/06/14/17/LD0006141787.jpg"
    },
    {
+    "shop": "amazon.it",
+    "price": 103.36,
+    "currency": "EUR",
+    "url": "https://www.amazon.it/dp/B00C9FLSLY?tag=fraym06-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:40:05Z",
+    "product": "Noctua NH-U14S, Dissipatore Tower Silenzioso Alte Prestazioni 140mm Marrone | Alto 165mm, Raffreddamento Silenzioso High-End 6 Heatpipe, Intel e AMD, Ventola 140mm, Buona Compatibilità RAM, Kit Accessori : Noctua",
+    "image": null
+   },
+   {
     "shop": "amazon.com",
     "price": 89.95,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B00C9FLSLY?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:13:06Z",
+    "lastSeen": "2026-11-19T15:51:25Z",
     "product": "Noctua NH-U14S, Quiet High-Performance Tower CPU Cooler 140mm Brown | 165mm Height, HighEnd Low-Noise Cooling, 6 Heatpipes, For Intel & AMD, 140mm Fan, Good RAM Compatibility, Rich Accessory Kit : Electronics",
     "image": null
    }
   ],
   "image": "images/coolers-noctua-nh-u14s.jpg",
-  "lastUpdated": "2026-11-19T06:13:06Z"
+  "lastUpdated": "2026-11-19T15:51:25Z"
  },
  {
   "id": "noctua-nh-l12s",
@@ -2444,13 +2464,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B075SF5QQ8?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:13:04Z",
+    "lastSeen": "2026-11-19T15:51:24Z",
     "product": "Noctua NH-L12S, Quiet High-Performance Low-Profile CPU Cooler | 70mm Height, ITX SFF Low-Noise Cooling, 4 Heatpipes, For Intel & AMD, 120mm Slim Fan, Rich Accessory Kit : Noctua: Electronics",
     "image": null
    }
   ],
   "image": "images/coolers-noctua-nh-l12s.jpg",
-  "lastUpdated": "2026-11-19T06:13:04Z"
+  "lastUpdated": "2026-11-19T15:51:24Z"
  },
  {
   "id": "be-quiet-dark-rock-elite",
@@ -2601,10 +2621,20 @@
     "lastSeen": "2026-11-18T23:53:24Z",
     "product": "Chłodzenie CPU Deepcool AK500S Digital (R-AK500S-BKADMN-G)",
     "image": "https://images.morele.net/i256/13190305_0_i256.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 39.88,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/cpu-air-coolers/231868/deepcool-ak500-high-performance-cpu-cooler-5-copper-heat-pipes-sing-r-ak500-bknnmt-g.html?keyword=deepcool ak500",
+    "inStock": false,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "DeepCool AK500 High-Performance CPU Cooler, 5 Copper Heat Pipes, Sing",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/232/387/231868/44801.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-18T23:53:24Z"
+  "lastUpdated": "2026-11-19T15:08:49Z"
  },
  {
   "id": "deepcool-assassin-iv",
@@ -2640,10 +2670,40 @@
     "lastSeen": "2026-11-18T23:53:24Z",
     "product": "Chłodzenie CPU Deepcool Assassin IV VC Vision (R-ASN4-BKNVMD-G)",
     "image": "https://images.morele.net/i256/14458718_4_i256.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 79.88,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/cpu-air-coolers/250392/deepcool-assassin-iv-wh-premium-cpu-air-cooler-white-dual-tower-12-r-asn4-whnnmt-g.html?keyword=deepcool assassin iv",
+    "inStock": false,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "DeepCool ASSASSIN IV WH Premium CPU Air Cooler, White, Dual-Tower, 12",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/232/387/250392/50264.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 89.88,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/cpu-air-coolers/239707/deepcool-assassin-iv-cpu-air-cooler-black-r-asn4-bknnmt-g.html?keyword=deepcool assassin iv",
+    "inStock": false,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "DeepCool Assassin IV CPU Air Cooler Black",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/232/387/239707/03753.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 179.99,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/cpu-air-coolers/268409/deepcool-assassin-iv-vc-vision-premium-cpu-air-cooler-dual-tower-bl-r-asn4-bknvmd-g.html?keyword=deepcool assassin iv",
+    "inStock": false,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "DeepCool ASSASSIN IV VC VISION Premium CPU Air Cooler, Dual-Tower, Bl",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/232/387/268409/96955.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-18T23:53:24Z"
+  "lastUpdated": "2026-11-19T15:08:49Z"
  },
  {
   "id": "thermalright-frost-commander-140",
@@ -2768,18 +2828,38 @@
     "image": null
    },
    {
+    "shop": "canadacomputers.com",
+    "price": 54.99,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/cpu-air-coolers/242552/cooler-master-hyper-212-halo-cpu-air-cooler-black-rr-s4kk-20pa-r1.html?keyword=cooler master hyper 212 halo",
+    "inStock": false,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "COOLER MASTER Hyper 212 Halo CPU Air Cooler Black",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/232/387/242552/52181.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 54.99,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/cpu-air-coolers/242559/cooler-master-hyper-212-halo-cpu-air-cooler-white-rr-s4ww-20pa-r1.html?keyword=cooler master hyper 212 halo",
+    "inStock": false,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "COOLER MASTER Hyper 212 Halo CPU Air Cooler White",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/232/387/242559/59893.jpg"
+   },
+   {
     "shop": "amazon.com",
     "price": 31.02,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B07NXZL1CL?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:12:56Z",
+    "lastSeen": "2026-11-19T15:51:18Z",
     "product": "Cooler Master Hyper 212 Halo CPU Sink - Black Aluminum Finish, 4 Heat Continuous Direct Contact Pipes with Fins, MF120 Halo2 ARGB Fan, ARGB Detects, LGA1700 and AM5 Support - Black : Sports & Outdoors",
     "image": null
    }
   ],
   "image": "images/coolers-cooler-master-hyper-212-halo.jpg",
-  "lastUpdated": "2026-11-19T06:12:56Z"
+  "lastUpdated": "2026-11-19T15:51:18Z"
  },
  {
   "id": "arctic-freezer-36-co",
@@ -2817,42 +2897,73 @@
     "image": "https://media.ldlc.com/r150/ld/products/00/06/12/03/LD0006120399.jpg"
    },
    {
+    "shop": "canadacomputers.com",
+    "price": 64.99,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/cpu-air-coolers/254054/arctic-freezer-36-co-s1700-am5-direct-touch-dual-12cm-pressure-optimized-fan-acfre00122a.html?keyword=arctic freezer 36 co",
+    "inStock": false,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "Arctic Freezer 36 CO S1700 AM5 Direct touch dual 12CM Pressure optimized fan",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/232/387/254054/68312.jpg"
+   },
+   {
     "shop": "amazon.com",
     "price": 30.27,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B09VG62KBZ?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:12:44Z",
+    "lastSeen": "2026-11-19T15:51:09Z",
     "product": "ARCTIC Freezer 36 CO - Single-Tower CPU Cooler with Push-Pull, Two Pressure-optimised 120 mm P Fans, Fluid Dynamic Bearing, 200–1800 RPM, 4 Heatpipes, incl. MX-6 Thermal Compound : Health & Household",
     "image": null
    }
   ],
   "image": "images/coolers-arctic-freezer-36-co.jpg",
-  "lastUpdated": "2026-11-19T06:12:44Z"
+  "lastUpdated": "2026-11-19T15:51:09Z"
  },
  {
   "id": "arctic-liquid-freezer-iii-420",
   "name": "Arctic Liquid Freezer III 420",
-  "priceMin": null,
-  "prices": [],
+  "priceMin": 139.45,
+  "prices": [
+   {
+    "shop": "canadacomputers.com",
+    "price": 204.99,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/aio-cpu-liquid-coolers/252929/arctic-liquid-freezer-iii-420-aio-cpu-water-cooler-black-acfre00137a.html?keyword=arctic liquid freezer iii 420",
+    "inStock": false,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "Arctic Liquid Freezer III 420 AIO CPU Water Cooler, Black",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/232/390/252929/37112.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 229.99,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/aio-cpu-liquid-coolers/252937/arctic-liquid-freezer-iii-420-a-rgb-aio-cpu-water-cooler-white-acfre00153a.html?keyword=arctic liquid freezer iii 420",
+    "inStock": false,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "Arctic Liquid Freezer III 420 A-RGB AIO CPU Water Cooler, White",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/232/390/252937/31343.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 229.99,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/aio-cpu-liquid-coolers/252933/arctic-liquid-freezer-iii-420-a-rgb-aio-cpu-water-cooler-black-acfre00145a.html?keyword=arctic liquid freezer iii 420",
+    "inStock": false,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "Arctic Liquid Freezer III 420 A-RGB AIO CPU Water Cooler, Black",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/232/390/252933/50413.jpg"
+   }
+  ],
   "image": "images/coolers-arctic-liquid-freezer-iii-420.jpg",
-  "lastUpdated": "2026-11-18T00:27:45Z"
+  "lastUpdated": "2026-11-19T15:08:49Z"
  },
  {
   "id": "nzxt-kraken-280",
   "name": "NZXT Kraken 280",
   "priceMin": 93.99,
   "prices": [
-   {
-    "shop": "amazon.it",
-    "price": 160.09,
-    "currency": "EUR",
-    "url": "https://www.amazon.it/dp/B0BNYQVLSP?tag=fraym06-21",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:46:33Z",
-    "product": "NZXT Kraken 280 - Dissipatore CPU AIO 280mm, LCD - Nero | AIO 280mm con LCD quadrato personalizzabile da 1.54 pollici. Monitora le temp o mostra arte, tutto gestito tramite CAM.",
-    "image": null
-   },
    {
     "shop": "morele.net",
     "price": 501.38,
@@ -2894,16 +3005,6 @@
     "image": null
    },
    {
-    "shop": "amazon.com",
-    "price": 188.58,
-    "currency": "USD",
-    "url": "https://www.amazon.com/dp/B0BNYQVLSP?tag=fraym-20",
-    "inStock": true,
-    "lastSeen": "2026-11-19T06:13:25Z",
-    "product": "NZXT Kraken 280 - RL-KN280-B1-280mm AIO CPU Liquid Cooler - Customizable 1.54\" Square LCD Display for Images, Performance Metrics and More - 2 x F140P Fans - Black : Electronics",
-    "image": null
-   },
-   {
     "shop": "amazon.es",
     "price": 158.78,
     "currency": "EUR",
@@ -2912,10 +3013,30 @@
     "lastSeen": "2026-11-19T06:14:19Z",
     "product": "NZXT Kraken 280 - Refrigerador Líquido AIO 280mm, LCD - Negro | AIO de 280mm con LCD cuadrada personalizable de 1.54 in. Monitorea temperaturas o muestra arte, todo controlado con CAM.",
     "image": null
+   },
+   {
+    "shop": "amazon.it",
+    "price": 160.09,
+    "currency": "EUR",
+    "url": "https://www.amazon.it/dp/B0BNYQVLSP?tag=fraym06-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:40:09Z",
+    "product": "NZXT Kraken 280 - Dissipatore CPU AIO 280mm, LCD - Nero | AIO 280mm con LCD quadrato personalizzabile da 1.54 pollici. Monitora le temp o mostra arte, tutto gestito tramite CAM.",
+    "image": null
+   },
+   {
+    "shop": "amazon.com",
+    "price": 188.58,
+    "currency": "USD",
+    "url": "https://www.amazon.com/dp/B0BNYQVLSP?tag=fraym-20",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:51:39Z",
+    "product": "NZXT Kraken 280 - RL-KN280-B1-280mm AIO CPU Liquid Cooler - Customizable 1.54\" Square LCD Display for Images, Performance Metrics and More - 2 x F140P Fans - Black : Electronics",
+    "image": null
    }
   ],
   "image": "images/coolers-nzxt-kraken-280.jpg",
-  "lastUpdated": "2026-11-19T06:14:19Z"
+  "lastUpdated": "2026-11-19T15:51:39Z"
  },
  {
   "id": "nzxt-kraken-elite-420",
@@ -2958,13 +3079,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0DN4GS9FM?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:13:27Z",
+    "lastSeen": "2026-11-19T15:51:40Z",
     "product": "NZXT Kraken Elite 420 RGB - 420mm AIO CPU Cooler, LCD - White | Flagship 420mm RGB AIO with 2.36-inch LCD and F420 RGB Core fan. Our most powerful cooler, fully controlled via CAM. : Industrial & Scientific",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-19T06:13:27Z"
+  "lastUpdated": "2026-11-19T15:51:40Z"
  },
  {
   "id": "corsair-icue-h115i-elite",
@@ -3176,10 +3297,70 @@
     "lastSeen": "2026-11-19T06:07:02Z",
     "product": "CORSAIR iCUE LINK TITAN 360 RX RGB Refroidisseur Liquide Pour CPU – Blanc | 360mm AIO, 3x RX120 Ventilateurs RGB Inclus, Convient à Intel LGA 1851/1700, AMD AM5/AM4, Hub du Système iCUE LINK Inclus",
     "image": null
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 189.99,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/aio-cpu-liquid-coolers/262628/corsair-icue-link-titan-360-rx-rgb-cw-9061018-ww.html?keyword=corsair icue link titan 360 rx",
+    "inStock": false,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "CORSAIR iCUE LINK TITAN 360 RX RGB",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/232/390/262628/88272.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 189.99,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/aio-cpu-liquid-coolers/262607/corsair-icue-link-titan-360-rx-rgb-cw-9061021-ww.html?keyword=corsair icue link titan 360 rx",
+    "inStock": false,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "CORSAIR iCUE LINK TITAN 360 RX RGB",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/232/390/262607/55427.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 244.99,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/aio-cpu-liquid-coolers/266036/corsair-icue-link-titan-360-rx-lcd-cw-9061023-ww.html?keyword=corsair icue link titan 360 rx",
+    "inStock": false,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "CORSAIR iCUE LINK TITAN 360 RX LCD",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/232/390/266036/83214.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 244.99,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/aio-cpu-liquid-coolers/266131/corsair-icue-link-titan-360-rx-lcd-cw-9061026-ww.html?keyword=corsair icue link titan 360 rx",
+    "inStock": false,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "CORSAIR iCUE LINK TITAN 360 RX LCD",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/232/390/266131/34436.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 254.99,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/aio-cpu-liquid-coolers/292408/corsair-icue-link-titan-ii-360-rx-rgb-360mm-liquid-cooler-black-cw-9061037-ww.html?keyword=corsair icue link titan 360 rx",
+    "inStock": false,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "CORSAIR iCUE LINK TITAN II 360 RX RGB 360mm Liquid Cooler Black",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/232/390/36295.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 254.99,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/aio-cpu-liquid-coolers/292407/corsair-icue-link-titan-ii-360-rx-rgb-360mm-liquid-cooler-white-cw-9061038-ww.html?keyword=corsair icue link titan 360 rx",
+    "inStock": false,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "CORSAIR iCUE LINK TITAN II 360 RX RGB 360mm Liquid Cooler White",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/232/390/26241.jpg"
    }
   ],
   "image": "images/coolers-corsair-icue-link-titan-360.jpg",
-  "lastUpdated": "2026-11-19T06:07:02Z"
+  "lastUpdated": "2026-11-19T15:08:49Z"
  },
  {
   "id": "lian-li-galahad-ii-lcd-280",
@@ -3225,10 +3406,30 @@
     "lastSeen": "2026-11-18T23:53:24Z",
     "product": "Chłodzenie wodne Lian Li Galahad  II LCD 280 (GA2ALCD28B)",
     "image": "https://images.morele.net/i256/13320761_0_i256.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 309.99,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/aio-cpu-liquid-coolers/243997/lian-li-galahad-ii-lcd-280mm-aio-liquid-cpu-cooler-white-ga2alcd28w.html?keyword=lian li galahad ii lcd 280",
+    "inStock": false,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "LIAN LI Galahad II LCD 280mm AIO Liquid CPU Cooler - White",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/232/390/243997/61950.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 309.99,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/aio-cpu-liquid-coolers/243996/lian-li-galahad-ii-lcd-280mm-aio-liquid-cpu-cooler-black-ga2alcd28b.html?keyword=lian li galahad ii lcd 280",
+    "inStock": false,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "LIAN LI Galahad II LCD 280mm AIO Liquid CPU Cooler - Black",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/232/390/243996/86146.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-18T23:53:24Z"
+  "lastUpdated": "2026-11-19T15:08:49Z"
  },
  {
   "id": "lian-li-hydroshift-lcd-360",
@@ -3436,23 +3637,63 @@
     "image": "https://media.ldlc.com/r150/ld/products/00/06/26/78/LD0006267860.jpg"
    },
    {
+    "shop": "canadacomputers.com",
+    "price": 244.99,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/aio-cpu-liquid-coolers/261830/lian-li-hydroshift-lcd-360s-hslcd36sb.html?keyword=lian li hydroshift lcd 360",
+    "inStock": false,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "LIAN LI HydroShift LCD 360S",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/232/390/261830/25653.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 244.99,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/aio-cpu-liquid-coolers/261831/lian-li-hydroshift-lcd-360s-hslcd36sw.html?keyword=lian li hydroshift lcd 360",
+    "inStock": false,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "LIAN LI HydroShift LCD 360S",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/232/390/261831/51984.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 354.99,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/aio-cpu-liquid-coolers/261840/lian-li-hydroshift-lcd-360tl-hslcd36tb.html?keyword=lian li hydroshift lcd 360",
+    "inStock": false,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "LIAN LI HydroShift LCD 360TL",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/232/390/261840/25069.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 354.99,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/aio-cpu-liquid-coolers/261843/lian-li-hydroshift-lcd-360tl-hslcd36tw.html?keyword=lian li hydroshift lcd 360",
+    "inStock": false,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "LIAN LI HydroShift LCD 360TL",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/232/390/261843/91501.jpg"
+   },
+   {
     "shop": "amazon.com",
     "price": 119.99,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0D83QQWDD?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:13:19Z",
+    "lastSeen": "2026-11-19T15:51:34Z",
     "product": "Lian Li Hydroshift 360 AIO LCD-Black-HSLCD36SB | Pre-Installed 3 x 28MM Fans, Side-Mounted Coolant Pathway, Capture Images, Record Videos, LGA 1851,1700, 1200, AM5,4 : Electronics",
     "image": null
    }
   ],
   "image": "images/coolers-lian-li-hydroshift-lcd-360.jpg",
-  "lastUpdated": "2026-11-19T06:13:19Z"
+  "lastUpdated": "2026-11-19T15:51:34Z"
  },
  {
   "id": "deepcool-ls720",
   "name": "DeepCool LS720",
-  "priceMin": 74.19,
+  "priceMin": 67.95,
   "prices": [
    {
     "shop": "morele.net",
@@ -3483,26 +3724,46 @@
     "lastSeen": "2026-11-18T23:53:24Z",
     "product": "Chłodzenie wodne Deepcool LS720 (R-LS720-BKAMNT-G-1)",
     "image": "https://images.morele.net/i256/11738560_5_i256.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 99.88,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/aio-cpu-liquid-coolers/229264/deepcool-ls720-wh-high-performance-360mm-argb-cpu-liquid-cooler-wh-r-ls720-whamnt-g-1.html?keyword=deepcool ls720",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "DeepCool LS720 WH High-Performance 360mm ARGB  CPU Liquid Cooler - Wh",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/232/390/229264/64780.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 79.88,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/aio-cpu-liquid-coolers/252335/deepcool-ls720s-zero-dark-liquid-cooler-r-ls720-bknnmm-g-1.html?keyword=deepcool ls720",
+    "inStock": false,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "DeepCool LS720S ZERO DARK Liquid Cooler",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/232/390/252335/61570.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 99.88,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/aio-cpu-liquid-coolers/229258/deepcool-ls720-high-performance-360mm-argb-cpu-liquid-cooler-black-r-ls720-bkamnt-g-1.html?keyword=deepcool ls720",
+    "inStock": false,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "DeepCool LS720 High-Performance 360mm ARGB  CPU Liquid Cooler - Black",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/232/390/229258/26372.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-18T23:53:24Z"
+  "lastUpdated": "2026-11-19T15:08:49Z"
  },
  {
   "id": "msi-mag-coreliquid-e360",
   "name": "MSI MAG CoreLiquid E360",
-  "priceMin": 130.48,
+  "priceMin": 68.02,
   "prices": [
-   {
-    "shop": "amazon.it",
-    "price": 170.35,
-    "currency": "EUR",
-    "url": "https://www.amazon.it/dp/B0CJX8729S?tag=fraym06-21",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:46:22Z",
-    "product": "MSI MAG CORELIQUID E360 Bianco - AIO RGB CPU Liquid Cooler - 360mm Radiatore - 3 x 120mm ARGB PWN Fans.",
-    "image": null
-   },
    {
     "shop": "morele.net",
     "price": 561.05,
@@ -3562,10 +3823,60 @@
     "lastSeen": "2026-11-19T05:36:19Z",
     "product": "MSI MAG CORELIQUID E360 White",
     "image": "https://media.ldlc.com/r150/ld/products/00/06/06/05/LD0006060547.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 99.99,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/aio-cpu-liquid-coolers/245841/msi-mag-coreliquid-e360-aio-white-mag-coreliquid-e360-white.html?keyword=msi mag coreliquid e360",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "MSI MAG Coreliquid E360 AIO White",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/232/390/245841/80357.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 99.97,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/aio-cpu-liquid-coolers/245840/msi-mag-coreliquid-e360-aio-liquid-cpu-cooler-360mm-radiator-triple-120mm-argb-pwm-fans-compatible-with-lga-1851-socket-mag-coreliquid-e360.html?keyword=msi mag coreliquid e360",
+    "inStock": false,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "MSI MAG Coreliquid E360 AIO Liquid CPU Cooler, 360mm Radiator, Triple 120mm ARGB PWM Fans, Compatible with LGA 1851 Socket",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/232/390/245840/56395.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 112.48,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/aio-cpu-liquid-coolers/266058/msi-mag-coreliquid-i360-aio-liquid-cpu-cooler-white-360mm-radiator-triple-120mm-argb-pwm-fans-compatible-with-lga-1851-socket-mag-coreliquid-i360-white.html?keyword=msi mag coreliquid e360",
+    "inStock": false,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "MSI MAG Coreliquid I360 AIO Liquid CPU Cooler - White, 360mm Radiator, Triple 120mm ARGB PWM Fans, Compatible with LGA 1851 ...",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/232/390/260501/60087.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 149.97,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/aio-cpu-liquid-coolers/260501/msi-mag-coreliquid-i360-aio-liquid-cpu-cooler-white-360mm-radiator-triple-120mm-argb-pwm-fans-compatible-with-lga-1851-socket-mag-coreliquid-i360-white.html?keyword=msi mag coreliquid e360",
+    "inStock": false,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "MSI MAG Coreliquid I360 AIO Liquid CPU Cooler - White, 360mm Radiator, Triple 120mm ARGB PWM Fans, Compatible with LGA 1851 Soc",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/232/390/260501/60087.jpg"
+   },
+   {
+    "shop": "amazon.it",
+    "price": 170.35,
+    "currency": "EUR",
+    "url": "https://www.amazon.it/dp/B0CJX8729S?tag=fraym06-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:39:59Z",
+    "product": "MSI MAG CORELIQUID E360 Bianco - AIO RGB CPU Liquid Cooler - 360mm Radiatore - 3 x 120mm ARGB PWN Fans.",
+    "image": null
    }
   ],
   "image": "images/coolers-msi-mag-coreliquid-e360.jpg",
-  "lastUpdated": "2026-11-19T05:36:19Z"
+  "lastUpdated": "2026-11-19T15:39:59Z"
  },
  {
   "id": "thermalright-frozen-notte-360",
@@ -3630,10 +3941,20 @@
     "lastSeen": "2026-11-19T05:36:19Z",
     "product": "be quiet! Silent Loop 3 360mm",
     "image": "https://media.ldlc.com/r150/ld/products/00/06/22/48/LD0006224808.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 154.99,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/aio-cpu-liquid-coolers/268486/be-quiet-silent-loop-3-360mm-aio-liquid-cooler-bw025.html?keyword=be quiet silent loop 3 360",
+    "inStock": false,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "be quiet! SILENT LOOP 3 360mm AIO Liquid Cooler",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/232/390/268486/43523.jpg"
    }
   ],
   "image": "images/coolers-be-quiet-silent-loop-3-360.jpg",
-  "lastUpdated": "2026-11-19T05:36:19Z"
+  "lastUpdated": "2026-11-19T15:08:49Z"
  },
  {
   "id": "cooler-master-hyper-620s",
@@ -3648,16 +3969,6 @@
     "inStock": true,
     "lastSeen": "2026-11-19T00:23:32Z",
     "product": "Cooler Master Hyper 620S Dual Tower - Enfriador de aire para CPU ARGB-Sync, ventilador PWM de 120 mm, 6 tubos de calor de contacto directo de cobre, 154,9 mm de alto",
-    "image": null
-   },
-   {
-    "shop": "amazon.co.uk",
-    "price": 66.46,
-    "currency": "GBP",
-    "url": "https://www.amazon.co.uk/dp/B0C6YQ8DPQ?tag=fraym0a-21",
-    "inStock": true,
-    "lastSeen": "2026-11-19T00:28:30Z",
-    "product": "Cooler Master Hyper 620S Dual Tower CPU Air Cooler, ARGB Sync, 120mm PWM Fan, 6 Copper Direct Contact Heat Pipes, 154.9mm Tall Silver",
     "image": null
    },
    {
@@ -3681,17 +3992,27 @@
     "image": null
    },
    {
+    "shop": "amazon.co.uk",
+    "price": 66.46,
+    "currency": "GBP",
+    "url": "https://www.amazon.co.uk/dp/B0C6YQ8DPQ?tag=fraym0a-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:44:06Z",
+    "product": "Cooler Master Hyper 620S Dual Tower CPU Air Cooler, ARGB Sync, 120mm PWM Fan, 6 Copper Direct Contact Heat Pipes, 154.9mm Tall Silver",
+    "image": null
+   },
+   {
     "shop": "amazon.com",
     "price": 63.99,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0C6YQ8DPQ?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:13:17Z",
+    "lastSeen": "2026-11-19T15:51:33Z",
     "product": "Cooler Master Hyper 620S Dual Tower ARGB CPU Air Cooler, 120mm PWM Fan, 6 Heat Pipes, Silver Nickel-Plated Copper, 154.9mm Tall, AMD Ryzen AM5|AM4, Intel LGA 1851|1700|1200 Brackets : Industrial & Scientific",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-19T06:13:17Z"
+  "lastUpdated": "2026-11-19T15:51:33Z"
  }
 ]

@@ -5,16 +5,6 @@
   "priceMin": 276.84,
   "prices": [
    {
-    "shop": "morele.net",
-    "price": 1304.99,
-    "currency": "PLN",
-    "url": "https://www.morele.net/dysk-ssd-samsung-870-evo-1tb-2-5-sata-iii-mz-77e1t0b-eu-5945791/",
-    "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
-    "product": "Dysk SSD Samsung 870 EVO 1TB 2.5\" SATA III (MZ-77E1T0B/EU)",
-    "image": "https://images.morele.net/i256/5945791_5_i256.jpg"
-   },
-   {
     "shop": "canadacomputers.com",
     "price": 554.99,
     "currency": "CAD",
@@ -25,12 +15,32 @@
     "image": "https://ccimg.canadacomputers.com/Products/800x800/707/4144/188066/04663.jpg"
    },
    {
+    "shop": "materiel.net",
+    "price": 399.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202012170061.html",
+    "inStock": true,
+    "lastSeen": "2026-11-19T05:36:19Z",
+    "product": "Samsung 870 EVO - 1 To",
+    "image": "https://media.materiel.net/r250/products/MN0005693354_1_0005764724_0005764757_0005764765.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1271.86,
+    "currency": "PLN",
+    "url": "https://www.morele.net/dysk-ssd-samsung-870-evo-1tb-2-5-sata-iii-mz-77e1t0b-eu-5945791/",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "Dysk SSD Samsung 870 EVO 1TB 2.5\" SATA III (MZ-77E1T0B/EU)",
+    "image": "https://images.morele.net/i256/5945791_5_i256.jpg"
+   },
+   {
     "shop": "ldlc.com",
     "price": 399.95,
     "currency": "EUR",
     "url": "https://www.ldlc.com/fiche/PB00402116.html",
     "inStock": true,
-    "lastSeen": "2026-11-18T23:53:24Z",
+    "lastSeen": "2026-11-19T15:08:49Z",
     "product": "Samsung SSD 870 EVO 1 To",
     "image": "https://media.ldlc.com/r150/ld/products/00/05/77/35/LD0005773556_1_0005773565_0005773569.jpg"
    },
@@ -40,49 +50,19 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B08T1SMTF9?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T00:26:47Z",
+    "lastSeen": "2026-11-19T15:43:20Z",
     "product": "Samsung 870 EVO 1TB SATA 2.5\" Internal Solid State Drive (SSD) (MZ-77E1T0) : Electronics",
     "image": null
-   },
-   {
-    "shop": "materiel.net",
-    "price": 399.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202012170061.html",
-    "inStock": true,
-    "lastSeen": "2026-11-19T05:36:19Z",
-    "product": "Samsung 870 EVO - 1 To",
-    "image": "https://media.materiel.net/r250/products/MN0005693354_1_0005764724_0005764757_0005764765.jpg"
    }
   ],
   "image": "images/ssds-sata-870evo.jpg",
-  "lastUpdated": "2026-11-19T05:36:19Z"
+  "lastUpdated": "2026-11-19T15:43:20Z"
  },
  {
   "id": "nvme-sn850x",
   "name": "WD Black SN850X (Gen4)",
   "priceMin": 224.48,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 1038.0,
-    "currency": "PLN",
-    "url": "https://www.morele.net/dysk-ssd-sandisk-black-sn850x-1tb-m-2-2280-pci-e-x4-gen4-nvme-wds100t2x0e-12289814/",
-    "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
-    "product": "Dysk SSD SanDisk Black SN850X 1TB M.2 2280 PCI-E x4 Gen4 NVMe (WDS100T2X0E)",
-    "image": "https://images.morele.net/i256/12289814_7_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 1192.57,
-    "currency": "PLN",
-    "url": "https://www.morele.net/dysk-ssd-sandisk-black-sn850x-1tb-m-2-2280-pci-e-x4-gen4-nvme-wdbb9g0010bnc-wrsn-13094206/",
-    "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
-    "product": "Dysk SSD SanDisk Black SN850X 1TB M.2 2280 PCI-E x4 Gen4 NVMe (WDBB9G0010BNC-WRSN)",
-    "image": "https://images.morele.net/i256/13094206_7_i256.jpg"
-   },
    {
     "shop": "canadacomputers.com",
     "price": 329.99,
@@ -114,18 +94,38 @@
     "image": "https://ccimg.canadacomputers.com/Products/800x800/707/4143/226022/31461.jpg"
    },
    {
+    "shop": "morele.net",
+    "price": 1111.8,
+    "currency": "PLN",
+    "url": "https://www.morele.net/dysk-ssd-sandisk-black-sn850x-1tb-m-2-2280-pci-e-x4-gen4-nvme-wds100t2x0e-12289814/",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "Dysk SSD SanDisk Black SN850X 1TB M.2 2280 PCI-E x4 Gen4 NVMe (WDS100T2X0E)",
+    "image": "https://images.morele.net/i256/12289814_7_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1199.63,
+    "currency": "PLN",
+    "url": "https://www.morele.net/dysk-ssd-sandisk-black-sn850x-1tb-m-2-2280-pci-e-x4-gen4-nvme-wdbb9g0010bnc-wrsn-13094206/",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "Dysk SSD SanDisk Black SN850X 1TB M.2 2280 PCI-E x4 Gen4 NVMe (WDBB9G0010BNC-WRSN)",
+    "image": "https://images.morele.net/i256/13094206_7_i256.jpg"
+   },
+   {
     "shop": "amazon.it",
     "price": 372.14,
     "currency": "EUR",
     "url": "https://www.amazon.it/dp/B0B7CPSN2K?tag=fraym06-21",
     "inStock": true,
-    "lastSeen": "2026-11-18T15:46:50Z",
+    "lastSeen": "2026-11-19T15:40:18Z",
     "product": "Western Digital WD_BLACK SN850X 1TB M.2 2280 PCIe Gen4 NVMe SSD per gaming con dissipatore termico con velocità di fino a 7.300 MB/s",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-18T15:46:50Z"
+  "lastUpdated": "2026-11-19T15:40:18Z"
  },
  {
   "id": "nvme-p3",
@@ -140,36 +140,6 @@
   "name": "Samsung 990 Pro (Gen4)",
   "priceMin": 173.51,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 989.0,
-    "currency": "PLN",
-    "url": "https://www.morele.net/dysk-ssd-samsung-990-pro-1tb-m-2-2280-pci-e-x4-gen4-nvme-mz-v9p1t0bw-12231202/",
-    "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
-    "product": "Dysk SSD Samsung 990 PRO 1TB M.2 2280 PCI-E x4 Gen4 NVMe (MZ-V9P1T0BW)",
-    "image": "https://images.morele.net/i256/12231202_0_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 1249.0,
-    "currency": "PLN",
-    "url": "https://www.morele.net/dysk-ssd-samsung-990-pro-1tb-m-2-2280-pci-e-x4-gen4-nvme-mz-v9p1t0cw-12907584/",
-    "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
-    "product": "Dysk SSD Samsung 990 PRO 1TB M.2 2280 PCI-E x4 Gen4 NVMe (MZ-V9P1T0CW)",
-    "image": "https://images.morele.net/i256/12907584_0_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 1266.57,
-    "currency": "PLN",
-    "url": "https://www.morele.net/dysk-ssd-samsung-990-pro-1tb-m-2-2280-pci-e-x4-gen4-nvme-mz-v9p1t0gw-12945874/",
-    "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
-    "product": "Dysk SSD Samsung 990 PRO 1TB M.2 2280 PCI-E x4 Gen4 NVMe (MZ-V9P1T0GW)",
-    "image": "https://images.morele.net/i256/12945874_0_i256.jpg"
-   },
    {
     "shop": "canadacomputers.com",
     "price": 464.99,
@@ -189,46 +159,6 @@
     "lastSeen": "2026-11-18T15:02:32Z",
     "product": "Samsung 990 Pro 1TB M.2 NVMe PCIe 4.0 Solid State Drive",
     "image": "https://ccimg.canadacomputers.com/Products/800x800/707/4143/233285/71861.jpg"
-   },
-   {
-    "shop": "amazon.fr",
-    "price": 181.66,
-    "currency": "EUR",
-    "url": "https://www.amazon.fr/dp/B0B9C3ZVHR?tag=fraym-21",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:46:43Z",
-    "product": "Samsung SSD 990 Pro NVMe M.2 Pcle 4.0, SSD Interne, Capacité 1 To, Vitesse de lecture jusqu'à 7 450 Mo/s, Gestion Intelligente de la Chaleur avec Revêtement en Nickel, MZ-V9P1T0BW",
-    "image": null
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 269.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00512844.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T23:53:24Z",
-    "product": "Samsung SSD 990 PRO M.2 PCIe NVMe 1 To",
-    "image": "https://media.ldlc.com/r150/ld/products/00/05/97/31/LD0005973119.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 329.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00556467.html",
-    "inStock": false,
-    "lastSeen": "2026-11-18T23:53:24Z",
-    "product": "Samsung SSD 990 PRO M.2 PCIe NVMe 1 To avec dissipateur",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/04/10/LD0006041024.jpg"
-   },
-   {
-    "shop": "amazon.com",
-    "price": 299.99,
-    "currency": "USD",
-    "url": "https://www.amazon.com/dp/B0B9C3ZVHR?tag=fraym-20",
-    "inStock": true,
-    "lastSeen": "2026-11-19T00:26:35Z",
-    "product": "Samsung 990 Pro 1TB Gen4 NVMe SSD 7450MB/s 6900MB/s R/W 1550K/1200K IOPS 600TBW 1.5M Hrs MTBF for PS5 5yrs : Clothing, Shoes & Jewelry",
-    "image": null
    },
    {
     "shop": "materiel.net",
@@ -271,34 +201,94 @@
     "image": null
    },
    {
+    "shop": "morele.net",
+    "price": 989.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/dysk-ssd-samsung-990-pro-1tb-m-2-2280-pci-e-x4-gen4-nvme-mz-v9p1t0bw-12231202/",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "Dysk SSD Samsung 990 PRO 1TB M.2 2280 PCI-E x4 Gen4 NVMe (MZ-V9P1T0BW)",
+    "image": "https://images.morele.net/i256/12231202_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1249.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/dysk-ssd-samsung-990-pro-1tb-m-2-2280-pci-e-x4-gen4-nvme-mz-v9p1t0cw-12907584/",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "Dysk SSD Samsung 990 PRO 1TB M.2 2280 PCI-E x4 Gen4 NVMe (MZ-V9P1T0CW)",
+    "image": "https://images.morele.net/i256/12907584_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1266.78,
+    "currency": "PLN",
+    "url": "https://www.morele.net/dysk-ssd-samsung-990-pro-1tb-m-2-2280-pci-e-x4-gen4-nvme-mz-v9p1t0gw-12945874/",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "Dysk SSD Samsung 990 PRO 1TB M.2 2280 PCI-E x4 Gen4 NVMe (MZ-V9P1T0GW)",
+    "image": "https://images.morele.net/i256/12945874_0_i256.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 269.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00512844.html",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "Samsung SSD 990 PRO M.2 PCIe NVMe 1 To",
+    "image": "https://media.ldlc.com/r150/ld/products/00/05/97/31/LD0005973119.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 329.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00556467.html",
+    "inStock": false,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "Samsung SSD 990 PRO M.2 PCIe NVMe 1 To avec dissipateur",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/04/10/LD0006041024.jpg"
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 181.66,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B0B9C3ZVHR?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:40:05Z",
+    "product": "Samsung SSD 990 Pro NVMe M.2 Pcle 4.0, SSD Interne, Capacité 1 To, Vitesse de lecture jusqu'à 7 450 Mo/s, Gestion Intelligente de la Chaleur avec Revêtement en Nickel, MZ-V9P1T0BW",
+    "image": null
+   },
+   {
+    "shop": "amazon.com",
+    "price": 299.99,
+    "currency": "USD",
+    "url": "https://www.amazon.com/dp/B0B9C3ZVHR?tag=fraym-20",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:43:18Z",
+    "product": "Samsung 990 Pro 1TB Gen4 NVMe SSD 7450MB/s 6900MB/s R/W 1550K/1200K IOPS 600TBW 1.5M Hrs MTBF for PS5 5yrs : Clothing, Shoes & Jewelry",
+    "image": null
+   },
+   {
     "shop": "amazon.es",
     "price": 173.51,
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B0B9C3ZVHR?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:10:19Z",
+    "lastSeen": "2026-11-19T15:49:23Z",
     "product": "SAMSUNG Unidad de estado sólido 990 Pro M.2 1000 GB PCI Express 4.0 V-NAND MLC NVMe, negro, MZ-V9P1T0BW",
     "image": null
    }
   ],
   "image": "images/ssds-nvme-990pro.jpg",
-  "lastUpdated": "2026-11-19T06:10:19Z"
+  "lastUpdated": "2026-11-19T15:49:23Z"
  },
  {
   "id": "nvme-990evo",
   "name": "Samsung 990 EVO Plus (Gen5)",
   "priceMin": 174.99,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 1069.0,
-    "currency": "PLN",
-    "url": "https://www.morele.net/dysk-ssd-samsung-990-evo-plus-1tb-m-2-2280-pci-e-x4-gen4-nvme-mz-v9s1t0bw-14205706/",
-    "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
-    "product": "Dysk SSD Samsung 990 EVO Plus 1TB M.2 2280 PCI-E x4 Gen4 NVMe (MZ−V9S1T0BW)",
-    "image": "https://images.morele.net/i256/14205706_0_i256.jpg"
-   },
    {
     "shop": "canadacomputers.com",
     "price": 394.99,
@@ -308,16 +298,6 @@
     "lastSeen": "2026-11-18T15:02:32Z",
     "product": "Samsung 990 Evo Plus  1TB M.2 NVMe PCIe 4.0  Solid State Drive",
     "image": "https://ccimg.canadacomputers.com/Products/800x800/707/4143/265360/01902271.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 239.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00653106.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T23:53:24Z",
-    "product": "Samsung SSD 990 EVO Plus M.2 PCIe NVMe 1 To",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/20/93/LD0006209365.jpg"
    },
    {
     "shop": "materiel.net",
@@ -330,16 +310,6 @@
     "image": "https://media.materiel.net/r250/products/MN0006209652.jpg"
    },
    {
-    "shop": "amazon.fr",
-    "price": 174.99,
-    "currency": "EUR",
-    "url": "https://www.amazon.fr/dp/B0DGH2FH7T?tag=fraym-21",
-    "inStock": true,
-    "lastSeen": "2026-11-19T06:05:20Z",
-    "product": "Samsung SSD Interne 990 Evo Plus MZ-V9S1T0BW, NVMe 2.0 PCIe 4.0 x 4/5.0x2, 1 to, Vitesse de Lecture jusqu'à 7150 Mo/s, Idéal pour Le Gaming et la bureautique",
-    "image": null
-   },
-   {
     "shop": "amazon.co.uk",
     "price": 166.66,
     "currency": "GBP",
@@ -348,36 +318,46 @@
     "lastSeen": "2026-11-19T06:05:42Z",
     "product": "Samsung 990 EVO Plus, 1TB, PCIe 4.0 x4 / 5.0 x2, NVMe2.0 (up to 7150 MB/s), NVMe M.2 (2280), Internal Solid State Drive (SSD), MZ-V9S1T0BW",
     "image": null
+   },
+   {
+    "shop": "morele.net",
+    "price": 1069.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/dysk-ssd-samsung-990-evo-plus-1tb-m-2-2280-pci-e-x4-gen4-nvme-mz-v9s1t0bw-14205706/",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "Dysk SSD Samsung 990 EVO Plus 1TB M.2 2280 PCI-E x4 Gen4 NVMe (MZ−V9S1T0BW)",
+    "image": "https://images.morele.net/i256/14205706_0_i256.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 239.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00653106.html",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "Samsung SSD 990 EVO Plus M.2 PCIe NVMe 1 To",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/20/93/LD0006209365.jpg"
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 174.99,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B0DGH2FH7T?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:48:06Z",
+    "product": "Samsung SSD Interne 990 Evo Plus MZ-V9S1T0BW, NVMe 2.0 PCIe 4.0 x 4/5.0x2, 1 to, Vitesse de Lecture jusqu'à 7150 Mo/s, Idéal pour Le Gaming et la bureautique",
+    "image": null
    }
   ],
   "image": "images/ssds-nvme-990evo.jpg",
-  "lastUpdated": "2026-11-19T06:05:42Z"
+  "lastUpdated": "2026-11-19T15:48:06Z"
  },
  {
   "id": "nvme-fury",
   "name": "Kingston Fury Renegade",
-  "priceMin": 272.3,
+  "priceMin": 289.56,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 1170.88,
-    "currency": "PLN",
-    "url": "https://www.morele.net/dysk-ssd-kingston-fury-renegade-1tb-m-2-2280-pci-e-x4-gen4-nvme-sfyrsk-1000g-12317231/",
-    "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
-    "product": "Dysk SSD Kingston Fury Renegade 1TB M.2 2280 PCI-E x4 Gen4 NVMe (SFYRSK/1000G)",
-    "image": "https://images.morele.net/i256/12317231_3_i256.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 459.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00677448.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T23:53:24Z",
-    "product": "Kingston FURY Renegade G5 1 To",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/23/76/LD0006237651.jpg"
-   },
    {
     "shop": "materiel.net",
     "price": 459.95,
@@ -389,18 +369,38 @@
     "image": "https://media.materiel.net/r250/products/MN0006237439.jpg"
    },
    {
+    "shop": "morele.net",
+    "price": 1393.48,
+    "currency": "PLN",
+    "url": "https://www.morele.net/dysk-ssd-kingston-fury-renegade-1tb-m-2-2280-pci-e-x4-gen4-nvme-sfyrsk-1000g-12317231/",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "Dysk SSD Kingston Fury Renegade 1TB M.2 2280 PCI-E x4 Gen4 NVMe (SFYRSK/1000G)",
+    "image": "https://images.morele.net/i256/12317231_3_i256.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 459.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00677448.html",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "Kingston FURY Renegade G5 1 To",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/23/76/LD0006237651.jpg"
+   },
+   {
     "shop": "amazon.com",
-    "price": 310.0,
+    "price": 312.72,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0BJL61R71?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:09:51Z",
+    "lastSeen": "2026-11-19T15:49:19Z",
     "product": "Kingston Fury Renegade 1TB PCIe Gen 4.0 NVMe M.2 Internal Gaming SSD with Heat Sink | PS5 Ready | Up to 7300MB/s | SFYRSK/1000G : Electronics",
     "image": null
    }
   ],
   "image": "images/ssds-nvme-fury.jpg",
-  "lastUpdated": "2026-11-19T06:09:51Z"
+  "lastUpdated": "2026-11-19T15:49:19Z"
  },
  {
   "id": "nvme-sn770",
@@ -418,16 +418,6 @@
     "image": null
    },
    {
-    "shop": "amazon.de",
-    "price": 317.5,
-    "currency": "EUR",
-    "url": "https://www.amazon.de/dp/B09QV692XY?tag=fraym03-21",
-    "inStock": true,
-    "lastSeen": "2026-11-19T06:02:40Z",
-    "product": "WD_BLACK SN770 NVMe SSD 1 TB Schwarz",
-    "image": null
-   },
-   {
     "shop": "amazon.es",
     "price": 331.58,
     "currency": "EUR",
@@ -438,64 +428,34 @@
     "image": null
    },
    {
+    "shop": "amazon.de",
+    "price": 317.5,
+    "currency": "EUR",
+    "url": "https://www.amazon.de/dp/B09QV692XY?tag=fraym03-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:45:33Z",
+    "product": "WD_BLACK SN770 NVMe SSD 1 TB Schwarz",
+    "image": null
+   },
+   {
     "shop": "amazon.com",
     "price": 285.99,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B09QV692XY?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:15:53Z",
+    "lastSeen": "2026-11-19T15:53:48Z",
     "product": "WD_BLACK 1TB SN770 NVMe Internal Gaming SSD Solid State Drive - Gen4 PCIe, M.2 2280, Up to 5,150 MB/s - WDS100T3X0E - [Previous Generation] : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-19T06:15:53Z"
+  "lastUpdated": "2026-11-19T15:53:48Z"
  },
  {
   "id": "hdd-barracuda",
   "name": "Seagate BarraCuda 2 To",
   "priceMin": 139.53,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 599.99,
-    "currency": "PLN",
-    "url": "https://www.morele.net/dysk-seagate-barracuda-2tb-3-5-sata-iii-st2000dm008-4765408/",
-    "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
-    "product": "Dysk Seagate BarraCuda 2TB 3.5\" SATA III (ST2000DM008)",
-    "image": "https://images.morele.net/i256/4765408_0_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 599.99,
-    "currency": "PLN",
-    "url": "https://www.morele.net/dysk-seagate-barracuda-2tb-3-5-sata-iii-st2000dm008-4765408/",
-    "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
-    "product": "Dysk Seagate BarraCuda 2TB 3.5\" SATA III (ST2000DM008)",
-    "image": "https://images.morele.net/i256/4765408_0_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 829.73,
-    "currency": "PLN",
-    "url": "https://www.morele.net/dysk-seagate-barracuda-2tb-2-5-sata-iii-st2000lm015-1042367/",
-    "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
-    "product": "Dysk Seagate BarraCuda 2TB 2.5\" SATA III (ST2000LM015)",
-    "image": "https://images.morele.net/i256/1042367_0_i256.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 189.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00254175.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T23:53:24Z",
-    "product": "Seagate BarraCuda 2 To (ST2000DM008)",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/00/96/LD0006009614.jpg"
-   },
    {
     "shop": "materiel.net",
     "price": 189.95,
@@ -505,46 +465,56 @@
     "lastSeen": "2026-11-19T05:36:19Z",
     "product": "Seagate BarraCuda - 2 To - 256 Mo",
     "image": "https://media.materiel.net/r250/products/MN0006044483.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 599.99,
+    "currency": "PLN",
+    "url": "https://www.morele.net/dysk-seagate-barracuda-2tb-3-5-sata-iii-st2000dm008-4765408/",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "Dysk Seagate BarraCuda 2TB 3.5\" SATA III (ST2000DM008)",
+    "image": "https://images.morele.net/i256/4765408_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 599.99,
+    "currency": "PLN",
+    "url": "https://www.morele.net/dysk-seagate-barracuda-2tb-3-5-sata-iii-st2000dm008-4765408/",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "Dysk Seagate BarraCuda 2TB 3.5\" SATA III (ST2000DM008)",
+    "image": "https://images.morele.net/i256/4765408_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 823.88,
+    "currency": "PLN",
+    "url": "https://www.morele.net/dysk-seagate-barracuda-2tb-2-5-sata-iii-st2000lm015-1042367/",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "Dysk Seagate BarraCuda 2TB 2.5\" SATA III (ST2000LM015)",
+    "image": "https://images.morele.net/i256/1042367_0_i256.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 189.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00254175.html",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "Seagate BarraCuda 2 To (ST2000DM008)",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/00/96/LD0006009614.jpg"
    }
   ],
   "image": "images/ssds-hdd-barracuda.jpg",
-  "lastUpdated": "2026-11-19T05:36:19Z"
+  "lastUpdated": "2026-11-19T15:08:49Z"
  },
  {
   "id": "sata-870-250",
   "name": "Samsung 870 EVO 250 Go",
   "priceMin": 89.99,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 550.07,
-    "currency": "PLN",
-    "url": "https://www.morele.net/dysk-ssd-samsung-870-evo-250gb-2-5-sata-iii-mz-77e250b-eu-5945789/",
-    "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
-    "product": "Dysk SSD Samsung 870 EVO 250GB 2.5\" SATA III (MZ-77E250B/EU)",
-    "image": "https://images.morele.net/i256/5945789_5_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 550.07,
-    "currency": "PLN",
-    "url": "https://www.morele.net/dysk-ssd-samsung-870-evo-250gb-2-5-sata-iii-mz-77e250b-eu-5945789/",
-    "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
-    "product": "Dysk SSD Samsung 870 EVO 250GB 2.5\" SATA III (MZ-77E250B/EU)",
-    "image": "https://images.morele.net/i256/5945789_5_i256.jpg"
-   },
-   {
-    "shop": "amazon.fr",
-    "price": 89.99,
-    "currency": "EUR",
-    "url": "https://www.amazon.fr/dp/B08PC3PGZM?tag=fraym-21",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:47:05Z",
-    "product": "Samsung SSD 870 EVO MZ-77E250B/EU | Disque SSD interne 2,5’’ haute vitesse, 250 Go - Pour les gamers et professionnels.",
-    "image": null
-   },
    {
     "shop": "ldlc.com",
     "price": 129.95,
@@ -564,10 +534,40 @@
     "lastSeen": "2026-11-19T05:36:19Z",
     "product": "Samsung 870 EVO - 250 Go",
     "image": "https://media.materiel.net/r250/products/MN0005693354_1_0005764724.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 550.07,
+    "currency": "PLN",
+    "url": "https://www.morele.net/dysk-ssd-samsung-870-evo-250gb-2-5-sata-iii-mz-77e250b-eu-5945789/",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "Dysk SSD Samsung 870 EVO 250GB 2.5\" SATA III (MZ-77E250B/EU)",
+    "image": "https://images.morele.net/i256/5945789_5_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 550.07,
+    "currency": "PLN",
+    "url": "https://www.morele.net/dysk-ssd-samsung-870-evo-250gb-2-5-sata-iii-mz-77e250b-eu-5945789/",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "Dysk SSD Samsung 870 EVO 250GB 2.5\" SATA III (MZ-77E250B/EU)",
+    "image": "https://images.morele.net/i256/5945789_5_i256.jpg"
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 89.99,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B08PC3PGZM?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:40:19Z",
+    "product": "Samsung SSD 870 EVO MZ-77E250B/EU | Disque SSD interne 2,5’’ haute vitesse, 250 Go - Pour les gamers et professionnels.",
+    "image": null
    }
   ],
   "image": "images/ssds-sata-870-250.jpg",
-  "lastUpdated": "2026-11-19T05:36:19Z"
+  "lastUpdated": "2026-11-19T15:40:19Z"
  },
  {
   "id": "hdd-wdblue-2tb",
@@ -694,14 +694,14 @@
   "priceMin": 164.42,
   "prices": [
    {
-    "shop": "morele.net",
-    "price": 706.99,
-    "currency": "PLN",
-    "url": "https://www.morele.net/dysk-zewnetrzny-hdd-seagate-firecuda-gaming-hdd-2tb-czarny-stkl2000400-8663271/",
+    "shop": "ldlc.com",
+    "price": 189.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00463459.html",
     "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
-    "product": "Dysk zewnętrzny HDD Seagate FireCuda Gaming HDD 2TB Czarny (STKL2000400)",
-    "image": "https://images.morele.net/i256/8663271_0_i256.jpg"
+    "lastSeen": "2026-11-18T23:53:24Z",
+    "product": "Seagate FireCuda Gaming HDD 2 To",
+    "image": "https://media.ldlc.com/r1600/ld/products/00/05/89/63/LD0005896388_1_0005896446.jpg"
    },
    {
     "shop": "morele.net",
@@ -709,7 +709,7 @@
     "currency": "PLN",
     "url": "https://www.morele.net/dysk-zewnetrzny-hdd-seagate-firecuda-gaming-hdd-2tb-czarny-stkl2000400-8663271/",
     "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
+    "lastSeen": "2026-11-19T15:08:49Z",
     "product": "Dysk zewnętrzny HDD Seagate FireCuda Gaming HDD 2TB Czarny (STKL2000400)",
     "image": "https://images.morele.net/i256/8663271_0_i256.jpg"
    },
@@ -719,23 +719,13 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202110110060.html",
     "inStock": true,
-    "lastSeen": "2026-11-18T23:53:24Z",
+    "lastSeen": "2026-11-19T15:08:49Z",
     "product": "Seagate FireCuda Gaming HDD - 2 To",
     "image": "https://media.materiel.net/r900/products/MN0005896664_1_0005896675.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 189.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00463459.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T23:53:24Z",
-    "product": "Seagate FireCuda Gaming HDD 2 To",
-    "image": "https://media.ldlc.com/r1600/ld/products/00/05/89/63/LD0005896388_1_0005896446.jpg"
    }
   ],
   "image": "images/ssds-hdd-firecuda-2tb.jpg",
-  "lastUpdated": "2026-11-18T23:53:24Z"
+  "lastUpdated": "2026-11-19T15:08:49Z"
  },
  {
   "id": "hdd-wdblack-4tb",
@@ -852,36 +842,6 @@
   "priceMin": 99.77,
   "prices": [
    {
-    "shop": "morele.net",
-    "price": 429.0,
-    "currency": "PLN",
-    "url": "https://www.morele.net/dysk-ssd-kingston-a400-480gb-2-5-sata-iii-sa400s37-480g-1236974/",
-    "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
-    "product": "Dysk SSD Kingston A400 480GB 2.5\" SATA III (SA400S37/480G)",
-    "image": "https://images.morele.net/i256/1236974_0_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 429.0,
-    "currency": "PLN",
-    "url": "https://www.morele.net/dysk-ssd-kingston-a400-480gb-2-5-sata-iii-sa400s37-480g-1236974/",
-    "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
-    "product": "Dysk SSD Kingston A400 480GB 2.5\" SATA III (SA400S37/480G)",
-    "image": "https://images.morele.net/i256/1236974_0_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 429.0,
-    "currency": "PLN",
-    "url": "https://www.morele.net/dysk-ssd-kingston-a400-480gb-2-5-sata-iii-sa400s37-480g-1236974/",
-    "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
-    "product": "Dysk SSD Kingston A400 480GB 2.5\" SATA III (SA400S37/480G)",
-    "image": "https://images.morele.net/i256/1236974_0_i256.jpg"
-   },
-   {
     "shop": "canadacomputers.com",
     "price": 164.99,
     "currency": "CAD",
@@ -892,16 +852,6 @@
     "image": "https://ccimg.canadacomputers.com/Products/800x800/707/733/105079/28063.jpg"
    },
    {
-    "shop": "materiel.net",
-    "price": 139.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/201705020025.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T23:53:24Z",
-    "product": "Kingston A400 - 480 Go",
-    "image": "https://media.materiel.net/r900/products/MN0005488117_1.jpg"
-   },
-   {
     "shop": "ldlc.com",
     "price": 139.95,
     "currency": "EUR",
@@ -910,10 +860,50 @@
     "lastSeen": "2026-11-18T23:53:24Z",
     "product": "Kingston SSD A400 480 Go",
     "image": "https://media.ldlc.com/r150/ld/products/00/04/33/96/LD0004339698_2_0004339830_0004340279.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 429.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/dysk-ssd-kingston-a400-480gb-2-5-sata-iii-sa400s37-480g-1236974/",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "Dysk SSD Kingston A400 480GB 2.5\" SATA III (SA400S37/480G)",
+    "image": "https://images.morele.net/i256/1236974_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 429.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/dysk-ssd-kingston-a400-480gb-2-5-sata-iii-sa400s37-480g-1236974/",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "Dysk SSD Kingston A400 480GB 2.5\" SATA III (SA400S37/480G)",
+    "image": "https://images.morele.net/i256/1236974_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 429.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/dysk-ssd-kingston-a400-480gb-2-5-sata-iii-sa400s37-480g-1236974/",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "Dysk SSD Kingston A400 480GB 2.5\" SATA III (SA400S37/480G)",
+    "image": "https://images.morele.net/i256/1236974_0_i256.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 139.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/201705020025.html",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "Kingston A400 - 480 Go",
+    "image": "https://media.materiel.net/r900/products/MN0005488117_1.jpg"
    }
   ],
   "image": "images/ssds-sata-a400-480.jpg",
-  "lastUpdated": "2026-11-18T23:53:24Z"
+  "lastUpdated": "2026-11-19T15:08:49Z"
  },
  {
   "id": "sata-sandisk-1tb",
@@ -934,13 +924,13 @@
     "currency": "PLN",
     "url": "https://www.morele.net/dysk-ssd-microstorage-1tb-2-5-sata-iii-p3-1tbt-6059840/",
     "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
+    "lastSeen": "2026-11-19T15:08:49Z",
     "product": "Dysk SSD MicroStorage 1TB 2.5\" SATA III (P3-1TBT)",
     "image": "https://images.morele.net/i256/6059840_0_i256.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-18T12:17:00Z"
+  "lastUpdated": "2026-11-19T15:08:49Z"
  },
  {
   "id": "nvme-990evo-1tb",
@@ -958,16 +948,6 @@
     "image": "https://ccimg.canadacomputers.com/Products/800x800/707/4143/265360/01902271.jpg"
    },
    {
-    "shop": "materiel.net",
-    "price": 239.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202409160082.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T23:53:24Z",
-    "product": "Samsung SSD 990 EVO Plus - 1 To",
-    "image": "https://media.materiel.net/r900/products/MN0006209652.jpg"
-   },
-   {
     "shop": "ldlc.com",
     "price": 239.95,
     "currency": "EUR",
@@ -976,36 +956,26 @@
     "lastSeen": "2026-11-18T23:53:24Z",
     "product": "Samsung SSD 990 EVO Plus M.2 PCIe NVMe 1 To",
     "image": "https://media.ldlc.com/r1600/ld/products/00/06/20/93/LD0006209365.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 239.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202409160082.html",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "Samsung SSD 990 EVO Plus - 1 To",
+    "image": "https://media.materiel.net/r900/products/MN0006209652.jpg"
    }
   ],
   "image": "images/ssds-nvme-990evo-1tb.jpg",
-  "lastUpdated": "2026-11-18T23:53:24Z"
+  "lastUpdated": "2026-11-19T15:08:49Z"
  },
  {
   "id": "nvme-sn850x-1tb",
   "name": "WD Black SN850X 1 To",
   "priceMin": 224.48,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 1038.0,
-    "currency": "PLN",
-    "url": "https://www.morele.net/dysk-ssd-sandisk-black-sn850x-1tb-m-2-2280-pci-e-x4-gen4-nvme-wds100t2x0e-12289814/",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
-    "product": "Dysk SSD SanDisk Black SN850X 1TB M.2 2280 PCI-E x4 Gen4 NVMe (WDS100T2X0E)",
-    "image": "https://images.morele.net/i256/12289814_7_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 1192.57,
-    "currency": "PLN",
-    "url": "https://www.morele.net/dysk-ssd-sandisk-black-sn850x-1tb-m-2-2280-pci-e-x4-gen4-nvme-wdbb9g0010bnc-wrsn-13094206/",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
-    "product": "Dysk SSD SanDisk Black SN850X 1TB M.2 2280 PCI-E x4 Gen4 NVMe (WDBB9G0010BNC-WRSN)",
-    "image": "https://images.morele.net/i256/13094206_7_i256.jpg"
-   },
    {
     "shop": "canadacomputers.com",
     "price": 329.99,
@@ -1035,10 +1005,30 @@
     "lastSeen": "2026-11-19T06:03:37Z",
     "product": "Western Digital WD_BLACK SN850X 1TB M.2 2280 PCIe Gen4 NVMe SSD per gaming con dissipatore termico con velocità di fino a 7.300 MB/s",
     "image": null
+   },
+   {
+    "shop": "morele.net",
+    "price": 1111.8,
+    "currency": "PLN",
+    "url": "https://www.morele.net/dysk-ssd-sandisk-black-sn850x-1tb-m-2-2280-pci-e-x4-gen4-nvme-wds100t2x0e-12289814/",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "Dysk SSD SanDisk Black SN850X 1TB M.2 2280 PCI-E x4 Gen4 NVMe (WDS100T2X0E)",
+    "image": "https://images.morele.net/i256/12289814_7_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1199.63,
+    "currency": "PLN",
+    "url": "https://www.morele.net/dysk-ssd-sandisk-black-sn850x-1tb-m-2-2280-pci-e-x4-gen4-nvme-wdbb9g0010bnc-wrsn-13094206/",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "Dysk SSD SanDisk Black SN850X 1TB M.2 2280 PCI-E x4 Gen4 NVMe (WDBB9G0010BNC-WRSN)",
+    "image": "https://images.morele.net/i256/13094206_7_i256.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-19T06:03:37Z"
+  "lastUpdated": "2026-11-19T15:08:49Z"
  },
  {
   "id": "nvme-sn770-1tb",
@@ -1056,16 +1046,6 @@
     "image": null
    },
    {
-    "shop": "amazon.com",
-    "price": 285.99,
-    "currency": "USD",
-    "url": "https://www.amazon.com/dp/B09QV692XY?tag=fraym-20",
-    "inStock": true,
-    "lastSeen": "2026-11-19T06:01:01Z",
-    "product": "WD_BLACK 1TB SN770 NVMe Internal Gaming SSD Solid State Drive - Gen4 PCIe, M.2 2280, Up to 5,150 MB/s - WDS100T3X0E - [Previous Generation] : Electronics",
-    "image": null
-   },
-   {
     "shop": "amazon.fr",
     "price": 325.56,
     "currency": "EUR",
@@ -1074,66 +1054,26 @@
     "lastSeen": "2026-11-19T06:05:36Z",
     "product": "WD_BLACK SN770 SSD 1 To, Disque SSD Interne, Vitesse de lecture jusqu'à 5150 Mo/s, M.2 2280 NVMe SSD, PCIe Gen 4.0, Haute performance disque de jeu, Noir",
     "image": null
+   },
+   {
+    "shop": "amazon.com",
+    "price": 285.99,
+    "currency": "USD",
+    "url": "https://www.amazon.com/dp/B09QV692XY?tag=fraym-20",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:44:32Z",
+    "product": "WD_BLACK 1TB SN770 NVMe Internal Gaming SSD Solid State Drive - Gen4 PCIe, M.2 2280, Up to 5,150 MB/s - WDS100T3X0E - [Previous Generation] : Electronics",
+    "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-19T06:05:36Z"
+  "lastUpdated": "2026-11-19T15:44:32Z"
  },
  {
   "id": "nvme-kc3000-1tb",
   "name": "Kingston KC3000 1 To",
   "priceMin": 213.45,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 917.85,
-    "currency": "PLN",
-    "url": "https://www.morele.net/dysk-ssd-kingston-kc3000-1tb-m-2-2280-pci-e-x4-gen4-nvme-skc3000s-1024g-5949889/",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
-    "product": "Dysk SSD Kingston KC3000 1TB M.2 2280 PCI-E x4 Gen4 NVMe (SKC3000S/1024G)",
-    "image": "https://images.morele.net/i256/5949889_0_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 917.85,
-    "currency": "PLN",
-    "url": "https://www.morele.net/dysk-ssd-kingston-kc3000-1tb-m-2-2280-pci-e-x4-gen4-nvme-skc3000s-1024g-5949889/",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
-    "product": "Dysk SSD Kingston KC3000 1TB M.2 2280 PCI-E x4 Gen4 NVMe (SKC3000S/1024G)",
-    "image": "https://images.morele.net/i256/5949889_0_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 917.85,
-    "currency": "PLN",
-    "url": "https://www.morele.net/dysk-ssd-kingston-kc3000-1tb-m-2-2280-pci-e-x4-gen4-nvme-skc3000s-1024g-5949889/",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
-    "product": "Dysk SSD Kingston KC3000 1TB M.2 2280 PCI-E x4 Gen4 NVMe (SKC3000S/1024G)",
-    "image": "https://images.morele.net/i256/5949889_0_i256.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 279.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202110120091.html",
-    "inStock": true,
-    "lastSeen": "2026-11-18T23:53:24Z",
-    "product": "Kingston KC3000 - 1 To",
-    "image": "https://media.materiel.net/r900/products/MN0005899502_1_0005899520.jpg"
-   },
-   {
-    "shop": "amazon.co.uk",
-    "price": 382.74,
-    "currency": "GBP",
-    "url": "https://www.amazon.co.uk/dp/B0BGSWQ4FC?tag=fraym0a-21",
-    "inStock": true,
-    "lastSeen": "2026-11-19T06:01:54Z",
-    "product": "1TB Kingston KC3000, M.2 2280 PCIe, NVMe, SKC3000S/1024G SSD",
-    "image": null
-   },
    {
     "shop": "amazon.com",
     "price": 297.77,
@@ -1143,39 +1083,89 @@
     "lastSeen": "2026-11-19T06:09:53Z",
     "product": "Kingston 1TB KC3000, M.2 2280 PCIe, NVMe, SKC3000S/1024G SSD : Electronics",
     "image": null
+   },
+   {
+    "shop": "materiel.net",
+    "price": 279.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202110120091.html",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "Kingston KC3000 - 1 To",
+    "image": "https://media.materiel.net/r900/products/MN0005899502_1_0005899520.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 917.82,
+    "currency": "PLN",
+    "url": "https://www.morele.net/dysk-ssd-kingston-kc3000-1tb-m-2-2280-pci-e-x4-gen4-nvme-skc3000s-1024g-5949889/",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "Dysk SSD Kingston KC3000 1TB M.2 2280 PCI-E x4 Gen4 NVMe (SKC3000S/1024G)",
+    "image": "https://images.morele.net/i256/5949889_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 917.82,
+    "currency": "PLN",
+    "url": "https://www.morele.net/dysk-ssd-kingston-kc3000-1tb-m-2-2280-pci-e-x4-gen4-nvme-skc3000s-1024g-5949889/",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "Dysk SSD Kingston KC3000 1TB M.2 2280 PCI-E x4 Gen4 NVMe (SKC3000S/1024G)",
+    "image": "https://images.morele.net/i256/5949889_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 917.82,
+    "currency": "PLN",
+    "url": "https://www.morele.net/dysk-ssd-kingston-kc3000-1tb-m-2-2280-pci-e-x4-gen4-nvme-skc3000s-1024g-5949889/",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "Dysk SSD Kingston KC3000 1TB M.2 2280 PCI-E x4 Gen4 NVMe (SKC3000S/1024G)",
+    "image": "https://images.morele.net/i256/5949889_0_i256.jpg"
+   },
+   {
+    "shop": "amazon.co.uk",
+    "price": 382.45,
+    "currency": "GBP",
+    "url": "https://www.amazon.co.uk/dp/B0BGSWQ4FC?tag=fraym0a-21",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:44:56Z",
+    "product": "1TB Kingston KC3000, M.2 2280 PCIe, NVMe, SKC3000S/1024G SSD",
+    "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-19T06:09:53Z"
+  "lastUpdated": "2026-11-19T15:44:56Z"
  },
  {
   "id": "nvme-mp600pro-1tb",
   "name": "Corsair MP600 Pro XT 1 To",
-  "priceMin": 309.63,
+  "priceMin": 306.15,
   "prices": [
    {
     "shop": "morele.net",
-    "price": 1331.42,
+    "price": 1316.43,
     "currency": "PLN",
     "url": "https://www.morele.net/dysk-ssd-corsair-mp600-pro-xt-1tb-m-2-2280-pci-e-x4-gen4-nvme-cssd-f1000gbmp600pxt-9240568/",
     "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
+    "lastSeen": "2026-11-19T15:08:49Z",
     "product": "Dysk SSD Corsair MP600 PRO XT 1TB M.2 2280 PCI-E x4 Gen4 NVMe (CSSD-F1000GBMP600PXT)",
     "image": "https://images.morele.net/i256/9240568_0_i256.jpg"
    },
    {
     "shop": "morele.net",
-    "price": 2309.44,
+    "price": 2282.41,
     "currency": "PLN",
     "url": "https://www.morele.net/dysk-ssd-corsair-mp600-pro-nh-1tb-m-2-2280-pci-e-x4-gen4-nvme-cssd-f1000gbmp600pnh-13120428/",
     "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
+    "lastSeen": "2026-11-19T15:08:49Z",
     "product": "Dysk SSD Corsair MP600 Pro NH 1TB M.2 2280 PCI-E x4 Gen4 NVMe (CSSD-F1000GBMP600PNH)",
     "image": "https://images.morele.net/i256/13120428_0_i256.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-18T15:02:32Z"
+  "lastUpdated": "2026-11-19T15:08:49Z"
  },
  {
   "id": "nvme-mp600gs-1tb",
@@ -1188,13 +1178,13 @@
     "currency": "PLN",
     "url": "https://www.morele.net/dysk-ssd-corsair-mp600-gs-1tb-m-2-2280-pci-e-x4-gen4-nvme-cssd-f1000gbmp600gs-12100405/",
     "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
+    "lastSeen": "2026-11-19T15:08:49Z",
     "product": "Dysk SSD Corsair MP600 GS 1TB M.2 2280 PCI-E x4 Gen4 NVMe (CSSD-F1000GBMP600GS)",
     "image": "https://images.morele.net/i256/12100405_0_i256.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-18T15:02:32Z"
+  "lastUpdated": "2026-11-19T15:08:49Z"
  },
  {
   "id": "nvme-rocket4-1tb",
@@ -1202,28 +1192,18 @@
   "priceMin": 324.06,
   "prices": [
    {
-    "shop": "materiel.net",
-    "price": 599.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202502030166.html",
-    "inStock": true,
-    "lastSeen": "2026-11-16T14:37:02Z",
-    "product": "Kingston SD Canvas React Plus V60 SDR2V6 - 1TB",
-    "image": "https://media.materiel.net/r250/products/MN0006212594.jpg"
-   },
-   {
     "shop": "amazon.com",
     "price": 349.99,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B08P2B6JKV?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:10:01Z",
+    "lastSeen": "2026-11-19T15:49:27Z",
     "product": "SABRENT 1TB Rocket 4 Plus NVMe 4.0 Gen4 PCIe M.2 Internal SSD Extreme Performance Solid State Drive (Latest Version) (SB-RKT4P-1TB) : Tools & Home Improvement",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-19T06:10:01Z"
+  "lastUpdated": "2026-11-19T15:49:27Z"
  },
  {
   "id": "nvme-legend960-1tb",
@@ -1236,8 +1216,8 @@
     "currency": "PLN",
     "url": "https://www.morele.net/dysk-ssd-adata-legend-960-1tb-m-2-2280-pci-e-x4-gen4-nvme-aleg-960-1tcs-11811112/",
     "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
-    "product": "Dysk SSD ADATA Legend 960 1TB M.2 2280 PCI-E x4 Gen4 NVMe (ALEG-960-1TCS)",
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "Dysk SSD Adata Legend 960 1TB M.2 2280 PCI-E x4 Gen4 NVMe (ALEG-960-1TCS)",
     "image": "https://images.morele.net/i256/11811112_7_i256.jpg"
    },
    {
@@ -1246,8 +1226,8 @@
     "currency": "PLN",
     "url": "https://www.morele.net/dysk-ssd-adata-legend-960-1tb-m-2-2280-pci-e-x4-gen4-nvme-aleg-960-1tcs-11811112/",
     "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
-    "product": "Dysk SSD ADATA Legend 960 1TB M.2 2280 PCI-E x4 Gen4 NVMe (ALEG-960-1TCS)",
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "Dysk SSD Adata Legend 960 1TB M.2 2280 PCI-E x4 Gen4 NVMe (ALEG-960-1TCS)",
     "image": "https://images.morele.net/i256/11811112_7_i256.jpg"
    },
    {
@@ -1256,8 +1236,8 @@
     "currency": "PLN",
     "url": "https://www.morele.net/dysk-ssd-adata-legend-960-1tb-m-2-2280-pci-e-x4-gen4-nvme-aleg-960-1tcs-11811112/",
     "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
-    "product": "Dysk SSD ADATA Legend 960 1TB M.2 2280 PCI-E x4 Gen4 NVMe (ALEG-960-1TCS)",
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "Dysk SSD Adata Legend 960 1TB M.2 2280 PCI-E x4 Gen4 NVMe (ALEG-960-1TCS)",
     "image": "https://images.morele.net/i256/11811112_7_i256.jpg"
    },
    {
@@ -1266,18 +1246,18 @@
     "currency": "PLN",
     "url": "https://www.morele.net/dysk-ssd-adata-legend-960-1tb-m-2-2280-pci-e-x4-gen4-nvme-aleg-960-1tcs-11811112/",
     "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
-    "product": "Dysk SSD ADATA Legend 960 1TB M.2 2280 PCI-E x4 Gen4 NVMe (ALEG-960-1TCS)",
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "Dysk SSD Adata Legend 960 1TB M.2 2280 PCI-E x4 Gen4 NVMe (ALEG-960-1TCS)",
     "image": "https://images.morele.net/i256/11811112_7_i256.jpg"
    },
    {
     "shop": "morele.net",
-    "price": 1020.77,
+    "price": 1091.65,
     "currency": "PLN",
     "url": "https://www.morele.net/dysk-ssd-adata-legend-960-max-1tb-m-2-2280-pci-e-x4-gen4-nvme-aleg-960m-1tcs-12763919/",
     "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
-    "product": "Dysk SSD ADATA Legend 960 MAX 1TB M.2 2280 PCI-E x4 Gen4 NVMe (ALEG-960M-1TCS)",
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "Dysk SSD Adata Legend 960 MAX 1TB M.2 2280 PCI-E x4 Gen4 NVMe (ALEG-960M-1TCS)",
     "image": "https://images.morele.net/i256/12763919_0_i256.jpg"
    },
    {
@@ -1286,7 +1266,7 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0BBZHGZ2W?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:00:56Z",
+    "lastSeen": "2026-11-19T15:44:29Z",
     "product": "ADATA Legend 960 1TB PCIe Gen4 x4 NVMe 1.4 M.2 Internal Gaming SSD Up to 7,400 MB/s (ALEG-960-1TCS) : Electronics",
     "image": null
    },
@@ -1296,39 +1276,19 @@
     "currency": "GBP",
     "url": "https://www.amazon.co.uk/dp/B0BBZHGZ2W?tag=fraym0a-21",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:01:56Z",
+    "lastSeen": "2026-11-19T15:44:57Z",
     "product": "ADATA LEGEND 960 M.2 1 To PCI Express 4.0 3D NAND NVMe",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-19T06:01:56Z"
+  "lastUpdated": "2026-11-19T15:44:57Z"
  },
  {
   "id": "nvme-990pro-4tb",
   "name": "Samsung 990 Pro 4 To",
   "priceMin": 804.85,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 3460.84,
-    "currency": "PLN",
-    "url": "https://www.morele.net/dysk-ssd-samsung-990-pro-4tb-m-2-2280-pci-e-x4-gen4-nvme-mz-v9p4t0bw-13123151/",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
-    "product": "Dysk SSD Samsung 990 PRO 4TB M.2 2280 PCI-E x4 Gen4 NVMe (MZ-V9P4T0BW)",
-    "image": "https://images.morele.net/i256/13123151_0_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 3703.16,
-    "currency": "PLN",
-    "url": "https://www.morele.net/dysk-ssd-samsung-990-pro-4tb-m-2-2280-pci-e-x4-gen4-nvme-mz-v9p4t0cw-13130753/",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
-    "product": "Dysk SSD Samsung 990 PRO 4TB M.2 2280 PCI-E x4 Gen4 NVMe (MZ-V9P4T0CW)",
-    "image": "https://images.morele.net/i256/13130753_0_i256.jpg"
-   },
    {
     "shop": "canadacomputers.com",
     "price": 1554.99,
@@ -1388,26 +1348,36 @@
     "lastSeen": "2026-11-19T05:36:19Z",
     "product": "Samsung 990 PRO avec dissipateur - 4 To",
     "image": "https://media.materiel.net/r250/products/MN0006075528_0006075532_0006075536.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 3460.84,
+    "currency": "PLN",
+    "url": "https://www.morele.net/dysk-ssd-samsung-990-pro-4tb-m-2-2280-pci-e-x4-gen4-nvme-mz-v9p4t0bw-13123151/",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "Dysk SSD Samsung 990 PRO 4TB M.2 2280 PCI-E x4 Gen4 NVMe (MZ-V9P4T0BW)",
+    "image": "https://images.morele.net/i256/13123151_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 3703.16,
+    "currency": "PLN",
+    "url": "https://www.morele.net/dysk-ssd-samsung-990-pro-4tb-m-2-2280-pci-e-x4-gen4-nvme-mz-v9p4t0cw-13130753/",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "Dysk SSD Samsung 990 PRO 4TB M.2 2280 PCI-E x4 Gen4 NVMe (MZ-V9P4T0CW)",
+    "image": "https://images.morele.net/i256/13130753_0_i256.jpg"
    }
   ],
   "image": "images/ssds-nvme-990pro-4tb.jpg",
-  "lastUpdated": "2026-11-19T05:36:19Z"
+  "lastUpdated": "2026-11-19T15:08:49Z"
  },
  {
   "id": "nvme-9100pro-2tb",
   "name": "Samsung 9100 Pro 2 To",
-  "priceMin": 323.42,
+  "priceMin": 320.19,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 2521.99,
-    "currency": "PLN",
-    "url": "https://www.morele.net/dysk-ssd-samsung-9100-pro-2tb-m-2-2280-pci-e-x4-gen5-nvme-mz-vap2t0cw-14764984/",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
-    "product": "Dysk SSD Samsung 9100 Pro 2TB M.2 2280 PCI-E x4 Gen5 NVMe (MZ-VAP2T0CW)",
-    "image": "https://images.morele.net/i256/14764984_7_i256.jpg"
-   },
    {
     "shop": "canadacomputers.com",
     "price": 924.99,
@@ -1469,34 +1439,34 @@
     "image": "https://media.materiel.net/r250/products/MN0006228132_0006228137.jpg"
    },
    {
+    "shop": "morele.net",
+    "price": 2523.99,
+    "currency": "PLN",
+    "url": "https://www.morele.net/dysk-ssd-samsung-9100-pro-2tb-m-2-2280-pci-e-x4-gen5-nvme-mz-vap2t0cw-14764984/",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "Dysk SSD Samsung 9100 Pro 2TB M.2 2280 PCI-E x4 Gen5 NVMe (MZ-VAP2T0CW)",
+    "image": "https://images.morele.net/i256/14764984_7_i256.jpg"
+   },
+   {
     "shop": "amazon.fr",
-    "price": 323.42,
+    "price": 320.19,
     "currency": "EUR",
     "url": "https://www.amazon.fr/dp/B0DWFLPMM5?tag=fraym-21",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:05:32Z",
+    "lastSeen": "2026-11-19T15:48:16Z",
     "product": "Samsung SSD Interne 9100 Pro, NVMe 2.0 PCIe 5.0x4, Capacité 2To, Vitesse de Lecture jusqu'à 14 800 Mo/s, Les Performances de la Gen5, MZ-VAP2T0BW",
     "image": null
    }
   ],
   "image": "images/ssds-nvme-9100pro-2tb.jpg",
-  "lastUpdated": "2026-11-19T06:05:32Z"
+  "lastUpdated": "2026-11-19T15:48:16Z"
  },
  {
   "id": "nvme-mp700-2tb",
   "name": "Corsair MP700 Pro 2 To",
   "priceMin": 291.65,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 2472.3,
-    "currency": "PLN",
-    "url": "https://www.morele.net/dysk-ssd-corsair-force-series-mp700-pro-hydro-x-2tb-m-2-2280-pci-e-x4-gen5-nvme-cssd-f2000gbmp700phx-13173490/",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
-    "product": "Dysk SSD Corsair Force Series MP700 PRO Hydro X 2TB M.2 2280 PCI-E x4 Gen5 NVMe (CSSD-F2000GBMP700PHX)",
-    "image": "https://images.morele.net/i256/13173490_0_i256.jpg"
-   },
    {
     "shop": "materiel.net",
     "price": 349.95,
@@ -1538,18 +1508,28 @@
     "image": null
    },
    {
+    "shop": "morele.net",
+    "price": 2496.42,
+    "currency": "PLN",
+    "url": "https://www.morele.net/dysk-ssd-corsair-force-series-mp700-pro-hydro-x-2tb-m-2-2280-pci-e-x4-gen5-nvme-cssd-f2000gbmp700phx-13173490/",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "Dysk SSD Corsair Force Series MP700 PRO Hydro X 2TB M.2 2280 PCI-E x4 Gen5 NVMe (CSSD-F2000GBMP700PHX)",
+    "image": "https://images.morele.net/i256/13173490_0_i256.jpg"
+   },
+   {
     "shop": "amazon.com",
     "price": 379.99,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0CM42DVBR?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:15:51Z",
+    "lastSeen": "2026-11-19T15:53:47Z",
     "product": "Corsair MP700 PRO 2TB M.2 PCIe Gen5 x4 NVMe 2.0 SSD – M.2 2280 – Up to 12,400MB/sec Sequential Read – High-Density TLC NAND – Black : Electronics",
     "image": null
    }
   ],
   "image": "images/ssds-nvme-mp700-2tb.jpg",
-  "lastUpdated": "2026-11-19T06:15:51Z"
+  "lastUpdated": "2026-11-19T15:53:47Z"
  },
  {
   "id": "nvme-980pro",
@@ -1562,13 +1542,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B08GS7748F?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:00:54Z",
+    "lastSeen": "2026-11-19T15:44:28Z",
     "product": "Samsung 980 PRO NVMe M.2 SSD, 1TB, PCIe 4.0, 7000MB/s Read, 5000MB/s Write, Internal SSD for Gaming and Video Editing, MZ-V8P1T0BW : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-19T06:00:54Z"
+  "lastUpdated": "2026-11-19T15:44:28Z"
  },
  {
   "id": "nvme-fc530-1tb",
@@ -1589,13 +1569,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0BBWH1R8H?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:13:47Z",
+    "lastSeen": "2026-11-19T15:51:54Z",
     "product": "Kingston NV2 1TB M.2 2280 NVMe Internal SSD | PCIe 4.0 Gen 4x4 | Up to 3500 MB/s | SNV2S/1000G : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-19T06:13:47Z"
+  "lastUpdated": "2026-11-19T15:51:54Z"
  },
  {
   "id": "nvme-sn570",
@@ -1624,29 +1604,19 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0F3BD1W6R?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:00:43Z",
+    "lastSeen": "2026-11-19T15:44:25Z",
     "product": "WD_Black SN8100 2TB NVMe SSD - PCIe 5.0x4, M.2 2280, Up to 14,900MB/s Read Speed, up to 11,000MB/s Write Speed, Best for AI Applications, Gaming, and Video Editing - WDS200T1X0M : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-19T06:00:43Z"
+  "lastUpdated": "2026-11-19T15:44:25Z"
  },
  {
   "id": "nvme-sn850x-4t",
   "name": "WD Black SN850X 4 To",
-  "priceMin": 839.3,
+  "priceMin": 810.31,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 3608.99,
-    "currency": "PLN",
-    "url": "https://www.morele.net/dysk-ssd-sandisk-black-sn850x-4tb-m-2-2280-pci-e-x4-gen4-nvme-wds400t2x0e-12268976/",
-    "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
-    "product": "Dysk SSD SanDisk Black SN850X 4TB M.2 2280 PCI-E x4 Gen4 NVMe (WDS400T2X0E)",
-    "image": "https://images.morele.net/i256/12268976_5_i256.jpg"
-   },
    {
     "shop": "canadacomputers.com",
     "price": 999.99,
@@ -1666,23 +1636,33 @@
     "lastSeen": "2026-11-18T15:02:32Z",
     "product": "WD Black SN850X 4TB w/Heatsink PCIe Gen4 NVMe M.2 SSD",
     "image": "https://ccimg.canadacomputers.com/Products/800x800/707/4143/269435/45860.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 3484.34,
+    "currency": "PLN",
+    "url": "https://www.morele.net/dysk-ssd-sandisk-black-sn850x-4tb-m-2-2280-pci-e-x4-gen4-nvme-wds400t2x0e-12268976/",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "Dysk SSD SanDisk Black SN850X 4TB M.2 2280 PCI-E x4 Gen4 NVMe (WDS400T2X0E)",
+    "image": "https://images.morele.net/i256/12268976_5_i256.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-18T15:02:32Z"
+  "lastUpdated": "2026-11-19T15:08:49Z"
  },
  {
   "id": "nvme-t705",
   "name": "Crucial T705 (Gen5)",
-  "priceMin": 225.95,
+  "priceMin": 226.79,
   "prices": [
    {
     "shop": "morele.net",
-    "price": 971.58,
+    "price": 975.18,
     "currency": "PLN",
     "url": "https://www.morele.net/dysk-ssd-crucial-t705-1tb-m-2-2280-pci-e-x4-gen5-nvme-ct1000t705ssd5-13181672/",
     "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
+    "lastSeen": "2026-11-19T15:08:49Z",
     "product": "Dysk SSD Crucial T705 1TB M.2 2280 PCI-E x4 Gen5 NVMe (CT1000T705SSD5)",
     "image": "https://images.morele.net/i256/13181672_1_i256.jpg"
    },
@@ -1692,7 +1672,7 @@
     "currency": "PLN",
     "url": "https://www.morele.net/dysk-ssd-crucial-t705-1tb-m-2-2280-pci-e-x4-gen5-nvme-ct1000t705ssd3-13181671/",
     "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
+    "lastSeen": "2026-11-19T15:08:49Z",
     "product": "Dysk SSD Crucial T705 1TB M.2 2280 PCI-E x4 Gen5 NVMe (CT1000T705SSD3)",
     "image": "https://images.morele.net/i256/13181671_0_i256.jpg"
    },
@@ -1702,7 +1682,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202403020004.html",
     "inStock": true,
-    "lastSeen": "2026-11-18T23:53:24Z",
+    "lastSeen": "2026-11-19T15:08:49Z",
     "product": "Crucial T705 - 1 To avec dissipateur",
     "image": "https://media.materiel.net/r900/products/MN0006120125.jpg"
    },
@@ -1712,28 +1692,28 @@
     "currency": "EUR",
     "url": "https://www.ldlc.com/fiche/PB00602374.html",
     "inStock": true,
-    "lastSeen": "2026-11-18T23:53:24Z",
+    "lastSeen": "2026-11-19T15:08:49Z",
     "product": "Crucial T705 1 To - Avec dissipateur",
     "image": "https://media.ldlc.com/r1600/ld/products/00/06/11/87/LD0006118742.jpg"
    },
    {
     "shop": "amazon.com",
-    "price": 279.99,
+    "price": 279.0,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0CTRV9CVP?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:15:56Z",
+    "lastSeen": "2026-11-19T15:53:51Z",
     "product": "Crucial T705 PCIe Gen5 NVMe 1TB SSD, Up to 13,600MB/s, TLC NAND, Intel & Ryzen Compatible, for Hardcore Gaming & High-Speed Storage, Solid State Drive, Includes 1Mo Adobe CC – CT1000T705SSD3 : Electronics",
     "image": null
    }
   ],
   "image": "images/ssds-nvme-t705.jpg",
-  "lastUpdated": "2026-11-19T06:15:56Z"
+  "lastUpdated": "2026-11-19T15:53:51Z"
  },
  {
   "id": "nvme-t705-2tb",
   "name": "Crucial T705 2 To",
-  "priceMin": 701.02,
+  "priceMin": 440.42,
   "prices": [
    {
     "shop": "amazon.co.uk",
@@ -1744,10 +1724,30 @@
     "lastSeen": "2026-11-19T06:04:31Z",
     "product": "Crucial T705 2TB SSD PCIe Gen5 NVMe M.2 with Premium Heatsink, Up to 14,500MB/s, Microsoft DirectStorage, PCIe 4.0 Backwards Compatible, Internal Solid State Drive - CT2000T705SSD5",
     "image": null
+   },
+   {
+    "shop": "morele.net",
+    "price": 1893.79,
+    "currency": "PLN",
+    "url": "https://www.morele.net/dysk-ssd-crucial-t705-2tb-m-2-2280-pci-e-x4-gen5-nvme-ct2000t705ssd3-13181670/",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "Dysk SSD Crucial T705 2TB M.2 2280 PCI-E x4 Gen5 NVMe (CT2000T705SSD3)",
+    "image": "https://images.morele.net/i256/13181670_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1893.79,
+    "currency": "PLN",
+    "url": "https://www.morele.net/dysk-ssd-crucial-t705-2tb-m-2-2280-pci-e-x4-gen5-nvme-ct2000t705ssd3-13181670/",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "Dysk SSD Crucial T705 2TB M.2 2280 PCI-E x4 Gen5 NVMe (CT2000T705SSD3)",
+    "image": "https://images.morele.net/i256/13181670_0_i256.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-19T06:04:31Z"
+  "lastUpdated": "2026-11-19T15:08:49Z"
  },
  {
   "id": "sata-bx500-1tb",
@@ -1756,21 +1756,21 @@
   "prices": [
    {
     "shop": "morele.net",
-    "price": 793.99,
+    "price": 794.99,
     "currency": "PLN",
     "url": "https://www.morele.net/dysk-ssd-crucial-bx500-1tb-2-5-sata-iii-ct1000bx500ssd1-6422929/",
     "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
+    "lastSeen": "2026-11-19T15:08:49Z",
     "product": "Dysk SSD Crucial BX500 1TB 2.5\" SATA III (CT1000BX500SSD1)",
     "image": "https://images.morele.net/i256/6422929_0_i256.jpg"
    },
    {
     "shop": "morele.net",
-    "price": 793.99,
+    "price": 794.99,
     "currency": "PLN",
     "url": "https://www.morele.net/dysk-ssd-crucial-bx500-1tb-2-5-sata-iii-ct1000bx500ssd1-6422929/",
     "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
+    "lastSeen": "2026-11-19T15:08:49Z",
     "product": "Dysk SSD Crucial BX500 1TB 2.5\" SATA III (CT1000BX500SSD1)",
     "image": "https://images.morele.net/i256/6422929_0_i256.jpg"
    },
@@ -1780,32 +1780,32 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B07YD579WM?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:15:59Z",
+    "lastSeen": "2026-11-19T15:53:53Z",
     "product": "Crucial BX500 1TB 3D NAND SATA 2.5-Inch Internal SSD, up to 540MB/s - CT1000BX500SSD1, Solid State Drive : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-19T06:15:59Z"
+  "lastUpdated": "2026-11-19T15:53:53Z"
  },
  {
   "id": "sata-mx500",
   "name": "Crucial MX500 (SATA)",
-  "priceMin": 344.41,
+  "priceMin": 347.0,
   "prices": [
    {
     "shop": "amazon.com",
-    "price": 371.96,
+    "price": 374.76,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B078211KBB?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:16:01Z",
+    "lastSeen": "2026-11-19T15:53:54Z",
     "product": "Crucial MX500 1TB 3D NAND SATA 2.5 Inch Internal SSD, up to 560MB/s - CT1000MX500SSD1 : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-19T06:16:01Z"
+  "lastUpdated": "2026-11-19T15:53:54Z"
  },
  {
   "id": "sata-redsa500-1tb",
@@ -1814,11 +1814,11 @@
   "prices": [
    {
     "shop": "morele.net",
-    "price": 1791.85,
+    "price": 1878.66,
     "currency": "PLN",
     "url": "https://www.morele.net/dysk-ssd-wd-red-sa500-1tb-m-2-2280-sata-iii-wds100t1r0b-6409061/",
     "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
+    "lastSeen": "2026-11-19T15:08:49Z",
     "product": "Dysk SSD WD Red SA500 1TB M.2 2280 SATA III (WDS100T1R0B)",
     "image": "https://images.morele.net/i256/6409061_2_i256.jpg"
    },
@@ -1828,29 +1828,19 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B07YFG3R5N?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:16:02Z",
+    "lastSeen": "2026-11-19T15:53:56Z",
     "product": "Western Digital 1TB WD Red SA500 NAS 3D NAND Internal SSD - SATA III 6 Gb/s, 2.5\"/7mm, Up to 560 MB/s - WDS100T1R0A, Solid State Hard Drive : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-19T06:16:02Z"
+  "lastUpdated": "2026-11-19T15:53:56Z"
  },
  {
   "id": "nvme-sn350-1tb",
   "name": "WD Green SN350 1 To",
   "priceMin": 138.88,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 1367.89,
-    "currency": "PLN",
-    "url": "https://www.morele.net/dysk-ssd-sandisk-green-sn350-1tb-m-2-2280-pci-e-x4-gen3-nvme-wds100t3g0c-9642900/",
-    "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
-    "product": "Dysk SSD SanDisk Green SN350 1TB M.2 2280 PCI-E x4 Gen3 NVMe (WDS100T3G0C)",
-    "image": "https://images.morele.net/i256/9642900_5_i256.jpg"
-   },
    {
     "shop": "amazon.de",
     "price": 231.02,
@@ -1862,18 +1852,28 @@
     "image": null
    },
    {
+    "shop": "morele.net",
+    "price": 1216.91,
+    "currency": "PLN",
+    "url": "https://www.morele.net/dysk-ssd-sandisk-green-sn350-1tb-m-2-2280-pci-e-x4-gen3-nvme-wds100t3g0c-9642900/",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "Dysk SSD SanDisk Green SN350 1TB M.2 2280 PCI-E x4 Gen3 NVMe (WDS100T3G0C)",
+    "image": "https://images.morele.net/i256/9642900_5_i256.jpg"
+   },
+   {
     "shop": "amazon.com",
     "price": 149.99,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B09DVQQL9G?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:16:17Z",
+    "lastSeen": "2026-11-19T15:54:09Z",
     "product": "Western Digital 1TB WD Green SN350 NVMe Internal SSD Solid State Drive - Gen3 PCIe, QLC, M.2 2280, Up to 3,200 MB/s - WDS100T3G0C : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-19T06:16:17Z"
+  "lastUpdated": "2026-11-19T15:54:09Z"
  },
  {
   "id": "nvme-t700",
@@ -1882,11 +1882,11 @@
   "prices": [
    {
     "shop": "morele.net",
-    "price": 1144.55,
+    "price": 1144.54,
     "currency": "PLN",
     "url": "https://www.morele.net/dysk-ssd-crucial-t700-1tb-m-2-2280-pci-e-x4-gen5-nvme-ct1000t700ssd5-12906582/",
     "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
+    "lastSeen": "2026-11-19T15:08:49Z",
     "product": "Dysk SSD Crucial T700 1TB M.2 2280 PCI-E x4 Gen5 NVMe (CT1000T700SSD5)",
     "image": "https://images.morele.net/i256/12906582_0_i256.jpg"
    },
@@ -1896,18 +1896,18 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0C3K1QBSG?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:16:19Z",
+    "lastSeen": "2026-11-19T15:54:11Z",
     "product": "Crucial T700 PCIe Gen5 NVMe 1TB SSD, Up to 11,700MB/s, Intel & Ryzen Compatible, for Hardcore Gaming & High-Speed Storage, Solid State Drive – CT1000T700SSD3 : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-19T06:16:19Z"
+  "lastUpdated": "2026-11-19T15:54:11Z"
  },
  {
   "id": "nvme-t700-2tb",
   "name": "Crucial T700 2 To",
-  "priceMin": 508.33,
+  "priceMin": 462.95,
   "prices": [
    {
     "shop": "morele.net",
@@ -1915,7 +1915,7 @@
     "currency": "PLN",
     "url": "https://www.morele.net/dysk-ssd-crucial-t700-2tb-m-2-2280-pci-e-x4-gen5-nvme-ct2000t700ssd5-12906583/",
     "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
+    "lastSeen": "2026-11-19T15:08:49Z",
     "product": "Dysk SSD Crucial T700 2TB M.2 2280 PCI-E x4 Gen5 NVMe (CT2000T700SSD5)",
     "image": "https://images.morele.net/i256/12906583_0_i256.jpg"
    },
@@ -1925,23 +1925,23 @@
     "currency": "PLN",
     "url": "https://www.morele.net/dysk-ssd-crucial-t700-2tb-m-2-2280-pci-e-x4-gen5-nvme-ct2000t700ssd5-12906583/",
     "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
+    "lastSeen": "2026-11-19T15:08:49Z",
     "product": "Dysk SSD Crucial T700 2TB M.2 2280 PCI-E x4 Gen5 NVMe (CT2000T700SSD5)",
     "image": "https://images.morele.net/i256/12906583_0_i256.jpg"
    },
    {
     "shop": "amazon.com",
-    "price": 549.0,
+    "price": 499.99,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0C3K7MTSY?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:13:48Z",
+    "lastSeen": "2026-11-19T15:51:56Z",
     "product": "Crucial T700 PCIe Gen5 NVMe 2TB SSD, Up to 12,400MB/s, Intel & Ryzen Compatible, for Hardcore Gaming & High-Speed Storage, Solid State Drive – CT2000T700SSD3 : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-19T06:13:48Z"
+  "lastUpdated": "2026-11-19T15:51:56Z"
  },
  {
   "id": "sata-blue",
@@ -1950,11 +1950,11 @@
   "prices": [
    {
     "shop": "amazon.co.uk",
-    "price": 312.3,
+    "price": 312.0,
     "currency": "GBP",
     "url": "https://www.amazon.co.uk/dp/B073SB2MXT?tag=fraym0a-21",
     "inStock": true,
-    "lastSeen": "2026-11-19T00:21:05Z",
+    "lastSeen": "2026-11-19T15:41:27Z",
     "product": "WD Blue 3D NAND Internal SSD M.2 SATA - 1 TB, Blue - High Performance",
     "image": null
    },
@@ -1964,13 +1964,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B073SB2MXT?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-19T06:13:50Z",
+    "lastSeen": "2026-11-19T15:51:57Z",
     "product": "Western Digital 1TB WD Blue 3D NAND Internal PC SSD - SATA III 6 Gb/s, M.2 2280, Up to 560 MB/s - WDS100T2B0B : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-19T06:13:50Z"
+  "lastUpdated": "2026-11-19T15:51:57Z"
  },
  {
   "id": "hdd-p300-1tb",
@@ -1999,7 +1999,7 @@
     "currency": "PLN",
     "url": "https://www.morele.net/dysk-ssd-samsung-870-qvo-1tb-2-5-sata-iii-mz-77q1t0bw-5943414/",
     "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
+    "lastSeen": "2026-11-19T15:08:49Z",
     "product": "Dysk SSD Samsung 870 QVO 1TB 2.5\" SATA III (MZ-77Q1T0BW)",
     "image": "https://images.morele.net/i256/5943414_1_i256.jpg"
    },
@@ -2009,7 +2009,7 @@
     "currency": "PLN",
     "url": "https://www.morele.net/dysk-ssd-samsung-870-qvo-1tb-2-5-sata-iii-mz-77q1t0bw-5943414/",
     "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
+    "lastSeen": "2026-11-19T15:08:49Z",
     "product": "Dysk SSD Samsung 870 QVO 1TB 2.5\" SATA III (MZ-77Q1T0BW)",
     "image": "https://images.morele.net/i256/5943414_1_i256.jpg"
    },
@@ -2019,42 +2019,32 @@
     "currency": "PLN",
     "url": "https://www.morele.net/dysk-ssd-samsung-870-qvo-1tb-2-5-sata-iii-mz-77q1t0bw-5943414/",
     "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
+    "lastSeen": "2026-11-19T15:08:49Z",
     "product": "Dysk SSD Samsung 870 QVO 1TB 2.5\" SATA III (MZ-77Q1T0BW)",
     "image": "https://images.morele.net/i256/5943414_1_i256.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-18T12:17:00Z"
+  "lastUpdated": "2026-11-19T15:08:49Z"
  },
  {
   "id": "nvme-980pro-2t",
   "name": "Samsung 980 Pro 2 To",
-  "priceMin": 768.48,
+  "priceMin": 770.8,
   "prices": [
    {
     "shop": "morele.net",
-    "price": 3304.47,
+    "price": 3314.43,
     "currency": "PLN",
     "url": "https://www.morele.net/dysk-ssd-samsung-980-pro-2tb-m-2-2280-pci-e-x4-gen4-nvme-mz-v8p2t0bw-5945753/",
     "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
-    "product": "Dysk SSD Samsung 980 PRO 2TB M.2 2280 PCI-E x4 Gen4 NVMe (MZ-V8P2T0BW)",
-    "image": "https://images.morele.net/i256/5945753_13_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 3304.47,
-    "currency": "PLN",
-    "url": "https://www.morele.net/dysk-ssd-samsung-980-pro-2tb-m-2-2280-pci-e-x4-gen4-nvme-mz-v8p2t0bw-5945753/",
-    "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
+    "lastSeen": "2026-11-19T15:08:49Z",
     "product": "Dysk SSD Samsung 980 PRO 2TB M.2 2280 PCI-E x4 Gen4 NVMe (MZ-V8P2T0BW)",
     "image": "https://images.morele.net/i256/5945753_13_i256.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-18T12:17:00Z"
+  "lastUpdated": "2026-11-19T15:08:49Z"
  },
  {
   "id": "nvme-p3-500",
@@ -2075,29 +2065,19 @@
     "currency": "PLN",
     "url": "https://www.morele.net/dysk-ssd-crucial-t500-1tb-m-2-2280-pci-e-x4-gen4-nvme-ct1000t500ssd8-13129508/",
     "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
+    "lastSeen": "2026-11-19T15:08:49Z",
     "product": "Dysk SSD Crucial T500 1TB M.2 2280 PCI-E x4 Gen4 NVMe (CT1000T500SSD8)",
     "image": "https://images.morele.net/i256/13129508_0_i256.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-18T12:17:00Z"
+  "lastUpdated": "2026-11-19T15:08:49Z"
  },
  {
   "id": "nvme-a440",
   "name": "Lexar NM790 (Gen4)",
   "priceMin": 153.05,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 899.0,
-    "currency": "PLN",
-    "url": "https://www.morele.net/dysk-ssd-lexar-nm790-1tb-m-2-2280-pci-e-x4-gen4-nvme-lnm790x001t-rnnng-12848183/",
-    "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
-    "product": "Dysk SSD Lexar NM790 1TB M.2 2280 PCI-E x4 Gen4 NVMe (LNM790X001T-RNNNG)",
-    "image": "https://images.morele.net/i256/12848183_5_i256.jpg"
-   },
    {
     "shop": "canadacomputers.com",
     "price": 224.99,
@@ -2107,10 +2087,20 @@
     "lastSeen": "2026-11-18T15:02:32Z",
     "product": "Lexar NM790 1TB M.2 SSD",
     "image": "https://ccimg.canadacomputers.com/Products/800x800/707/4143/246467/64827.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 899.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/dysk-ssd-lexar-nm790-1tb-m-2-2280-pci-e-x4-gen4-nvme-lnm790x001t-rnnng-12848183/",
+    "inStock": true,
+    "lastSeen": "2026-11-19T15:08:49Z",
+    "product": "Dysk SSD Lexar NM790 1TB M.2 2280 PCI-E x4 Gen4 NVMe (LNM790X001T-RNNNG)",
+    "image": "https://images.morele.net/i256/12848183_5_i256.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-18T15:02:32Z"
+  "lastUpdated": "2026-11-19T15:08:49Z"
  },
  {
   "id": "nvme-sn770-250",
@@ -2123,13 +2113,13 @@
     "currency": "PLN",
     "url": "https://www.morele.net/dysk-ssd-sandisk-black-sn770-250gb-m-2-2280-pci-e-x4-gen4-nvme-wds250g3x0e-10124845/",
     "inStock": false,
-    "lastSeen": "2026-11-18T12:17:00Z",
+    "lastSeen": "2026-11-19T15:08:49Z",
     "product": "Dysk SSD SanDisk Black SN770 250GB M.2 2280 PCI-E x4 Gen4 NVMe (WDS250G3X0E)",
     "image": "https://images.morele.net/i256/10124845_6_i256.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-18T12:17:00Z"
+  "lastUpdated": "2026-11-19T15:08:49Z"
  },
  {
   "id": "hdd-barracuda-1tb",
@@ -2142,7 +2132,7 @@
     "currency": "PLN",
     "url": "https://www.morele.net/dysk-seagate-barracuda-1tb-3-5-sata-iii-st1000dm014-12862890/",
     "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
+    "lastSeen": "2026-11-19T15:08:49Z",
     "product": "Dysk Seagate BarraCuda 1TB 3.5\" SATA III (ST1000DM014)",
     "image": "https://images.morele.net/i256/12862890_3_i256.jpg"
    },
@@ -2152,7 +2142,7 @@
     "currency": "PLN",
     "url": "https://www.morele.net/dysk-seagate-barracuda-1tb-3-5-sata-iii-st1000dm014-12862890/",
     "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
+    "lastSeen": "2026-11-19T15:08:49Z",
     "product": "Dysk Seagate BarraCuda 1TB 3.5\" SATA III (ST1000DM014)",
     "image": "https://images.morele.net/i256/12862890_3_i256.jpg"
    },
@@ -2162,23 +2152,23 @@
     "currency": "PLN",
     "url": "https://www.morele.net/dysk-seagate-barracuda-1tb-3-5-sata-iii-st1000dm014-12862890/",
     "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
+    "lastSeen": "2026-11-19T15:08:49Z",
     "product": "Dysk Seagate BarraCuda 1TB 3.5\" SATA III (ST1000DM014)",
     "image": "https://images.morele.net/i256/12862890_3_i256.jpg"
    },
    {
     "shop": "morele.net",
-    "price": 898.16,
+    "price": 729.0,
     "currency": "PLN",
     "url": "https://www.morele.net/dysk-seagate-barracuda-1tb-2-5-sata-iii-st1000lm048-1042366/",
     "inStock": true,
-    "lastSeen": "2026-11-18T12:17:00Z",
+    "lastSeen": "2026-11-19T15:08:49Z",
     "product": "Dysk Seagate BarraCuda 1TB 2.5\" SATA III (ST1000LM048)",
     "image": "https://images.morele.net/i256/1042366_0_i256.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-18T12:17:00Z"
+  "lastUpdated": "2026-11-19T15:08:49Z"
  },
  {
   "id": "nvme-t500-1tb",
@@ -2191,7 +2181,7 @@
     "currency": "PLN",
     "url": "https://www.morele.net/dysk-ssd-crucial-t500-1tb-m-2-2280-pci-e-x4-gen4-nvme-ct1000t500ssd8-13129508/",
     "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
+    "lastSeen": "2026-11-19T15:08:49Z",
     "product": "Dysk SSD Crucial T500 1TB M.2 2280 PCI-E x4 Gen4 NVMe (CT1000T500SSD8)",
     "image": "https://images.morele.net/i256/13129508_0_i256.jpg"
    },
@@ -2201,22 +2191,12 @@
     "currency": "PLN",
     "url": "https://www.morele.net/dysk-ssd-crucial-t500-1tb-m-2-2280-pci-e-x4-gen4-nvme-ct1000t500ssd8-13129508/",
     "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
-    "product": "Dysk SSD Crucial T500 1TB M.2 2280 PCI-E x4 Gen4 NVMe (CT1000T500SSD8)",
-    "image": "https://images.morele.net/i256/13129508_0_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 1579.99,
-    "currency": "PLN",
-    "url": "https://www.morele.net/dysk-ssd-crucial-t500-1tb-m-2-2280-pci-e-x4-gen4-nvme-ct1000t500ssd8-13129508/",
-    "inStock": true,
-    "lastSeen": "2026-11-18T15:02:32Z",
+    "lastSeen": "2026-11-19T15:08:49Z",
     "product": "Dysk SSD Crucial T500 1TB M.2 2280 PCI-E x4 Gen4 NVMe (CT1000T500SSD8)",
     "image": "https://images.morele.net/i256/13129508_0_i256.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-18T15:02:32Z"
+  "lastUpdated": "2026-11-19T15:08:49Z"
  }
 ]

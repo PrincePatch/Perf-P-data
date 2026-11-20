@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T00:58:27Z",
+ "generated": "2026-11-20T15:31:47Z",
  "markets": [
   "amazon.fr",
   "amazon.de",
@@ -9,8 +9,8 @@
   "amazon.com",
   "amazon.com.au"
  ],
- "nativeLinks": 2209,
- "onelinkLinks": 1263,
+ "nativeLinks": 2208,
+ "onelinkLinks": 1257,
  "note": "Liens d'affiliation Amazon pre-calcules vers la FICHE PRODUIT (/dp/<ASIN>), utilises par l'app quand aucune offre Amazon verifiee n'est disponible. ASIN valides sur la fiche Amazon elle-meme ; les marketplaces sans fiche recoivent le lien d'une marketplace voisine, OneLink redirigeant l'acheteur.",
  "items": {
   "gpus": {
@@ -5931,24 +5931,6 @@
      "amazon.com.au": "https://www.amazon.com/dp/B07YD579WM?tag=fraym-20"
     }
    },
-   "sata-redsa500-1tb": {
-    "name": "WD Red SA500 1 To",
-    "q": "Western Digital WD Red SA500 1TB",
-    "asin": "B07YFG3R5N",
-    "product": "Western Digital 1TB WD Red SA500 NAS 3D NAND Internal SSD - SATA III 6 Gb/s, 2.5\"/7mm, Up to 560 MB/s - WDS100T1R0A, Solid State Hard Drive : Electronics",
-    "native": [
-     "amazon.com"
-    ],
-    "links": {
-     "amazon.fr": "https://www.amazon.com/dp/B07YFG3R5N?tag=fraym-20",
-     "amazon.de": "https://www.amazon.com/dp/B07YFG3R5N?tag=fraym-20",
-     "amazon.es": "https://www.amazon.com/dp/B07YFG3R5N?tag=fraym-20",
-     "amazon.it": "https://www.amazon.com/dp/B07YFG3R5N?tag=fraym-20",
-     "amazon.co.uk": "https://www.amazon.com/dp/B07YFG3R5N?tag=fraym-20",
-     "amazon.com": "https://www.amazon.com/dp/B07YFG3R5N?tag=fraym-20",
-     "amazon.com.au": "https://www.amazon.com/dp/B07YFG3R5N?tag=fraym-20"
-    }
-   },
    "sata-sandisk-1tb": {
     "name": "SanDisk Ultra 3D 1 To",
     "q": "SanDisk Ultra 3D 1TB",
@@ -10739,6 +10721,11 @@
    {
     "id": "sata-a400-480",
     "name": "Kingston A400 480 Go",
+    "raison": "sans_fiche"
+   },
+   {
+    "id": "sata-redsa500-1tb",
+    "name": "WD Red SA500 1 To",
     "raison": "sans_fiche"
    },
    {

@@ -15,16 +15,6 @@
     "image": "https://ccimg.canadacomputers.com/Products/800x800/93/1497/250153/47370.jpg"
    },
    {
-    "shop": "amazon.fr",
-    "price": 41.66,
-    "currency": "EUR",
-    "url": "https://www.amazon.fr/dp/B0991W1HKT?tag=fraym-21",
-    "inStock": true,
-    "lastSeen": "2026-11-21T00:15:34Z",
-    "product": "MSI MAG A550BN Alimentation ATX, 80 PLUS Bronze | 550W, Rail Unique 12V, Circuit DC vers DC, Ventilateur 120mm, Garantie 5 Ans",
-    "image": null
-   },
-   {
     "shop": "ldlc.com",
     "price": 59.95,
     "currency": "EUR",
@@ -65,26 +55,6 @@
     "image": "https://images.morele.net/i256/14910833_13_i256.jpg"
    },
    {
-    "shop": "amazon.de",
-    "price": 48.5,
-    "currency": "EUR",
-    "url": "https://www.amazon.de/dp/B0991W1HKT?tag=fraym03-21",
-    "inStock": true,
-    "lastSeen": "2026-11-21T05:46:53Z",
-    "product": "MSI MAG A550BN - 550W, 80 Plus Bronze Netzteil | ATX-Netzteil, 12V Single-Rail, DC/DC-Spannungswandler-Design, 120mm Lüfter",
-    "image": null
-   },
-   {
-    "shop": "amazon.it",
-    "price": 54.75,
-    "currency": "EUR",
-    "url": "https://www.amazon.it/dp/B0991W1HKT?tag=fraym06-21",
-    "inStock": true,
-    "lastSeen": "2026-11-21T14:30:38Z",
-    "product": "MSI MAG A550BN Alimentatore da 550 W con Spina EU, 80 PLUS Bronze | Formato ATX, Rail Singola 12V, Circuito DC-DC, Ventola 120 mm, Garanzia 5 Anni",
-    "image": null
-   },
-   {
     "shop": "amazon.co.uk",
     "price": 45.82,
     "currency": "GBP",
@@ -103,10 +73,40 @@
     "lastSeen": "2026-11-21T14:42:14Z",
     "product": "MSI mag A550BN - Fuente de alimentación Gaming: 80 Plus Bronze, 550 vatios, 12V Single-Rail, Circuito DC-to-DC, Ventilador de 120mm",
     "image": null
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 41.66,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B0991W1HKT?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-21T23:12:02Z",
+    "product": "MSI MAG A550BN Alimentation ATX, 80 PLUS Bronze | 550W, Rail Unique 12V, Circuit DC vers DC, Ventilateur 120mm, Garantie 5 Ans",
+    "image": null
+   },
+   {
+    "shop": "amazon.de",
+    "price": 49.41,
+    "currency": "EUR",
+    "url": "https://www.amazon.de/dp/B0991W1HKT?tag=fraym03-21",
+    "inStock": true,
+    "lastSeen": "2026-11-21T23:12:47Z",
+    "product": "MSI MAG A550BN - 550W, 80 Plus Bronze Netzteil | ATX-Netzteil, 12V Single-Rail, DC/DC-Spannungswandler-Design, 120mm Lüfter",
+    "image": null
+   },
+   {
+    "shop": "amazon.it",
+    "price": 54.75,
+    "currency": "EUR",
+    "url": "https://www.amazon.it/dp/B0991W1HKT?tag=fraym06-21",
+    "inStock": false,
+    "lastSeen": "2026-11-21T23:15:07Z",
+    "product": "MSI MAG A550BN Alimentatore da 550 W con Spina EU, 80 PLUS Bronze | Formato ATX, Rail Singola 12V, Circuito DC-DC, Ventola 120 mm, Garanzia 5 Anni",
+    "image": null
    }
   ],
   "image": "images/psus-msi-mag-a550bn.jpg",
-  "lastUpdated": "2026-11-21T14:42:14Z"
+  "lastUpdated": "2026-11-21T23:15:07Z"
  },
  {
   "id": "be-quiet-pure-power-12-m-650w",
@@ -188,29 +188,19 @@
     "currency": "EUR",
     "url": "https://www.amazon.it/dp/B0DMTLB5LJ?tag=fraym06-21",
     "inStock": true,
-    "lastSeen": "2026-11-21T05:47:04Z",
+    "lastSeen": "2026-11-21T23:12:58Z",
     "product": "CORSAIR RM650e (2025) Alimentatore ATX completamente modulare – Nero | Basso Rumore, Con cavo 12V-2x6, Conforme a ATX 3.1 e PCIe 5.1, Efficienza Cybenetics Gold, Condensatori a 105°C",
     "image": null
    }
   ],
   "image": "images/psus-corsair-rm650e.jpg",
-  "lastUpdated": "2026-11-21T05:47:04Z"
+  "lastUpdated": "2026-11-21T23:12:58Z"
  },
  {
   "id": "msi-mag-a650gl",
   "name": "MSI MAG A650GL",
   "priceMin": 64.81,
   "prices": [
-   {
-    "shop": "amazon.fr",
-    "price": 79.16,
-    "currency": "EUR",
-    "url": "https://www.amazon.fr/dp/B0CGFZVGF9?tag=fraym-21",
-    "inStock": true,
-    "lastSeen": "2026-11-21T00:09:41Z",
-    "product": "MSI PSU mag A650GL 80 Plus Gold Full Modular",
-    "image": null
-   },
    {
     "shop": "canadacomputers.com",
     "price": 99.99,
@@ -287,13 +277,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0CGFZVGF9?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-21T14:43:13Z",
+    "lastSeen": "2026-11-21T23:24:45Z",
     "product": "MSI MAG A650GL, Fully Modular Compact Gaming 650W Power Supply, 80+ Gold, ATX PSU, 10 Year Warranty : Electronics",
     "image": null
    }
   ],
   "image": "images/psus-msi-mag-a650gl.jpg",
-  "lastUpdated": "2026-11-21T14:43:13Z"
+  "lastUpdated": "2026-11-21T23:24:45Z"
  },
  {
   "id": "corsair-rm750e",
@@ -508,16 +498,6 @@
   "priceMin": 80.32,
   "prices": [
    {
-    "shop": "materiel.net",
-    "price": 109.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202411180059.html",
-    "inStock": true,
-    "lastSeen": "2026-11-20T23:39:48Z",
-    "product": "Corsair RM750x (2024)",
-    "image": "https://media.materiel.net/r900/products/MN0006192069.jpg"
-   },
-   {
     "shop": "canadacomputers.com",
     "price": 164.99,
     "currency": "CAD",
@@ -578,16 +558,6 @@
     "image": "https://images.morele.net/i256/12706245_1_i256.jpg"
    },
    {
-    "shop": "amazon.fr",
-    "price": 81.66,
-    "currency": "EUR",
-    "url": "https://www.amazon.fr/dp/B0D9C2K4VS?tag=fraym-21",
-    "inStock": true,
-    "lastSeen": "2026-11-21T05:50:45Z",
-    "product": "CORSAIR RM750x Alimentation ATX entièrement modulaire et silencieuse – Noir | Conformité ATX 3.1, Prise en Charge PCIe 5.1, Efficacité Cybenetics Gold, Connecteur natif 12V–2x6",
-    "image": null
-   },
-   {
     "shop": "amazon.it",
     "price": 80.32,
     "currency": "EUR",
@@ -618,18 +588,38 @@
     "image": null
    },
    {
+    "shop": "materiel.net",
+    "price": 109.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202411180059.html",
+    "inStock": true,
+    "lastSeen": "2026-11-21T22:46:33Z",
+    "product": "Corsair RM750x (2024)",
+    "image": "https://media.materiel.net/r900/products/MN0006192069.jpg"
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 81.66,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B0D9C2K4VS?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-21T23:15:35Z",
+    "product": "CORSAIR RM750x Alimentation ATX entièrement modulaire et silencieuse – Noir | Conformité ATX 3.1, Prise en Charge PCIe 5.1, Efficacité Cybenetics Gold, Connecteur natif 12V–2x6",
+    "image": null
+   },
+   {
     "shop": "amazon.com",
     "price": 122.99,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0FLG9Y4HZ?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-21T14:39:22Z",
+    "lastSeen": "2026-11-21T23:21:42Z",
     "product": "CORSAIR RM750x ATX 3.1 PCIe 5.1 750W Power Supply – Black | Native 12V-2x6 Connector, Fully Modular, Low-Noise, Cybenetics Gold, NA : Electronics",
     "image": null
    }
   ],
   "image": "images/psus-corsair-rm750x.jpg",
-  "lastUpdated": "2026-11-21T14:39:22Z"
+  "lastUpdated": "2026-11-21T23:21:42Z"
  },
  {
   "id": "msi-mpg-a750g",
@@ -938,13 +928,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0FLFGG1CC?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-21T14:43:08Z",
+    "lastSeen": "2026-11-21T23:24:40Z",
     "product": "CORSAIR RM850x ATX 3.1 PCIe 5.1 Ready Fully Modular 850W Power Supply – Low-Noise, Cybenetics Gold Efficiency, Native 12V-2x6 Connector – Black : Electronics",
     "image": null
    }
   ],
   "image": "images/psus-corsair-rm850x.jpg",
-  "lastUpdated": "2026-11-21T14:43:08Z"
+  "lastUpdated": "2026-11-21T23:24:40Z"
  },
  {
   "id": "seasonic-focus-gx-850",
@@ -1027,13 +1017,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0CSN7KNF6?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-21T14:40:11Z",
+    "lastSeen": "2026-11-21T23:22:04Z",
     "product": "SEASONIC FOCUS V4 GX-850-850W - 80+ Gold - Full-Modular - ATX Form Factor - Premium Japanese Capacitor - 10 Year Warranty - Nvidia RTX 30/40 Super & AMD GPU Compatible (Ref. SRP-FGX851-A5A32SF) : Electronics",
     "image": null
    }
   ],
   "image": "images/psus-seasonic-focus-gx-850.jpg",
-  "lastUpdated": "2026-11-21T14:40:11Z"
+  "lastUpdated": "2026-11-21T23:22:04Z"
  },
  {
   "id": "be-quiet-straight-power-12-850w",
@@ -1052,17 +1042,17 @@
    },
    {
     "shop": "amazon.com",
-    "price": 564.67,
+    "price": 541.59,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0C86K2RP7?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-21T14:42:57Z",
+    "lastSeen": "2026-11-21T23:24:29Z",
     "product": "be quiet! Straight Power 12 Power Supply Unit 850 W 20+4 Pin, W128428696 (Supply Unit 850 W 20+4 Pin ATX ATX Black) : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-21T14:42:57Z"
+  "lastUpdated": "2026-11-21T23:24:29Z"
  },
  {
   "id": "nzxt-c850-gold",
@@ -1085,13 +1075,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0D1VDTX8B?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-21T14:43:18Z",
+    "lastSeen": "2026-11-21T23:24:50Z",
     "product": "NZXT C850 Gold ATX 3.1-850W Fully Modular Power Supply | 850W 80 PLUS Gold ATX 3.1 PSU, fully modular and quiet. PCIe 5 ready for modern GPUs, backed by a 10-year warranty. : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-21T14:43:18Z"
+  "lastUpdated": "2026-11-21T23:24:50Z"
  },
  {
   "id": "corsair-rm1000e",
@@ -1224,29 +1214,19 @@
     "currency": "EUR",
     "url": "https://www.amazon.de/dp/B0DMTN57C1?tag=fraym03-21",
     "inStock": true,
-    "lastSeen": "2026-11-21T14:31:14Z",
+    "lastSeen": "2026-11-21T23:15:40Z",
     "product": "CORSAIR RM1000e ATX-Netzteil mit 12V-2x6 Kable – Schwarz | Vollständig Modulares, Geräuscharmes, Zero RPM-Lüftermodus, ATX 3.1-Konform, PCIe 5.1-Unterstützung, Cybenetics Gold",
     "image": null
    }
   ],
   "image": "images/psus-corsair-rm1000e.jpg",
-  "lastUpdated": "2026-11-21T14:31:14Z"
+  "lastUpdated": "2026-11-21T23:15:40Z"
  },
  {
   "id": "corsair-rm1000x",
   "name": "Corsair RM1000x",
   "priceMin": 139.95,
   "prices": [
-   {
-    "shop": "materiel.net",
-    "price": 139.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202411180061.html",
-    "inStock": true,
-    "lastSeen": "2026-11-20T23:39:48Z",
-    "product": "Corsair RM1000x (2024)",
-    "image": "https://media.materiel.net/r900/products/MN0006192083.jpg"
-   },
    {
     "shop": "canadacomputers.com",
     "price": 214.99,
@@ -1286,10 +1266,20 @@
     "lastSeen": "2026-11-21T05:17:18Z",
     "product": "Zasilacz Corsair RM1000x SHIFT 2025 1000W (CP-9020300-EU)",
     "image": "https://images.morele.net/i256/15740199_0_i256.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 139.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202411180061.html",
+    "inStock": true,
+    "lastSeen": "2026-11-21T22:46:33Z",
+    "product": "Corsair RM1000x (2024)",
+    "image": "https://media.materiel.net/r900/products/MN0006192083.jpg"
    }
   ],
   "image": "images/psus-corsair-rm1000x.jpg",
-  "lastUpdated": "2026-11-21T05:17:18Z"
+  "lastUpdated": "2026-11-21T22:46:33Z"
  },
  {
   "id": "be-quiet-dark-power-13-1000w",
@@ -1509,13 +1499,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0GVQ2BGKF?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-21T14:43:25Z",
+    "lastSeen": "2026-11-21T23:24:57Z",
     "product": "Thermaltake Toughpower GF3 1000W; ATX 3.1; Native PCIe 5.1 12V-2x6; Color Matched Connectors; Japanese Main Capacitors; Colored Custom 135mm Fan; 80 Plus Gold Certified; Snow; PS-TPD-1000FNFAGU-S : Everything Else",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-21T14:43:25Z"
+  "lastUpdated": "2026-11-21T23:24:57Z"
  },
  {
   "id": "gigabyte-ud1000gm-pg5",
@@ -1588,49 +1578,19 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0FJZHR289?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-21T14:43:11Z",
+    "lastSeen": "2026-11-21T23:24:43Z",
     "product": "GIGABYTE UD1000GM PG5 V2-1000W 80 Plus Gold Certified - PCIe5.1 Ready - ATX3.1 - Fully Modular Power Supply (UD1000GM PG5 V2) : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-21T14:43:11Z"
+  "lastUpdated": "2026-11-21T23:24:43Z"
  },
  {
   "id": "asus-rog-strix-1000w",
   "name": "ASUS ROG Strix 1000W",
   "priceMin": 150.42,
   "prices": [
-   {
-    "shop": "materiel.net",
-    "price": 269.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202606080108.html",
-    "inStock": true,
-    "lastSeen": "2026-11-20T23:39:48Z",
-    "product": "ASUS ROG Strix 1000W Platinum - ROG Equalizer",
-    "image": "https://media.materiel.net/r250/products/MN0006355366.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 269.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202606080107.html",
-    "inStock": true,
-    "lastSeen": "2026-11-20T23:39:48Z",
-    "product": "ASUS ROG Strix 1000W Platinum - ROG Equalizer - Blanc",
-    "image": "https://media.materiel.net/r250/products/MN0006366585.jpg"
-   },
-   {
-    "shop": "amazon.fr",
-    "price": 150.42,
-    "currency": "EUR",
-    "url": "https://www.amazon.fr/dp/B0BPM64FHX?tag=fraym-21",
-    "inStock": true,
-    "lastSeen": "2026-11-21T00:15:48Z",
-    "product": "ASUS ROG Strix 1000W Gold Aura Edition – Bloc d'alimentation PC (1000 Watt, modulable, 80+ Gold, ATX 3.0 Compatible, Lambda A+, PCIE 5.0, Ventilateurs axiaux, Aura Sync RGB)",
-    "image": null
-   },
    {
     "shop": "canadacomputers.com",
     "price": 279.99,
@@ -1770,26 +1730,46 @@
     "lastSeen": "2026-11-21T14:06:00Z",
     "product": "Zasilacz Asus ROG Thor Platinum III 1000W ATX 3.1 (90YE00V3-B0NA00)",
     "image": "https://images.morele.net/i256/14980998_5_i256.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 269.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202606080108.html",
+    "inStock": true,
+    "lastSeen": "2026-11-21T22:46:33Z",
+    "product": "ASUS ROG Strix 1000W Platinum - ROG Equalizer",
+    "image": "https://media.materiel.net/r250/products/MN0006355366.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 269.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202606080107.html",
+    "inStock": true,
+    "lastSeen": "2026-11-21T22:46:33Z",
+    "product": "ASUS ROG Strix 1000W Platinum - ROG Equalizer - Blanc",
+    "image": "https://media.materiel.net/r250/products/MN0006366585.jpg"
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 150.42,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B0BPM64FHX?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-21T23:12:04Z",
+    "product": "ASUS ROG Strix 1000W Gold Aura Edition – Bloc d'alimentation PC (1000 Watt, modulable, 80+ Gold, ATX 3.0 Compatible, Lambda A+, PCIE 5.0, Ventilateurs axiaux, Aura Sync RGB)",
+    "image": null
    }
   ],
   "image": "images/psus-asus-rog-strix-1000w.jpg",
-  "lastUpdated": "2026-11-21T14:06:00Z"
+  "lastUpdated": "2026-11-21T23:12:04Z"
  },
  {
   "id": "corsair-cx550",
   "name": "Corsair CX550",
   "priceMin": 33.81,
   "prices": [
-   {
-    "shop": "materiel.net",
-    "price": 59.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202309260101.html",
-    "inStock": true,
-    "lastSeen": "2026-11-20T23:39:48Z",
-    "product": "Corsair CX550",
-    "image": "https://media.materiel.net/r900/products/MN0006084191.jpg"
-   },
    {
     "shop": "canadacomputers.com",
     "price": 84.99,
@@ -1809,16 +1789,6 @@
     "lastSeen": "2026-11-21T05:17:18Z",
     "product": "Corsair CX550 80PLUS Bronze (2023)",
     "image": "https://media.ldlc.com/r1600/ld/products/00/06/08/18/LD0006081883.jpg"
-   },
-   {
-    "shop": "amazon.de",
-    "price": 35.21,
-    "currency": "EUR",
-    "url": "https://www.amazon.de/dp/B0CK8MXWK1?tag=fraym03-21",
-    "inStock": true,
-    "lastSeen": "2026-11-21T05:46:56Z",
-    "product": "CORSAIR CX550 ATX 550W EU Netzteil - Schwarz | 80 PLUS Bronze zertifiziert, Kompaktes, Geräuscharm, Ummantelte Kabel, Nicht Modular",
-    "image": null
    },
    {
     "shop": "morele.net",
@@ -1869,26 +1839,36 @@
     "lastSeen": "2026-11-21T14:37:45Z",
     "product": "Corsair CX550 80 Plus Bronze - Bloc d'alimentation Non modulaire ATX à Faible Bruit de 550 W, Couleur Noire",
     "image": null
+   },
+   {
+    "shop": "materiel.net",
+    "price": 59.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202309260101.html",
+    "inStock": true,
+    "lastSeen": "2026-11-21T22:46:33Z",
+    "product": "Corsair CX550",
+    "image": "https://media.materiel.net/r900/products/MN0006084191.jpg"
+   },
+   {
+    "shop": "amazon.de",
+    "price": 35.21,
+    "currency": "EUR",
+    "url": "https://www.amazon.de/dp/B0CK8MXWK1?tag=fraym03-21",
+    "inStock": true,
+    "lastSeen": "2026-11-21T23:12:49Z",
+    "product": "CORSAIR CX550 ATX 550W EU Netzteil - Schwarz | 80 PLUS Bronze zertifiziert, Kompaktes, Geräuscharm, Ummantelte Kabel, Nicht Modular",
+    "image": null
    }
   ],
   "image": "images/psus-corsair-cx550.jpg",
-  "lastUpdated": "2026-11-21T14:37:45Z"
+  "lastUpdated": "2026-11-21T23:12:49Z"
  },
  {
   "id": "corsair-cx750",
   "name": "Corsair CX750",
   "priceMin": 38.74,
   "prices": [
-   {
-    "shop": "materiel.net",
-    "price": 79.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202309260104.html",
-    "inStock": true,
-    "lastSeen": "2026-11-20T23:39:48Z",
-    "product": "Corsair CX750",
-    "image": "https://media.materiel.net/r900/products/MN0006084206.jpg"
-   },
    {
     "shop": "canadacomputers.com",
     "price": 99.99,
@@ -1920,16 +1900,6 @@
     "image": "https://media.ldlc.com/r1600/ld/products/00/06/08/19/LD0006081970.jpg"
    },
    {
-    "shop": "amazon.de",
-    "price": 40.33,
-    "currency": "EUR",
-    "url": "https://www.amazon.de/dp/B0CK8P3SRG?tag=fraym03-21",
-    "inStock": true,
-    "lastSeen": "2026-11-21T05:47:54Z",
-    "product": "CORSAIR CX750 ATX 750W EU Netzteil - Schwarz | 80 PLUS Bronze zertifiziert, Kompaktes, Geräuscharm, Ummantelte Kabel, Nicht Modular",
-    "image": null
-   },
-   {
     "shop": "morele.net",
     "price": 307.51,
     "currency": "PLN",
@@ -1940,12 +1910,32 @@
     "image": "https://images.morele.net/i256/13118195_0_i256.jpg"
    },
    {
+    "shop": "materiel.net",
+    "price": 79.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202309260104.html",
+    "inStock": true,
+    "lastSeen": "2026-11-21T22:46:33Z",
+    "product": "Corsair CX750",
+    "image": "https://media.materiel.net/r900/products/MN0006084206.jpg"
+   },
+   {
+    "shop": "amazon.de",
+    "price": 40.33,
+    "currency": "EUR",
+    "url": "https://www.amazon.de/dp/B0CK8P3SRG?tag=fraym03-21",
+    "inStock": true,
+    "lastSeen": "2026-11-21T23:13:06Z",
+    "product": "CORSAIR CX750 ATX 750W EU Netzteil - Schwarz | 80 PLUS Bronze zertifiziert, Kompaktes, Geräuscharm, Ummantelte Kabel, Nicht Modular",
+    "image": null
+   },
+   {
     "shop": "amazon.co.uk",
     "price": 33.32,
     "currency": "GBP",
     "url": "https://www.amazon.co.uk/dp/B0CJRXNXZT?tag=fraym0a-21",
     "inStock": true,
-    "lastSeen": "2026-11-21T14:34:08Z",
+    "lastSeen": "2026-11-21T23:18:12Z",
     "product": "CORSAIR CX750 Non Modular Low-Noise ATX 750 Watt Power Supply – Black | 80 PLUS Bronze, UK",
     "image": null
    },
@@ -1955,13 +1945,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0CQMJN49P?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-21T14:41:52Z",
+    "lastSeen": "2026-11-21T23:23:27Z",
     "product": "CORSAIR CX750 80 Plus Bronze Non Modular Low-Noise ATX 750 Watt Power Supply - NA - Black : Home & Kitchen",
     "image": null
    }
   ],
   "image": "images/psus-corsair-cx750.jpg",
-  "lastUpdated": "2026-11-21T14:41:52Z"
+  "lastUpdated": "2026-11-21T23:23:27Z"
  },
  {
   "id": "corsair-hx1200",
@@ -2014,13 +2004,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B01MZ8A8NW?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-21T14:43:04Z",
+    "lastSeen": "2026-11-21T23:24:36Z",
     "product": "Corsair HX Series, HX1200, 1200 Watt, Fully Modular Power Supply, 80+ Platinum Certified, Model Number: CP-9020140-NA : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-21T14:43:04Z"
+  "lastUpdated": "2026-11-21T23:24:36Z"
  },
  {
   "id": "corsair-sf750",
@@ -2038,26 +2028,6 @@
     "image": "https://ccimg.canadacomputers.com/Products/800x800/93/1497/262838/21190.jpg"
    },
    {
-    "shop": "amazon.co.uk",
-    "price": 83.32,
-    "currency": "GBP",
-    "url": "https://www.amazon.co.uk/dp/B0D5HTTCSB?tag=fraym0a-21",
-    "inStock": true,
-    "lastSeen": "2026-11-21T05:44:04Z",
-    "product": "CORSAIR SF750 (2024) Fully Modular SFX Low Noise Power Supply – Black | ATX 3.1 Compliant, PCIe 5.1 Ready, 80 PLUS Platinum, Small Form Factor, SFX-to-ATX Bracket Included",
-    "image": null
-   },
-   {
-    "shop": "amazon.de",
-    "price": 97.47,
-    "currency": "EUR",
-    "url": "https://www.amazon.de/dp/B0D5HY3F9X?tag=fraym03-21",
-    "inStock": true,
-    "lastSeen": "2026-11-21T05:49:52Z",
-    "product": "CORSAIR SF750 Vollständig Modulares ATX-Netzteil – Schwarz | ATX 3.1-Kompatibel, PCIe 5.1-Fähig, 80 PLUS Platinum, Geräuscharm, SFX-to-ATX-Halterung Enthalten",
-    "image": null
-   },
-   {
     "shop": "morele.net",
     "price": 731.64,
     "currency": "PLN",
@@ -2068,12 +2038,32 @@
     "image": "https://images.morele.net/i256/13270320_3_i256.jpg"
    },
    {
+    "shop": "amazon.co.uk",
+    "price": 83.32,
+    "currency": "GBP",
+    "url": "https://www.amazon.co.uk/dp/B0D5HTTCSB?tag=fraym0a-21",
+    "inStock": true,
+    "lastSeen": "2026-11-21T23:11:19Z",
+    "product": "CORSAIR SF750 (2024) Fully Modular SFX Low Noise Power Supply – Black | ATX 3.1 Compliant, PCIe 5.1 Ready, 80 PLUS Platinum, Small Form Factor, SFX-to-ATX Bracket Included",
+    "image": null
+   },
+   {
+    "shop": "amazon.de",
+    "price": 97.47,
+    "currency": "EUR",
+    "url": "https://www.amazon.de/dp/B0D5HY3F9X?tag=fraym03-21",
+    "inStock": true,
+    "lastSeen": "2026-11-21T23:13:41Z",
+    "product": "CORSAIR SF750 Vollständig Modulares ATX-Netzteil – Schwarz | ATX 3.1-Kompatibel, PCIe 5.1-Fähig, 80 PLUS Platinum, Geräuscharm, SFX-to-ATX-Halterung Enthalten",
+    "image": null
+   },
+   {
     "shop": "amazon.fr",
     "price": 96.66,
     "currency": "EUR",
     "url": "https://www.amazon.fr/dp/B0D5HY3F9X?tag=fraym-21",
     "inStock": true,
-    "lastSeen": "2026-11-21T14:41:19Z",
+    "lastSeen": "2026-11-21T23:23:02Z",
     "product": "CORSAIR SF750 (2024) Alimentation SFX 750W Modulaire – Noir | 80 PLUS Platinum, Entièrement modulaire, compatible ATX 3.1 et PCIe 5.1, faible bruit, support de montage SFX vers ATX inclus",
     "image": null
    },
@@ -2083,39 +2073,19 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0D45QCZHX?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-21T14:43:10Z",
+    "lastSeen": "2026-11-21T23:24:42Z",
     "product": "CORSAIR SF750 (2024) Small ATX 3.1 PCIe 5.1 750W Power Supply – Black | Low-Noise, Fully Modular, 80 PLUS Platinum, Zero RPM Mode, SFX-to-ATX Bracket Included, NA : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-21T14:43:10Z"
+  "lastUpdated": "2026-11-21T23:24:42Z"
  },
  {
   "id": "seasonic-focus-gx-1000",
   "name": "Seasonic Focus GX-1000",
   "priceMin": 128.72,
   "prices": [
-   {
-    "shop": "materiel.net",
-    "price": 224.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202409020027.html",
-    "inStock": true,
-    "lastSeen": "2026-11-20T23:39:48Z",
-    "product": "Seasonic FOCUS GX-1000 ATX 3 (2024) - Blanc",
-    "image": "https://media.materiel.net/r250/products/MN0006196234.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 224.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202409020023.html",
-    "inStock": true,
-    "lastSeen": "2026-11-20T23:39:48Z",
-    "product": "Seasonic FOCUS GX-1000 ATX 3 (2024) - Noir",
-    "image": "https://media.materiel.net/r250/products/MN0006196223.jpg"
-   },
    {
     "shop": "canadacomputers.com",
     "price": 339.99,
@@ -2185,10 +2155,30 @@
     "lastSeen": "2026-11-21T14:36:37Z",
     "product": "Seasonic Focus GX-1000 ATX 3.1 White | PC-Netzteil | 80 Plus & Cybenetics Gold Vollmodular 12V-2x6 RTX 5090 AMD RX 9000 Ready Premium Japanische Kondensatoren",
     "image": null
+   },
+   {
+    "shop": "materiel.net",
+    "price": 224.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202409020027.html",
+    "inStock": true,
+    "lastSeen": "2026-11-21T22:46:33Z",
+    "product": "Seasonic FOCUS GX-1000 ATX 3 (2024) - Blanc",
+    "image": "https://media.materiel.net/r250/products/MN0006196234.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 224.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202409020023.html",
+    "inStock": true,
+    "lastSeen": "2026-11-21T22:46:33Z",
+    "product": "Seasonic FOCUS GX-1000 ATX 3 (2024) - Noir",
+    "image": "https://media.materiel.net/r250/products/MN0006196223.jpg"
    }
   ],
   "image": "images/psus-seasonic-focus-gx-1000.jpg",
-  "lastUpdated": "2026-11-21T14:36:37Z"
+  "lastUpdated": "2026-11-21T22:46:33Z"
  },
  {
   "id": "seasonic-vertex-gx-1000",
@@ -2251,13 +2241,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0BQRCD834?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-21T14:43:23Z",
+    "lastSeen": "2026-11-21T23:24:55Z",
     "product": "Seasonic Vertex GX-1000-1000W - 80+ Gold - ATX 3.0 & PCIe 5.0 Ready - Fully Modular - Premium Japanese Capacitors - 12 Year Warranty - Nvidia RTX 40/50 & AMD GPU Compatible : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-21T14:43:23Z"
+  "lastUpdated": "2026-11-21T23:24:55Z"
  },
  {
   "id": "be-quiet-pure-power-12-m-550w",
@@ -2334,7 +2324,7 @@
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-21T14:42:55Z"
+  "lastUpdated": "2026-11-21T23:24:27Z"
  },
  {
   "id": "be-quiet-dark-power-13-850w",
@@ -2380,16 +2370,6 @@
   "name": "MSI MAG A750GL PCIE5",
   "priceMin": 105.02,
   "prices": [
-   {
-    "shop": "materiel.net",
-    "price": 119.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202307110022.html",
-    "inStock": true,
-    "lastSeen": "2026-11-20T23:39:48Z",
-    "product": "MSI MAG A750GL PCIE5",
-    "image": "https://media.materiel.net/r900/products/MN0006196206.jpg"
-   },
    {
     "shop": "canadacomputers.com",
     "price": 129.99,
@@ -2449,36 +2429,26 @@
     "lastSeen": "2026-11-21T14:06:00Z",
     "product": "Zasilacz MSI MAG A750GLS PCIE5 750W ATX 3.1 (306-7ZPHX11-HD8)",
     "image": "https://images.morele.net/i256/15475174_1_i256.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 119.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202307110022.html",
+    "inStock": true,
+    "lastSeen": "2026-11-21T22:46:33Z",
+    "product": "MSI MAG A750GL PCIE5",
+    "image": "https://media.materiel.net/r900/products/MN0006196206.jpg"
    }
   ],
   "image": "images/psus-msi-mag-a750gl.jpg",
-  "lastUpdated": "2026-11-21T14:06:00Z"
+  "lastUpdated": "2026-11-21T22:46:33Z"
  },
  {
   "id": "msi-mag-a850gl",
   "name": "MSI MAG A850GL PCIE5",
   "priceMin": 81.45,
   "prices": [
-   {
-    "shop": "materiel.net",
-    "price": 129.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202307110021.html",
-    "inStock": true,
-    "lastSeen": "2026-11-20T23:39:48Z",
-    "product": "MSI MAG A850GL PCIE5",
-    "image": "https://media.materiel.net/r900/products/MN0006196208.jpg"
-   },
-   {
-    "shop": "amazon.fr",
-    "price": 81.45,
-    "currency": "EUR",
-    "url": "https://www.amazon.fr/dp/B0CB9MSJ5N?tag=fraym-21",
-    "inStock": true,
-    "lastSeen": "2026-11-21T00:12:51Z",
-    "product": "MSI MAG Bloc d'alimentation 850 W 80 Plus Gold - ATX 3.0 PCIe 5.0 Ready - 12VHPWR [MAG A850GL PCIE5]",
-    "image": null
-   },
    {
     "shop": "canadacomputers.com",
     "price": 144.99,
@@ -2560,12 +2530,42 @@
     "image": "https://images.morele.net/i256/15440771_10_i256.jpg"
    },
    {
+    "shop": "amazon.de",
+    "price": 91.79,
+    "currency": "EUR",
+    "url": "https://www.amazon.de/dp/B0CB9MSJ5N?tag=fraym03-21",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:39:14Z",
+    "product": "MSI MAG A850GL PCIE 5 & ATX 3.0 Gaming-Netzteil – voll modular – 80 Plus Gold Zertifiziert 850 W – kompakte Größe – ATX-Netzteil",
+    "image": null
+   },
+   {
+    "shop": "materiel.net",
+    "price": 129.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202307110021.html",
+    "inStock": true,
+    "lastSeen": "2026-11-21T22:46:33Z",
+    "product": "MSI MAG A850GL PCIE5",
+    "image": "https://media.materiel.net/r900/products/MN0006196208.jpg"
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 81.45,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B0CB9MSJ5N?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-21T23:11:41Z",
+    "product": "MSI MAG Bloc d'alimentation 850 W 80 Plus Gold - ATX 3.0 PCIe 5.0 Ready - 12VHPWR [MAG A850GL PCIE5]",
+    "image": null
+   },
+   {
     "shop": "amazon.it",
     "price": 95.07,
     "currency": "EUR",
     "url": "https://www.amazon.it/dp/B0CB9MSJ5N?tag=fraym06-21",
     "inStock": true,
-    "lastSeen": "2026-11-21T14:32:14Z",
+    "lastSeen": "2026-11-21T23:16:35Z",
     "product": "MSI MAG A850GL PCIE5, Alimentatore compatto da 850 W completamente modulare, 80+ Gold, ATX 3.1 e PCIe 5.1 Ready, cavo nativo dual-color 12V-2x6, garanzia 10 anni",
     "image": null
    },
@@ -2575,23 +2575,13 @@
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B0CB9MSJ5N?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-21T14:33:57Z",
+    "lastSeen": "2026-11-21T23:17:56Z",
     "product": "MSI mag 850W Fuente de alimentación 80 Plus Gold - ATX 3.0 PCIe 5.0 Ready - 12VHPWR [mag A850GL PCIE5]",
-    "image": null
-   },
-   {
-    "shop": "amazon.de",
-    "price": 91.79,
-    "currency": "EUR",
-    "url": "https://www.amazon.de/dp/B0CB9MSJ5N?tag=fraym03-21",
-    "inStock": true,
-    "lastSeen": "2026-11-21T14:39:14Z",
-    "product": "MSI MAG A850GL PCIE 5 & ATX 3.0 Gaming-Netzteil – voll modular – 80 Plus Gold Zertifiziert 850 W – kompakte Größe – ATX-Netzteil",
     "image": null
    }
   ],
   "image": "images/psus-msi-mag-a850gl.jpg",
-  "lastUpdated": "2026-11-21T14:39:14Z"
+  "lastUpdated": "2026-11-21T23:17:56Z"
  },
  {
   "id": "nzxt-c750-gold",
@@ -2617,16 +2607,6 @@
   "name": "NZXT C1000 Gold",
   "priceMin": 110.66,
   "prices": [
-   {
-    "shop": "amazon.de",
-    "price": 113.45,
-    "currency": "EUR",
-    "url": "https://www.amazon.de/dp/B0DCJDCHRV?tag=fraym03-21",
-    "inStock": true,
-    "lastSeen": "2026-11-21T05:48:04Z",
-    "product": "NZXT C1000 Gold ATX 3.1-1000W Vollmodulares Netzteil | 1000W 80 PLUS Gold ATX 3.1 Netzteil, vollständig modular und leise. PCIe 5 für moderne GPUs, 10 Jahre Garantie.",
-    "image": null
-   },
    {
     "shop": "morele.net",
     "price": 752.99,
@@ -2678,18 +2658,28 @@
     "image": null
    },
    {
+    "shop": "amazon.de",
+    "price": 113.45,
+    "currency": "EUR",
+    "url": "https://www.amazon.de/dp/B0DCJDCHRV?tag=fraym03-21",
+    "inStock": true,
+    "lastSeen": "2026-11-21T23:13:08Z",
+    "product": "NZXT C1000 Gold ATX 3.1-1000W Vollmodulares Netzteil | 1000W 80 PLUS Gold ATX 3.1 Netzteil, vollständig modular und leise. PCIe 5 für moderne GPUs, 10 Jahre Garantie.",
+    "image": null
+   },
+   {
     "shop": "amazon.es",
     "price": 111.57,
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B0DCJDCHRV?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-21T14:42:16Z",
+    "lastSeen": "2026-11-21T23:24:31Z",
     "product": "NZXT C1000 Gold ATX 3.1 - Fuente Alimentación 1000W Totalmente Modular | PSU 1000W 80 PLUS Gold ATX 3.1, totalmente modular y silenciosa. Lista para PCIe 5 y GPU modernas, garantía de 10 años.",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-21T14:42:16Z"
+  "lastUpdated": "2026-11-21T23:24:31Z"
  },
  {
   "id": "asus-tuf-gaming-750w",
@@ -2767,12 +2757,22 @@
     "image": "https://images.morele.net/i256/15912019_7_i256.jpg"
    },
    {
+    "shop": "amazon.es",
+    "price": 96.69,
+    "currency": "EUR",
+    "url": "https://www.amazon.es/dp/B0BK54TKB9?tag=fraym08-21",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:42:30Z",
+    "product": "ASUS TUF Gaming 750W Gold - Fuente de alimentación Modular (80+ Gold, Compatible con ATX 3.1, componentes de Grado Militar, Doble rodamiento de Bolas, Axial-Tech, PCB, 10 años de garantía)",
+    "image": null
+   },
+   {
     "shop": "amazon.de",
     "price": 63.02,
     "currency": "EUR",
     "url": "https://www.amazon.de/dp/B0BK54TKB9?tag=fraym03-21",
     "inStock": true,
-    "lastSeen": "2026-11-21T14:31:02Z",
+    "lastSeen": "2026-11-21T23:15:28Z",
     "product": "ASUS TUF Gaming 750W Gold Netzteil | 750 Watt, Vollmodular, ATX 3.1-kompatibel, Axial-tech LÃ¼fter, PCB-Beschichtung, Doppelkugellager",
     "image": null
    },
@@ -2782,23 +2782,13 @@
     "currency": "EUR",
     "url": "https://www.amazon.it/dp/B0BK54TKB9?tag=fraym06-21",
     "inStock": true,
-    "lastSeen": "2026-11-21T14:32:11Z",
+    "lastSeen": "2026-11-21T23:16:31Z",
     "product": "ASUS TUF GAMING 750W GOLD, Alimentatore Modulare per PC, Nero | Potenza 750W, Certificazione 80+ Gold, Ventola Axial Tech da 120 mm, Rivestimento PCB, Compatibile con ATX 3.1 e PCIe 5.1",
-    "image": null
-   },
-   {
-    "shop": "amazon.es",
-    "price": 96.69,
-    "currency": "EUR",
-    "url": "https://www.amazon.es/dp/B0BK54TKB9?tag=fraym08-21",
-    "inStock": true,
-    "lastSeen": "2026-11-21T14:42:30Z",
-    "product": "ASUS TUF Gaming 750W Gold - Fuente de alimentación Modular (80+ Gold, Compatible con ATX 3.1, componentes de Grado Militar, Doble rodamiento de Bolas, Axial-Tech, PCB, 10 años de garantía)",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-21T14:42:30Z"
+  "lastUpdated": "2026-11-21T23:16:31Z"
  },
  {
   "id": "gigabyte-ud850gm",
@@ -2856,16 +2846,6 @@
     "image": "https://ccimg.canadacomputers.com/Products/800x800/93/1497/250457/90695.jpg"
    },
    {
-    "shop": "amazon.fr",
-    "price": 99.83,
-    "currency": "EUR",
-    "url": "https://www.amazon.fr/dp/B0CT9138Y6?tag=fraym-21",
-    "inStock": true,
-    "lastSeen": "2026-11-21T05:49:32Z",
-    "product": "GIGABYTE UD850GM PG5W Bloc d'alimentation - PCIe 5.0, 80 Plus Gold, Design entièrement modulaire, Ventilateur 120 mm, Compatible ATX 3.0, Prise EU",
-    "image": null
-   },
-   {
     "shop": "morele.net",
     "price": 315.0,
     "currency": "PLN",
@@ -2904,10 +2884,20 @@
     "lastSeen": "2026-11-21T14:38:31Z",
     "product": "GIGABYTE UD850GM PG5W Alimentatore - PCIe 5.0, 80 PLUS Gold, Design completamente modulare, Ventola da 120 mm, Compatibile con ATX 3.0, Spina EU",
     "image": null
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 99.83,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B0CT9138Y6?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-21T23:15:20Z",
+    "product": "GIGABYTE UD850GM PG5W Bloc d'alimentation - PCIe 5.0, 80 Plus Gold, Design entièrement modulaire, Ventilateur 120 mm, Compatible ATX 3.0, Prise EU",
+    "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-21T14:38:31Z"
+  "lastUpdated": "2026-11-21T23:15:20Z"
  },
  {
   "id": "corsair-cx650",
@@ -2933,16 +2923,6 @@
     "lastSeen": "2026-11-20T23:39:48Z",
     "product": "CORSAIR CX Series, CX650, 650 Watt, 80 PLUS Bronze",
     "image": "https://ccimg.canadacomputers.com/Products/800x800/93/1497/251062/49207.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 69.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202309260102.html",
-    "inStock": true,
-    "lastSeen": "2026-11-20T23:39:48Z",
-    "product": "Corsair CX650",
-    "image": "https://media.materiel.net/r900/products/MN0006084196.jpg"
    },
    {
     "shop": "ldlc.com",
@@ -3005,18 +2985,28 @@
     "image": null
    },
    {
+    "shop": "materiel.net",
+    "price": 69.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202309260102.html",
+    "inStock": true,
+    "lastSeen": "2026-11-21T22:46:33Z",
+    "product": "Corsair CX650",
+    "image": "https://media.materiel.net/r900/products/MN0006084196.jpg"
+   },
+   {
     "shop": "amazon.com",
     "price": 71.19,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0CQMSTN94?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-21T14:43:01Z",
+    "lastSeen": "2026-11-21T23:24:33Z",
     "product": "CORSAIR CX650 Small 650W Power Supply – Black | Low-Noise, Non-Modular, 80 PLUS Bronze, NA : Home & Kitchen",
     "image": null
    }
   ],
   "image": "images/psus-corsair-cx650.jpg",
-  "lastUpdated": "2026-11-21T14:43:01Z"
+  "lastUpdated": "2026-11-21T23:24:33Z"
  },
  {
   "id": "cooler-master-mwe-gold-750-v2",
@@ -3059,13 +3049,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B08M9LDLXH?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-21T14:42:58Z",
+    "lastSeen": "2026-11-21T23:24:30Z",
     "product": "Cooler Master MWE Gold 750 V2 Power Supply, Fully Modular | Certification Cybenetics Gold & Noise Standard +, 80 PLUS Gold, 750W, Semi-Fanless Low Noise, Fully Modular : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-21T14:42:58Z"
+  "lastUpdated": "2026-11-21T23:24:30Z"
  },
  {
   "id": "seasonic-prime-tx-1000",
@@ -3102,16 +3092,6 @@
   "priceMin": 579.95,
   "prices": [
    {
-    "shop": "materiel.net",
-    "price": 579.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/201801040066.html",
-    "inStock": false,
-    "lastSeen": "2026-11-20T23:39:48Z",
-    "product": "Corsair AX1600i Digital",
-    "image": "https://media.materiel.net/r900/oproducts/AR201801040066_g1.jpg"
-   },
-   {
     "shop": "ldlc.com",
     "price": 579.95,
     "currency": "EUR",
@@ -3120,26 +3100,26 @@
     "lastSeen": "2026-11-21T05:17:18Z",
     "product": "Corsair AX1600i 80PLUS Titanium",
     "image": "https://media.ldlc.com/r1600/ld/products/00/05/67/38/LD0005673811_1.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 579.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/201801040066.html",
+    "inStock": false,
+    "lastSeen": "2026-11-21T22:46:33Z",
+    "product": "Corsair AX1600i Digital",
+    "image": "https://media.materiel.net/r900/oproducts/AR201801040066_g1.jpg"
    }
   ],
   "image": "images/psus-corsair-ax1600i.jpg",
-  "lastUpdated": "2026-11-21T05:17:18Z"
+  "lastUpdated": "2026-11-21T22:46:33Z"
  },
  {
   "id": "msi-mpg-a1000g",
   "name": "MSI MPG A1000G PCIE5",
   "priceMin": 94.25,
   "prices": [
-   {
-    "shop": "materiel.net",
-    "price": 134.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202501160038.html",
-    "inStock": true,
-    "lastSeen": "2026-11-20T23:39:48Z",
-    "product": "MSI MPG A1000GS PCIE5",
-    "image": "https://media.materiel.net/r900/products/MN0006210275.jpg"
-   },
    {
     "shop": "canadacomputers.com",
     "price": 289.99,
@@ -3231,18 +3211,28 @@
     "image": "https://images.morele.net/i256/15460106_1_i256.jpg"
    },
    {
+    "shop": "materiel.net",
+    "price": 134.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202501160038.html",
+    "inStock": true,
+    "lastSeen": "2026-11-21T22:46:33Z",
+    "product": "MSI MPG A1000GS PCIE5",
+    "image": "https://media.materiel.net/r900/products/MN0006210275.jpg"
+   },
+   {
     "shop": "amazon.it",
     "price": 94.25,
     "currency": "EUR",
     "url": "https://www.amazon.it/dp/B0B434DB7Y?tag=fraym06-21",
     "inStock": true,
-    "lastSeen": "2026-11-21T14:39:54Z",
+    "lastSeen": "2026-11-21T23:21:56Z",
     "product": "MSI MPG A1000G PCIE5 Alimentatore, 1000W, certificato 80 Plus Gold, ATX 3.0 | completamente modulare, supporto GPU PCIe 5.0, condensatori giapponesi da 105°C, cavi piatti – garanzia 10 anni",
     "image": null
    }
   ],
   "image": "images/psus-msi-mpg-a1000g.jpg",
-  "lastUpdated": "2026-11-21T14:39:54Z"
+  "lastUpdated": "2026-11-21T23:21:56Z"
  },
  {
   "id": "seasonic-focus-gx-650",

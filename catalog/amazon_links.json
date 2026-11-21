@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T15:31:47Z",
+ "generated": "2026-11-21T00:21:22Z",
  "markets": [
   "amazon.fr",
   "amazon.de",
@@ -9,8 +9,8 @@
   "amazon.com",
   "amazon.com.au"
  ],
- "nativeLinks": 2208,
- "onelinkLinks": 1257,
+ "nativeLinks": 2207,
+ "onelinkLinks": 1258,
  "note": "Liens d'affiliation Amazon pre-calcules vers la FICHE PRODUIT (/dp/<ASIN>), utilises par l'app quand aucune offre Amazon verifiee n'est disponible. ASIN valides sur la fiche Amazon elle-meme ; les marketplaces sans fiche recoivent le lien d'une marketplace voisine, OneLink redirigeant l'acheteur.",
  "items": {
   "gpus": {
@@ -10101,8 +10101,7 @@
     "asin": "B0DF7G8JFP",
     "product": "CORSAIR NAUTILUS 360 RS ARGB Refroidisseur Liquide pour CPU – Blanc | 360mm AIO, Faible Bruit, Connexion Directe de Carte Mère, Intel LGA 1851/1700, AMD AM5/AM4, 3x RS120 ARGB Ventilateurs Inclus",
     "native": [
-     "amazon.fr",
-     "amazon.com"
+     "amazon.fr"
     ],
     "links": {
      "amazon.fr": "https://www.amazon.fr/dp/B0DF7G8JFP?tag=fraym-21",
@@ -10110,8 +10109,8 @@
      "amazon.es": "https://www.amazon.fr/dp/B0DF7G8JFP?tag=fraym-21",
      "amazon.it": "https://www.amazon.fr/dp/B0DF7G8JFP?tag=fraym-21",
      "amazon.co.uk": "https://www.amazon.fr/dp/B0DF7G8JFP?tag=fraym-21",
-     "amazon.com": "https://www.amazon.com/dp/B0DF7G8JFP?tag=fraym-20",
-     "amazon.com.au": "https://www.amazon.com/dp/B0DF7G8JFP?tag=fraym-20"
+     "amazon.com": "https://www.amazon.fr/dp/B0DF7G8JFP?tag=fraym-21",
+     "amazon.com.au": "https://www.amazon.fr/dp/B0DF7G8JFP?tag=fraym-21"
     }
    },
    "be-quiet-pure-loop-2-fx-280": {

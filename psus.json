@@ -5,16 +5,6 @@
   "priceMin": 41.66,
   "prices": [
    {
-    "shop": "amazon.it",
-    "price": 54.75,
-    "currency": "EUR",
-    "url": "https://www.amazon.it/dp/B0991W1HKT?tag=fraym06-21",
-    "inStock": true,
-    "lastSeen": "2026-11-20T15:24:14Z",
-    "product": "MSI MAG A550BN Alimentatore da 550 W con Spina EU, 80 PLUS Bronze | Formato ATX, Rail Singola 12V, Circuito DC-DC, Ventola 120 mm, Garanzia 5 Anni",
-    "image": null
-   },
-   {
     "shop": "canadacomputers.com",
     "price": 69.99,
     "currency": "CAD",
@@ -75,16 +65,6 @@
     "image": "https://images.morele.net/i256/14910833_13_i256.jpg"
    },
    {
-    "shop": "amazon.co.uk",
-    "price": 45.82,
-    "currency": "GBP",
-    "url": "https://www.amazon.co.uk/dp/B0991W1HKT?tag=fraym0a-21",
-    "inStock": true,
-    "lastSeen": "2026-11-21T05:44:30Z",
-    "product": "MSI MAG A550BN Power Supply, EU Plug - 550 W, 80 Plus Bronze Certified, ATX Power Supply, 12 V Single Rail, DC/DC Voltage Converter Design, 120 mm Fan",
-    "image": null
-   },
-   {
     "shop": "amazon.de",
     "price": 48.5,
     "currency": "EUR",
@@ -95,18 +75,38 @@
     "image": null
    },
    {
+    "shop": "amazon.it",
+    "price": 54.75,
+    "currency": "EUR",
+    "url": "https://www.amazon.it/dp/B0991W1HKT?tag=fraym06-21",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:30:38Z",
+    "product": "MSI MAG A550BN Alimentatore da 550 W con Spina EU, 80 PLUS Bronze | Formato ATX, Rail Singola 12V, Circuito DC-DC, Ventola 120 mm, Garanzia 5 Anni",
+    "image": null
+   },
+   {
+    "shop": "amazon.co.uk",
+    "price": 45.82,
+    "currency": "GBP",
+    "url": "https://www.amazon.co.uk/dp/B0991W1HKT?tag=fraym0a-21",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:36:01Z",
+    "product": "MSI MAG A550BN Power Supply, EU Plug - 550 W, 80 Plus Bronze Certified, ATX Power Supply, 12 V Single Rail, DC/DC Voltage Converter Design, 120 mm Fan",
+    "image": null
+   },
+   {
     "shop": "amazon.es",
     "price": 50.37,
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B0991W1HKT?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-21T05:54:17Z",
+    "lastSeen": "2026-11-21T14:42:14Z",
     "product": "MSI mag A550BN - Fuente de alimentación Gaming: 80 Plus Bronze, 550 vatios, 12V Single-Rail, Circuito DC-to-DC, Ventilador de 120mm",
     "image": null
    }
   ],
   "image": "images/psus-msi-mag-a550bn.jpg",
-  "lastUpdated": "2026-11-21T05:54:17Z"
+  "lastUpdated": "2026-11-21T14:42:14Z"
  },
  {
   "id": "be-quiet-pure-power-12-m-650w",
@@ -287,29 +287,19 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0CGFZVGF9?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-21T05:55:50Z",
+    "lastSeen": "2026-11-21T14:43:13Z",
     "product": "MSI MAG A650GL, Fully Modular Compact Gaming 650W Power Supply, 80+ Gold, ATX PSU, 10 Year Warranty : Electronics",
     "image": null
    }
   ],
   "image": "images/psus-msi-mag-a650gl.jpg",
-  "lastUpdated": "2026-11-21T05:55:50Z"
+  "lastUpdated": "2026-11-21T14:43:13Z"
  },
  {
   "id": "corsair-rm750e",
   "name": "Corsair RM750e",
   "priceMin": 60.65,
   "prices": [
-   {
-    "shop": "amazon.it",
-    "price": 60.65,
-    "currency": "EUR",
-    "url": "https://www.amazon.it/dp/B0DMTMK2Q5?tag=fraym06-21",
-    "inStock": true,
-    "lastSeen": "2026-11-21T00:14:16Z",
-    "product": "CORSAIR RM750e (2025) Alimentatore ATX Modulare Silenzioso 12V-2x6 – Nero | Con cavo, conforme a ATX 3.1 e PCIe 5.1, efficienza Cybenetics Gold, condensatori a 105°C",
-    "image": null
-   },
    {
     "shop": "canadacomputers.com",
     "price": 144.99,
@@ -399,10 +389,20 @@
     "lastSeen": "2026-11-21T05:43:08Z",
     "product": "CORSAIR RM750e ATX-Netzteil mit 12V-2x6 Kable – Schwarz | Vollständig Modulares, Geräuscharmes, Zero RPM-Lüftermodus, ATX 3.1-Konform, PCIe 5.1-Unterstützung, Cybenetics Gold",
     "image": null
+   },
+   {
+    "shop": "amazon.it",
+    "price": 60.65,
+    "currency": "EUR",
+    "url": "https://www.amazon.it/dp/B0DMTMK2Q5?tag=fraym06-21",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:34:02Z",
+    "product": "CORSAIR RM750e (2025) Alimentatore ATX Modulare Silenzioso 12V-2x6 – Nero | Con cavo, conforme a ATX 3.1 e PCIe 5.1, efficienza Cybenetics Gold, condensatori a 105°C",
+    "image": null
    }
   ],
   "image": "images/psus-corsair-rm750e.jpg",
-  "lastUpdated": "2026-11-21T05:43:08Z"
+  "lastUpdated": "2026-11-21T14:34:02Z"
  },
  {
   "id": "be-quiet-pure-power-12-m-750w",
@@ -578,12 +578,22 @@
     "image": "https://images.morele.net/i256/12706245_1_i256.jpg"
    },
    {
+    "shop": "amazon.fr",
+    "price": 81.66,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B0D9C2K4VS?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-21T05:50:45Z",
+    "product": "CORSAIR RM750x Alimentation ATX entièrement modulaire et silencieuse – Noir | Conformité ATX 3.1, Prise en Charge PCIe 5.1, Efficacité Cybenetics Gold, Connecteur natif 12V–2x6",
+    "image": null
+   },
+   {
     "shop": "amazon.it",
     "price": 80.32,
     "currency": "EUR",
     "url": "https://www.amazon.it/dp/B0D9C2K4VS?tag=fraym06-21",
     "inStock": true,
-    "lastSeen": "2026-11-21T05:42:28Z",
+    "lastSeen": "2026-11-21T14:34:39Z",
     "product": "CORSAIR RM750x Alimentatore ATX Basso Rumore Completamente Modulare — Nero | Compatibile con ATX 3.1, Supporto PCIe 5.1, Efficienza Cybenetics Gold, Connettore Nativo 12V-2x6",
     "image": null
    },
@@ -593,7 +603,7 @@
     "currency": "GBP",
     "url": "https://www.amazon.co.uk/dp/B0D9BZ2BDB?tag=fraym0a-21",
     "inStock": true,
-    "lastSeen": "2026-11-21T05:44:26Z",
+    "lastSeen": "2026-11-21T14:35:58Z",
     "product": "CORSAIR RM750x Fully Modular Low-Noise ATX Power Supply – Black | ATX 3.1 Compliant, PCIe 5.1 Support, Cybenetics Gold Efficiency, Native 12V-2x6 Connector",
     "image": null
    },
@@ -603,7 +613,7 @@
     "currency": "EUR",
     "url": "https://www.amazon.de/dp/B0D9C2K4VS?tag=fraym03-21",
     "inStock": true,
-    "lastSeen": "2026-11-21T05:44:32Z",
+    "lastSeen": "2026-11-21T14:36:13Z",
     "product": "CORSAIR RM750x Vollständig Modulares ATX-Netzteil – Schwarz | Zero RPM-Lüftermodus, ATX 3.1-Konform, PCIe 5.1-Unterstützung, Geräuscharmes, Cybenetics Gold, Native 12V-2x6-Anschluss",
     "image": null
    },
@@ -613,23 +623,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0FLG9Y4HZ?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-21T05:49:48Z",
+    "lastSeen": "2026-11-21T14:39:22Z",
     "product": "CORSAIR RM750x ATX 3.1 PCIe 5.1 750W Power Supply – Black | Native 12V-2x6 Connector, Fully Modular, Low-Noise, Cybenetics Gold, NA : Electronics",
-    "image": null
-   },
-   {
-    "shop": "amazon.fr",
-    "price": 81.66,
-    "currency": "EUR",
-    "url": "https://www.amazon.fr/dp/B0D9C2K4VS?tag=fraym-21",
-    "inStock": true,
-    "lastSeen": "2026-11-21T05:50:45Z",
-    "product": "CORSAIR RM750x Alimentation ATX entièrement modulaire et silencieuse – Noir | Conformité ATX 3.1, Prise en Charge PCIe 5.1, Efficacité Cybenetics Gold, Connecteur natif 12V–2x6",
     "image": null
    }
   ],
   "image": "images/psus-corsair-rm750x.jpg",
-  "lastUpdated": "2026-11-21T05:50:45Z"
+  "lastUpdated": "2026-11-21T14:39:22Z"
  },
  {
   "id": "msi-mpg-a750g",
@@ -789,13 +789,13 @@
     "currency": "EUR",
     "url": "https://www.amazon.de/dp/B0DMTN5WLB?tag=fraym03-21",
     "inStock": true,
-    "lastSeen": "2026-11-21T05:44:34Z",
+    "lastSeen": "2026-11-21T14:36:14Z",
     "product": "CORSAIR RM850e ATX-Netzteil mit 12V-2x6 Kable – Schwarz | Vollständig Modulares, Geräuscharmes, Zero RPM-Lüftermodus, ATX 3.1-Konform, PCIe 5.1-Unterstützung, Cybenetics Gold",
     "image": null
    }
   ],
   "image": "images/psus-corsair-rm850e.jpg",
-  "lastUpdated": "2026-11-21T05:44:34Z"
+  "lastUpdated": "2026-11-21T14:36:14Z"
  },
  {
   "id": "corsair-rm850x",
@@ -908,7 +908,7 @@
     "currency": "GBP",
     "url": "https://www.amazon.co.uk/dp/B0D9C16979?tag=fraym0a-21",
     "inStock": true,
-    "lastSeen": "2026-11-21T05:42:48Z",
+    "lastSeen": "2026-11-21T14:34:52Z",
     "product": "CORSAIR RM850x Fully Modular Low-Noise ATX Power Supply – Black | ATX 3.1 Compliant, PCIe 5.1 Support, Cybenetics Gold Efficiency, Native 12V-2x6 Connector",
     "image": null
    },
@@ -918,7 +918,7 @@
     "currency": "EUR",
     "url": "https://www.amazon.de/dp/B0D9C1DT62?tag=fraym03-21",
     "inStock": true,
-    "lastSeen": "2026-11-21T05:52:42Z",
+    "lastSeen": "2026-11-21T14:40:36Z",
     "product": "CORSAIR RM850x Geräuscharmes Vollständig Modulares ATX-Netzteil – Schwarz | Zero RPM-Lüftermodus, ATX 3.1-Konform, PCIe 5.1-Unterstützung, Cybenetics Gold, Native 12V-2x6-Anschluss",
     "image": null
    },
@@ -928,39 +928,29 @@
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B0D9C1DT62?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-21T05:54:48Z",
+    "lastSeen": "2026-11-21T14:42:31Z",
     "product": "CORSAIR RM850x Fuente de Alimentación ATX – Negro | Totalmente Modular, Bajo Nivel de Ruido, Compatible con ATX 3.1 y PCIe 5.1, Cybenetics Gold, Conector 12V–2x6 Nativo",
     "image": null
    },
    {
     "shop": "amazon.com",
-    "price": 139.99,
+    "price": 119.06,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0FLFGG1CC?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-21T05:55:45Z",
+    "lastSeen": "2026-11-21T14:43:08Z",
     "product": "CORSAIR RM850x ATX 3.1 PCIe 5.1 Ready Fully Modular 850W Power Supply – Low-Noise, Cybenetics Gold Efficiency, Native 12V-2x6 Connector – Black : Electronics",
     "image": null
    }
   ],
   "image": "images/psus-corsair-rm850x.jpg",
-  "lastUpdated": "2026-11-21T05:55:45Z"
+  "lastUpdated": "2026-11-21T14:43:08Z"
  },
  {
   "id": "seasonic-focus-gx-850",
   "name": "Seasonic Focus GX-850",
   "priceMin": 147.07,
   "prices": [
-   {
-    "shop": "amazon.es",
-    "price": 147.07,
-    "currency": "EUR",
-    "url": "https://www.amazon.es/dp/B0DP66HG7W?tag=fraym08-21",
-    "inStock": true,
-    "lastSeen": "2026-11-21T00:14:57Z",
-    "product": "Seasonic PC-Netzteil FocuS-GX-850-V4-White / Focus GX-850 Wei? | 80 Plus Gold & Cybenetics Platinum - Condensadores japoneses totalmente modulares 12V-2x6 RTX 5080 AMD RX 9000",
-    "image": null
-   },
    {
     "shop": "ldlc.com",
     "price": 199.95,
@@ -1022,18 +1012,28 @@
     "image": "https://images.morele.net/i256/14168213_9_i256.jpg"
    },
    {
+    "shop": "amazon.es",
+    "price": 147.07,
+    "currency": "EUR",
+    "url": "https://www.amazon.es/dp/B0DP66HG7W?tag=fraym08-21",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:34:13Z",
+    "product": "Seasonic PC-Netzteil FocuS-GX-850-V4-White / Focus GX-850 Wei? | 80 Plus Gold & Cybenetics Platinum - Condensadores japoneses totalmente modulares 12V-2x6 RTX 5080 AMD RX 9000",
+    "image": null
+   },
+   {
     "shop": "amazon.com",
     "price": 159.99,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0CSN7KNF6?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-21T05:51:40Z",
+    "lastSeen": "2026-11-21T14:40:11Z",
     "product": "SEASONIC FOCUS V4 GX-850-850W - 80+ Gold - Full-Modular - ATX Form Factor - Premium Japanese Capacitor - 10 Year Warranty - Nvidia RTX 30/40 Super & AMD GPU Compatible (Ref. SRP-FGX851-A5A32SF) : Electronics",
     "image": null
    }
   ],
   "image": "images/psus-seasonic-focus-gx-850.jpg",
-  "lastUpdated": "2026-11-21T05:51:40Z"
+  "lastUpdated": "2026-11-21T14:40:11Z"
  },
  {
   "id": "be-quiet-straight-power-12-850w",
@@ -1056,13 +1056,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0C86K2RP7?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-21T05:55:30Z",
+    "lastSeen": "2026-11-21T14:42:57Z",
     "product": "be quiet! Straight Power 12 Power Supply Unit 850 W 20+4 Pin, W128428696 (Supply Unit 850 W 20+4 Pin ATX ATX Black) : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-21T05:55:30Z"
+  "lastUpdated": "2026-11-21T14:42:57Z"
  },
  {
   "id": "nzxt-c850-gold",
@@ -1085,29 +1085,19 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0D1VDTX8B?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-21T05:55:56Z",
+    "lastSeen": "2026-11-21T14:43:18Z",
     "product": "NZXT C850 Gold ATX 3.1-850W Fully Modular Power Supply | 850W 80 PLUS Gold ATX 3.1 PSU, fully modular and quiet. PCIe 5 ready for modern GPUs, backed by a 10-year warranty. : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-21T05:55:56Z"
+  "lastUpdated": "2026-11-21T14:43:18Z"
  },
  {
   "id": "corsair-rm1000e",
   "name": "Corsair RM1000e",
   "priceMin": 90.75,
   "prices": [
-   {
-    "shop": "amazon.de",
-    "price": 90.75,
-    "currency": "EUR",
-    "url": "https://www.amazon.de/dp/B0DMTN57C1?tag=fraym03-21",
-    "inStock": true,
-    "lastSeen": "2026-11-21T00:04:04Z",
-    "product": "CORSAIR RM1000e ATX-Netzteil mit 12V-2x6 Kable – Schwarz | Vollständig Modulares, Geräuscharmes, Zero RPM-Lüftermodus, ATX 3.1-Konform, PCIe 5.1-Unterstützung, Cybenetics Gold",
-    "image": null
-   },
    {
     "shop": "canadacomputers.com",
     "price": 189.99,
@@ -1227,10 +1217,20 @@
     "lastSeen": "2026-11-21T05:17:18Z",
     "product": "Zasilacz Corsair RM1000e 3rd Gen ThermalProtect 1000W (CP-9020337-EU)",
     "image": "https://images.morele.net/i256/600361313_1_i256.jpg"
+   },
+   {
+    "shop": "amazon.de",
+    "price": 90.75,
+    "currency": "EUR",
+    "url": "https://www.amazon.de/dp/B0DMTN57C1?tag=fraym03-21",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:31:14Z",
+    "product": "CORSAIR RM1000e ATX-Netzteil mit 12V-2x6 Kable – Schwarz | Vollständig Modulares, Geräuscharmes, Zero RPM-Lüftermodus, ATX 3.1-Konform, PCIe 5.1-Unterstützung, Cybenetics Gold",
+    "image": null
    }
   ],
   "image": "images/psus-corsair-rm1000e.jpg",
-  "lastUpdated": "2026-11-21T05:17:18Z"
+  "lastUpdated": "2026-11-21T14:31:14Z"
  },
  {
   "id": "corsair-rm1000x",
@@ -1326,16 +1326,6 @@
   "priceMin": 156.66,
   "prices": [
    {
-    "shop": "amazon.fr",
-    "price": 156.66,
-    "currency": "EUR",
-    "url": "https://www.amazon.fr/dp/B0C4B8BWM3?tag=fraym-21",
-    "inStock": true,
-    "lastSeen": "2026-11-20T15:24:19Z",
-    "product": "Corsair HX1000i Alimentation ATX Entièrement Modulaire – Noir | Efficacité 80 PLUS Platinum, À Très Faible Bruit, Compatible ATX 3.1 et PCIe 5.1, Compatible Avec le Logiciel CORSAIR Icue",
-    "image": null
-   },
-   {
     "shop": "canadacomputers.com",
     "price": 369.99,
     "currency": "CAD",
@@ -1424,26 +1414,26 @@
     "lastSeen": "2026-11-21T05:17:18Z",
     "product": "Zasilacz Corsair HX1000i SHIFT 1000W (CP-9020265-EU)",
     "image": "https://images.morele.net/i256/15610518_1_i256.jpg"
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 156.66,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B0C4B8BWM3?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:31:39Z",
+    "product": "Corsair HX1000i Alimentation ATX Entièrement Modulaire – Noir | Efficacité 80 PLUS Platinum, À Très Faible Bruit, Compatible ATX 3.1 et PCIe 5.1, Compatible Avec le Logiciel CORSAIR Icue",
+    "image": null
    }
   ],
   "image": "images/psus-corsair-hx1000i.jpg",
-  "lastUpdated": "2026-11-21T05:17:18Z"
+  "lastUpdated": "2026-11-21T14:31:39Z"
  },
  {
   "id": "msi-meg-ai1300p",
   "name": "MSI MEG Ai1300P",
   "priceMin": 244.82,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 1388.05,
-    "currency": "PLN",
-    "url": "https://www.morele.net/zasilacz-msi-meg-ai1300p-pcie5-1300w-12771525/",
-    "inStock": true,
-    "lastSeen": "2026-11-20T00:15:16Z",
-    "product": "Zasilacz MSI MEG Ai1300P PCIE5 1300W",
-    "image": "https://images.morele.net/i256/12771525_0_i256.jpg"
-   },
    {
     "shop": "canadacomputers.com",
     "price": 359.88,
@@ -1475,18 +1465,28 @@
     "image": "https://media.materiel.net/r900/products/MN0006210328.jpg"
    },
    {
+    "shop": "morele.net",
+    "price": 1388.05,
+    "currency": "PLN",
+    "url": "https://www.morele.net/zasilacz-msi-meg-ai1300p-pcie5-1300w-12771525/",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:06:00Z",
+    "product": "Zasilacz MSI MEG Ai1300P PCIE5 1300W",
+    "image": "https://images.morele.net/i256/12771525_0_i256.jpg"
+   },
+   {
     "shop": "amazon.de",
     "price": 307.11,
     "currency": "EUR",
     "url": "https://www.amazon.de/dp/B0B433ZCRP?tag=fraym03-21",
     "inStock": true,
-    "lastSeen": "2026-11-21T05:51:48Z",
+    "lastSeen": "2026-11-21T14:40:13Z",
     "product": "MSI MEG Ai1300P PCIE5 - 1300W 80 Plus Platinum Netzteil | Vollmodularer ATX 3.0, unterstützt PCIe 5.0 GPU, japanische Kondensatoren, Gaming Intelligence, ummantelte Kabel",
     "image": null
    }
   ],
   "image": "images/psus-msi-meg-ai1300p.jpg",
-  "lastUpdated": "2026-11-21T05:51:48Z"
+  "lastUpdated": "2026-11-21T14:40:13Z"
  },
  {
   "id": "thermaltake-toughpower-gf3-1000w",
@@ -1494,22 +1494,12 @@
   "priceMin": 71.35,
   "prices": [
    {
-    "shop": "morele.net",
-    "price": 563.99,
-    "currency": "PLN",
-    "url": "https://www.morele.net/zasilacz-thermaltake-toughpower-gf3-1000w-ps-tpd-1000fnfage-4-12370813/",
-    "inStock": true,
-    "lastSeen": "2026-11-20T00:15:16Z",
-    "product": "Zasilacz Thermaltake Toughpower GF3 1000W (PS-TPD-1000FNFAGE-4)",
-    "image": "https://images.morele.net/i256/12370813_0_i256.jpg"
-   },
-   {
     "shop": "amazon.de",
     "price": 71.35,
     "currency": "EUR",
     "url": "https://www.amazon.de/dp/B0BF5VWL23?tag=fraym03-21",
     "inStock": true,
-    "lastSeen": "2026-11-21T05:43:22Z",
+    "lastSeen": "2026-11-21T14:35:19Z",
     "product": "Thermaltake Toughpower GF3 1000W | PC-ATX-3.0-Netzteil | PCIe Gen 5.0 | 80-Plus-Gold | voll-modular | leiser 140 Lüfter | EU Zertifiziert",
     "image": null
    },
@@ -1519,49 +1509,19 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0GVQ2BGKF?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-21T05:56:05Z",
+    "lastSeen": "2026-11-21T14:43:25Z",
     "product": "Thermaltake Toughpower GF3 1000W; ATX 3.1; Native PCIe 5.1 12V-2x6; Color Matched Connectors; Japanese Main Capacitors; Colored Custom 135mm Fan; 80 Plus Gold Certified; Snow; PS-TPD-1000FNFAGU-S : Everything Else",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-21T05:56:05Z"
+  "lastUpdated": "2026-11-21T14:43:25Z"
  },
  {
   "id": "gigabyte-ud1000gm-pg5",
   "name": "Gigabyte UD1000GM PG5",
   "priceMin": 84.17,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 415.0,
-    "currency": "PLN",
-    "url": "https://www.morele.net/zasilacz-gigabyte-ud1000gm-pg5-1000w-gp-ud1000gm-pg5-v2-15489272/",
-    "inStock": true,
-    "lastSeen": "2026-11-20T00:15:16Z",
-    "product": "Zasilacz Gigabyte UD1000GM PG5 1000W (GP-UD1000GM PG5 V2)",
-    "image": "https://images.morele.net/i256/15489272_1_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 469.0,
-    "currency": "PLN",
-    "url": "https://www.morele.net/zasilacz-gigabyte-ud1000gm-pg5-ice-1000w-gp-ud1000gm-pg5-v2-ice-15527069/",
-    "inStock": true,
-    "lastSeen": "2026-11-20T00:15:16Z",
-    "product": "Zasilacz Gigabyte UD1000GM PG5 ICE 1000W (GP-UD1000GM PG5 V2 ICE)",
-    "image": "https://images.morele.net/i256/15527069_0_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 503.5,
-    "currency": "PLN",
-    "url": "https://www.morele.net/zasilaczgigabyteud1000gm-pg5-1000w-atx-3-0-gp-ud1000gm-pg5-12580396/",
-    "inStock": true,
-    "lastSeen": "2026-11-20T00:15:16Z",
-    "product": "ZasilaczGigabyteUD1000GM PG5 1000W ATX 3.0 (GP-UD1000GM PG5)",
-    "image": "https://images.morele.net/i256/12580396_0_i256.jpg"
-   },
    {
     "shop": "canadacomputers.com",
     "price": 289.99,
@@ -1583,12 +1543,42 @@
     "image": null
    },
    {
+    "shop": "morele.net",
+    "price": 415.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/zasilacz-gigabyte-ud1000gm-pg5-1000w-gp-ud1000gm-pg5-v2-15489272/",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:06:00Z",
+    "product": "Zasilacz Gigabyte UD1000GM PG5 1000W (GP-UD1000GM PG5 V2)",
+    "image": "https://images.morele.net/i256/15489272_1_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 469.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/zasilacz-gigabyte-ud1000gm-pg5-ice-1000w-gp-ud1000gm-pg5-v2-ice-15527069/",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:06:00Z",
+    "product": "Zasilacz Gigabyte UD1000GM PG5 ICE 1000W (GP-UD1000GM PG5 V2 ICE)",
+    "image": "https://images.morele.net/i256/15527069_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 503.5,
+    "currency": "PLN",
+    "url": "https://www.morele.net/zasilaczgigabyteud1000gm-pg5-1000w-atx-3-0-gp-ud1000gm-pg5-12580396/",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:06:00Z",
+    "product": "ZasilaczGigabyteUD1000GM PG5 1000W ATX 3.0 (GP-UD1000GM PG5)",
+    "image": "https://images.morele.net/i256/12580396_0_i256.jpg"
+   },
+   {
     "shop": "amazon.fr",
     "price": 109.92,
     "currency": "EUR",
     "url": "https://www.amazon.fr/dp/B0BSSNC8LY?tag=fraym-21",
     "inStock": true,
-    "lastSeen": "2026-11-21T05:46:44Z",
+    "lastSeen": "2026-11-21T14:38:47Z",
     "product": "GIGABYTE GP-UD1000GM PG5 1000W 80+ Gold Rev 2.0",
     "image": null
    },
@@ -1598,69 +1588,19 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0FJZHR289?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-21T05:55:48Z",
+    "lastSeen": "2026-11-21T14:43:11Z",
     "product": "GIGABYTE UD1000GM PG5 V2-1000W 80 Plus Gold Certified - PCIe5.1 Ready - ATX3.1 - Fully Modular Power Supply (UD1000GM PG5 V2) : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-21T05:55:48Z"
+  "lastUpdated": "2026-11-21T14:43:11Z"
  },
  {
   "id": "asus-rog-strix-1000w",
   "name": "ASUS ROG Strix 1000W",
   "priceMin": 150.42,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 1008.51,
-    "currency": "PLN",
-    "url": "https://www.morele.net/zasilacz-asus-rog-strix-platinum-1000w-90ye00w1-b0na00-14419028/",
-    "inStock": true,
-    "lastSeen": "2026-11-20T00:15:16Z",
-    "product": "Zasilacz Asus ROG Strix Platinum 1000W (90YE00W1-B0NA00)",
-    "image": "https://images.morele.net/i256/14419028_1_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 1100.89,
-    "currency": "PLN",
-    "url": "https://www.morele.net/zasilacz-asus-rog-loki-sfx-l-platinum-1000w-90ye00n1-b0na00-12952000/",
-    "inStock": true,
-    "lastSeen": "2026-11-20T00:15:16Z",
-    "product": "Zasilacz Asus ROG Loki SFX-L Platinum 1000W (90YE00N1-B0NA00)",
-    "image": "https://images.morele.net/i256/12952000_1_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 1116.79,
-    "currency": "PLN",
-    "url": "https://www.morele.net/zasilacz-asus-rog-strix-platinum-white-edition-1000w-atx-3-1-90ye00w4-b0na00-14779253/",
-    "inStock": true,
-    "lastSeen": "2026-11-20T00:15:16Z",
-    "product": "Zasilacz Asus ROG Strix Platinum White Edition 1000W ATX 3.1 (90YE00W4-B0NA00)",
-    "image": "https://images.morele.net/i256/14779253_6_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 1236.44,
-    "currency": "PLN",
-    "url": "https://www.morele.net/zasilacz-asus-rog-strix-1000w-gold-aura-edition-90ye00p1-b0na00-12799879/",
-    "inStock": true,
-    "lastSeen": "2026-11-20T00:15:16Z",
-    "product": "Zasilacz Asus ROG Strix 1000W Gold Aura Edition (90YE00P1-B0NA00)",
-    "image": "https://images.morele.net/i256/12799879_0_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 1796.57,
-    "currency": "PLN",
-    "url": "https://www.morele.net/zasilacz-asus-rog-thor-platinum-iii-1000w-atx-3-1-90ye00v3-b0na00-14980998/",
-    "inStock": true,
-    "lastSeen": "2026-11-20T00:15:16Z",
-    "product": "Zasilacz Asus ROG Thor Platinum III 1000W ATX 3.1 (90YE00V3-B0NA00)",
-    "image": "https://images.morele.net/i256/14980998_5_i256.jpg"
-   },
    {
     "shop": "materiel.net",
     "price": 269.95,
@@ -1780,26 +1720,66 @@
     "lastSeen": "2026-11-21T05:17:18Z",
     "product": "ASUS ROG Strix 1000W Platinum White Edition - ROG Equalizer",
     "image": "https://media.ldlc.com/r150/ld/products/00/06/36/27/LD0006362745.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1008.51,
+    "currency": "PLN",
+    "url": "https://www.morele.net/zasilacz-asus-rog-strix-platinum-1000w-90ye00w1-b0na00-14419028/",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:06:00Z",
+    "product": "Zasilacz Asus ROG Strix Platinum 1000W (90YE00W1-B0NA00)",
+    "image": "https://images.morele.net/i256/14419028_1_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1100.89,
+    "currency": "PLN",
+    "url": "https://www.morele.net/zasilacz-asus-rog-loki-sfx-l-platinum-1000w-90ye00n1-b0na00-12952000/",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:06:00Z",
+    "product": "Zasilacz Asus ROG Loki SFX-L Platinum 1000W (90YE00N1-B0NA00)",
+    "image": "https://images.morele.net/i256/12952000_1_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1149.62,
+    "currency": "PLN",
+    "url": "https://www.morele.net/zasilacz-asus-rog-strix-platinum-white-edition-1000w-atx-3-1-90ye00w4-b0na00-14779253/",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:06:00Z",
+    "product": "Zasilacz Asus ROG Strix Platinum White Edition 1000W ATX 3.1 (90YE00W4-B0NA00)",
+    "image": "https://images.morele.net/i256/14779253_6_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1240.37,
+    "currency": "PLN",
+    "url": "https://www.morele.net/zasilacz-asus-rog-strix-1000w-gold-aura-edition-90ye00p1-b0na00-12799879/",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:06:00Z",
+    "product": "Zasilacz Asus ROG Strix 1000W Gold Aura Edition (90YE00P1-B0NA00)",
+    "image": "https://images.morele.net/i256/12799879_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1811.77,
+    "currency": "PLN",
+    "url": "https://www.morele.net/zasilacz-asus-rog-thor-platinum-iii-1000w-atx-3-1-90ye00v3-b0na00-14980998/",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:06:00Z",
+    "product": "Zasilacz Asus ROG Thor Platinum III 1000W ATX 3.1 (90YE00V3-B0NA00)",
+    "image": "https://images.morele.net/i256/14980998_5_i256.jpg"
    }
   ],
   "image": "images/psus-asus-rog-strix-1000w.jpg",
-  "lastUpdated": "2026-11-21T05:17:18Z"
+  "lastUpdated": "2026-11-21T14:06:00Z"
  },
  {
   "id": "corsair-cx550",
   "name": "Corsair CX550",
   "priceMin": 33.81,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 258.89,
-    "currency": "PLN",
-    "url": "https://www.morele.net/zasilacz-corsair-cx550-2023-550w-cp-9020277-eu-13118193/",
-    "inStock": true,
-    "lastSeen": "2026-11-20T00:15:16Z",
-    "product": "Zasilacz Corsair CX550 2023 550W (CP-9020277-EU)",
-    "image": "https://images.morele.net/i256/13118193_1_i256.jpg"
-   },
    {
     "shop": "materiel.net",
     "price": 59.95,
@@ -1809,16 +1789,6 @@
     "lastSeen": "2026-11-20T23:39:48Z",
     "product": "Corsair CX550",
     "image": "https://media.materiel.net/r900/products/MN0006084191.jpg"
-   },
-   {
-    "shop": "amazon.it",
-    "price": 34.34,
-    "currency": "EUR",
-    "url": "https://www.amazon.it/dp/B0CK8MXWK1?tag=fraym06-21",
-    "inStock": true,
-    "lastSeen": "2026-11-21T00:14:14Z",
-    "product": "CORSAIR CX550 ATX 550W Alimentazione – Nero | Certificazione 80 PLUS Bronze, Bassa Rumorosità, Cavi con Guaina, Non Modulare, EU",
-    "image": null
    },
    {
     "shop": "canadacomputers.com",
@@ -1841,12 +1811,52 @@
     "image": "https://media.ldlc.com/r1600/ld/products/00/06/08/18/LD0006081883.jpg"
    },
    {
+    "shop": "amazon.de",
+    "price": 35.21,
+    "currency": "EUR",
+    "url": "https://www.amazon.de/dp/B0CK8MXWK1?tag=fraym03-21",
+    "inStock": true,
+    "lastSeen": "2026-11-21T05:46:56Z",
+    "product": "CORSAIR CX550 ATX 550W EU Netzteil - Schwarz | 80 PLUS Bronze zertifiziert, Kompaktes, Geräuscharm, Ummantelte Kabel, Nicht Modular",
+    "image": null
+   },
+   {
+    "shop": "morele.net",
+    "price": 258.89,
+    "currency": "PLN",
+    "url": "https://www.morele.net/zasilacz-corsair-cx550-2023-550w-cp-9020277-eu-13118193/",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:06:00Z",
+    "product": "Zasilacz Corsair CX550 2023 550W (CP-9020277-EU)",
+    "image": "https://images.morele.net/i256/13118193_1_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 286.49,
+    "currency": "PLN",
+    "url": "https://www.morele.net/zasilacz-corsair-cx550-550w-atx-3-1-cp-9020324-eu-600759930/",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:06:00Z",
+    "product": "Zasilacz Corsair CX550 550W ATX 3.1 (CP-9020324-EU)",
+    "image": "https://images.morele.net/i256/600759930_0_i256.jpg"
+   },
+   {
+    "shop": "amazon.it",
+    "price": 34.34,
+    "currency": "EUR",
+    "url": "https://www.amazon.it/dp/B0CK8MXWK1?tag=fraym06-21",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:34:00Z",
+    "product": "CORSAIR CX550 ATX 550W Alimentazione – Nero | Certificazione 80 PLUS Bronze, Bassa Rumorosità, Cavi con Guaina, Non Modulare, EU",
+    "image": null
+   },
+   {
     "shop": "amazon.co.uk",
     "price": 29.08,
     "currency": "GBP",
     "url": "https://www.amazon.co.uk/dp/B0CJRVGGPS?tag=fraym0a-21",
     "inStock": true,
-    "lastSeen": "2026-11-21T05:44:24Z",
+    "lastSeen": "2026-11-21T14:35:56Z",
     "product": "CORSAIR CX550 Non Modular Low-Noise ATX 550 Watt Power Supply – Black | 80 PLUS Bronze, UK",
     "image": null
    },
@@ -1856,39 +1866,19 @@
     "currency": "EUR",
     "url": "https://www.amazon.fr/dp/B0CJRVGGPS?tag=fraym-21",
     "inStock": true,
-    "lastSeen": "2026-11-21T05:45:07Z",
+    "lastSeen": "2026-11-21T14:37:45Z",
     "product": "Corsair CX550 80 Plus Bronze - Bloc d'alimentation Non modulaire ATX à Faible Bruit de 550 W, Couleur Noire",
-    "image": null
-   },
-   {
-    "shop": "amazon.de",
-    "price": 35.21,
-    "currency": "EUR",
-    "url": "https://www.amazon.de/dp/B0CK8MXWK1?tag=fraym03-21",
-    "inStock": true,
-    "lastSeen": "2026-11-21T05:46:56Z",
-    "product": "CORSAIR CX550 ATX 550W EU Netzteil - Schwarz | 80 PLUS Bronze zertifiziert, Kompaktes, Geräuscharm, Ummantelte Kabel, Nicht Modular",
     "image": null
    }
   ],
   "image": "images/psus-corsair-cx550.jpg",
-  "lastUpdated": "2026-11-21T05:46:56Z"
+  "lastUpdated": "2026-11-21T14:37:45Z"
  },
  {
   "id": "corsair-cx750",
   "name": "Corsair CX750",
   "priceMin": 38.74,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 307.51,
-    "currency": "PLN",
-    "url": "https://www.morele.net/zasilacz-corsair-cx750-2023-750w-cp-9020279-eu-13118195/",
-    "inStock": true,
-    "lastSeen": "2026-11-20T00:15:16Z",
-    "product": "Zasilacz Corsair CX750 2023 750W (CP-9020279-EU)",
-    "image": "https://images.morele.net/i256/13118195_0_i256.jpg"
-   },
    {
     "shop": "materiel.net",
     "price": 79.95,
@@ -1898,16 +1888,6 @@
     "lastSeen": "2026-11-20T23:39:48Z",
     "product": "Corsair CX750",
     "image": "https://media.materiel.net/r900/products/MN0006084206.jpg"
-   },
-   {
-    "shop": "amazon.co.uk",
-    "price": 33.32,
-    "currency": "GBP",
-    "url": "https://www.amazon.co.uk/dp/B0CJRXNXZT?tag=fraym0a-21",
-    "inStock": true,
-    "lastSeen": "2026-11-21T00:10:11Z",
-    "product": "CORSAIR CX750 Non Modular Low-Noise ATX 750 Watt Power Supply – Black | 80 PLUS Bronze, UK",
-    "image": null
    },
    {
     "shop": "canadacomputers.com",
@@ -1950,44 +1930,44 @@
     "image": null
    },
    {
+    "shop": "morele.net",
+    "price": 307.51,
+    "currency": "PLN",
+    "url": "https://www.morele.net/zasilacz-corsair-cx750-2023-750w-cp-9020279-eu-13118195/",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:06:00Z",
+    "product": "Zasilacz Corsair CX750 2023 750W (CP-9020279-EU)",
+    "image": "https://images.morele.net/i256/13118195_0_i256.jpg"
+   },
+   {
+    "shop": "amazon.co.uk",
+    "price": 33.32,
+    "currency": "GBP",
+    "url": "https://www.amazon.co.uk/dp/B0CJRXNXZT?tag=fraym0a-21",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:34:08Z",
+    "product": "CORSAIR CX750 Non Modular Low-Noise ATX 750 Watt Power Supply – Black | 80 PLUS Bronze, UK",
+    "image": null
+   },
+   {
     "shop": "amazon.com",
     "price": 68.84,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0CQMJN49P?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-21T05:54:12Z",
+    "lastSeen": "2026-11-21T14:41:52Z",
     "product": "CORSAIR CX750 80 Plus Bronze Non Modular Low-Noise ATX 750 Watt Power Supply - NA - Black : Home & Kitchen",
     "image": null
    }
   ],
   "image": "images/psus-corsair-cx750.jpg",
-  "lastUpdated": "2026-11-21T05:54:12Z"
+  "lastUpdated": "2026-11-21T14:41:52Z"
  },
  {
   "id": "corsair-hx1200",
   "name": "Corsair HX1200",
   "priceMin": 310.19,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 1200.0,
-    "currency": "PLN",
-    "url": "https://www.morele.net/zasilacz-corsair-hx1200i-shift-1200w-cp-9020267-eu-15610516/",
-    "inStock": false,
-    "lastSeen": "2026-11-20T00:15:16Z",
-    "product": "Zasilacz Corsair HX1200i SHIFT 1200W (CP-9020267-EU)",
-    "image": "https://images.morele.net/i256/15610516_1_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 1200.0,
-    "currency": "PLN",
-    "url": "https://www.morele.net/zasilacz-corsair-hx1200i-2025-1200w-atx-3-1-cp-9020307-eu-14863771/",
-    "inStock": false,
-    "lastSeen": "2026-11-20T00:15:16Z",
-    "product": "Zasilacz Corsair HX1200i 2025 1200W ATX 3.1 (CP-9020307-EU)",
-    "image": "https://images.morele.net/i256/14863771_8_i256.jpg"
-   },
    {
     "shop": "canadacomputers.com",
     "price": 364.99,
@@ -2009,34 +1989,44 @@
     "image": "https://ccimg.canadacomputers.com/Products/800x800/93/1497/280145/55934.jpg"
    },
    {
+    "shop": "morele.net",
+    "price": 1200.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/zasilacz-corsair-hx1200i-shift-1200w-cp-9020267-eu-15610516/",
+    "inStock": false,
+    "lastSeen": "2026-11-21T14:06:00Z",
+    "product": "Zasilacz Corsair HX1200i SHIFT 1200W (CP-9020267-EU)",
+    "image": "https://images.morele.net/i256/15610516_1_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1200.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/zasilacz-corsair-hx1200i-2025-1200w-atx-3-1-cp-9020307-eu-14863771/",
+    "inStock": false,
+    "lastSeen": "2026-11-21T14:06:00Z",
+    "product": "Zasilacz Corsair HX1200i 2025 1200W ATX 3.1 (CP-9020307-EU)",
+    "image": "https://images.morele.net/i256/14863771_8_i256.jpg"
+   },
+   {
     "shop": "amazon.com",
     "price": 335.0,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B01MZ8A8NW?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-21T05:55:39Z",
+    "lastSeen": "2026-11-21T14:43:04Z",
     "product": "Corsair HX Series, HX1200, 1200 Watt, Fully Modular Power Supply, 80+ Platinum Certified, Model Number: CP-9020140-NA : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-21T05:55:39Z"
+  "lastUpdated": "2026-11-21T14:43:04Z"
  },
  {
   "id": "corsair-sf750",
   "name": "Corsair SF750",
   "priceMin": 96.66,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 731.64,
-    "currency": "PLN",
-    "url": "https://www.morele.net/zasilacz-corsair-sf750-2024-750w-cp-9020284-eu-13270320/",
-    "inStock": true,
-    "lastSeen": "2026-11-20T00:15:16Z",
-    "product": "Zasilacz Corsair SF750 2024 750W (CP-9020284-EU)",
-    "image": "https://images.morele.net/i256/13270320_3_i256.jpg"
-   },
    {
     "shop": "canadacomputers.com",
     "price": 209.99,
@@ -2068,12 +2058,22 @@
     "image": null
    },
    {
+    "shop": "morele.net",
+    "price": 731.64,
+    "currency": "PLN",
+    "url": "https://www.morele.net/zasilacz-corsair-sf750-2024-750w-cp-9020284-eu-13270320/",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:06:00Z",
+    "product": "Zasilacz Corsair SF750 2024 750W (CP-9020284-EU)",
+    "image": "https://images.morele.net/i256/13270320_3_i256.jpg"
+   },
+   {
     "shop": "amazon.fr",
     "price": 96.66,
     "currency": "EUR",
     "url": "https://www.amazon.fr/dp/B0D5HY3F9X?tag=fraym-21",
     "inStock": true,
-    "lastSeen": "2026-11-21T05:52:40Z",
+    "lastSeen": "2026-11-21T14:41:19Z",
     "product": "CORSAIR SF750 (2024) Alimentation SFX 750W Modulaire – Noir | 80 PLUS Platinum, Entièrement modulaire, compatible ATX 3.1 et PCIe 5.1, faible bruit, support de montage SFX vers ATX inclus",
     "image": null
    },
@@ -2083,39 +2083,19 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0D45QCZHX?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-21T05:55:47Z",
+    "lastSeen": "2026-11-21T14:43:10Z",
     "product": "CORSAIR SF750 (2024) Small ATX 3.1 PCIe 5.1 750W Power Supply – Black | Low-Noise, Fully Modular, 80 PLUS Platinum, Zero RPM Mode, SFX-to-ATX Bracket Included, NA : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-21T05:55:47Z"
+  "lastUpdated": "2026-11-21T14:43:10Z"
  },
  {
   "id": "seasonic-focus-gx-1000",
   "name": "Seasonic Focus GX-1000",
   "priceMin": 128.72,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 847.37,
-    "currency": "PLN",
-    "url": "https://www.morele.net/zasilacz-seasonic-focus-gx-atx-3-1000w-focus-gx-1000-v4-14168211/",
-    "inStock": true,
-    "lastSeen": "2026-11-20T00:15:16Z",
-    "product": "Zasilacz SeaSonic Focus GX ATX 3 1000W (FOCUS-GX-1000-V4)",
-    "image": "https://images.morele.net/i256/14168211_0_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 941.7,
-    "currency": "PLN",
-    "url": "https://www.morele.net/zasilacz-seasonic-focus-gx-white-atx-3-1000w-focus-gx-1000-v4-white-14629236/",
-    "inStock": true,
-    "lastSeen": "2026-11-20T00:15:16Z",
-    "product": "Zasilacz SeaSonic Focus GX White ATX 3 1000W (FOCUS-GX-1000-V4-WHITE)",
-    "image": "https://images.morele.net/i256/14629236_3_i256.jpg"
-   },
    {
     "shop": "materiel.net",
     "price": 224.95,
@@ -2167,12 +2147,32 @@
     "image": "https://media.ldlc.com/r150/ld/products/00/06/17/42/LD0006174207.jpg"
    },
    {
+    "shop": "morele.net",
+    "price": 847.37,
+    "currency": "PLN",
+    "url": "https://www.morele.net/zasilacz-seasonic-focus-gx-atx-3-1000w-focus-gx-1000-v4-14168211/",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:06:00Z",
+    "product": "Zasilacz SeaSonic Focus GX ATX 3 1000W (FOCUS-GX-1000-V4)",
+    "image": "https://images.morele.net/i256/14168211_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 949.51,
+    "currency": "PLN",
+    "url": "https://www.morele.net/zasilacz-seasonic-focus-gx-white-atx-3-1000w-focus-gx-1000-v4-white-14629236/",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:06:00Z",
+    "product": "Zasilacz SeaSonic Focus GX White ATX 3 1000W (FOCUS-GX-1000-V4-WHITE)",
+    "image": "https://images.morele.net/i256/14629236_3_i256.jpg"
+   },
+   {
     "shop": "amazon.es",
     "price": 150.24,
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B0DJHCTJFC?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-21T05:42:34Z",
+    "lastSeen": "2026-11-21T14:34:44Z",
     "product": "Seasonic Netzteil 1000w FocuS-GX-1000 Atx3 Modular Gold (focuS-GX-1000-V4)",
     "image": null
    },
@@ -2182,69 +2182,19 @@
     "currency": "EUR",
     "url": "https://www.amazon.de/dp/B0DP4JRTST?tag=fraym03-21",
     "inStock": true,
-    "lastSeen": "2026-11-21T05:45:03Z",
+    "lastSeen": "2026-11-21T14:36:37Z",
     "product": "Seasonic Focus GX-1000 ATX 3.1 White | PC-Netzteil | 80 Plus & Cybenetics Gold Vollmodular 12V-2x6 RTX 5090 AMD RX 9000 Ready Premium Japanische Kondensatoren",
-    "image": null
-   },
-   {
-    "shop": "amazon.com",
-    "price": 180.9,
-    "currency": "USD",
-    "url": "https://www.amazon.com/dp/B0DP4JRTST?tag=fraym-20",
-    "inStock": true,
-    "lastSeen": "2026-11-21T05:55:58Z",
-    "product": "Seasonic FOCUS GX-1000 1000W Power Supply ATX 3.1 & PCIe 5.1 Ready White | 80 Plus & Cybenetics Gold Fully Modular 12V-2x6 RTX 5090 AMD RX 9000 Ready Premium Japanese Capacitors 10 Years Warranty : Electronics",
     "image": null
    }
   ],
   "image": "images/psus-seasonic-focus-gx-1000.jpg",
-  "lastUpdated": "2026-11-21T05:55:58Z"
+  "lastUpdated": "2026-11-21T14:36:37Z"
  },
  {
   "id": "seasonic-vertex-gx-1000",
   "name": "Seasonic Vertex GX-1000",
   "priceMin": 197.06,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 847.37,
-    "currency": "PLN",
-    "url": "https://www.morele.net/zasilacz-seasonic-focus-gx-atx-3-1000w-focus-gx-1000-v4-14168211/",
-    "inStock": true,
-    "lastSeen": "2026-11-20T00:15:16Z",
-    "product": "Zasilacz SeaSonic Focus GX ATX 3 1000W (FOCUS-GX-1000-V4)",
-    "image": "https://images.morele.net/i256/14168211_0_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 847.37,
-    "currency": "PLN",
-    "url": "https://www.morele.net/zasilacz-seasonic-focus-gx-atx-3-1000w-focus-gx-1000-v4-14168211/",
-    "inStock": true,
-    "lastSeen": "2026-11-20T00:15:16Z",
-    "product": "Zasilacz SeaSonic Focus GX ATX 3 1000W (FOCUS-GX-1000-V4)",
-    "image": "https://images.morele.net/i256/14168211_0_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 941.7,
-    "currency": "PLN",
-    "url": "https://www.morele.net/zasilacz-seasonic-focus-gx-white-atx-3-1000w-focus-gx-1000-v4-white-14629236/",
-    "inStock": true,
-    "lastSeen": "2026-11-20T00:15:16Z",
-    "product": "Zasilacz SeaSonic Focus GX White ATX 3 1000W (FOCUS-GX-1000-V4-WHITE)",
-    "image": "https://images.morele.net/i256/14629236_3_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 941.7,
-    "currency": "PLN",
-    "url": "https://www.morele.net/zasilacz-seasonic-focus-gx-white-atx-3-1000w-focus-gx-1000-v4-white-14629236/",
-    "inStock": true,
-    "lastSeen": "2026-11-20T00:15:16Z",
-    "product": "Zasilacz SeaSonic Focus GX White ATX 3 1000W (FOCUS-GX-1000-V4-WHITE)",
-    "image": "https://images.morele.net/i256/14629236_3_i256.jpg"
-   },
    {
     "shop": "canadacomputers.com",
     "price": 339.99,
@@ -2256,53 +2206,83 @@
     "image": "https://ccimg.canadacomputers.com/Products/800x800/93/1497/235456/80162.jpg"
    },
    {
+    "shop": "morele.net",
+    "price": 847.37,
+    "currency": "PLN",
+    "url": "https://www.morele.net/zasilacz-seasonic-focus-gx-atx-3-1000w-focus-gx-1000-v4-14168211/",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:06:00Z",
+    "product": "Zasilacz SeaSonic Focus GX ATX 3 1000W (FOCUS-GX-1000-V4)",
+    "image": "https://images.morele.net/i256/14168211_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 847.37,
+    "currency": "PLN",
+    "url": "https://www.morele.net/zasilacz-seasonic-focus-gx-atx-3-1000w-focus-gx-1000-v4-14168211/",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:06:00Z",
+    "product": "Zasilacz SeaSonic Focus GX ATX 3 1000W (FOCUS-GX-1000-V4)",
+    "image": "https://images.morele.net/i256/14168211_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 949.51,
+    "currency": "PLN",
+    "url": "https://www.morele.net/zasilacz-seasonic-focus-gx-white-atx-3-1000w-focus-gx-1000-v4-white-14629236/",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:06:00Z",
+    "product": "Zasilacz SeaSonic Focus GX White ATX 3 1000W (FOCUS-GX-1000-V4-WHITE)",
+    "image": "https://images.morele.net/i256/14629236_3_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 949.51,
+    "currency": "PLN",
+    "url": "https://www.morele.net/zasilacz-seasonic-focus-gx-white-atx-3-1000w-focus-gx-1000-v4-white-14629236/",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:06:00Z",
+    "product": "Zasilacz SeaSonic Focus GX White ATX 3 1000W (FOCUS-GX-1000-V4-WHITE)",
+    "image": "https://images.morele.net/i256/14629236_3_i256.jpg"
+   },
+   {
     "shop": "amazon.com",
     "price": 345.84,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0BQRCD834?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-21T05:56:03Z",
+    "lastSeen": "2026-11-21T14:43:23Z",
     "product": "Seasonic Vertex GX-1000-1000W - 80+ Gold - ATX 3.0 & PCIe 5.0 Ready - Fully Modular - Premium Japanese Capacitors - 12 Year Warranty - Nvidia RTX 40/50 & AMD GPU Compatible : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-21T05:56:03Z"
+  "lastUpdated": "2026-11-21T14:43:23Z"
  },
  {
   "id": "be-quiet-pure-power-12-m-550w",
   "name": "be quiet! Pure Power 12 M 550W",
-  "priceMin": 69.53,
+  "priceMin": 72.23,
   "prices": [
    {
     "shop": "morele.net",
-    "price": 299.0,
+    "price": 310.6,
     "currency": "PLN",
     "url": "https://www.morele.net/zasilacz-be-quiet-pure-power-12-550w-atx-3-1-bp001eu-14419481/",
     "inStock": true,
-    "lastSeen": "2026-11-20T00:15:16Z",
+    "lastSeen": "2026-11-21T14:06:00Z",
     "product": "Zasilacz be quiet! Pure Power 12 550W ATX 3.1 (BP001EU)",
     "image": "https://images.morele.net/i256/14419481_1_i256.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-20T00:15:16Z"
+  "lastUpdated": "2026-11-21T14:06:00Z"
  },
  {
   "id": "be-quiet-pure-power-12-m-850w",
   "name": "be quiet! Pure Power 12 M 850W",
   "priceMin": 115.72,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 497.6,
-    "currency": "PLN",
-    "url": "https://www.morele.net/zasilacz-be-quiet-pure-power-12-850w-atx-3-1-bp004eu-14419484/",
-    "inStock": true,
-    "lastSeen": "2026-11-20T00:15:16Z",
-    "product": "Zasilacz be quiet! Pure Power 12 850W ATX 3.1 (BP004EU)",
-    "image": "https://images.morele.net/i256/14419484_1_i256.jpg"
-   },
    {
     "shop": "canadacomputers.com",
     "price": 144.99,
@@ -2312,10 +2292,20 @@
     "lastSeen": "2026-11-21T05:17:18Z",
     "product": "be quiet! Pure Power 12 M 850W Gold ATX Power Supply, Black",
     "image": "https://ccimg.canadacomputers.com/Products/800x800/93/1497/242335/70496.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 497.6,
+    "currency": "PLN",
+    "url": "https://www.morele.net/zasilacz-be-quiet-pure-power-12-850w-atx-3-1-bp004eu-14419484/",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:06:00Z",
+    "product": "Zasilacz be quiet! Pure Power 12 850W ATX 3.1 (BP004EU)",
+    "image": "https://images.morele.net/i256/14419484_1_i256.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-21T05:17:18Z"
+  "lastUpdated": "2026-11-21T14:06:00Z"
  },
  {
   "id": "be-quiet-straight-power-12-1000w",
@@ -2328,39 +2318,29 @@
     "currency": "PLN",
     "url": "https://www.morele.net/zasilacz-be-quiet-pure-power-12-1000w-atx-3-1-bp005eu-14419482/",
     "inStock": true,
-    "lastSeen": "2026-11-20T00:15:16Z",
+    "lastSeen": "2026-11-21T14:06:00Z",
     "product": "Zasilacz be quiet! Pure Power 12 1000W ATX 3.1 (BP005EU)",
     "image": "https://images.morele.net/i256/14419482_1_i256.jpg"
    },
    {
     "shop": "morele.net",
-    "price": 1206.84,
+    "price": 1216.93,
     "currency": "PLN",
     "url": "https://www.morele.net/zasilacz-be-quiet-straight-power-12-1000w-bn338-12994446/",
     "inStock": true,
-    "lastSeen": "2026-11-20T00:15:16Z",
+    "lastSeen": "2026-11-21T14:06:00Z",
     "product": "Zasilacz be quiet! Straight Power 12 1000W (BN338)",
     "image": "https://images.morele.net/i256/12994446_1_i256.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-21T05:55:28Z"
+  "lastUpdated": "2026-11-21T14:42:55Z"
  },
  {
   "id": "be-quiet-dark-power-13-850w",
   "name": "be quiet! Dark Power 13 850W",
   "priceMin": 127.67,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 549.0,
-    "currency": "PLN",
-    "url": "https://www.morele.net/zasilacz-be-quiet-pure-power-13-m-850w-bp027eu-15303339/",
-    "inStock": true,
-    "lastSeen": "2026-11-20T00:15:16Z",
-    "product": "Zasilacz be quiet! Pure Power 13 M 850W (BP027EU)",
-    "image": "https://images.morele.net/i256/15303339_0_i256.jpg"
-   },
    {
     "shop": "canadacomputers.com",
     "price": 129.99,
@@ -2372,54 +2352,34 @@
     "image": "https://ccimg.canadacomputers.com/Products/800x800/93/1497/272692/55229.jpg"
    },
    {
+    "shop": "morele.net",
+    "price": 549.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/zasilacz-be-quiet-pure-power-13-m-850w-bp027eu-15303339/",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:06:00Z",
+    "product": "Zasilacz be quiet! Pure Power 13 M 850W (BP027EU)",
+    "image": "https://images.morele.net/i256/15303339_0_i256.jpg"
+   },
+   {
     "shop": "amazon.de",
     "price": 249.9,
     "currency": "EUR",
     "url": "https://www.amazon.de/dp/B0BS8DH3TH?tag=fraym03-21",
     "inStock": true,
-    "lastSeen": "2026-11-21T05:48:03Z",
+    "lastSeen": "2026-11-21T14:38:19Z",
     "product": "be quiet! Dark Power 13 850W, ATX 3.0, 80 PLUS® Titanium | modular Netzteil, PCIe 5.0 und PCIe 4.0 Grafikkarten, 12VHPWR Kabel enthalten, nahezu unhörbarer Silent Wings-Lüfter",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-21T05:48:03Z"
+  "lastUpdated": "2026-11-21T14:38:19Z"
  },
  {
   "id": "msi-mag-a750gl",
   "name": "MSI MAG A750GL PCIE5",
   "priceMin": 105.02,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 451.57,
-    "currency": "PLN",
-    "url": "https://www.morele.net/zasilacz-msi-mag-a750gl-pcie5-ii-750w-306-7zp8e11-ce0-14633544/",
-    "inStock": true,
-    "lastSeen": "2026-11-20T00:15:16Z",
-    "product": "Zasilacz MSI MAG A750GL PCIE5 II 750W (306-7ZP8E11-CE0)",
-    "image": "https://images.morele.net/i256/14633544_1_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 495.21,
-    "currency": "PLN",
-    "url": "https://www.morele.net/zasilacz-msi-mag-a750gl-pcie5-750w-306-7zp8b11-ce0-12973679/",
-    "inStock": true,
-    "lastSeen": "2026-11-20T00:15:16Z",
-    "product": "Zasilacz MSI MAG A750GL PCIE5 750W (306-7ZP8B11-CE0)",
-    "image": "https://images.morele.net/i256/12973679_6_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 640.06,
-    "currency": "PLN",
-    "url": "https://www.morele.net/zasilacz-msi-mag-a750gls-pcie5-750w-atx-3-1-306-7zphx11-hd8-15475174/",
-    "inStock": true,
-    "lastSeen": "2026-11-20T00:15:16Z",
-    "product": "Zasilacz MSI MAG A750GLS PCIE5 750W ATX 3.1 (306-7ZPHX11-HD8)",
-    "image": "https://images.morele.net/i256/15475174_1_i256.jpg"
-   },
    {
     "shop": "materiel.net",
     "price": 119.95,
@@ -2459,56 +2419,46 @@
     "lastSeen": "2026-11-21T05:17:18Z",
     "product": "MSI MAG A750GL PCIE5",
     "image": "https://media.ldlc.com/r1600/ld/products/00/06/05/15/LD0006051585.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 451.57,
+    "currency": "PLN",
+    "url": "https://www.morele.net/zasilacz-msi-mag-a750gl-pcie5-ii-750w-306-7zp8e11-ce0-14633544/",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:06:00Z",
+    "product": "Zasilacz MSI MAG A750GL PCIE5 II 750W (306-7ZP8E11-CE0)",
+    "image": "https://images.morele.net/i256/14633544_1_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 495.21,
+    "currency": "PLN",
+    "url": "https://www.morele.net/zasilacz-msi-mag-a750gl-pcie5-750w-306-7zp8b11-ce0-12973679/",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:06:00Z",
+    "product": "Zasilacz MSI MAG A750GL PCIE5 750W (306-7ZP8B11-CE0)",
+    "image": "https://images.morele.net/i256/12973679_6_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 640.06,
+    "currency": "PLN",
+    "url": "https://www.morele.net/zasilacz-msi-mag-a750gls-pcie5-750w-atx-3-1-306-7zphx11-hd8-15475174/",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:06:00Z",
+    "product": "Zasilacz MSI MAG A750GLS PCIE5 750W ATX 3.1 (306-7ZPHX11-HD8)",
+    "image": "https://images.morele.net/i256/15475174_1_i256.jpg"
    }
   ],
   "image": "images/psus-msi-mag-a750gl.jpg",
-  "lastUpdated": "2026-11-21T05:17:18Z"
+  "lastUpdated": "2026-11-21T14:06:00Z"
  },
  {
   "id": "msi-mag-a850gl",
   "name": "MSI MAG A850GL PCIE5",
   "priceMin": 81.45,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 466.51,
-    "currency": "PLN",
-    "url": "https://www.morele.net/zasilacz-msi-mag-a850gl-pcie5-ii-850w-306-7zp8d11-ce0-14504304/",
-    "inStock": true,
-    "lastSeen": "2026-11-20T00:15:16Z",
-    "product": "Zasilacz MSI MAG A850GL PCIE5 II 850W (306-7ZP8D11-CE0)",
-    "image": "https://images.morele.net/i256/14504304_0_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 483.32,
-    "currency": "PLN",
-    "url": "https://www.morele.net/zasilacz-msi-mag-a850gl-pcie5-850w-306-7zp8a11-ce0-12973676/",
-    "inStock": true,
-    "lastSeen": "2026-11-20T00:15:16Z",
-    "product": "Zasilacz MSI MAG A850GL PCIE5 850W (306-7ZP8A11-CE0)",
-    "image": "https://images.morele.net/i256/12973676_0_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 525.52,
-    "currency": "PLN",
-    "url": "https://www.morele.net/zasilacz-msi-mag-a850gl-pcie5-white-850w-306-7zp8a24-ce0-13136142/",
-    "inStock": true,
-    "lastSeen": "2026-11-20T00:15:16Z",
-    "product": "Zasilacz MSI MAG A850GL PCIE5 White 850W (306-7ZP8A24-CE0)",
-    "image": "https://images.morele.net/i256/13136142_8_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 657.33,
-    "currency": "PLN",
-    "url": "https://www.morele.net/zasilacz-msi-mag-a850gls-pcie5-850w-atx-3-1-306-7zpiy11-ce0-15440771/",
-    "inStock": true,
-    "lastSeen": "2026-11-20T00:15:16Z",
-    "product": "Zasilacz MSI MAG A850GLS PCIE5 850W ATX 3.1 (306-7ZPIY11-CE0)",
-    "image": "https://images.morele.net/i256/15440771_10_i256.jpg"
-   },
    {
     "shop": "materiel.net",
     "price": 129.95,
@@ -2520,16 +2470,6 @@
     "image": "https://media.materiel.net/r900/products/MN0006196208.jpg"
    },
    {
-    "shop": "amazon.it",
-    "price": 95.07,
-    "currency": "EUR",
-    "url": "https://www.amazon.it/dp/B0CB9MSJ5N?tag=fraym06-21",
-    "inStock": true,
-    "lastSeen": "2026-11-21T00:08:30Z",
-    "product": "MSI MAG A850GL PCIE5, Alimentatore compatto da 850 W completamente modulare, 80+ Gold, ATX 3.1 e PCIe 5.1 Ready, cavo nativo dual-color 12V-2x6, garanzia 10 anni",
-    "image": null
-   },
-   {
     "shop": "amazon.fr",
     "price": 81.45,
     "currency": "EUR",
@@ -2537,16 +2477,6 @@
     "inStock": true,
     "lastSeen": "2026-11-21T00:12:51Z",
     "product": "MSI MAG Bloc d'alimentation 850 W 80 Plus Gold - ATX 3.0 PCIe 5.0 Ready - 12VHPWR [MAG A850GL PCIE5]",
-    "image": null
-   },
-   {
-    "shop": "amazon.es",
-    "price": 117.7,
-    "currency": "EUR",
-    "url": "https://www.amazon.es/dp/B0CB9MSJ5N?tag=fraym08-21",
-    "inStock": true,
-    "lastSeen": "2026-11-21T00:13:21Z",
-    "product": "MSI mag 850W Fuente de alimentación 80 Plus Gold - ATX 3.0 PCIe 5.0 Ready - 12VHPWR [mag A850GL PCIE5]",
     "image": null
    },
    {
@@ -2590,83 +2520,103 @@
     "image": "https://media.ldlc.com/r150/ld/products/00/06/05/16/LD0006051636.jpg"
    },
    {
+    "shop": "morele.net",
+    "price": 466.51,
+    "currency": "PLN",
+    "url": "https://www.morele.net/zasilacz-msi-mag-a850gl-pcie5-ii-850w-306-7zp8d11-ce0-14504304/",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:06:00Z",
+    "product": "Zasilacz MSI MAG A850GL PCIE5 II 850W (306-7ZP8D11-CE0)",
+    "image": "https://images.morele.net/i256/14504304_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 483.32,
+    "currency": "PLN",
+    "url": "https://www.morele.net/zasilacz-msi-mag-a850gl-pcie5-850w-306-7zp8a11-ce0-12973676/",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:06:00Z",
+    "product": "Zasilacz MSI MAG A850GL PCIE5 850W (306-7ZP8A11-CE0)",
+    "image": "https://images.morele.net/i256/12973676_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 525.52,
+    "currency": "PLN",
+    "url": "https://www.morele.net/zasilacz-msi-mag-a850gl-pcie5-white-850w-306-7zp8a24-ce0-13136142/",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:06:00Z",
+    "product": "Zasilacz MSI MAG A850GL PCIE5 White 850W (306-7ZP8A24-CE0)",
+    "image": "https://images.morele.net/i256/13136142_8_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 657.33,
+    "currency": "PLN",
+    "url": "https://www.morele.net/zasilacz-msi-mag-a850gls-pcie5-850w-atx-3-1-306-7zpiy11-ce0-15440771/",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:06:00Z",
+    "product": "Zasilacz MSI MAG A850GLS PCIE5 850W ATX 3.1 (306-7ZPIY11-CE0)",
+    "image": "https://images.morele.net/i256/15440771_10_i256.jpg"
+   },
+   {
+    "shop": "amazon.it",
+    "price": 95.07,
+    "currency": "EUR",
+    "url": "https://www.amazon.it/dp/B0CB9MSJ5N?tag=fraym06-21",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:32:14Z",
+    "product": "MSI MAG A850GL PCIE5, Alimentatore compatto da 850 W completamente modulare, 80+ Gold, ATX 3.1 e PCIe 5.1 Ready, cavo nativo dual-color 12V-2x6, garanzia 10 anni",
+    "image": null
+   },
+   {
+    "shop": "amazon.es",
+    "price": 117.7,
+    "currency": "EUR",
+    "url": "https://www.amazon.es/dp/B0CB9MSJ5N?tag=fraym08-21",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:33:57Z",
+    "product": "MSI mag 850W Fuente de alimentación 80 Plus Gold - ATX 3.0 PCIe 5.0 Ready - 12VHPWR [mag A850GL PCIE5]",
+    "image": null
+   },
+   {
     "shop": "amazon.de",
     "price": 91.79,
     "currency": "EUR",
     "url": "https://www.amazon.de/dp/B0CB9MSJ5N?tag=fraym03-21",
     "inStock": true,
-    "lastSeen": "2026-11-21T05:49:35Z",
+    "lastSeen": "2026-11-21T14:39:14Z",
     "product": "MSI MAG A850GL PCIE 5 & ATX 3.0 Gaming-Netzteil – voll modular – 80 Plus Gold Zertifiziert 850 W – kompakte Größe – ATX-Netzteil",
     "image": null
    }
   ],
   "image": "images/psus-msi-mag-a850gl.jpg",
-  "lastUpdated": "2026-11-21T05:49:35Z"
+  "lastUpdated": "2026-11-21T14:39:14Z"
  },
  {
   "id": "nzxt-c750-gold",
   "name": "NZXT C750 Gold",
-  "priceMin": 106.74,
+  "priceMin": 107.21,
   "prices": [
    {
     "shop": "morele.net",
-    "price": 458.99,
+    "price": 460.99,
     "currency": "PLN",
     "url": "https://www.morele.net/zasilacz-nzxt-c750-gold-core-750w-pa-7g3bb-eu-15543389/",
     "inStock": true,
-    "lastSeen": "2026-11-20T00:15:16Z",
+    "lastSeen": "2026-11-21T14:06:00Z",
     "product": "Zasilacz Nzxt C750 Gold Core 750W (PA-7G3BB-EU)",
     "image": "https://images.morele.net/i256/15543389_0_i256.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-20T00:15:16Z"
+  "lastUpdated": "2026-11-21T14:06:00Z"
  },
  {
   "id": "nzxt-c1000-gold",
   "name": "NZXT C1000 Gold",
   "priceMin": 110.66,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 748.99,
-    "currency": "PLN",
-    "url": "https://www.morele.net/zasilacz-nzxt-c1000-gold-core-atx-3-1-1000w-pa-0g3bb-eu-15543390/",
-    "inStock": true,
-    "lastSeen": "2026-11-20T00:15:16Z",
-    "product": "Zasilacz Nzxt C1000 Gold Core ATX 3.1 1000W (PA-0G3BB-EU)",
-    "image": "https://images.morele.net/i256/15543390_0_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 788.1,
-    "currency": "PLN",
-    "url": "https://www.morele.net/zasilacz-nzxt-c1000-gold-atx-3-1-white-1000w-pa-0g2bw-eu-14159028/",
-    "inStock": true,
-    "lastSeen": "2026-11-20T00:15:16Z",
-    "product": "Zasilacz Nzxt C1000 Gold ATX 3.1 White 1000W (PA-0G2BW-EU)",
-    "image": "https://images.morele.net/i256/14159028_1_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 821.95,
-    "currency": "PLN",
-    "url": "https://www.morele.net/zasilacz-nzxt-c1000-gold-atx-3-1-1000w-pa-0g2bb-eu-14159027/",
-    "inStock": true,
-    "lastSeen": "2026-11-20T00:15:16Z",
-    "product": "Zasilacz Nzxt C1000 Gold ATX 3.1 1000W (PA-0G2BB-EU)",
-    "image": "https://images.morele.net/i256/14159027_1_i256.jpg"
-   },
-   {
-    "shop": "amazon.fr",
-    "price": 112.5,
-    "currency": "EUR",
-    "url": "https://www.amazon.fr/dp/B0DCJDCHRV?tag=fraym-21",
-    "inStock": true,
-    "lastSeen": "2026-11-21T05:45:09Z",
-    "product": "NZXT C1000 Gold ATX 3.1 - Alimentation 1000W Entièrement Modulaire | Alimentation 1000W 80 PLUS Gold ATX 3.1, entièrement modulaire, silencieuse. Prête PCIe 5 pour GPU modernes, garantie 10 ans.",
-    "image": null
-   },
    {
     "shop": "amazon.de",
     "price": 113.45,
@@ -2678,12 +2628,52 @@
     "image": null
    },
    {
+    "shop": "morele.net",
+    "price": 752.99,
+    "currency": "PLN",
+    "url": "https://www.morele.net/zasilacz-nzxt-c1000-gold-core-atx-3-1-1000w-pa-0g3bb-eu-15543390/",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:06:00Z",
+    "product": "Zasilacz Nzxt C1000 Gold Core ATX 3.1 1000W (PA-0G3BB-EU)",
+    "image": "https://images.morele.net/i256/15543390_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 795.11,
+    "currency": "PLN",
+    "url": "https://www.morele.net/zasilacz-nzxt-c1000-gold-atx-3-1-white-1000w-pa-0g2bw-eu-14159028/",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:06:00Z",
+    "product": "Zasilacz Nzxt C1000 Gold ATX 3.1 White 1000W (PA-0G2BW-EU)",
+    "image": "https://images.morele.net/i256/14159028_1_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 915.22,
+    "currency": "PLN",
+    "url": "https://www.morele.net/zasilacz-nzxt-c1000-gold-atx-3-1-1000w-pa-0g2bb-eu-14159027/",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:06:00Z",
+    "product": "Zasilacz Nzxt C1000 Gold ATX 3.1 1000W (PA-0G2BB-EU)",
+    "image": "https://images.morele.net/i256/14159027_1_i256.jpg"
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 112.5,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B0DCJDCHRV?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:37:47Z",
+    "product": "NZXT C1000 Gold ATX 3.1 - Alimentation 1000W Entièrement Modulaire | Alimentation 1000W 80 PLUS Gold ATX 3.1, entièrement modulaire, silencieuse. Prête PCIe 5 pour GPU modernes, garantie 10 ans.",
+    "image": null
+   },
+   {
     "shop": "amazon.it",
     "price": 110.66,
     "currency": "EUR",
     "url": "https://www.amazon.it/dp/B0DCJDCHRV?tag=fraym06-21",
     "inStock": true,
-    "lastSeen": "2026-11-21T05:52:42Z",
+    "lastSeen": "2026-11-21T14:40:45Z",
     "product": "NZXT C1000 Gold ATX 3.1 - Alimentatore 1000W Completamente Modulare | PSU 1000W 80 PLUS Gold ATX 3.1, completamente modulare e silenzioso. Pronto per PCIe 5 e GPU moderne, garanzia 10 anni.",
     "image": null
    },
@@ -2693,119 +2683,19 @@
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B0DCJDCHRV?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-21T05:54:18Z",
+    "lastSeen": "2026-11-21T14:42:16Z",
     "product": "NZXT C1000 Gold ATX 3.1 - Fuente Alimentación 1000W Totalmente Modular | PSU 1000W 80 PLUS Gold ATX 3.1, totalmente modular y silenciosa. Lista para PCIe 5 y GPU modernas, garantía de 10 años.",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-21T05:54:18Z"
+  "lastUpdated": "2026-11-21T14:42:16Z"
  },
  {
   "id": "asus-tuf-gaming-750w",
   "name": "ASUS TUF Gaming 750W Gold",
   "priceMin": 63.02,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 282.04,
-    "currency": "PLN",
-    "url": "https://www.morele.net/zasilacz-xilence-gaming-gold-xp750r12-argb-750w-xn335-12841293/",
-    "inStock": true,
-    "lastSeen": "2026-11-20T00:15:16Z",
-    "product": "Zasilacz Xilence Gaming Gold XP750R12.ARGB 750W (XN335)",
-    "image": "https://images.morele.net/i256/12841293_0_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 295.0,
-    "currency": "PLN",
-    "url": "https://www.morele.net/zasilacz-asus-tuf-gaming-bronze-evo-750w-90ye00d5-b0na00-15815605/",
-    "inStock": true,
-    "lastSeen": "2026-11-20T00:15:16Z",
-    "product": "Zasilacz Asus TUF Gaming Bronze EVO 750W (90YE00D5-B0NA00)",
-    "image": "https://images.morele.net/i256/15815605_4_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 300.48,
-    "currency": "PLN",
-    "url": "https://www.morele.net/zasilacz-asus-ats-gold-750w-90ye04a1-b0nc00-15446070/",
-    "inStock": true,
-    "lastSeen": "2026-11-20T00:15:16Z",
-    "product": "Zasilacz Asus ATS Gold 750W (90YE04A1-B0NC00)",
-    "image": "https://images.morele.net/i256/15446070_1_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 421.8,
-    "currency": "PLN",
-    "url": "https://www.morele.net/zasilacz-asus-prime-gold-750w-bulk-90ye00u1-b0nb00-13114961/",
-    "inStock": true,
-    "lastSeen": "2026-11-20T00:15:16Z",
-    "product": "Zasilacz Asus Prime Gold 750W Bulk (90YE00U1-B0NB00)",
-    "image": "https://images.morele.net/i256/13114961_9_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 436.49,
-    "currency": "PLN",
-    "url": "https://www.morele.net/zasilacz-asus-tuf-gaming-750w-gold-90ye00s3-b0na00-12799878/",
-    "inStock": true,
-    "lastSeen": "2026-11-20T00:15:16Z",
-    "product": "Zasilacz Asus TUF Gaming 750W Gold (90YE00S3-B0NA00)",
-    "image": "https://images.morele.net/i256/12799878_0_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 437.88,
-    "currency": "PLN",
-    "url": "https://www.morele.net/zasilacz-asus-prime-gold-black-edition-750w-90ye00u3-b0na00-15877607/",
-    "inStock": true,
-    "lastSeen": "2026-11-20T00:15:16Z",
-    "product": "Zasilacz Asus Prime Gold Black Edition 750W (90YE00U3-B0NA00)",
-    "image": "https://images.morele.net/i256/15877607_1_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 444.0,
-    "currency": "PLN",
-    "url": "https://www.morele.net/zasilacz-asus-prime-gold-750w-90ye00u1-b0na00-14182301/",
-    "inStock": true,
-    "lastSeen": "2026-11-20T00:15:16Z",
-    "product": "Zasilacz Asus Prime Gold 750W (90YE00U1-B0NA00)",
-    "image": "https://images.morele.net/i256/14182301_1_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 499.0,
-    "currency": "PLN",
-    "url": "https://www.morele.net/zasilacz-asus-tuf-gaming-gold-evo-750w-90ye00sb-b0na00-15912019/",
-    "inStock": true,
-    "lastSeen": "2026-11-20T00:15:16Z",
-    "product": "Zasilacz Asus TUF Gaming Gold EVO 750W (90YE00SB-B0NA00)",
-    "image": "https://images.morele.net/i256/15912019_7_i256.jpg"
-   },
-   {
-    "shop": "amazon.de",
-    "price": 63.02,
-    "currency": "EUR",
-    "url": "https://www.amazon.de/dp/B0BK54TKB9?tag=fraym03-21",
-    "inStock": true,
-    "lastSeen": "2026-11-20T15:24:29Z",
-    "product": "ASUS TUF Gaming 750W Gold Netzteil | 750 Watt, Vollmodular, ATX 3.1-kompatibel, Axial-tech LÃ¼fter, PCB-Beschichtung, Doppelkugellager",
-    "image": null
-   },
-   {
-    "shop": "amazon.it",
-    "price": 73.76,
-    "currency": "EUR",
-    "url": "https://www.amazon.it/dp/B0BK54TKB9?tag=fraym06-21",
-    "inStock": true,
-    "lastSeen": "2026-11-21T00:08:24Z",
-    "product": "ASUS TUF GAMING 750W GOLD, Alimentatore Modulare per PC, Nero | Potenza 750W, Certificazione 80+ Gold, Ventola Axial Tech da 120 mm, Rivestimento PCB, Compatibile con ATX 3.1 e PCIe 5.1",
-    "image": null
-   },
    {
     "shop": "canadacomputers.com",
     "price": 169.99,
@@ -2817,54 +2707,104 @@
     "image": "https://ccimg.canadacomputers.com/Products/800x800/93/1497/239507/78459.jpg"
    },
    {
+    "shop": "morele.net",
+    "price": 282.04,
+    "currency": "PLN",
+    "url": "https://www.morele.net/zasilacz-xilence-gaming-gold-xp750r12-argb-750w-xn335-12841293/",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:06:00Z",
+    "product": "Zasilacz Xilence Gaming Gold XP750R12.ARGB 750W (XN335)",
+    "image": "https://images.morele.net/i256/12841293_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 295.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/zasilacz-asus-tuf-gaming-bronze-evo-750w-90ye00d5-b0na00-15815605/",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:06:00Z",
+    "product": "Zasilacz Asus TUF Gaming Bronze EVO 750W (90YE00D5-B0NA00)",
+    "image": "https://images.morele.net/i256/15815605_4_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 399.99,
+    "currency": "PLN",
+    "url": "https://www.morele.net/zasilacz-asus-prime-gold-750w-90ye00u1-b0na00-14182301/",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:06:00Z",
+    "product": "Zasilacz Asus Prime Gold 750W (90YE00U1-B0NA00)",
+    "image": "https://images.morele.net/i256/14182301_1_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 421.8,
+    "currency": "PLN",
+    "url": "https://www.morele.net/zasilacz-asus-prime-gold-750w-bulk-90ye00u1-b0nb00-13114961/",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:06:00Z",
+    "product": "Zasilacz Asus Prime Gold 750W Bulk (90YE00U1-B0NB00)",
+    "image": "https://images.morele.net/i256/13114961_9_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 436.49,
+    "currency": "PLN",
+    "url": "https://www.morele.net/zasilacz-asus-tuf-gaming-750w-gold-90ye00s3-b0na00-12799878/",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:06:00Z",
+    "product": "Zasilacz Asus TUF Gaming 750W Gold (90YE00S3-B0NA00)",
+    "image": "https://images.morele.net/i256/12799878_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 499.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/zasilacz-asus-tuf-gaming-gold-evo-750w-90ye00sb-b0na00-15912019/",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:06:00Z",
+    "product": "Zasilacz Asus TUF Gaming Gold EVO 750W (90YE00SB-B0NA00)",
+    "image": "https://images.morele.net/i256/15912019_7_i256.jpg"
+   },
+   {
+    "shop": "amazon.de",
+    "price": 63.02,
+    "currency": "EUR",
+    "url": "https://www.amazon.de/dp/B0BK54TKB9?tag=fraym03-21",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:31:02Z",
+    "product": "ASUS TUF Gaming 750W Gold Netzteil | 750 Watt, Vollmodular, ATX 3.1-kompatibel, Axial-tech LÃ¼fter, PCB-Beschichtung, Doppelkugellager",
+    "image": null
+   },
+   {
+    "shop": "amazon.it",
+    "price": 73.76,
+    "currency": "EUR",
+    "url": "https://www.amazon.it/dp/B0BK54TKB9?tag=fraym06-21",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:32:11Z",
+    "product": "ASUS TUF GAMING 750W GOLD, Alimentatore Modulare per PC, Nero | Potenza 750W, Certificazione 80+ Gold, Ventola Axial Tech da 120 mm, Rivestimento PCB, Compatibile con ATX 3.1 e PCIe 5.1",
+    "image": null
+   },
+   {
     "shop": "amazon.es",
     "price": 96.69,
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B0BK54TKB9?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-21T05:54:47Z",
+    "lastSeen": "2026-11-21T14:42:30Z",
     "product": "ASUS TUF Gaming 750W Gold - Fuente de alimentación Modular (80+ Gold, Compatible con ATX 3.1, componentes de Grado Militar, Doble rodamiento de Bolas, Axial-Tech, PCB, 10 años de garantía)",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-21T05:54:47Z"
+  "lastUpdated": "2026-11-21T14:42:30Z"
  },
  {
   "id": "gigabyte-ud850gm",
   "name": "Gigabyte UD850GM",
   "priceMin": 73.26,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 315.0,
-    "currency": "PLN",
-    "url": "https://www.morele.net/zasilacz-gigabyte-ud850gm-pg5-850w-gp-ud850gm-pg5-v2-15527071/",
-    "inStock": true,
-    "lastSeen": "2026-11-20T00:15:16Z",
-    "product": "Zasilacz Gigabyte UD850GM PG5 850W (GP-UD850GM PG5 V2)",
-    "image": "https://images.morele.net/i256/15527071_5_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 399.0,
-    "currency": "PLN",
-    "url": "https://www.morele.net/zasilacz-gigabyte-ud850gm-pg5-ice-850w-gp-ud850gm-pg5-v2-ice-15527070/",
-    "inStock": true,
-    "lastSeen": "2026-11-20T00:15:16Z",
-    "product": "Zasilacz Gigabyte UD850GM PG5 ICE 850W (GP-UD850GM PG5 V2 ICE)",
-    "image": "https://images.morele.net/i256/15527070_0_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 424.72,
-    "currency": "PLN",
-    "url": "https://www.morele.net/zasilacz-gigabyte-ud850gm-pg5-850w-atx-3-0-gp-ud850gm-pg5-rev-2-0-12580302/",
-    "inStock": true,
-    "lastSeen": "2026-11-20T00:15:16Z",
-    "product": "Zasilacz Gigabyte UD850GM PG5 850W ATX 3.0 (GP-UD850GM PG5 REV 2.0)",
-    "image": "https://images.morele.net/i256/12580302_0_i256.jpg"
-   },
    {
     "shop": "canadacomputers.com",
     "price": 169.99,
@@ -2916,16 +2856,6 @@
     "image": "https://ccimg.canadacomputers.com/Products/800x800/93/1497/250457/90695.jpg"
    },
    {
-    "shop": "amazon.it",
-    "price": 116.0,
-    "currency": "EUR",
-    "url": "https://www.amazon.it/dp/B0CT9138Y6?tag=fraym06-21",
-    "inStock": true,
-    "lastSeen": "2026-11-21T05:48:24Z",
-    "product": "GIGABYTE UD850GM PG5W Alimentatore - PCIe 5.0, 80 PLUS Gold, Design completamente modulare, Ventola da 120 mm, Compatibile con ATX 3.0, Spina EU",
-    "image": null
-   },
-   {
     "shop": "amazon.fr",
     "price": 99.83,
     "currency": "EUR",
@@ -2934,10 +2864,50 @@
     "lastSeen": "2026-11-21T05:49:32Z",
     "product": "GIGABYTE UD850GM PG5W Bloc d'alimentation - PCIe 5.0, 80 Plus Gold, Design entièrement modulaire, Ventilateur 120 mm, Compatible ATX 3.0, Prise EU",
     "image": null
+   },
+   {
+    "shop": "morele.net",
+    "price": 315.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/zasilacz-gigabyte-ud850gm-pg5-850w-gp-ud850gm-pg5-v2-15527071/",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:06:00Z",
+    "product": "Zasilacz Gigabyte UD850GM PG5 850W (GP-UD850GM PG5 V2)",
+    "image": "https://images.morele.net/i256/15527071_5_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 399.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/zasilacz-gigabyte-ud850gm-pg5-ice-850w-gp-ud850gm-pg5-v2-ice-15527070/",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:06:00Z",
+    "product": "Zasilacz Gigabyte UD850GM PG5 ICE 850W (GP-UD850GM PG5 V2 ICE)",
+    "image": "https://images.morele.net/i256/15527070_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 428.43,
+    "currency": "PLN",
+    "url": "https://www.morele.net/zasilacz-gigabyte-ud850gm-pg5-850w-atx-3-0-gp-ud850gm-pg5-rev-2-0-12580302/",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:06:00Z",
+    "product": "Zasilacz Gigabyte UD850GM PG5 850W ATX 3.0 (GP-UD850GM PG5 REV 2.0)",
+    "image": "https://images.morele.net/i256/12580302_0_i256.jpg"
+   },
+   {
+    "shop": "amazon.it",
+    "price": 116.0,
+    "currency": "EUR",
+    "url": "https://www.amazon.it/dp/B0CT9138Y6?tag=fraym06-21",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:38:31Z",
+    "product": "GIGABYTE UD850GM PG5W Alimentatore - PCIe 5.0, 80 PLUS Gold, Design completamente modulare, Ventola da 120 mm, Compatibile con ATX 3.0, Spina EU",
+    "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-21T05:49:32Z"
+  "lastUpdated": "2026-11-21T14:38:31Z"
  },
  {
   "id": "corsair-cx650",
@@ -2975,16 +2945,6 @@
     "image": "https://media.materiel.net/r900/products/MN0006084196.jpg"
    },
    {
-    "shop": "amazon.de",
-    "price": 37.73,
-    "currency": "EUR",
-    "url": "https://www.amazon.de/dp/B0CK8NDN1Q?tag=fraym03-21",
-    "inStock": true,
-    "lastSeen": "2026-11-21T00:04:27Z",
-    "product": "CORSAIR CX650 ATX 650W EU Netzteil - Schwarz | 80 PLUS Bronze zertifiziert, Kompaktes, Geräuscharm, Ummantelte Kabel, Nicht Modular",
-    "image": null
-   },
-   {
     "shop": "ldlc.com",
     "price": 69.95,
     "currency": "EUR",
@@ -3015,12 +2975,22 @@
     "image": "https://images.morele.net/i256/13118194_3_i256.jpg"
    },
    {
+    "shop": "amazon.de",
+    "price": 37.73,
+    "currency": "EUR",
+    "url": "https://www.amazon.de/dp/B0CK8NDN1Q?tag=fraym03-21",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:31:29Z",
+    "product": "CORSAIR CX650 ATX 650W EU Netzteil - Schwarz | 80 PLUS Bronze zertifiziert, Kompaktes, Geräuscharm, Ummantelte Kabel, Nicht Modular",
+    "image": null
+   },
+   {
     "shop": "amazon.co.uk",
     "price": 29.16,
     "currency": "GBP",
     "url": "https://www.amazon.co.uk/dp/B0CJRXX5WT?tag=fraym0a-21",
     "inStock": true,
-    "lastSeen": "2026-11-21T05:42:46Z",
+    "lastSeen": "2026-11-21T14:34:51Z",
     "product": "CORSAIR CX650 Non Modular Low-Noise ATX 650 Watt Power Supply – Black | 80 PLUS Bronze, UK",
     "image": null
    },
@@ -3030,7 +3000,7 @@
     "currency": "EUR",
     "url": "https://www.amazon.it/dp/B0CK8NDN1Q?tag=fraym06-21",
     "inStock": true,
-    "lastSeen": "2026-11-21T05:48:22Z",
+    "lastSeen": "2026-11-21T14:38:30Z",
     "product": "CORSAIR CX650 ATX 650W Alimentazione – Nero | Certificazione 80 PLUS Bronze, Bassa Rumorosità, Cavi con Guaina, Non Modulare, EU",
     "image": null
    },
@@ -3040,26 +3010,26 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0CQMSTN94?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-21T05:55:36Z",
+    "lastSeen": "2026-11-21T14:43:01Z",
     "product": "CORSAIR CX650 Small 650W Power Supply – Black | Low-Noise, Non-Modular, 80 PLUS Bronze, NA : Home & Kitchen",
     "image": null
    }
   ],
   "image": "images/psus-corsair-cx650.jpg",
-  "lastUpdated": "2026-11-21T05:55:36Z"
+  "lastUpdated": "2026-11-21T14:43:01Z"
  },
  {
   "id": "cooler-master-mwe-gold-750-v2",
   "name": "Cooler Master MWE Gold 750 V2",
-  "priceMin": 55.72,
+  "priceMin": 55.93,
   "prices": [
    {
     "shop": "morele.net",
-    "price": 239.61,
+    "price": 240.52,
     "currency": "PLN",
     "url": "https://www.morele.net/zasilacz-cooler-master-mwe-white-v2-750w-mpe-7501-acabw-eu-6934861/",
     "inStock": true,
-    "lastSeen": "2026-11-20T00:15:16Z",
+    "lastSeen": "2026-11-21T14:06:00Z",
     "product": "Zasilacz Cooler Master MWE White V2 750W (MPE-7501-ACABW-EU)",
     "image": "https://images.morele.net/i256/6934861_0_i256.jpg"
    },
@@ -3069,7 +3039,7 @@
     "currency": "PLN",
     "url": "https://www.morele.net/zasilacz-cooler-master-mwe-bronze-v2-750w-mpe-7501-acabw-beu-7410619/",
     "inStock": true,
-    "lastSeen": "2026-11-20T00:15:16Z",
+    "lastSeen": "2026-11-21T14:06:00Z",
     "product": "Zasilacz Cooler Master MWE Bronze V2 750W (MPE-7501-ACABW-BEU)",
     "image": "https://images.morele.net/i256/7410619_0_i256.jpg"
    },
@@ -3079,7 +3049,7 @@
     "currency": "GBP",
     "url": "https://www.amazon.co.uk/dp/B0DHGXT61R?tag=fraym0a-21",
     "inStock": true,
-    "lastSeen": "2026-11-21T05:44:02Z",
+    "lastSeen": "2026-11-21T14:35:38Z",
     "product": "Cooler Master MWE Gold 750 V2 ATX 3.1 Fully Modular PSU (UK Plug) - ATX 3.1 Support, 80 PLUS Gold 750W Power Supply, PCIe 5.1 Cabling, 120mm HDB Fan, High-Temperature Threshold, 5 Year Warranty",
     "image": null
    },
@@ -3089,13 +3059,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B08M9LDLXH?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-21T05:55:32Z",
+    "lastSeen": "2026-11-21T14:42:58Z",
     "product": "Cooler Master MWE Gold 750 V2 Power Supply, Fully Modular | Certification Cybenetics Gold & Noise Standard +, 80 PLUS Gold, 750W, Semi-Fanless Low Noise, Fully Modular : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-21T05:55:32Z"
+  "lastUpdated": "2026-11-21T14:42:58Z"
  },
  {
   "id": "seasonic-prime-tx-1000",
@@ -3161,66 +3131,6 @@
   "priceMin": 94.25,
   "prices": [
    {
-    "shop": "morele.net",
-    "price": 567.8,
-    "currency": "PLN",
-    "url": "https://www.morele.net/zasilacz-msi-mpg-a1000gs-pcie5-1000w-atx-3-1-306-7zpfy11-ce0-14638412/",
-    "inStock": true,
-    "lastSeen": "2026-11-20T00:15:16Z",
-    "product": "Zasilacz MSI MPG A1000GS PCIE5 1000W ATX 3.1 (306-7ZPFY11-CE0)",
-    "image": "https://images.morele.net/i256/14638412_1_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 642.65,
-    "currency": "PLN",
-    "url": "https://www.morele.net/zasilacz-msi-mag-a1000gl-pcie5-ii-1000w-15505278/",
-    "inStock": true,
-    "lastSeen": "2026-11-20T00:15:16Z",
-    "product": "Zasilacz MSI MAG A1000GL PCIE5 II 1000W",
-    "image": "https://images.morele.net/i256/15505278_3_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 660.96,
-    "currency": "PLN",
-    "url": "https://www.morele.net/zasilacz-msi-mpg-a1000g-pcie5-1000w-12685120/",
-    "inStock": true,
-    "lastSeen": "2026-11-20T00:15:16Z",
-    "product": "Zasilacz MSI MPG A1000G PCIE5 1000W",
-    "image": "https://images.morele.net/i256/12685120_0_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 668.06,
-    "currency": "PLN",
-    "url": "https://www.morele.net/zasilacz-msi-mag-a1000gl-pcie5-1000w-306-7zp9b11-ce0-14686208/",
-    "inStock": true,
-    "lastSeen": "2026-11-20T00:15:16Z",
-    "product": "Zasilacz MSI MAG A1000GL PCIE5 1000W (306-7ZP9B11-CE0)",
-    "image": "https://images.morele.net/i256/14686208_0_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 676.99,
-    "currency": "PLN",
-    "url": "https://www.morele.net/zasilacz-msi-mag-a1000gl-pcie5-white-1000w-306-7zp9b51-ce0-15815006/",
-    "inStock": true,
-    "lastSeen": "2026-11-20T00:15:16Z",
-    "product": "Zasilacz MSI MAG A1000GL PCIE5 White 1000W (306-7ZP9B51-CE0)",
-    "image": "https://images.morele.net/i256/15815006_0_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 869.9,
-    "currency": "PLN",
-    "url": "https://www.morele.net/zasilacz-msi-mag-a1000gls-pcie5-1000w-306-7zpix11-ce0-15460106/",
-    "inStock": true,
-    "lastSeen": "2026-11-20T00:15:16Z",
-    "product": "Zasilacz MSI MAG A1000GLS PCIE5 1000W (306-7ZPIX11-CE0)",
-    "image": "https://images.morele.net/i256/15460106_1_i256.jpg"
-   },
-   {
     "shop": "materiel.net",
     "price": 134.95,
     "currency": "EUR",
@@ -3261,18 +3171,78 @@
     "image": "https://media.ldlc.com/r1600/ld/products/00/06/20/76/LD0006207651.jpg"
    },
    {
+    "shop": "morele.net",
+    "price": 529.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/zasilacz-msi-mpg-a1000g-pcie5-1000w-12685120/",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:06:00Z",
+    "product": "Zasilacz MSI MPG A1000G PCIE5 1000W",
+    "image": "https://images.morele.net/i256/12685120_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 572.42,
+    "currency": "PLN",
+    "url": "https://www.morele.net/zasilacz-msi-mpg-a1000gs-pcie5-1000w-atx-3-1-306-7zpfy11-ce0-14638412/",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:06:00Z",
+    "product": "Zasilacz MSI MPG A1000GS PCIE5 1000W ATX 3.1 (306-7ZPFY11-CE0)",
+    "image": "https://images.morele.net/i256/14638412_1_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 668.06,
+    "currency": "PLN",
+    "url": "https://www.morele.net/zasilacz-msi-mag-a1000gl-pcie5-1000w-306-7zp9b11-ce0-14686208/",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:06:00Z",
+    "product": "Zasilacz MSI MAG A1000GL PCIE5 1000W (306-7ZP9B11-CE0)",
+    "image": "https://images.morele.net/i256/14686208_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 679.99,
+    "currency": "PLN",
+    "url": "https://www.morele.net/zasilacz-msi-mag-a1000gl-pcie5-white-1000w-306-7zp9b51-ce0-15815006/",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:06:00Z",
+    "product": "Zasilacz MSI MAG A1000GL PCIE5 White 1000W (306-7ZP9B51-CE0)",
+    "image": "https://images.morele.net/i256/15815006_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 728.79,
+    "currency": "PLN",
+    "url": "https://www.morele.net/zasilacz-msi-mag-a1000gl-pcie5-ii-1000w-15505278/",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:06:00Z",
+    "product": "Zasilacz MSI MAG A1000GL PCIE5 II 1000W",
+    "image": "https://images.morele.net/i256/15505278_3_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 869.9,
+    "currency": "PLN",
+    "url": "https://www.morele.net/zasilacz-msi-mag-a1000gls-pcie5-1000w-306-7zpix11-ce0-15460106/",
+    "inStock": true,
+    "lastSeen": "2026-11-21T14:06:00Z",
+    "product": "Zasilacz MSI MAG A1000GLS PCIE5 1000W (306-7ZPIX11-CE0)",
+    "image": "https://images.morele.net/i256/15460106_1_i256.jpg"
+   },
+   {
     "shop": "amazon.it",
     "price": 94.25,
     "currency": "EUR",
     "url": "https://www.amazon.it/dp/B0B434DB7Y?tag=fraym06-21",
     "inStock": true,
-    "lastSeen": "2026-11-21T05:50:45Z",
+    "lastSeen": "2026-11-21T14:39:54Z",
     "product": "MSI MPG A1000G PCIE5 Alimentatore, 1000W, certificato 80 Plus Gold, ATX 3.0 | completamente modulare, supporto GPU PCIe 5.0, condensatori giapponesi da 105°C, cavi piatti – garanzia 10 anni",
     "image": null
    }
   ],
   "image": "images/psus-msi-mpg-a1000g.jpg",
-  "lastUpdated": "2026-11-21T05:50:45Z"
+  "lastUpdated": "2026-11-21T14:39:54Z"
  },
  {
   "id": "seasonic-focus-gx-650",
@@ -3304,13 +3274,13 @@
     "currency": "PLN",
     "url": "https://www.morele.net/zasilacz-cooler-master-mwe-gold-v2-atx-3-1-850w-mpe-8501-afaag-3eeu-14771736/",
     "inStock": true,
-    "lastSeen": "2026-11-20T00:15:16Z",
+    "lastSeen": "2026-11-21T14:06:00Z",
     "product": "Zasilacz Cooler Master MWE Gold V2 ATX 3.1 850W (MPE-8501-AFAAG-3EEU)",
     "image": "https://images.morele.net/i256/14771736_1_i256.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-20T00:15:16Z"
+  "lastUpdated": "2026-11-21T14:06:00Z"
  },
  {
   "id": "thermaltake-toughpower-gf3-850w",
@@ -3323,12 +3293,12 @@
     "currency": "PLN",
     "url": "https://www.morele.net/zasilacz-thermaltake-toughpower-gf3-argb-850w-ps-tpd-0850f4fage-1-12995893/",
     "inStock": true,
-    "lastSeen": "2026-11-20T00:15:16Z",
+    "lastSeen": "2026-11-21T14:06:00Z",
     "product": "Zasilacz Thermaltake Toughpower GF3 ARGB 850W (PS-TPD-0850F4FAGE-1)",
     "image": "https://images.morele.net/i256/12995893_6_i256.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-20T00:15:16Z"
+  "lastUpdated": "2026-11-21T14:06:00Z"
  }
 ]

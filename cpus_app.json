@@ -5,16 +5,6 @@
   "priceMin": 459.29,
   "prices": [
    {
-    "shop": "canadacomputers.com",
-    "price": 929.98,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/amd-desktop-processors/267978/amd-ryzen-9-9950x3d-16-core-32thread-4nm-zen-5-cpu-100-100000719wof.html?keyword=ryzen 9 9950x3d",
-    "inStock": true,
-    "lastSeen": "2026-11-21T22:46:33Z",
-    "product": "AMD Ryzen 9 9950X3D 16-Core/32Thread 4nm ZEN 5 CPU",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/240/381/267978/69428.jpg"
-   },
-   {
     "shop": "morele.net",
     "price": 2764.22,
     "currency": "PLN",
@@ -85,12 +75,22 @@
     "image": "https://media.materiel.net/r250/products/MN0006225208.jpg"
    },
    {
+    "shop": "canadacomputers.com",
+    "price": 929.98,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/amd-desktop-processors/267978/amd-ryzen-9-9950x3d-16-core-32thread-4nm-zen-5-cpu-100-100000719wof.html?keyword=ryzen 9 9950x3d",
+    "inStock": true,
+    "lastSeen": "2026-11-24T03:48:22Z",
+    "product": "AMD Ryzen 9 9950X3D 16-Core/32Thread 4nm ZEN 5 CPU",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/240/381/267978/69428.jpg"
+   },
+   {
     "shop": "amazon.fr",
     "price": 491.66,
     "currency": "EUR",
     "url": "https://www.amazon.fr/dp/B0DVZSG8D5?tag=fraym-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:48:24Z",
+    "lastSeen": "2026-11-24T04:19:55Z",
     "product": "AMD Ryzen™ 9 9950X3D avec Technologie 3D V-Cache™, 16 cœurs/32 Threads, 144 Mo de Cache, TDP 170 W, Socket AM5, fréquence Max jusqu'à 5,7 GHz, DDR5 et PCIe 5.0",
     "image": null
    },
@@ -100,7 +100,7 @@
     "currency": "EUR",
     "url": "https://www.amazon.it/dp/B0DVZSG8D5?tag=fraym06-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:53:57Z",
+    "lastSeen": "2026-11-24T04:23:23Z",
     "product": "AMD Ryzen 9 9950X3D Processore con tecnologia 3D V-Cache, 16 core/32 thread, cache da 144 MB, TDP da 170 W, socket AM5, frequenza di boost fino a 5,7 GHz, DDR5 e PCIe 5.0",
     "image": null
    },
@@ -110,7 +110,7 @@
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B0DVZSG8D5?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:55:14Z",
+    "lastSeen": "2026-11-24T04:24:00Z",
     "product": "AMD Ryzen 9 9950X3D Procesador con tecnología 3D V-Cache, 16 núcleos/32 subprocesos, caché de 144 MB, TDP de 170 W, zócalo AM5, frecuencia de Impulso de hasta 5,7 GHz, DDR5 y PCIe 5.0",
     "image": null
    },
@@ -120,29 +120,19 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0DVZSG8D5?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-23T18:01:32Z",
+    "lastSeen": "2026-11-24T04:29:54Z",
     "product": "AMD Ryzen 9 9950X3D 16-Core Processor : Electronics",
     "image": null
    }
   ],
   "image": "images/cpus-r9_9950x3d.jpg",
-  "lastUpdated": "2026-11-23T18:01:32Z"
+  "lastUpdated": "2026-11-24T04:29:54Z"
  },
  {
   "id": "r7_9800x3d",
   "name": "Ryzen 7 9800X3D",
   "priceMin": 299.17,
   "prices": [
-   {
-    "shop": "canadacomputers.com",
-    "price": 549.99,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/amd-desktop-processors/264908/amd-ryzen-7-9800x3d-8-core-4nm-am5-104mb-cache-120w-zen-5-cpu-100-100001084wof.html?keyword=ryzen 7 9800x3d",
-    "inStock": true,
-    "lastSeen": "2026-11-21T22:46:33Z",
-    "product": "AMD Ryzen 7 9800X3D 8-Core 4nm AM5 104MB Cache 120W ZEN 5 CPU",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/240/381/264908/02103.jpg"
-   },
    {
     "shop": "ldlc.com",
     "price": 449.95,
@@ -170,16 +160,6 @@
     "url": "https://www.amazon.de/dp/B0DKFMSMYK?tag=fraym03-21",
     "inStock": true,
     "lastSeen": "2026-11-23T05:50:05Z",
-    "product": "Processore - Amd - Ryzen 7 9800x3d - 4,7 Ghz, 8 Core, 104 Mb L2 E L3, Am5",
-    "image": null
-   },
-   {
-    "shop": "amazon.es",
-    "price": 310.74,
-    "currency": "EUR",
-    "url": "https://www.amazon.es/dp/B0DKFMSMYK?tag=fraym08-21",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:54:41Z",
     "product": "Processore - Amd - Ryzen 7 9800x3d - 4,7 Ghz, 8 Core, 104 Mb L2 E L3, Am5",
     "image": null
    },
@@ -214,34 +194,44 @@
     "image": null
    },
    {
+    "shop": "canadacomputers.com",
+    "price": 549.99,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/amd-desktop-processors/264908/amd-ryzen-7-9800x3d-8-core-4nm-am5-104mb-cache-120w-zen-5-cpu-100-100001084wof.html?keyword=ryzen 7 9800x3d",
+    "inStock": true,
+    "lastSeen": "2026-11-24T03:48:22Z",
+    "product": "AMD Ryzen 7 9800X3D 8-Core 4nm AM5 104MB Cache 120W ZEN 5 CPU",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/240/381/264908/02103.jpg"
+   },
+   {
+    "shop": "amazon.es",
+    "price": 310.74,
+    "currency": "EUR",
+    "url": "https://www.amazon.es/dp/B0DKFMSMYK?tag=fraym08-21",
+    "inStock": true,
+    "lastSeen": "2026-11-24T04:13:06Z",
+    "product": "Processore - Amd - Ryzen 7 9800x3d - 4,7 Ghz, 8 Core, 104 Mb L2 E L3, Am5",
+    "image": null
+   },
+   {
     "shop": "amazon.it",
     "price": 310.65,
     "currency": "EUR",
     "url": "https://www.amazon.it/dp/B0DKFMSMYK?tag=fraym06-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:53:05Z",
+    "lastSeen": "2026-11-24T04:22:41Z",
     "product": "AMD RYZEN ™ 7 9800X3D 8 Core/16 Thread sbloccati, Architettura Zen 5, 104 MB di Cache, TDP 120W, Fino a 5.2 GHz di Frequenza Boost, Socket AM5, Dissipatore Non Incluso",
     "image": null
    }
   ],
   "image": "images/cpus-r7_9800x3d.jpg",
-  "lastUpdated": "2026-11-23T17:53:05Z"
+  "lastUpdated": "2026-11-24T04:22:41Z"
  },
  {
   "id": "r7_7800x3d",
   "name": "Ryzen 7 7800X3D",
   "priceMin": 232.39,
   "prices": [
-   {
-    "shop": "canadacomputers.com",
-    "price": 469.99,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/amd-desktop-processors/235997/amd-ryzen-7-7800x3d-8-core-16-thread-5nm-104mb-cache-120w-zen-4-cpu-100-100000910wof.html?keyword=ryzen 7 7800x3d",
-    "inStock": true,
-    "lastSeen": "2026-11-21T22:46:33Z",
-    "product": "AMD Ryzen 7 7800X3D 8-Core/16-Thread 5nm 104MB Cache 120W ZEN 4 CPU",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/240/381/235997/15776.jpg"
-   },
    {
     "shop": "morele.net",
     "price": 1269.0,
@@ -303,16 +293,6 @@
     "image": null
    },
    {
-    "shop": "amazon.it",
-    "price": 253.38,
-    "currency": "EUR",
-    "url": "https://www.amazon.it/dp/B0BTZB7F88?tag=fraym06-21",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:55:06Z",
-    "product": "Processore AMD Ryzen 7 7800X3D con 3D V Cache technology (scheda grafica integrata Radeon, 8 cores/16 threads, 120W TDP, AM5 Socket, 104MB cache, Boost di Frequenza fino a 5.0 GHz max, senza ventole)",
-    "image": null
-   },
-   {
     "shop": "materiel.net",
     "price": 359.95,
     "currency": "EUR",
@@ -333,12 +313,32 @@
     "image": "https://media.materiel.net/r250/products/MN0006027856.jpg"
    },
    {
+    "shop": "canadacomputers.com",
+    "price": 469.99,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/amd-desktop-processors/235997/amd-ryzen-7-7800x3d-8-core-16-thread-5nm-104mb-cache-120w-zen-4-cpu-100-100000910wof.html?keyword=ryzen 7 7800x3d",
+    "inStock": true,
+    "lastSeen": "2026-11-24T03:48:22Z",
+    "product": "AMD Ryzen 7 7800X3D 8-Core/16-Thread 5nm 104MB Cache 120W ZEN 4 CPU",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/240/381/235997/15776.jpg"
+   },
+   {
+    "shop": "amazon.it",
+    "price": 253.38,
+    "currency": "EUR",
+    "url": "https://www.amazon.it/dp/B0BTZB7F88?tag=fraym06-21",
+    "inStock": true,
+    "lastSeen": "2026-11-24T04:13:10Z",
+    "product": "Processore AMD Ryzen 7 7800X3D con 3D V Cache technology (scheda grafica integrata Radeon, 8 cores/16 threads, 120W TDP, AM5 Socket, 104MB cache, Boost di Frequenza fino a 5.0 GHz max, senza ventole)",
+    "image": null
+   },
+   {
     "shop": "amazon.fr",
     "price": 236.66,
     "currency": "EUR",
     "url": "https://www.amazon.fr/dp/B0BTZB7F88?tag=fraym-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:48:22Z",
+    "lastSeen": "2026-11-24T04:19:53Z",
     "product": "AMD Ryzen 7 7800X3D Processeur avec La Technologie 3D V-Cache (Radeon Graphique Intégré, 8 Cœurs/16 Threads, 120W TDP, Socket AM5, Cache 104 Mo, Jusqu'à 5,0 GHz Fréquence Boost, sans Ventilateur)",
     "image": null
    },
@@ -348,29 +348,19 @@
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B0BTZB7F88?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:53:59Z",
+    "lastSeen": "2026-11-24T04:22:49Z",
     "product": "AMD Ryzen 7 7800X3D Procesador con tecnología 3D V-Cache (tarjeta gráfica Radeon integrada, 8 núcleos/16 threads,120W TDP,Socket AM5, 104MB Caché, Reloj de aumento máx. hasta 5.0 GHz, sin ventilador)",
     "image": null
    }
   ],
   "image": "images/cpus-r7_7800x3d.jpg",
-  "lastUpdated": "2026-11-23T17:53:59Z"
+  "lastUpdated": "2026-11-24T04:22:49Z"
  },
  {
   "id": "r7_7700x",
   "name": "Ryzen 7 7700X",
   "priceMin": 181.47,
   "prices": [
-   {
-    "shop": "canadacomputers.com",
-    "price": 359.88,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/amd-desktop-processors/226995/amd-ryzen-7-7700x-8-core-16-thread-5nm-zen-4-cpu-100-100000591wof.html?keyword=ryzen 7 7700x",
-    "inStock": false,
-    "lastSeen": "2026-11-21T22:46:33Z",
-    "product": "AMD Ryzen 7 7700X 8-Core/16-Thread 5nm ZEN 4 CPU",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/240/381/226995/56094.jpg"
-   },
    {
     "shop": "morele.net",
     "price": 1099.07,
@@ -392,16 +382,6 @@
     "image": "https://media.ldlc.com/r150/ld/products/00/05/99/73/LD0005997306.jpg"
    },
    {
-    "shop": "amazon.es",
-    "price": 199.17,
-    "currency": "EUR",
-    "url": "https://www.amazon.es/dp/B0BBHHT8LY?tag=fraym08-21",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:47:25Z",
-    "product": "AMD Ryzen 7 7700X Procesador (tarjeta gráfica Radeon integrada, 8 núcleos/16 threads, 105W DTP, Socket AM5, 40MB Caché, Reloj de aumento máx. hasta 5.4 GHz, sin ventilador)",
-    "image": null
-   },
-   {
     "shop": "materiel.net",
     "price": 349.95,
     "currency": "EUR",
@@ -412,12 +392,32 @@
     "image": "https://media.materiel.net/r250/products/MN0005997287.jpg"
    },
    {
+    "shop": "canadacomputers.com",
+    "price": 359.88,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/amd-desktop-processors/226995/amd-ryzen-7-7700x-8-core-16-thread-5nm-zen-4-cpu-100-100000591wof.html?keyword=ryzen 7 7700x",
+    "inStock": false,
+    "lastSeen": "2026-11-24T03:48:22Z",
+    "product": "AMD Ryzen 7 7700X 8-Core/16-Thread 5nm ZEN 4 CPU",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/240/381/226995/56094.jpg"
+   },
+   {
+    "shop": "amazon.es",
+    "price": 199.17,
+    "currency": "EUR",
+    "url": "https://www.amazon.es/dp/B0BBHHT8LY?tag=fraym08-21",
+    "inStock": true,
+    "lastSeen": "2026-11-24T04:12:39Z",
+    "product": "AMD Ryzen 7 7700X Procesador (tarjeta gráfica Radeon integrada, 8 núcleos/16 threads, 105W DTP, Socket AM5, 40MB Caché, Reloj de aumento máx. hasta 5.4 GHz, sin ventilador)",
+    "image": null
+   },
+   {
     "shop": "amazon.fr",
     "price": 197.5,
     "currency": "EUR",
     "url": "https://www.amazon.fr/dp/B0BBHHT8LY?tag=fraym-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:54:58Z",
+    "lastSeen": "2026-11-24T04:23:47Z",
     "product": "AMD Ryzen 7 7700X Processeur (Radeon Graphique Intégré, 8 Coeurs/16 Threads, 105W DTP, Socket AM5, Cache 40MB, jusqu'à 5.4 GHz Fréquence Boost, Pas de Ventilateur)",
     "image": null
    },
@@ -427,29 +427,19 @@
     "currency": "EUR",
     "url": "https://www.amazon.it/dp/B0BBHHT8LY?tag=fraym06-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:55:25Z",
+    "lastSeen": "2026-11-24T04:24:42Z",
     "product": "Processore AMD Ryzen 7 7700X (scheda grafica integrata Radeon, 8 cores/16 threads, 105W DTP, AM5 Socket, 40MB cache, Boost di Frequenza fino a 5.4 GHz max, senza ventole)",
     "image": null
    }
   ],
   "image": "images/cpus-r7_7700x.jpg",
-  "lastUpdated": "2026-11-23T17:55:25Z"
+  "lastUpdated": "2026-11-24T04:24:42Z"
  },
  {
   "id": "r5_7600x",
   "name": "Ryzen 5 7600X",
   "priceMin": 163.67,
   "prices": [
-   {
-    "shop": "canadacomputers.com",
-    "price": 309.88,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/amd-desktop-processors/227006/amd-ryzen-5-7600x-6-core-12thread-5nm-zen-4-cpu-100-100000593wof.html?keyword=ryzen 5 7600x",
-    "inStock": false,
-    "lastSeen": "2026-11-21T22:46:33Z",
-    "product": "AMD Ryzen 5 7600X 6-Core/12Thread 5nm ZEN 4 CPU",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/240/381/227006/48005.jpg"
-   },
    {
     "shop": "morele.net",
     "price": 703.79,
@@ -471,16 +461,6 @@
     "image": "https://images.morele.net/i256/11788491_5_i256.jpg"
    },
    {
-    "shop": "materiel.net",
-    "price": 259.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202208250049.html",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "AMD Ryzen 5 7600X",
-    "image": "https://media.materiel.net/r900/products/MN0005997285.jpg"
-   },
-   {
     "shop": "amazon.co.uk",
     "price": 140.83,
     "currency": "GBP",
@@ -499,26 +479,36 @@
     "lastSeen": "2026-11-23T17:11:56Z",
     "product": "AMD Ryzen 5 7600X (4.7 GHz / 5.3 GHz)",
     "image": "https://media.ldlc.com/r1600/ld/products/00/05/99/72/LD0005997297.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 259.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202208250049.html",
+    "inStock": true,
+    "lastSeen": "2026-11-24T03:48:22Z",
+    "product": "AMD Ryzen 5 7600X",
+    "image": "https://media.materiel.net/r900/products/MN0005997285.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 309.88,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/amd-desktop-processors/227006/amd-ryzen-5-7600x-6-core-12thread-5nm-zen-4-cpu-100-100000593wof.html?keyword=ryzen 5 7600x",
+    "inStock": false,
+    "lastSeen": "2026-11-24T03:48:22Z",
+    "product": "AMD Ryzen 5 7600X 6-Core/12Thread 5nm ZEN 4 CPU",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/240/381/227006/48005.jpg"
    }
   ],
   "image": "images/cpus-r5_7600x.jpg",
-  "lastUpdated": "2026-11-23T17:11:56Z"
+  "lastUpdated": "2026-11-24T03:48:22Z"
  },
  {
   "id": "r7_5800x",
   "name": "Ryzen 7 5800X",
   "priceMin": 158.25,
   "prices": [
-   {
-    "shop": "canadacomputers.com",
-    "price": 299.99,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/amd-desktop-processors/183431/amd-ryzen-7-5800x-8-core-16-thread-7nm-zen-3-processor-100-100000063wof.html?keyword=ryzen 7 5800x",
-    "inStock": false,
-    "lastSeen": "2026-11-21T22:46:33Z",
-    "product": "AMD Ryzen 7 5800X 8-Core/16-Thread 7nm ZEN 3 Processor",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/240/381/183431/92756.jpg"
-   },
    {
     "shop": "morele.net",
     "price": 849.0,
@@ -570,12 +560,22 @@
     "image": "https://media.materiel.net/r250/products/MN0005744801_1.jpg"
    },
    {
+    "shop": "canadacomputers.com",
+    "price": 299.99,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/amd-desktop-processors/183431/amd-ryzen-7-5800x-8-core-16-thread-7nm-zen-3-processor-100-100000063wof.html?keyword=ryzen 7 5800x",
+    "inStock": false,
+    "lastSeen": "2026-11-24T03:48:22Z",
+    "product": "AMD Ryzen 7 5800X 8-Core/16-Thread 7nm ZEN 3 Processor",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/240/381/183431/92756.jpg"
+   },
+   {
     "shop": "amazon.es",
     "price": 177.64,
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B0815XFSGK?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:48:46Z",
+    "lastSeen": "2026-11-24T04:19:02Z",
     "product": "AMD Ryzen 7 5800X Procesador (8 núcleos/16 threads, 105W DTP, Socket AM4, 36 MB Caché, Reloj de aumento máx. hasta 4,7Ghz, no cooler)",
     "image": null
    },
@@ -585,7 +585,7 @@
     "currency": "EUR",
     "url": "https://www.amazon.fr/dp/B0815XFSGK?tag=fraym-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:49:17Z",
+    "lastSeen": "2026-11-24T04:20:26Z",
     "product": "AMD Ryzen 7 5800X Processeur (8 Cœurs/16 Threads, 105W TDP, Socket AM4, 36 Mo Cache, jusqu'à 4,7 Ghz Fréquence Boost, sans Ventilateur)",
     "image": null
    },
@@ -595,29 +595,19 @@
     "currency": "EUR",
     "url": "https://www.amazon.it/dp/B0815XFSGK?tag=fraym06-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:51:22Z",
+    "lastSeen": "2026-11-24T04:21:18Z",
     "product": "Processore AMD Ryzen 7 5800X (8 Cores/16 threads, 105W DTP, AM4 socket, 36 MB Cache, Boost di Frequenza fino a 4,7Ghz max, senza ventole)",
     "image": null
    }
   ],
   "image": "images/cpus-r7_5800x.jpg",
-  "lastUpdated": "2026-11-23T17:51:22Z"
+  "lastUpdated": "2026-11-24T04:21:18Z"
  },
  {
   "id": "r7_5800x3d",
   "name": "Ryzen 7 5800X3D",
   "priceMin": 279.17,
   "prices": [
-   {
-    "shop": "canadacomputers.com",
-    "price": 489.98,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/amd-desktop-processors/291028/amd-ryzen-7-5800x3d-10th-anniversary-edition-with-carbice-ice-pad-100-100000651pof.html?keyword=ryzen 7 5800x3d",
-    "inStock": true,
-    "lastSeen": "2026-11-21T22:46:33Z",
-    "product": "AMD Ryzen 7 5800X3D 10th Anniversary Edition with Carbice® Ice Pad",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/240/381/41915.jpg"
-   },
    {
     "shop": "amazon.co.uk",
     "price": 241.66,
@@ -659,14 +649,14 @@
     "image": "https://media.materiel.net/r250/products/MN0006355599.jpg"
    },
    {
-    "shop": "amazon.fr",
-    "price": 279.17,
-    "currency": "EUR",
-    "url": "https://www.amazon.fr/dp/B0H41D4KFT?tag=fraym-21",
+    "shop": "canadacomputers.com",
+    "price": 489.98,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/amd-desktop-processors/291028/amd-ryzen-7-5800x3d-10th-anniversary-edition-with-carbice-ice-pad-100-100000651pof.html?keyword=ryzen 7 5800x3d",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:44:22Z",
-    "product": "AMD Ryzen 7 5800X3D Processeur 10E Anniversaire (8 Coeurs/16 Threads, Socket AM4, 105W TDP, 100 Mo Cache, jusqu'à 4.5 GHz Fréquence Boost, Pas de Ventilateur)",
-    "image": null
+    "lastSeen": "2026-11-24T03:48:22Z",
+    "product": "AMD Ryzen 7 5800X3D 10th Anniversary Edition with Carbice® Ice Pad",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/240/381/41915.jpg"
    },
    {
     "shop": "amazon.es",
@@ -674,29 +664,29 @@
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B0H41D4KFT?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:44:52Z",
+    "lastSeen": "2026-11-24T04:15:25Z",
     "product": "AMD Ryzen 7 5800X3D Edición 10.º Aniversario, procesador de sobremesa para Socket AM4 y Memoria DDR4.",
+    "image": null
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 279.17,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B0H41D4KFT?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-24T04:17:07Z",
+    "product": "AMD Ryzen 7 5800X3D Processeur 10E Anniversaire (8 Coeurs/16 Threads, Socket AM4, 105W TDP, 100 Mo Cache, jusqu'à 4.5 GHz Fréquence Boost, Pas de Ventilateur)",
     "image": null
    }
   ],
   "image": "images/cpus-r7_5800x3d.jpg",
-  "lastUpdated": "2026-11-23T17:44:52Z"
+  "lastUpdated": "2026-11-24T04:17:07Z"
  },
  {
   "id": "r5_5600x",
   "name": "Ryzen 5 5600X",
   "priceMin": 122.44,
   "prices": [
-   {
-    "shop": "canadacomputers.com",
-    "price": 179.99,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/amd-desktop-processors/183432/amd-ryzen-5-5600x-6-core-12-thread-7nm-zen-3-processor-wraith-stealth-100-100000065box.html?keyword=ryzen 5 5600x",
-    "inStock": true,
-    "lastSeen": "2026-11-21T22:46:33Z",
-    "product": "AMD Ryzen 5 5600X 6-Core/12-Thread 7nm ZEN 3 Processor Wraith Stealth",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/240/381/183432/50656.jpg"
-   },
    {
     "shop": "amazon.co.uk",
     "price": 123.35,
@@ -778,34 +768,34 @@
     "image": "https://media.materiel.net/r250/products/MN0006182620.jpg"
    },
    {
+    "shop": "canadacomputers.com",
+    "price": 179.99,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/amd-desktop-processors/183432/amd-ryzen-5-5600x-6-core-12-thread-7nm-zen-3-processor-wraith-stealth-100-100000065box.html?keyword=ryzen 5 5600x",
+    "inStock": true,
+    "lastSeen": "2026-11-24T03:48:22Z",
+    "product": "AMD Ryzen 5 5600X 6-Core/12-Thread 7nm ZEN 3 Processor Wraith Stealth",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/240/381/183432/50656.jpg"
+   },
+   {
     "shop": "amazon.fr",
-    "price": 157.5,
+    "price": 155.6,
     "currency": "EUR",
     "url": "https://www.amazon.fr/dp/B08166SLDF?tag=fraym-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:53:41Z",
+    "lastSeen": "2026-11-24T04:23:01Z",
     "product": "AMD Ryzen 5 5600X Processeur (6 Coeurs/12Threads, 65W TDP, Socket AM4, Cache 35Mo, jusqu'à 4.6 GHz Fréquence Boost, Ventilateur wraith Stealth)",
     "image": null
    }
   ],
   "image": "images/cpus-r5_5600x.jpg",
-  "lastUpdated": "2026-11-23T17:53:41Z"
+  "lastUpdated": "2026-11-24T04:23:01Z"
  },
  {
   "id": "r5_5600",
   "name": "Ryzen 5 5600",
   "priceMin": 116.05,
   "prices": [
-   {
-    "shop": "canadacomputers.com",
-    "price": 279.0,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/amd-desktop-processors/216441/amd-ryzen-5-5600-6-core-12-thread-7nm-zen-3-processor-with-cooler-65w-100-100000927box.html?keyword=ryzen 5 5600",
-    "inStock": false,
-    "lastSeen": "2026-11-21T22:46:33Z",
-    "product": "AMD Ryzen 5 5600 6-Core/12-Thread 7nm ZEN 3 Processor with Cooler 65W",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/240/381/216441/08853.jpg"
-   },
    {
     "shop": "morele.net",
     "price": 499.0,
@@ -847,18 +837,28 @@
     "image": "https://media.materiel.net/r250/products/MN0006264378_0006269332.jpg"
    },
    {
+    "shop": "canadacomputers.com",
+    "price": 279.0,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/amd-desktop-processors/216441/amd-ryzen-5-5600-6-core-12-thread-7nm-zen-3-processor-with-cooler-65w-100-100000927box.html?keyword=ryzen 5 5600",
+    "inStock": false,
+    "lastSeen": "2026-11-24T03:48:22Z",
+    "product": "AMD Ryzen 5 5600 6-Core/12-Thread 7nm ZEN 3 Processor with Cooler 65W",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/240/381/216441/08853.jpg"
+   },
+   {
     "shop": "amazon.it",
-    "price": 142.89,
+    "price": 148.34,
     "currency": "EUR",
     "url": "https://www.amazon.it/dp/B09VCHR1VH?tag=fraym06-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:44:56Z",
+    "lastSeen": "2026-11-24T04:15:32Z",
     "product": "Processore AMD Ryzen 5 5600 ( 6 Cores/12 Threads, 65W, AM4 Socket, Boost di Frequenza fino a 4.4 Ghz max, dissipatore ad aria\"Wraith stealth cooler\")",
     "image": null
    }
   ],
   "image": "images/cpus-r5_5600.jpg",
-  "lastUpdated": "2026-11-23T17:44:56Z"
+  "lastUpdated": "2026-11-24T04:15:32Z"
  },
  {
   "id": "r5_3600",
@@ -911,7 +911,7 @@
     "currency": "EUR",
     "url": "https://www.alternate.fr/ASUS/RT-BE50-BE3600-routeur-sans-fil-2-5-Gigabit-Ethernet-Bi-bande-2-4-GHz-5-GHz-Noir/html/product/100127917",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:11:56Z",
+    "lastSeen": "2026-11-24T03:48:22Z",
     "product": "ASUS RT-BE50 BE3600 routeur sans fil 2.5 Gigabit Ethernet Bi-bande (2,4 GHz / 5 GHz) Noir",
     "image": "https://www.alternate.fr/p/200x200/7/1/ASUS_RT_BE50_BE3600_routeur_sans_fil_2_5_Gigabit_Ethernet_Bi_bande__2_4_GHz___5_GHz__Noir@@100127917.jpg"
    },
@@ -921,7 +921,7 @@
     "currency": "EUR",
     "url": "https://www.alternate.fr/ASUS/TUF-BE3600-V2-Routeur-maillé/html/product/100186663",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:11:56Z",
+    "lastSeen": "2026-11-24T03:48:22Z",
     "product": "ASUS TUF-BE3600 V2, Routeur maillé",
     "image": "https://www.alternate.fr/p/200x200/3/6/ASUS_TUF_BE3600_V2__Routeur_maill_@@100186663.jpg"
    },
@@ -931,13 +931,13 @@
     "currency": "EUR",
     "url": "https://www.alternate.fr/ASUS/ZenWiFi-BD4-BE3600-Routeur-maillé/html/product/100082323",
     "inStock": false,
-    "lastSeen": "2026-11-23T17:11:56Z",
+    "lastSeen": "2026-11-24T03:48:22Z",
     "product": "ASUS ZenWiFi BD4 BE3600, Routeur maillé",
     "image": "https://www.alternate.fr/p/200x200/3/2/ASUS_ZenWiFi_BD4_BE3600__Routeur_maill_@@100082323.jpg"
    }
   ],
   "image": "images/cpus-r5_3600.jpg",
-  "lastUpdated": "2026-11-23T17:11:56Z"
+  "lastUpdated": "2026-11-24T03:48:22Z"
  },
  {
   "id": "i9_14900k",
@@ -1122,16 +1122,6 @@
   "priceMin": 388.39,
   "prices": [
    {
-    "shop": "materiel.net",
-    "price": 499.0,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202108310037.html",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Intel Core i9 12900K",
-    "image": "https://media.materiel.net/r900/products/MN0005902114_1.jpg"
-   },
-   {
     "shop": "morele.net",
     "price": 1670.08,
     "currency": "PLN",
@@ -1160,10 +1150,20 @@
     "lastSeen": "2026-11-23T17:11:56Z",
     "product": "Intel Core i9-12900K (3.2 GHz / 5.2 GHz)",
     "image": "https://media.ldlc.com/r1600/ld/products/00/05/90/02/LD0005900230_1.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 499.0,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202108310037.html",
+    "inStock": true,
+    "lastSeen": "2026-11-24T03:48:22Z",
+    "product": "Intel Core i9 12900K",
+    "image": "https://media.materiel.net/r900/products/MN0005902114_1.jpg"
    }
   ],
   "image": "images/cpus-i9_12900k.jpg",
-  "lastUpdated": "2026-11-23T17:11:56Z"
+  "lastUpdated": "2026-11-24T03:48:22Z"
  },
  {
   "id": "i7_12700k",
@@ -1250,16 +1250,6 @@
     "image": "https://media.materiel.net/r250/products/MN0005902110_1.jpg"
    },
    {
-    "shop": "amazon.com",
-    "price": 389.95,
-    "currency": "USD",
-    "url": "https://www.amazon.com/dp/B09LMQLQJ3?tag=fraym-20",
-    "inStock": true,
-    "lastSeen": "2026-11-23T17:49:00Z",
-    "product": "Intel Core i5 [12th Gen] i5-12600K Deca-core [10 Core] 3.70 GHz Processor - OEM Pack : Electronics",
-    "image": null
-   },
-   {
     "shop": "amazon.it",
     "price": 399.97,
     "currency": "EUR",
@@ -1268,10 +1258,20 @@
     "lastSeen": "2026-11-23T17:54:08Z",
     "product": "Intel i5-12600K 4.90GHz LGA1700 Vassoio",
     "image": null
+   },
+   {
+    "shop": "amazon.com",
+    "price": 389.95,
+    "currency": "USD",
+    "url": "https://www.amazon.com/dp/B09LMQLQJ3?tag=fraym-20",
+    "inStock": true,
+    "lastSeen": "2026-11-24T04:19:06Z",
+    "product": "Intel Core i5 [12th Gen] i5-12600K Deca-core [10 Core] 3.70 GHz Processor - OEM Pack : Electronics",
+    "image": null
    }
   ],
   "image": "images/cpus-i5_12600k.jpg",
-  "lastUpdated": "2026-11-23T17:54:08Z"
+  "lastUpdated": "2026-11-24T04:19:06Z"
  },
  {
   "id": "i5_12400f",
@@ -1344,13 +1344,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B09NPJRDGD?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:54:12Z",
+    "lastSeen": "2026-11-24T04:23:05Z",
     "product": "INTEL CPU Core i5-12400F / 6/12 / 2.5GHz / 6xxChipset / BX8071512400F : Electronics",
     "image": null
    }
   ],
   "image": "images/cpus-i5_12400f.jpg",
-  "lastUpdated": "2026-11-23T17:54:12Z"
+  "lastUpdated": "2026-11-24T04:23:05Z"
  },
  {
   "id": "ultra9_285k",
@@ -1419,7 +1419,7 @@
    }
   ],
   "image": "images/cpus-ultra9_285k.jpg",
-  "lastUpdated": "2026-11-23T17:57:28Z"
+  "lastUpdated": "2026-11-24T04:26:08Z"
  },
  {
   "id": "ultra5_245k",
@@ -1467,16 +1467,6 @@
     "image": "https://images.morele.net/i256/14201777_0_i256.jpg"
    },
    {
-    "shop": "alternate.fr",
-    "price": 212.9,
-    "currency": "EUR",
-    "url": "https://www.alternate.fr/Intel/Core-Ultra-5-245K-3-6-GHz-5-2-GHz-Turbo-Boost-socket-1851-processeur/html/product/100077071",
-    "inStock": true,
-    "lastSeen": "2026-11-23T17:11:56Z",
-    "product": "Intel® Core Ultra 5 245K, 3,6 GHz (5,2 GHz Turbo Boost) socket 1851 processeur",
-    "image": "https://www.alternate.fr/p/200x200/1/7/Intel__Core_Ultra_5_245K__3_6_GHz__5_2_GHz_Turbo_Boost__socket_1851_processeur@@100077071.jpg"
-   },
-   {
     "shop": "materiel.net",
     "price": 269.95,
     "currency": "EUR",
@@ -1495,36 +1485,26 @@
     "lastSeen": "2026-11-23T17:11:56Z",
     "product": "Intel Core Ultra 5 245K",
     "image": "https://media.materiel.net/r250/products/MN0006176541.jpg"
+   },
+   {
+    "shop": "alternate.fr",
+    "price": 212.9,
+    "currency": "EUR",
+    "url": "https://www.alternate.fr/Intel/Core-Ultra-5-245K-3-6-GHz-5-2-GHz-Turbo-Boost-socket-1851-processeur/html/product/100077071",
+    "inStock": true,
+    "lastSeen": "2026-11-24T03:48:22Z",
+    "product": "Intel® Core Ultra 5 245K, 3,6 GHz (5,2 GHz Turbo Boost) socket 1851 processeur",
+    "image": "https://www.alternate.fr/p/200x200/1/7/Intel__Core_Ultra_5_245K__3_6_GHz__5_2_GHz_Turbo_Boost__socket_1851_processeur@@100077071.jpg"
    }
   ],
   "image": "images/cpus-ultra5_245k.jpg",
-  "lastUpdated": "2026-11-23T17:11:56Z"
+  "lastUpdated": "2026-11-24T03:48:22Z"
  },
  {
   "id": "r5_9600x",
   "name": "Ryzen 5 9600X",
   "priceMin": 124.17,
   "prices": [
-   {
-    "shop": "canadacomputers.com",
-    "price": 249.99,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/amd-desktop-processors/258318/amd-ryzen-5-9600x-6-core-12thread-4nm-zen-5-cpu-100-100001405wof.html?keyword=ryzen 5 9600x",
-    "inStock": true,
-    "lastSeen": "2026-11-21T22:46:33Z",
-    "product": "AMD Ryzen 5 9600X 6-Core/12Thread 4nm ZEN 5 CPU",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/240/381/258318/62748.jpg"
-   },
-   {
-    "shop": "amazon.fr",
-    "price": 124.17,
-    "currency": "EUR",
-    "url": "https://www.amazon.fr/dp/B0D6NN6TM7?tag=fraym-21",
-    "inStock": true,
-    "lastSeen": "2026-11-22T23:40:58Z",
-    "product": "AMD Ryzen 5 9600X Processeur (Radeon Graphique Intégré, 6 Coeurs/12 Threads, 65W TDP, Socket AM5, Cache 38Mo, jusqu'à 5.4 GHz Fréquence Boost, Pas de Ventilateur)",
-    "image": null
-   },
    {
     "shop": "ldlc.com",
     "price": 244.95,
@@ -1596,12 +1576,32 @@
     "image": "https://media.materiel.net/r250/products/MN0006158007.jpg"
    },
    {
+    "shop": "canadacomputers.com",
+    "price": 249.99,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/amd-desktop-processors/258318/amd-ryzen-5-9600x-6-core-12thread-4nm-zen-5-cpu-100-100001405wof.html?keyword=ryzen 5 9600x",
+    "inStock": true,
+    "lastSeen": "2026-11-24T03:48:22Z",
+    "product": "AMD Ryzen 5 9600X 6-Core/12Thread 4nm ZEN 5 CPU",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/240/381/258318/62748.jpg"
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 124.17,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B0D6NN6TM7?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-24T04:14:22Z",
+    "product": "AMD Ryzen 5 9600X Processeur (Radeon Graphique Intégré, 6 Coeurs/12 Threads, 65W TDP, Socket AM5, Cache 38Mo, jusqu'à 5.4 GHz Fréquence Boost, Pas de Ventilateur)",
+    "image": null
+   },
+   {
     "shop": "amazon.it",
     "price": 134.96,
     "currency": "EUR",
     "url": "https://www.amazon.it/dp/B0D6NN6TM7?tag=fraym06-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:53:11Z",
+    "lastSeen": "2026-11-24T04:22:44Z",
     "product": "AMD Ryzen 5 9600X (scheda grafica integrata Radeon, 6 Cores/12 Threads, 65W DTP, Socket AM5, Cache 38MB, Boost di Frequenza fino a 5.4 GHz max, senza ventole)",
     "image": null
    },
@@ -1611,29 +1611,19 @@
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B0D6NN6TM7?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:54:01Z",
+    "lastSeen": "2026-11-24T04:22:50Z",
     "product": "AMD Ryzen 5 9600X Procesador (Tarjeta gráfica Radeon integrada, 6 núcleos/12 Threads, 65W DTP, Socket AM5, 38MB Caché, Reloj de Aumento máx. hasta 5.4 GHz, sin Ventilador)",
     "image": null
    }
   ],
   "image": "images/cpus-r5_9600x.jpg",
-  "lastUpdated": "2026-11-23T17:54:01Z"
+  "lastUpdated": "2026-11-24T04:22:50Z"
  },
  {
   "id": "r7_9700x",
   "name": "Ryzen 7 9700X",
   "priceMin": 204.16,
   "prices": [
-   {
-    "shop": "canadacomputers.com",
-    "price": 359.99,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/amd-desktop-processors/258320/amd-ryzen-7-9700x-8-core-16thread-4nm-zen-5-cpu-100-100001404wof.html?keyword=ryzen 7 9700x",
-    "inStock": true,
-    "lastSeen": "2026-11-22T04:43:17Z",
-    "product": "AMD Ryzen 7 9700X 8-Core/16Thread 4nm ZEN 5 CPU",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/240/381/258320/43129.jpg"
-   },
    {
     "shop": "amazon.co.uk",
     "price": 179.16,
@@ -1663,16 +1653,6 @@
     "lastSeen": "2026-11-23T05:19:51Z",
     "product": "AMD Ryzen 7 9700X (3.8 GHz / 5.5 GHz)",
     "image": "https://media.ldlc.com/r150/ld/products/00/06/14/41/LD0006144193.jpg"
-   },
-   {
-    "shop": "amazon.fr",
-    "price": 204.16,
-    "currency": "EUR",
-    "url": "https://www.amazon.fr/dp/B0D6NMDNNX?tag=fraym-21",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:45:38Z",
-    "product": "AMD Ryzen 7 9700X Processeur (8 Coeurs/16 Threads), 65W DTP, Socket AM5, Cache 40Mo, jusqu'à 5.5 GHz Fréquence Boost, Pas de Ventilateur",
-    "image": null
    },
    {
     "shop": "amazon.de",
@@ -1705,12 +1685,32 @@
     "image": "https://media.materiel.net/r250/products/MN0006158025.jpg"
    },
    {
+    "shop": "canadacomputers.com",
+    "price": 359.99,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/amd-desktop-processors/258320/amd-ryzen-7-9700x-8-core-16thread-4nm-zen-5-cpu-100-100001404wof.html?keyword=ryzen 7 9700x",
+    "inStock": true,
+    "lastSeen": "2026-11-24T03:48:22Z",
+    "product": "AMD Ryzen 7 9700X 8-Core/16Thread 4nm ZEN 5 CPU",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/240/381/258320/43129.jpg"
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 204.16,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B0D6NMDNNX?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-24T04:15:09Z",
+    "product": "AMD Ryzen 7 9700X Processeur (8 Coeurs/16 Threads), 65W DTP, Socket AM5, Cache 40Mo, jusqu'à 5.5 GHz Fréquence Boost, Pas de Ventilateur",
+    "image": null
+   },
+   {
     "shop": "amazon.es",
     "price": 205.78,
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B0D6NMDNNX?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:55:02Z",
+    "lastSeen": "2026-11-24T04:23:51Z",
     "product": "AMD Ryzen 7 9700X Procesador (8 núcleos/16 Threads) 65W DTP, Socket AM5, 40MB Caché, Reloj de Aumento máx. hasta 5.5 GHz, sin Ventilador",
     "image": null
    },
@@ -1720,13 +1720,13 @@
     "currency": "EUR",
     "url": "https://www.amazon.it/dp/B0D6NMDNNX?tag=fraym06-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:55:16Z",
+    "lastSeen": "2026-11-24T04:24:33Z",
     "product": "AMD Ryzen 7 9700X (8 Cores/16 Threads) 65W DTP, AM5 socket, 40MB Cache, Boost di Frequenza fino a 5.5 GHz max, senza ventole)",
     "image": null
    }
   ],
   "image": "images/cpus-r7_9700x.jpg",
-  "lastUpdated": "2026-11-23T17:55:16Z"
+  "lastUpdated": "2026-11-24T04:24:33Z"
  },
  {
   "id": "r9_9900x3d",
@@ -1742,16 +1742,6 @@
     "lastSeen": "2026-11-21T22:46:33Z",
     "product": "Procesor AMD Ryzen 9 9900X3D, 4.4 GHz, 128 MB, BOX (100-100001368WOF)",
     "image": "https://images.morele.net/i256/14744282_0_i256.jpg"
-   },
-   {
-    "shop": "canadacomputers.com",
-    "price": 799.99,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/amd-desktop-processors/267979/amd-ryzen-9-9900x3d-12-core-24thread-4nm-zen-5-cpu-100-100001368wof.html?keyword=ryzen 9 9900x3d",
-    "inStock": true,
-    "lastSeen": "2026-11-22T04:43:17Z",
-    "product": "AMD Ryzen 9 9900X3D 12-Core/24Thread 4nm ZEN 5 CPU",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/240/381/267979/42898.jpg"
    },
    {
     "shop": "ldlc.com",
@@ -1784,16 +1774,6 @@
     "image": null
    },
    {
-    "shop": "amazon.it",
-    "price": 628.67,
-    "currency": "EUR",
-    "url": "https://www.amazon.it/dp/B0DWGWN8GY?tag=fraym06-21",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:53:53Z",
-    "product": "AMD Processore Ryzen 9 9900X 3D, 12 Core/24 Thread Sbloccati, Architettura Zen 5, 140 Cache L2/L3, TDP 120W, Frequenza Boost fino a 5,5 GHz, Socket AM5, DDR5 & PCIe 5.0, Senza Dissipatore",
-    "image": null
-   },
-   {
     "shop": "materiel.net",
     "price": 659.95,
     "currency": "EUR",
@@ -1814,18 +1794,58 @@
     "image": "https://media.materiel.net/r250/products/MN0006225195.jpg"
    },
    {
+    "shop": "canadacomputers.com",
+    "price": 799.99,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/amd-desktop-processors/267979/amd-ryzen-9-9900x3d-12-core-24thread-4nm-zen-5-cpu-100-100001368wof.html?keyword=ryzen 9 9900x3d",
+    "inStock": true,
+    "lastSeen": "2026-11-24T03:48:22Z",
+    "product": "AMD Ryzen 9 9900X3D 12-Core/24Thread 4nm ZEN 5 CPU",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/240/381/267979/42898.jpg"
+   },
+   {
+    "shop": "amazon.it",
+    "price": 628.67,
+    "currency": "EUR",
+    "url": "https://www.amazon.it/dp/B0DWGWN8GY?tag=fraym06-21",
+    "inStock": true,
+    "lastSeen": "2026-11-24T04:13:04Z",
+    "product": "AMD Processore Ryzen 9 9900X 3D, 12 Core/24 Thread Sbloccati, Architettura Zen 5, 140 Cache L2/L3, TDP 120W, Frequenza Boost fino a 5,5 GHz, Socket AM5, DDR5 & PCIe 5.0, Senza Dissipatore",
+    "image": null
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 399.17,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B0DWGWN8GY?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-24T04:18:44Z",
+    "product": "AMD Ryzen™ 9 9900X3D avec Technologie 3D V-Cache™, 12 cœurs/24 Threads, 140 Mo de Cache, TDP 120 W, Socket AM5, fréquence Max jusqu'à 5,5 GHz, DDR5 et PCIe 5.0",
+    "image": null
+   },
+   {
+    "shop": "amazon.es",
+    "price": 400.82,
+    "currency": "EUR",
+    "url": "https://www.amazon.es/dp/B0DWGWN8GY?tag=fraym08-21",
+    "inStock": true,
+    "lastSeen": "2026-11-24T04:21:35Z",
+    "product": "AMD Ryzen 9 9900X 3D Procesador, 12 Núcleos/24 Hilos Desbloqueados, Arquitectura Zen 5, 140 Cache L2/L3, TDP 120W, hasta 5,5 GHz Frecuencia Boost, Socket AM5, DDR5 & PCIe 5.0, Sin disipador",
+    "image": null
+   },
+   {
     "shop": "amazon.com",
     "price": 508.95,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0DWGWN8GY?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-23T18:00:51Z",
+    "lastSeen": "2026-11-24T04:29:17Z",
     "product": "AMD Ryzen 9 9900X3D 12-Core Processor : Electronics",
     "image": null
    }
   ],
   "image": "images/cpus-r9_9900x3d.jpg",
-  "lastUpdated": "2026-11-23T18:00:51Z"
+  "lastUpdated": "2026-11-24T04:29:17Z"
  },
  {
   "id": "r5_7600",
@@ -1858,29 +1878,19 @@
     "currency": "EUR",
     "url": "https://www.amazon.it/dp/B0BMQJWBDM?tag=fraym06-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:53:13Z",
+    "lastSeen": "2026-11-24T04:22:45Z",
     "product": "Processore AMD Ryzen 5 7600 (scheda grafica integrata Radeon, 6 cores/12 threads, 65W TDP, AM5 Socket, 38MB cache, Boost di Frequenza fino a 5.1 GHz max, dissipatore ad aria \"Wraith prism Cooler\")",
     "image": null
    }
   ],
   "image": "images/cpus-r5_7600.jpg",
-  "lastUpdated": "2026-11-23T17:53:13Z"
+  "lastUpdated": "2026-11-24T04:22:45Z"
  },
  {
   "id": "r7_7700",
   "name": "Ryzen 7 7700",
   "priceMin": 181.16,
   "prices": [
-   {
-    "shop": "canadacomputers.com",
-    "price": 479.88,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/amd-desktop-processors/233959/amd-ryzen-7-7700-8-core-16-thread-5nm-wraith-prism-cooler-100-100000592box.html?keyword=ryzen 7 7700",
-    "inStock": false,
-    "lastSeen": "2026-11-22T04:43:17Z",
-    "product": "AMD Ryzen 7 7700 8-Core/16-Thread 5nm Wraith Prism Cooler",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/240/381/233959/31261.jpg"
-   },
    {
     "shop": "ldlc.com",
     "price": 339.95,
@@ -1962,12 +1972,22 @@
     "image": null
    },
    {
+    "shop": "canadacomputers.com",
+    "price": 479.88,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/amd-desktop-processors/233959/amd-ryzen-7-7700-8-core-16-thread-5nm-wraith-prism-cooler-100-100000592box.html?keyword=ryzen 7 7700",
+    "inStock": false,
+    "lastSeen": "2026-11-24T03:48:22Z",
+    "product": "AMD Ryzen 7 7700 8-Core/16-Thread 5nm Wraith Prism Cooler",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/240/381/233959/31261.jpg"
+   },
+   {
     "shop": "amazon.it",
     "price": 229.4,
     "currency": "EUR",
     "url": "https://www.amazon.it/dp/B0C3T39N6P?tag=fraym06-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:56:30Z",
+    "lastSeen": "2026-11-24T04:25:45Z",
     "product": "AMD Ryzen 7 7700 processore 3,8 GHz 32 MB L3",
     "image": null
    },
@@ -1977,39 +1997,19 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0C3T39N6P?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-23T18:01:09Z",
+    "lastSeen": "2026-11-24T04:29:34Z",
     "product": "AMD Ryzen 7 7700 Processor 3.8 GHz 32 MB L3 : Electronics",
     "image": null
    }
   ],
   "image": "images/cpus-r7_7700.jpg",
-  "lastUpdated": "2026-11-23T18:01:09Z"
+  "lastUpdated": "2026-11-24T04:29:34Z"
  },
  {
   "id": "r5_5500",
   "name": "Ryzen 5 5500",
   "priceMin": 83.49,
   "prices": [
-   {
-    "shop": "canadacomputers.com",
-    "price": 124.99,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/amd-desktop-processors/216442/amd-ryzen-5-5500-6-core-12-thread-7nm-processor-with-cooler-65w-100-100000457box.html?keyword=ryzen 5 5500",
-    "inStock": true,
-    "lastSeen": "2026-11-22T04:43:17Z",
-    "product": "AMD Ryzen 5 5500 6-Core/12-Thread 7nm Processor with Cooler 65W",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/240/381/216442/36139.jpg"
-   },
-   {
-    "shop": "canadacomputers.com",
-    "price": 179.99,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/amd-desktop-processors/251523/amd-ryzen-5-5500gt-6-core-12-thread-with-radeon-graphics-and-cooler-100-100001489box.html?keyword=ryzen 5 5500",
-    "inStock": false,
-    "lastSeen": "2026-11-22T04:43:17Z",
-    "product": "AMD Ryzen 5 5500GT 6-Core/12-Thread with Radeon Graphics and Cooler",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/240/381/251523/51211.jpg"
-   },
    {
     "shop": "ldlc.com",
     "price": 114.95,
@@ -2059,10 +2059,30 @@
     "lastSeen": "2026-11-23T17:11:56Z",
     "product": "AMD Ryzen 5 5500 - Version tray",
     "image": "https://media.materiel.net/r250/products/MN0006200436.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 124.99,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/amd-desktop-processors/216442/amd-ryzen-5-5500-6-core-12-thread-7nm-processor-with-cooler-65w-100-100000457box.html?keyword=ryzen 5 5500",
+    "inStock": true,
+    "lastSeen": "2026-11-24T03:48:22Z",
+    "product": "AMD Ryzen 5 5500 6-Core/12-Thread 7nm Processor with Cooler 65W",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/240/381/216442/36139.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 179.99,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/amd-desktop-processors/251523/amd-ryzen-5-5500gt-6-core-12-thread-with-radeon-graphics-and-cooler-100-100001489box.html?keyword=ryzen 5 5500",
+    "inStock": false,
+    "lastSeen": "2026-11-24T03:48:22Z",
+    "product": "AMD Ryzen 5 5500GT 6-Core/12-Thread with Radeon Graphics and Cooler",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/240/381/251523/51211.jpg"
    }
   ],
   "image": "images/cpus-r5_5500.jpg",
-  "lastUpdated": "2026-11-23T18:01:16Z"
+  "lastUpdated": "2026-11-24T04:29:39Z"
  },
  {
   "id": "i5_14400f",
@@ -2145,29 +2165,19 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0CQ3142LB?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:54:53Z",
+    "lastSeen": "2026-11-24T04:23:41Z",
     "product": "Intel Core i5-14400F LGA 1700 Processor BX8071514400F : Electronics",
     "image": null
    }
   ],
   "image": "images/cpus-i5_14400f.jpg",
-  "lastUpdated": "2026-11-23T17:54:53Z"
+  "lastUpdated": "2026-11-24T04:23:41Z"
  },
  {
   "id": "i3_14100f",
   "name": "Core i3-14100F",
   "priceMin": 95.94,
   "prices": [
-   {
-    "shop": "materiel.net",
-    "price": 114.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202312050184.html",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Intel Core i3-14100F",
-    "image": "https://media.materiel.net/r900/products/MN0006096883.jpg"
-   },
    {
     "shop": "morele.net",
     "price": 412.53,
@@ -2199,18 +2209,28 @@
     "image": "https://media.ldlc.com/r1600/ld/products/00/06/09/60/LD0006096030_0006096052.jpg"
    },
    {
+    "shop": "materiel.net",
+    "price": 114.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202312050184.html",
+    "inStock": true,
+    "lastSeen": "2026-11-24T03:48:22Z",
+    "product": "Intel Core i3-14100F",
+    "image": "https://media.materiel.net/r900/products/MN0006096883.jpg"
+   },
+   {
     "shop": "amazon.es",
-    "price": 124.39,
+    "price": 108.9,
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B0CQ1MN1Y2?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:45:32Z",
+    "lastSeen": "2026-11-24T04:16:02Z",
     "product": "Intel Core i3-14100F Procesador de Escritorio de 4 Núcleos de hasta 4.7 GHz, BX8071514100F",
     "image": null
    }
   ],
   "image": "images/cpus-i3_14100f.jpg",
-  "lastUpdated": "2026-11-23T17:45:32Z"
+  "lastUpdated": "2026-11-24T04:16:02Z"
  },
  {
   "id": "ultra7_265k",
@@ -2256,16 +2276,6 @@
   "name": "Ryzen 9 9950X",
   "priceMin": 489.79,
   "prices": [
-   {
-    "shop": "canadacomputers.com",
-    "price": 719.99,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/cpu/296349/amd-ryzen-9-9950x-16-core-32thread-4nm-zen-5-cpu-cpamd00343.html?keyword=ryzen 9 9950x",
-    "inStock": true,
-    "lastSeen": "2026-11-22T04:43:17Z",
-    "product": "AMD Ryzen 9 9950X 16-Core/32Thread 4nm ZEN 5 CPU",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/240/381/59457.jpg"
-   },
    {
     "shop": "ldlc.com",
     "price": 599.95,
@@ -2315,26 +2325,26 @@
     "lastSeen": "2026-11-23T17:11:56Z",
     "product": "AMD Ryzen 9 9950X",
     "image": "https://media.materiel.net/r250/products/MN0006159392.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 719.99,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/cpu/296349/amd-ryzen-9-9950x-16-core-32thread-4nm-zen-5-cpu-cpamd00343.html?keyword=ryzen 9 9950x",
+    "inStock": true,
+    "lastSeen": "2026-11-24T03:48:22Z",
+    "product": "AMD Ryzen 9 9950X 16-Core/32Thread 4nm ZEN 5 CPU",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/240/381/59457.jpg"
    }
   ],
   "image": "images/cpus-amd-ryzen-9-9950x.jpg",
-  "lastUpdated": "2026-11-23T17:11:56Z"
+  "lastUpdated": "2026-11-24T03:48:22Z"
  },
  {
   "id": "amd-ryzen-9-9900x",
   "name": "Ryzen 9 9900X",
   "priceMin": 268.07,
   "prices": [
-   {
-    "shop": "canadacomputers.com",
-    "price": 519.99,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/amd-desktop-processors/258536/amd-ryzen-9-9900x-12-core-24thread-4nm-zen-5-cpu-100-100000662wof.html?keyword=ryzen 9 9900x",
-    "inStock": false,
-    "lastSeen": "2026-11-22T04:43:17Z",
-    "product": "AMD Ryzen 9 9900X 12-Core/24Thread 4nm ZEN 5 CPU",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/240/381/258536/49127.jpg"
-   },
    {
     "shop": "ldlc.com",
     "price": 429.95,
@@ -2406,12 +2416,22 @@
     "image": "https://media.materiel.net/r250/products/MN0006231813.jpg"
    },
    {
+    "shop": "canadacomputers.com",
+    "price": 519.99,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/amd-desktop-processors/258536/amd-ryzen-9-9900x-12-core-24thread-4nm-zen-5-cpu-100-100000662wof.html?keyword=ryzen 9 9900x",
+    "inStock": false,
+    "lastSeen": "2026-11-24T03:48:22Z",
+    "product": "AMD Ryzen 9 9900X 12-Core/24Thread 4nm ZEN 5 CPU",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/240/381/258536/49127.jpg"
+   },
+   {
     "shop": "amazon.es",
     "price": 295.83,
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B0D6NN87T8?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:44:58Z",
+    "lastSeen": "2026-11-24T04:15:34Z",
     "product": "AMD Ryzen 9 9900X Procesador (Tarjeta gráfica Radeon integrada, 12 núcleos/24 Threads, 120W TDP, Socket AM5, 76MB Caché, Reloj de Aumento máx. hasta 5.6 GHz, sin Ventilador)",
     "image": null
    },
@@ -2421,23 +2441,23 @@
     "currency": "EUR",
     "url": "https://www.amazon.fr/dp/B0D6NN87T8?tag=fraym-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:46:06Z",
+    "lastSeen": "2026-11-24T04:18:24Z",
     "product": "AMD Ryzen 9 9900X Processeur (Radeon Graphique Intégré, 12 Coeurs/24 Threads, 120W TDP, Socket AM5, Cache 76Mo, jusqu'à 5.6 GHz Fréquence Boost, Pas de Ventilateur)",
     "image": null
    },
    {
     "shop": "amazon.it",
-    "price": 287.19,
+    "price": 289.42,
     "currency": "EUR",
     "url": "https://www.amazon.it/dp/B0D6NN87T8?tag=fraym06-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:50:54Z",
+    "lastSeen": "2026-11-24T04:20:53Z",
     "product": "AMD Ryzen 9 9900X (scheda grafica integrata Radeon, 12 Cores/24 Threads, 120W TDP, AM5 Socket, 76MB Cache, Boost di Frequenza fino a 5.6 GHz max, senza ventole)",
     "image": null
    }
   ],
   "image": "images/cpus-amd-ryzen-9-9900x.jpg",
-  "lastUpdated": "2026-11-23T17:57:17Z"
+  "lastUpdated": "2026-11-24T04:25:57Z"
  },
  {
   "id": "amd-ryzen-5-9600",
@@ -2504,16 +2524,6 @@
   "priceMin": 257.55,
   "prices": [
    {
-    "shop": "canadacomputers.com",
-    "price": 399.88,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/amd-desktop-processors/226991/amd-ryzen-9-7900x-12-core-24-thread-5nm-zen-4-cpu-100-100000589wof.html?keyword=ryzen 9 7900x",
-    "inStock": false,
-    "lastSeen": "2026-11-22T04:43:17Z",
-    "product": "AMD Ryzen 9 7900X 12-Core/24-Thread 5nm ZEN 4 CPU",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/240/381/226991/21838.jpg"
-   },
-   {
     "shop": "ldlc.com",
     "price": 439.95,
     "currency": "EUR",
@@ -2562,10 +2572,20 @@
     "lastSeen": "2026-11-23T17:11:56Z",
     "product": "AMD Ryzen 9 7900X",
     "image": "https://media.materiel.net/r900/products/MN0005997291.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 399.88,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/amd-desktop-processors/226991/amd-ryzen-9-7900x-12-core-24-thread-5nm-zen-4-cpu-100-100000589wof.html?keyword=ryzen 9 7900x",
+    "inStock": false,
+    "lastSeen": "2026-11-24T03:48:22Z",
+    "product": "AMD Ryzen 9 7900X 12-Core/24-Thread 5nm ZEN 4 CPU",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/240/381/226991/21838.jpg"
    }
   ],
   "image": "images/cpus-amd-ryzen-9-7900x.jpg",
-  "lastUpdated": "2026-11-23T17:11:56Z"
+  "lastUpdated": "2026-11-24T03:48:22Z"
  },
  {
   "id": "amd-ryzen-9-7900",
@@ -2633,16 +2653,6 @@
     "image": "https://media.materiel.net/r250/products/MN0006005625.jpg"
    },
    {
-    "shop": "amazon.es",
-    "price": 294.04,
-    "currency": "EUR",
-    "url": "https://www.amazon.es/dp/B0BMQK718H?tag=fraym08-21",
-    "inStock": true,
-    "lastSeen": "2026-11-23T17:44:10Z",
-    "product": "AMD Ryzen 9 7900 Procesador (tarjeta gráfica Radeon integrada, 12 núcleos/24 threads, 65W DTP, Socket AM5, 76MB Caché, Reloj de aumento máx. hasta 5.4 GHz, con ventilador Wraith Prism)",
-    "image": null
-   },
-   {
     "shop": "amazon.fr",
     "price": 316.67,
     "currency": "EUR",
@@ -2653,34 +2663,34 @@
     "image": null
    },
    {
+    "shop": "amazon.es",
+    "price": 294.04,
+    "currency": "EUR",
+    "url": "https://www.amazon.es/dp/B0BMQK718H?tag=fraym08-21",
+    "inStock": true,
+    "lastSeen": "2026-11-24T04:14:32Z",
+    "product": "AMD Ryzen 9 7900 Procesador (tarjeta gráfica Radeon integrada, 12 núcleos/24 threads, 65W DTP, Socket AM5, 76MB Caché, Reloj de aumento máx. hasta 5.4 GHz, con ventilador Wraith Prism)",
+    "image": null
+   },
+   {
     "shop": "amazon.it",
-    "price": 340.57,
+    "price": 342.25,
     "currency": "EUR",
     "url": "https://www.amazon.it/dp/B0BMQK718H?tag=fraym06-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:54:02Z",
+    "lastSeen": "2026-11-24T04:23:26Z",
     "product": "Processore AMD Ryzen 9 7900 (scheda grafica integrata Radeon, 12 cores/24 threads, 65W DTP, AM5 Socket, Cache 76MB, Boost di Frequenza fino a 5.4 GHz max, dissipatore ad aria \"Wraith prism Cooler\")",
     "image": null
    }
   ],
   "image": "images/cpus-amd-ryzen-9-7900.jpg",
-  "lastUpdated": "2026-11-23T17:54:02Z"
+  "lastUpdated": "2026-11-24T04:23:26Z"
  },
  {
   "id": "amd-ryzen-5-7500f",
   "name": "Ryzen 5 7500F",
   "priceMin": 127.54,
   "prices": [
-   {
-    "shop": "canadacomputers.com",
-    "price": 269.0,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/amd-desktop-processors/268934/amd-ryzen-5-7500f-6-core-12thread-5nm-with-wraith-stealth-cooler-100-100000597box.html?keyword=ryzen 5 7500f",
-    "inStock": false,
-    "lastSeen": "2026-11-22T04:43:17Z",
-    "product": "AMD Ryzen 5 7500F 6-Core/12Thread 5nm with Wraith Stealth Cooler",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/240/381/268934/72340.jpg"
-   },
    {
     "shop": "ldlc.com",
     "price": 179.95,
@@ -2732,12 +2742,22 @@
     "image": "https://media.materiel.net/r250/products/MN0006137968.jpg"
    },
    {
+    "shop": "canadacomputers.com",
+    "price": 269.0,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/amd-desktop-processors/268934/amd-ryzen-5-7500f-6-core-12thread-5nm-with-wraith-stealth-cooler-100-100000597box.html?keyword=ryzen 5 7500f",
+    "inStock": false,
+    "lastSeen": "2026-11-24T03:48:22Z",
+    "product": "AMD Ryzen 5 7500F 6-Core/12Thread 5nm with Wraith Stealth Cooler",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/240/381/268934/72340.jpg"
+   },
+   {
     "shop": "amazon.es",
-    "price": 217.72,
+    "price": 217.05,
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B0D1CK42PV?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:43:58Z",
+    "lastSeen": "2026-11-24T04:14:17Z",
     "product": "AMD Ryzen 5 7500F - 3,7 GHz - 6 núcleos - 12 Hilos - 32 MB de Memoria caché - Socket AM5 - OEM",
     "image": null
    },
@@ -2747,29 +2767,19 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0D1CK42PV?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-23T18:00:44Z",
+    "lastSeen": "2026-11-24T04:29:10Z",
     "product": "AMD Ryzen 5 7500F - 3.7GHz - 6 Cores - 12 Threads - 32MB Cache Memory - Socket AM5 - OEM : Electronics",
     "image": null
    }
   ],
   "image": "images/cpus-amd-ryzen-5-7500f.jpg",
-  "lastUpdated": "2026-11-23T18:00:44Z"
+  "lastUpdated": "2026-11-24T04:29:10Z"
  },
  {
   "id": "amd-ryzen-7-5700x",
   "name": "Ryzen 7 5700X",
   "priceMin": 153.26,
   "prices": [
-   {
-    "shop": "canadacomputers.com",
-    "price": 249.99,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/amd-desktop-processors/216440/amd-ryzen-7-5700x-8-core-16-thread-7nm-zen-3-processor-65w-100-100000926wof.html?keyword=ryzen 7 5700x",
-    "inStock": false,
-    "lastSeen": "2026-11-22T04:43:17Z",
-    "product": "AMD Ryzen 7 5700X 8-Core/16-Thread 7nm ZEN 3 Processor 65W",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/240/381/216440/65241.jpg"
-   },
    {
     "shop": "ldlc.com",
     "price": 189.95,
@@ -2851,18 +2861,28 @@
     "image": "https://media.materiel.net/r250/products/MN0005947435.jpg"
    },
    {
+    "shop": "canadacomputers.com",
+    "price": 249.99,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/amd-desktop-processors/216440/amd-ryzen-7-5700x-8-core-16-thread-7nm-zen-3-processor-65w-100-100000926wof.html?keyword=ryzen 7 5700x",
+    "inStock": false,
+    "lastSeen": "2026-11-24T03:48:22Z",
+    "product": "AMD Ryzen 7 5700X 8-Core/16-Thread 7nm ZEN 3 Processor 65W",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/240/381/216440/65241.jpg"
+   },
+   {
     "shop": "amazon.fr",
     "price": 181.99,
     "currency": "EUR",
     "url": "https://www.amazon.fr/dp/B09VCHQHZ6?tag=fraym-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:46:30Z",
+    "lastSeen": "2026-11-24T04:18:43Z",
     "product": "AMD Ryzen 7 5700X Processeur (8 Coeurs/16 Threads,65W TDP, Socket AM4, Cache 36Mo, jusqu'à 4.6 GHz Fréquence Boost, pas de Ventilateur)",
     "image": null
    }
   ],
   "image": "images/cpus-amd-ryzen-7-5700x.jpg",
-  "lastUpdated": "2026-11-23T17:46:30Z"
+  "lastUpdated": "2026-11-24T04:18:43Z"
  },
  {
   "id": "amd-ryzen-7-5700g",
@@ -2941,7 +2961,7 @@
    }
   ],
   "image": "images/cpus-amd-ryzen-7-5700g.jpg",
-  "lastUpdated": "2026-11-23T17:54:16Z"
+  "lastUpdated": "2026-11-24T04:23:09Z"
  },
  {
   "id": "amd-ryzen-5-3600x",
@@ -3013,7 +3033,7 @@
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B08G1MTSKR?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:46:55Z",
+    "lastSeen": "2026-11-24T04:17:18Z",
     "product": "AMD Ryzen 5 2600 3.9GHz 6Core AM4",
     "image": null
    },
@@ -3023,13 +3043,13 @@
     "currency": "EUR",
     "url": "https://www.amazon.it/dp/B08G1MTSKR?tag=fraym06-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:53:31Z",
+    "lastSeen": "2026-11-24T04:23:04Z",
     "product": "AMD Ryzen 5 2600 3.9GHz 6Core AM4",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-23T17:53:31Z"
+  "lastUpdated": "2026-11-24T04:23:04Z"
  },
  {
   "id": "amd-ryzen-7-1700",
@@ -3072,7 +3092,7 @@
     "currency": "EUR",
     "url": "https://www.amazon.it/dp/B06WP5YCX6?tag=fraym06-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:51:29Z",
+    "lastSeen": "2026-11-24T04:21:25Z",
     "product": "AMD Ryzen 7 1700 - Processore 3.0 GHz (3.7 GHz Turbo) - Socket AM4",
     "image": null
    },
@@ -3082,13 +3102,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B06WP5YCX6?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-23T18:01:06Z",
+    "lastSeen": "2026-11-24T04:29:31Z",
     "product": "AMD YD1700BBAEBOX Ryzen 7 1700 Processor with Wraith Spire LED Cooler : Electronics",
     "image": null
    }
   ],
   "image": "images/cpus-amd-ryzen-7-1700.jpg",
-  "lastUpdated": "2026-11-23T18:01:06Z"
+  "lastUpdated": "2026-11-24T04:29:31Z"
  },
  {
   "id": "amd-ryzen-5-1600",
@@ -3106,24 +3126,24 @@
     "image": null
    },
    {
-    "shop": "amazon.it",
-    "price": 79.97,
-    "currency": "EUR",
-    "url": "https://www.amazon.it/dp/B06XNRQHG4?tag=fraym06-21",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:55:40Z",
-    "product": "AMD Ryzen 5 1600 Processore 6 Core e 12 Thread 3.2GHz",
-    "image": null
-   },
-   {
     "shop": "alternate.fr",
     "price": 37.29,
     "currency": "EUR",
     "url": "https://www.alternate.fr/Bosch-Professional/1600A016N9-Dépôt/html/product/1593543",
     "inStock": false,
-    "lastSeen": "2026-11-23T17:11:56Z",
+    "lastSeen": "2026-11-24T03:48:22Z",
     "product": "Bosch 1600A016N9, Dépôt",
     "image": "https://www.alternate.fr/p/200x200/9/Bosch_1600A016N9__D_p_t@@9wzpgh0d.jpg"
+   },
+   {
+    "shop": "amazon.it",
+    "price": 79.97,
+    "currency": "EUR",
+    "url": "https://www.amazon.it/dp/B06XNRQHG4?tag=fraym06-21",
+    "inStock": true,
+    "lastSeen": "2026-11-24T04:13:29Z",
+    "product": "AMD Ryzen 5 1600 Processore 6 Core e 12 Thread 3.2GHz",
+    "image": null
    },
    {
     "shop": "amazon.com",
@@ -3131,13 +3151,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B06XNRQHG4?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-23T18:00:43Z",
+    "lastSeen": "2026-11-24T04:29:09Z",
     "product": "AMD Ryzen 5 1600 Processor with Wraith Spire Cooler (YD1600BBAEBOX) : Electronics",
     "image": null
    }
   ],
   "image": "images/cpus-amd-ryzen-5-1600.jpg",
-  "lastUpdated": "2026-11-23T18:00:43Z"
+  "lastUpdated": "2026-11-24T04:29:09Z"
  },
  {
   "id": "intel-core-i9-14900ks",
@@ -3153,26 +3173,6 @@
     "lastSeen": "2026-11-22T23:42:07Z",
     "product": "CPU Intel Core i9-14900KS / LGA1700 / Box 24 Cores / 32 Threads / 36M Cache",
     "image": null
-   },
-   {
-    "shop": "amazon.fr",
-    "price": 635.03,
-    "currency": "EUR",
-    "url": "https://www.amazon.fr/dp/B0CXHMTHWP?tag=fraym-21",
-    "inStock": true,
-    "lastSeen": "2026-11-22T23:45:00Z",
-    "product": "CPU Intel Core i9-14900KS / LGA1700 / Box 24 Cores / 32 Threads / 36M Cache",
-    "image": null
-   },
-   {
-    "shop": "materiel.net",
-    "price": 799.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202402220041.html",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Intel Core i9-14900KS",
-    "image": "https://media.materiel.net/r900/products/MN0006118118.jpg"
    },
    {
     "shop": "morele.net",
@@ -3205,12 +3205,32 @@
     "image": "https://media.ldlc.com/r1600/ld/products/00/06/11/72/LD0006117206.jpg"
    },
    {
+    "shop": "materiel.net",
+    "price": 799.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202402220041.html",
+    "inStock": true,
+    "lastSeen": "2026-11-24T03:48:22Z",
+    "product": "Intel Core i9-14900KS",
+    "image": "https://media.materiel.net/r900/products/MN0006118118.jpg"
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 634.26,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B0CXHMTHWP?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-24T04:14:52Z",
+    "product": "CPU Intel Core i9-14900KS / LGA1700 / Box 24 Cores / 32 Threads / 36M Cache",
+    "image": null
+   },
+   {
     "shop": "amazon.es",
-    "price": 641.56,
+    "price": 652.02,
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B0CXHMTHWP?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:54:11Z",
+    "lastSeen": "2026-11-24T04:23:01Z",
     "product": "CPU Intel Core i9-14900KS / LGA1700 / Box 24 Cores / 32 Threads / 36M Cache",
     "image": null
    },
@@ -3220,29 +3240,19 @@
     "currency": "EUR",
     "url": "https://www.amazon.it/dp/B0CXHMTHWP?tag=fraym06-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:54:55Z",
+    "lastSeen": "2026-11-24T04:24:13Z",
     "product": "CPU Intel Core i9-14900KS / LGA1700 / Box 24 Cores / 32 Threads / 36M Cache",
     "image": null
    }
   ],
   "image": "images/cpus-intel-core-i9-14900ks.jpg",
-  "lastUpdated": "2026-11-23T17:54:55Z"
+  "lastUpdated": "2026-11-24T04:24:13Z"
  },
  {
   "id": "intel-core-i9-14900kf",
   "name": "Core i9-14900KF",
   "priceMin": 441.63,
   "prices": [
-   {
-    "shop": "materiel.net",
-    "price": 589.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202309200085.html",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Intel Core i9-14900KF",
-    "image": "https://media.materiel.net/r900/products/MN0006075048.jpg"
-   },
    {
     "shop": "ldlc.com",
     "price": 589.95,
@@ -3272,15 +3282,25 @@
     "lastSeen": "2026-11-23T05:19:51Z",
     "product": "Procesor Intel Core i9-14900KF, 3.2 GHz, 36 MB, OEM (CM8071505094018)",
     "image": "https://images.morele.net/i256/13133239_1_i256.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 589.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202309200085.html",
+    "inStock": true,
+    "lastSeen": "2026-11-24T03:48:22Z",
+    "product": "Intel Core i9-14900KF",
+    "image": "https://media.materiel.net/r900/products/MN0006075048.jpg"
    }
   ],
   "image": "images/cpus-intel-core-i9-14900kf.jpg",
-  "lastUpdated": "2026-11-23T05:19:51Z"
+  "lastUpdated": "2026-11-24T03:48:22Z"
  },
  {
   "id": "intel-core-i7-14700kf",
   "name": "Core i7-14700KF",
-  "priceMin": 363.06,
+  "priceMin": 355.5,
   "prices": [
    {
     "shop": "ldlc.com",
@@ -3361,10 +3381,20 @@
     "lastSeen": "2026-11-23T17:11:56Z",
     "product": "Intel Core i7-14700KF",
     "image": "https://media.materiel.net/r250/products/MN0006075045.jpg"
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 355.5,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B0CGJC178L?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-24T04:15:31Z",
+    "product": "Intel Processeur Informatique Core™ i7-14700KF, bleu",
+    "image": null
    }
   ],
   "image": "images/cpus-intel-core-i7-14700kf.jpg",
-  "lastUpdated": "2026-11-23T17:11:56Z"
+  "lastUpdated": "2026-11-24T04:15:31Z"
  },
  {
   "id": "intel-core-i5-14600kf",
@@ -3492,7 +3522,7 @@
    }
   ],
   "image": "images/cpus-intel-core-i5-14500.jpg",
-  "lastUpdated": "2026-11-23T17:11:56Z"
+  "lastUpdated": "2026-11-24T03:48:22Z"
  },
  {
   "id": "intel-core-i9-13900kf",
@@ -3505,13 +3535,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0BG66JH7Q?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-23T06:01:41Z",
+    "lastSeen": "2026-11-24T04:14:01Z",
     "product": "Intel Core i9-13900KF Processor 36 MB Smart Cache Box : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-23T06:01:41Z"
+  "lastUpdated": "2026-11-24T04:14:01Z"
  },
  {
   "id": "intel-core-i7-13700f",
@@ -3583,13 +3613,13 @@
     "currency": "EUR",
     "url": "https://www.amazon.it/dp/B0BQ6CFDCX?tag=fraym06-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:46:39Z",
+    "lastSeen": "2026-11-24T04:17:02Z",
     "product": "Core I5-13500 2.50 GHZ Chip",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-23T17:46:39Z"
+  "lastUpdated": "2026-11-24T04:17:02Z"
  },
  {
   "id": "intel-core-i5-12400",
@@ -3676,16 +3706,6 @@
   "priceMin": 101.34,
   "prices": [
    {
-    "shop": "materiel.net",
-    "price": 89.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202112030059.html",
-    "inStock": false,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Intel Core i3 12100F",
-    "image": "https://media.materiel.net/r900/products/MN0005918118_1.jpg"
-   },
-   {
     "shop": "ldlc.com",
     "price": 89.95,
     "currency": "EUR",
@@ -3714,10 +3734,20 @@
     "lastSeen": "2026-11-23T05:19:51Z",
     "product": "Procesor Intel Core i3-12100F, 3.3 GHz, 12 MB, OEM (CM8071504651013)",
     "image": "https://images.morele.net/i256/9658409_0_i256.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 89.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202112030059.html",
+    "inStock": false,
+    "lastSeen": "2026-11-24T03:48:22Z",
+    "product": "Intel Core i3 12100F",
+    "image": "https://media.materiel.net/r900/products/MN0005918118_1.jpg"
    }
   ],
   "image": "images/cpus-intel-core-i3-12100f.jpg",
-  "lastUpdated": "2026-11-23T05:19:51Z"
+  "lastUpdated": "2026-11-24T03:48:22Z"
  },
  {
   "id": "intel-core-ultra-7-265kf",
@@ -3776,7 +3806,7 @@
    }
   ],
   "image": "images/cpus-intel-core-ultra-7-265kf.jpg",
-  "lastUpdated": "2026-11-23T17:57:27Z"
+  "lastUpdated": "2026-11-24T04:26:06Z"
  },
  {
   "id": "intel-core-ultra-5-245kf",
@@ -3876,13 +3906,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0CRG5CQ7R?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:54:14Z",
+    "lastSeen": "2026-11-24T04:23:07Z",
     "product": "Intel Xeon w7-2495X 24C/48T 2.50-4.80GHz Tray - PK8071305126600 : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-23T17:54:14Z"
+  "lastUpdated": "2026-11-24T04:23:07Z"
  },
  {
   "id": "xeonw52455x",
@@ -3905,7 +3935,7 @@
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B0C218RWYR?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:50:37Z",
+    "lastSeen": "2026-11-24T04:20:37Z",
     "product": "Intel Xeon w5-2455X 3200 4677 Caja",
     "image": null
    },
@@ -3915,29 +3945,19 @@
     "currency": "EUR",
     "url": "https://www.amazon.it/dp/B0C218RWYR?tag=fraym06-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:56:08Z",
+    "lastSeen": "2026-11-24T04:25:25Z",
     "product": "Intel Xeon w5-2455X 3200 4677 SCATOLA",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-23T17:56:08Z"
+  "lastUpdated": "2026-11-24T04:25:25Z"
  },
  {
   "id": "tr7980x",
   "name": "Ryzen Threadripper 7980X",
   "priceMin": 2286.29,
   "prices": [
-   {
-    "shop": "canadacomputers.com",
-    "price": 6699.0,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/amd-workstation-processors/251796/amd-ryzen-threadripper-7980x-64-core-128-thread-100-100001350wof.html?keyword=ryzen threadripper 7980x",
-    "inStock": true,
-    "lastSeen": "2026-11-22T04:43:17Z",
-    "product": "AMD Ryzen Threadripper 7980X 64-Core 128-Thread",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/240/6438/251796/83836.jpg"
-   },
    {
     "shop": "amazon.de",
     "price": 3023.53,
@@ -3947,16 +3967,6 @@
     "lastSeen": "2026-11-22T23:39:50Z",
     "product": "AMD Ryzen Threadripper 7980X",
     "image": null
-   },
-   {
-    "shop": "materiel.net",
-    "price": 5199.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202310180054.html",
-    "inStock": false,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "AMD Ryzen Threadripper 7980X",
-    "image": "https://media.materiel.net/r900/products/MN0006085180.jpg"
    },
    {
     "shop": "morele.net",
@@ -3999,12 +4009,32 @@
     "image": "https://media.ldlc.com/r1600/ld/products/00/06/08/12/LD0006081293_0006081346_0006081354.jpg"
    },
    {
+    "shop": "materiel.net",
+    "price": 5199.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202310180054.html",
+    "inStock": false,
+    "lastSeen": "2026-11-24T03:48:22Z",
+    "product": "AMD Ryzen Threadripper 7980X",
+    "image": "https://media.materiel.net/r900/products/MN0006085180.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 6699.0,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/amd-workstation-processors/251796/amd-ryzen-threadripper-7980x-64-core-128-thread-100-100001350wof.html?keyword=ryzen threadripper 7980x",
+    "inStock": true,
+    "lastSeen": "2026-11-24T03:48:22Z",
+    "product": "AMD Ryzen Threadripper 7980X 64-Core 128-Thread",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/240/6438/251796/83836.jpg"
+   },
+   {
     "shop": "amazon.fr",
     "price": 3435.82,
     "currency": "EUR",
     "url": "https://www.amazon.fr/dp/B0CK2R6DVS?tag=fraym-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:46:36Z",
+    "lastSeen": "2026-11-24T04:18:47Z",
     "product": "AMD Ryzen Threadrippe 7980X Processeur (64 Coeurs/128 Threads, 350W TDP, Socket SP6, Cache 320 MO, jusqu'à 5.1Ghz Fréquence Boost, Pas de Ventilateur)",
     "image": null
    },
@@ -4014,7 +4044,7 @@
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B0CK2R6DVS?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:53:32Z",
+    "lastSeen": "2026-11-24T04:22:29Z",
     "product": "AMD Ryzen Threadripper 7980X Procesador (64 núcleos/128 threads, 350W TDP, Socket SP6, 320MB Caché, Reloj de aumento máx. hasta 5,1 Ghz, sin ventilador)",
     "image": null
    },
@@ -4024,39 +4054,29 @@
     "currency": "EUR",
     "url": "https://www.amazon.it/dp/B0CK2R6DVS?tag=fraym06-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:55:17Z",
+    "lastSeen": "2026-11-24T04:24:34Z",
     "product": "Processore AMD Ryzen Threadripper 7980X (64 cores/128 threads, 350W TDP, SP6 Socket, 320MB cache, Boost di Frequenza fino a 5,1 Ghz max, senza ventole)",
     "image": null
    },
    {
     "shop": "amazon.com",
-    "price": 3123.05,
+    "price": 3866.99,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0CK2R6DVS?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:56:43Z",
+    "lastSeen": "2026-11-24T04:25:25Z",
     "product": "AMD Ryzen™ Threadripper™ 7980X 64-Core, 128-Thread Processor : Electronics",
     "image": null
    }
   ],
   "image": "images/cpus-tr7980x.jpg",
-  "lastUpdated": "2026-11-23T17:56:43Z"
+  "lastUpdated": "2026-11-24T04:25:25Z"
  },
  {
   "id": "tr7970x",
   "name": "Ryzen Threadripper 7970X",
   "priceMin": 970.55,
   "prices": [
-   {
-    "shop": "canadacomputers.com",
-    "price": 2999.0,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/amd-workstation-processors/254376/amd-ryzen-threadripper-7970x-32-core-64-thread-100-100001351wof.html?keyword=ryzen threadripper 7970x",
-    "inStock": false,
-    "lastSeen": "2026-11-22T04:43:17Z",
-    "product": "AMD Ryzen Threadripper 7970X 32-Core 64-Thread",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/240/6438/254376/15420.jpg"
-   },
    {
     "shop": "amazon.co.uk",
     "price": 834.67,
@@ -4066,16 +4086,6 @@
     "lastSeen": "2026-11-22T23:41:29Z",
     "product": "AMD Ryzensets Threadripper 7970X (32 cores/64 threads, 350W TDP, SP6 Socket, 160MB cache, up to 5,3 Ghz max boost, no cooler)",
     "image": null
-   },
-   {
-    "shop": "materiel.net",
-    "price": 2499.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202310180053.html",
-    "inStock": false,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "AMD Ryzen Threadripper 7970X",
-    "image": "https://media.materiel.net/r900/products/MN0006085176.jpg"
    },
    {
     "shop": "morele.net",
@@ -4108,12 +4118,32 @@
     "image": "https://media.ldlc.com/r1600/ld/products/00/06/08/12/LD0006081293_0006081346.jpg"
    },
    {
+    "shop": "materiel.net",
+    "price": 2499.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202310180053.html",
+    "inStock": false,
+    "lastSeen": "2026-11-24T03:48:22Z",
+    "product": "AMD Ryzen Threadripper 7970X",
+    "image": "https://media.materiel.net/r900/products/MN0006085176.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 2999.0,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/amd-workstation-processors/254376/amd-ryzen-threadripper-7970x-32-core-64-thread-100-100001351wof.html?keyword=ryzen threadripper 7970x",
+    "inStock": false,
+    "lastSeen": "2026-11-24T03:48:22Z",
+    "product": "AMD Ryzen Threadripper 7970X 32-Core 64-Thread",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/240/6438/254376/15420.jpg"
+   },
+   {
     "shop": "amazon.fr",
     "price": 2123.28,
     "currency": "EUR",
     "url": "https://www.amazon.fr/dp/B0CK2W3WFP?tag=fraym-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:44:32Z",
+    "lastSeen": "2026-11-24T04:17:15Z",
     "product": "AMD Ryzen Threadripper 7970X Processeur (32 Coeurs/64 Threads, 350W DTP, Socket SP6, Cache 160Mo, jusqu'à 5,3 Ghz Fréquence Boost, Pas de Ventilateur)",
     "image": null
    },
@@ -4123,7 +4153,7 @@
     "currency": "EUR",
     "url": "https://www.amazon.it/dp/B0CK2W3WFP?tag=fraym06-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:49:03Z",
+    "lastSeen": "2026-11-24T04:19:11Z",
     "product": "Processore AMD Ryzen Threadripper 7970X (32 cores/64 threads, 350W TDP, SP6 Socket, 160MB cache, Boost di Frequenza fino a 5,3 Ghz max, senza ventole)",
     "image": null
    },
@@ -4133,29 +4163,19 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0CK2W3WFP?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:55:38Z",
+    "lastSeen": "2026-11-24T04:24:22Z",
     "product": "AMD Ryzen™ Threadripper™ 7970X 32-Core, 64-Thread Processor : Electronics",
     "image": null
    }
   ],
   "image": "images/cpus-tr7970x.jpg",
-  "lastUpdated": "2026-11-23T17:55:38Z"
+  "lastUpdated": "2026-11-24T04:24:22Z"
  },
  {
   "id": "tr7960x",
   "name": "Ryzen Threadripper 7960X",
-  "priceMin": 971.76,
+  "priceMin": 953.69,
   "prices": [
-   {
-    "shop": "canadacomputers.com",
-    "price": 1599.0,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/amd-workstation-processors/253778/amd-ryzen-threadripper-7960x-24-core-48-thread-100-100001352wof.html?keyword=ryzen threadripper 7960x",
-    "inStock": true,
-    "lastSeen": "2026-11-22T04:43:17Z",
-    "product": "AMD Ryzen Threadripper 7960X 24-Core 48-Thread",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/240/6438/253778/08656.jpg"
-   },
    {
     "shop": "morele.net",
     "price": 6322.05,
@@ -4187,34 +4207,44 @@
     "image": null
    },
    {
+    "shop": "canadacomputers.com",
+    "price": 1599.0,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/amd-workstation-processors/253778/amd-ryzen-threadripper-7960x-24-core-48-thread-100-100001352wof.html?keyword=ryzen threadripper 7960x",
+    "inStock": true,
+    "lastSeen": "2026-11-24T03:48:22Z",
+    "product": "AMD Ryzen Threadripper 7960X 24-Core 48-Thread",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/240/6438/253778/08656.jpg"
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 1515.54,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B0CK2VGBSQ?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-24T04:16:18Z",
+    "product": "AMD Ryzen Threadripper 7960X Processeur (24 Coeurs/48 Threads, 350W TDP, Socket SP6, Cache 152Mo, jusqu'à 5,3 Ghz Fréquence Boost, Pas de Ventilateur)",
+    "image": null
+   },
+   {
     "shop": "amazon.com",
-    "price": 1049.5,
+    "price": 1029.99,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0CK2VGBSQ?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-23T18:00:52Z",
+    "lastSeen": "2026-11-24T04:29:18Z",
     "product": "AMD Ryzen™ Threadripper™ 7960X 24-Core, 48-Thread Processor : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-23T18:00:52Z"
+  "lastUpdated": "2026-11-24T04:29:18Z"
  },
  {
   "id": "trpro7995wx",
   "name": "Ryzen Threadripper PRO 7995WX",
   "priceMin": 8842.86,
   "prices": [
-   {
-    "shop": "canadacomputers.com",
-    "price": 12999.0,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/amd-workstation-processors/247259/amd-ryzen-threadripper-pro-7995wx-96-core-5nm-350w-str5-482mb-cache-100-100000884wof.html?keyword=ryzen threadripper pro 7995wx",
-    "inStock": true,
-    "lastSeen": "2026-11-22T04:43:17Z",
-    "product": "AMD Ryzen Threadripper PRO 7995WX 96-Core 5nm 350W sTR5 482MB Cache",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/240/6438/247259/66475.jpg"
-   },
    {
     "shop": "morele.net",
     "price": 47944.04,
@@ -4236,12 +4266,22 @@
     "image": "https://images.morele.net/i256/13145948_1_i256.jpg"
    },
    {
+    "shop": "canadacomputers.com",
+    "price": 12999.0,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/amd-workstation-processors/247259/amd-ryzen-threadripper-pro-7995wx-96-core-5nm-350w-str5-482mb-cache-100-100000884wof.html?keyword=ryzen threadripper pro 7995wx",
+    "inStock": true,
+    "lastSeen": "2026-11-24T03:48:22Z",
+    "product": "AMD Ryzen Threadripper PRO 7995WX 96-Core 5nm 350W sTR5 482MB Cache",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/240/6438/247259/66475.jpg"
+   },
+   {
     "shop": "amazon.fr",
     "price": 11312.91,
     "currency": "EUR",
     "url": "https://www.amazon.fr/dp/B0CK2ZQJZ6?tag=fraym-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:52:02Z",
+    "lastSeen": "2026-11-24T04:22:02Z",
     "product": "AMD Ryzen Threadripper Pro 7995WX Processeur (96 Coeurs/192 Threads, 350W TDP, Socket SP6, Cache 480Mo, jusqu'à 5.1Ghz Fréquence Boost, Pas de Ventilateur)",
     "image": null
    },
@@ -4251,13 +4291,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0CK2ZQJZ6?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-23T18:00:18Z",
+    "lastSeen": "2026-11-24T04:28:45Z",
     "product": "AMD Ryzen™ Threadripper™ PRO 7995WX 96-Core, 192-Thread Processor : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-23T18:00:18Z"
+  "lastUpdated": "2026-11-24T04:28:45Z"
  },
  {
   "id": "amd-ryzen-3-3100",
@@ -4290,7 +4330,7 @@
     "currency": "EUR",
     "url": "https://www.amazon.it/dp/B0876Y2TMZ?tag=fraym06-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:45:18Z",
+    "lastSeen": "2026-11-24T04:15:49Z",
     "product": "AMD Ryzen 3 3100 Processore (4C/8T, 18 MB Cache, 3.9 GHz Max Boost)",
     "image": null
    },
@@ -4300,13 +4340,13 @@
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B0876Y2TMZ?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:45:28Z",
+    "lastSeen": "2026-11-24T04:15:58Z",
     "product": "AMD Ryzen 3 3100 - Procesador (4C/8T, 18MB Cache, 3.9 GHz MAX Boost)",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-23T17:45:28Z"
+  "lastUpdated": "2026-11-24T04:15:58Z"
  },
  {
   "id": "amd-ryzen-3-3300x",
@@ -4339,7 +4379,7 @@
     "currency": "EUR",
     "url": "https://www.amazon.it/dp/B0876YS2T4?tag=fraym06-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:46:36Z",
+    "lastSeen": "2026-11-24T04:16:59Z",
     "product": "CPU AMD Ryzen 3 3300X AM4",
     "image": null
    },
@@ -4349,13 +4389,13 @@
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B0876YS2T4?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:53:00Z",
+    "lastSeen": "2026-11-24T04:21:59Z",
     "product": "AMD Ryzen 3 3300X - Procesador (4C/8T, 18 MB Cache, 4.3 GHz MAX Boost)",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-23T17:53:00Z"
+  "lastUpdated": "2026-11-24T04:21:59Z"
  },
  {
   "id": "amd-ryzen-5-5600g",
@@ -4425,13 +4465,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B07B428M7F?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-23T18:00:47Z",
+    "lastSeen": "2026-11-24T04:29:12Z",
     "product": "AMD Ryzen 7 2700X Processor with Wraith Prism LED Cooler - YD270XBGAFBOX, RGB : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-23T18:00:47Z"
+  "lastUpdated": "2026-11-24T04:29:12Z"
  },
  {
   "id": "amd-ryzen-7-3700x",
@@ -4449,28 +4489,28 @@
     "image": null
    },
    {
-    "shop": "amazon.it",
-    "price": 179.97,
-    "currency": "EUR",
-    "url": "https://www.amazon.it/dp/B084F5Q2QD?tag=fraym06-21",
-    "inStock": true,
-    "lastSeen": "2026-11-23T17:54:23Z",
-    "product": "AMD Ryzen 7 3700X - Processore 3.6 GHz 8 core - 16 filettature - 32 MB Cache - Socket AM4 - Box 100-100000071MPK",
-    "image": null
-   },
-   {
     "shop": "amazon.es",
     "price": 164.97,
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B084F5Q2QD?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:54:36Z",
+    "lastSeen": "2026-11-24T04:23:26Z",
     "product": "AMD Ryzen 7 3700X – Procesador 3,6 GHz, 8 núcleos, 16 roscas, 32 MB Cache – Socket AM4 – Box 100-100000071MPK",
+    "image": null
+   },
+   {
+    "shop": "amazon.it",
+    "price": 179.97,
+    "currency": "EUR",
+    "url": "https://www.amazon.it/dp/B084F5Q2QD?tag=fraym06-21",
+    "inStock": true,
+    "lastSeen": "2026-11-24T04:23:45Z",
+    "product": "AMD Ryzen 7 3700X - Processore 3.6 GHz 8 core - 16 filettature - 32 MB Cache - Socket AM4 - Box 100-100000071MPK",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-23T17:54:36Z"
+  "lastUpdated": "2026-11-24T04:23:45Z"
  },
  {
   "id": "amd-ryzen-7-3800x",
@@ -4493,29 +4533,19 @@
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B08669ZRP7?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:50:44Z",
+    "lastSeen": "2026-11-24T04:20:44Z",
     "product": "AMD Ryzen 7 3800X - 3.9 GHz - 8 c(16 roscas - 32 MB caché - Socket AM4)",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-23T17:50:44Z"
+  "lastUpdated": "2026-11-24T04:20:44Z"
  },
  {
   "id": "amd-ryzen-9-7900x3d",
   "name": "Ryzen 9 7900X3D",
-  "priceMin": 413.75,
+  "priceMin": 412.95,
   "prices": [
-   {
-    "shop": "amazon.fr",
-    "price": 493.02,
-    "currency": "EUR",
-    "url": "https://www.amazon.fr/dp/B0BTRRNK7T?tag=fraym-21",
-    "inStock": true,
-    "lastSeen": "2026-11-22T23:38:07Z",
-    "product": "AMD Ryzen 9 7900X3D Processeur avec La Technologie 3D V-Cache (Radeon Graphique Intégré, 12 Cœurs/24 Threads, 120W TDP, Socket AM5, 140M Cache, Jusqu'à 5,6 GHz Fréquence Boost, Pas de Ventilateur)",
-    "image": null
-   },
    {
     "shop": "morele.net",
     "price": 3132.2,
@@ -4527,44 +4557,44 @@
     "image": "https://images.morele.net/i256/12816587_0_i256.jpg"
    },
    {
+    "shop": "amazon.fr",
+    "price": 495.31,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B0BTRRNK7T?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-24T04:14:00Z",
+    "product": "AMD Ryzen 9 7900X3D Processeur avec La Technologie 3D V-Cache (Radeon Graphique Intégré, 12 Cœurs/24 Threads, 120W TDP, Socket AM5, 140M Cache, Jusqu'à 5,6 GHz Fréquence Boost, Pas de Ventilateur)",
+    "image": null
+   },
+   {
     "shop": "amazon.es",
-    "price": 417.17,
+    "price": 416.36,
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B0BTRRNK7T?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:46:09Z",
+    "lastSeen": "2026-11-24T04:16:35Z",
     "product": "AMD Ryzen 9 7900X3D Procesador con tecnología 3D V-Cache (tarjeta gráfica Radeon integrada, 12 núcleos/ 24threads,120W TDP,Socket AM5, 140MB Caché, Reloj de aumento máx. hasta 5.6 GHz, sin ventilador",
     "image": null
    },
    {
     "shop": "amazon.it",
-    "price": 413.75,
+    "price": 412.95,
     "currency": "EUR",
     "url": "https://www.amazon.it/dp/B0BTRRNK7T?tag=fraym06-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:55:08Z",
+    "lastSeen": "2026-11-24T04:24:25Z",
     "product": "Processore AMD Ryzen 9 7900X3D (scheda grafica integrata Radeon, 12 cores/ 24threads,120W TDP, Socket AM5, Cache 140MB, Boost di Frequenza fino a 5.6 GHz max, senza ventole)",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-23T17:55:08Z"
+  "lastUpdated": "2026-11-24T04:24:25Z"
  },
  {
   "id": "amd-ryzen-9-7950x",
   "name": "Ryzen 9 7950X",
   "priceMin": 710.93,
   "prices": [
-   {
-    "shop": "canadacomputers.com",
-    "price": 499.88,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/amd-desktop-processors/226990/amd-ryzen-9-7950x-16-core-32-thread-5nm-zen-4-cpu-100-100000514wof.html?keyword=ryzen 9 7950x",
-    "inStock": false,
-    "lastSeen": "2026-11-22T04:43:17Z",
-    "product": "AMD Ryzen 9 7950X 16-Core/32-Thread 5nm ZEN 4 CPU",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/240/381/226990/37403.jpg"
-   },
    {
     "shop": "morele.net",
     "price": 3056.99,
@@ -4574,10 +4604,20 @@
     "lastSeen": "2026-11-23T05:19:51Z",
     "product": "Procesor AMD Ryzen 9 7950X, 4.5 GHz, 64 MB, OEM (100-000000514)",
     "image": "https://images.morele.net/i256/13127996_0_i256.jpg"
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 499.88,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/amd-desktop-processors/226990/amd-ryzen-9-7950x-16-core-32-thread-5nm-zen-4-cpu-100-100000514wof.html?keyword=ryzen 9 7950x",
+    "inStock": false,
+    "lastSeen": "2026-11-24T03:48:22Z",
+    "product": "AMD Ryzen 9 7950X 16-Core/32-Thread 5nm ZEN 4 CPU",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/240/381/226990/37403.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-23T05:19:51Z"
+  "lastUpdated": "2026-11-24T03:48:22Z"
  },
  {
   "id": "i5_10400f",
@@ -4615,28 +4655,28 @@
     "image": null
    },
    {
-    "shop": "amazon.it",
-    "price": 149.97,
-    "currency": "EUR",
-    "url": "https://www.amazon.it/dp/B0BXGZHCK2?tag=fraym06-21",
-    "inStock": true,
-    "lastSeen": "2026-11-23T17:54:22Z",
-    "product": "Intel S1200 Core i5 10400F VASSOIO 6x2,9 65W GEN10",
-    "image": null
-   },
-   {
     "shop": "amazon.es",
     "price": 149.97,
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B0BXGZHCK2?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:54:37Z",
+    "lastSeen": "2026-11-24T04:23:27Z",
     "product": "Intel Bandeja S1200 Core i5 10400F 6x2,9 65W GEN10",
+    "image": null
+   },
+   {
+    "shop": "amazon.it",
+    "price": 149.97,
+    "currency": "EUR",
+    "url": "https://www.amazon.it/dp/B0BXGZHCK2?tag=fraym06-21",
+    "inStock": true,
+    "lastSeen": "2026-11-24T04:23:43Z",
+    "product": "Intel S1200 Core i5 10400F VASSOIO 6x2,9 65W GEN10",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-23T17:54:37Z"
+  "lastUpdated": "2026-11-24T04:23:43Z"
  },
  {
   "id": "i5_13400f",
@@ -4674,12 +4714,22 @@
     "image": null
    },
    {
+    "shop": "amazon.fr",
+    "price": 192.79,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B0BQ6BRL4T?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-24T04:13:18Z",
+    "product": "Intel CORE I5-13400F 2.50GHZ",
+    "image": null
+   },
+   {
     "shop": "amazon.es",
     "price": 182.86,
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B0BQ6BRL4T?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:50:55Z",
+    "lastSeen": "2026-11-24T04:20:54Z",
     "product": "INTEL I5-13400F caché de 20 m, hasta 4,60 GHz",
     "image": null
    },
@@ -4689,7 +4739,7 @@
     "currency": "EUR",
     "url": "https://www.amazon.it/dp/B0BQ6BRL4T?tag=fraym06-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:51:54Z",
+    "lastSeen": "2026-11-24T04:21:43Z",
     "product": "CORE I5-13400F 2.50GHZ",
     "image": null
    },
@@ -4699,13 +4749,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0BQ6BRL4T?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:54:23Z",
+    "lastSeen": "2026-11-24T04:23:17Z",
     "product": "Boxed INTEL I5-13400F 20M Cache, UP to 4.60GHZ : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-23T17:54:23Z"
+  "lastUpdated": "2026-11-24T04:23:17Z"
  },
  {
   "id": "i7_10700k",
@@ -4728,7 +4778,7 @@
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B086ML4XSB?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:53:22Z",
+    "lastSeen": "2026-11-24T04:22:22Z",
     "product": "Intel Core i7-10700K - Procesador de sobremesa (8 núcleos hasta 5,1 GHz Desbloqueado LGA1200 (Intel 400 Series Chipset) 125W (BX8070110700K)",
     "image": null
    },
@@ -4738,13 +4788,13 @@
     "currency": "EUR",
     "url": "https://www.amazon.it/dp/B086ML4XSB?tag=fraym06-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:55:22Z",
+    "lastSeen": "2026-11-24T04:24:39Z",
     "product": "Intel Core i7-10700K",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-23T17:55:22Z"
+  "lastUpdated": "2026-11-24T04:24:39Z"
  },
  {
   "id": "i7_11700k",
@@ -4767,7 +4817,7 @@
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B08TX5KL5T?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:47:01Z",
+    "lastSeen": "2026-11-24T04:17:23Z",
     "product": "Intel Core i7-11700K procesador 3,6 GHz 16 MB Smart Cache Caja",
     "image": null
    },
@@ -4777,29 +4827,19 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B08TX5KL5T?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-23T18:01:30Z",
+    "lastSeen": "2026-11-24T04:29:53Z",
     "product": "Intel CORE Processor I7-11700K 3.6GHZ (TURBE 5.00GHZ) Cache 16MB 8 NUCLEOS 16 Threads 11th GER LGA 1200 BX8070811700K : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-23T18:01:30Z"
+  "lastUpdated": "2026-11-24T04:29:53Z"
  },
  {
   "id": "i9_13900k",
   "name": "Core i9-13900K",
   "priceMin": 507.62,
   "prices": [
-   {
-    "shop": "materiel.net",
-    "price": 569.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202208310014.html",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Intel Core i9 13900K",
-    "image": "https://media.materiel.net/r900/products/MN0005983038.jpg"
-   },
    {
     "shop": "morele.net",
     "price": 2182.77,
@@ -4831,34 +4871,34 @@
     "image": "https://media.ldlc.com/r1600/ld/products/00/05/98/23/LD0005982300.jpg"
    },
    {
+    "shop": "materiel.net",
+    "price": 569.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202208310014.html",
+    "inStock": true,
+    "lastSeen": "2026-11-24T03:48:22Z",
+    "product": "Intel Core i9 13900K",
+    "image": "https://media.materiel.net/r900/products/MN0005983038.jpg"
+   },
+   {
     "shop": "amazon.com",
     "price": 599.99,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0BG67ZG5R?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:54:59Z",
+    "lastSeen": "2026-11-24T04:23:48Z",
     "product": "Intel Core i9 13900K CPU 4.3GHz (5.8GHz Turbo) 13th Gen LGA1700 24-Cores 32-Threads 36MB 125W UHD Graphic 770 Unlocked Retail Raptor Lake no Fan : Electronics",
     "image": null
    }
   ],
   "image": "images/cpus-i9_13900k.jpg",
-  "lastUpdated": "2026-11-23T17:54:59Z"
+  "lastUpdated": "2026-11-24T04:23:48Z"
  },
  {
   "id": "intel-core-i3-10100f",
   "name": "Core i3-10100F",
   "priceMin": 74.88,
   "prices": [
-   {
-    "shop": "amazon.fr",
-    "price": 183.03,
-    "currency": "EUR",
-    "url": "https://www.amazon.fr/dp/B08LKJPR5X?tag=fraym-21",
-    "inStock": true,
-    "lastSeen": "2026-11-22T14:30:00Z",
-    "product": "Procesador 1200 Intel Core i3 10100F - 3.6 Ghz - 4 núcleos - 8 hilos - 6 MB caché - Intel Optane Memory Supported - Caja",
-    "image": null
-   },
    {
     "shop": "morele.net",
     "price": 322.0,
@@ -4890,12 +4930,22 @@
     "image": null
    },
    {
+    "shop": "amazon.fr",
+    "price": 183.01,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B08LKJPR5X?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-24T04:12:38Z",
+    "product": "Procesador 1200 Intel Core i3 10100F - 3.6 Ghz - 4 núcleos - 8 hilos - 6 MB caché - Intel Optane Memory Supported - Caja",
+    "image": null
+   },
+   {
     "shop": "amazon.es",
     "price": 109.97,
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B08LKJPR5X?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:52:39Z",
+    "lastSeen": "2026-11-24T04:21:42Z",
     "product": "Intel CPU BX8070110100F Core i3-10100F / 3.6GHz / 6MB LGA1200 4C / 8T",
     "image": null
    },
@@ -4905,13 +4955,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B08LKJPR5X?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-23T18:01:07Z",
+    "lastSeen": "2026-11-24T04:29:33Z",
     "product": "Intel CPU BX8070110100F Core i3-10100F / 3.6GHz / 6MB LGA1200 4C / 8T : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-23T18:01:07Z"
+  "lastUpdated": "2026-11-24T04:29:33Z"
  },
  {
   "id": "intel-core-i5-11400f",
@@ -4944,7 +4994,7 @@
     "currency": "EUR",
     "url": "https://www.amazon.it/dp/B093Z4DCHQ?tag=fraym06-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:54:26Z",
+    "lastSeen": "2026-11-24T04:23:46Z",
     "product": "CPU/Core i5-11400F 2,60 GHZ LGA1200 Vassoio",
     "image": null
    },
@@ -4954,13 +5004,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B093Z4DCHQ?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:57:23Z",
+    "lastSeen": "2026-11-24T04:26:03Z",
     "product": "Intel CPU/Core i5-11400F 2.60GHZ LGA1200 Tray : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-23T17:57:23Z"
+  "lastUpdated": "2026-11-24T04:26:03Z"
  },
  {
   "id": "intel-core-i5-11600k",
@@ -4988,23 +5038,23 @@
     "image": null
    },
    {
-    "shop": "amazon.it",
-    "price": 279.97,
-    "currency": "EUR",
-    "url": "https://www.amazon.it/dp/B091CTD16T?tag=fraym06-21",
-    "inStock": true,
-    "lastSeen": "2026-11-23T17:52:32Z",
-    "product": "Intel Core i5 11600K 3.9Ghz 12MB LGA 1200 BOX",
-    "image": null
-   },
-   {
     "shop": "amazon.es",
     "price": 279.97,
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B091CTD16T?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:53:05Z",
+    "lastSeen": "2026-11-24T04:22:03Z",
     "product": "Intel Core i5-11600K procesador 3,9 GHz 12 MB Smart Cache Caja",
+    "image": null
+   },
+   {
+    "shop": "amazon.it",
+    "price": 279.97,
+    "currency": "EUR",
+    "url": "https://www.amazon.it/dp/B091CTD16T?tag=fraym06-21",
+    "inStock": true,
+    "lastSeen": "2026-11-24T04:22:17Z",
+    "product": "Intel Core i5 11600K 3.9Ghz 12MB LGA 1200 BOX",
     "image": null
    },
    {
@@ -5013,13 +5063,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B091CTD16T?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:54:06Z",
+    "lastSeen": "2026-11-24T04:22:59Z",
     "product": "INTEL CORP. BX8070811600K Core i5-11600K Processor : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-23T17:54:06Z"
+  "lastUpdated": "2026-11-24T04:22:59Z"
  },
  {
   "id": "intel-core-i7-10700",
@@ -5037,16 +5087,6 @@
     "image": null
    },
    {
-    "shop": "amazon.es",
-    "price": 259.97,
-    "currency": "EUR",
-    "url": "https://www.amazon.es/dp/B0883NPRL9?tag=fraym08-21",
-    "inStock": true,
-    "lastSeen": "2026-11-23T17:44:31Z",
-    "product": "Intel Core i7-10700 - Procesador (2,90 GHz; Casquillo LGA1200; Caja de 65 W)",
-    "image": null
-   },
-   {
     "shop": "amazon.fr",
     "price": 419.99,
     "currency": "EUR",
@@ -5057,12 +5097,22 @@
     "image": null
    },
    {
+    "shop": "amazon.es",
+    "price": 259.97,
+    "currency": "EUR",
+    "url": "https://www.amazon.es/dp/B0883NPRL9?tag=fraym08-21",
+    "inStock": true,
+    "lastSeen": "2026-11-24T04:15:04Z",
+    "product": "Intel Core i7-10700 - Procesador (2,90 GHz; Casquillo LGA1200; Caja de 65 W)",
+    "image": null
+   },
+   {
     "shop": "amazon.it",
     "price": 259.97,
     "currency": "EUR",
     "url": "https://www.amazon.it/dp/B0883NPRL9?tag=fraym06-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:55:26Z",
+    "lastSeen": "2026-11-24T04:24:43Z",
     "product": "Intel Core i7-10700 Box 2.9 Ghz, LGA1200",
     "image": null
    },
@@ -5072,13 +5122,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0883NPRL9?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-23T18:00:48Z",
+    "lastSeen": "2026-11-24T04:29:14Z",
     "product": "Intel CORE I7-10700 Processor 2.9GHZ Cache 16MB 8 NUCLEOS 16 Threads 10th Generation LGA 1200 BX8070110700 : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-23T18:00:48Z"
+  "lastUpdated": "2026-11-24T04:29:14Z"
  },
  {
   "id": "intel-core-i9-10900k",
@@ -5111,7 +5161,7 @@
     "currency": "EUR",
     "url": "https://www.amazon.it/dp/B0883NZC43?tag=fraym06-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T05:55:53Z",
+    "lastSeen": "2026-11-24T04:13:33Z",
     "product": "Intel BX8070110900K Core i9-10900K (fase base: 3,70GHz; attacco: LGA1200; 125 Watt) Box",
     "image": null
    },
@@ -5121,7 +5171,7 @@
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B0883NZC43?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:45:26Z",
+    "lastSeen": "2026-11-24T04:15:56Z",
     "product": "Intel Core i9-10900K (Punto de Base: 3,70 GHz; zócalo: LGA1200; 125 W) Box",
     "image": null
    },
@@ -5131,13 +5181,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0883NZC43?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-23T18:00:49Z",
+    "lastSeen": "2026-11-24T04:29:15Z",
     "product": "Intel BX8070110900K Core i9-10900K (Basistakt: 3,70GHz; Sockel: LGA1200; 125Watt) Box : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-23T18:00:49Z"
+  "lastUpdated": "2026-11-24T04:29:15Z"
  },
  {
   "id": "intel-core-i9-13900ks",
@@ -5170,7 +5220,7 @@
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B0BVKX19C3?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T05:55:22Z",
+    "lastSeen": "2026-11-24T04:13:16Z",
     "product": "Intel Core i9-13900KS 3,20 GHz (Raptor Lake) Sockel 1700 - Boxed",
     "image": null
    },
@@ -5180,7 +5230,7 @@
     "currency": "EUR",
     "url": "https://www.amazon.it/dp/B0BVKX19C3?tag=fraym06-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:52:37Z",
+    "lastSeen": "2026-11-24T04:22:20Z",
     "product": "CPU INTEL Raptor Lake i9-13900KS 3.2G (6.0G turbo) 24Core 36MB LGA1700",
     "image": null
    },
@@ -5190,13 +5240,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0BVKX19C3?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:55:46Z",
+    "lastSeen": "2026-11-24T04:24:30Z",
     "product": "Intel Core i9-13900KS 3.20 GHz (Raptor Lake) Sockel 1700 Boxed : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-23T17:55:46Z"
+  "lastUpdated": "2026-11-24T04:24:30Z"
  },
  {
   "id": "r9_5900x",
@@ -5209,13 +5259,13 @@
     "currency": "CAD",
     "url": "https://www.canadacomputers.com/en/amd-desktop-processors/258296/amd-ryzen-9-5900xt-16-core-32-thread-7nm-zen-3-processor-100-100001581wof.html?keyword=ryzen 9 5900x",
     "inStock": true,
-    "lastSeen": "2026-11-21T22:46:33Z",
+    "lastSeen": "2026-11-24T03:48:22Z",
     "product": "AMD Ryzen 9 5900XT 16-Core/32-Thread 7nm ZEN 3 Processor",
     "image": "https://ccimg.canadacomputers.com/Products/800x800/240/381/258296/60256.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-23T05:48:34Z"
+  "lastUpdated": "2026-11-24T03:48:22Z"
  },
  {
   "id": "amd-ryzen-5-2600x",
@@ -5281,16 +5331,6 @@
   "priceMin": 851.99,
   "prices": [
    {
-    "shop": "canadacomputers.com",
-    "price": 799.88,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/amd-desktop-processors/235993/amd-ryzen-9-7950x3d-16-core-32-thread-5nm-144mb-cache-zen-4-cpu-100-100000908wof.html?keyword=ryzen 9 7950x3d",
-    "inStock": false,
-    "lastSeen": "2026-11-21T22:46:33Z",
-    "product": "AMD Ryzen 9 7950X3D 16-Core/32-Thread 5nm 144MB Cache ZEN 4 CPU",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/240/381/235993/40744.jpg"
-   },
-   {
     "shop": "amazon.co.uk",
     "price": 732.71,
     "currency": "GBP",
@@ -5299,10 +5339,20 @@
     "lastSeen": "2026-11-23T05:51:14Z",
     "product": "AMD Ryzensets 9 7950X3D processor with 3D V-Cache technology (integrated graphics, 16 cores/32 threads, 120W TDP, AM5 socket, up to 5.7GHz boost frequency, no cooler)",
     "image": null
+   },
+   {
+    "shop": "canadacomputers.com",
+    "price": 799.88,
+    "currency": "CAD",
+    "url": "https://www.canadacomputers.com/en/amd-desktop-processors/235993/amd-ryzen-9-7950x3d-16-core-32-thread-5nm-144mb-cache-zen-4-cpu-100-100000908wof.html?keyword=ryzen 9 7950x3d",
+    "inStock": false,
+    "lastSeen": "2026-11-24T03:48:22Z",
+    "product": "AMD Ryzen 9 7950X3D 16-Core/32-Thread 5nm 144MB Cache ZEN 4 CPU",
+    "image": "https://ccimg.canadacomputers.com/Products/800x800/240/381/235993/40744.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-23T05:51:14Z"
+  "lastUpdated": "2026-11-24T03:48:22Z"
  },
  {
   "id": "amd-ryzen-9-5950x",
@@ -5368,12 +5418,12 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0BS98MM6K?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:57:19Z",
+    "lastSeen": "2026-11-24T04:25:59Z",
     "product": "Intel Core i5-13600K 6C+8c/20T 3.50-5.10GHz Tray - CM8071504821005 : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-23T17:57:19Z"
+  "lastUpdated": "2026-11-24T04:25:59Z"
  }
 ]

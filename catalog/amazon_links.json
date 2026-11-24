@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T18:01:54Z",
+ "generated": "2026-11-24T04:30:15Z",
  "markets": [
   "amazon.fr",
   "amazon.de",
@@ -9,8 +9,8 @@
   "amazon.com",
   "amazon.com.au"
  ],
- "nativeLinks": 2207,
- "onelinkLinks": 1258,
+ "nativeLinks": 2206,
+ "onelinkLinks": 1259,
  "note": "Liens d'affiliation Amazon pre-calcules vers la FICHE PRODUIT (/dp/<ASIN>), utilises par l'app quand aucune offre Amazon verifiee n'est disponible. ASIN valides sur la fiche Amazon elle-meme ; les marketplaces sans fiche recoivent le lien d'une marketplace voisine, OneLink redirigeant l'acheteur.",
  "items": {
   "gpus": {
@@ -10639,8 +10639,7 @@
     "asin": "B0BLSNX7R9",
     "product": "Lian Li UNI FAN SL120 V2 RGB PWM Lüfter, 3er Pack - 120mm, schwarz",
     "native": [
-     "amazon.fr",
-     "amazon.com"
+     "amazon.fr"
     ],
     "links": {
      "amazon.fr": "https://www.amazon.fr/dp/B0BLSNX7R9?tag=fraym-21",
@@ -10648,8 +10647,8 @@
      "amazon.es": "https://www.amazon.fr/dp/B0BLSNX7R9?tag=fraym-21",
      "amazon.it": "https://www.amazon.fr/dp/B0BLSNX7R9?tag=fraym-21",
      "amazon.co.uk": "https://www.amazon.fr/dp/B0BLSNX7R9?tag=fraym-21",
-     "amazon.com": "https://www.amazon.com/dp/B0BLSNX7R9?tag=fraym-20",
-     "amazon.com.au": "https://www.amazon.com/dp/B0BLSNX7R9?tag=fraym-20"
+     "amazon.com": "https://www.amazon.fr/dp/B0BLSNX7R9?tag=fraym-21",
+     "amazon.com.au": "https://www.amazon.fr/dp/B0BLSNX7R9?tag=fraym-21"
     }
    }
   }

@@ -108,7 +108,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202008200053.html",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:11:56Z",
+    "lastSeen": "2026-11-24T16:56:35Z",
     "product": "Gigabyte B550M Aorus Elite",
     "image": "https://media.materiel.net/r250/products/MN0005709120_1.jpg"
    },
@@ -118,7 +118,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202609250123.html",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:11:56Z",
+    "lastSeen": "2026-11-24T16:56:35Z",
     "product": "Gigabyte B550M X AORUS ELITE",
     "image": "https://media.materiel.net/r250/products/MN0006383195.jpg"
    },
@@ -128,13 +128,13 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202609250124.html",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:11:56Z",
+    "lastSeen": "2026-11-24T16:56:35Z",
     "product": "Gigabyte B550M X AORUS ELITE WIFI7",
     "image": "https://media.materiel.net/r250/products/MN0006383199.jpg"
    }
   ],
   "image": "images/mobos-b550-aorus.jpg",
-  "lastUpdated": "2026-11-23T17:11:56Z"
+  "lastUpdated": "2026-11-24T16:56:35Z"
  },
  {
   "id": "z790-edge",
@@ -173,12 +173,12 @@
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-24T04:22:11Z"
+  "lastUpdated": "2026-11-24T17:33:26Z"
  },
  {
   "id": "b760-pro",
   "name": "ASUS Prime B760-Plus",
-  "priceMin": 75.62,
+  "priceMin": 75.1,
   "prices": [
    {
     "shop": "canadacomputers.com",
@@ -189,16 +189,6 @@
     "lastSeen": "2026-11-22T14:00:15Z",
     "product": "ASUS TUF GAMING B760-PLUS WIFI Intel® B760 (14th, 13th, and 12thGen)",
     "image": "https://ccimg.canadacomputers.com/Products/800x800/125/1446/269550/59909.jpg"
-   },
-   {
-    "shop": "amazon.de",
-    "price": 75.62,
-    "currency": "EUR",
-    "url": "https://www.amazon.de/dp/B0BRYY69YD?tag=fraym03-21",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:48:46Z",
-    "product": "ASUS Prime B760-PLUS Gaming Mainboard Sockel Intel LGA 1700 | Intel B760, ATX, DDR5 Speicher, PCIe 5.0, 3X PCIe 4.0 M.2, Thunderbolt 4, Aura Sync",
-    "image": null
    },
    {
     "shop": "morele.net",
@@ -231,26 +221,6 @@
     "image": "https://images.morele.net/i256/12851885_8_i256.jpg"
    },
    {
-    "shop": "materiel.net",
-    "price": 159.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202307180093.html",
-    "inStock": true,
-    "lastSeen": "2026-11-23T17:11:56Z",
-    "product": "Asus PRIME B760-PLUS",
-    "image": "https://media.materiel.net/r250/products/MN0006055359.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 139.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202211250028.html",
-    "inStock": false,
-    "lastSeen": "2026-11-23T17:11:56Z",
-    "product": "Asus PRIME B760-PLUS D4",
-    "image": "https://media.materiel.net/r250/products/MN0006004739.jpg"
-   },
-   {
     "shop": "ldlc.com",
     "price": 159.95,
     "currency": "EUR",
@@ -271,48 +241,78 @@
     "image": "https://media.ldlc.com/r150/ld/products/00/06/00/25/LD0006002565.jpg"
    },
    {
+    "shop": "materiel.net",
+    "price": 159.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202307180093.html",
+    "inStock": true,
+    "lastSeen": "2026-11-24T16:56:35Z",
+    "product": "Asus PRIME B760-PLUS",
+    "image": "https://media.materiel.net/r250/products/MN0006055359.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 139.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202211250028.html",
+    "inStock": false,
+    "lastSeen": "2026-11-24T16:56:35Z",
+    "product": "Asus PRIME B760-PLUS D4",
+    "image": "https://media.materiel.net/r250/products/MN0006004739.jpg"
+   },
+   {
+    "shop": "amazon.de",
+    "price": 75.62,
+    "currency": "EUR",
+    "url": "https://www.amazon.de/dp/B0BRYY69YD?tag=fraym03-21",
+    "inStock": true,
+    "lastSeen": "2026-11-24T17:23:19Z",
+    "product": "ASUS Prime B760-PLUS Gaming Mainboard Sockel Intel LGA 1700 | Intel B760, ATX, DDR5 Speicher, PCIe 5.0, 3X PCIe 4.0 M.2, Thunderbolt 4, Aura Sync",
+    "image": null
+   },
+   {
     "shop": "amazon.es",
     "price": 101.64,
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B0BRYY69YD?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-24T04:14:38Z",
+    "lastSeen": "2026-11-24T17:26:04Z",
     "product": "ASUS Prime B760-PLUS | Intel B760, ATX, memoria DDR5, PCIe 5.0, 3X PCIe 4.0 M.2, Thunderbolt 4, Aura Sync",
     "image": null
    },
    {
     "shop": "amazon.fr",
-    "price": 98.89,
+    "price": 98.87,
     "currency": "EUR",
     "url": "https://www.amazon.fr/dp/B0BRYY69YD?tag=fraym-21",
     "inStock": true,
-    "lastSeen": "2026-11-24T04:22:54Z",
+    "lastSeen": "2026-11-24T17:33:48Z",
     "product": "ASUS PRIME B760-PLUS – Carte mère Intel B760 LGA 1700 ATX (DDR5, PCIe 5.0, 3 x PCIe 4.0 M.2, DisplayPort, VGA, HDMI, SATA 6 Gb/s, USB 3.2 Gen 2x2 Type-C, Thunderbolt USB4 support, Aura Sync RGB)",
     "image": null
    },
    {
     "shop": "amazon.com",
-    "price": 135.14,
+    "price": 135.27,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0BRYY69YD?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-24T04:25:11Z",
+    "lastSeen": "2026-11-24T17:35:47Z",
     "product": "ASUS Prime B760-PLUS (Socket 1700/B760/DDR5/S-ATA 6Gb/s/ATX) : Electronics",
     "image": null
    },
    {
     "shop": "amazon.it",
-    "price": 125.81,
+    "price": 75.1,
     "currency": "EUR",
     "url": "https://www.amazon.it/dp/B0BRYY69YD?tag=fraym06-21",
     "inStock": true,
-    "lastSeen": "2026-11-24T04:25:17Z",
+    "lastSeen": "2026-11-24T17:36:23Z",
     "product": "ASUS PRIME B760-PLUS, Scheda Madre Intel ATX, Slot DDR5, Nera | LGA 1700 ATX, PCIe 5.0, 3 slot M.2, Realtek 2.5Gb Ethernet, SATA 6 Gbps, USB 3.2 Gen 2 Type-C, Thunderbolt USB4, Aura Sync",
     "image": null
    }
   ],
   "image": "images/mobos-b760-pro.jpg",
-  "lastUpdated": "2026-11-24T04:25:17Z"
+  "lastUpdated": "2026-11-24T17:36:23Z"
  },
  {
   "id": "z890-carbon",
@@ -430,16 +430,6 @@
     "image": "https://media.materiel.net/r900/products/MN0006176632.jpg"
    },
    {
-    "shop": "amazon.es",
-    "price": 419.17,
-    "currency": "EUR",
-    "url": "https://www.amazon.es/dp/B0DJPTRFN6?tag=fraym08-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T04:20:13Z",
-    "product": "MSI MPG Z890 Carbon WiFi Gaming Motherboard (compatible con procesadores Intel Core Ultra Series 2, LGA 1851, DDR5, PCIe 5.0, M.2, SATA, LAN de 5 Gbps, USB tipo C, Wi-Fi 7, Bluetooth 5.4, Thunderbolt",
-    "image": null
-   },
-   {
     "shop": "amazon.fr",
     "price": 539.42,
     "currency": "EUR",
@@ -450,23 +440,33 @@
     "image": null
    },
    {
+    "shop": "amazon.es",
+    "price": 419.44,
+    "currency": "EUR",
+    "url": "https://www.amazon.es/dp/B0DJPTRFN6?tag=fraym08-21",
+    "inStock": true,
+    "lastSeen": "2026-11-24T17:31:45Z",
+    "product": "MSI MPG Z890 Carbon WiFi Gaming Motherboard (compatible con procesadores Intel Core Ultra Series 2, LGA 1851, DDR5, PCIe 5.0, M.2, SATA, LAN de 5 Gbps, USB tipo C, Wi-Fi 7, Bluetooth 5.4, Thunderbolt",
+    "image": null
+   },
+   {
     "shop": "amazon.com",
     "price": 319.99,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0DJPTRFN6?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-24T04:26:50Z",
+    "lastSeen": "2026-11-24T17:37:15Z",
     "product": "MSI MPG Z890 Carbon WiFi Gaming Motherboard (Support Core Ultra Series 2 Intel Processors, LGA 1851, DDR5, PCIe 5.0, M.2, SATA, 5Gbps LAN, USB Type-C, Wi-Fi 7, Bluetooth 5.4, Thunderbolt 4, ATX) : Electronics",
     "image": null
    }
   ],
   "image": "images/mobos-z890-carbon.jpg",
-  "lastUpdated": "2026-11-24T04:26:50Z"
+  "lastUpdated": "2026-11-24T17:37:15Z"
  },
  {
   "id": "b860-gaming",
   "name": "Gigabyte B860 Gaming X",
-  "priceMin": 138.88,
+  "priceMin": 167.28,
   "prices": [
    {
     "shop": "canadacomputers.com",
@@ -487,26 +487,6 @@
     "lastSeen": "2026-11-22T14:00:15Z",
     "product": "GIGABYTE B860 GAMING X WIFI6E Intel Core Ultra (Series 2) LGA 1851",
     "image": "https://ccimg.canadacomputers.com/Products/800x800/125/1446/268102/32672.jpg"
-   },
-   {
-    "shop": "amazon.de",
-    "price": 170.9,
-    "currency": "EUR",
-    "url": "https://www.amazon.de/dp/B0DQLLLHYY?tag=fraym03-21",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:48:13Z",
-    "product": "GIGABYTE B860 Gaming X WIFI6E Intel Core Ultra LGA 1851 Motherboard, ATX, DDR5, 3X M.2, PCIe 5.0, USB-C, WIFI6E, 2.5GbE LAN, EZ-Latch",
-    "image": null
-   },
-   {
-    "shop": "amazon.co.uk",
-    "price": 151.49,
-    "currency": "GBP",
-    "url": "https://www.amazon.co.uk/dp/B0DQLLLHYY?tag=fraym0a-21",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:50:49Z",
-    "product": "GIGABYTE B860 Gaming X WIFI6E Intel Core Ultra (Series 2) LGA 1851 Motherboard, ATX, DDR5, 3X M.2, PCIe 5.0, USB-C, WIFI6E, 2.5GbE LAN, EZ-Latch",
-    "image": null
    },
    {
     "shop": "morele.net",
@@ -539,12 +519,32 @@
     "image": "https://images.morele.net/i256/14456121_4_i256.jpg"
    },
    {
+    "shop": "amazon.co.uk",
+    "price": 151.49,
+    "currency": "GBP",
+    "url": "https://www.amazon.co.uk/dp/B0DQLLLHYY?tag=fraym0a-21",
+    "inStock": true,
+    "lastSeen": "2026-11-24T17:25:03Z",
+    "product": "GIGABYTE B860 Gaming X WIFI6E Intel Core Ultra (Series 2) LGA 1851 Motherboard, ATX, DDR5, 3X M.2, PCIe 5.0, USB-C, WIFI6E, 2.5GbE LAN, EZ-Latch",
+    "image": null
+   },
+   {
+    "shop": "amazon.de",
+    "price": 170.9,
+    "currency": "EUR",
+    "url": "https://www.amazon.de/dp/B0DQLLLHYY?tag=fraym03-21",
+    "inStock": true,
+    "lastSeen": "2026-11-24T17:30:52Z",
+    "product": "GIGABYTE B860 Gaming X WIFI6E Intel Core Ultra LGA 1851 Motherboard, ATX, DDR5, 3X M.2, PCIe 5.0, USB-C, WIFI6E, 2.5GbE LAN, EZ-Latch",
+    "image": null
+   },
+   {
     "shop": "amazon.es",
     "price": 187.36,
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B0DQLLLHYY?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-24T04:20:48Z",
+    "lastSeen": "2026-11-24T17:32:05Z",
     "product": "GIGABYTE B860 Gaming X WIFI6E Intel Core Ultra (Serie 2) LGA 1851 Placa base, ATX, DDR5, 3X M.2, PCIe 5.0, USB-C, WIFI6E, LAN de 2.5GbE, EZ-Latch",
     "image": null
    },
@@ -554,23 +554,13 @@
     "currency": "EUR",
     "url": "https://www.amazon.it/dp/B0DQLLLHYY?tag=fraym06-21",
     "inStock": true,
-    "lastSeen": "2026-11-24T04:23:06Z",
+    "lastSeen": "2026-11-24T17:34:18Z",
     "product": "GIGABYTE B860 Gaming X WIFI6E Intel Core Ultra (Series 2) LGA 1851 Scheda madre, ATX, DDR5, 3X M.2, PCIe 5.0, USB-C, WIFI6E, 2.5GbE LAN, EZ-Latch",
-    "image": null
-   },
-   {
-    "shop": "amazon.com",
-    "price": 149.99,
-    "currency": "USD",
-    "url": "https://www.amazon.com/dp/B0DQLLLHYY?tag=fraym-20",
-    "inStock": true,
-    "lastSeen": "2026-11-24T04:28:28Z",
-    "product": "GIGABYTE B860 Gaming X WIFI6E Intel Core Ultra (Series 2) LGA 1851 Motherboard, ATX, DDR5, 3X M.2, PCIe 5.0, USB-C, WIFI6E, 2.5GbE LAN, EZ-Latch : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-24T04:28:28Z"
+  "lastUpdated": "2026-11-24T17:34:18Z"
  },
  {
   "id": "x870e-aorus",
@@ -616,16 +606,6 @@
     "lastSeen": "2026-11-22T14:00:15Z",
     "product": "GIGABYTE X870E AORUS ELITE X3D ICE AMD AM5 LGA 1718 ATX Motherboard",
     "image": "https://ccimg.canadacomputers.com/Products/800x800/125/1445/280844/76308.jpg"
-   },
-   {
-    "shop": "amazon.co.uk",
-    "price": 212.45,
-    "currency": "GBP",
-    "url": "https://www.amazon.co.uk/dp/B0DGVBM73J?tag=fraym0a-21",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:45:38Z",
-    "product": "GIGABYTE X870E AORUS Elite WIFI7 AMD AM5 LGA 1718 Motherboard, ATX, DDR5, 4X M.2, PCIe 5.0, USB4, WIFI7, 2.5GbE LAN, EZ-Latch, 5-Year Warranty",
-    "image": null
    },
    {
     "shop": "morele.net",
@@ -708,36 +688,6 @@
     "image": "https://images.morele.net/i256/14134006_0_i256.jpg"
    },
    {
-    "shop": "materiel.net",
-    "price": 339.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202409110283.html",
-    "inStock": true,
-    "lastSeen": "2026-11-23T17:11:56Z",
-    "product": "Gigabyte X870E AORUS ELITE WIFI7",
-    "image": "https://media.materiel.net/r250/products/MN0006172063.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 369.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202505060116.html",
-    "inStock": true,
-    "lastSeen": "2026-11-23T17:11:56Z",
-    "product": "Gigabyte X870E AORUS ELITE WIFI7 ICE",
-    "image": "https://media.materiel.net/r250/products/MN0006244566.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 399.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202512050099.html",
-    "inStock": true,
-    "lastSeen": "2026-11-23T17:11:56Z",
-    "product": "Gigabyte X870E AORUS ELITE X3D",
-    "image": "https://media.materiel.net/r250/products/MN0006304241.jpg"
-   },
-   {
     "shop": "ldlc.com",
     "price": 339.95,
     "currency": "EUR",
@@ -768,16 +718,6 @@
     "image": "https://media.ldlc.com/r150/ld/products/00/06/30/26/LD0006302691.jpg"
    },
    {
-    "shop": "amazon.com",
-    "price": 229.0,
-    "currency": "USD",
-    "url": "https://www.amazon.com/dp/B0DGVBM73J?tag=fraym-20",
-    "inStock": true,
-    "lastSeen": "2026-11-24T04:23:51Z",
-    "product": "GIGABYTE X870E AORUS Elite WiFi 7 AMD AM5 LGA 1718 Motherboard, ATX, DDR5, 4X M.2, PCIe 5.0, USB4, 2.5GbE LAN, EZ-Latch : Electronics",
-    "image": null
-   },
-   {
     "shop": "amazon.it",
     "price": 288.88,
     "currency": "EUR",
@@ -786,10 +726,60 @@
     "lastSeen": "2026-11-24T04:24:19Z",
     "product": "GIGABYTE X870E AORUS Elite WIFI7 AM5 LGA 1718, ATX, DDR5, 4X M.2, PCIe 5.0, USB4, Wi-Fi 7, 2.5GbE LAN, EZ-Latch, Q-Flash",
     "image": null
+   },
+   {
+    "shop": "materiel.net",
+    "price": 339.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202409110283.html",
+    "inStock": true,
+    "lastSeen": "2026-11-24T16:56:35Z",
+    "product": "Gigabyte X870E AORUS ELITE WIFI7",
+    "image": "https://media.materiel.net/r250/products/MN0006172063.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 369.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202505060116.html",
+    "inStock": true,
+    "lastSeen": "2026-11-24T16:56:35Z",
+    "product": "Gigabyte X870E AORUS ELITE WIFI7 ICE",
+    "image": "https://media.materiel.net/r250/products/MN0006244566.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 399.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202512050099.html",
+    "inStock": true,
+    "lastSeen": "2026-11-24T16:56:35Z",
+    "product": "Gigabyte X870E AORUS ELITE X3D",
+    "image": "https://media.materiel.net/r250/products/MN0006304241.jpg"
+   },
+   {
+    "shop": "amazon.co.uk",
+    "price": 212.45,
+    "currency": "GBP",
+    "url": "https://www.amazon.co.uk/dp/B0DGVBM73J?tag=fraym0a-21",
+    "inStock": true,
+    "lastSeen": "2026-11-24T17:29:29Z",
+    "product": "GIGABYTE X870E AORUS Elite WIFI7 AMD AM5 LGA 1718 Motherboard, ATX, DDR5, 4X M.2, PCIe 5.0, USB4, WIFI7, 2.5GbE LAN, EZ-Latch, 5-Year Warranty",
+    "image": null
+   },
+   {
+    "shop": "amazon.com",
+    "price": 229.0,
+    "currency": "USD",
+    "url": "https://www.amazon.com/dp/B0DGVBM73J?tag=fraym-20",
+    "inStock": true,
+    "lastSeen": "2026-11-24T17:34:30Z",
+    "product": "GIGABYTE X870E AORUS Elite WiFi 7 AMD AM5 LGA 1718 Motherboard, ATX, DDR5, 4X M.2, PCIe 5.0, USB4, 2.5GbE LAN, EZ-Latch : Electronics",
+    "image": null
    }
   ],
   "image": "images/mobos-x870e-aorus.jpg",
-  "lastUpdated": "2026-11-24T04:24:19Z"
+  "lastUpdated": "2026-11-24T17:34:30Z"
  },
  {
   "id": "b650-steel",
@@ -812,13 +802,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0CXPXBF2M?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-24T04:24:53Z",
+    "lastSeen": "2026-11-24T17:35:31Z",
     "product": "ASRock B650 Steel Legend WiFi 6E AMD Socket AM5 Ryzen 9000 8000 and 7000 Series SATA3 M.2 DDR5 7200+(OC) 256GB SATA3 6.0 Gb/s ATX Motherboard BIOS Flashback : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-24T04:24:53Z"
+  "lastUpdated": "2026-11-24T17:35:31Z"
  },
  {
   "id": "a620m",
@@ -905,26 +895,6 @@
     "image": "https://images.morele.net/i256/600383378_0_i256.jpg"
    },
    {
-    "shop": "amazon.es",
-    "price": 126.25,
-    "currency": "EUR",
-    "url": "https://www.amazon.es/dp/B089D1YG11?tag=fraym08-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T04:13:36Z",
-    "product": "MSI mag B550M Pro-VDH WiFi - Placa Base",
-    "image": null
-   },
-   {
-    "shop": "amazon.fr",
-    "price": 111.36,
-    "currency": "EUR",
-    "url": "https://www.amazon.fr/dp/B089D1YG11?tag=fraym-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T04:18:09Z",
-    "product": "MSI B550M PRO-VDH WIFI Carte mère Micro-ATX, AM4 | Pour AMD Ryzen 3è gén, M.2, USB 3.2 Gen 1, USB Type-C pour panneau avant, Wi-Fi, HDMI",
-    "image": null
-   },
-   {
     "shop": "amazon.it",
     "price": 115.92,
     "currency": "EUR",
@@ -935,18 +905,28 @@
     "image": null
    },
    {
+    "shop": "amazon.fr",
+    "price": 111.52,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B089D1YG11?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-24T17:30:36Z",
+    "product": "MSI B550M PRO-VDH WIFI Carte mère Micro-ATX, AM4 | Pour AMD Ryzen 3è gén, M.2, USB 3.2 Gen 1, USB Type-C pour panneau avant, Wi-Fi, HDMI",
+    "image": null
+   },
+   {
     "shop": "amazon.com",
     "price": 89.99,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B089D1YG11?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-24T04:28:22Z",
+    "lastSeen": "2026-11-24T17:38:41Z",
     "product": "MSI B550M PRO-VDH WiFi ProSeries Motherboard (AMD Ryzen 5000, AM4, DDR4, PCIe 4.0, SATA 6Gb/s, M.2, USB 3.2 Gen 1, Wi-Fi, Bluetooth, D-SUB/HDMI/DP, Micro-ATX) : Electronics",
     "image": null
    }
   ],
   "image": "images/mobos-b550m-pro.jpg",
-  "lastUpdated": "2026-11-24T04:28:22Z"
+  "lastUpdated": "2026-11-24T17:38:41Z"
  },
  {
   "id": "z790-aorus",
@@ -1197,13 +1177,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0DJP9LCYC?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-24T04:26:49Z",
+    "lastSeen": "2026-11-24T17:37:13Z",
     "product": "GIGABYTE Z890 AORUS Master Intel Core Ultra (Series 2) LGA 1851 Motherboard, ATX, DDR5, 5X M.2, PCIe 5.0, Thunderbolt 4, WIFI7, 10GbE LAN, EZ-Latch : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-24T04:26:49Z"
+  "lastUpdated": "2026-11-24T17:37:13Z"
  },
  {
   "id": "b550-tuf",
@@ -1251,26 +1231,6 @@
     "image": "https://images.morele.net/i256/9515165_0_i256.jpg"
    },
    {
-    "shop": "materiel.net",
-    "price": 159.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202111190018.html",
-    "inStock": true,
-    "lastSeen": "2026-11-23T17:11:56Z",
-    "product": "Asus TUF GAMING B550-PLUS Wi-FI II",
-    "image": "https://media.materiel.net/r250/products/MN0005930319_1.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 124.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202005250069.html",
-    "inStock": false,
-    "lastSeen": "2026-11-23T17:11:56Z",
-    "product": "Asus TUF GAMING B550-PLUS",
-    "image": "https://media.materiel.net/r250/products/MN0005686345_1.jpg"
-   },
-   {
     "shop": "ldlc.com",
     "price": 159.95,
     "currency": "EUR",
@@ -1289,10 +1249,30 @@
     "lastSeen": "2026-11-24T03:48:22Z",
     "product": "ASUS TUF GAMING B550-PLUS",
     "image": "https://media.ldlc.com/r150/ld/products/00/05/68/67/LD0005686751_1.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 159.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202111190018.html",
+    "inStock": true,
+    "lastSeen": "2026-11-24T16:56:35Z",
+    "product": "Asus TUF GAMING B550-PLUS Wi-FI II",
+    "image": "https://media.materiel.net/r250/products/MN0005930319_1.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 124.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202005250069.html",
+    "inStock": false,
+    "lastSeen": "2026-11-24T16:56:35Z",
+    "product": "Asus TUF GAMING B550-PLUS",
+    "image": "https://media.materiel.net/r250/products/MN0005686345_1.jpg"
    }
   ],
   "image": "images/mobos-b550-tuf.jpg",
-  "lastUpdated": "2026-11-24T03:48:22Z"
+  "lastUpdated": "2026-11-24T16:56:35Z"
  },
  {
   "id": "b760-tuf",
@@ -1330,16 +1310,6 @@
     "image": "https://images.morele.net/i256/12851885_8_i256.jpg"
    },
    {
-    "shop": "materiel.net",
-    "price": 189.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202307180094.html",
-    "inStock": true,
-    "lastSeen": "2026-11-23T17:11:56Z",
-    "product": "Asus TUF GAMING B760-PLUS WIFI",
-    "image": "https://media.materiel.net/r250/products/MN0006055304.jpg"
-   },
-   {
     "shop": "ldlc.com",
     "price": 189.95,
     "currency": "EUR",
@@ -1360,12 +1330,22 @@
     "image": null
    },
    {
+    "shop": "materiel.net",
+    "price": 189.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202307180094.html",
+    "inStock": true,
+    "lastSeen": "2026-11-24T16:56:35Z",
+    "product": "Asus TUF GAMING B760-PLUS WIFI",
+    "image": "https://media.materiel.net/r250/products/MN0006055304.jpg"
+   },
+   {
     "shop": "amazon.es",
     "price": 140.4,
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B0BVKYWPFT?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-24T04:18:50Z",
+    "lastSeen": "2026-11-24T17:30:24Z",
     "product": "ASUS TUF Gaming B760-PLUS WiFi - Placa Base ATX Intel B760 (LGA 1700) con DDR5, Ranura PCIe 5.0, 3X PCIe 4.0 M.2, 12+1 DrMOS, 2.5Gb Ethernet, DisplayPort, HDMI, USB 3.2 Gen 2 Tipo C, Aura Sync",
     "image": null
    },
@@ -1375,13 +1355,13 @@
     "currency": "EUR",
     "url": "https://www.amazon.it/dp/B0BVKYWPFT?tag=fraym06-21",
     "inStock": true,
-    "lastSeen": "2026-11-24T04:24:30Z",
+    "lastSeen": "2026-11-24T17:35:39Z",
     "product": "ASUS TUF GAMING B760-PLUS WIFI, Scheda Madre Intel ATX, Slot DDR5, Nera | LGA 1700, PCIe 5.0, 3 Slot M.2, WiFi 6E, USB 3.2 Gen 2 Type-C",
     "image": null
    }
   ],
   "image": "images/mobos-b760-tuf.jpg",
-  "lastUpdated": "2026-11-24T04:24:30Z"
+  "lastUpdated": "2026-11-24T17:35:39Z"
  },
  {
   "id": "asus-prime-a520m-k",
@@ -1399,16 +1379,6 @@
     "image": null
    },
    {
-    "shop": "amazon.co.uk",
-    "price": 47.49,
-    "currency": "GBP",
-    "url": "https://www.amazon.co.uk/dp/B08DQB2GDN?tag=fraym0a-21",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:47:06Z",
-    "product": "ASUS PRIME A520M-K, AMD AM4 Motherboard",
-    "image": null
-   },
-   {
     "shop": "morele.net",
     "price": 289.75,
     "currency": "PLN",
@@ -1417,16 +1387,6 @@
     "lastSeen": "2026-11-23T17:11:56Z",
     "product": "Płyta główna Asus PRIME A520M-K",
     "image": "https://images.morele.net/i256/7070152_0_i256.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 69.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202010120032.html",
-    "inStock": true,
-    "lastSeen": "2026-11-23T17:11:56Z",
-    "product": "Asus PRIME A520M-K",
-    "image": "https://media.materiel.net/r250/products/MN0006136542.jpg"
    },
    {
     "shop": "ldlc.com",
@@ -1439,18 +1399,38 @@
     "image": "https://media.ldlc.com/r150/ld/products/00/05/73/54/LD0005735413_1.jpg"
    },
    {
+    "shop": "materiel.net",
+    "price": 69.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202010120032.html",
+    "inStock": true,
+    "lastSeen": "2026-11-24T16:56:35Z",
+    "product": "Asus PRIME A520M-K",
+    "image": "https://media.materiel.net/r250/products/MN0006136542.jpg"
+   },
+   {
+    "shop": "amazon.co.uk",
+    "price": 49.99,
+    "currency": "GBP",
+    "url": "https://www.amazon.co.uk/dp/B08DQB2GDN?tag=fraym0a-21",
+    "inStock": true,
+    "lastSeen": "2026-11-24T17:30:17Z",
+    "product": "ASUS PRIME A520M-K, AMD AM4 Motherboard",
+    "image": null
+   },
+   {
     "shop": "amazon.com",
-    "price": 98.67,
+    "price": 89.99,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B08DQB2GDN?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-24T04:23:27Z",
+    "lastSeen": "2026-11-24T17:34:04Z",
     "product": "ASUS Prime A520M-K, AMD AM4, MATX, 64GB DDR4, 2 X DIMM, D-SUB, HDMI, PCIE : Electronics",
     "image": null
    }
   ],
   "image": "images/mobos-asus-prime-a520m-k.jpg",
-  "lastUpdated": "2026-11-24T04:23:27Z"
+  "lastUpdated": "2026-11-24T17:34:04Z"
  },
  {
   "id": "gigabyte-a520m-s2h",
@@ -1478,16 +1458,6 @@
     "image": "https://images.morele.net/i256/600358994_0_i256.jpg"
    },
    {
-    "shop": "amazon.fr",
-    "price": 82.6,
-    "currency": "EUR",
-    "url": "https://www.amazon.fr/dp/B08F7HPJ4F?tag=fraym-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T04:17:10Z",
-    "product": "Gigabyte A520M S2H (AMD Ryzen AM4/MicroATX/4+3 Phases Digital PWM Gaming GbE LAN/NVMe PCIe 3.0 x 4 M.2/3 Interfaces/Q-Flash Plus/RGB Fusion 2.0/Carte mère)",
-    "image": null
-   },
-   {
     "shop": "amazon.es",
     "price": 95.86,
     "currency": "EUR",
@@ -1498,18 +1468,28 @@
     "image": null
    },
    {
+    "shop": "amazon.fr",
+    "price": 82.61,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B08F7HPJ4F?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-24T17:29:50Z",
+    "product": "Gigabyte A520M S2H (AMD Ryzen AM4/MicroATX/4+3 Phases Digital PWM Gaming GbE LAN/NVMe PCIe 3.0 x 4 M.2/3 Interfaces/Q-Flash Plus/RGB Fusion 2.0/Carte mère)",
+    "image": null
+   },
+   {
     "shop": "amazon.com",
     "price": 69.99,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B08F7HPJ4F?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-24T04:23:33Z",
+    "lastSeen": "2026-11-24T17:34:12Z",
     "product": "Gigabyte A520M S2H (AMD Ryzen AM4/MicroATX/4+3 Phases Digital PWM/Gigabyte Gaming GbE LAN/NVMe PCIe 3.0 x4 M.2/3 Display Interfaces/Q-Flash Plus/RGB Fusion 2.0/Motherboard) : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-24T04:23:33Z"
+  "lastUpdated": "2026-11-24T17:34:12Z"
  },
  {
   "id": "asrock-b450m-pro4",
@@ -1535,16 +1515,6 @@
     "image": "https://ccimg.canadacomputers.com/Products/800x800/125/1445/204636/58088.jpg"
    },
    {
-    "shop": "amazon.co.uk",
-    "price": 99.33,
-    "currency": "GBP",
-    "url": "https://www.amazon.co.uk/dp/B089HFR9CX?tag=fraym0a-21",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:45:34Z",
-    "product": "ASUS ROG Strix B550-F Gaming AMD AM4 ATX Gaming Motherboard | PCIe® 4.0, 12+1 power stages, DDR4, Intel 2.5GB LAN, Dual M.2, ASUS Optimem II, SATA 6 Gbps, USB 3.2 Gen 2, Aura Sync RGB",
-    "image": null
-   },
-   {
     "shop": "amazon.de",
     "price": 105.04,
     "currency": "EUR",
@@ -1553,16 +1523,6 @@
     "lastSeen": "2026-11-23T05:50:28Z",
     "product": "ASUS ROG Strix B550-F Gaming Mainboard Sockel AM4 | ATX, Ryzen, PCIe 4.0, Intel 2,5 Gbit/s-Ethernet, 2x M.2 mit Kühlern, SATA 6Gbit/s, USB 3.2 Gen 2, Aura Sync",
     "image": null
-   },
-   {
-    "shop": "materiel.net",
-    "price": 189.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202111190020.html",
-    "inStock": true,
-    "lastSeen": "2026-11-23T17:11:56Z",
-    "product": "Asus ROG STRIX B550-F GAMING WiFi II",
-    "image": "https://media.materiel.net/r250/products/MN0005915083_1.jpg"
    },
    {
     "shop": "morele.net",
@@ -1605,44 +1565,54 @@
     "image": null
    },
    {
+    "shop": "materiel.net",
+    "price": 189.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202111190020.html",
+    "inStock": true,
+    "lastSeen": "2026-11-24T16:56:35Z",
+    "product": "Asus ROG STRIX B550-F GAMING WiFi II",
+    "image": "https://media.materiel.net/r250/products/MN0005915083_1.jpg"
+   },
+   {
+    "shop": "amazon.it",
+    "price": 192.0,
+    "currency": "EUR",
+    "url": "https://www.amazon.it/dp/B089HFR9CX?tag=fraym06-21",
+    "inStock": true,
+    "lastSeen": "2026-11-24T17:23:55Z",
+    "product": "ASUS ROG STRIX B550-F GAMING, Scheda Madre AMD ATX, Slot DDR4, Nera | Socket AM4, DDR4, PCI 4.0, LAN Intel 2.5Gb, 2xM.2,ASUS Optimem II, USB 3.2 Gen 2, Aura Sync RGB",
+    "image": null
+   },
+   {
+    "shop": "amazon.co.uk",
+    "price": 99.33,
+    "currency": "GBP",
+    "url": "https://www.amazon.co.uk/dp/B089HFR9CX?tag=fraym0a-21",
+    "inStock": true,
+    "lastSeen": "2026-11-24T17:25:37Z",
+    "product": "ASUS ROG Strix B550-F Gaming AMD AM4 ATX Gaming Motherboard | PCIe® 4.0, 12+1 power stages, DDR4, Intel 2.5GB LAN, Dual M.2, ASUS Optimem II, SATA 6 Gbps, USB 3.2 Gen 2, Aura Sync RGB",
+    "image": null
+   },
+   {
     "shop": "amazon.com",
-    "price": 198.71,
+    "price": 255.75,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B089HFR9CX?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-24T04:25:01Z",
+    "lastSeen": "2026-11-24T17:35:38Z",
     "product": "ASUS ROG Strix B550-F Gaming Motherboard Gaming ATX, AMD B550, Socket AM4, DDR4, PCI 4.0, Intel 2.5GB LAN, 2xM.2, ASUS Optimem II, USB 3.2 Gen 2, Aura Sync RGB, Black : Electronics",
     "image": null
    }
   ],
   "image": "images/mobos-asus-rog-strix-b550-f.jpg",
-  "lastUpdated": "2026-11-24T04:25:01Z"
+  "lastUpdated": "2026-11-24T17:35:38Z"
  },
  {
   "id": "asus-tuf-b650-plus",
   "name": "ASUS TUF Gaming B650-Plus WiFi",
   "priceMin": 115.04,
   "prices": [
-   {
-    "shop": "amazon.de",
-    "price": 115.04,
-    "currency": "EUR",
-    "url": "https://www.amazon.de/dp/B0BHJKR3BV?tag=fraym03-21",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:46:39Z",
-    "product": "ASUS TUF GAMING B650-PLUS WIFI Mainboard Sockel AMD AM5 | Ryzen 7000, ATX, PCIe 5.0, DDR5-Speicher, 14 Power Stages, USB 3.2 Gen 2x2 Typ-C, WiFi6, Aura Sync",
-    "image": null
-   },
-   {
-    "shop": "materiel.net",
-    "price": 184.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202210070067.html",
-    "inStock": true,
-    "lastSeen": "2026-11-23T17:11:56Z",
-    "product": "Asus TUF GAMING B650-PLUS WIFI",
-    "image": "https://media.materiel.net/r250/products/MN0005986140.jpg"
-   },
    {
     "shop": "morele.net",
     "price": 639.0,
@@ -1684,12 +1654,32 @@
     "image": null
    },
    {
+    "shop": "materiel.net",
+    "price": 184.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202210070067.html",
+    "inStock": true,
+    "lastSeen": "2026-11-24T16:56:35Z",
+    "product": "Asus TUF GAMING B650-PLUS WIFI",
+    "image": "https://media.materiel.net/r250/products/MN0005986140.jpg"
+   },
+   {
+    "shop": "amazon.de",
+    "price": 115.04,
+    "currency": "EUR",
+    "url": "https://www.amazon.de/dp/B0BHJKR3BV?tag=fraym03-21",
+    "inStock": true,
+    "lastSeen": "2026-11-24T17:29:58Z",
+    "product": "ASUS TUF GAMING B650-PLUS WIFI Mainboard Sockel AMD AM5 | Ryzen 7000, ATX, PCIe 5.0, DDR5-Speicher, 14 Power Stages, USB 3.2 Gen 2x2 Typ-C, WiFi6, Aura Sync",
+    "image": null
+   },
+   {
     "shop": "amazon.it",
     "price": 122.94,
     "currency": "EUR",
     "url": "https://www.amazon.it/dp/B0BHJKR3BV?tag=fraym06-21",
     "inStock": true,
-    "lastSeen": "2026-11-24T04:19:20Z",
+    "lastSeen": "2026-11-24T17:31:01Z",
     "product": "ASUS TUF GAMING B650-PLUS WIFI, Scheda Madre AMD ATX, Slot DDR5, Nera | AM5, Ryzen 9000/8000/7000, AMD B650, DDR5, 4xPCI 4.0, WiFi 6E (802.11ax), 2.5Gb Lan, 3xM.2, 4xSATA 6GB/s, Aura Sync RGB",
     "image": null
    },
@@ -1699,13 +1689,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0BHJKR3BV?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-24T04:28:19Z",
+    "lastSeen": "2026-11-24T17:38:38Z",
     "product": "ASUS TUF Gaming B650-PLUS WiFi Motherboard Socket AMD AM5 (Ryzen 7000, ATX, PCIe 5.0, DDR5 Memory, 14 Power Stage, USB 3.1 Gen 2 x 2 Type-C, WiFi6, Aura Sync) : Electronics",
     "image": null
    }
   ],
   "image": "images/mobos-asus-tuf-b650-plus.jpg",
-  "lastUpdated": "2026-11-24T04:28:19Z"
+  "lastUpdated": "2026-11-24T17:38:38Z"
  },
  {
   "id": "asus-rog-strix-b650e-f",
@@ -1738,13 +1728,13 @@
     "currency": "EUR",
     "url": "https://www.amazon.it/dp/B0BHHTJZM9?tag=fraym06-21",
     "inStock": true,
-    "lastSeen": "2026-11-24T04:22:23Z",
+    "lastSeen": "2026-11-24T17:33:37Z",
     "product": "ASUS ROG STRIX B650E-F GAMING WIFI, Scheda Madre AMD ATX, Slot DDR5, Nera | AM5, Ryzen 9000/8000/7000, AMD B650, DDR5, PCI 5.0, WiFi 6E (802.11ax), 2.5Gb Lan, 3xM.2, 4xSATA 6GB/s, Aura Sync RGB",
     "image": null
    }
   ],
   "image": "images/mobos-asus-rog-strix-b650e-f.jpg",
-  "lastUpdated": "2026-11-24T04:22:23Z"
+  "lastUpdated": "2026-11-24T17:33:37Z"
  },
  {
   "id": "msi-mpg-b650-edge",
@@ -1779,36 +1769,6 @@
     "lastSeen": "2026-11-22T23:11:16Z",
     "product": "ASUS PRIME X870-P WIFI AMD AM5 X870 ATX motherboard",
     "image": "https://ccimg.canadacomputers.com/Products/800x800/125/1445/262949/10511.jpg"
-   },
-   {
-    "shop": "amazon.de",
-    "price": 151.25,
-    "currency": "EUR",
-    "url": "https://www.amazon.de/dp/B0DGQ6RGD6?tag=fraym03-21",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:47:26Z",
-    "product": "ASUS Prime X870-P WiFi Mainboard Sockel AM5 | AMD, ATX, PCIe 5.0, DDR5, 14+2+1 Power Stages, 4X M.2, WiFi 7, 2,5Gb Ethernet, USB-C 40Gbps",
-    "image": null
-   },
-   {
-    "shop": "materiel.net",
-    "price": 279.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202409020091.html",
-    "inStock": true,
-    "lastSeen": "2026-11-23T17:11:56Z",
-    "product": "Asus PRIME X870-P WIFI",
-    "image": "https://media.materiel.net/r250/products/MN0006167977.jpg"
-   },
-   {
-    "shop": "amazon.es",
-    "price": 160.32,
-    "currency": "EUR",
-    "url": "https://www.amazon.es/dp/B0DGQ6RGD6?tag=fraym08-21",
-    "inStock": true,
-    "lastSeen": "2026-11-23T17:49:14Z",
-    "product": "Asus Placa Base Prime x870-p WiFi ATX am5 | Socket AM5, PCIe 5.0 x16 para GPU Nueva Generación, 4 ranuras M.2, WiFi 7, Q-Antenna, Ranura PCIe Q-Release",
-    "image": null
    },
    {
     "shop": "morele.net",
@@ -1871,16 +1831,6 @@
     "image": null
    },
    {
-    "shop": "amazon.com",
-    "price": 262.69,
-    "currency": "USD",
-    "url": "https://www.amazon.com/dp/B0DGQ6RGD6?tag=fraym-20",
-    "inStock": true,
-    "lastSeen": "2026-11-24T04:19:05Z",
-    "product": "ASUS Prime X870-P WIFI AMD X870 AM5 Socket ATX | AMD, ATX, PCIe 5.0, DDR5, 14+2+1 Power Stages, 4X M.2, WiFi 7, 2.5Gb Ethernet, USB-C 40Gbps : Electronics",
-    "image": null
-   },
-   {
     "shop": "amazon.it",
     "price": 196.71,
     "currency": "EUR",
@@ -1889,10 +1839,50 @@
     "lastSeen": "2026-11-24T04:21:27Z",
     "product": "ASUS PRIME X870-P WIFI, Scheda Madre AMD ATX, Slot DDR5, Nera | Socket AM5, PCIe 5.0 x16 per GPU Nuova Generazione, 4 slot M.2, WiFi 7, Q-Antenna, Slot PCIe Q-Release",
     "image": null
+   },
+   {
+    "shop": "materiel.net",
+    "price": 279.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202409020091.html",
+    "inStock": true,
+    "lastSeen": "2026-11-24T16:56:35Z",
+    "product": "Asus PRIME X870-P WIFI",
+    "image": "https://media.materiel.net/r250/products/MN0006167977.jpg"
+   },
+   {
+    "shop": "amazon.es",
+    "price": 160.32,
+    "currency": "EUR",
+    "url": "https://www.amazon.es/dp/B0DGQ6RGD6?tag=fraym08-21",
+    "inStock": true,
+    "lastSeen": "2026-11-24T17:23:20Z",
+    "product": "Asus Placa Base Prime x870-p WiFi ATX am5 | Socket AM5, PCIe 5.0 x16 para GPU Nueva Generación, 4 ranuras M.2, WiFi 7, Q-Antenna, Ranura PCIe Q-Release",
+    "image": null
+   },
+   {
+    "shop": "amazon.com",
+    "price": 262.69,
+    "currency": "USD",
+    "url": "https://www.amazon.com/dp/B0DGQ6RGD6?tag=fraym-20",
+    "inStock": true,
+    "lastSeen": "2026-11-24T17:30:39Z",
+    "product": "ASUS Prime X870-P WIFI AMD X870 AM5 Socket ATX | AMD, ATX, PCIe 5.0, DDR5, 14+2+1 Power Stages, 4X M.2, WiFi 7, 2.5Gb Ethernet, USB-C 40Gbps : Electronics",
+    "image": null
+   },
+   {
+    "shop": "amazon.de",
+    "price": 151.25,
+    "currency": "EUR",
+    "url": "https://www.amazon.de/dp/B0DGQ6RGD6?tag=fraym03-21",
+    "inStock": true,
+    "lastSeen": "2026-11-24T17:32:23Z",
+    "product": "ASUS Prime X870-P WiFi Mainboard Sockel AM5 | AMD, ATX, PCIe 5.0, DDR5, 14+2+1 Power Stages, 4X M.2, WiFi 7, 2,5Gb Ethernet, USB-C 40Gbps",
+    "image": null
    }
   ],
   "image": "images/mobos-asus-prime-x870-p.jpg",
-  "lastUpdated": "2026-11-24T04:21:27Z"
+  "lastUpdated": "2026-11-24T17:32:23Z"
  },
  {
   "id": "msi-mag-x870-tomahawk",
@@ -2010,16 +2000,6 @@
     "image": "https://images.morele.net/i256/14483812_5_i256.jpg"
    },
    {
-    "shop": "amazon.it",
-    "price": 314.38,
-    "currency": "EUR",
-    "url": "https://www.amazon.it/dp/B0DG3HK897?tag=fraym06-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T04:19:15Z",
-    "product": "MSI Mag X870 Tomahawk - Scheda madre WiFi da gioco, processori AMD Ryzen serie 9000/8000/7000, AM5, DDR5, PCIe 5.0, M.2 Gen5, SATA 6Gb/s, USB 40Gbps, HDMI/DP, Wi-Fi 7, Bluetooth 5.4, 5Gbps LAN,",
-    "image": null
-   },
-   {
     "shop": "amazon.fr",
     "price": 502.29,
     "currency": "EUR",
@@ -2040,54 +2020,34 @@
     "image": null
    },
    {
+    "shop": "amazon.it",
+    "price": 315.32,
+    "currency": "EUR",
+    "url": "https://www.amazon.it/dp/B0DG3HK897?tag=fraym06-21",
+    "inStock": true,
+    "lastSeen": "2026-11-24T17:30:54Z",
+    "product": "MSI Mag X870 Tomahawk - Scheda madre WiFi da gioco, processori AMD Ryzen serie 9000/8000/7000, AM5, DDR5, PCIe 5.0, M.2 Gen5, SATA 6Gb/s, USB 40Gbps, HDMI/DP, Wi-Fi 7, Bluetooth 5.4, 5Gbps LAN,",
+    "image": null
+   },
+   {
     "shop": "amazon.com",
     "price": 219.99,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0DG3HK897?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-24T04:23:53Z",
+    "lastSeen": "2026-11-24T17:34:33Z",
     "product": "MSI MAG X870 Tomahawk WiFi Gaming Motherboard (AMD Ryzen 9000/8000/7000 Series Processors, AM5, DDR5, PCIe 5.0, M.2 Gen5, SATA 6Gb/s, USB 40Gbps, HDMI/DP, Wi-Fi 7, Bluetooth 5.4, 5Gbps LAN, ATX) : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-24T04:23:53Z"
+  "lastUpdated": "2026-11-24T17:34:33Z"
  },
  {
   "id": "asrock-x870e-taichi",
   "name": "ASRock X870E Taichi",
   "priceMin": 326.11,
   "prices": [
-   {
-    "shop": "materiel.net",
-    "price": 519.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202410100052.html",
-    "inStock": true,
-    "lastSeen": "2026-11-23T17:11:56Z",
-    "product": "ASRock X870E Taichi Lite",
-    "image": "https://media.materiel.net/r250/products/MN0006199861.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 589.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202610010106.html",
-    "inStock": true,
-    "lastSeen": "2026-11-23T17:11:56Z",
-    "product": "ASRock X870E Taichi OCF",
-    "image": "https://media.materiel.net/r250/products/MN0006388991.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 499.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202410100051.html",
-    "inStock": false,
-    "lastSeen": "2026-11-23T17:11:56Z",
-    "product": "ASRock X870E Taichi",
-    "image": "https://media.materiel.net/r250/products/MN0006199882.jpg"
-   },
    {
     "shop": "morele.net",
     "price": 1402.27,
@@ -2177,46 +2137,46 @@
     "lastSeen": "2026-11-24T03:48:22Z",
     "product": "ASRock X870E Taichi",
     "image": "https://media.ldlc.com/r150/ld/products/00/06/17/82/LD0006178277.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 519.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202410100052.html",
+    "inStock": true,
+    "lastSeen": "2026-11-24T16:56:35Z",
+    "product": "ASRock X870E Taichi Lite",
+    "image": "https://media.materiel.net/r250/products/MN0006199861.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 589.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202610010106.html",
+    "inStock": true,
+    "lastSeen": "2026-11-24T16:56:35Z",
+    "product": "ASRock X870E Taichi OCF",
+    "image": "https://media.materiel.net/r250/products/MN0006388991.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 499.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202410100051.html",
+    "inStock": false,
+    "lastSeen": "2026-11-24T16:56:35Z",
+    "product": "ASRock X870E Taichi",
+    "image": "https://media.materiel.net/r250/products/MN0006199882.jpg"
    }
   ],
   "image": "images/mobos-asrock-x870e-taichi.jpg",
-  "lastUpdated": "2026-11-24T03:48:22Z"
+  "lastUpdated": "2026-11-24T16:56:35Z"
  },
  {
   "id": "gigabyte-a620m-gaming",
   "name": "Gigabyte A620M Gaming X",
   "priceMin": 74.69,
   "prices": [
-   {
-    "shop": "amazon.fr",
-    "price": 77.49,
-    "currency": "EUR",
-    "url": "https://www.amazon.fr/dp/B0C1ZZ57ZW?tag=fraym-21",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:49:08Z",
-    "product": "GIGABYTE A620M Gaming X Carte Mère - Prend en Charge Les processeurs AMD Ryzen 8000, VRM numérique 8+2+1 Phases, jusqu'à 8000MHz DDR5 (OC), 1xPCIe 4.0 M.2, LAN GbE, USB 3.2 Gen 2",
-    "image": null
-   },
-   {
-    "shop": "amazon.de",
-    "price": 74.69,
-    "currency": "EUR",
-    "url": "https://www.amazon.de/dp/B0C1ZZ57ZW?tag=fraym03-21",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:51:29Z",
-    "product": "GIGABYTE A620M Gaming X Motherboard - Unterstützt AMD Ryzen 8000 CPUs, 8+2+1 Phasen Digital VRM, bis zu 8000MHz DDR5 , 1xPCIe 4.0 M.2, GbE LAN, USB 3.2 Gen 2",
-    "image": null
-   },
-   {
-    "shop": "amazon.co.uk",
-    "price": 68.32,
-    "currency": "GBP",
-    "url": "https://www.amazon.co.uk/dp/B0C1ZZ57ZW?tag=fraym0a-21",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:52:44Z",
-    "product": "Gigabyte A620M GAMING X Motherboard - Supports AMD Ryzen 8000 CPUs, 8+2+1 Phases Digital VRM, up to 8000MHz DDR5 (OC), 1xPCIe 4.0 M.2, GbE LAN, USB 3.2 Gen 2",
-    "image": null
-   },
    {
     "shop": "morele.net",
     "price": 329.0,
@@ -2298,34 +2258,54 @@
     "image": null
    },
    {
+    "shop": "amazon.fr",
+    "price": 77.49,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B0C1ZZ57ZW?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-24T17:23:15Z",
+    "product": "GIGABYTE A620M Gaming X Carte Mère - Prend en Charge Les processeurs AMD Ryzen 8000, VRM numérique 8+2+1 Phases, jusqu'à 8000MHz DDR5 (OC), 1xPCIe 4.0 M.2, LAN GbE, USB 3.2 Gen 2",
+    "image": null
+   },
+   {
+    "shop": "amazon.de",
+    "price": 74.69,
+    "currency": "EUR",
+    "url": "https://www.amazon.de/dp/B0C1ZZ57ZW?tag=fraym03-21",
+    "inStock": true,
+    "lastSeen": "2026-11-24T17:24:16Z",
+    "product": "GIGABYTE A620M Gaming X Motherboard - Unterstützt AMD Ryzen 8000 CPUs, 8+2+1 Phasen Digital VRM, bis zu 8000MHz DDR5 , 1xPCIe 4.0 M.2, GbE LAN, USB 3.2 Gen 2",
+    "image": null
+   },
+   {
+    "shop": "amazon.co.uk",
+    "price": 68.32,
+    "currency": "GBP",
+    "url": "https://www.amazon.co.uk/dp/B0C1ZZ57ZW?tag=fraym0a-21",
+    "inStock": true,
+    "lastSeen": "2026-11-24T17:27:46Z",
+    "product": "Gigabyte A620M GAMING X Motherboard - Supports AMD Ryzen 8000 CPUs, 8+2+1 Phases Digital VRM, up to 8000MHz DDR5 (OC), 1xPCIe 4.0 M.2, GbE LAN, USB 3.2 Gen 2",
+    "image": null
+   },
+   {
     "shop": "amazon.com",
-    "price": 143.85,
+    "price": 144.06,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0C1ZZ57ZW?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-24T04:24:18Z",
+    "lastSeen": "2026-11-24T17:34:59Z",
     "product": "GIGABYTE A620M Gaming X AMD A620 Micro ATX Motherboard with DDR5, PCIe 4.0, USB 3.2 Gen1x2 Type-C, 5-Year Warranty : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-24T04:24:18Z"
+  "lastUpdated": "2026-11-24T17:34:59Z"
  },
  {
   "id": "asus-rog-strix-b650e-i",
   "name": "ASUS ROG Strix B650E-I Gaming WiFi",
   "priceMin": 191.66,
   "prices": [
-   {
-    "shop": "amazon.de",
-    "price": 198.75,
-    "currency": "EUR",
-    "url": "https://www.amazon.de/dp/B0BHHVC3BS?tag=fraym03-21",
-    "inStock": true,
-    "lastSeen": "2026-11-22T14:33:15Z",
-    "product": "ASUS ROG Strix B650E-I Gaming WiFi Mainboard Sockel AMD AM5 | Ryzen 7000, Mini-ITX, DDR5 Speicher, 10+2 Power Stages, USB 3.2 Gen 2 Typ-C, PCIe 5.0, Q-Release, WiFi 6E, Aura Sync",
-    "image": null
-   },
    {
     "shop": "morele.net",
     "price": 1293.76,
@@ -2345,10 +2325,20 @@
     "lastSeen": "2026-11-24T04:17:28Z",
     "product": "ASUS ROG Strix B650E-I Gaming WiFi",
     "image": null
+   },
+   {
+    "shop": "amazon.de",
+    "price": 198.75,
+    "currency": "EUR",
+    "url": "https://www.amazon.de/dp/B0BHHVC3BS?tag=fraym03-21",
+    "inStock": true,
+    "lastSeen": "2026-11-24T17:26:01Z",
+    "product": "ASUS ROG Strix B650E-I Gaming WiFi Mainboard Sockel AMD AM5 | Ryzen 7000, Mini-ITX, DDR5 Speicher, 10+2 Power Stages, USB 3.2 Gen 2 Typ-C, PCIe 5.0, Q-Release, WiFi 6E, Aura Sync",
+    "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-24T04:17:28Z"
+  "lastUpdated": "2026-11-24T17:26:01Z"
  },
  {
   "id": "asus-prime-b860-plus",
@@ -2441,13 +2431,13 @@
     "currency": "EUR",
     "url": "https://www.amazon.it/dp/B0DPMQHPZM?tag=fraym06-21",
     "inStock": true,
-    "lastSeen": "2026-11-24T04:24:28Z",
+    "lastSeen": "2026-11-24T17:35:37Z",
     "product": "ASUS PRIME B860-PLUS WIFI, Scheda Madre Intel ATX, Slot DDR5, Nera | 8+1+1+1 Fasi di Alimentazione, PCIe 5.0, 2 Slot M.2, WiFi 6E, Ethernet Realtek 2.5 GB, DisplayPort, HDMI, USB-C 20 Gbps",
     "image": null
    }
   ],
   "image": "images/mobos-asus-prime-b860-plus.jpg",
-  "lastUpdated": "2026-11-24T04:24:28Z"
+  "lastUpdated": "2026-11-24T17:35:37Z"
  },
  {
   "id": "asus-rog-strix-z890-a",
@@ -2480,7 +2470,7 @@
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B0DJDF92JW?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-24T04:15:36Z",
+    "lastSeen": "2026-11-24T17:27:03Z",
     "product": "ASUS ROG Strix Z890-A Gaming WiFi - Placa Base ATX, 16+1+2+2 etapas de Potencia, DDR5, PCIe 5.0 Compatible con GPU de última generación, Cinco Ranuras M.2, WiFi 7, AI Overclocking, AI Networking II",
     "image": null
    },
@@ -2490,7 +2480,7 @@
     "currency": "EUR",
     "url": "https://www.amazon.fr/dp/B0DJDF92JW?tag=fraym-21",
     "inStock": true,
-    "lastSeen": "2026-11-24T04:18:38Z",
+    "lastSeen": "2026-11-24T17:30:57Z",
     "product": "ASUS ROG Strix Z890-A Gaming WiFi – Carte mère Gaming Intel ATX (DDR5, 16+1+2+2, PCIe 5.0, 5 x M.2, WiFi 7, AI Overclocking, AI Networking II, Aura Sync RGB)",
     "image": null
    },
@@ -2500,29 +2490,19 @@
     "currency": "EUR",
     "url": "https://www.amazon.it/dp/B0DJDF92JW?tag=fraym06-21",
     "inStock": true,
-    "lastSeen": "2026-11-24T04:21:59Z",
+    "lastSeen": "2026-11-24T17:33:14Z",
     "product": "ASUS ROG STRIX Z890-A GAMING WIFI, Scheda Madre Intel ATX, Slot DDR5 Bianca | 16+1+2+2 Fasi di Alimentazione, PCIe 5.0, GPU di Nuova Generazione, 5 Slot M.2, WiFi 7, AI Overclocking, AI Networking II",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-24T04:21:59Z"
+  "lastUpdated": "2026-11-24T17:33:14Z"
  },
  {
   "id": "asrock-z890-taichi-ocf",
   "name": "ASRock Z890 Taichi OCF",
   "priceMin": 398.14,
   "prices": [
-   {
-    "shop": "amazon.de",
-    "price": 469.71,
-    "currency": "EUR",
-    "url": "https://www.amazon.de/dp/B0DJRPLRJB?tag=fraym03-21",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:47:24Z",
-    "product": "ASRock Z890 Taichi OCF 90-MXBPM0-A0UAYZ",
-    "image": null
-   },
    {
     "shop": "morele.net",
     "price": 1969.53,
@@ -2544,18 +2524,28 @@
     "image": "https://images.morele.net/i256/14167141_1_i256.jpg"
    },
    {
+    "shop": "amazon.de",
+    "price": 514.85,
+    "currency": "EUR",
+    "url": "https://www.amazon.de/dp/B0DJRPLRJB?tag=fraym03-21",
+    "inStock": true,
+    "lastSeen": "2026-11-24T17:32:21Z",
+    "product": "ASRock Z890 Taichi OCF 90-MXBPM0-A0UAYZ",
+    "image": null
+   },
+   {
     "shop": "amazon.com",
     "price": 429.99,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0DJRPLRJB?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-24T04:28:17Z",
+    "lastSeen": "2026-11-24T17:38:36Z",
     "product": "ASRock Z890 Taichi OCF Intel Core Ultra LGA1851 RL-ILM ATX Motherboard DDR5 10133 MHz 128 GB WiFi 7 Thunderbolt : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-24T04:28:17Z"
+  "lastUpdated": "2026-11-24T17:38:36Z"
  },
  {
   "id": "asus-tuf-x570-plus",
@@ -2586,13 +2576,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0BK5515B9?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-24T04:28:23Z",
+    "lastSeen": "2026-11-24T17:38:43Z",
     "product": "ASRock B650E PG-ITX WiFi AMD Ryzen 7000 Series CPU Compatible (Soket AM5) B650 Mini-ITX Motherboard : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-24T04:28:23Z"
+  "lastUpdated": "2026-11-24T17:38:43Z"
  },
  {
   "id": "b650-tomahawk",
@@ -2610,18 +2600,28 @@
     "image": "https://images.morele.net/i256/600568865_5_i256.jpg"
    },
    {
+    "shop": "amazon.co.uk",
+    "price": 213.37,
+    "currency": "GBP",
+    "url": "https://www.amazon.co.uk/dp/B0BDS873GF?tag=fraym0a-21",
+    "inStock": true,
+    "lastSeen": "2026-11-24T17:27:05Z",
+    "product": "MSI MAG B650 TOMAHAWK WIFI Motherboard, ATX - Supports AMD Ryzen 9000 Series Processors, AM5-14 Duet Rail 80A VRM, DDR5 Memory Boost 6400+MHz/OC, 2 x PCIe 4.0 x16, 3 x M.2 Gen4, Wi-Fi 6E",
+    "image": null
+   },
+   {
     "shop": "amazon.com",
     "price": 124.99,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0BDS873GF?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-24T04:28:25Z",
+    "lastSeen": "2026-11-24T17:38:44Z",
     "product": "MSI MAG B650 Tomahawk WiFi AMD B650 Socket AM5 ATX : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-24T04:28:25Z"
+  "lastUpdated": "2026-11-24T17:38:44Z"
  },
  {
   "id": "b650m-mortar",
@@ -2644,13 +2644,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0BHC39YG7?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-24T04:28:27Z",
+    "lastSeen": "2026-11-24T17:38:45Z",
     "product": "MSI MAG B650M Mortar WiFi Gaming Motherboard (AMD Ryzen 9000/8000/7000 Series Processors,AM5,DDR5,PCIe 4.0,M.2 Slots,SATA 6Gb/s,USB 3.2 Gen 2,HDMI/DP,Wi-Fi 6E,Bluetooth 5.3,2.5Gbps LAN,mATX) : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-24T04:28:27Z"
+  "lastUpdated": "2026-11-24T17:38:45Z"
  },
  {
   "id": "b760m-itx",
@@ -2671,13 +2671,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0BFNVND8B?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-24T04:28:30Z",
+    "lastSeen": "2026-11-24T17:38:48Z",
     "product": "GIGABYTE X670E AORUS Master AMD AM5 ATX Motherboard 4X DDR5~128GB,3X PCIe x16, 4X M.2, 6X SATA 6, 8X USB 3.2, 2X USB-C, 2X USB 2.0 : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-24T04:28:30Z"
+  "lastUpdated": "2026-11-24T17:38:48Z"
  },
  {
   "id": "msi-pro-b860m-a",
@@ -2720,7 +2720,7 @@
     "currency": "EUR",
     "url": "https://www.amazon.it/dp/B0BSNBHCK1?tag=fraym06-21",
     "inStock": true,
-    "lastSeen": "2026-11-24T04:23:37Z",
+    "lastSeen": "2026-11-24T17:34:47Z",
     "product": "MSI PRO B860M-A WIFI MSI Scheda Madre, mATX, 5G LAN, LGA 1851-12M.2 Gen5 | Supporta processori Intel Core Ultra (Serie 2), DRPS, DDR5 Memory Boost (8600+ MT/s OC), PCIe 5.0 x16 e 4.0 x16, Wi-Fi 7",
     "image": null
    },
@@ -2730,13 +2730,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0BSNBHCK1?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-24T04:28:31Z",
+    "lastSeen": "2026-11-24T17:38:50Z",
     "product": "MSI PRO B860M-A WIFI : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-24T04:28:31Z"
+  "lastUpdated": "2026-11-24T17:38:50Z"
  },
  {
   "id": "x670-strix",
@@ -2749,13 +2749,13 @@
     "currency": "GBP",
     "url": "https://www.amazon.co.uk/dp/B0BF5D8QXC?tag=fraym0a-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T05:51:05Z",
+    "lastSeen": "2026-11-24T17:25:15Z",
     "product": "ASUS ROG Strix X670E-E Gaming WiFi AMD Ryzen AM5 ATX motherboard, 18+2 power stages, DDR5 support, four M.2 slots with heatsinks, PCIe 5.0, USB 3.2 Gen 2x2, WiFi 6E, AI Cooling II, and Aura Sync",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-23T05:51:05Z"
+  "lastUpdated": "2026-11-24T17:25:15Z"
  },
  {
   "id": "z890-itx",
@@ -2789,20 +2789,20 @@
  {
   "id": "asrock-b760m-pro-rs",
   "name": "ASRock B760M Pro RS/D4",
-  "priceMin": 254.68,
+  "priceMin": 253.5,
   "prices": [
    {
     "shop": "amazon.com",
-    "price": 275.05,
+    "price": 273.78,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0BQWR37J4?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-24T04:26:35Z",
+    "lastSeen": "2026-11-24T17:36:59Z",
     "product": "ASRock B760M Pro RS/D4 Motherboard, Compatible with Intel 12th and 13th Generation CPU (LGA1700), B760 Chipset, DDR4 Micro ATX Motherboard : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-24T04:26:35Z"
+  "lastUpdated": "2026-11-24T17:36:59Z"
  }
 ]

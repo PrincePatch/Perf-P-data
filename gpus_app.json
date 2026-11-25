@@ -295,12 +295,22 @@
     "image": "https://media.materiel.net/r250/products/MN0006344769.jpg"
    },
    {
+    "shop": "amazon.it",
+    "price": 9363.06,
+    "currency": "EUR",
+    "url": "https://www.amazon.it/dp/B0DTHV8THW?tag=fraym06-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T17:27:54Z",
+    "product": "ASUS ROG ASTRAL RTX5090 OC, Scheda Grafica 32 GB GDDR7 NVIDIA GeForce, Nera | 512 bit, PCIe 5.0, HDMI 2.1, DisplayPort 2.1, 4 Ventole Assiali, Software GPU Tweak III, ROG-ASTRAL-RTX5090-O32G-GAMING",
+    "image": null
+   },
+   {
     "shop": "amazon.es",
     "price": 9744.15,
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B0DTHV8THW?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-25T02:27:08Z",
+    "lastSeen": "2026-11-25T17:33:41Z",
     "product": "ASUS ROG Astral GeForce RTX 5090 OC Edition - Tarjeta gráfica gaming | PCIe 5.0, 32GB GDDR7, HDMI/DP 2.1, 3.8 ranuras, 4 ventiladores, Axial-tech, cámara de vapor",
     "image": null
    },
@@ -310,18 +320,18 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0DTHV8THW?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-25T02:32:23Z",
+    "lastSeen": "2026-11-25T17:35:47Z",
     "product": "ASUS ROG Astral GeForce RTX 5090 32GB GDDR7 OC Edition Gaming Graphics Card (Nvidia GeForce RTX5090, Four Fans, 3.8 Slot Design, PCIe 5.0, 2X HDMI 2.1b, 3X DisplayPort 2.1a) : Electronics",
     "image": null
    }
   ],
   "image": "images/gpus-rtx5090.jpg",
-  "lastUpdated": "2026-11-25T02:32:23Z"
+  "lastUpdated": "2026-11-25T17:35:47Z"
  },
  {
   "id": "rtx5080",
   "name": "GeForce RTX 5080",
-  "priceMin": 1817.36,
+  "priceMin": 1831.85,
   "prices": [
    {
     "shop": "canadacomputers.com",
@@ -402,86 +412,6 @@
     "lastSeen": "2026-11-23T17:11:56Z",
     "product": "MSI GeForce RTX 5080 16G SUPRIM LIQUID SOC, GDDR7 16GB",
     "image": "https://ccimg.canadacomputers.com/Products/800x800/230/420/267619/86912.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 2229.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00753812.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Gigabyte GeForce RTX 5080 WINDFORCE OC V2 SFF 16G",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/37/83/LD0006378357.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 2249.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00663192.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Gainward GeForce RTX 5080 Phoenix",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/20/65/LD0006206543.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 2249.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00748328.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Gainward GeForce RTX 5080 Python III",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/36/29/LD0006362939.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 2249.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00764430.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "MSI GeForce RTX 5080 16G VENTUS 3X OC BLACK",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/40/02/LD0006400257.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 2269.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00660757.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Gigabyte GeForce RTX 5080 GAMING OC 16G",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/20/52/LD0006205295.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 2299.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00662465.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "MSI GeForce RTX 5080 16G VENTUS 3X OC",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/20/52/LD0006205236.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 2299.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00746254.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Gainward GeForce RTX 5080 Phoenix GS V1",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/35/75/LD0006357574.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 2349.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00660813.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "ASUS PRIME GeForce RTX 5080 16GB GDDR7 OC Edition",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/20/20/LD0006202046.jpg"
    },
    {
     "shop": "morele.net",
@@ -644,16 +574,6 @@
     "image": "https://media.materiel.net/r250/products/MN0006202151.jpg"
    },
    {
-    "shop": "amazon.es",
-    "price": 1817.36,
-    "currency": "EUR",
-    "url": "https://www.amazon.es/dp/B0DS65KD1C?tag=fraym08-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T17:30:05Z",
-    "product": "ASUS TUF Gaming GeForce RTX 5080 16GB GDDR7 OC Edition - Tarjeta gráfica | PCIe 5.0, HDMI/DP 2.1, 3.6 ranuras, grado militar, revestimiento PCB, ventiladores axial-tech, cámara de vapor",
-    "image": null
-   },
-   {
     "shop": "amazon.de",
     "price": 1831.85,
     "currency": "EUR",
@@ -664,18 +584,88 @@
     "image": null
    },
    {
-    "shop": "amazon.com",
-    "price": 2763.83,
-    "currency": "USD",
-    "url": "https://www.amazon.com/dp/B0DS65KD1C?tag=fraym-20",
+    "shop": "ldlc.com",
+    "price": 2229.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00753812.html",
     "inStock": true,
-    "lastSeen": "2026-11-25T02:37:12Z",
-    "product": "ASUS TUF Gaming GeForce RTX 5080 16GB GDDR7 OC Edition Gaming Graphics Card (PCIe 5.0, HDMI/DP 2.1, 3.6-Slot, Military-Grade Components, Protective PCB Coating, axial-tech Fans, Vapor Chamber : Electronics",
-    "image": null
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Gigabyte GeForce RTX 5080 WINDFORCE OC V2 SFF 16G",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/37/83/LD0006378357.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 2249.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00663192.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Gainward GeForce RTX 5080 Phoenix",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/20/65/LD0006206543.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 2249.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00748328.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Gainward GeForce RTX 5080 Python III",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/36/29/LD0006362939.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 2249.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00764430.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "MSI GeForce RTX 5080 16G VENTUS 3X OC BLACK",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/40/02/LD0006400257.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 2269.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00660757.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Gigabyte GeForce RTX 5080 GAMING OC 16G",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/20/52/LD0006205295.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 2299.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00662465.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "MSI GeForce RTX 5080 16G VENTUS 3X OC",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/20/52/LD0006205236.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 2299.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00746254.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Gainward GeForce RTX 5080 Phoenix GS V1",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/35/75/LD0006357574.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 2349.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00660813.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "ASUS PRIME GeForce RTX 5080 16GB GDDR7 OC Edition",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/20/20/LD0006202046.jpg"
    }
   ],
   "image": "images/gpus-rtx5080.jpg",
-  "lastUpdated": "2026-11-25T02:37:12Z"
+  "lastUpdated": "2026-11-25T16:44:37Z"
  },
  {
   "id": "rtx5070ti",
@@ -761,86 +751,6 @@
     "lastSeen": "2026-11-23T17:11:56Z",
     "product": "MSI GeForce RTX 5070 Ti 16G VENTUS 3X OC GDDR7 Triple Fans",
     "image": "https://ccimg.canadacomputers.com/Products/800x800/230/420/97182.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 1349.0,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00666493.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "ASUS TUF Gaming GeForce RTX 5070 Ti 16GB GDDR7 OC Edition",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/21/15/LD0006211568.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 1679.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00686242.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Gainward GeForce RTX 5070 Ti Phoenix-S",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/24/77/LD0006247787.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 1739.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00666549.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Gigabyte GeForce RTX 5070 Ti EAGLE OC ICE SFF 16G",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/21/20/LD0006212095.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 1749.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00666540.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "MSI GeForce RTX 5070 Ti 16G VENTUS 3X OC",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/21/17/LD0006211788.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 1749.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00685474.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Gainward GeForce RTX 5070 Ti Phoenix-S GS",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/24/68/LD0006246831.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 1779.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00666544.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Gigabyte GeForce RTX 5070 Ti GAMING OC 16G",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/21/18/LD0006211847.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 1799.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00666543.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Gigabyte GeForce RTX 5070 Ti AERO OC 16G",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/21/18/LD0006211813.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 1829.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00675827.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "MSI GeForce RTX 5070 Ti 16G GAMING TRIO OC",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/23/53/LD0006235354.jpg"
    },
    {
     "shop": "morele.net",
@@ -1003,33 +913,113 @@
     "image": "https://media.materiel.net/r250/products/MN0006212031.jpg"
    },
    {
+    "shop": "ldlc.com",
+    "price": 1679.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00686242.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Gainward GeForce RTX 5070 Ti Phoenix-S",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/24/77/LD0006247787.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 1739.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00666549.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Gigabyte GeForce RTX 5070 Ti EAGLE OC ICE SFF 16G",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/21/20/LD0006212095.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 1749.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00666540.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "MSI GeForce RTX 5070 Ti 16G VENTUS 3X OC",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/21/17/LD0006211788.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 1749.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00685474.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Gainward GeForce RTX 5070 Ti Phoenix-S GS",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/24/68/LD0006246831.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 1779.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00666544.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Gigabyte GeForce RTX 5070 Ti GAMING OC 16G",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/21/18/LD0006211847.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 1799.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00666543.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Gigabyte GeForce RTX 5070 Ti AERO OC 16G",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/21/18/LD0006211813.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 1829.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00675827.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "MSI GeForce RTX 5070 Ti 16G GAMING TRIO OC",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/23/53/LD0006235354.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 1879.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00666537.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Gigabyte AORUS GeForce RTX 5070 Ti MASTER 16G",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/21/17/LD0006211753.jpg"
+   },
+   {
     "shop": "amazon.co.uk",
     "price": 1660.71,
     "currency": "GBP",
     "url": "https://www.amazon.co.uk/dp/B0DZD6QV9L?tag=fraym0a-21",
     "inStock": true,
-    "lastSeen": "2026-11-25T02:23:00Z",
+    "lastSeen": "2026-11-25T17:31:14Z",
     "product": "MSI GeForce RTX 5070 Ti 16G SHADOW 3X OC Graphics Card - RTX 5070 Ti GPU | 16GB GDDR7 (28Gbps/256-bit), PCIe 5.0 - Triple Fan Thermal Design - HDMI 2.1b, DisplayPort 2.1b",
     "image": null
    },
    {
     "shop": "amazon.com",
-    "price": 1649.95,
+    "price": 1994.28,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0DZD6QV9L?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-25T02:36:47Z",
+    "lastSeen": "2026-11-25T17:39:40Z",
     "product": "MSI GeForce RTX 5070 Ti 16G Shadow 3X OC Gaming Graphics Card | 16GB GDDR7 (28Gbps/256-bit), PCIe 5, Boost: 2482 MHz, HDMI 2.1b, DisplayPort 2.1b DLSS 4.5 : Electronics",
     "image": null
    }
   ],
   "image": "images/gpus-rtx5070ti.jpg",
-  "lastUpdated": "2026-11-25T02:36:47Z"
+  "lastUpdated": "2026-11-25T17:39:40Z"
  },
  {
   "id": "rtx5070",
   "name": "GeForce RTX 5070",
-  "priceMin": 812.34,
+  "priceMin": 811.61,
   "prices": [
    {
     "shop": "canadacomputers.com",
@@ -1110,96 +1100,6 @@
     "lastSeen": "2026-11-23T17:11:56Z",
     "product": "GIGABYTE GeForce RTX 5070 GAMING OC 12G Graphics Card",
     "image": "https://ccimg.canadacomputers.com/Products/800x800/230/420/268826/84350.jpg"
-   },
-   {
-    "shop": "amazon.it",
-    "price": 818.85,
-    "currency": "EUR",
-    "url": "https://www.amazon.it/dp/B0DYPFY7JG?tag=fraym06-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T04:22:21Z",
-    "product": "ASUS PRIME RTX5070 OC, Scheda Grafica da 12 GB GDDR7 NVIDIA GeForce, Nera | 192 Bit, PCIe 5.0, Design a 2,5 Slot, 3 Ventole Axial-Tech, 1 HDMI 2.1, 3 DisplayPort 2,1, PRIME-RTX5070-O12G",
-    "image": null
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 1079.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00669922.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Gainward GeForce RTX 5070 Python III",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/22/65/LD0006226502.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 1099.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00671747.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Gigabyte GeForce RTX 5070 EAGLE OC ICE SFF 12G",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/22/42/LD0006224263.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 1119.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00671172.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Gigabyte GeForce RTX 5070 WINDFORCE OC SFF 12G",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/22/00/LD0006220040.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 1119.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00669923.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Gainward GeForce RTX 5070 Python III OC",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/22/64/LD0006226481.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 1149.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00668546.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "MSI GeForce RTX 5070 12G VENTUS 2X OC",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/21/48/LD0006214845.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 1159.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00671169.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Gigabyte GeForce RTX 5070 EAGLE OC SFF 12G",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/22/00/LD0006220012.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 1169.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00689546.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "ASUS Dual GeForce RTX 5070 12GB GDDR7 OC Edition",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/25/10/LD0006251099.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 1179.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00668553.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "MSI GeForce RTX 5070 12G GAMING TRIO OC",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/21/48/LD0006214881.jpg"
    },
    {
     "shop": "morele.net",
@@ -1362,12 +1262,102 @@
     "image": "https://media.materiel.net/r250/products/MN0006215140.jpg"
    },
    {
+    "shop": "ldlc.com",
+    "price": 1079.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00669922.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Gainward GeForce RTX 5070 Python III",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/22/65/LD0006226502.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 1099.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00671747.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Gigabyte GeForce RTX 5070 EAGLE OC ICE SFF 12G",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/22/42/LD0006224263.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 1119.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00669923.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Gainward GeForce RTX 5070 Python III OC",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/22/64/LD0006226481.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 1119.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00671172.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Gigabyte GeForce RTX 5070 WINDFORCE OC SFF 12G",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/22/00/LD0006220040.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 1149.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00668546.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "MSI GeForce RTX 5070 12G VENTUS 2X OC",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/21/48/LD0006214845.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 1159.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00671169.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Gigabyte GeForce RTX 5070 EAGLE OC SFF 12G",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/22/00/LD0006220012.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 1169.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00689546.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "ASUS Dual GeForce RTX 5070 12GB GDDR7 OC Edition",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/25/10/LD0006251099.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 1179.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00668553.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "MSI GeForce RTX 5070 12G GAMING TRIO OC",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/21/48/LD0006214881.jpg"
+   },
+   {
+    "shop": "amazon.it",
+    "price": 818.85,
+    "currency": "EUR",
+    "url": "https://www.amazon.it/dp/B0DYPFY7JG?tag=fraym06-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T17:24:09Z",
+    "product": "ASUS PRIME RTX5070 OC, Scheda Grafica da 12 GB GDDR7 NVIDIA GeForce, Nera | 192 Bit, PCIe 5.0, Design a 2,5 Slot, 3 Ventole Axial-Tech, 1 HDMI 2.1, 3 DisplayPort 2,1, PRIME-RTX5070-O12G",
+    "image": null
+   },
+   {
     "shop": "amazon.de",
-    "price": 812.34,
+    "price": 811.61,
     "currency": "EUR",
     "url": "https://www.amazon.de/dp/B0DYPFY7JG?tag=fraym03-21",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:23:12Z",
+    "lastSeen": "2026-11-25T17:25:47Z",
     "product": "ASUS PRIME GeForce RTX 5070 12GB GDDR7 OC Edition Gaming Grafikkarte | NVIDIA Blackwell Architektur und DLSS 4, 2,5-Slot Design, SSF, PCIe 5.0, 3x DisplayPort 2.1b, 1x HDMI 2.1b",
     "image": null
    },
@@ -1377,23 +1367,23 @@
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B0DYPFY7JG?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:33:09Z",
+    "lastSeen": "2026-11-25T17:28:21Z",
     "product": "ASUS Prime GeForce RTX 5070 OC Edition 12GB GDDR7 - Tarjeta gráfica SFF-Ready (PCIe 5.0, 12GB GDDR7, HDMI/DP 2.1, 2.5 Ranuras, Ventiladores Axial-Tech, Dual BIOS)",
     "image": null
    },
    {
     "shop": "amazon.com",
-    "price": 1358.2,
+    "price": 1225.09,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0DYPFY7JG?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-25T02:36:17Z",
+    "lastSeen": "2026-11-25T17:39:13Z",
     "product": "ASUS Prime GeForce RTX 5070 12GB GDDR7 OC Edition Gaming Graphics Card | SFF-Ready, PCIe 5.0, HDMI/DP 2.1, 2.5-slot, Axis technology Fans, Dual BIOS : Electronics",
     "image": null
    }
   ],
   "image": "images/gpus-rtx5070.jpg",
-  "lastUpdated": "2026-11-25T02:36:17Z"
+  "lastUpdated": "2026-11-25T17:39:13Z"
  },
  {
   "id": "rtx5060ti",
@@ -1481,86 +1471,6 @@
     "image": "https://ccimg.canadacomputers.com/Products/800x800/230/420/284958/19705.jpg"
    },
    {
-    "shop": "ldlc.com",
-    "price": 1029.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00677295.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Gainward GeForce RTX 5060 Ti Python III 16GB",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/23/66/LD0006236610.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 1039.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00677296.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Gainward GeForce RTX 5060 Ti Python III OC 16GB",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/23/66/LD0006236626.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 1049.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00676216.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "MSI GeForce RTX 5060 Ti 16G VENTUS 2X OC PLUS",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/23/72/LD0006237272.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 1069.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00677378.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Gigabyte GeForce RTX 5060 Ti EAGLE OC 16G",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/23/69/LD0006236991.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 1079.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00677379.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Gigabyte GeForce RTX 5060 Ti EAGLE ICE OC 16G",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/23/70/LD0006237006.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 1079.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00676833.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "ASUS Dual GeForce RTX 5060 Ti OC Edition 16GB",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/23/61/LD0006236167.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 1089.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00677310.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Gigabyte GeForce RTX 5060 Ti WINDFORCE OC 16G",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/23/68/LD0006236804.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 1099.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00696207.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Gigabyte GeForce RTX 5060 Ti EAGLE MAX OC 16G",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/26/15/LD0006261524.jpg"
-   },
-   {
     "shop": "morele.net",
     "price": 4604.12,
     "currency": "PLN",
@@ -1621,28 +1531,118 @@
     "image": "https://media.materiel.net/r250/products/MN0006236313.jpg"
    },
    {
+    "shop": "ldlc.com",
+    "price": 1029.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00677295.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Gainward GeForce RTX 5060 Ti Python III 16GB",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/23/66/LD0006236610.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 1039.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00677296.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Gainward GeForce RTX 5060 Ti Python III OC 16GB",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/23/66/LD0006236626.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 1049.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00676216.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "MSI GeForce RTX 5060 Ti 16G VENTUS 2X OC PLUS",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/23/72/LD0006237272.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 1069.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00677378.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Gigabyte GeForce RTX 5060 Ti EAGLE OC 16G",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/23/69/LD0006236991.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 1079.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00677379.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Gigabyte GeForce RTX 5060 Ti EAGLE ICE OC 16G",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/23/70/LD0006237006.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 1079.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00676833.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "ASUS Dual GeForce RTX 5060 Ti OC Edition 16GB",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/23/61/LD0006236167.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 1089.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00677310.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Gigabyte GeForce RTX 5060 Ti WINDFORCE OC 16G",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/23/68/LD0006236804.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 1099.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00696207.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Gigabyte GeForce RTX 5060 Ti EAGLE MAX OC 16G",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/26/15/LD0006261524.jpg"
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 1219.86,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B0F8BR2H6Z?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T17:24:54Z",
+    "product": "MSI NVIDIA GeForce RTX 5060 Ti 16G SHADOW 2X OC PLUS Carte graphique | 16 Go GDDR7 (28 GB/s, 192-bit), PCIe 5.0, double ventilateur (2 ventilateurs STORMFORCE), HDMI 2.1b, DisplayPort 2.1b",
+    "image": null
+   },
+   {
     "shop": "amazon.co.uk",
     "price": 608.32,
     "currency": "GBP",
     "url": "https://www.amazon.co.uk/dp/B0F8BR2H6Z?tag=fraym0a-21",
     "inStock": true,
-    "lastSeen": "2026-11-25T02:23:04Z",
+    "lastSeen": "2026-11-25T17:31:17Z",
     "product": "MSI GeForce RTX 5060 Ti 16G SHADOW 2X OC PLUS Graphics Card | RTX 5060 Ti GPU, 16GB GDDR7 (28Gbps/128-bit), PCIe 5 - Dual-Fan Thermal Design (2 x STORMFORCE FAN) - HDMI 2.1b, DP 2.1b",
     "image": null
    },
    {
     "shop": "amazon.es",
-    "price": 1211.77,
+    "price": 1219.86,
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B0F8BR2H6Z?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-25T02:25:11Z",
+    "lastSeen": "2026-11-25T17:32:51Z",
     "product": "MSI GeForce RTX 5060 Ti 16G Shadow 2X OC Plus - Tarjeta gráfica RTX 5060 Ti, 16GB GDDR7, 28 Gbps/128-bit, PCIe 5.0, Diseño de Doble Ventilador Stormforce Fan, HDMI 2.1b",
     "image": null
    }
   ],
   "image": "images/gpus-rtx5060ti.jpg",
-  "lastUpdated": "2026-11-25T02:25:11Z"
+  "lastUpdated": "2026-11-25T17:32:51Z"
  },
  {
   "id": "rtx5060",
@@ -1708,86 +1708,6 @@
     "lastSeen": "2026-11-23T17:11:56Z",
     "product": "MSI GeForce RTX 5060 8G GAMING TRIO OC, GDDR7 8GB, PCI-E 5.0, 128 bit",
     "image": "https://ccimg.canadacomputers.com/Products/800x800/230/420/272909/51601.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 669.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00683652.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Gainward GeForce RTX 5060 Ghost 8GB",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/24/23/LD0006242325.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 689.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00703193.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Gigabyte GeForce RTX 5060 WINDFORCE MAX OC 8G",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/27/76/LD0006277653.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 699.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00684418.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Gigabyte GeForce RTX 5060 OC Low Profile 8G",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/24/40/LD0006244095.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 699.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00720782.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Gainward GeForce RTX 5060 Ghost OC 8GB",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/30/98/LD0006309835.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 699.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00723623.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Gainward GeForce RTX 5060 Python III 8GB",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/31/37/LD0006313739.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 699.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00761339.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Gigabyte GeForce RTX 5060 WINDFORCE MAX OC V2 8G",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/39/31/LD0006393128.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 719.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00683080.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "MSI GeForce RTX 5060 8G VENTUS 2X OC",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/24/19/LD0006241951.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 719.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00684427.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Gigabyte GeForce RTX 5060 GAMING OC 8G",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/24/41/LD0006244166.jpg"
    },
    {
     "shop": "morele.net",
@@ -1950,16 +1870,6 @@
     "image": "https://media.materiel.net/r250/products/MN0006242249.jpg"
    },
    {
-    "shop": "amazon.co.uk",
-    "price": 366.66,
-    "currency": "GBP",
-    "url": "https://www.amazon.co.uk/dp/B0F6NLT7M4?tag=fraym0a-21",
-    "inStock": true,
-    "lastSeen": "2026-11-25T02:22:25Z",
-    "product": "Gigabyte GeForce RTX 5060 WINDFORCE OC 8G Graphics Card - 8GB GDDR7, 128bit, PCI-E 5.0, 2512 MHz Core Clock, 3 x DisplayPort, 1 x HDMI, GV-N5060WF2OC-8GD",
-    "image": null
-   },
-   {
     "shop": "amazon.fr",
     "price": 507.01,
     "currency": "EUR",
@@ -1970,23 +1880,113 @@
     "image": null
    },
    {
+    "shop": "ldlc.com",
+    "price": 669.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00683652.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Gainward GeForce RTX 5060 Ghost 8GB",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/24/23/LD0006242325.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 689.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00703193.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Gigabyte GeForce RTX 5060 WINDFORCE MAX OC 8G",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/27/76/LD0006277653.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 699.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00684418.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Gigabyte GeForce RTX 5060 OC Low Profile 8G",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/24/40/LD0006244095.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 699.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00720782.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Gainward GeForce RTX 5060 Ghost OC 8GB",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/30/98/LD0006309835.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 699.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00723623.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Gainward GeForce RTX 5060 Python III 8GB",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/31/37/LD0006313739.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 699.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00761339.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Gigabyte GeForce RTX 5060 WINDFORCE MAX OC V2 8G",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/39/31/LD0006393128.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 719.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00683080.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "MSI GeForce RTX 5060 8G VENTUS 2X OC",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/24/19/LD0006241951.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 719.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00684427.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Gigabyte GeForce RTX 5060 GAMING OC 8G",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/24/41/LD0006244166.jpg"
+   },
+   {
+    "shop": "amazon.co.uk",
+    "price": 366.66,
+    "currency": "GBP",
+    "url": "https://www.amazon.co.uk/dp/B0F6NLT7M4?tag=fraym0a-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T17:30:43Z",
+    "product": "Gigabyte GeForce RTX 5060 WINDFORCE OC 8G Graphics Card - 8GB GDDR7, 128bit, PCI-E 5.0, 2512 MHz Core Clock, 3 x DisplayPort, 1 x HDMI, GV-N5060WF2OC-8GD",
+    "image": null
+   },
+   {
     "shop": "amazon.es",
     "price": 542.96,
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B0F6NLT7M4?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-25T02:30:34Z",
+    "lastSeen": "2026-11-25T17:35:31Z",
     "product": "GIGABYTE GeForce RTX 5060 WINDFORCE OC 8G Tarjeta Gráfica - 8GB GDDR7, 128bit, PCI-E 5.0, 2512 MHz Frecuencia del núcleo, 3 x DisplayPort, 1 x HDMI, GV-N5060WF2OC-8GD",
     "image": null
    }
   ],
   "image": "images/gpus-rtx5060.jpg",
-  "lastUpdated": "2026-11-25T02:30:34Z"
+  "lastUpdated": "2026-11-25T17:35:31Z"
  },
  {
   "id": "rtx4080",
   "name": "GeForce RTX 4080",
-  "priceMin": 1989.81,
+  "priceMin": 1943.52,
   "prices": [
    {
     "shop": "canadacomputers.com",
@@ -1999,16 +1999,6 @@
     "image": "https://ccimg.canadacomputers.com/Products/800x800/135/4187/259772/46648.jpg"
    },
    {
-    "shop": "amazon.com",
-    "price": 2149.0,
-    "currency": "USD",
-    "url": "https://www.amazon.com/dp/B0BKK3RFT6?tag=fraym-20",
-    "inStock": true,
-    "lastSeen": "2026-11-24T17:39:17Z",
-    "product": "ZOTAC Gaming GeForce RTX 4080 16GB AMP Extreme AIRO 16GB GDDR6X 256-bit 22.4 Gbps PCIE 4.0 Gaming Graphics Card, IceStorm 2.0 Advanced Cooling, Spectra 2.0 RGB Lighting, ZT-D40810B-10P : Electronics",
-    "image": null
-   },
-   {
     "shop": "amazon.it",
     "price": 4616.99,
     "currency": "EUR",
@@ -2017,10 +2007,20 @@
     "lastSeen": "2026-11-25T02:30:29Z",
     "product": "Zotac Gaming GeForce RTX 4080 16GB AMP Extreme AIRO GDDR6X 256-bit 22.4 Gbps PCIE 4.0 Scheda grafica, IceStorm 2.0 Advanced Cooling, Spectra 2.0 RGB Lighting, ZT-D40810B-10P",
     "image": null
+   },
+   {
+    "shop": "amazon.com",
+    "price": 2099.0,
+    "currency": "USD",
+    "url": "https://www.amazon.com/dp/B0BKK3RFT6?tag=fraym-20",
+    "inStock": true,
+    "lastSeen": "2026-11-25T17:29:18Z",
+    "product": "ZOTAC Gaming GeForce RTX 4080 16GB AMP Extreme AIRO 16GB GDDR6X 256-bit 22.4 Gbps PCIE 4.0 Gaming Graphics Card, IceStorm 2.0 Advanced Cooling, Spectra 2.0 RGB Lighting, ZT-D40810B-10P : Electronics",
+    "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-25T02:30:29Z"
+  "lastUpdated": "2026-11-25T17:29:18Z"
  },
  {
   "id": "rtx4070ti",
@@ -2033,39 +2033,19 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0BZZML1LG?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-25T02:28:31Z",
+    "lastSeen": "2026-11-25T17:33:52Z",
     "product": "GIGABYTE GeForce RTX 4070 TI WINDFORCE OC 12GB Graphics Card - 12GB DDRX6 21Gbps, PCI-E 4.0, 3 x DP 1.4a, HDMI 2.1a, NVIDIA DLSS 3, Ada Lovelace Arch, GV-N407TWF3OC-12GD : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-25T02:28:31Z"
+  "lastUpdated": "2026-11-25T17:33:52Z"
  },
  {
   "id": "rtx4060ti",
   "name": "GeForce RTX 4060 Ti",
   "priceMin": 648.13,
   "prices": [
-   {
-    "shop": "amazon.it",
-    "price": 909.51,
-    "currency": "EUR",
-    "url": "https://www.amazon.it/dp/B0CVPHDLTD?tag=fraym06-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T17:24:40Z",
-    "product": "ASUS Dual GeForce RTX™ 4060 Ti EVO OC Edition 8GB GDDR6 (PCIe 4.0, 8GB GDDR6, DLSS 3, HDMI 2.1a, DisplayPort 1.4a, design ventola Axial-tech, tecnologia 0dB, piastra posteriore protettiva, tecnologia",
-    "image": null
-   },
-   {
-    "shop": "amazon.es",
-    "price": 897.76,
-    "currency": "EUR",
-    "url": "https://www.amazon.es/dp/B0CVPHDLTD?tag=fraym08-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T17:29:47Z",
-    "product": "ASUS Dual GeForce RTX™ 4060 Ti EVO OC Edition 8GB GDDR6 (PCIe 4.0, 8GB GDDR6, DLSS 3, HDMI 2.1a, DisplayPort 1.4a, diseño de ventilador Axial-Tech, tecnología 0dB, placa trasera protectora, tecnología",
-    "image": null
-   },
    {
     "shop": "amazon.fr",
     "price": 887.71,
@@ -2087,18 +2067,38 @@
     "image": null
    },
    {
+    "shop": "amazon.it",
+    "price": 909.51,
+    "currency": "EUR",
+    "url": "https://www.amazon.it/dp/B0CVPHDLTD?tag=fraym06-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T17:24:57Z",
+    "product": "ASUS Dual GeForce RTX™ 4060 Ti EVO OC Edition 8GB GDDR6 (PCIe 4.0, 8GB GDDR6, DLSS 3, HDMI 2.1a, DisplayPort 1.4a, design ventola Axial-tech, tecnologia 0dB, piastra posteriore protettiva, tecnologia",
+    "image": null
+   },
+   {
+    "shop": "amazon.es",
+    "price": 897.76,
+    "currency": "EUR",
+    "url": "https://www.amazon.es/dp/B0CVPHDLTD?tag=fraym08-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T17:26:37Z",
+    "product": "ASUS Dual GeForce RTX™ 4060 Ti EVO OC Edition 8GB GDDR6 (PCIe 4.0, 8GB GDDR6, DLSS 3, HDMI 2.1a, DisplayPort 1.4a, diseño de ventilador Axial-Tech, tecnología 0dB, placa trasera protectora, tecnología",
+    "image": null
+   },
+   {
     "shop": "amazon.com",
     "price": 699.98,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0CVPHDLTD?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-25T02:34:01Z",
+    "lastSeen": "2026-11-25T17:37:03Z",
     "product": "ASUS Dual GeForce RTX 4060 Ti EVO OC Edition 8GB GDDR6 (PCIe 4.0, 8GB GDDR6, DLSS 3, HDMI 2.1a, DisplayPort 1.4a, Axial-tech Fan Design, Auto-Extreme Technology), 3 Year Warranty : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-25T02:34:01Z"
+  "lastUpdated": "2026-11-25T17:37:03Z"
  },
  {
   "id": "rtx4060",
@@ -2116,26 +2116,6 @@
     "image": "https://images.morele.net/i256/12971656_0_i256.jpg"
    },
    {
-    "shop": "amazon.it",
-    "price": 905.39,
-    "currency": "EUR",
-    "url": "https://www.amazon.it/dp/B0C7W8GZMJ?tag=fraym06-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T17:33:20Z",
-    "product": "MSI GeForce RTX 4060 VENTUS 2X BLACK 8G OC Scheda Video Gaming, 8GB GDDR6 (17 Gbps / 128-bit), PCI Express Gen4, 8-pin x1, DisplayPort x3 (v1.4a), HDMI 2.1 - Ventole TORX 4.0, Tecnologia ZERO FROZR",
-    "image": null
-   },
-   {
-    "shop": "amazon.co.uk",
-    "price": 790.51,
-    "currency": "GBP",
-    "url": "https://www.amazon.co.uk/dp/B0C7W8GZMJ?tag=fraym0a-21",
-    "inStock": true,
-    "lastSeen": "2026-11-25T02:21:30Z",
-    "product": "MSI GeForce RTX 4060 VENTUS 2X BLACK 8G OC Gaming Graphics Card - 8GB GDDR6X, PCI Express Gen 4, 128-bit, 3x DP v 1.4a, HDMI 2.1a (Supports 4K & 8K HDR)",
-    "image": null
-   },
-   {
     "shop": "amazon.fr",
     "price": 923.64,
     "currency": "EUR",
@@ -2146,12 +2126,32 @@
     "image": null
    },
    {
+    "shop": "amazon.it",
+    "price": 905.39,
+    "currency": "EUR",
+    "url": "https://www.amazon.it/dp/B0C7W8GZMJ?tag=fraym06-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T17:29:07Z",
+    "product": "MSI GeForce RTX 4060 VENTUS 2X BLACK 8G OC Scheda Video Gaming, 8GB GDDR6 (17 Gbps / 128-bit), PCI Express Gen4, 8-pin x1, DisplayPort x3 (v1.4a), HDMI 2.1 - Ventole TORX 4.0, Tecnologia ZERO FROZR",
+    "image": null
+   },
+   {
+    "shop": "amazon.co.uk",
+    "price": 790.51,
+    "currency": "GBP",
+    "url": "https://www.amazon.co.uk/dp/B0C7W8GZMJ?tag=fraym0a-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T17:29:43Z",
+    "product": "MSI GeForce RTX 4060 VENTUS 2X BLACK 8G OC Gaming Graphics Card - 8GB GDDR6X, PCI Express Gen 4, 128-bit, 3x DP v 1.4a, HDMI 2.1a (Supports 4K & 8K HDR)",
+    "image": null
+   },
+   {
     "shop": "amazon.es",
     "price": 889.15,
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B0C7W8GZMJ?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-25T02:22:07Z",
+    "lastSeen": "2026-11-25T17:30:20Z",
     "product": "MSI GeForce RTX 4060 Ventus 2X Black 8G OC",
     "image": null
    },
@@ -2161,13 +2161,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0C7W8GZMJ?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-25T02:37:03Z",
+    "lastSeen": "2026-11-25T17:39:56Z",
     "product": "MSI GeForce RTX 4060 Ventus 2X Black 8G OC Gaming Graphics Card - 8GB GDDR6X, PCI Express Gen 4, 128-bit, 3X DP v 1.4a, HDMI 2.1a (Supports 4K & 8K HDR) : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-25T02:37:03Z"
+  "lastUpdated": "2026-11-25T17:39:56Z"
  },
  {
   "id": "rtx3090",
@@ -2206,7 +2206,7 @@
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-25T02:31:37Z"
+  "lastUpdated": "2026-11-25T17:35:19Z"
  },
  {
   "id": "rtx3080ti",
@@ -2219,7 +2219,7 @@
     "currency": "EUR",
     "url": "https://www.amazon.fr/dp/B0957TV4YR?tag=fraym-21",
     "inStock": true,
-    "lastSeen": "2026-11-25T02:28:50Z",
+    "lastSeen": "2026-11-25T17:35:38Z",
     "product": "MSI GeForce RTX 3080 Ti Gaming X Trio 12G NVIDIA 12 Go GDDR6X Carte Graphique Noir",
     "image": null
    },
@@ -2229,13 +2229,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0957TV4YR?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-25T02:32:08Z",
+    "lastSeen": "2026-11-25T17:35:40Z",
     "product": "MSI GeForce RTX 3080 Ti Gaming X Trio 12G Gaming Graphics Card - 12GB GDDR6X, 1770 MHz, PCI Express Gen 4, 384-bit, 3X DP v 1.4a, HDMI 2.1 (Supports 4K) : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-25T02:32:08Z"
+  "lastUpdated": "2026-11-25T17:35:40Z"
  },
  {
   "id": "rtx3080",
@@ -2278,29 +2278,19 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B099ZC8H3G?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-25T02:32:31Z",
+    "lastSeen": "2026-11-25T17:35:52Z",
     "product": "ASUS TUF Gaming NVIDIA GeForce RTX 3080 V2 OC Edition Graphics Card (PCIe 4.0, 10GB GDDR6X, LHR, HDMI 2.1, DisplayPort 1.4a, Dual Ball Fan Bearings, Military-Grade Certification, GPU Tweak II) : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-25T02:32:31Z"
+  "lastUpdated": "2026-11-25T17:35:52Z"
  },
  {
   "id": "rtx3070ti",
   "name": "GeForce RTX 3070 Ti",
   "priceMin": 728.7,
   "prices": [
-   {
-    "shop": "amazon.it",
-    "price": 1000.0,
-    "currency": "EUR",
-    "url": "https://www.amazon.it/dp/B0957VHM86?tag=fraym06-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T04:19:28Z",
-    "product": "MSI GeForce RTX 3070 Ti VENTUS 3X 8G OC Scheda video gaming - 8GB GDDR6X, 1800 MHz, PCI Express Gen 4, 256-bit, 3x DP v 1.4a, HDMI 2.1 (Supporta 4K)",
-    "image": null
-   },
    {
     "shop": "morele.net",
     "price": 3133.43,
@@ -2322,26 +2312,6 @@
     "image": "https://images.morele.net/i256/8679904_9_i256.jpg"
    },
    {
-    "shop": "amazon.fr",
-    "price": 1122.27,
-    "currency": "EUR",
-    "url": "https://www.amazon.fr/dp/B0957VHM86?tag=fraym-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T17:25:02Z",
-    "product": "MSI RTX 3070 TI Ventus 3X 8G OC Carte Graphique NVIDIA GeForce RTX 3070 Ti 8 Go GDDR6X Gris",
-    "image": null
-   },
-   {
-    "shop": "amazon.co.uk",
-    "price": 945.39,
-    "currency": "GBP",
-    "url": "https://www.amazon.co.uk/dp/B0957VHM86?tag=fraym0a-21",
-    "inStock": true,
-    "lastSeen": "2026-11-25T02:21:28Z",
-    "product": "MSI GeForce RTX 3070 Ti VENTUS 3X 8G OC Gaming Graphics Card - 8GB GDDR6X, 1800 MHz, PCI Express Gen 4, 256 bit, 3x DP v 1.4a, HDMI 2.1 (Supports 4K)",
-    "image": null
-   },
-   {
     "shop": "amazon.es",
     "price": 1000.0,
     "currency": "EUR",
@@ -2352,18 +2322,48 @@
     "image": null
    },
    {
+    "shop": "amazon.it",
+    "price": 1083.01,
+    "currency": "EUR",
+    "url": "https://www.amazon.it/dp/B0957VHM86?tag=fraym06-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T17:23:54Z",
+    "product": "MSI GeForce RTX 3070 Ti VENTUS 3X 8G OC Scheda video gaming - 8GB GDDR6X, 1800 MHz, PCI Express Gen 4, 256-bit, 3x DP v 1.4a, HDMI 2.1 (Supporta 4K)",
+    "image": null
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 1122.27,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B0957VHM86?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T17:27:38Z",
+    "product": "MSI RTX 3070 TI Ventus 3X 8G OC Carte Graphique NVIDIA GeForce RTX 3070 Ti 8 Go GDDR6X Gris",
+    "image": null
+   },
+   {
+    "shop": "amazon.co.uk",
+    "price": 900.0,
+    "currency": "GBP",
+    "url": "https://www.amazon.co.uk/dp/B0957VHM86?tag=fraym0a-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T17:29:40Z",
+    "product": "MSI GeForce RTX 3070 Ti VENTUS 3X 8G OC Gaming Graphics Card - 8GB GDDR6X, 1800 MHz, PCI Express Gen 4, 256 bit, 3x DP v 1.4a, HDMI 2.1 (Supports 4K)",
+    "image": null
+   },
+   {
     "shop": "amazon.com",
     "price": 880.0,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0957VHM86?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-25T02:37:01Z",
+    "lastSeen": "2026-11-25T17:39:54Z",
     "product": "MSI GeForce RTX 3070 Ti Ventus 3X 8G OC Gaming Graphics Card - 8GB GDDR6X, 1800 MHz, PCI Express Gen 4, 256 bit, 3X DP v 1.4a, HDMI 2.1 (Supports 4K) : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-25T02:37:01Z"
+  "lastUpdated": "2026-11-25T17:39:54Z"
  },
  {
   "id": "rtx3070",
@@ -2425,13 +2425,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B08PW559LL?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-25T02:25:21Z",
+    "lastSeen": "2026-11-25T17:32:58Z",
     "product": "Geforce Nvidia RTX 3060ti Founders Edition 8GB : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-25T02:25:21Z"
+  "lastUpdated": "2026-11-25T17:32:58Z"
  },
  {
   "id": "rtx3060",
@@ -2447,46 +2447,6 @@
     "lastSeen": "2026-11-23T17:11:56Z",
     "product": "GIGABYTE GeForce RTX 3060 WINDFORCE OC 12G (rev. 2.0) GDDR6 Graphics Card",
     "image": "https://ccimg.canadacomputers.com/Products/800x800/230/522/242414/25363.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 519.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00749630.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Gigabyte GeForce RTX 3060 GAMING OC 8G",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/36/40/LD0006364012.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 579.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00515907.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Gigabyte GeForce RTX 3060 WINDFORCE OC 12G (LHR)",
-    "image": "https://media.ldlc.com/r150/ld/products/00/05/97/69/LD0005976920.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 579.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00748326.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Gainward GeForce RTX 3060 Python II OC",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/36/29/LD0006362910.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 599.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00408449.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Gigabyte GeForce RTX 3060 GAMING OC 12G",
-    "image": "https://media.ldlc.com/r150/ld/products/00/05/78/80/LD0005788028_1.jpg"
    },
    {
     "shop": "morele.net",
@@ -2619,18 +2579,58 @@
     "image": null
    },
    {
+    "shop": "ldlc.com",
+    "price": 519.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00749630.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Gigabyte GeForce RTX 3060 GAMING OC 8G",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/36/40/LD0006364012.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 579.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00515907.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Gigabyte GeForce RTX 3060 WINDFORCE OC 12G (LHR)",
+    "image": "https://media.ldlc.com/r150/ld/products/00/05/97/69/LD0005976920.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 579.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00748326.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Gainward GeForce RTX 3060 Python II OC",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/36/29/LD0006362910.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 599.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00408449.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Gigabyte GeForce RTX 3060 GAMING OC 12G",
+    "image": "https://media.ldlc.com/r150/ld/products/00/05/78/80/LD0005788028_1.jpg"
+   },
+   {
     "shop": "amazon.com",
     "price": 533.8,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B08WHML7GL?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-25T02:31:16Z",
+    "lastSeen": "2026-11-25T17:34:55Z",
     "product": "MSI Geforce RTX 3060 Gaming X, 12gb, Gddr6, 192-bit, 912-v397-019 Video Card, Model: V397-019R : Electronics",
     "image": null
    }
   ],
   "image": "images/gpus-rtx3060.jpg",
-  "lastUpdated": "2026-11-25T02:31:16Z"
+  "lastUpdated": "2026-11-25T17:34:55Z"
  },
  {
   "id": "rx7600",
@@ -2646,46 +2646,6 @@
     "lastSeen": "2026-11-23T17:11:56Z",
     "product": "GIGABYTE Radeon RX 7600 GAMING OC 8GB GDDR6 Graphics Card",
     "image": "https://ccimg.canadacomputers.com/Products/800x800/230/522/241115/23544.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 529.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00555881.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "ASUS Radeon RX 7600 DUAL O8G",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/03/95/LD0006039512.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 579.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00555869.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Gigabyte Radeon RX 7600 GAMING OC 8G",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/03/94/LD0006039482.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 599.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00554415.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Sapphire Pulse AMD Radeon RX 7600 8GB",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/03/65/LD0006036584.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 499.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00555974.html",
-    "inStock": false,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "ASRock AMD Radeon RX 7600 Challenger 8GB",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/04/00/LD0006040071.jpg"
    },
    {
     "shop": "morele.net",
@@ -2778,26 +2738,6 @@
     "image": "https://media.materiel.net/r250/products/MN0006039730.jpg"
    },
    {
-    "shop": "amazon.it",
-    "price": 461.35,
-    "currency": "EUR",
-    "url": "https://www.amazon.it/dp/B0DR25XD68?tag=fraym06-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T17:23:11Z",
-    "product": "XFX Speedster SWFT210 - Scheda grafica Radeon RX 7600 con 8 GB GDDR6 HDMI 3xDP, AMD RDNA 3 RX-76PSWFTFA",
-    "image": null
-   },
-   {
-    "shop": "amazon.co.uk",
-    "price": 373.08,
-    "currency": "GBP",
-    "url": "https://www.amazon.co.uk/dp/B0DR25XD68?tag=fraym0a-21",
-    "inStock": true,
-    "lastSeen": "2026-11-25T02:21:32Z",
-    "product": "XFX Speedster SWFT210 Radeon RX 7600 Graphics Card with 8GB GDDR6 HDMI 3xDP, AMD RDNA 3 RX-76PSWFTFA",
-    "image": null
-   },
-   {
     "shop": "amazon.fr",
     "price": 444.64,
     "currency": "EUR",
@@ -2818,18 +2758,78 @@
     "image": null
    },
    {
+    "shop": "ldlc.com",
+    "price": 529.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00555881.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "ASUS Radeon RX 7600 DUAL O8G",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/03/95/LD0006039512.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 579.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00555869.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Gigabyte Radeon RX 7600 GAMING OC 8G",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/03/94/LD0006039482.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 599.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00554415.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Sapphire Pulse AMD Radeon RX 7600 8GB",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/03/65/LD0006036584.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 499.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00555974.html",
+    "inStock": false,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "ASRock AMD Radeon RX 7600 Challenger 8GB",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/04/00/LD0006040071.jpg"
+   },
+   {
+    "shop": "amazon.it",
+    "price": 461.35,
+    "currency": "EUR",
+    "url": "https://www.amazon.it/dp/B0DR25XD68?tag=fraym06-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T17:24:25Z",
+    "product": "XFX Speedster SWFT210 - Scheda grafica Radeon RX 7600 con 8 GB GDDR6 HDMI 3xDP, AMD RDNA 3 RX-76PSWFTFA",
+    "image": null
+   },
+   {
+    "shop": "amazon.co.uk",
+    "price": 373.08,
+    "currency": "GBP",
+    "url": "https://www.amazon.co.uk/dp/B0DR25XD68?tag=fraym0a-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T17:29:44Z",
+    "product": "XFX Speedster SWFT210 Radeon RX 7600 Graphics Card with 8GB GDDR6 HDMI 3xDP, AMD RDNA 3 RX-76PSWFTFA",
+    "image": null
+   },
+   {
     "shop": "amazon.com",
     "price": 387.64,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0DR25XD68?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-25T02:37:13Z",
+    "lastSeen": "2026-11-25T17:40:03Z",
     "product": "XFX Speedster SWFT210 Radeon RX 7600 Graphics Card with 8GB GDDR6 HDMI 3xDP, AMD RDNA 3 RX-76PSWFTFA : Electronics",
     "image": null
    }
   ],
   "image": "images/gpus-rx7600.jpg",
-  "lastUpdated": "2026-11-25T02:37:13Z"
+  "lastUpdated": "2026-11-25T17:40:03Z"
  },
  {
   "id": "rx9070xt",
@@ -2917,86 +2917,6 @@
     "image": "https://ccimg.canadacomputers.com/Products/800x800/230/419/281410/62364.jpg"
    },
    {
-    "shop": "ldlc.com",
-    "price": 1329.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00715126.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "ASRock AMD Radeon RX 9070 XT Challenger 16GB",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/29/87/LD0006298756.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 1349.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00671039.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "ASRock AMD Radeon RX 9070 XT Steel Legend 16GB",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/21/98/LD0006219802.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 1359.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00671029.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "PowerColor Reaper AMD Radeon RX 9070 XT 16GB",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/21/97/LD0006219713.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 1379.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00671201.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Gigabyte Radeon RX 9070 XT GAMING OC 16G",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/22/02/LD0006220229.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 1379.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00671042.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Sapphire PUlse AMD Radeon RX 9070 XT 16GB",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/21/98/LD0006219828.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 1399.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00671040.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "ASRock AMD Radeon RX 9070 XT Taichi 16GB",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/21/98/LD0006219813.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 1399.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00671204.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Gigabyte AORUS Radeon RX 9070 XT ELITE 16G",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/22/02/LD0006220246.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 1399.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00671041.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Sapphire PURE AMD Radeon RX 9070 XT 16GB",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/21/98/LD0006219808.jpg"
-   },
-   {
     "shop": "materiel.net",
     "price": 1329.95,
     "currency": "EUR",
@@ -3077,12 +2997,92 @@
     "image": "https://media.materiel.net/r250/products/MN0006221135.jpg"
    },
    {
+    "shop": "ldlc.com",
+    "price": 1329.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00715126.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "ASRock AMD Radeon RX 9070 XT Challenger 16GB",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/29/87/LD0006298756.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 1349.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00671039.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "ASRock AMD Radeon RX 9070 XT Steel Legend 16GB",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/21/98/LD0006219802.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 1359.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00671029.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "PowerColor Reaper AMD Radeon RX 9070 XT 16GB",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/21/97/LD0006219713.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 1379.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00671201.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Gigabyte Radeon RX 9070 XT GAMING OC 16G",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/22/02/LD0006220229.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 1379.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00671042.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Sapphire PUlse AMD Radeon RX 9070 XT 16GB",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/21/98/LD0006219828.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 1399.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00671040.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "ASRock AMD Radeon RX 9070 XT Taichi 16GB",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/21/98/LD0006219813.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 1399.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00671204.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Gigabyte AORUS Radeon RX 9070 XT ELITE 16G",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/22/02/LD0006220246.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 1399.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00671041.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Sapphire PURE AMD Radeon RX 9070 XT 16GB",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/21/98/LD0006219808.jpg"
+   },
+   {
     "shop": "amazon.co.uk",
     "price": 688.32,
     "currency": "GBP",
     "url": "https://www.amazon.co.uk/dp/B0DRPRZMK2?tag=fraym0a-21",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:29:13Z",
+    "lastSeen": "2026-11-25T17:26:32Z",
     "product": "Sapphire PULSE AMD RADEON™ RX 9070 XT GAMING 16GB DUAL HDMI/DUAL DP",
     "image": null
    },
@@ -3092,7 +3092,7 @@
     "currency": "EUR",
     "url": "https://www.amazon.it/dp/B0DRPRZMK2?tag=fraym06-21",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:32:19Z",
+    "lastSeen": "2026-11-25T17:28:15Z",
     "product": "Sapphire Pulse Radeon RX 9070 XT - Grafikkarte",
     "image": null
    },
@@ -3102,7 +3102,7 @@
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B0DRPRZMK2?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-25T02:28:11Z",
+    "lastSeen": "2026-11-25T17:34:11Z",
     "product": "Sapphire Pulse Radeon Rx 9070 Xt Amd 16 Gb Gddr6 (rx 9070 Xt 16gb Sapphire Pulse Radeon Gddr6 3 Fan)",
     "image": null
    },
@@ -3112,13 +3112,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0DRPRZMK2?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-25T02:36:44Z",
+    "lastSeen": "2026-11-25T17:39:37Z",
     "product": "Sapphire Pulse AMD Radeon™ RX 9070 XT Gaming 16GB Dual HDMI/Dual DP : Electronics",
     "image": null
    }
   ],
   "image": "images/gpus-rx9070xt.jpg",
-  "lastUpdated": "2026-11-25T02:36:44Z"
+  "lastUpdated": "2026-11-25T17:39:37Z"
  },
  {
   "id": "rx9070",
@@ -3154,46 +3154,6 @@
     "lastSeen": "2026-11-23T17:11:56Z",
     "product": "ASUS Prime Radeon RX 9070 OC GDDR6 Triple Fans",
     "image": "https://ccimg.canadacomputers.com/Products/800x800/230/419/267255/73498.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 1129.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00671036.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "ASRock AMD Radeon RX 9070 Challenger 16GB",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/21/97/LD0006219774.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 1149.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00671046.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Sapphire NITRO+ AMD Radeon RX 9070 16GB",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/21/98/LD0006219869.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 1169.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00757009.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Gigabyte Radeon RX 9070 GAMING 16G",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/38/38/LD0006383812.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 1199.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00671205.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Gigabyte Radeon RX 9070 GAMING OC 16G",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/22/02/LD0006220268.jpg"
    },
    {
     "shop": "materiel.net",
@@ -3246,18 +3206,58 @@
     "image": null
    },
    {
+    "shop": "ldlc.com",
+    "price": 1129.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00671036.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "ASRock AMD Radeon RX 9070 Challenger 16GB",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/21/97/LD0006219774.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 1149.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00671046.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Sapphire NITRO+ AMD Radeon RX 9070 16GB",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/21/98/LD0006219869.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 1169.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00757009.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Gigabyte Radeon RX 9070 GAMING 16G",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/38/38/LD0006383812.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 1199.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00671205.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Gigabyte Radeon RX 9070 GAMING OC 16G",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/22/02/LD0006220268.jpg"
+   },
+   {
     "shop": "amazon.com",
     "price": 1159.99,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0DRPRN49L?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-25T02:24:36Z",
+    "lastSeen": "2026-11-25T17:32:37Z",
     "product": "Sapphire Pure AMD Radeon™ RX 9070 Gaming OC 16GB Dual HDMI/Dual DP : Electronics",
     "image": null
    }
   ],
   "image": "images/gpus-rx9070.jpg",
-  "lastUpdated": "2026-11-25T02:24:36Z"
+  "lastUpdated": "2026-11-25T17:32:37Z"
  },
  {
   "id": "rtx5050",
@@ -3343,86 +3343,6 @@
     "lastSeen": "2026-11-23T17:11:56Z",
     "product": "MSI GeForce RTX 5050 8G SHADOW 2X OC, GDDR6 8GB Black",
     "image": "https://ccimg.canadacomputers.com/Products/800x800/230/420/276318/03855.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 509.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00692477.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Gainward GeForce RTX 5050 Ghost",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/25/90/LD0006259018.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 519.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00703194.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Gigabyte GeForce RTX 5050 D6 8G",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/27/76/LD0006277658.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 519.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00691491.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Gigabyte GeForce RTX 5050 GAMING OC 8G",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/25/72/LD0006257258.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 539.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00691492.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Gigabyte GeForce RTX 5050 WINDFORCE OC 8G",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/25/72/LD0006257263.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 539.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00691490.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Gigabyte GeForce RTX 5050 OC Low Profile 8G",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/25/72/LD0006257253.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 539.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00692475.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "MSI GeForce RTX 5050 8G GAMING OC",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/25/89/LD0006258998.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 549.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00692474.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "MSI GeForce RTX 5050 8G VENTUS 2X OC",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/25/89/LD0006258988.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 559.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00713648.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Gigabyte GeForce RTX 5050 WINDFORCE OC V2 8G",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/29/56/LD0006295664.jpg"
    },
    {
     "shop": "morele.net",
@@ -3583,10 +3503,90 @@
     "lastSeen": "2026-11-24T16:56:35Z",
     "product": "Gigabyte GeForce RTX 5050 WINDFORCE OC V2 8G",
     "image": "https://media.materiel.net/r250/products/MN0006296068.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 509.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00692477.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Gainward GeForce RTX 5050 Ghost",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/25/90/LD0006259018.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 519.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00703194.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Gigabyte GeForce RTX 5050 D6 8G",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/27/76/LD0006277658.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 519.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00691491.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Gigabyte GeForce RTX 5050 GAMING OC 8G",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/25/72/LD0006257258.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 539.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00691492.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Gigabyte GeForce RTX 5050 WINDFORCE OC 8G",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/25/72/LD0006257263.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 539.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00691490.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Gigabyte GeForce RTX 5050 OC Low Profile 8G",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/25/72/LD0006257253.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 539.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00692475.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "MSI GeForce RTX 5050 8G GAMING OC",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/25/89/LD0006258998.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 549.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00692474.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "MSI GeForce RTX 5050 8G VENTUS 2X OC",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/25/89/LD0006258988.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 559.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00713648.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Gigabyte GeForce RTX 5050 WINDFORCE OC V2 8G",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/29/56/LD0006295664.jpg"
    }
   ],
   "image": "images/gpus-rtx5050.jpg",
-  "lastUpdated": "2026-11-24T16:56:35Z"
+  "lastUpdated": "2026-11-25T16:44:37Z"
  },
  {
   "id": "rtx3050",
@@ -3602,16 +3602,6 @@
     "lastSeen": "2026-11-23T17:11:56Z",
     "product": "ZOTAC GAMING GeForce RTX 3050 Twin Edge OC GDDR6 Double Fans",
     "image": "https://ccimg.canadacomputers.com/Products/800x800/230/420/98636.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 419.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00586861.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Gigabyte GeForce RTX 3050 WINDFORCE OC V2 8G",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/09/41/LD0006094147.jpg"
    },
    {
     "shop": "morele.net",
@@ -3662,10 +3652,20 @@
     "lastSeen": "2026-11-24T16:56:35Z",
     "product": "Gigabyte GeForce RTX 3050 WINDFORCE OC V2 8G",
     "image": "https://media.materiel.net/r250/products/MN0006094369.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 419.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00586861.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Gigabyte GeForce RTX 3050 WINDFORCE OC V2 8G",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/09/41/LD0006094147.jpg"
    }
   ],
   "image": "images/gpus-rtx3050.jpg",
-  "lastUpdated": "2026-11-24T16:56:35Z"
+  "lastUpdated": "2026-11-25T16:44:37Z"
  },
  {
   "id": "rx9060xt",
@@ -3753,86 +3753,6 @@
     "image": "https://ccimg.canadacomputers.com/Products/800x800/230/419/274612/16420.jpg"
    },
    {
-    "shop": "ldlc.com",
-    "price": 949.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00686779.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "PowerColor Reaper AMD Radeon RX 9060 XT 16GB",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/24/91/LD0006249162.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 969.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00686694.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "ASRock AMD Radeon RX 9060 XT Challenger 16GB OC",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/24/90/LD0006249058.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 989.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00686684.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Gigabyte Radeon RX 9060 XT GAMING OC 16G",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/24/90/LD0006249019.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 999.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00686662.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Sapphire PULSE AMD Radeon RX 9060 XT 16GB",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/24/88/LD0006248876.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 1019.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00715130.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Gigabyte Radeon RX 9060 XT GAMING OC ICE 16G",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/29/88/LD0006298818.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 1019.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00686670.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Sapphire PURE AMD Radeon RX 9060 XT 16GB",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/24/89/LD0006248919.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 1019.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00749585.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "ASUS Dual Radeon RX 9060 XT 16GB GDDR6",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/36/39/LD0006363920.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 1039.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00686673.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Sapphire NITRO+ AMD Radeon RX 9060 XT 16GB",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/24/89/LD0006248944.jpg"
-   },
-   {
     "shop": "morele.net",
     "price": 3718.06,
     "currency": "PLN",
@@ -3911,10 +3831,90 @@
     "lastSeen": "2026-11-24T16:56:35Z",
     "product": "Asus Prime Radeon RX 9060 XT 16G GDDR6 OC Edition",
     "image": "https://media.materiel.net/r250/products/MN0006248630.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 949.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00686779.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "PowerColor Reaper AMD Radeon RX 9060 XT 16GB",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/24/91/LD0006249162.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 969.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00686694.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "ASRock AMD Radeon RX 9060 XT Challenger 16GB OC",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/24/90/LD0006249058.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 989.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00686684.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Gigabyte Radeon RX 9060 XT GAMING OC 16G",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/24/90/LD0006249019.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 999.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00686662.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Sapphire PULSE AMD Radeon RX 9060 XT 16GB",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/24/88/LD0006248876.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 1019.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00715130.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Gigabyte Radeon RX 9060 XT GAMING OC ICE 16G",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/29/88/LD0006298818.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 1019.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00686670.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Sapphire PURE AMD Radeon RX 9060 XT 16GB",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/24/89/LD0006248919.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 1019.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00749585.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "ASUS Dual Radeon RX 9060 XT 16GB GDDR6",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/36/39/LD0006363920.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 1039.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00686673.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Sapphire NITRO+ AMD Radeon RX 9060 XT 16GB",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/24/89/LD0006248944.jpg"
    }
   ],
   "image": "images/gpus-rx9060xt.jpg",
-  "lastUpdated": "2026-11-24T16:56:35Z"
+  "lastUpdated": "2026-11-25T16:44:37Z"
  },
  {
   "id": "rx6800",
@@ -3994,13 +3994,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0BM4QGB5K?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-25T02:33:23Z",
+    "lastSeen": "2026-11-25T17:36:24Z",
     "product": "Intel® Arc™ A750 8GB PCI Express 4.0 Graphics Card : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-25T02:33:23Z"
+  "lastUpdated": "2026-11-25T17:36:24Z"
  },
  {
   "id": "nvidia-rtx-3050-6g",
@@ -4036,66 +4036,6 @@
     "lastSeen": "2026-11-23T17:11:56Z",
     "product": "ASUS Dual NVIDIA GeForce RTX 3050 6GB OC Edition HMDI DP DVI",
     "image": "https://ccimg.canadacomputers.com/Products/800x800/230/420/85861.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 319.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00657083.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "MSI GeForce RTX 3050 VENTUS 2X E 6G OC",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/19/46/LD0006194691.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 329.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00716763.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Gigabyte GeForce RTX 3050 WINDFORCE OC V2 6G",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/30/26/LD0006302601.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 349.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00591503.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Gainward GeForce RTX 3050 Pegasus 6G",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/10/46/LD0006104684.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 379.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00591513.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "ASUS DUAL GeForce RTX 3050 OC O6G",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/10/93/LD0006109331.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 549.99,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00591130.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Gigabyte GeForce RTX 3050 OC Low Profile 6G",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/10/35/LD0006103566.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 359.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00591500.html",
-    "inStock": false,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "MSI GeForce RTX 3050 VENTUS 2X 6G OC",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/10/46/LD0006104651.jpg"
    },
    {
     "shop": "materiel.net",
@@ -4228,12 +4168,72 @@
     "image": "https://images.morele.net/i256/13192155_6_i256.jpg"
    },
    {
+    "shop": "ldlc.com",
+    "price": 319.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00657083.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "MSI GeForce RTX 3050 VENTUS 2X E 6G OC",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/19/46/LD0006194691.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 329.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00716763.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Gigabyte GeForce RTX 3050 WINDFORCE OC V2 6G",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/30/26/LD0006302601.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 349.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00591503.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Gainward GeForce RTX 3050 Pegasus 6G",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/10/46/LD0006104684.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 379.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00591513.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "ASUS DUAL GeForce RTX 3050 OC O6G",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/10/93/LD0006109331.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 549.99,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00591130.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Gigabyte GeForce RTX 3050 OC Low Profile 6G",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/10/35/LD0006103566.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 359.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00591500.html",
+    "inStock": false,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "MSI GeForce RTX 3050 VENTUS 2X 6G OC",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/10/46/LD0006104651.jpg"
+   },
+   {
     "shop": "amazon.co.uk",
     "price": 294.31,
     "currency": "GBP",
     "url": "https://www.amazon.co.uk/dp/B0CSPRNRZC?tag=fraym0a-21",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:29:48Z",
+    "lastSeen": "2026-11-25T17:26:49Z",
     "product": "MSI GeForce RTX 3050 LP 6G OC",
     "image": null
    },
@@ -4243,8 +4243,18 @@
     "currency": "EUR",
     "url": "https://www.amazon.it/dp/B0CSPRNRZC?tag=fraym06-21",
     "inStock": true,
-    "lastSeen": "2026-11-25T02:23:31Z",
+    "lastSeen": "2026-11-25T17:31:59Z",
     "product": "MSI GeForce RTX 3050 LP 6G OC (6GB GDDR6/PCI Express 4.0/1492MHz/14000MHz/Low Profile)",
+    "image": null
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 478.22,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B0CSPRNRZC?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T17:33:50Z",
+    "product": "MSI NVIDIA GeForce RTX 3050 LP 6G OC Carte Graphique - 6 Go GDDR6, 1492 MHz, PCI Express Gen 4, 96 Bits, DP v 1.4a, 2X HDMI 2.1 (Prend en Charge 4K à 120 Hz)",
     "image": null
    },
    {
@@ -4253,13 +4263,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0CSPRNRZC?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-25T02:36:46Z",
+    "lastSeen": "2026-11-25T17:39:39Z",
     "product": "MSI GeForce RTX 3050 LP 6G OC Gaming Graphics Card - 6GB GDDR6, 1492 MHz, PCI Express Gen 4, 96-bit, 1x DP (v1.4a), 2X HDMI 2.1 (Supports 4K) : Electronics",
     "image": null
    }
   ],
   "image": "images/gpus-nvidia-rtx-3050-6g.jpg",
-  "lastUpdated": "2026-11-25T02:36:46Z"
+  "lastUpdated": "2026-11-25T17:39:39Z"
  },
  {
   "id": "nvidia-rtx-5060-ti-8g",
@@ -4317,86 +4327,6 @@
     "image": "https://ccimg.canadacomputers.com/Products/800x800/230/271351/16858.jpg"
    },
    {
-    "shop": "ldlc.com",
-    "price": 759.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00677457.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Gigabyte GeForce RTX 5060 Ti AERO OC 8G",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/23/76/LD0006237698.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 759.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00677282.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Gainward GeForce RTX 5060 Ti Ghost 8GB",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/23/64/LD0006236479.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 779.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00677288.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Gainward GeForce RTX 5060 Ti Ghost OC 8GB",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/23/65/LD0006236531.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 789.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00677298.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "MSI GeForce RTX 5060 Ti 8G VENTUS 2X OC PLUS",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/23/72/LD0006237273.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 789.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00723338.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Gigabyte GeForce RTX 5060 Ti EAGLE MAX OC 8G",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/31/35/LD0006313510.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 789.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00677464.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Gigabyte GeForce RTX 5060 Ti EAGLE OC 8G",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/23/77/LD0006237785.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 799.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00677462.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Gigabyte GeForce RTX 5060 Ti WINDFORCE OC 8G",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/23/77/LD0006237763.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 809.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00721611.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "MSI GeForce RTX 5060 Ti 8G GAMING TRIO OC",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/33/48/LD0006334813.jpg"
-   },
-   {
     "shop": "materiel.net",
     "price": 789.95,
     "currency": "EUR",
@@ -4427,18 +4357,98 @@
     "image": null
    },
    {
+    "shop": "ldlc.com",
+    "price": 759.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00677457.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Gigabyte GeForce RTX 5060 Ti AERO OC 8G",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/23/76/LD0006237698.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 759.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00677282.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Gainward GeForce RTX 5060 Ti Ghost 8GB",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/23/64/LD0006236479.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 779.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00677288.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Gainward GeForce RTX 5060 Ti Ghost OC 8GB",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/23/65/LD0006236531.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 789.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00677298.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "MSI GeForce RTX 5060 Ti 8G VENTUS 2X OC PLUS",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/23/72/LD0006237273.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 789.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00723338.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Gigabyte GeForce RTX 5060 Ti EAGLE MAX OC 8G",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/31/35/LD0006313510.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 789.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00677464.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Gigabyte GeForce RTX 5060 Ti EAGLE OC 8G",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/23/77/LD0006237785.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 799.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00677462.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Gigabyte GeForce RTX 5060 Ti WINDFORCE OC 8G",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/23/77/LD0006237763.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 809.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00721611.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "MSI GeForce RTX 5060 Ti 8G GAMING TRIO OC",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/33/48/LD0006334813.jpg"
+   },
+   {
     "shop": "amazon.com",
     "price": 832.9,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B096Z886F8?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-25T02:38:09Z",
+    "lastSeen": "2026-11-25T17:40:54Z",
     "product": "MSI GeForce RTX 5060 Ti 8G Gaming Trio OC - Gaming Graphics Card | 8GB GDDR7 (28Gbps/128-bit), PCIe 5, Boost: 2647MHz, HDMI 2.1b, DisplayPort 2.1b : Electronics",
     "image": null
    }
   ],
   "image": "images/gpus-nvidia-rtx-5060-ti-8g.jpg",
-  "lastUpdated": "2026-11-25T02:38:09Z"
+  "lastUpdated": "2026-11-25T17:40:54Z"
  },
  {
   "id": "amd-rx-570",
@@ -4487,13 +4497,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B07WNYZJ7Y?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-25T02:38:00Z",
+    "lastSeen": "2026-11-25T17:40:45Z",
     "product": "PowerColor Red Dragon AMD Radeon RX 5700 XT 8GB AXRX 5700XT 8GBD6-3DHR/OC : Electronics",
     "image": null
    }
   ],
   "image": "images/gpus-amd-rx-5700-xt.jpg",
-  "lastUpdated": "2026-11-25T02:38:00Z"
+  "lastUpdated": "2026-11-25T17:40:45Z"
  },
  {
   "id": "amd-rx-6400",
@@ -4516,13 +4526,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B09WF47XF4?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-25T02:32:24Z",
+    "lastSeen": "2026-11-25T17:35:48Z",
     "product": "MSI Gaming Radeon RX 6400 64-bit 4GB GDDR6 DP/HDMI PCIe 4 Torx Single Fan FreeSync DirectX 12 VR Ready ITX OC Graphics Card (RX 6400 AERO ITX 4G) : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-25T02:32:24Z"
+  "lastUpdated": "2026-11-25T17:35:48Z"
  },
  {
   "id": "amd-rx-6500-xt",
@@ -4541,11 +4551,11 @@
    },
    {
     "shop": "amazon.co.uk",
-    "price": 416.3,
+    "price": 425.07,
     "currency": "GBP",
     "url": "https://www.amazon.co.uk/dp/B09R1RVN3R?tag=fraym0a-21",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:30:37Z",
+    "lastSeen": "2026-11-25T17:27:36Z",
     "product": "MSI Radeon RX 6500 XT MECH 2X 4G OC Gaming Graphics Card - 4GB GDDR6, 2825 MHz, PCI Express 4 x 4, 64-bit, 1 x DP v 1.4a, HDMI 2.1 (Supports 4K & 8K)",
     "image": null
    },
@@ -4555,49 +4565,19 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B09R1RVN3R?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-25T02:38:01Z",
+    "lastSeen": "2026-11-25T17:40:46Z",
     "product": "MSI Gaming AMD Radeon RX 6500 XT 64-bit 4GB GDDR6 DP/HDMI PCIe 4 Torx Twin Fans FreeSync DirectX 12 VR Ready OC Graphics Card (RX 6500 XT MECH 2X 4G OC) : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-25T02:38:01Z"
+  "lastUpdated": "2026-11-25T17:40:46Z"
  },
  {
   "id": "amd-rx-9060-xt-8g",
   "name": "Radeon RX 9060 XT 8G",
-  "priceMin": 649.95,
+  "priceMin": 639.95,
   "prices": [
-   {
-    "shop": "ldlc.com",
-    "price": 649.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00686664.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Sapphire PULSE AMD Radeon RX 9060 XT 8GB",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/24/88/LD0006248892.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 689.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00686682.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Gigabyte Radeon RX 9060 XT GAMING OC 8G",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/24/90/LD0006249000.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 709.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00686372.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "ASUS Dual Radeon RX 9060 XT 8GB GDDR6",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/24/81/LD0006248116.jpg"
-   },
    {
     "shop": "materiel.net",
     "price": 649.95,
@@ -4617,10 +4597,50 @@
     "lastSeen": "2026-11-24T16:56:35Z",
     "product": "Asus Dual Radeon RX 9060 XT 8G GDDR6",
     "image": "https://media.materiel.net/r250/products/MN0006248600.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 639.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00686780.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "PowerColor Reaper AMD Radeon RX 9060 XT 8GB",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/24/91/LD0006249162_0006249170.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 689.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00686682.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Gigabyte Radeon RX 9060 XT GAMING OC 8G",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/24/90/LD0006249000.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 709.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00686372.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "ASUS Dual Radeon RX 9060 XT 8GB GDDR6",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/24/81/LD0006248116.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 649.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00686664.html",
+    "inStock": false,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "Sapphire PULSE AMD Radeon RX 9060 XT 8GB",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/24/88/LD0006248892.jpg"
    }
   ],
   "image": "images/gpus-amd-rx-9060-xt-8g.jpg",
-  "lastUpdated": "2026-11-24T16:56:35Z"
+  "lastUpdated": "2026-11-25T16:44:37Z"
  },
  {
   "id": "intel-arc-a380",
@@ -4653,13 +4673,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0BFD8DSM3?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-25T02:31:35Z",
+    "lastSeen": "2026-11-25T17:35:17Z",
     "product": "ASRock Intel Arc A380 Challenger ITX 6GB OC, 2250MHz GPU, 6GB GDDR6 96-bit, PCIe 4.0, Single Fan, 0dB Silent, DP 2.0, HDMI 2.0b : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-25T02:31:35Z"
+  "lastUpdated": "2026-11-25T17:35:17Z"
  },
  {
   "id": "intel-arc-a770",
@@ -4696,26 +4716,6 @@
     "image": "https://images.morele.net/i256/14453145_0_i256.jpg"
    },
    {
-    "shop": "amazon.it",
-    "price": 469.46,
-    "currency": "EUR",
-    "url": "https://www.amazon.it/dp/B0DR337DJG?tag=fraym06-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T17:23:40Z",
-    "product": "Sparkle Scheda grafica Intel Arc B570 Guardian OC, 10 GB GDDR6, raffreddamento strappato 2.0, ventola assiale, luce respiratoria, piastra posteriore in metallo, SB570G-10GOC",
-    "image": null
-   },
-   {
-    "shop": "amazon.fr",
-    "price": 457.39,
-    "currency": "EUR",
-    "url": "https://www.amazon.fr/dp/B0DR337DJG?tag=fraym-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T17:24:24Z",
-    "product": "Sparkle Intel Arc B570 Guardian OC 10GB GDDR6",
-    "image": null
-   },
-   {
     "shop": "ldlc.com",
     "price": 399.95,
     "currency": "EUR",
@@ -4734,10 +4734,30 @@
     "lastSeen": "2026-11-25T01:55:38Z",
     "product": "ASRock Intel Arc B570 Challenger 10GB OC",
     "image": "https://media.materiel.net/r900/products/MN0006200062.jpg"
+   },
+   {
+    "shop": "amazon.it",
+    "price": 469.46,
+    "currency": "EUR",
+    "url": "https://www.amazon.it/dp/B0DR337DJG?tag=fraym06-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T17:24:37Z",
+    "product": "Sparkle Scheda grafica Intel Arc B570 Guardian OC, 10 GB GDDR6, raffreddamento strappato 2.0, ventola assiale, luce respiratoria, piastra posteriore in metallo, SB570G-10GOC",
+    "image": null
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 457.39,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B0DR337DJG?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T17:27:04Z",
+    "product": "Sparkle Intel Arc B570 Guardian OC 10GB GDDR6",
+    "image": null
    }
   ],
   "image": "images/gpus-intel-arc-b570.jpg",
-  "lastUpdated": "2026-11-25T01:55:38Z"
+  "lastUpdated": "2026-11-25T17:27:04Z"
  },
  {
   "id": "rtx5000ada",
@@ -4775,12 +4795,22 @@
     "image": "https://images.morele.net/i256/13173112_1_i256.jpg"
    },
    {
+    "shop": "amazon.it",
+    "price": 3606.55,
+    "currency": "EUR",
+    "url": "https://www.amazon.it/dp/B0CKPTSVG4?tag=fraym06-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T02:31:42Z",
+    "product": "PNY NVIDIA RTX 5000 Ada Generation - Grafikkarte",
+    "image": null
+   },
+   {
     "shop": "amazon.es",
     "price": 3636.36,
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B0CKPTSVG4?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:31:13Z",
+    "lastSeen": "2026-11-25T17:27:24Z",
     "product": "PNY NVIDIA RTX 5000 Ada Generation 32 GB GDDR6 PCI Express 4.0 Dual Slot 4X DisplayPort, 8K Support, Ventilador Activo Ultra silencioso",
     "image": null
    },
@@ -4790,7 +4820,7 @@
     "currency": "EUR",
     "url": "https://www.amazon.de/dp/B0CKPTSVG4?tag=fraym03-21",
     "inStock": true,
-    "lastSeen": "2026-11-25T02:21:23Z",
+    "lastSeen": "2026-11-25T17:30:34Z",
     "product": "PNY NVIDIA RTX 5000 Ada Generation 32GB GDDR6 PCI Express 4.0 Dual Slot 4X DisplayPort, 8K Support, Ultraleiser aktiver Lüfter",
     "image": null
    },
@@ -4800,23 +4830,13 @@
     "currency": "GBP",
     "url": "https://www.amazon.co.uk/dp/B0CKPTSVG4?tag=fraym0a-21",
     "inStock": true,
-    "lastSeen": "2026-11-25T02:22:32Z",
+    "lastSeen": "2026-11-25T17:30:51Z",
     "product": "PNY NVIDIA RTX 5000 Ada Generation 32GB GDDR6 PCI Express 4.0 Dual Slot 4X DisplayPort, 8K Support, Ultra Quiet Active Fan",
-    "image": null
-   },
-   {
-    "shop": "amazon.it",
-    "price": 3606.55,
-    "currency": "EUR",
-    "url": "https://www.amazon.it/dp/B0CKPTSVG4?tag=fraym06-21",
-    "inStock": true,
-    "lastSeen": "2026-11-25T02:31:42Z",
-    "product": "PNY NVIDIA RTX 5000 Ada Generation - Grafikkarte",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-25T02:31:42Z"
+  "lastUpdated": "2026-11-25T17:30:51Z"
  },
  {
   "id": "rtx4500ada",
@@ -4899,13 +4919,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0CJQH8519?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-25T02:37:10Z",
+    "lastSeen": "2026-11-25T17:40:00Z",
     "product": "PNY NVIDIA RTX 4500 Ada Generation 24GB GDDR6 PCI Express 4.0 Dual Slot 4X DisplayPort, 8K Support, Ultra Quiet Active Fan : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-25T02:37:10Z"
+  "lastUpdated": "2026-11-25T17:40:00Z"
  },
  {
   "id": "rtx4000ada",
@@ -5042,26 +5062,6 @@
     "image": null
    },
    {
-    "shop": "amazon.co.uk",
-    "price": 729.04,
-    "currency": "GBP",
-    "url": "https://www.amazon.co.uk/dp/B0CYQH4LLL?tag=fraym0a-21",
-    "inStock": true,
-    "lastSeen": "2026-11-25T02:23:02Z",
-    "product": "PNY NVIDIA RTX 2000 Ada Professional Graphics Card 16GB GDDR6",
-    "image": null
-   },
-   {
-    "shop": "amazon.es",
-    "price": 951.02,
-    "currency": "EUR",
-    "url": "https://www.amazon.es/dp/B0CYQH4LLL?tag=fraym08-21",
-    "inStock": true,
-    "lastSeen": "2026-11-25T02:30:42Z",
-    "product": "PNY NVIDIA RTX 2000 Ada Professional Graphics Card 16GB GDDR10",
-    "image": null
-   },
-   {
     "shop": "amazon.it",
     "price": 894.58,
     "currency": "EUR",
@@ -5072,18 +5072,38 @@
     "image": null
    },
    {
+    "shop": "amazon.co.uk",
+    "price": 743.52,
+    "currency": "GBP",
+    "url": "https://www.amazon.co.uk/dp/B0CYQH4LLL?tag=fraym0a-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T17:31:15Z",
+    "product": "PNY NVIDIA RTX 2000 Ada Professional Graphics Card 16GB GDDR6",
+    "image": null
+   },
+   {
+    "shop": "amazon.es",
+    "price": 953.34,
+    "currency": "EUR",
+    "url": "https://www.amazon.es/dp/B0CYQH4LLL?tag=fraym08-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T17:35:35Z",
+    "product": "PNY NVIDIA RTX 2000 Ada Professional Graphics Card 16GB GDDR10",
+    "image": null
+   },
+   {
     "shop": "amazon.com",
     "price": 795.0,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0CYQH4LLL?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-25T02:33:52Z",
+    "lastSeen": "2026-11-25T17:36:54Z",
     "product": "PNY NVIDIA RTX 2000 Ada Generation 16GB GDDR6 PCI Express 4.0 Dual Slot, Low Profil 4X MiniDisplayPort, 8K Support, Ultraleiser Aktiver Lüfter : Electronics",
     "image": null
    }
   ],
   "image": "images/gpus-rtx2000ada.jpg",
-  "lastUpdated": "2026-11-25T02:33:52Z"
+  "lastUpdated": "2026-11-25T17:36:54Z"
  },
  {
   "id": "rtxpro6000bw",
@@ -5109,46 +5129,6 @@
     "lastSeen": "2026-11-24T03:48:22Z",
     "product": "NVIDIA RTX PRO 6000 Blackwell 96GB GDDR7 ECC",
     "image": "https://ccimg.canadacomputers.com/Products/800x800/230/13581.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 19369.94,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00721777.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "PNY NVIDIA RTX PRO 6000 Blackwell Max-Q Workstation Edition - Version OEM",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/31/16/LD0006311652.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 19369.94,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00715553.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "PNY NVIDIA RTX PRO 6000 Blackwell Workstation Edition - Version OEM",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/29/99/LD0006299917_0006299937.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 19399.94,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00723366.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "PNY NVIDIA RTX PRO 6000 Blackwell Max-Q Workstation Edition",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/31/16/LD0006311652_0006313557.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 19919.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00761483.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "PNY NVIDIA RTX PRO 6000 Blackwell Server Edition",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/39/46/LD0006394657.jpg"
    },
    {
     "shop": "morele.net",
@@ -5231,37 +5211,77 @@
     "image": "https://images.morele.net/i256/15614883_1_i256.jpg"
    },
    {
+    "shop": "ldlc.com",
+    "price": 19369.94,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00721777.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "PNY NVIDIA RTX PRO 6000 Blackwell Max-Q Workstation Edition - Version OEM",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/31/16/LD0006311652.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 19369.94,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00715553.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "PNY NVIDIA RTX PRO 6000 Blackwell Workstation Edition - Version OEM",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/29/99/LD0006299917_0006299937.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 19399.94,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00723366.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "PNY NVIDIA RTX PRO 6000 Blackwell Max-Q Workstation Edition",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/31/16/LD0006311652_0006313557.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 19930.0,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00761483.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T16:44:37Z",
+    "product": "PNY NVIDIA RTX PRO 6000 Blackwell Server Edition",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/39/46/LD0006394657.jpg"
+   },
+   {
     "shop": "amazon.com",
     "price": 21371.5,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0FW53295F?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-25T02:38:13Z",
+    "lastSeen": "2026-11-25T17:40:57Z",
     "product": "PNY NVIDIA RTX PRO 6000 Blackwell Workstation Edition : Electronics",
     "image": null
    }
   ],
   "image": "images/gpus-rtxpro6000bw.jpg",
-  "lastUpdated": "2026-11-25T02:38:13Z"
+  "lastUpdated": "2026-11-25T17:40:57Z"
  },
  {
   "id": "radprow7900",
   "name": "Radeon PRO W7900",
-  "priceMin": 4088.29,
+  "priceMin": 2915.74,
   "prices": [
    {
     "shop": "amazon.com",
-    "price": 4415.35,
+    "price": 3149.0,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0C5DK4R3G?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-25T02:28:30Z",
+    "lastSeen": "2026-11-25T17:33:50Z",
     "product": "AMD Radeon™ Pro W7900, Professional Graphics Card, Workstation, AI, 3D Rendering, 48GB GDDR6, AV1, 61 TFLOPS, 96CUS, 295W TDP, 8K, 1x Mini DisplayPort, 3 x DisplayPort™ 2.1 : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-25T02:28:30Z"
+  "lastUpdated": "2026-11-25T17:33:50Z"
  },
  {
   "id": "radprow7800",
@@ -5363,13 +5383,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B06Y66K3XD?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-25T02:33:47Z",
+    "lastSeen": "2026-11-25T17:36:49Z",
     "product": "XFX Radeon RX 580 GTS XXX Edition 1386MHz OC+, 8GB GDDR5, VR Ready, Dual BIOS, 3xDP HDMI DVI, AMD Graphics Card (RX-580P8DFD6) : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-25T02:33:47Z"
+  "lastUpdated": "2026-11-25T17:36:49Z"
  },
  {
   "id": "amd-rx-6600-xt",
@@ -5382,13 +5402,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B099Y6439Y?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-25T02:33:20Z",
+    "lastSeen": "2026-11-25T17:36:21Z",
     "product": "Sapphire Technology Sapphire Nitro+ AMD Radeon RX 6600 XT 8GB GDDR6 Graphics Card, 11309-01-20G : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-25T02:33:20Z"
+  "lastUpdated": "2026-11-25T17:36:21Z"
  },
  {
   "id": "amd-rx-6950-xt",
@@ -5401,13 +5421,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0BKPT56HK?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-25T02:36:55Z",
+    "lastSeen": "2026-11-25T17:39:48Z",
     "product": "AMD Radeon™ RX 6950 XT gddr6 Graphics Card : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-25T02:36:55Z"
+  "lastUpdated": "2026-11-25T17:39:48Z"
  },
  {
   "id": "gtx1660s",
@@ -5470,13 +5490,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B07ZHWQ81N?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-25T02:36:57Z",
+    "lastSeen": "2026-11-25T17:39:50Z",
     "product": "ASUS GeForce GTX 1660 Super Overclocked 6GB Dual-Fan Evo Edition VR Ready HDMI DisplayPort DVI Graphics Card, 3 Year Warranty : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-25T02:36:57Z"
+  "lastUpdated": "2026-11-25T17:39:50Z"
  },
  {
   "id": "nvidia-gtx-1050-ti",
@@ -5499,39 +5519,19 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B01M360WG6?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-25T02:33:59Z",
+    "lastSeen": "2026-11-25T17:37:02Z",
     "product": "ASUS GeForce GTX 1050 Ti 4GB Phoenix Fan Edition DVI-D HDMI DP 1.4 Gaming Graphics Card (PH-GTX1050TI-4G) Graphic Cards, 3 Year Warranty : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-25T02:33:59Z"
+  "lastUpdated": "2026-11-25T17:37:02Z"
  },
  {
   "id": "nvidia-gtx-1070-ti",
   "name": "GeForce GTX 1070 Ti",
   "priceMin": 598.81,
   "prices": [
-   {
-    "shop": "amazon.fr",
-    "price": 641.12,
-    "currency": "EUR",
-    "url": "https://www.amazon.fr/dp/B076RCTXGX?tag=fraym-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T17:23:52Z",
-    "product": "ASUS Geforce GTX 1070 TI ROG Strix A8G Gaming GeForce GTX1070 Carte Graphique 8192 Mo",
-    "image": null
-   },
-   {
-    "shop": "amazon.it",
-    "price": 602.24,
-    "currency": "EUR",
-    "url": "https://www.amazon.it/dp/B076RCTXGX?tag=fraym06-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T17:32:04Z",
-    "product": "ASUS Geforce GTX 1070 TI ROG Strix A8G Gaming GeForce GTX1070 - Scheda grafica 8192 MB",
-    "image": null
-   },
    {
     "shop": "amazon.co.uk",
     "price": 514.98,
@@ -5551,15 +5551,35 @@
     "lastSeen": "2026-11-25T02:27:51Z",
     "product": "ASUS ROG-STRIX-GTX1070TI-A8G-GAMING GeForce GTX 1070 Ti 8 GB GDDR5 - Tarjeta gráfica (GeForce GTX 1070 Ti, 8 GB, GDDR5, 8008 MHz, 7680 x 4320 Pixeles, PCI Express 3.0)",
     "image": null
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 641.02,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B076RCTXGX?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T17:26:43Z",
+    "product": "ASUS Geforce GTX 1070 TI ROG Strix A8G Gaming GeForce GTX1070 Carte Graphique 8192 Mo",
+    "image": null
+   },
+   {
+    "shop": "amazon.it",
+    "price": 602.24,
+    "currency": "EUR",
+    "url": "https://www.amazon.it/dp/B076RCTXGX?tag=fraym06-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T17:28:06Z",
+    "product": "ASUS Geforce GTX 1070 TI ROG Strix A8G Gaming GeForce GTX1070 - Scheda grafica 8192 MB",
+    "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-25T02:27:51Z"
+  "lastUpdated": "2026-11-25T17:28:06Z"
  },
  {
   "id": "nvidia-gtx-1080",
   "name": "GeForce GTX 1080",
-  "priceMin": 525.26,
+  "priceMin": 525.14,
   "prices": [
    {
     "shop": "morele.net",
@@ -5572,26 +5592,6 @@
     "image": null
    },
    {
-    "shop": "amazon.fr",
-    "price": 741.26,
-    "currency": "EUR",
-    "url": "https://www.amazon.fr/dp/B01GELBO1C?tag=fraym-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T17:25:47Z",
-    "product": "Carte Graphique MSI Nvidia GeForce GTX 1080 GAMING X 8G",
-    "image": null
-   },
-   {
-    "shop": "amazon.co.uk",
-    "price": 451.72,
-    "currency": "GBP",
-    "url": "https://www.amazon.co.uk/dp/B01GELBO1C?tag=fraym0a-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T17:26:43Z",
-    "product": "MSI NVIDIA GeForce GTX 1080 GAMING X Edition 8 GB GDDR5X Twin Frozr VI Fan PCI-Express 3 Graphics Card - Black",
-    "image": null
-   },
-   {
     "shop": "amazon.it",
     "price": 587.12,
     "currency": "EUR",
@@ -5600,10 +5600,30 @@
     "lastSeen": "2026-11-24T17:35:23Z",
     "product": "MSI GeForce GTX 1080 GAMING X 8G Scheda Grafica da 8 GB, GDDR5X",
     "image": null
+   },
+   {
+    "shop": "amazon.co.uk",
+    "price": 451.62,
+    "currency": "GBP",
+    "url": "https://www.amazon.co.uk/dp/B01GELBO1C?tag=fraym0a-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T17:25:36Z",
+    "product": "MSI NVIDIA GeForce GTX 1080 GAMING X Edition 8 GB GDDR5X Twin Frozr VI Fan PCI-Express 3 Graphics Card - Black",
+    "image": null
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 741.26,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B01GELBO1C?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T17:28:16Z",
+    "product": "Carte Graphique MSI Nvidia GeForce GTX 1080 GAMING X 8G",
+    "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-24T17:35:23Z"
+  "lastUpdated": "2026-11-25T17:28:16Z"
  },
  {
   "id": "nvidia-gtx-960",
@@ -5616,29 +5636,19 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B00SKTY6PS?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-25T02:36:58Z",
+    "lastSeen": "2026-11-25T17:39:51Z",
     "product": "MSI Video Card GTX 960 GAMING 2G Retail : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-25T02:36:58Z"
+  "lastUpdated": "2026-11-25T17:39:51Z"
  },
  {
   "id": "nvidia-rtx-2080-ti",
   "name": "GeForce RTX 2080 Ti",
   "priceMin": 738.89,
   "prices": [
-   {
-    "shop": "amazon.it",
-    "price": 1152.92,
-    "currency": "EUR",
-    "url": "https://www.amazon.it/dp/B07HNMT91C?tag=fraym06-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T17:31:23Z",
-    "product": "ASUS Asus ROG Strix GeForce RTX 2080 Ti OC Edition 11 GB GDDR6, Scheda Video Gaming, LED RGB, Aura Sync e Dissipatore Triventola per Gaming 4K e VR",
-    "image": null
-   },
    {
     "shop": "amazon.fr",
     "price": 1556.61,
@@ -5660,54 +5670,34 @@
     "image": null
    },
    {
+    "shop": "amazon.it",
+    "price": 1152.92,
+    "currency": "EUR",
+    "url": "https://www.amazon.it/dp/B07HNMT91C?tag=fraym06-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T17:27:31Z",
+    "product": "ASUS Asus ROG Strix GeForce RTX 2080 Ti OC Edition 11 GB GDDR6, Scheda Video Gaming, LED RGB, Aura Sync e Dissipatore Triventola per Gaming 4K e VR",
+    "image": null
+   },
+   {
     "shop": "amazon.com",
     "price": 798.0,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B07HNMT91C?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-25T02:38:07Z",
+    "lastSeen": "2026-11-25T17:40:52Z",
     "product": "ASUS GeForce RTX 2080 TI ROG Strix 11GB GDDR6 Graphics Card : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-25T02:38:07Z"
+  "lastUpdated": "2026-11-25T17:40:52Z"
  },
  {
   "id": "nvidia-rtx-3080-12g",
   "name": "GeForce RTX 3080 12G",
   "priceMin": 967.59,
   "prices": [
-   {
-    "shop": "amazon.fr",
-    "price": 1471.78,
-    "currency": "EUR",
-    "url": "https://www.amazon.fr/dp/B09TNLQRSJ?tag=fraym-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T17:26:53Z",
-    "product": "MSI Gaming GeForce RTX 3080 LHR 12 Go GDRR6X 384 Bits HDMI/DP Nvlink Torx Fan 3 Ampères Architecture OC Carte Graphique (RTX 3080 Ventus 3X Plus 12G OC LHR)",
-    "image": null
-   },
-   {
-    "shop": "amazon.co.uk",
-    "price": 1507.31,
-    "currency": "GBP",
-    "url": "https://www.amazon.co.uk/dp/B09TNLQRSJ?tag=fraym0a-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T17:29:22Z",
-    "product": "msi Gaming GeForce RTX 3080 LHR 12GB GDRR6X 384-Bit HDMI/DP Nvlink Torx Fan 3 Ampere Architecture OC Graphics Card (RTX 3080 Ventus 3X Plus 12G OC LHR)",
-    "image": null
-   },
-   {
-    "shop": "amazon.es",
-    "price": 1811.51,
-    "currency": "EUR",
-    "url": "https://www.amazon.es/dp/B09TNLQRSJ?tag=fraym08-21",
-    "inStock": true,
-    "lastSeen": "2026-11-25T02:29:37Z",
-    "product": "MSI Gaming GeForce RTX 3080 LHR 12GB GDRR6X 384-Bit HDMI/DP Nvlink Torx Fan 3 Ampere Architecture OC Tarjeta gráfica (RTX 3080 Ventus 3X Plus 12G OC LHR)",
-    "image": null
-   },
    {
     "shop": "amazon.it",
     "price": 1575.34,
@@ -5719,18 +5709,48 @@
     "image": null
    },
    {
+    "shop": "amazon.co.uk",
+    "price": 1508.3,
+    "currency": "GBP",
+    "url": "https://www.amazon.co.uk/dp/B09TNLQRSJ?tag=fraym0a-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T17:26:37Z",
+    "product": "msi Gaming GeForce RTX 3080 LHR 12GB GDRR6X 384-Bit HDMI/DP Nvlink Torx Fan 3 Ampere Architecture OC Graphics Card (RTX 3080 Ventus 3X Plus 12G OC LHR)",
+    "image": null
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 1471.68,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B09TNLQRSJ?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T17:29:04Z",
+    "product": "MSI Gaming GeForce RTX 3080 LHR 12 Go GDRR6X 384 Bits HDMI/DP Nvlink Torx Fan 3 Ampères Architecture OC Carte Graphique (RTX 3080 Ventus 3X Plus 12G OC LHR)",
+    "image": null
+   },
+   {
+    "shop": "amazon.es",
+    "price": 1811.51,
+    "currency": "EUR",
+    "url": "https://www.amazon.es/dp/B09TNLQRSJ?tag=fraym08-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T17:35:01Z",
+    "product": "MSI Gaming GeForce RTX 3080 LHR 12GB GDRR6X 384-Bit HDMI/DP Nvlink Torx Fan 3 Ampere Architecture OC Tarjeta gráfica (RTX 3080 Ventus 3X Plus 12G OC LHR)",
+    "image": null
+   },
+   {
     "shop": "amazon.com",
     "price": 1045.0,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B09TNLQRSJ?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-25T02:37:00Z",
+    "lastSeen": "2026-11-25T17:39:53Z",
     "product": "msi Gaming GeForce RTX 3080 LHR 12GB GDRR6X 384-Bit HDMI/DP Nvlink Torx Fan 3 Ampere Architecture OC Graphics Card (RTX 3080 Ventus 3X Plus 12G OC LHR) : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-25T02:37:00Z"
+  "lastUpdated": "2026-11-25T17:39:53Z"
  },
  {
   "id": "radprow7600",
@@ -5746,16 +5766,6 @@
     "lastSeen": "2026-11-24T16:56:35Z",
     "product": "Karta graficzna AMD Radeon PRO W7600 8GB GDDR6 (100-300000077)",
     "image": "https://images.morele.net/i256/13114731_0_i256.jpg"
-   },
-   {
-    "shop": "amazon.co.uk",
-    "price": 556.49,
-    "currency": "GBP",
-    "url": "https://www.amazon.co.uk/dp/B0CK29X5GV?tag=fraym0a-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T17:28:34Z",
-    "product": "AMD Radeon Pro W7600",
-    "image": null
    },
    {
     "shop": "amazon.it",
@@ -5778,16 +5788,6 @@
     "image": "https://media.ldlc.com/r1600/ld/products/00/06/06/36/LD0006063698.jpg"
    },
    {
-    "shop": "amazon.es",
-    "price": 674.88,
-    "currency": "EUR",
-    "url": "https://www.amazon.es/dp/B0CK29X5GV?tag=fraym08-21",
-    "inStock": true,
-    "lastSeen": "2026-11-25T02:28:59Z",
-    "product": "Amd Radeon Pro W7600 - Grafikkarten - Radeon Pro W7600 - 8gb Gddr6 - Pcie 4,0 X8 - 4 X Displayport (100-300000077)",
-    "image": null
-   },
-   {
     "shop": "amazon.fr",
     "price": 666.64,
     "currency": "EUR",
@@ -5798,18 +5798,38 @@
     "image": null
    },
    {
+    "shop": "amazon.co.uk",
+    "price": 556.49,
+    "currency": "GBP",
+    "url": "https://www.amazon.co.uk/dp/B0CK29X5GV?tag=fraym0a-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T17:26:15Z",
+    "product": "AMD Radeon Pro W7600",
+    "image": null
+   },
+   {
+    "shop": "amazon.es",
+    "price": 674.88,
+    "currency": "EUR",
+    "url": "https://www.amazon.es/dp/B0CK29X5GV?tag=fraym08-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T17:34:37Z",
+    "product": "Amd Radeon Pro W7600 - Grafikkarten - Radeon Pro W7600 - 8gb Gddr6 - Pcie 4,0 X8 - 4 X Displayport (100-300000077)",
+    "image": null
+   },
+   {
     "shop": "amazon.com",
     "price": 599.0,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0CK29X5GV?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-25T02:33:46Z",
+    "lastSeen": "2026-11-25T17:36:48Z",
     "product": "AMD Radeon Pro W7600 100-300000077 : Electronics",
     "image": null
    }
   ],
   "image": "images/gpus-radprow7600.jpg",
-  "lastUpdated": "2026-11-25T02:33:46Z"
+  "lastUpdated": "2026-11-25T17:36:48Z"
  },
  {
   "id": "radprow7700",
@@ -5851,13 +5871,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B07QC8RSZB?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-25T02:26:26Z",
+    "lastSeen": "2026-11-25T17:33:26Z",
     "product": "ZOTAC Gaming GeForce RTX 2060, Black : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-25T02:26:26Z"
+  "lastUpdated": "2026-11-25T17:33:26Z"
  },
  {
   "id": "rtx3090ti",
@@ -5896,7 +5916,7 @@
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-25T02:36:52Z"
+  "lastUpdated": "2026-11-25T17:39:45Z"
  },
  {
   "id": "rtx4070",
@@ -5909,13 +5929,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0BZHCQ6PF?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:39:13Z",
+    "lastSeen": "2026-11-25T17:29:16Z",
     "product": "GIGABYTE GeForce RTX 4070 WINDFORCE OC 12G Graphics Card, 3X WINDFORCE Fans, 12GB 192-bit GDDR6X, GV-N4070WF3OC-12GD Video Card : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-24T17:39:13Z"
+  "lastUpdated": "2026-11-25T17:29:16Z"
  },
  {
   "id": "rtx4070s",
@@ -5948,13 +5968,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0CSJV61BN?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-25T02:37:06Z",
+    "lastSeen": "2026-11-25T17:39:57Z",
     "product": "GIGABYTE GeForce RTX 4070 Super WINDFORCE OC 12G Graphics Card, 3X WINDFORCE Fans, 12GB 192-bit GDDR6X, GV-N407SWF3OC-12GD Video Card : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-25T02:37:06Z"
+  "lastUpdated": "2026-11-25T17:39:57Z"
  },
  {
   "id": "rtx4070tis",
@@ -5985,13 +6005,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0BNYR4VX8?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-25T02:26:30Z",
+    "lastSeen": "2026-11-25T17:33:29Z",
     "product": "PNY NVIDIA RTX 6000 ADA : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-25T02:26:30Z"
+  "lastUpdated": "2026-11-25T17:33:29Z"
  },
  {
   "id": "rx7900xt",
@@ -6014,7 +6034,7 @@
     "currency": "GBP",
     "url": "https://www.amazon.co.uk/dp/B0BR6L7TKR?tag=fraym0a-21",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:29:11Z",
+    "lastSeen": "2026-11-25T17:26:30Z",
     "product": "Sapphire 11323-02-20G Pulse AMD Radeon RX 7900 XT Gaming Graphics Card with 20GB GDDR6, AMD RDNA 3",
     "image": null
    },
@@ -6024,13 +6044,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0BR6L7TKR?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-25T02:31:47Z",
+    "lastSeen": "2026-11-25T17:35:28Z",
     "product": "Sapphire 11323-02-20G Pulse AMD Radeon RX 7900 XT Gaming Graphics Card with 20GB GDDR6, AMD RDNA 3 : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-25T02:31:47Z"
+  "lastUpdated": "2026-11-25T17:35:28Z"
  },
  {
   "id": "rx7900xtx",
@@ -6062,13 +6082,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B07JBTS8HR?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:25:35Z",
+    "lastSeen": "2026-11-25T17:24:54Z",
     "product": "Gigabyte GeForce RTX 2070 Windforce 8G Graphics Card, 3X Windforce Fans, 8GB 256-Bit GDDR6, GV-N2070WF3-8GC Video Card : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-24T17:25:35Z"
+  "lastUpdated": "2026-11-25T17:24:54Z"
  },
  {
   "id": "rx7700xt",
@@ -6089,13 +6109,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B01I5O5AP2?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-25T02:31:59Z",
+    "lastSeen": "2026-11-25T17:35:33Z",
     "product": "ZOTAC GeForce GTX 1060 AMP Edition, ZT-P10600B-10M, 6GB GDDR5 VR Ready Super Compact Gaming Graphics Card : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-25T02:31:59Z"
+  "lastUpdated": "2026-11-25T17:35:33Z"
  },
  {
   "id": "amd-rx-560",
@@ -6215,36 +6235,6 @@
     "image": "https://images.morele.net/i256/9471880_0_i256.jpg"
    },
    {
-    "shop": "amazon.fr",
-    "price": 356.26,
-    "currency": "EUR",
-    "url": "https://www.amazon.fr/dp/B07NJPKZQG?tag=fraym-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T17:23:32Z",
-    "product": "GIGABYTE GeForce GTX 1660 Ti OC 6G 192 Bits GDDR6 DisplayPort 1.4 HDMI 2.0B avec système de Refroidissement Windforce 2X Gv-N166TOC-6GD",
-    "image": null
-   },
-   {
-    "shop": "amazon.es",
-    "price": 362.02,
-    "currency": "EUR",
-    "url": "https://www.amazon.es/dp/B07NJPKZQG?tag=fraym08-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T17:27:30Z",
-    "product": "GIGABYTE Tarjeta Grafica GV-N166TOC-6GD GTX 1660TI OC 6GB GDDR6 1*HDMI/3*DP",
-    "image": null
-   },
-   {
-    "shop": "amazon.co.uk",
-    "price": 294.76,
-    "currency": "GBP",
-    "url": "https://www.amazon.co.uk/dp/B07NJPKZQG?tag=fraym0a-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T17:30:42Z",
-    "product": "Gigabyte GEFORCE GTX 1660 TI OC 6G",
-    "image": null
-   },
-   {
     "shop": "amazon.it",
     "price": 367.55,
     "currency": "EUR",
@@ -6253,10 +6243,40 @@
     "lastSeen": "2026-11-25T02:30:49Z",
     "product": "Sistema di raffreddamento scheda grafica GIGABYTE GeForce GTX 1660 Ti OC 6G 192-bit GDDR6 DisplayPort 1.4 HDMI 2.0 B con sistema di raffreddamento Windforce 2X Gv-N166TOC-6GD",
     "image": null
+   },
+   {
+    "shop": "amazon.es",
+    "price": 362.04,
+    "currency": "EUR",
+    "url": "https://www.amazon.es/dp/B07NJPKZQG?tag=fraym08-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T17:25:49Z",
+    "product": "GIGABYTE Tarjeta Grafica GV-N166TOC-6GD GTX 1660TI OC 6GB GDDR6 1*HDMI/3*DP",
+    "image": null
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 356.26,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B07NJPKZQG?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T17:26:25Z",
+    "product": "GIGABYTE GeForce GTX 1660 Ti OC 6G 192 Bits GDDR6 DisplayPort 1.4 HDMI 2.0B avec système de Refroidissement Windforce 2X Gv-N166TOC-6GD",
+    "image": null
+   },
+   {
+    "shop": "amazon.co.uk",
+    "price": 294.76,
+    "currency": "GBP",
+    "url": "https://www.amazon.co.uk/dp/B07NJPKZQG?tag=fraym0a-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T17:27:40Z",
+    "product": "Gigabyte GEFORCE GTX 1660 TI OC 6G",
+    "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-25T02:30:49Z"
+  "lastUpdated": "2026-11-25T17:27:40Z"
  },
  {
   "id": "nvidia-rtx-2080-super",
@@ -6306,13 +6326,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B09YHTMKL2?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-25T02:34:09Z",
+    "lastSeen": "2026-11-25T17:37:12Z",
     "product": "MSI Gaming Radeon RX 6750 XT 192-bit 12GB GDDR6 DP/HDMI Triple Torx 4.0 Fans FreeSync DirectX 12 VR Ready OC Graphics Card (RX 6750 XT Gaming X Trio 12G) : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-25T02:34:09Z"
+  "lastUpdated": "2026-11-25T17:37:12Z"
  },
  {
   "id": "rx6650xt",
@@ -6325,13 +6345,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B09VYHB8XG?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-25T02:25:18Z",
+    "lastSeen": "2026-11-25T17:32:55Z",
     "product": "PowerColor Hellhound AMD Radeon RX 6650 XT Graphics Card with 8GB GDDR6 Memory : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-25T02:25:18Z"
+  "lastUpdated": "2026-11-25T17:32:55Z"
  },
  {
   "id": "intel-arc-a580",
@@ -6389,13 +6409,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B08VHWFWSD?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-25T02:33:08Z",
+    "lastSeen": "2026-11-25T17:36:10Z",
     "product": "MAXSUN AMD Radeon RX 550 4GB GDDR5 ITX Computer PC Gaming Video Graphics Card GPU 128-Bit DirectX 12 PCI Express X16 3.0 DVI-D Dual Link, HDMI, DisplayPort : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-25T02:33:08Z"
+  "lastUpdated": "2026-11-25T17:36:10Z"
  },
  {
   "id": "rx6700xt",
@@ -6581,13 +6601,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B01M4MIU94?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-25T02:38:03Z",
+    "lastSeen": "2026-11-25T17:40:48Z",
     "product": "ZOTAC GeForce GTX 1050, 2GB GDDR5 DisplayPort, HDMI, Dual-Link DVI-D, Super Compact Gaming Graphics Card (ZT-P10500A-10L) : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-25T02:38:03Z"
+  "lastUpdated": "2026-11-25T17:40:48Z"
  },
  {
   "id": "nvidia-gtx-1650-super",
@@ -6610,12 +6630,12 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B081Q6KKDS?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-25T02:38:04Z",
+    "lastSeen": "2026-11-25T17:40:49Z",
     "product": "GIGABYTE MSI GeForce GTX 1650 Super Ventus XS OC Gaming GeForce GTX 1650 Super 128-Bit HDMI/DP/DVI 4GB GDRR6 HDCP Support DirectX 12 Dual Fan VR Ready OC Graphics Card (GTX 1650 Super Ventus XS OC) : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-25T02:38:04Z"
+  "lastUpdated": "2026-11-25T17:40:49Z"
  }
 ]

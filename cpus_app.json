@@ -5,16 +5,6 @@
   "priceMin": 459.29,
   "prices": [
    {
-    "shop": "amazon.de",
-    "price": 471.42,
-    "currency": "EUR",
-    "url": "https://www.amazon.de/dp/B0DVZSG8D5?tag=fraym03-21",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:48:58Z",
-    "product": "Processore - Amd - Ryzen 9 9950x3d 16 Core",
-    "image": null
-   },
-   {
     "shop": "canadacomputers.com",
     "price": 929.98,
     "currency": "CAD",
@@ -115,18 +105,28 @@
     "image": null
    },
    {
+    "shop": "amazon.de",
+    "price": 471.42,
+    "currency": "EUR",
+    "url": "https://www.amazon.de/dp/B0DVZSG8D5?tag=fraym03-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T02:24:54Z",
+    "product": "Processore - Amd - Ryzen 9 9950x3d 16 Core",
+    "image": null
+   },
+   {
     "shop": "amazon.com",
-    "price": 576.0,
+    "price": 583.55,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0DVZSG8D5?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:40:07Z",
+    "lastSeen": "2026-11-25T02:37:54Z",
     "product": "AMD Ryzen 9 9950X3D 16-Core Processor : Electronics",
     "image": null
    }
   ],
   "image": "images/cpus-r9_9950x3d.jpg",
-  "lastUpdated": "2026-11-24T17:40:07Z"
+  "lastUpdated": "2026-11-25T02:37:54Z"
  },
  {
   "id": "r7_9800x3d",
@@ -209,7 +209,7 @@
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B0DKFMSMYK?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:24:38Z",
+    "lastSeen": "2026-11-25T02:25:48Z",
     "product": "Processore - Amd - Ryzen 7 9800x3d - 4,7 Ghz, 8 Core, 104 Mb L2 E L3, Am5",
     "image": null
    },
@@ -219,13 +219,13 @@
     "currency": "EUR",
     "url": "https://www.amazon.it/dp/B0DKFMSMYK?tag=fraym06-21",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:33:54Z",
+    "lastSeen": "2026-11-25T02:32:42Z",
     "product": "AMD RYZEN ™ 7 9800X3D 8 Core/16 Thread sbloccati, Architettura Zen 5, 104 MB di Cache, TDP 120W, Fino a 5.2 GHz di Frequenza Boost, Socket AM5, Dissipatore Non Incluso",
     "image": null
    }
   ],
   "image": "images/cpus-r7_9800x3d.jpg",
-  "lastUpdated": "2026-11-24T17:33:54Z"
+  "lastUpdated": "2026-11-25T02:32:42Z"
  },
  {
   "id": "r7_7800x3d",
@@ -240,16 +240,6 @@
     "inStock": true,
     "lastSeen": "2026-11-23T05:46:37Z",
     "product": "AMD Ryzen 7 7800X3D Prozessor with 3D V Cache technology",
-    "image": null
-   },
-   {
-    "shop": "amazon.co.uk",
-    "price": 199.99,
-    "currency": "GBP",
-    "url": "https://www.amazon.co.uk/dp/B0BTZB7F88?tag=fraym0a-21",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:48:56Z",
-    "product": "AMD Ryzensets 7 7800X3D Processor with 3D V Cache technology (integrated Radeon Graphics, 8 cores/16 threads, 120W TDP, AM5 Socket, 104MB cache, up to 5.0 GHz max boost, no cooler)",
     "image": null
    },
    {
@@ -323,28 +313,38 @@
     "image": "https://images.morele.net/i256/12807924_0_i256.jpg"
    },
    {
+    "shop": "amazon.co.uk",
+    "price": 199.89,
+    "currency": "GBP",
+    "url": "https://www.amazon.co.uk/dp/B0BTZB7F88?tag=fraym0a-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T02:23:40Z",
+    "product": "AMD Ryzensets 7 7800X3D Processor with 3D V Cache technology (integrated Radeon Graphics, 8 cores/16 threads, 120W TDP, AM5 Socket, 104MB cache, up to 5.0 GHz max boost, no cooler)",
+    "image": null
+   },
+   {
     "shop": "amazon.it",
     "price": 253.38,
     "currency": "EUR",
     "url": "https://www.amazon.it/dp/B0BTZB7F88?tag=fraym06-21",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:24:42Z",
+    "lastSeen": "2026-11-25T02:25:51Z",
     "product": "Processore AMD Ryzen 7 7800X3D con 3D V Cache technology (scheda grafica integrata Radeon, 8 cores/16 threads, 120W TDP, AM5 Socket, 104MB cache, Boost di Frequenza fino a 5.0 GHz max, senza ventole)",
     "image": null
    },
    {
     "shop": "amazon.es",
-    "price": 239.66,
+    "price": 239.59,
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B0BTZB7F88?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:33:38Z",
+    "lastSeen": "2026-11-25T02:32:17Z",
     "product": "AMD Ryzen 7 7800X3D Procesador con tecnología 3D V-Cache (tarjeta gráfica Radeon integrada, 8 núcleos/16 threads,120W TDP,Socket AM5, 104MB Caché, Reloj de aumento máx. hasta 5.0 GHz, sin ventilador)",
     "image": null
    }
   ],
   "image": "images/cpus-r7_7800x3d.jpg",
-  "lastUpdated": "2026-11-24T17:33:38Z"
+  "lastUpdated": "2026-11-25T02:32:17Z"
  },
  {
   "id": "r7_7700x",
@@ -392,16 +392,6 @@
     "image": "https://images.morele.net/i256/11788490_4_i256.jpg"
    },
    {
-    "shop": "amazon.es",
-    "price": 199.17,
-    "currency": "EUR",
-    "url": "https://www.amazon.es/dp/B0BBHHT8LY?tag=fraym08-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T17:24:14Z",
-    "product": "AMD Ryzen 7 7700X Procesador (tarjeta gráfica Radeon integrada, 8 núcleos/16 threads, 105W DTP, Socket AM5, 40MB Caché, Reloj de aumento máx. hasta 5.4 GHz, sin ventilador)",
-    "image": null
-   },
-   {
     "shop": "amazon.fr",
     "price": 197.5,
     "currency": "EUR",
@@ -420,56 +410,26 @@
     "lastSeen": "2026-11-24T17:35:51Z",
     "product": "Processore AMD Ryzen 7 7700X (scheda grafica integrata Radeon, 8 cores/16 threads, 105W DTP, AM5 Socket, 40MB cache, Boost di Frequenza fino a 5.4 GHz max, senza ventole)",
     "image": null
+   },
+   {
+    "shop": "amazon.es",
+    "price": 199.17,
+    "currency": "EUR",
+    "url": "https://www.amazon.es/dp/B0BBHHT8LY?tag=fraym08-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T02:25:28Z",
+    "product": "AMD Ryzen 7 7700X Procesador (tarjeta gráfica Radeon integrada, 8 núcleos/16 threads, 105W DTP, Socket AM5, 40MB Caché, Reloj de aumento máx. hasta 5.4 GHz, sin ventilador)",
+    "image": null
    }
   ],
   "image": "images/cpus-r7_7700x.jpg",
-  "lastUpdated": "2026-11-24T17:35:51Z"
+  "lastUpdated": "2026-11-25T02:25:28Z"
  },
  {
   "id": "r5_7600x",
   "name": "Ryzen 5 7600X",
-  "priceMin": 163.67,
+  "priceMin": 163.76,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 703.79,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-amd-ryzen-5-7600x-4-7-ghz-32-mb-oem-100-000000593-13115159/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor AMD Ryzen 5 7600X, 4.7 GHz, 32 MB, OEM (100-000000593)",
-    "image": "https://images.morele.net/i256/13115159_1_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 719.0,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-amd-ryzen-5-7600x-4-7-ghz-32-mb-box-100-100000593wof-11788491/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor AMD Ryzen 5 7600X, 4.7 GHz, 32 MB, BOX (100-100000593WOF)",
-    "image": "https://images.morele.net/i256/11788491_5_i256.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 259.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00515316.html",
-    "inStock": true,
-    "lastSeen": "2026-11-23T17:11:56Z",
-    "product": "AMD Ryzen 5 7600X (4.7 GHz / 5.3 GHz)",
-    "image": "https://media.ldlc.com/r1600/ld/products/00/05/99/72/LD0005997297.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 259.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202208250049.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T03:48:22Z",
-    "product": "AMD Ryzen 5 7600X",
-    "image": "https://media.materiel.net/r900/products/MN0005997285.jpg"
-   },
    {
     "shop": "canadacomputers.com",
     "price": 309.88,
@@ -489,36 +449,56 @@
     "lastSeen": "2026-11-24T17:30:00Z",
     "product": "AMD Ryzensets 5 7600X Processor (integrated radeon graphics, 6 cores/12 threads, 105W TDP, AM5 socket, 38MB cache, up to 5.3 GHz max boost, no cooler)",
     "image": null
+   },
+   {
+    "shop": "morele.net",
+    "price": 704.15,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-amd-ryzen-5-7600x-4-7-ghz-32-mb-oem-100-000000593-13115159/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor AMD Ryzen 5 7600X, 4.7 GHz, 32 MB, OEM (100-000000593)",
+    "image": "https://images.morele.net/i256/13115159_1_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 709.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-amd-ryzen-5-7600x-4-7-ghz-32-mb-box-100-100000593wof-11788491/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor AMD Ryzen 5 7600X, 4.7 GHz, 32 MB, BOX (100-100000593WOF)",
+    "image": "https://images.morele.net/i256/11788491_5_i256.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 259.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00515316.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "AMD Ryzen 5 7600X (4.7 GHz / 5.3 GHz)",
+    "image": "https://media.ldlc.com/r1600/ld/products/00/05/99/72/LD0005997297.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 259.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202208250049.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "AMD Ryzen 5 7600X",
+    "image": "https://media.materiel.net/r900/products/MN0005997285.jpg"
    }
   ],
   "image": "images/cpus-r5_7600x.jpg",
-  "lastUpdated": "2026-11-24T17:30:00Z"
+  "lastUpdated": "2026-11-25T01:55:38Z"
  },
  {
   "id": "r7_5800x",
   "name": "Ryzen 7 5800X",
   "priceMin": 158.25,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 849.0,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-amd-ryzen-7-5800x-3-8-ghz-32-mb-box-100-100000063wof-7267024/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor AMD Ryzen 7 5800X, 3.8 GHz, 32 MB, BOX (100-100000063WOF)",
-    "image": "https://images.morele.net/i256/7267024_0_i256.jpg"
-   },
-   {
-    "shop": "amazon.co.uk",
-    "price": 149.08,
-    "currency": "GBP",
-    "url": "https://www.amazon.co.uk/dp/B0815XFSGK?tag=fraym0a-21",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:49:31Z",
-    "product": "AMD Ryzensets 7 5800X Processor (8 Cores/16 threads, 105W TDP, AM4 socket, 36 MB Cache, 4,7Ghz max boost frequency, no cooler)",
-    "image": null
-   },
    {
     "shop": "canadacomputers.com",
     "price": 299.99,
@@ -588,36 +568,36 @@
     "lastSeen": "2026-11-24T17:32:35Z",
     "product": "Processore AMD Ryzen 7 5800X (8 Cores/16 threads, 105W DTP, AM4 socket, 36 MB Cache, Boost di Frequenza fino a 4,7Ghz max, senza ventole)",
     "image": null
+   },
+   {
+    "shop": "morele.net",
+    "price": 849.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-amd-ryzen-7-5800x-3-8-ghz-32-mb-box-100-100000063wof-7267024/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor AMD Ryzen 7 5800X, 3.8 GHz, 32 MB, BOX (100-100000063WOF)",
+    "image": "https://images.morele.net/i256/7267024_0_i256.jpg"
+   },
+   {
+    "shop": "amazon.co.uk",
+    "price": 149.0,
+    "currency": "GBP",
+    "url": "https://www.amazon.co.uk/dp/B0815XFSGK?tag=fraym0a-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T02:23:57Z",
+    "product": "AMD Ryzensets 7 5800X Processor (8 Cores/16 threads, 105W TDP, AM4 socket, 36 MB Cache, 4,7Ghz max boost frequency, no cooler)",
+    "image": null
    }
   ],
   "image": "images/cpus-r7_5800x.jpg",
-  "lastUpdated": "2026-11-24T17:32:35Z"
+  "lastUpdated": "2026-11-25T02:23:57Z"
  },
  {
   "id": "r7_5800x3d",
   "name": "Ryzen 7 5800X3D",
   "priceMin": 279.17,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 1576.16,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-amd-ryzen-7-5800x3d-10th-anniversary-edition-3-4-ghz-96-mb-box-100-100000651pof-600124324/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor AMD Ryzen 7 5800X3D 10th Anniversary Edition, 3.4 GHz, 96 MB, BOX (100-100000651POF)",
-    "image": "https://images.morele.net/i256/600124324_0_i256.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 399.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00745911.html",
-    "inStock": true,
-    "lastSeen": "2026-11-23T17:11:56Z",
-    "product": "AMD Ryzen 7 5800X3D (3.4 GHz / 4.5 GHz) - Edition anniversaire 10 ans",
-    "image": "https://media.ldlc.com/r1600/ld/products/00/06/35/52/LD0006355287.jpg"
-   },
    {
     "shop": "canadacomputers.com",
     "price": 489.98,
@@ -639,16 +619,6 @@
     "image": "https://media.materiel.net/r250/products/MN0006355599.jpg"
    },
    {
-    "shop": "amazon.es",
-    "price": 285.08,
-    "currency": "EUR",
-    "url": "https://www.amazon.es/dp/B0H41D4KFT?tag=fraym08-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T17:26:51Z",
-    "product": "AMD Ryzen 7 5800X3D Edición 10.º Aniversario, procesador de sobremesa para Socket AM4 y Memoria DDR4.",
-    "image": null
-   },
-   {
     "shop": "amazon.co.uk",
     "price": 241.66,
     "currency": "GBP",
@@ -659,44 +629,54 @@
     "image": null
    },
    {
+    "shop": "morele.net",
+    "price": 1576.16,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-amd-ryzen-7-5800x3d-10th-anniversary-edition-3-4-ghz-96-mb-box-100-100000651pof-600124324/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor AMD Ryzen 7 5800X3D 10th Anniversary Edition, 3.4 GHz, 96 MB, BOX (100-100000651POF)",
+    "image": "https://images.morele.net/i256/600124324_0_i256.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 399.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00745911.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "AMD Ryzen 7 5800X3D (3.4 GHz / 4.5 GHz) - Edition anniversaire 10 ans",
+    "image": "https://media.ldlc.com/r1600/ld/products/00/06/35/52/LD0006355287.jpg"
+   },
+   {
+    "shop": "amazon.es",
+    "price": 285.08,
+    "currency": "EUR",
+    "url": "https://www.amazon.es/dp/B0H41D4KFT?tag=fraym08-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T02:27:27Z",
+    "product": "AMD Ryzen 7 5800X3D Edición 10.º Aniversario, procesador de sobremesa para Socket AM4 y Memoria DDR4.",
+    "image": null
+   },
+   {
     "shop": "amazon.fr",
     "price": 279.17,
     "currency": "EUR",
     "url": "https://www.amazon.fr/dp/B0H41D4KFT?tag=fraym-21",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:29:47Z",
+    "lastSeen": "2026-11-25T02:31:03Z",
     "product": "AMD Ryzen 7 5800X3D Processeur 10E Anniversaire (8 Coeurs/16 Threads, Socket AM4, 105W TDP, 100 Mo Cache, jusqu'à 4.5 GHz Fréquence Boost, Pas de Ventilateur)",
     "image": null
    }
   ],
   "image": "images/cpus-r7_5800x3d.jpg",
-  "lastUpdated": "2026-11-24T17:29:47Z"
+  "lastUpdated": "2026-11-25T02:31:03Z"
  },
  {
   "id": "r5_5600x",
   "name": "Ryzen 5 5600X",
   "priceMin": 122.44,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 539.0,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-amd-ryzen-5-5600x-3-7-ghz-32-mb-oem-100-000000065-7267027/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor AMD Ryzen 5 5600X, 3.7 GHz, 32 MB, OEM (100-000000065)",
-    "image": "https://images.morele.net/i256/7267027_0_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 699.0,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-amd-ryzen-5-5600x-3-7-ghz-32-mb-box-100-100000065box-7267026/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor AMD Ryzen 5 5600X, 3.7 GHz, 32 MB, BOX (100-100000065BOX)",
-    "image": "https://images.morele.net/i256/7267026_0_i256.jpg"
-   },
    {
     "shop": "amazon.de",
     "price": 149.87,
@@ -768,44 +748,44 @@
     "image": "https://media.materiel.net/r250/products/MN0006182620.jpg"
    },
    {
+    "shop": "morele.net",
+    "price": 539.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-amd-ryzen-5-5600x-3-7-ghz-32-mb-oem-100-000000065-7267027/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor AMD Ryzen 5 5600X, 3.7 GHz, 32 MB, OEM (100-000000065)",
+    "image": "https://images.morele.net/i256/7267027_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 691.05,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-amd-ryzen-5-5600x-3-7-ghz-32-mb-box-100-100000065box-7267026/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor AMD Ryzen 5 5600X, 3.7 GHz, 32 MB, BOX (100-100000065BOX)",
+    "image": "https://images.morele.net/i256/7267026_0_i256.jpg"
+   },
+   {
     "shop": "amazon.co.uk",
     "price": 121.6,
     "currency": "GBP",
     "url": "https://www.amazon.co.uk/dp/B08166SLDF?tag=fraym0a-21",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:29:04Z",
+    "lastSeen": "2026-11-25T02:28:56Z",
     "product": "AMD Ryzensets 5 5600X Processor (6 Cores/12Threads, 65W TDP, AM4 Socket, 35MB Cache, up to 4.6 GHz Max Boost, Wraith Stealth Cooler)",
     "image": null
    }
   ],
   "image": "images/cpus-r5_5600x.jpg",
-  "lastUpdated": "2026-11-24T17:29:04Z"
+  "lastUpdated": "2026-11-25T02:28:56Z"
  },
  {
   "id": "r5_5600",
   "name": "Ryzen 5 5600",
   "priceMin": 116.05,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 499.0,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-amd-ryzen-5-5600-3-5-ghz-32-mb-oem-100-000000927-10120244/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor AMD Ryzen 5 5600, 3.5 GHz, 32 MB, OEM (100-000000927)",
-    "image": "https://images.morele.net/i256/10120244_1_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 615.09,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-amd-ryzen-5-5600-3-5-ghz-32-mb-box-100-100000927box-10120243/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor AMD Ryzen 5 5600, 3.5 GHz, 32 MB, BOX (100-100000927BOX)",
-    "image": "https://images.morele.net/i256/10120243_0_i256.jpg"
-   },
    {
     "shop": "canadacomputers.com",
     "price": 279.0,
@@ -845,26 +825,36 @@
     "lastSeen": "2026-11-24T17:26:57Z",
     "product": "Processore AMD Ryzen 5 5600 ( 6 Cores/12 Threads, 65W, AM4 Socket, Boost di Frequenza fino a 4.4 Ghz max, dissipatore ad aria\"Wraith stealth cooler\")",
     "image": null
+   },
+   {
+    "shop": "morele.net",
+    "price": 499.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-amd-ryzen-5-5600-3-5-ghz-32-mb-oem-100-000000927-10120244/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor AMD Ryzen 5 5600, 3.5 GHz, 32 MB, OEM (100-000000927)",
+    "image": "https://images.morele.net/i256/10120244_1_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 599.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-amd-ryzen-5-5600-3-5-ghz-32-mb-box-100-100000927box-10120243/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor AMD Ryzen 5 5600, 3.5 GHz, 32 MB, BOX (100-100000927BOX)",
+    "image": "https://images.morele.net/i256/10120243_0_i256.jpg"
    }
   ],
   "image": "images/cpus-r5_5600.jpg",
-  "lastUpdated": "2026-11-24T17:26:57Z"
+  "lastUpdated": "2026-11-25T01:55:38Z"
  },
  {
   "id": "r5_3600",
   "name": "Ryzen 5 3600",
   "priceMin": 87.9,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 603.27,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-amd-ryzen-5-3600-3-6-ghz-32-mb-mpk-100-100000031mpk-5947306/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor AMD Ryzen 5 3600, 3.6 GHz, 32 MB, MPK (100-100000031MPK)",
-    "image": "https://images.morele.net/i256/5947306_0_i256.jpg"
-   },
    {
     "shop": "ldlc.com",
     "price": 94.95,
@@ -896,12 +886,22 @@
     "image": "https://media.ldlc.com/r150/ld/products/00/03/19/09/LD0003190951_2_0003191072_0003446197_0003446278_0003446318_0003446418_0005467318.jpg"
    },
    {
+    "shop": "morele.net",
+    "price": 701.79,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-amd-ryzen-5-3600-3-6-ghz-32-mb-mpk-100-100000031mpk-5947306/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor AMD Ryzen 5 3600, 3.6 GHz, 32 MB, MPK (100-100000031MPK)",
+    "image": "https://images.morele.net/i256/5947306_0_i256.jpg"
+   },
+   {
     "shop": "alternate.fr",
     "price": 87.9,
     "currency": "EUR",
     "url": "https://www.alternate.fr/ASUS/RT-BE50-BE3600-routeur-sans-fil-2-5-Gigabit-Ethernet-Bi-bande-2-4-GHz-5-GHz-Noir/html/product/100127917",
     "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
+    "lastSeen": "2026-11-25T01:55:38Z",
     "product": "ASUS RT-BE50 BE3600 routeur sans fil 2.5 Gigabit Ethernet Bi-bande (2,4 GHz / 5 GHz) Noir",
     "image": "https://www.alternate.fr/p/200x200/7/1/ASUS_RT_BE50_BE3600_routeur_sans_fil_2_5_Gigabit_Ethernet_Bi_bande__2_4_GHz___5_GHz__Noir@@100127917.jpg"
    },
@@ -911,7 +911,7 @@
     "currency": "EUR",
     "url": "https://www.alternate.fr/ASUS/TUF-BE3600-V2-Routeur-maillé/html/product/100186663",
     "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
+    "lastSeen": "2026-11-25T01:55:38Z",
     "product": "ASUS TUF-BE3600 V2, Routeur maillé",
     "image": "https://www.alternate.fr/p/200x200/3/6/ASUS_TUF_BE3600_V2__Routeur_maill_@@100186663.jpg"
    },
@@ -921,39 +921,19 @@
     "currency": "EUR",
     "url": "https://www.alternate.fr/ASUS/ZenWiFi-BD4-BE3600-Routeur-maillé/html/product/100082323",
     "inStock": false,
-    "lastSeen": "2026-11-24T16:56:35Z",
+    "lastSeen": "2026-11-25T01:55:38Z",
     "product": "ASUS ZenWiFi BD4 BE3600, Routeur maillé",
     "image": "https://www.alternate.fr/p/200x200/3/2/ASUS_ZenWiFi_BD4_BE3600__Routeur_maill_@@100082323.jpg"
    }
   ],
   "image": "images/cpus-r5_3600.jpg",
-  "lastUpdated": "2026-11-24T16:56:35Z"
+  "lastUpdated": "2026-11-25T01:55:38Z"
  },
  {
   "id": "i9_14900k",
   "name": "Core i9-14900K",
   "priceMin": 464.88,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 1999.0,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-intel-core-i9-14900k-3-2-ghz-36-mb-box-bx8071514900k-13123067/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor Intel Core i9-14900K, 3.2 GHz, 36 MB, BOX (BX8071514900K)",
-    "image": "https://images.morele.net/i256/13123067_0_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 2162.16,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-intel-core-i9-14900k-3-2-ghz-36-mb-oem-cm8071505094017-13133238/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor Intel Core i9-14900K, 3.2 GHz, 36 MB, OEM (CM8071505094017)",
-    "image": "https://images.morele.net/i256/13133238_1_i256.jpg"
-   },
    {
     "shop": "ldlc.com",
     "price": 599.95,
@@ -973,46 +953,36 @@
     "lastSeen": "2026-11-24T16:56:35Z",
     "product": "Intel Core i9-14900K",
     "image": "https://media.materiel.net/r250/products/MN0006075046.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1999.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-intel-core-i9-14900k-3-2-ghz-36-mb-box-bx8071514900k-13123067/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor Intel Core i9-14900K, 3.2 GHz, 36 MB, BOX (BX8071514900K)",
+    "image": "https://images.morele.net/i256/13123067_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 2116.06,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-intel-core-i9-14900k-3-2-ghz-36-mb-oem-cm8071505094017-13133238/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor Intel Core i9-14900K, 3.2 GHz, 36 MB, OEM (CM8071505094017)",
+    "image": "https://images.morele.net/i256/13133238_1_i256.jpg"
    }
   ],
   "image": "images/cpus-i9_14900k.jpg",
-  "lastUpdated": "2026-11-24T16:56:35Z"
+  "lastUpdated": "2026-11-25T01:55:38Z"
  },
  {
   "id": "i7_14700k",
   "name": "Core i7-14700K",
   "priceMin": 297.45,
   "prices": [
-   {
-    "shop": "amazon.co.uk",
-    "price": 255.81,
-    "currency": "GBP",
-    "url": "https://www.amazon.co.uk/dp/B0CGJ41C9W?tag=fraym0a-21",
-    "inStock": true,
-    "lastSeen": "2026-11-22T23:40:12Z",
-    "product": "intel CORE I7-14700K 3.40GHZ SKTLGA1700 33.00MB CACHE BOXED",
-    "image": null
-   },
-   {
-    "shop": "morele.net",
-    "price": 1511.42,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-intel-core-i7-14700k-3-4-ghz-33-mb-box-bx8071514700k-13123069/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor Intel Core i7-14700K, 3.4 GHz, 33 MB, BOX (BX8071514700K)",
-    "image": "https://images.morele.net/i256/13123069_0_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 1612.78,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-intel-core-i7-14700k-3-4-ghz-33-mb-oem-cm8071504820721-13133372/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor Intel Core i7-14700K, 3.4 GHz, 33 MB, OEM (CM8071504820721)",
-    "image": "https://images.morele.net/i256/13133372_1_i256.jpg"
-   },
    {
     "shop": "ldlc.com",
     "price": 439.95,
@@ -1032,36 +1002,46 @@
     "lastSeen": "2026-11-24T16:56:35Z",
     "product": "Intel Core i7-14700K",
     "image": "https://media.materiel.net/r250/products/MN0006075044.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1505.84,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-intel-core-i7-14700k-3-4-ghz-33-mb-box-bx8071514700k-13123069/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor Intel Core i7-14700K, 3.4 GHz, 33 MB, BOX (BX8071514700K)",
+    "image": "https://images.morele.net/i256/13123069_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1612.78,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-intel-core-i7-14700k-3-4-ghz-33-mb-oem-cm8071504820721-13133372/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor Intel Core i7-14700K, 3.4 GHz, 33 MB, OEM (CM8071504820721)",
+    "image": "https://images.morele.net/i256/13133372_1_i256.jpg"
+   },
+   {
+    "shop": "amazon.co.uk",
+    "price": 255.81,
+    "currency": "GBP",
+    "url": "https://www.amazon.co.uk/dp/B0CGJ41C9W?tag=fraym0a-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T02:22:16Z",
+    "product": "intel CORE I7-14700K 3.40GHZ SKTLGA1700 33.00MB CACHE BOXED",
+    "image": null
    }
   ],
   "image": "images/cpus-i7_14700k.jpg",
-  "lastUpdated": "2026-11-24T16:56:35Z"
+  "lastUpdated": "2026-11-25T02:22:16Z"
  },
  {
   "id": "i5_14600k",
   "name": "Core i5-14600K",
-  "priceMin": 242.92,
+  "priceMin": 269.31,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 1044.54,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-intel-core-i5-14600k-3-5-ghz-24-mb-oem-cm8071504821015-13133234/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor Intel Core i5-14600K, 3.5 GHz, 24 MB, OEM (CM8071504821015)",
-    "image": "https://images.morele.net/i256/13133234_1_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 1380.47,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-intel-core-i5-14600k-3-5-ghz-24-mb-box-bx8071514600k-13123071/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor Intel Core i5-14600K, 3.5 GHz, 24 MB, BOX (BX8071514600K)",
-    "image": "https://images.morele.net/i256/13123071_0_i256.jpg"
-   },
    {
     "shop": "ldlc.com",
     "price": 289.95,
@@ -1101,45 +1081,65 @@
     "lastSeen": "2026-11-24T16:56:35Z",
     "product": "Intel Core i5-14600K - Version tray",
     "image": "https://media.materiel.net/r250/products/MN0006342010.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1158.05,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-intel-core-i5-14600k-3-5-ghz-24-mb-box-bx8071514600k-13123071/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor Intel Core i5-14600K, 3.5 GHz, 24 MB, BOX (BX8071514600K)",
+    "image": "https://images.morele.net/i256/13123071_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1174.49,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-intel-core-i5-14600k-3-5-ghz-24-mb-oem-cm8071504821015-13133234/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor Intel Core i5-14600K, 3.5 GHz, 24 MB, OEM (CM8071504821015)",
+    "image": "https://images.morele.net/i256/13133234_1_i256.jpg"
    }
   ],
   "image": "images/cpus-i5_14600k.jpg",
-  "lastUpdated": "2026-11-24T16:56:35Z"
+  "lastUpdated": "2026-11-25T01:55:38Z"
  },
  {
   "id": "i9_12900k",
   "name": "Core i9-12900K",
-  "priceMin": 388.39,
+  "priceMin": 287.03,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 1670.08,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-intel-core-i9-12900k-3-2-ghz-30-mb-oem-cm8071504549230-9496655/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor Intel Core i9-12900K, 3.2 GHz, 30 MB, OEM (CM8071504549230)",
-    "image": "https://images.morele.net/i256/9496655_0_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 1697.86,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-intel-core-i9-12900k-3-2-ghz-30-mb-box-bx8071512900k-5949745/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor Intel Core i9-12900K, 3.2 GHz, 30 MB, BOX (BX8071512900K)",
-    "image": "https://images.morele.net/i256/5949745_0_i256.jpg"
-   },
    {
     "shop": "ldlc.com",
     "price": 499.0,
     "currency": "EUR",
     "url": "https://www.ldlc.com/fiche/PB00464923.html",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:11:56Z",
+    "lastSeen": "2026-11-25T01:55:38Z",
     "product": "Intel Core i9-12900K (3.2 GHz / 5.2 GHz)",
     "image": "https://media.ldlc.com/r1600/ld/products/00/05/90/02/LD0005900230_1.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1592.33,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-intel-core-i9-12900k-3-2-ghz-30-mb-oem-cm8071504549230-9496655/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor Intel Core i9-12900K, 3.2 GHz, 30 MB, OEM (CM8071504549230)",
+    "image": "https://images.morele.net/i256/9496655_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1694.03,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-intel-core-i9-12900k-3-2-ghz-30-mb-box-bx8071512900k-5949745/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor Intel Core i9-12900K, 3.2 GHz, 30 MB, BOX (BX8071512900K)",
+    "image": "https://images.morele.net/i256/5949745_0_i256.jpg"
    },
    {
     "shop": "materiel.net",
@@ -1147,78 +1147,58 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202108310037.html",
     "inStock": true,
-    "lastSeen": "2026-11-24T03:48:22Z",
+    "lastSeen": "2026-11-25T01:55:38Z",
     "product": "Intel Core i9 12900K",
     "image": "https://media.materiel.net/r900/products/MN0005902114_1.jpg"
+   },
+   {
+    "shop": "amazon.com",
+    "price": 309.99,
+    "currency": "USD",
+    "url": "https://www.amazon.com/dp/B09ZPV5CFM?tag=fraym-20",
+    "inStock": true,
+    "lastSeen": "2026-11-25T02:33:22Z",
+    "product": "Intel Core i9-12900K 12th Gen Alder Lake 16-Core 3.2 GHz LGA 1700 Processor-BX8071512900K : Electronics",
+    "image": null
    }
   ],
   "image": "images/cpus-i9_12900k.jpg",
-  "lastUpdated": "2026-11-24T03:48:22Z"
+  "lastUpdated": "2026-11-25T02:33:22Z"
  },
  {
   "id": "i7_12700k",
   "name": "Core i7-12700K",
-  "priceMin": 280.86,
+  "priceMin": 282.05,
   "prices": [
    {
     "shop": "morele.net",
-    "price": 1207.68,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-intel-core-i7-12700k-3-6-ghz-25-mb-box-bx8071512700k-5949747/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor Intel Core i7-12700K, 3.6 GHz, 25 MB, BOX (BX8071512700K)",
-    "image": "https://images.morele.net/i256/5949747_0_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 1251.55,
+    "price": 1212.82,
     "currency": "PLN",
     "url": "https://www.morele.net/procesor-intel-core-i7-12700k-3-6-ghz-25-mb-oem-cm8071504553828-9496678/",
     "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
+    "lastSeen": "2026-11-25T01:55:38Z",
     "product": "Procesor Intel Core i7-12700K, 3.6 GHz, 25 MB, OEM (CM8071504553828)",
     "image": "https://images.morele.net/i256/9496678_1_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1239.99,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-intel-core-i7-12700k-3-6-ghz-25-mb-box-bx8071512700k-5949747/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor Intel Core i7-12700K, 3.6 GHz, 25 MB, BOX (BX8071512700K)",
+    "image": "https://images.morele.net/i256/5949747_0_i256.jpg"
    }
   ],
   "image": "images/cpus-i7_12700k.jpg",
-  "lastUpdated": "2026-11-23T05:49:00Z"
+  "lastUpdated": "2026-11-25T02:23:44Z"
  },
  {
   "id": "i5_12600k",
   "name": "Core i5-12600K",
-  "priceMin": 192.56,
+  "priceMin": 192.57,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 828.01,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-intel-core-i5-12600k-3-7-ghz-20-mb-oem-cm8071504555227-9496734/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor Intel Core i5-12600K, 3.7 GHz, 20 MB, OEM (CM8071504555227)",
-    "image": "https://images.morele.net/i256/9496734_0_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 894.98,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-intel-core-i5-12600k-3-7-ghz-20-mb-box-bx8071512600k-5949746/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor Intel Core i5-12600K, 3.7 GHz, 20 MB, BOX (BX8071512600K)",
-    "image": "https://images.morele.net/i256/5949746_0_i256.jpg"
-   },
-   {
-    "shop": "amazon.co.uk",
-    "price": 299.97,
-    "currency": "GBP",
-    "url": "https://www.amazon.co.uk/dp/B09LMQLQJ3?tag=fraym0a-21",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:46:52Z",
-    "product": "Intel i5-12600K 4.90GHZ LGA1700 Tray",
-    "image": null
-   },
    {
     "shop": "ldlc.com",
     "price": 249.95,
@@ -1240,12 +1220,42 @@
     "image": "https://media.materiel.net/r250/products/MN0005902110_1.jpg"
    },
    {
+    "shop": "morele.net",
+    "price": 828.04,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-intel-core-i5-12600k-3-7-ghz-20-mb-oem-cm8071504555227-9496734/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor Intel Core i5-12600K, 3.7 GHz, 20 MB, OEM (CM8071504555227)",
+    "image": "https://images.morele.net/i256/9496734_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 894.98,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-intel-core-i5-12600k-3-7-ghz-20-mb-box-bx8071512600k-5949746/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor Intel Core i5-12600K, 3.7 GHz, 20 MB, BOX (BX8071512600K)",
+    "image": "https://images.morele.net/i256/5949746_0_i256.jpg"
+   },
+   {
+    "shop": "amazon.co.uk",
+    "price": 299.97,
+    "currency": "GBP",
+    "url": "https://www.amazon.co.uk/dp/B09LMQLQJ3?tag=fraym0a-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T02:23:10Z",
+    "product": "Intel i5-12600K 4.90GHZ LGA1700 Tray",
+    "image": null
+   },
+   {
     "shop": "amazon.it",
     "price": 399.97,
     "currency": "EUR",
     "url": "https://www.amazon.it/dp/B09LMQLQJ3?tag=fraym06-21",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:23:46Z",
+    "lastSeen": "2026-11-25T02:25:07Z",
     "product": "Intel i5-12600K 4.90GHz LGA1700 Vassoio",
     "image": null
    },
@@ -1255,39 +1265,19 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B09LMQLQJ3?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:30:41Z",
+    "lastSeen": "2026-11-25T02:30:10Z",
     "product": "Intel Core i5 [12th Gen] i5-12600K Deca-core [10 Core] 3.70 GHz Processor - OEM Pack : Electronics",
     "image": null
    }
   ],
   "image": "images/cpus-i5_12600k.jpg",
-  "lastUpdated": "2026-11-24T17:30:41Z"
+  "lastUpdated": "2026-11-25T02:30:10Z"
  },
  {
   "id": "i5_12400f",
   "name": "Core i5-12400F",
   "priceMin": 136.98,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 589.0,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-intel-core-i5-12400f-2-5-ghz-18-mb-oem-cm8071504650609-9914280/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor Intel Core i5-12400F, 2.5 GHz, 18 MB, OEM (CM8071504650609)",
-    "image": "https://images.morele.net/i256/9914280_0_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 639.99,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-intel-core-i5-12400f-2-5-ghz-18-mb-box-bx8071512400f-9643517/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor Intel Core i5-12400F, 2.5 GHz, 18 MB, BOX (BX8071512400F)",
-    "image": "https://images.morele.net/i256/9643517_4_i256.jpg"
-   },
    {
     "shop": "ldlc.com",
     "price": 159.95,
@@ -1329,44 +1319,44 @@
     "image": "https://media.materiel.net/r250/products/MN0005918124_1.jpg"
    },
    {
+    "shop": "morele.net",
+    "price": 589.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-intel-core-i5-12400f-2-5-ghz-18-mb-oem-cm8071504650609-9914280/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor Intel Core i5-12400F, 2.5 GHz, 18 MB, OEM (CM8071504650609)",
+    "image": "https://images.morele.net/i256/9914280_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 639.99,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-intel-core-i5-12400f-2-5-ghz-18-mb-box-bx8071512400f-9643517/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor Intel Core i5-12400F, 2.5 GHz, 18 MB, BOX (BX8071512400F)",
+    "image": "https://images.morele.net/i256/9643517_4_i256.jpg"
+   },
+   {
     "shop": "amazon.com",
-    "price": 154.99,
+    "price": 152.99,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B09NPJRDGD?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:33:32Z",
+    "lastSeen": "2026-11-25T02:31:49Z",
     "product": "INTEL CPU Core i5-12400F / 6/12 / 2.5GHz / 6xxChipset / BX8071512400F : Electronics",
     "image": null
    }
   ],
   "image": "images/cpus-i5_12400f.jpg",
-  "lastUpdated": "2026-11-24T17:33:32Z"
+  "lastUpdated": "2026-11-25T02:31:49Z"
  },
  {
   "id": "ultra9_285k",
   "name": "Core Ultra 9 285K",
-  "priceMin": 580.23,
+  "priceMin": 563.6,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 2495.0,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-intel-core-ultra-9-285k-3-2-ghz-36-mb-box-bx80768285k-14386800/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor Intel Core Ultra 9 285K, 3.2 GHz, 36 MB, BOX (BX80768285K)",
-    "image": "https://images.morele.net/i256/14386800_1_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 2690.7,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-intel-core-ultra-9-285k-3-2-ghz-36-mb-oem-at8076806419-14201768/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor Intel Core Ultra 9 285K, 3.2 GHz, 36 MB, OEM (AT8076806419)",
-    "image": "https://images.morele.net/i256/14201768_0_i256.jpg"
-   },
    {
     "shop": "ldlc.com",
     "price": 719.95,
@@ -1406,36 +1396,36 @@
     "lastSeen": "2026-11-24T16:56:35Z",
     "product": "Intel Core Ultra 9 285K - Version tray",
     "image": "https://media.materiel.net/r250/products/MN0006181744.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 2423.47,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-intel-core-ultra-9-285k-3-2-ghz-36-mb-box-bx80768285k-14386800/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor Intel Core Ultra 9 285K, 3.2 GHz, 36 MB, BOX (BX80768285K)",
+    "image": "https://images.morele.net/i256/14386800_1_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 2716.99,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-intel-core-ultra-9-285k-3-2-ghz-36-mb-oem-at8076806419-14201768/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor Intel Core Ultra 9 285K, 3.2 GHz, 36 MB, OEM (AT8076806419)",
+    "image": "https://images.morele.net/i256/14201768_0_i256.jpg"
    }
   ],
   "image": "images/cpus-ultra9_285k.jpg",
-  "lastUpdated": "2026-11-24T17:36:37Z"
+  "lastUpdated": "2026-11-25T02:34:39Z"
  },
  {
   "id": "ultra5_245k",
   "name": "Core Ultra 5 245K",
   "priceMin": 212.9,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 941.85,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-intel-core-ultra-5-245k-3-6-ghz-24-mb-box-bx80768245k-14201782/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor Intel Core Ultra 5 245K, 3.6 GHz, 24 MB, BOX (BX80768245K)",
-    "image": "https://images.morele.net/i256/14201782_5_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 1007.8,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-intel-core-ultra-5-245k-3-6-ghz-24-mb-oem-at807680640f-14201777/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor Intel Core Ultra 5 245K, 3.6 GHz, 24 MB, OEM (AT807680640F)",
-    "image": "https://images.morele.net/i256/14201777_0_i256.jpg"
-   },
    {
     "shop": "ldlc.com",
     "price": 269.95,
@@ -1457,16 +1447,6 @@
     "image": "https://media.ldlc.com/r150/ld/products/00/06/17/94/LD0006179404.jpg"
    },
    {
-    "shop": "alternate.fr",
-    "price": 212.9,
-    "currency": "EUR",
-    "url": "https://www.alternate.fr/Intel/Core-Ultra-5-245K-3-6-GHz-5-2-GHz-Turbo-Boost-socket-1851-processeur/html/product/100077071",
-    "inStock": true,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Intel® Core Ultra 5 245K, 3,6 GHz (5,2 GHz Turbo Boost) socket 1851 processeur",
-    "image": "https://www.alternate.fr/p/200x200/1/7/Intel__Core_Ultra_5_245K__3_6_GHz__5_2_GHz_Turbo_Boost__socket_1851_processeur@@100077071.jpg"
-   },
-   {
     "shop": "materiel.net",
     "price": 269.95,
     "currency": "EUR",
@@ -1485,26 +1465,46 @@
     "lastSeen": "2026-11-24T16:56:35Z",
     "product": "Intel Core Ultra 5 245K",
     "image": "https://media.materiel.net/r250/products/MN0006176541.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 941.85,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-intel-core-ultra-5-245k-3-6-ghz-24-mb-box-bx80768245k-14201782/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor Intel Core Ultra 5 245K, 3.6 GHz, 24 MB, BOX (BX80768245K)",
+    "image": "https://images.morele.net/i256/14201782_5_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 979.5,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-intel-core-ultra-5-245k-3-6-ghz-24-mb-oem-at807680640f-14201777/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor Intel Core Ultra 5 245K, 3.6 GHz, 24 MB, OEM (AT807680640F)",
+    "image": "https://images.morele.net/i256/14201777_0_i256.jpg"
+   },
+   {
+    "shop": "alternate.fr",
+    "price": 212.9,
+    "currency": "EUR",
+    "url": "https://www.alternate.fr/Intel/Core-Ultra-5-245K-3-6-GHz-5-2-GHz-Turbo-Boost-socket-1851-processeur/html/product/100077071",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Intel® Core Ultra 5 245K, 3,6 GHz (5,2 GHz Turbo Boost) socket 1851 processeur",
+    "image": "https://www.alternate.fr/p/200x200/1/7/Intel__Core_Ultra_5_245K__3_6_GHz__5_2_GHz_Turbo_Boost__socket_1851_processeur@@100077071.jpg"
    }
   ],
   "image": "images/cpus-ultra5_245k.jpg",
-  "lastUpdated": "2026-11-24T17:31:38Z"
+  "lastUpdated": "2026-11-25T01:55:38Z"
  },
  {
   "id": "r5_9600x",
   "name": "Ryzen 5 9600X",
   "priceMin": 124.17,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 778.29,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-amd-ryzen-5-9600x-3-9-ghz-32-mb-box-100-100001405wof-13331760/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor AMD Ryzen 5 9600X, 3.9 GHz, 32 MB, BOX (100-100001405WOF)",
-    "image": "https://images.morele.net/i256/13331760_0_i256.jpg"
-   },
    {
     "shop": "canadacomputers.com",
     "price": 249.99,
@@ -1514,16 +1514,6 @@
     "lastSeen": "2026-11-24T03:48:22Z",
     "product": "AMD Ryzen 5 9600X 6-Core/12Thread 4nm ZEN 5 CPU",
     "image": "https://ccimg.canadacomputers.com/Products/800x800/240/381/258318/62748.jpg"
-   },
-   {
-    "shop": "amazon.fr",
-    "price": 124.17,
-    "currency": "EUR",
-    "url": "https://www.amazon.fr/dp/B0D6NN6TM7?tag=fraym-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T04:14:22Z",
-    "product": "AMD Ryzen 5 9600X Processeur (Radeon Graphique Intégré, 6 Coeurs/12 Threads, 65W TDP, Socket AM5, Cache 38Mo, jusqu'à 5.4 GHz Fréquence Boost, Pas de Ventilateur)",
-    "image": null
    },
    {
     "shop": "ldlc.com",
@@ -1586,34 +1576,44 @@
     "image": null
    },
    {
+    "shop": "morele.net",
+    "price": 790.91,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-amd-ryzen-5-9600x-3-9-ghz-32-mb-box-100-100001405wof-13331760/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor AMD Ryzen 5 9600X, 3.9 GHz, 32 MB, BOX (100-100001405WOF)",
+    "image": "https://images.morele.net/i256/13331760_0_i256.jpg"
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 124.17,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B0D6NN6TM7?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T02:21:31Z",
+    "product": "AMD Ryzen 5 9600X Processeur (Radeon Graphique Intégré, 6 Coeurs/12 Threads, 65W TDP, Socket AM5, Cache 38Mo, jusqu'à 5.4 GHz Fréquence Boost, Pas de Ventilateur)",
+    "image": null
+   },
+   {
     "shop": "amazon.es",
     "price": 138.83,
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B0D6NN6TM7?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:33:40Z",
+    "lastSeen": "2026-11-25T02:32:18Z",
     "product": "AMD Ryzen 5 9600X Procesador (Tarjeta gráfica Radeon integrada, 6 núcleos/12 Threads, 65W DTP, Socket AM5, 38MB Caché, Reloj de Aumento máx. hasta 5.4 GHz, sin Ventilador)",
     "image": null
    }
   ],
   "image": "images/cpus-r5_9600x.jpg",
-  "lastUpdated": "2026-11-24T17:33:40Z"
+  "lastUpdated": "2026-11-25T02:32:18Z"
  },
  {
   "id": "r7_9700x",
   "name": "Ryzen 7 9700X",
   "priceMin": 204.16,
   "prices": [
-   {
-    "shop": "amazon.co.uk",
-    "price": 179.16,
-    "currency": "GBP",
-    "url": "https://www.amazon.co.uk/dp/B0D6NMDNNX?tag=fraym0a-21",
-    "inStock": true,
-    "lastSeen": "2026-11-22T23:40:30Z",
-    "product": "AMD Ryzensets 7 9700X Processor (8 Cores/16 Threads) 65W DTP, AM5 socket, 40MB Cache, Up to 5.5 GHz max boost frequency, no cooler",
-    "image": null
-   },
    {
     "shop": "canadacomputers.com",
     "price": 359.99,
@@ -1623,16 +1623,6 @@
     "lastSeen": "2026-11-24T03:48:22Z",
     "product": "AMD Ryzen 7 9700X 8-Core/16Thread 4nm ZEN 5 CPU",
     "image": "https://ccimg.canadacomputers.com/Products/800x800/240/381/258320/43129.jpg"
-   },
-   {
-    "shop": "amazon.fr",
-    "price": 204.16,
-    "currency": "EUR",
-    "url": "https://www.amazon.fr/dp/B0D6NMDNNX?tag=fraym-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T04:15:09Z",
-    "product": "AMD Ryzen 7 9700X Processeur (8 Coeurs/16 Threads), 65W DTP, Socket AM5, Cache 40Mo, jusqu'à 5.5 GHz Fréquence Boost, Pas de Ventilateur",
-    "image": null
    },
    {
     "shop": "ldlc.com",
@@ -1685,16 +1675,6 @@
     "image": null
    },
    {
-    "shop": "amazon.es",
-    "price": 205.78,
-    "currency": "EUR",
-    "url": "https://www.amazon.es/dp/B0D6NMDNNX?tag=fraym08-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T17:34:29Z",
-    "product": "AMD Ryzen 7 9700X Procesador (8 núcleos/16 Threads) 65W DTP, Socket AM5, 40MB Caché, Reloj de Aumento máx. hasta 5.5 GHz, sin Ventilador",
-    "image": null
-   },
-   {
     "shop": "amazon.it",
     "price": 214.98,
     "currency": "EUR",
@@ -1703,26 +1683,46 @@
     "lastSeen": "2026-11-24T17:35:42Z",
     "product": "AMD Ryzen 7 9700X (8 Cores/16 Threads) 65W DTP, AM5 socket, 40MB Cache, Boost di Frequenza fino a 5.5 GHz max, senza ventole)",
     "image": null
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 204.16,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B0D6NMDNNX?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T02:22:03Z",
+    "product": "AMD Ryzen 7 9700X Processeur (8 Coeurs/16 Threads), 65W DTP, Socket AM5, Cache 40Mo, jusqu'à 5.5 GHz Fréquence Boost, Pas de Ventilateur",
+    "image": null
+   },
+   {
+    "shop": "amazon.co.uk",
+    "price": 179.16,
+    "currency": "GBP",
+    "url": "https://www.amazon.co.uk/dp/B0D6NMDNNX?tag=fraym0a-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T02:22:22Z",
+    "product": "AMD Ryzensets 7 9700X Processor (8 Cores/16 Threads) 65W DTP, AM5 socket, 40MB Cache, Up to 5.5 GHz max boost frequency, no cooler",
+    "image": null
+   },
+   {
+    "shop": "amazon.es",
+    "price": 205.78,
+    "currency": "EUR",
+    "url": "https://www.amazon.es/dp/B0D6NMDNNX?tag=fraym08-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T02:32:59Z",
+    "product": "AMD Ryzen 7 9700X Procesador (8 núcleos/16 Threads) 65W DTP, Socket AM5, 40MB Caché, Reloj de Aumento máx. hasta 5.5 GHz, sin Ventilador",
+    "image": null
    }
   ],
   "image": "images/cpus-r7_9700x.jpg",
-  "lastUpdated": "2026-11-24T17:35:42Z"
+  "lastUpdated": "2026-11-25T02:32:59Z"
  },
  {
   "id": "r9_9900x3d",
   "name": "Ryzen 9 9900X3D",
   "priceMin": 383.71,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 2240.8,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-amd-ryzen-9-9900x3d-4-4-ghz-128-mb-box-100-100001368wof-14744282/",
-    "inStock": true,
-    "lastSeen": "2026-11-21T22:46:33Z",
-    "product": "Procesor AMD Ryzen 9 9900X3D, 4.4 GHz, 128 MB, BOX (100-100001368WOF)",
-    "image": "https://images.morele.net/i256/14744282_0_i256.jpg"
-   },
    {
     "shop": "canadacomputers.com",
     "price": 799.99,
@@ -1732,16 +1732,6 @@
     "lastSeen": "2026-11-24T03:48:22Z",
     "product": "AMD Ryzen 9 9900X3D 12-Core/24Thread 4nm ZEN 5 CPU",
     "image": "https://ccimg.canadacomputers.com/Products/800x800/240/381/267979/42898.jpg"
-   },
-   {
-    "shop": "amazon.fr",
-    "price": 399.17,
-    "currency": "EUR",
-    "url": "https://www.amazon.fr/dp/B0DWGWN8GY?tag=fraym-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T04:18:44Z",
-    "product": "AMD Ryzen™ 9 9900X3D avec Technologie 3D V-Cache™, 12 cœurs/24 Threads, 140 Mo de Cache, TDP 120 W, Socket AM5, fréquence Max jusqu'à 5,5 GHz, DDR5 et PCIe 5.0",
-    "image": null
    },
    {
     "shop": "ldlc.com",
@@ -1804,44 +1794,54 @@
     "image": null
    },
    {
+    "shop": "morele.net",
+    "price": 2229.29,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-amd-ryzen-9-9900x3d-4-4-ghz-128-mb-box-100-100001368wof-14744282/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor AMD Ryzen 9 9900X3D, 4.4 GHz, 128 MB, BOX (100-100001368WOF)",
+    "image": "https://images.morele.net/i256/14744282_0_i256.jpg"
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 399.17,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B0DWGWN8GY?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T02:24:10Z",
+    "product": "AMD Ryzen™ 9 9900X3D avec Technologie 3D V-Cache™, 12 cœurs/24 Threads, 140 Mo de Cache, TDP 120 W, Socket AM5, fréquence Max jusqu'à 5,5 GHz, DDR5 et PCIe 5.0",
+    "image": null
+   },
+   {
+    "shop": "amazon.es",
+    "price": 400.82,
+    "currency": "EUR",
+    "url": "https://www.amazon.es/dp/B0DWGWN8GY?tag=fraym08-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T02:31:26Z",
+    "product": "AMD Ryzen 9 9900X 3D Procesador, 12 Núcleos/24 Hilos Desbloqueados, Arquitectura Zen 5, 140 Cache L2/L3, TDP 120W, hasta 5,5 GHz Frecuencia Boost, Socket AM5, DDR5 & PCIe 5.0, Sin disipador",
+    "image": null
+   },
+   {
     "shop": "amazon.com",
-    "price": 506.0,
+    "price": 508.95,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0DWGWN8GY?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:39:31Z",
+    "lastSeen": "2026-11-25T02:37:23Z",
     "product": "AMD Ryzen 9 9900X3D 12-Core Processor : Electronics",
     "image": null
    }
   ],
   "image": "images/cpus-r9_9900x3d.jpg",
-  "lastUpdated": "2026-11-24T17:39:31Z"
+  "lastUpdated": "2026-11-25T02:37:23Z"
  },
  {
   "id": "r5_7600",
   "name": "Ryzen 5 7600",
-  "priceMin": 184.8,
+  "priceMin": 179.99,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 794.66,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-amd-ryzen-5-7600-3-8-ghz-32-mb-box-100-100001015box-12491803/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor AMD Ryzen 5 7600, 3.8 GHz, 32 MB, BOX (100-100001015BOX)",
-    "image": "https://images.morele.net/i256/12491803_2_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 796.37,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-amd-ryzen-5-7600-3-8-ghz-32-mb-oem-100-000001015-13120350/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor AMD Ryzen 5 7600, 3.8 GHz, 32 MB, OEM (100-000001015)",
-    "image": "https://images.morele.net/i256/13120350_1_i256.jpg"
-   },
    {
     "shop": "amazon.it",
     "price": 241.94,
@@ -1851,36 +1851,36 @@
     "lastSeen": "2026-11-24T17:33:58Z",
     "product": "Processore AMD Ryzen 5 7600 (scheda grafica integrata Radeon, 6 cores/12 threads, 65W TDP, AM5 Socket, 38MB cache, Boost di Frequenza fino a 5.1 GHz max, dissipatore ad aria \"Wraith prism Cooler\")",
     "image": null
+   },
+   {
+    "shop": "morele.net",
+    "price": 773.97,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-amd-ryzen-5-7600-3-8-ghz-32-mb-oem-100-000001015-13120350/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor AMD Ryzen 5 7600, 3.8 GHz, 32 MB, OEM (100-000001015)",
+    "image": "https://images.morele.net/i256/13120350_1_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 804.62,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-amd-ryzen-5-7600-3-8-ghz-32-mb-box-100-100001015box-12491803/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor AMD Ryzen 5 7600, 3.8 GHz, 32 MB, BOX (100-100001015BOX)",
+    "image": "https://images.morele.net/i256/12491803_2_i256.jpg"
    }
   ],
   "image": "images/cpus-r5_7600.jpg",
-  "lastUpdated": "2026-11-24T17:33:58Z"
+  "lastUpdated": "2026-11-25T01:55:38Z"
  },
  {
   "id": "r7_7700",
   "name": "Ryzen 7 7700",
   "priceMin": 181.16,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 779.0,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-amd-ryzen-7-7700-3-8-ghz-32-mb-oem-100-000000592-12984669/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor AMD Ryzen 7 7700, 3.8 GHz, 32 MB, OEM (100-000000592)",
-    "image": "https://images.morele.net/i256/12984669_1_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 1363.46,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-amd-ryzen-7-7700-3-8-ghz-32-mb-box-100-100000592box-12491802/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor AMD Ryzen 7 7700, 3.8 GHz, 32 MB, BOX (100-100000592BOX)",
-    "image": "https://images.morele.net/i256/12491802_0_i256.jpg"
-   },
    {
     "shop": "canadacomputers.com",
     "price": 479.88,
@@ -1962,54 +1962,44 @@
     "image": null
    },
    {
+    "shop": "morele.net",
+    "price": 779.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-amd-ryzen-7-7700-3-8-ghz-32-mb-oem-100-000000592-12984669/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor AMD Ryzen 7 7700, 3.8 GHz, 32 MB, OEM (100-000000592)",
+    "image": "https://images.morele.net/i256/12984669_1_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1298.99,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-amd-ryzen-7-7700-3-8-ghz-32-mb-box-100-100000592box-12491802/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor AMD Ryzen 7 7700, 3.8 GHz, 32 MB, BOX (100-100000592BOX)",
+    "image": "https://images.morele.net/i256/12491802_0_i256.jpg"
+   },
+   {
     "shop": "amazon.com",
     "price": 217.0,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0C3T39N6P?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:39:47Z",
+    "lastSeen": "2026-11-25T02:37:37Z",
     "product": "AMD Ryzen 7 7700 Processor 3.8 GHz 32 MB L3 : Electronics",
     "image": null
    }
   ],
   "image": "images/cpus-r7_7700.jpg",
-  "lastUpdated": "2026-11-24T17:39:47Z"
+  "lastUpdated": "2026-11-25T02:37:37Z"
  },
  {
   "id": "r5_5500",
   "name": "Ryzen 5 5500",
   "priceMin": 83.49,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 359.0,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-amd-ryzen-5-5500-3-6-ghz-16-mb-oem-100-000000457-10120242/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor AMD Ryzen 5 5500, 3.6 GHz, 16 MB, OEM (100-000000457)",
-    "image": "https://images.morele.net/i256/10120242_1_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 407.69,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-amd-ryzen-5-5500-3-6-ghz-16-mb-box-100-100000457box-10120240/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor AMD Ryzen 5 5500, 3.6 GHz, 16 MB, BOX (100-100000457BOX)",
-    "image": "https://images.morele.net/i256/10120240_0_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 460.99,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-amd-ryzen-5-5500-3-6-ghz-16-mb-mpk-100-100000457mpk-10120241/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor AMD Ryzen 5 5500, 3.6 GHz, 16 MB, MPK (100-100000457MPK)",
-    "image": "https://images.morele.net/i256/10120241_2_i256.jpg"
-   },
    {
     "shop": "canadacomputers.com",
     "price": 124.99,
@@ -2049,46 +2039,46 @@
     "lastSeen": "2026-11-24T16:56:35Z",
     "product": "AMD Ryzen 5 5500 - Version tray",
     "image": "https://media.materiel.net/r250/products/MN0006200436.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 359.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-amd-ryzen-5-5500-3-6-ghz-16-mb-oem-100-000000457-10120242/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor AMD Ryzen 5 5500, 3.6 GHz, 16 MB, OEM (100-000000457)",
+    "image": "https://images.morele.net/i256/10120242_1_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 408.55,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-amd-ryzen-5-5500-3-6-ghz-16-mb-box-100-100000457box-10120240/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor AMD Ryzen 5 5500, 3.6 GHz, 16 MB, BOX (100-100000457BOX)",
+    "image": "https://images.morele.net/i256/10120240_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 465.2,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-amd-ryzen-5-5500-3-6-ghz-16-mb-mpk-100-100000457mpk-10120241/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor AMD Ryzen 5 5500, 3.6 GHz, 16 MB, MPK (100-100000457MPK)",
+    "image": "https://images.morele.net/i256/10120241_2_i256.jpg"
    }
   ],
   "image": "images/cpus-r5_5500.jpg",
-  "lastUpdated": "2026-11-24T17:39:52Z"
+  "lastUpdated": "2026-11-25T01:55:38Z"
  },
  {
   "id": "i5_14400f",
   "name": "Core i5-14400F",
   "priceMin": 138.88,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 653.79,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-intel-core-i5-14400f-2-5-ghz-20-mb-oem-cm8071505093011-13191020/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor Intel Core i5-14400F, 2.5 GHz, 20 MB, OEM (CM8071505093011)",
-    "image": "https://images.morele.net/i256/13191020_1_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 692.76,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-intel-core-i5-14400f-2-5-ghz-20-mb-oem-cm8071504821113-13172923/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor Intel Core i5-14400F, 2.5 GHz, 20 MB, OEM (CM8071504821113)",
-    "image": "https://images.morele.net/i256/13172923_1_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 708.53,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-intel-core-i5-14400f-2-5-ghz-20-mb-box-bx8071514400f-13155885/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor Intel Core i5-14400F, 2.5 GHz, 20 MB, BOX (BX8071514400F)",
-    "image": "https://images.morele.net/i256/13155885_0_i256.jpg"
-   },
    {
     "shop": "ldlc.com",
     "price": 179.95,
@@ -2130,31 +2120,71 @@
     "image": "https://media.materiel.net/r250/products/MN0006096887.jpg"
    },
    {
+    "shop": "morele.net",
+    "price": 665.77,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-intel-core-i5-14400f-2-5-ghz-20-mb-oem-cm8071505093011-13191020/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor Intel Core i5-14400F, 2.5 GHz, 20 MB, OEM (CM8071505093011)",
+    "image": "https://images.morele.net/i256/13191020_1_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 686.52,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-intel-core-i5-14400f-2-5-ghz-20-mb-box-bx8071514400f-13155885/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor Intel Core i5-14400F, 2.5 GHz, 20 MB, BOX (BX8071514400F)",
+    "image": "https://images.morele.net/i256/13155885_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 729.99,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-intel-core-i5-14400f-2-5-ghz-20-mb-oem-cm8071504821113-13172923/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor Intel Core i5-14400F, 2.5 GHz, 20 MB, OEM (CM8071504821113)",
+    "image": "https://images.morele.net/i256/13172923_1_i256.jpg"
+   },
+   {
     "shop": "amazon.com",
     "price": 149.99,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0CQ3142LB?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:34:19Z",
+    "lastSeen": "2026-11-25T02:32:28Z",
     "product": "Intel Core i5-14400F LGA 1700 Processor BX8071514400F : Electronics",
     "image": null
    }
   ],
   "image": "images/cpus-i5_14400f.jpg",
-  "lastUpdated": "2026-11-24T17:34:19Z"
+  "lastUpdated": "2026-11-25T02:32:28Z"
  },
  {
   "id": "i3_14100f",
   "name": "Core i3-14100F",
-  "priceMin": 95.94,
+  "priceMin": 91.41,
   "prices": [
    {
+    "shop": "ldlc.com",
+    "price": 114.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00587862.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Intel Core i3-14100F (jusqu'à 4.7 GHz)",
+    "image": "https://media.ldlc.com/r1600/ld/products/00/06/09/60/LD0006096030_0006096052.jpg"
+   },
+   {
     "shop": "morele.net",
-    "price": 412.53,
+    "price": 393.06,
     "currency": "PLN",
     "url": "https://www.morele.net/procesor-intel-core-i3-14100f-3-5-ghz-12-mb-oem-cm8071505092207-13172902/",
     "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
+    "lastSeen": "2026-11-25T01:55:38Z",
     "product": "Procesor Intel Core i3-14100F, 3.5 GHz, 12 MB, OEM (CM8071505092207)",
     "image": "https://images.morele.net/i256/13172902_0_i256.jpg"
    },
@@ -2164,19 +2194,9 @@
     "currency": "PLN",
     "url": "https://www.morele.net/procesor-intel-core-i3-14100f-3-5-ghz-12-mb-box-bx8071514100f-13155886/",
     "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
+    "lastSeen": "2026-11-25T01:55:38Z",
     "product": "Procesor Intel Core i3-14100F, 3.5 GHz, 12 MB, BOX (BX8071514100F)",
     "image": "https://images.morele.net/i256/13155886_0_i256.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 114.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00587862.html",
-    "inStock": true,
-    "lastSeen": "2026-11-23T17:11:56Z",
-    "product": "Intel Core i3-14100F (jusqu'à 4.7 GHz)",
-    "image": "https://media.ldlc.com/r1600/ld/products/00/06/09/60/LD0006096030_0006096052.jpg"
    },
    {
     "shop": "materiel.net",
@@ -2184,7 +2204,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202312050184.html",
     "inStock": true,
-    "lastSeen": "2026-11-24T03:48:22Z",
+    "lastSeen": "2026-11-25T01:55:38Z",
     "product": "Intel Core i3-14100F",
     "image": "https://media.materiel.net/r900/products/MN0006096883.jpg"
    },
@@ -2194,29 +2214,19 @@
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B0CQ1MN1Y2?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-24T04:16:02Z",
+    "lastSeen": "2026-11-25T02:21:22Z",
     "product": "Intel Core i3-14100F Procesador de Escritorio de 4 Núcleos de hasta 4.7 GHz, BX8071514100F",
     "image": null
    }
   ],
   "image": "images/cpus-i3_14100f.jpg",
-  "lastUpdated": "2026-11-24T17:24:25Z"
+  "lastUpdated": "2026-11-25T02:21:22Z"
  },
  {
   "id": "ultra7_265k",
   "name": "Core Ultra 7 265K",
   "priceMin": 303.26,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 1304.0,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-intel-core-ultra-7-265k-3-3-ghz-30-mb-oem-at8076806412-14201773/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor Intel Core Ultra 7 265K, 3.3 GHz, 30 MB, OEM (AT8076806412)",
-    "image": "https://images.morele.net/i256/14201773_0_i256.jpg"
-   },
    {
     "shop": "ldlc.com",
     "price": 389.95,
@@ -2236,10 +2246,20 @@
     "lastSeen": "2026-11-24T16:56:35Z",
     "product": "Intel Core Ultra 7 265K - Version tray",
     "image": "https://media.materiel.net/r250/products/MN0006181739.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1304.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-intel-core-ultra-7-265k-3-3-ghz-30-mb-oem-at8076806412-14201773/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor Intel Core Ultra 7 265K, 3.3 GHz, 30 MB, OEM (AT8076806412)",
+    "image": "https://images.morele.net/i256/14201773_0_i256.jpg"
    }
   ],
   "image": "images/cpus-ultra7_265k.jpg",
-  "lastUpdated": "2026-11-24T16:56:35Z"
+  "lastUpdated": "2026-11-25T01:55:38Z"
  },
  {
   "id": "amd-ryzen-9-9950x",
@@ -2316,16 +2336,6 @@
   "priceMin": 276.0,
   "prices": [
    {
-    "shop": "morele.net",
-    "price": 1479.0,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-amd-ryzen-9-9900x-4-4-ghz-64-mb-box-100-100000662wof-13331757/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor AMD Ryzen 9 9900X, 4.4 GHz, 64 MB, BOX (100-100000662WOF)",
-    "image": "https://images.morele.net/i256/13331757_0_i256.jpg"
-   },
-   {
     "shop": "canadacomputers.com",
     "price": 519.99,
     "currency": "CAD",
@@ -2334,26 +2344,6 @@
     "lastSeen": "2026-11-24T03:48:22Z",
     "product": "AMD Ryzen 9 9900X 12-Core/24Thread 4nm ZEN 5 CPU",
     "image": "https://ccimg.canadacomputers.com/Products/800x800/240/381/258536/49127.jpg"
-   },
-   {
-    "shop": "amazon.fr",
-    "price": 282.5,
-    "currency": "EUR",
-    "url": "https://www.amazon.fr/dp/B0D6NN87T8?tag=fraym-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T04:18:24Z",
-    "product": "AMD Ryzen 9 9900X Processeur (Radeon Graphique Intégré, 12 Coeurs/24 Threads, 120W TDP, Socket AM5, Cache 76Mo, jusqu'à 5.6 GHz Fréquence Boost, Pas de Ventilateur)",
-    "image": null
-   },
-   {
-    "shop": "amazon.it",
-    "price": 289.42,
-    "currency": "EUR",
-    "url": "https://www.amazon.it/dp/B0D6NN87T8?tag=fraym06-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T04:20:53Z",
-    "product": "AMD Ryzen 9 9900X (scheda grafica integrata Radeon, 12 Cores/24 Threads, 120W TDP, AM5 Socket, 76MB Cache, Boost di Frequenza fino a 5.6 GHz max, senza ventole)",
-    "image": null
    },
    {
     "shop": "ldlc.com",
@@ -2424,46 +2414,46 @@
     "lastSeen": "2026-11-24T17:29:45Z",
     "product": "AMD Ryzensets 9 9900X Processor (radeon graphics integrated, 12 Cores/24 Threads, 120W DTP, AM5 Socket, 76MB Cache, Up to 5.6 GHz max boost frequency, No Cooler)",
     "image": null
+   },
+   {
+    "shop": "morele.net",
+    "price": 1479.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-amd-ryzen-9-9900x-4-4-ghz-64-mb-box-100-100000662wof-13331757/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor AMD Ryzen 9 9900X, 4.4 GHz, 64 MB, BOX (100-100000662WOF)",
+    "image": "https://images.morele.net/i256/13331757_0_i256.jpg"
+   },
+   {
+    "shop": "amazon.it",
+    "price": 289.42,
+    "currency": "EUR",
+    "url": "https://www.amazon.it/dp/B0D6NN87T8?tag=fraym06-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T02:23:16Z",
+    "product": "AMD Ryzen 9 9900X (scheda grafica integrata Radeon, 12 Cores/24 Threads, 120W TDP, AM5 Socket, 76MB Cache, Boost di Frequenza fino a 5.6 GHz max, senza ventole)",
+    "image": null
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 282.5,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B0D6NN87T8?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T02:24:04Z",
+    "product": "AMD Ryzen 9 9900X Processeur (Radeon Graphique Intégré, 12 Coeurs/24 Threads, 120W TDP, Socket AM5, Cache 76Mo, jusqu'à 5.6 GHz Fréquence Boost, Pas de Ventilateur)",
+    "image": null
    }
   ],
   "image": "images/cpus-amd-ryzen-9-9900x.jpg",
-  "lastUpdated": "2026-11-24T17:36:28Z"
+  "lastUpdated": "2026-11-25T02:34:31Z"
  },
  {
   "id": "amd-ryzen-5-9600",
   "name": "Ryzen 5 9600",
   "priceMin": 209.36,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 900.26,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-amd-ryzen-5-9600-3-8-ghz-32-mb-oem-100-000000718-14744233/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor AMD Ryzen 5 9600, 3.8 GHz, 32 MB, OEM (100-000000718)",
-    "image": "https://images.morele.net/i256/14744233_2_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 994.98,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-amd-ryzen-5-9600-3-8-ghz-32-mb-box-100-100000718box-14729910/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor AMD Ryzen 5 9600, 3.8 GHz, 32 MB, BOX (100-100000718BOX)",
-    "image": "https://images.morele.net/i256/14729910_1_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 1103.1,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-amd-ryzen-5-9600-3-8-ghz-32-mb-mpk-100-100000718mpk-14935575/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor AMD Ryzen 5 9600, 3.8 GHz, 32 MB, MPK (100-100000718MPK)",
-    "image": "https://images.morele.net/i256/14935575_1_i256.jpg"
-   },
    {
     "shop": "ldlc.com",
     "price": 259.95,
@@ -2483,36 +2473,46 @@
     "lastSeen": "2026-11-24T16:56:35Z",
     "product": "AMD Ryzen 5 9600",
     "image": "https://media.materiel.net/r250/products/MN0006212661.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 900.26,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-amd-ryzen-5-9600-3-8-ghz-32-mb-oem-100-000000718-14744233/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor AMD Ryzen 5 9600, 3.8 GHz, 32 MB, OEM (100-000000718)",
+    "image": "https://images.morele.net/i256/14744233_2_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1009.99,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-amd-ryzen-5-9600-3-8-ghz-32-mb-box-100-100000718box-14729910/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor AMD Ryzen 5 9600, 3.8 GHz, 32 MB, BOX (100-100000718BOX)",
+    "image": "https://images.morele.net/i256/14729910_1_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1120.04,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-amd-ryzen-5-9600-3-8-ghz-32-mb-mpk-100-100000718mpk-14935575/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor AMD Ryzen 5 9600, 3.8 GHz, 32 MB, MPK (100-100000718MPK)",
+    "image": "https://images.morele.net/i256/14935575_1_i256.jpg"
    }
   ],
   "image": "images/cpus-amd-ryzen-5-9600.jpg",
-  "lastUpdated": "2026-11-24T16:56:35Z"
+  "lastUpdated": "2026-11-25T01:55:38Z"
  },
  {
   "id": "amd-ryzen-9-7900x",
   "name": "Ryzen 9 7900X",
   "priceMin": 230.42,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 1317.61,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-amd-ryzen-9-7900x-4-7-ghz-64-mb-box-100-100000589wof-11788489/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor AMD Ryzen 9 7900X, 4.7 GHz, 64 MB, BOX (100-100000589WOF)",
-    "image": "https://images.morele.net/i256/11788489_5_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 1926.61,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-amd-ryzen-9-7900x-4-7-ghz-64-mb-oem-100-000000589-12887429/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor AMD Ryzen 9 7900X, 4.7 GHz, 64 MB, OEM (100-000000589)",
-    "image": "https://images.morele.net/i256/12887429_0_i256.jpg"
-   },
    {
     "shop": "canadacomputers.com",
     "price": 399.88,
@@ -2552,10 +2552,30 @@
     "lastSeen": "2026-11-24T17:30:26Z",
     "product": "AMD Ryzensets 9 7900X Processor (integrated Radeon Graphics, 12 cores/24 threads, 170W TDP, AM5 Socket, 76MB cache, up to 5.6 GHz max boost, no cooler)",
     "image": null
+   },
+   {
+    "shop": "morele.net",
+    "price": 1324.11,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-amd-ryzen-9-7900x-4-7-ghz-64-mb-box-100-100000589wof-11788489/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor AMD Ryzen 9 7900X, 4.7 GHz, 64 MB, BOX (100-100000589WOF)",
+    "image": "https://images.morele.net/i256/11788489_5_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1927.08,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-amd-ryzen-9-7900x-4-7-ghz-64-mb-oem-100-000000589-12887429/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor AMD Ryzen 9 7900X, 4.7 GHz, 64 MB, OEM (100-000000589)",
+    "image": "https://images.morele.net/i256/12887429_0_i256.jpg"
    }
   ],
   "image": "images/cpus-amd-ryzen-9-7900x.jpg",
-  "lastUpdated": "2026-11-24T17:30:26Z"
+  "lastUpdated": "2026-11-25T01:55:38Z"
  },
  {
   "id": "amd-ryzen-9-7900",
@@ -2571,26 +2591,6 @@
     "lastSeen": "2026-11-22T04:43:17Z",
     "product": "AMD Ryzen 9 7900 12-Core/24-Thread 5nm ZEN 4 Wraith Prism Cooler",
     "image": "https://ccimg.canadacomputers.com/Products/800x800/240/381/233958/22778.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 1619.75,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-amd-ryzen-9-7900-3-7-ghz-64-mb-oem-100-000000590-13113444/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor AMD Ryzen 9 7900, 3.7 GHz, 64 MB, OEM (100-000000590)",
-    "image": "https://images.morele.net/i256/13113444_1_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 1696.94,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-amd-ryzen-9-7900-3-7-ghz-64-mb-box-100-100000590wof-15533701/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor AMD Ryzen 9 7900, 3.7 GHz, 64 MB, BOX (100-100000590WOF)",
-    "image": "https://images.morele.net/i256/15533701_1_i256.jpg"
    },
    {
     "shop": "ldlc.com",
@@ -2643,34 +2643,44 @@
     "image": null
    },
    {
+    "shop": "morele.net",
+    "price": 1630.8,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-amd-ryzen-9-7900-3-7-ghz-64-mb-oem-100-000000590-13113444/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor AMD Ryzen 9 7900, 3.7 GHz, 64 MB, OEM (100-000000590)",
+    "image": "https://images.morele.net/i256/13113444_1_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1696.99,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-amd-ryzen-9-7900-3-7-ghz-64-mb-box-100-100000590wof-15533701/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor AMD Ryzen 9 7900, 3.7 GHz, 64 MB, BOX (100-100000590WOF)",
+    "image": "https://images.morele.net/i256/15533701_1_i256.jpg"
+   },
+   {
     "shop": "amazon.it",
-    "price": 350.71,
+    "price": 332.78,
     "currency": "EUR",
     "url": "https://www.amazon.it/dp/B0BMQK718H?tag=fraym06-21",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:34:38Z",
+    "lastSeen": "2026-11-25T02:33:26Z",
     "product": "Processore AMD Ryzen 9 7900 (scheda grafica integrata Radeon, 12 cores/24 threads, 65W DTP, AM5 Socket, Cache 76MB, Boost di Frequenza fino a 5.4 GHz max, dissipatore ad aria \"Wraith prism Cooler\")",
     "image": null
    }
   ],
   "image": "images/cpus-amd-ryzen-9-7900.jpg",
-  "lastUpdated": "2026-11-24T17:34:38Z"
+  "lastUpdated": "2026-11-25T02:33:26Z"
  },
  {
   "id": "amd-ryzen-5-7500f",
   "name": "Ryzen 5 7500F",
-  "priceMin": 127.54,
+  "priceMin": 127.67,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 548.43,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-amd-ryzen-5-7500f-3-7-ghz-32-mb-oem-100-000000597-13113437/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor AMD Ryzen 5 7500F, 3.7 GHz, 32 MB, OEM (100-000000597)",
-    "image": "https://images.morele.net/i256/13113437_2_i256.jpg"
-   },
    {
     "shop": "canadacomputers.com",
     "price": 269.0,
@@ -2722,16 +2732,6 @@
     "image": "https://media.materiel.net/r250/products/MN0006137968.jpg"
    },
    {
-    "shop": "amazon.co.uk",
-    "price": 142.59,
-    "currency": "GBP",
-    "url": "https://www.amazon.co.uk/dp/B0D1CK42PV?tag=fraym0a-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T17:24:23Z",
-    "product": "AMD Ryzen 5 7500F - 3.7 GHz - 6 Cores - 12 Threads - 32 MB Cache Memory - Socket AM5 - OEM",
-    "image": null
-   },
-   {
     "shop": "amazon.com",
     "price": 155.39,
     "currency": "USD",
@@ -2740,36 +2740,26 @@
     "lastSeen": "2026-11-24T17:39:24Z",
     "product": "AMD Ryzen 5 7500F - 3.7GHz - 6 Cores - 12 Threads - 32MB Cache Memory - Socket AM5 - OEM : Electronics",
     "image": null
+   },
+   {
+    "shop": "morele.net",
+    "price": 549.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-amd-ryzen-5-7500f-3-7-ghz-32-mb-oem-100-000000597-13113437/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor AMD Ryzen 5 7500F, 3.7 GHz, 32 MB, OEM (100-000000597)",
+    "image": "https://images.morele.net/i256/13113437_2_i256.jpg"
    }
   ],
   "image": "images/cpus-amd-ryzen-5-7500f.jpg",
-  "lastUpdated": "2026-11-24T17:39:24Z"
+  "lastUpdated": "2026-11-25T01:55:38Z"
  },
  {
   "id": "amd-ryzen-7-5700x",
   "name": "Ryzen 7 5700X",
   "priceMin": 153.26,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 659.0,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-amd-ryzen-7-5700x-3-4-ghz-32-mb-oem-100-000000926-10120246/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor AMD Ryzen 7 5700X, 3.4 GHz, 32 MB, OEM (100-000000926)",
-    "image": "https://images.morele.net/i256/10120246_0_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 880.99,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-amd-ryzen-7-5700x-3-4-ghz-32-mb-box-100-100000926wof-10120245/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor AMD Ryzen 7 5700X, 3.4 GHz, 32 MB, BOX (100-100000926WOF)",
-    "image": "https://images.morele.net/i256/10120245_0_i256.jpg"
-   },
    {
     "shop": "canadacomputers.com",
     "price": 249.99,
@@ -2849,46 +2839,36 @@
     "lastSeen": "2026-11-24T17:31:02Z",
     "product": "AMD Ryzen 7 5700X Processeur (8 Coeurs/16 Threads,65W TDP, Socket AM4, Cache 36Mo, jusqu'à 4.6 GHz Fréquence Boost, pas de Ventilateur)",
     "image": null
+   },
+   {
+    "shop": "morele.net",
+    "price": 659.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-amd-ryzen-7-5700x-3-4-ghz-32-mb-oem-100-000000926-10120246/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor AMD Ryzen 7 5700X, 3.4 GHz, 32 MB, OEM (100-000000926)",
+    "image": "https://images.morele.net/i256/10120246_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 880.99,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-amd-ryzen-7-5700x-3-4-ghz-32-mb-box-100-100000926wof-10120245/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor AMD Ryzen 7 5700X, 3.4 GHz, 32 MB, BOX (100-100000926WOF)",
+    "image": "https://images.morele.net/i256/10120245_0_i256.jpg"
    }
   ],
   "image": "images/cpus-amd-ryzen-7-5700x.jpg",
-  "lastUpdated": "2026-11-24T17:31:02Z"
+  "lastUpdated": "2026-11-25T01:55:38Z"
  },
  {
   "id": "amd-ryzen-7-5700g",
   "name": "Ryzen 7 5700G",
   "priceMin": 213.7,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 918.9,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-amd-ryzen-7-5700g-3-8-ghz-16-mb-oem-100-000000263-8536078/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor AMD Ryzen 7 5700G, 3.8 GHz, 16 MB, OEM (100-000000263)",
-    "image": "https://images.morele.net/i256/8536078_2_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 986.9,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-amd-ryzen-7-5700g-3-8-ghz-16-mb-box-100-100000263box-8536076/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor AMD Ryzen 7 5700G, 3.8 GHz, 16 MB, BOX (100-100000263BOX)",
-    "image": "https://images.morele.net/i256/8536076_0_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 1023.11,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-amd-ryzen-7-5700g-3-8-ghz-16-mb-mpk-100-100000263mpk-8536077/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor AMD Ryzen 7 5700G, 3.8 GHz, 16 MB, MPK (100-100000263MPK)",
-    "image": "https://images.morele.net/i256/8536077_0_i256.jpg"
-   },
    {
     "shop": "ldlc.com",
     "price": 249.95,
@@ -2928,10 +2908,40 @@
     "lastSeen": "2026-11-24T16:56:35Z",
     "product": "AMD Ryzen 7 5700G - Version tray",
     "image": "https://media.materiel.net/r250/products/MN0006310071.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 918.9,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-amd-ryzen-7-5700g-3-8-ghz-16-mb-oem-100-000000263-8536078/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor AMD Ryzen 7 5700G, 3.8 GHz, 16 MB, OEM (100-000000263)",
+    "image": "https://images.morele.net/i256/8536078_2_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 993.21,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-amd-ryzen-7-5700g-3-8-ghz-16-mb-box-100-100000263box-8536076/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor AMD Ryzen 7 5700G, 3.8 GHz, 16 MB, BOX (100-100000263BOX)",
+    "image": "https://images.morele.net/i256/8536076_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1023.11,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-amd-ryzen-7-5700g-3-8-ghz-16-mb-mpk-100-100000263mpk-8536077/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor AMD Ryzen 7 5700G, 3.8 GHz, 16 MB, MPK (100-100000263MPK)",
+    "image": "https://images.morele.net/i256/8536077_0_i256.jpg"
    }
   ],
   "image": "images/cpus-amd-ryzen-7-5700g.jpg",
-  "lastUpdated": "2026-11-24T17:33:40Z"
+  "lastUpdated": "2026-11-25T01:55:38Z"
  },
  {
   "id": "amd-ryzen-5-3600x",
@@ -2978,36 +2988,6 @@
   "priceMin": 89.47,
   "prices": [
    {
-    "shop": "morele.net",
-    "price": 532.0,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-amd-ryzen-5-2600-3-4-ghz-16-mb-oem-yd2600bbm6iaf-5943107/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor AMD Ryzen 5 2600, 3.4 GHz, 16 MB, OEM (YD2600BBM6IAF)",
-    "image": "https://images.morele.net/i256/5943107_2_i256.jpg"
-   },
-   {
-    "shop": "amazon.de",
-    "price": 89.97,
-    "currency": "EUR",
-    "url": "https://www.amazon.de/dp/B08G1MTSKR?tag=fraym03-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T17:26:46Z",
-    "product": "AMD Ryzen 5 2600 3,9 GHz 6Core AM4",
-    "image": null
-   },
-   {
-    "shop": "amazon.es",
-    "price": 89.97,
-    "currency": "EUR",
-    "url": "https://www.amazon.es/dp/B08G1MTSKR?tag=fraym08-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T17:28:51Z",
-    "product": "AMD Ryzen 5 2600 3.9GHz 6Core AM4",
-    "image": null
-   },
-   {
     "shop": "amazon.it",
     "price": 89.47,
     "currency": "EUR",
@@ -3016,36 +2996,46 @@
     "lastSeen": "2026-11-24T17:34:15Z",
     "product": "AMD Ryzen 5 2600 3.9GHz 6Core AM4",
     "image": null
+   },
+   {
+    "shop": "morele.net",
+    "price": 532.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-amd-ryzen-5-2600-3-4-ghz-16-mb-oem-yd2600bbm6iaf-5943107/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor AMD Ryzen 5 2600, 3.4 GHz, 16 MB, OEM (YD2600BBM6IAF)",
+    "image": "https://images.morele.net/i256/5943107_2_i256.jpg"
+   },
+   {
+    "shop": "amazon.es",
+    "price": 89.97,
+    "currency": "EUR",
+    "url": "https://www.amazon.es/dp/B08G1MTSKR?tag=fraym08-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T02:28:53Z",
+    "product": "AMD Ryzen 5 2600 3.9GHz 6Core AM4",
+    "image": null
+   },
+   {
+    "shop": "amazon.de",
+    "price": 89.97,
+    "currency": "EUR",
+    "url": "https://www.amazon.de/dp/B08G1MTSKR?tag=fraym03-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T02:29:15Z",
+    "product": "AMD Ryzen 5 2600 3,9 GHz 6Core AM4",
+    "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-24T17:34:15Z"
+  "lastUpdated": "2026-11-25T02:29:15Z"
  },
  {
   "id": "amd-ryzen-7-1700",
   "name": "Ryzen 7 1700",
   "priceMin": 37.03,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 197.3,
-    "currency": "PLN",
-    "url": "https://www.morele.net/frytkownica-beztluszczowa-gorenje-af1700db-9493338/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Frytkownica beztłuszczowa Gorenje AF1700DB",
-    "image": "https://images.morele.net/i256/9493338_0_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 371.99,
-    "currency": "PLN",
-    "url": "https://www.morele.net/chlodzenie-cpu-cooler-master-hyper-212-rgb-black-edition-lga1700-rr-212s-20pc-r2-10164247/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Chłodzenie CPU Cooler Master Hyper 212 RGB Black Edition LGA1700 (RR-212S-20PC-R2)",
-    "image": "https://images.morele.net/i256/10164247_7_i256.jpg"
-   },
    {
     "shop": "amazon.it",
     "price": 94.97,
@@ -3057,34 +3047,44 @@
     "image": null
    },
    {
+    "shop": "morele.net",
+    "price": 242.85,
+    "currency": "PLN",
+    "url": "https://www.morele.net/frytkownica-beztluszczowa-gorenje-af1700db-9493338/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Frytkownica beztłuszczowa Gorenje AF1700DB",
+    "image": "https://images.morele.net/i256/9493338_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 371.99,
+    "currency": "PLN",
+    "url": "https://www.morele.net/chlodzenie-cpu-cooler-master-hyper-212-rgb-black-edition-lga1700-rr-212s-20pc-r2-10164247/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Chłodzenie CPU Cooler Master Hyper 212 RGB Black Edition LGA1700 (RR-212S-20PC-R2)",
+    "image": "https://images.morele.net/i256/10164247_7_i256.jpg"
+   },
+   {
     "shop": "amazon.com",
     "price": 39.99,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B06WP5YCX6?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:39:44Z",
+    "lastSeen": "2026-11-25T02:37:35Z",
     "product": "AMD YD1700BBAEBOX Ryzen 7 1700 Processor with Wraith Spire LED Cooler : Electronics",
     "image": null
    }
   ],
   "image": "images/cpus-amd-ryzen-7-1700.jpg",
-  "lastUpdated": "2026-11-24T17:39:44Z"
+  "lastUpdated": "2026-11-25T02:37:35Z"
  },
  {
   "id": "amd-ryzen-5-1600",
   "name": "Ryzen 5 1600",
   "priceMin": 79.97,
   "prices": [
-   {
-    "shop": "alternate.fr",
-    "price": 37.29,
-    "currency": "EUR",
-    "url": "https://www.alternate.fr/Bosch-Professional/1600A016N9-Dépôt/html/product/1593543",
-    "inStock": false,
-    "lastSeen": "2026-11-24T16:56:35Z",
-    "product": "Bosch 1600A016N9, Dépôt",
-    "image": "https://www.alternate.fr/p/200x200/9/Bosch_1600A016N9__D_p_t@@9wzpgh0d.jpg"
-   },
    {
     "shop": "amazon.it",
     "price": 79.97,
@@ -3106,64 +3106,34 @@
     "image": null
    },
    {
+    "shop": "alternate.fr",
+    "price": 37.29,
+    "currency": "EUR",
+    "url": "https://www.alternate.fr/Bosch-Professional/1600A016N9-Dépôt/html/product/1593543",
+    "inStock": false,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Bosch 1600A016N9, Dépôt",
+    "image": "https://www.alternate.fr/p/200x200/9/Bosch_1600A016N9__D_p_t@@9wzpgh0d.jpg"
+   },
+   {
     "shop": "amazon.com",
     "price": 189.0,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B06XNRQHG4?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:39:24Z",
+    "lastSeen": "2026-11-25T02:37:15Z",
     "product": "AMD Ryzen 5 1600 Processor with Wraith Spire Cooler (YD1600BBAEBOX) : Electronics",
     "image": null
    }
   ],
   "image": "images/cpus-amd-ryzen-5-1600.jpg",
-  "lastUpdated": "2026-11-24T17:39:24Z"
+  "lastUpdated": "2026-11-25T02:37:15Z"
  },
  {
   "id": "intel-core-i9-14900ks",
   "name": "Core i9-14900KS",
   "priceMin": 489.91,
   "prices": [
-   {
-    "shop": "amazon.de",
-    "price": 546.13,
-    "currency": "EUR",
-    "url": "https://www.amazon.de/dp/B0CXHMTHWP?tag=fraym03-21",
-    "inStock": true,
-    "lastSeen": "2026-11-22T23:42:07Z",
-    "product": "CPU Intel Core i9-14900KS / LGA1700 / Box 24 Cores / 32 Threads / 36M Cache",
-    "image": null
-   },
-   {
-    "shop": "morele.net",
-    "price": 3375.29,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-intel-core-i9-14900ks-3-2-ghz-36-mb-box-bx8071514900ks-13183308/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor Intel Core i9-14900KS, 3.2 GHz, 36 MB, BOX (BX8071514900KS)",
-    "image": "https://images.morele.net/i256/13183308_4_i256.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 799.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00597646.html",
-    "inStock": true,
-    "lastSeen": "2026-11-23T17:11:56Z",
-    "product": "Intel Core i9-14900KS (3.2 GHz / 6.2 GHz)",
-    "image": "https://media.ldlc.com/r1600/ld/products/00/06/11/72/LD0006117206.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 799.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202402220041.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T03:48:22Z",
-    "product": "Intel Core i9-14900KS",
-    "image": "https://media.materiel.net/r900/products/MN0006118118.jpg"
-   },
    {
     "shop": "amazon.co.uk",
     "price": 421.32,
@@ -3203,46 +3173,56 @@
     "lastSeen": "2026-11-24T17:35:22Z",
     "product": "CPU Intel Core i9-14900KS / LGA1700 / Box 24 Cores / 32 Threads / 36M Cache",
     "image": null
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 799.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00597646.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Intel Core i9-14900KS (3.2 GHz / 6.2 GHz)",
+    "image": "https://media.ldlc.com/r1600/ld/products/00/06/11/72/LD0006117206.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 3783.27,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-intel-core-i9-14900ks-3-2-ghz-36-mb-box-bx8071514900ks-13183308/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor Intel Core i9-14900KS, 3.2 GHz, 36 MB, BOX (BX8071514900KS)",
+    "image": "https://images.morele.net/i256/13183308_4_i256.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 799.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202402220041.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Intel Core i9-14900KS",
+    "image": "https://media.materiel.net/r900/products/MN0006118118.jpg"
+   },
+   {
+    "shop": "amazon.de",
+    "price": 546.13,
+    "currency": "EUR",
+    "url": "https://www.amazon.de/dp/B0CXHMTHWP?tag=fraym03-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T02:21:41Z",
+    "product": "CPU Intel Core i9-14900KS / LGA1700 / Box 24 Cores / 32 Threads / 36M Cache",
+    "image": null
    }
   ],
   "image": "images/cpus-intel-core-i9-14900ks.jpg",
-  "lastUpdated": "2026-11-24T17:35:22Z"
+  "lastUpdated": "2026-11-25T02:21:41Z"
  },
  {
   "id": "intel-core-i9-14900kf",
   "name": "Core i9-14900KF",
   "priceMin": 343.4,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 1899.0,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-intel-core-i9-14900kf-3-2-ghz-36-mb-box-bx8071514900kf-13123068/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor Intel Core i9-14900KF, 3.2 GHz, 36 MB, BOX (BX8071514900KF)",
-    "image": "https://images.morele.net/i256/13123068_0_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 2025.55,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-intel-core-i9-14900kf-3-2-ghz-36-mb-oem-cm8071505094018-13133239/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor Intel Core i9-14900KF, 3.2 GHz, 36 MB, OEM (CM8071505094018)",
-    "image": "https://images.morele.net/i256/13133239_1_i256.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 589.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202309200085.html",
-    "inStock": true,
-    "lastSeen": "2026-11-24T03:48:22Z",
-    "product": "Intel Core i9-14900KF",
-    "image": "https://media.materiel.net/r900/products/MN0006075048.jpg"
-   },
    {
     "shop": "ldlc.com",
     "price": 589.95,
@@ -3262,46 +3242,46 @@
     "lastSeen": "2026-11-24T17:28:46Z",
     "product": "Intel 24 Core i9 14900KF Raptor Lake Refresh CPU/Processor",
     "image": null
+   },
+   {
+    "shop": "morele.net",
+    "price": 1899.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-intel-core-i9-14900kf-3-2-ghz-36-mb-box-bx8071514900kf-13123068/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor Intel Core i9-14900KF, 3.2 GHz, 36 MB, BOX (BX8071514900KF)",
+    "image": "https://images.morele.net/i256/13123068_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 2025.45,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-intel-core-i9-14900kf-3-2-ghz-36-mb-oem-cm8071505094018-13133239/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor Intel Core i9-14900KF, 3.2 GHz, 36 MB, OEM (CM8071505094018)",
+    "image": "https://images.morele.net/i256/13133239_1_i256.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 589.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202309200085.html",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Intel Core i9-14900KF",
+    "image": "https://media.materiel.net/r900/products/MN0006075048.jpg"
    }
   ],
   "image": "images/cpus-intel-core-i9-14900kf.jpg",
-  "lastUpdated": "2026-11-24T17:28:46Z"
+  "lastUpdated": "2026-11-25T01:55:38Z"
  },
  {
   "id": "intel-core-i7-14700kf",
   "name": "Core i7-14700KF",
-  "priceMin": 355.5,
+  "priceMin": 359.18,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 1561.16,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-intel-core-i7-14700kf-3-4-ghz-33-mb-box-bx8071514700kf-13123070/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor Intel Core i7-14700KF, 3.4 GHz, 33 MB, BOX (BX8071514700KF)",
-    "image": "https://images.morele.net/i256/13123070_0_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 1680.99,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-intel-core-i7-14700kf-3-4-ghz-33-mb-oem-cm8071504820722-13133237/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor Intel Core i7-14700KF, 3.4 GHz, 33 MB, OEM (CM8071504820722)",
-    "image": "https://images.morele.net/i256/13133237_1_i256.jpg"
-   },
-   {
-    "shop": "amazon.fr",
-    "price": 355.5,
-    "currency": "EUR",
-    "url": "https://www.amazon.fr/dp/B0CGJC178L?tag=fraym-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T04:15:31Z",
-    "product": "Intel Processeur Informatique Core™ i7-14700KF, bleu",
-    "image": null
-   },
    {
     "shop": "ldlc.com",
     "price": 398.95,
@@ -3361,36 +3341,36 @@
     "lastSeen": "2026-11-24T16:56:35Z",
     "product": "Intel Core i7-14700KF",
     "image": "https://media.materiel.net/r250/products/MN0006075045.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1544.48,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-intel-core-i7-14700kf-3-4-ghz-33-mb-box-bx8071514700kf-13123070/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor Intel Core i7-14700KF, 3.4 GHz, 33 MB, BOX (BX8071514700KF)",
+    "image": "https://images.morele.net/i256/13123070_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1656.99,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-intel-core-i7-14700kf-3-4-ghz-33-mb-oem-cm8071504820722-13133237/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor Intel Core i7-14700KF, 3.4 GHz, 33 MB, OEM (CM8071504820722)",
+    "image": "https://images.morele.net/i256/13133237_1_i256.jpg"
    }
   ],
   "image": "images/cpus-intel-core-i7-14700kf.jpg",
-  "lastUpdated": "2026-11-24T16:56:35Z"
+  "lastUpdated": "2026-11-25T01:55:38Z"
  },
  {
   "id": "intel-core-i5-14600kf",
   "name": "Core i5-14600KF",
-  "priceMin": 223.75,
+  "priceMin": 239.95,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 962.12,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-intel-core-i5-14600kf-3-5-ghz-24-mb-oem-cm8071504821014-13133235/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor Intel Core i5-14600KF, 3.5 GHz, 24 MB, OEM (CM8071504821014)",
-    "image": "https://images.morele.net/i256/13133235_0_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 1188.61,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-intel-core-i5-14600kf-3-5-ghz-24-mb-box-bx8071514600kf-13123072/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor Intel Core i5-14600KF, 3.5 GHz, 24 MB, BOX (BX8071514600KF)",
-    "image": "https://images.morele.net/i256/13123072_0_i256.jpg"
-   },
    {
     "shop": "ldlc.com",
     "price": 239.95,
@@ -3430,46 +3410,36 @@
     "lastSeen": "2026-11-24T16:56:35Z",
     "product": "Intel Core i5-14600KF",
     "image": "https://media.materiel.net/r250/products/MN0006075018.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1076.99,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-intel-core-i5-14600kf-3-5-ghz-24-mb-oem-cm8071504821014-13133235/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor Intel Core i5-14600KF, 3.5 GHz, 24 MB, OEM (CM8071504821014)",
+    "image": "https://images.morele.net/i256/13133235_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1180.37,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-intel-core-i5-14600kf-3-5-ghz-24-mb-box-bx8071514600kf-13123072/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor Intel Core i5-14600KF, 3.5 GHz, 24 MB, BOX (BX8071514600KF)",
+    "image": "https://images.morele.net/i256/13123072_0_i256.jpg"
    }
   ],
   "image": "images/cpus-intel-core-i5-14600kf.jpg",
-  "lastUpdated": "2026-11-24T16:56:35Z"
+  "lastUpdated": "2026-11-25T01:55:38Z"
  },
  {
   "id": "intel-core-i5-14500",
   "name": "Core i5-14500",
-  "priceMin": 267.21,
+  "priceMin": 266.98,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 1149.0,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-intel-core-i5-14500-2-6-ghz-24-mb-box-bx8071514500-13155880/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor Intel Core i5-14500, 2.6 GHz, 24 MB, BOX (BX8071514500)",
-    "image": "https://images.morele.net/i256/13155880_0_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 1198.74,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-intel-core-i5-14500-2-6-ghz-24-mb-oem-cm8071505093104-13172934/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor Intel Core i5-14500, 2.6 GHz, 24 MB, OEM (CM8071505093104)",
-    "image": "https://images.morele.net/i256/13172934_0_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 1350.36,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-intel-core-i5-14500t-1-7-ghz-24-mb-oem-cm8071505092904-13172930/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor Intel Core i5-14500T, 1.7 GHz, 24 MB, OEM (CM8071505092904)",
-    "image": "https://images.morele.net/i256/13172930_0_i256.jpg"
-   },
    {
     "shop": "ldlc.com",
     "price": 299.95,
@@ -3489,10 +3459,40 @@
     "lastSeen": "2026-11-24T16:56:35Z",
     "product": "Intel Core i5-14500",
     "image": "https://media.materiel.net/r250/products/MN0006096933.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1148.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-intel-core-i5-14500-2-6-ghz-24-mb-box-bx8071514500-13155880/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor Intel Core i5-14500, 2.6 GHz, 24 MB, BOX (BX8071514500)",
+    "image": "https://images.morele.net/i256/13155880_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1225.49,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-intel-core-i5-14500-2-6-ghz-24-mb-oem-cm8071505093104-13172934/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor Intel Core i5-14500, 2.6 GHz, 24 MB, OEM (CM8071505093104)",
+    "image": "https://images.morele.net/i256/13172934_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1352.59,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-intel-core-i5-14500t-1-7-ghz-24-mb-oem-cm8071505092904-13172930/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor Intel Core i5-14500T, 1.7 GHz, 24 MB, OEM (CM8071505092904)",
+    "image": "https://images.morele.net/i256/13172930_0_i256.jpg"
    }
   ],
   "image": "images/cpus-intel-core-i5-14500.jpg",
-  "lastUpdated": "2026-11-24T16:56:35Z"
+  "lastUpdated": "2026-11-25T01:55:38Z"
  },
  {
   "id": "intel-core-i9-13900kf",
@@ -3505,68 +3505,48 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0BG66JH7Q?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:25:30Z",
+    "lastSeen": "2026-11-25T02:26:24Z",
     "product": "Intel Core i9-13900KF Processor 36 MB Smart Cache Box : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-24T17:29:17Z"
+  "lastUpdated": "2026-11-25T02:26:24Z"
  },
  {
   "id": "intel-core-i7-13700f",
   "name": "Core i7-13700F",
-  "priceMin": 259.42,
+  "priceMin": 256.91,
   "prices": [
    {
     "shop": "morele.net",
-    "price": 1115.52,
+    "price": 1104.71,
     "currency": "PLN",
     "url": "https://www.morele.net/procesor-intel-core-i7-13700f-1-5-ghz-30-mb-oem-cm8071504820806-13112521/",
     "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
+    "lastSeen": "2026-11-25T01:55:38Z",
     "product": "Procesor Intel Core i7-13700F, 1.5 GHz, 30 MB, OEM (CM8071504820806)",
     "image": "https://images.morele.net/i256/13112521_0_i256.jpg"
    },
    {
     "shop": "morele.net",
-    "price": 1435.21,
+    "price": 1557.54,
     "currency": "PLN",
     "url": "https://www.morele.net/procesor-intel-core-i7-13700f-1-5-ghz-30-mb-box-bx8071513700f-12462060/",
     "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
+    "lastSeen": "2026-11-25T01:55:38Z",
     "product": "Procesor Intel Core i7-13700F, 1.5 GHz, 30 MB, BOX (BX8071513700F)",
     "image": "https://images.morele.net/i256/12462060_0_i256.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-23T05:19:51Z"
+  "lastUpdated": "2026-11-25T01:55:38Z"
  },
  {
   "id": "intel-core-i5-13500",
   "name": "Core i5-13500",
-  "priceMin": 280.54,
+  "priceMin": 272.24,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 1206.33,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-intel-core-i5-13500-2-5-ghz-24-mb-oem-cm8071505093101-13127353/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor Intel Core i5-13500, 2.5 GHz, 24 MB, OEM (CM8071505093101)",
-    "image": "https://images.morele.net/i256/13127353_0_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 1315.96,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-intel-core-i5-13500e-2-4-ghz-24-mb-oem-cm8071505109403-13838144/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor Intel Core i5-13500E, 2.4 GHz, 24 MB, OEM (CM8071505109403)",
-    "image": "https://images.morele.net/i256/13838144_1_i256.jpg"
-   },
    {
     "shop": "amazon.co.uk",
     "price": 349.97,
@@ -3578,54 +3558,44 @@
     "image": null
    },
    {
+    "shop": "morele.net",
+    "price": 1170.62,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-intel-core-i5-13500-2-5-ghz-24-mb-oem-cm8071505093101-13127353/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor Intel Core i5-13500, 2.5 GHz, 24 MB, OEM (CM8071505093101)",
+    "image": "https://images.morele.net/i256/13127353_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1333.96,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-intel-core-i5-13500e-2-4-ghz-24-mb-oem-cm8071505109403-13838144/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor Intel Core i5-13500E, 2.4 GHz, 24 MB, OEM (CM8071505109403)",
+    "image": "https://images.morele.net/i256/13838144_1_i256.jpg"
+   },
+   {
     "shop": "amazon.it",
     "price": 449.97,
     "currency": "EUR",
     "url": "https://www.amazon.it/dp/B0BQ6CFDCX?tag=fraym06-21",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:28:33Z",
+    "lastSeen": "2026-11-25T02:28:39Z",
     "product": "Core I5-13500 2.50 GHZ Chip",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-24T17:28:33Z"
+  "lastUpdated": "2026-11-25T02:28:39Z"
  },
  {
   "id": "intel-core-i5-12400",
   "name": "Core i5-12400",
-  "priceMin": 167.14,
+  "priceMin": 169.31,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 718.69,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-intel-core-i5-12400-2-5-ghz-18-mb-oem-cm8071504650608-9893331/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor Intel Core i5-12400, 2.5 GHz, 18 MB, OEM (CM8071504650608)",
-    "image": "https://images.morele.net/i256/9893331_0_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 733.04,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-intel-core-i5-12400-2-5-ghz-18-mb-box-bx8071512400-9643269/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor Intel Core i5-12400, 2.5 GHz, 18 MB, BOX (BX8071512400)",
-    "image": "https://images.morele.net/i256/9643269_1_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 1188.27,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-intel-core-i5-12400t-1-8-ghz-18-mb-oem-cm8071504650506-9800000/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor Intel Core i5-12400T, 1.8 GHz, 18 MB, OEM (CM8071504650506)",
-    "image": "https://images.morele.net/i256/9800000_0_i256.jpg"
-   },
    {
     "shop": "ldlc.com",
     "price": 189.95,
@@ -3665,46 +3635,46 @@
     "lastSeen": "2026-11-24T16:56:35Z",
     "product": "Intel Core i5 12400",
     "image": "https://media.materiel.net/r250/products/MN0005918132_1.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 728.04,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-intel-core-i5-12400-2-5-ghz-18-mb-oem-cm8071504650608-9893331/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor Intel Core i5-12400, 2.5 GHz, 18 MB, OEM (CM8071504650608)",
+    "image": "https://images.morele.net/i256/9893331_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 736.15,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-intel-core-i5-12400-2-5-ghz-18-mb-box-bx8071512400-9643269/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor Intel Core i5-12400, 2.5 GHz, 18 MB, BOX (BX8071512400)",
+    "image": "https://images.morele.net/i256/9643269_1_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1210.95,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-intel-core-i5-12400t-1-8-ghz-18-mb-oem-cm8071504650506-9800000/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor Intel Core i5-12400T, 1.8 GHz, 18 MB, OEM (CM8071504650506)",
+    "image": "https://images.morele.net/i256/9800000_0_i256.jpg"
    }
   ],
   "image": "images/cpus-intel-core-i5-12400.jpg",
-  "lastUpdated": "2026-11-24T16:56:35Z"
+  "lastUpdated": "2026-11-25T01:55:38Z"
  },
  {
   "id": "intel-core-i3-12100f",
   "name": "Core i3-12100F",
-  "priceMin": 101.34,
+  "priceMin": 101.26,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 435.76,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-intel-core-i3-12100f-3-3-ghz-12-mb-box-bx8071512100f-9643936/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor Intel Core i3-12100F, 3.3 GHz, 12 MB, BOX (BX8071512100F)",
-    "image": "https://images.morele.net/i256/9643936_1_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 499.88,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-intel-core-i3-12100f-3-3-ghz-12-mb-oem-cm8071504651013-9658409/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor Intel Core i3-12100F, 3.3 GHz, 12 MB, OEM (CM8071504651013)",
-    "image": "https://images.morele.net/i256/9658409_0_i256.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 89.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202112030059.html",
-    "inStock": false,
-    "lastSeen": "2026-11-24T03:48:22Z",
-    "product": "Intel Core i3 12100F",
-    "image": "https://media.materiel.net/r900/products/MN0005918118_1.jpg"
-   },
    {
     "shop": "ldlc.com",
     "price": 89.95,
@@ -3714,26 +3684,46 @@
     "lastSeen": "2026-11-24T16:56:35Z",
     "product": "Intel Core i3-12100F (3.3 GHz / 4.3 GHz)",
     "image": "https://media.ldlc.com/r150/ld/products/00/05/91/49/LD0005914916_1.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 435.42,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-intel-core-i3-12100f-3-3-ghz-12-mb-box-bx8071512100f-9643936/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor Intel Core i3-12100F, 3.3 GHz, 12 MB, BOX (BX8071512100F)",
+    "image": "https://images.morele.net/i256/9643936_1_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 498.11,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-intel-core-i3-12100f-3-3-ghz-12-mb-oem-cm8071504651013-9658409/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor Intel Core i3-12100F, 3.3 GHz, 12 MB, OEM (CM8071504651013)",
+    "image": "https://images.morele.net/i256/9658409_0_i256.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 89.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202112030059.html",
+    "inStock": false,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Intel Core i3 12100F",
+    "image": "https://media.materiel.net/r900/products/MN0005918118_1.jpg"
    }
   ],
   "image": "images/cpus-intel-core-i3-12100f.jpg",
-  "lastUpdated": "2026-11-24T16:56:35Z"
+  "lastUpdated": "2026-11-25T01:55:38Z"
  },
  {
   "id": "intel-core-ultra-7-265kf",
   "name": "Core Ultra 7 265KF",
-  "priceMin": 329.43,
+  "priceMin": 315.79,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 1416.55,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-intel-core-ultra-7-265kf-3-3-ghz-30-mb-box-bx80768265kf-14201779/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor Intel Core Ultra 7 265KF, 3.3 GHz, 30 MB, BOX (BX80768265KF)",
-    "image": "https://images.morele.net/i256/14201779_0_i256.jpg"
-   },
    {
     "shop": "ldlc.com",
     "price": 349.95,
@@ -3773,36 +3763,26 @@
     "lastSeen": "2026-11-24T16:56:35Z",
     "product": "Intel Core Ultra 7 265KF",
     "image": "https://media.materiel.net/r250/products/MN0006176540.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 1357.9,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-intel-core-ultra-7-265kf-3-3-ghz-30-mb-box-bx80768265kf-14201779/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor Intel Core Ultra 7 265KF, 3.3 GHz, 30 MB, BOX (BX80768265KF)",
+    "image": "https://images.morele.net/i256/14201779_0_i256.jpg"
    }
   ],
   "image": "images/cpus-intel-core-ultra-7-265kf.jpg",
-  "lastUpdated": "2026-11-24T17:36:36Z"
+  "lastUpdated": "2026-11-25T02:34:38Z"
  },
  {
   "id": "intel-core-ultra-5-245kf",
   "name": "Core Ultra 5 245KF",
-  "priceMin": 187.86,
+  "priceMin": 192.44,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 807.78,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-intel-core-ultra-5-245kf-3-6-ghz-24-mb-oem-at8076806414-14415023/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor Intel Core Ultra 5 245KF, 3.6 GHz, 24 MB, OEM (AT8076806414)",
-    "image": "https://images.morele.net/i256/14415023_1_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 827.49,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-intel-core-ultra-5-245kf-3-6-ghz-24-mb-box-bx80768245kf-14201770/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor Intel Core Ultra 5 245KF, 3.6 GHz, 24 MB, BOX (BX80768245KF)",
-    "image": "https://images.morele.net/i256/14201770_3_i256.jpg"
-   },
    {
     "shop": "ldlc.com",
     "price": 259.95,
@@ -3842,10 +3822,30 @@
     "lastSeen": "2026-11-24T16:56:35Z",
     "product": "Intel Core Ultra 5 245KF - Version tray",
     "image": "https://media.materiel.net/r250/products/MN0006181746.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 827.49,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-intel-core-ultra-5-245kf-3-6-ghz-24-mb-box-bx80768245kf-14201770/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor Intel Core Ultra 5 245KF, 3.6 GHz, 24 MB, BOX (BX80768245KF)",
+    "image": "https://images.morele.net/i256/14201770_3_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 934.99,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-intel-core-ultra-5-245kf-3-6-ghz-24-mb-oem-at8076806414-14415023/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor Intel Core Ultra 5 245KF, 3.6 GHz, 24 MB, OEM (AT8076806414)",
+    "image": "https://images.morele.net/i256/14415023_1_i256.jpg"
    }
   ],
   "image": "images/cpus-intel-core-ultra-5-245kf.jpg",
-  "lastUpdated": "2026-11-24T16:56:35Z"
+  "lastUpdated": "2026-11-25T01:55:38Z"
  },
  {
   "id": "xeonw93495x",
@@ -3862,11 +3862,11 @@
   "prices": [
    {
     "shop": "morele.net",
-    "price": 14558.99,
+    "price": 14667.99,
     "currency": "PLN",
     "url": "https://www.morele.net/procesor-serwerowy-intel-intel-xeon-w7-2495x-procesor-2-5-ghz-45-mb-smart-cache-13113532/",
     "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
+    "lastSeen": "2026-11-25T01:55:38Z",
     "product": "Procesor serwerowy Intel Intel Xeon w7-2495X procesor 2,5 GHz 45 MB Smart Cache",
     "image": "https://images.morele.net/i256/13113532_0_i256.jpg"
    },
@@ -3876,13 +3876,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0CRG5CQ7R?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:33:34Z",
+    "lastSeen": "2026-11-25T02:31:50Z",
     "product": "Intel Xeon w7-2495X 24C/48T 2.50-4.80GHz Tray - PK8071305126600 : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-24T17:33:34Z"
+  "lastUpdated": "2026-11-25T02:31:50Z"
  },
  {
   "id": "xeonw52455x",
@@ -3915,69 +3915,19 @@
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B0C218RWYR?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:31:57Z",
+    "lastSeen": "2026-11-25T02:31:00Z",
     "product": "Intel Xeon w5-2455X 3200 4677 Caja",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-24T17:31:57Z"
+  "lastUpdated": "2026-11-25T02:31:00Z"
  },
  {
   "id": "tr7980x",
   "name": "Ryzen Threadripper 7980X",
   "priceMin": 2286.29,
   "prices": [
-   {
-    "shop": "amazon.de",
-    "price": 3023.53,
-    "currency": "EUR",
-    "url": "https://www.amazon.de/dp/B0CK2R6DVS?tag=fraym03-21",
-    "inStock": true,
-    "lastSeen": "2026-11-22T23:39:50Z",
-    "product": "AMD Ryzen Threadripper 7980X",
-    "image": null
-   },
-   {
-    "shop": "morele.net",
-    "price": 19816.87,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-amd-ryzen-threadripper-7980x-3-2-ghz-256-mb-oem-100-000001350-13145952/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor AMD Ryzen Threadripper 7980X, 3.2 GHz, 256 MB, OEM (100-000001350)",
-    "image": "https://images.morele.net/i256/13145952_0_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 21220.54,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-amd-ryzen-threadripper-7980x-3-2-ghz-256-mb-box-100-100001350wof-13145979/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor AMD Ryzen Threadripper 7980X, 3.2 GHz, 256 MB, BOX (100-100001350WOF)",
-    "image": "https://images.morele.net/i256/13145979_2_i256.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 5199.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00580758.html",
-    "inStock": false,
-    "lastSeen": "2026-11-23T17:11:56Z",
-    "product": "AMD Ryzen Threadripper 7980X (3.2 GHz / 5.1 GHz)",
-    "image": "https://media.ldlc.com/r1600/ld/products/00/06/08/12/LD0006081293_0006081346_0006081354.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 5199.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202310180054.html",
-    "inStock": false,
-    "lastSeen": "2026-11-24T03:48:22Z",
-    "product": "AMD Ryzen Threadripper 7980X",
-    "image": "https://media.materiel.net/r900/products/MN0006085180.jpg"
-   },
    {
     "shop": "canadacomputers.com",
     "price": 6699.0,
@@ -4019,74 +3969,84 @@
     "image": null
    },
    {
+    "shop": "ldlc.com",
+    "price": 5199.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00580758.html",
+    "inStock": false,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "AMD Ryzen Threadripper 7980X (3.2 GHz / 5.1 GHz)",
+    "image": "https://media.ldlc.com/r1600/ld/products/00/06/08/12/LD0006081293_0006081346_0006081354.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 20113.58,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-amd-ryzen-threadripper-7980x-3-2-ghz-256-mb-oem-100-000001350-13145952/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor AMD Ryzen Threadripper 7980X, 3.2 GHz, 256 MB, OEM (100-000001350)",
+    "image": "https://images.morele.net/i256/13145952_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 21365.84,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-amd-ryzen-threadripper-7980x-3-2-ghz-256-mb-box-100-100001350wof-13145979/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor AMD Ryzen Threadripper 7980X, 3.2 GHz, 256 MB, BOX (100-100001350WOF)",
+    "image": "https://images.morele.net/i256/13145979_2_i256.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 5199.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202310180054.html",
+    "inStock": false,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "AMD Ryzen Threadripper 7980X",
+    "image": "https://media.materiel.net/r900/products/MN0006085180.jpg"
+   },
+   {
+    "shop": "amazon.de",
+    "price": 2856.3,
+    "currency": "EUR",
+    "url": "https://www.amazon.de/dp/B0CK2R6DVS?tag=fraym03-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T02:21:33Z",
+    "product": "AMD Ryzen Threadripper 7980X",
+    "image": null
+   },
+   {
     "shop": "amazon.es",
     "price": 3172.69,
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B0CK2R6DVS?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:33:21Z",
+    "lastSeen": "2026-11-25T02:32:06Z",
     "product": "AMD Ryzen Threadripper 7980X Procesador (64 núcleos/128 threads, 350W TDP, Socket SP6, 320MB Caché, Reloj de aumento máx. hasta 5,1 Ghz, sin ventilador)",
     "image": null
    },
    {
     "shop": "amazon.com",
-    "price": 3123.05,
+    "price": 3866.99,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0CK2R6DVS?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:35:59Z",
+    "lastSeen": "2026-11-25T02:34:07Z",
     "product": "AMD Ryzen™ Threadripper™ 7980X 64-Core, 128-Thread Processor : Electronics",
     "image": null
    }
   ],
   "image": "images/cpus-tr7980x.jpg",
-  "lastUpdated": "2026-11-24T17:35:59Z"
+  "lastUpdated": "2026-11-25T02:34:07Z"
  },
  {
   "id": "tr7970x",
   "name": "Ryzen Threadripper 7970X",
   "priceMin": 970.55,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 9945.24,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-amd-ryzen-threadripper-7970x-4-0-ghz-128-mb-oem-100-000001351-13145950/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor AMD Ryzen Threadripper 7970X, 4.0 GHz, 128 MB, OEM (100-000001351)",
-    "image": "https://images.morele.net/i256/13145950_0_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 9999.19,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-amd-ryzen-threadripper-7970x-4-0-ghz-128-mb-box-100-100001351wof-13145978/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor AMD Ryzen Threadripper 7970X, 4.0 GHz, 128 MB, BOX (100-100001351WOF)",
-    "image": "https://images.morele.net/i256/13145978_2_i256.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 2499.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00580757.html",
-    "inStock": false,
-    "lastSeen": "2026-11-23T17:11:56Z",
-    "product": "AMD Ryzen Threadripper 7970X (4.0 GHz / 5.3 GHz)",
-    "image": "https://media.ldlc.com/r1600/ld/products/00/06/08/12/LD0006081293_0006081346.jpg"
-   },
-   {
-    "shop": "materiel.net",
-    "price": 2499.95,
-    "currency": "EUR",
-    "url": "https://www.materiel.net/produit/202310180053.html",
-    "inStock": false,
-    "lastSeen": "2026-11-24T03:48:22Z",
-    "product": "AMD Ryzen Threadripper 7970X",
-    "image": "https://media.materiel.net/r900/products/MN0006085176.jpg"
-   },
    {
     "shop": "canadacomputers.com",
     "price": 2999.0,
@@ -4096,16 +4056,6 @@
     "lastSeen": "2026-11-24T03:48:22Z",
     "product": "AMD Ryzen Threadripper 7970X 32-Core 64-Thread",
     "image": "https://ccimg.canadacomputers.com/Products/800x800/240/6438/254376/15420.jpg"
-   },
-   {
-    "shop": "amazon.fr",
-    "price": 2123.28,
-    "currency": "EUR",
-    "url": "https://www.amazon.fr/dp/B0CK2W3WFP?tag=fraym-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T04:17:15Z",
-    "product": "AMD Ryzen Threadripper 7970X Processeur (32 Coeurs/64 Threads, 350W DTP, Socket SP6, Cache 160Mo, jusqu'à 5,3 Ghz Fréquence Boost, Pas de Ventilateur)",
-    "image": null
    },
    {
     "shop": "amazon.it",
@@ -4118,54 +4068,84 @@
     "image": null
    },
    {
+    "shop": "ldlc.com",
+    "price": 2499.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00580757.html",
+    "inStock": false,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "AMD Ryzen Threadripper 7970X (4.0 GHz / 5.3 GHz)",
+    "image": "https://media.ldlc.com/r1600/ld/products/00/06/08/12/LD0006081293_0006081346.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 9884.74,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-amd-ryzen-threadripper-7970x-4-0-ghz-128-mb-oem-100-000001351-13145950/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor AMD Ryzen Threadripper 7970X, 4.0 GHz, 128 MB, OEM (100-000001351)",
+    "image": "https://images.morele.net/i256/13145950_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 9905.29,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-amd-ryzen-threadripper-7970x-4-0-ghz-128-mb-box-100-100001351wof-13145978/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor AMD Ryzen Threadripper 7970X, 4.0 GHz, 128 MB, BOX (100-100001351WOF)",
+    "image": "https://images.morele.net/i256/13145978_2_i256.jpg"
+   },
+   {
+    "shop": "materiel.net",
+    "price": 2499.95,
+    "currency": "EUR",
+    "url": "https://www.materiel.net/produit/202310180053.html",
+    "inStock": false,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "AMD Ryzen Threadripper 7970X",
+    "image": "https://media.materiel.net/r900/products/MN0006085176.jpg"
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 2122.82,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B0CK2W3WFP?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T02:23:21Z",
+    "product": "AMD Ryzen Threadripper 7970X Processeur (32 Coeurs/64 Threads, 350W DTP, Socket SP6, Cache 160Mo, jusqu'à 5,3 Ghz Fréquence Boost, Pas de Ventilateur)",
+    "image": null
+   },
+   {
     "shop": "amazon.co.uk",
     "price": 834.67,
     "currency": "GBP",
     "url": "https://www.amazon.co.uk/dp/B0CK2W3WFP?tag=fraym0a-21",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:23:21Z",
+    "lastSeen": "2026-11-25T02:24:49Z",
     "product": "AMD Ryzensets Threadripper 7970X (32 cores/64 threads, 350W TDP, SP6 Socket, 160MB cache, up to 5,3 Ghz max boost, no cooler)",
     "image": null
    },
    {
     "shop": "amazon.com",
-    "price": 1901.66,
+    "price": 1915.69,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0CK2W3WFP?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:35:02Z",
+    "lastSeen": "2026-11-25T02:33:19Z",
     "product": "AMD Ryzen™ Threadripper™ 7970X 32-Core, 64-Thread Processor : Electronics",
     "image": null
    }
   ],
   "image": "images/cpus-tr7970x.jpg",
-  "lastUpdated": "2026-11-24T17:35:02Z"
+  "lastUpdated": "2026-11-25T02:33:19Z"
  },
  {
   "id": "tr7960x",
   "name": "Ryzen Threadripper 7960X",
   "priceMin": 953.69,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 6322.05,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-amd-ryzen-threadripper-7960x-4-2-ghz-128-mb-box-100-100001352wof-13145848/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor AMD Ryzen Threadripper 7960X, 4.2 GHz, 128 MB, BOX (100-100001352WOF)",
-    "image": "https://images.morele.net/i256/13145848_3_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 6322.05,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-amd-ryzen-threadripper-7960x-4-2-ghz-128-mb-oem-100-000001352-13145947/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor AMD Ryzen Threadripper 7960X, 4.2 GHz, 128 MB, OEM (100-000001352)",
-    "image": "https://images.morele.net/i256/13145947_0_i256.jpg"
-   },
    {
     "shop": "canadacomputers.com",
     "price": 1599.0,
@@ -4175,16 +4155,6 @@
     "lastSeen": "2026-11-24T03:48:22Z",
     "product": "AMD Ryzen Threadripper 7960X 24-Core 48-Thread",
     "image": "https://ccimg.canadacomputers.com/Products/800x800/240/6438/253778/08656.jpg"
-   },
-   {
-    "shop": "amazon.fr",
-    "price": 1515.54,
-    "currency": "EUR",
-    "url": "https://www.amazon.fr/dp/B0CK2VGBSQ?tag=fraym-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T04:16:18Z",
-    "product": "AMD Ryzen Threadripper 7960X Processeur (24 Coeurs/48 Threads, 350W TDP, Socket SP6, Cache 152Mo, jusqu'à 5,3 Ghz Fréquence Boost, Pas de Ventilateur)",
-    "image": null
    },
    {
     "shop": "amazon.co.uk",
@@ -4197,44 +4167,54 @@
     "image": null
    },
    {
+    "shop": "morele.net",
+    "price": 6332.09,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-amd-ryzen-threadripper-7960x-4-2-ghz-128-mb-box-100-100001352wof-13145848/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor AMD Ryzen Threadripper 7960X, 4.2 GHz, 128 MB, BOX (100-100001352WOF)",
+    "image": "https://images.morele.net/i256/13145848_3_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 7229.99,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-amd-ryzen-threadripper-7960x-4-2-ghz-128-mb-oem-100-000001352-13145947/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor AMD Ryzen Threadripper 7960X, 4.2 GHz, 128 MB, OEM (100-000001352)",
+    "image": "https://images.morele.net/i256/13145947_0_i256.jpg"
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 1515.54,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B0CK2VGBSQ?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T02:22:36Z",
+    "product": "AMD Ryzen Threadripper 7960X Processeur (24 Coeurs/48 Threads, 350W TDP, Socket SP6, Cache 152Mo, jusqu'à 5,3 Ghz Fréquence Boost, Pas de Ventilateur)",
+    "image": null
+   },
+   {
     "shop": "amazon.com",
     "price": 1029.99,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0CK2VGBSQ?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:39:32Z",
+    "lastSeen": "2026-11-25T02:37:24Z",
     "product": "AMD Ryzen™ Threadripper™ 7960X 24-Core, 48-Thread Processor : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-24T17:39:32Z"
+  "lastUpdated": "2026-11-25T02:37:24Z"
  },
  {
   "id": "trpro7995wx",
   "name": "Ryzen Threadripper PRO 7995WX",
   "priceMin": 8842.86,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 47944.04,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-amd-ryzen-threadripper-pro-7995wx-2-5-ghz-384-mb-oem-100-000000884-13180348/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor AMD Ryzen Threadripper Pro 7995WX, 2.5 GHz, 384 MB, OEM (100-000000884)",
-    "image": "https://images.morele.net/i256/13180348_0_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 49708.4,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-amd-ryzen-threadripper-pro-7995wx-2-5-ghz-384-mb-box-100-100000884wof-13145948/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor AMD Ryzen Threadripper Pro 7995WX, 2.5 GHz, 384 MB, BOX (100-100000884WOF)",
-    "image": "https://images.morele.net/i256/13145948_1_i256.jpg"
-   },
    {
     "shop": "canadacomputers.com",
     "price": 12999.0,
@@ -4256,34 +4236,44 @@
     "image": null
    },
    {
+    "shop": "morele.net",
+    "price": 48282.87,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-amd-ryzen-threadripper-pro-7995wx-2-5-ghz-384-mb-oem-100-000000884-13180348/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor AMD Ryzen Threadripper Pro 7995WX, 2.5 GHz, 384 MB, OEM (100-000000884)",
+    "image": "https://images.morele.net/i256/13180348_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 50060.03,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-amd-ryzen-threadripper-pro-7995wx-2-5-ghz-384-mb-box-100-100000884wof-13145948/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor AMD Ryzen Threadripper Pro 7995WX, 2.5 GHz, 384 MB, BOX (100-100000884WOF)",
+    "image": "https://images.morele.net/i256/13145948_1_i256.jpg"
+   },
+   {
     "shop": "amazon.com",
     "price": 10678.99,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0CK2ZQJZ6?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-24T04:28:45Z",
+    "lastSeen": "2026-11-25T02:24:31Z",
     "product": "AMD Ryzen™ Threadripper™ PRO 7995WX 96-Core, 192-Thread Processor : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-24T04:28:45Z"
+  "lastUpdated": "2026-11-25T02:24:31Z"
  },
  {
   "id": "amd-ryzen-3-3100",
   "name": "Ryzen 3 3100",
   "priceMin": 87.17,
   "prices": [
-   {
-    "shop": "amazon.co.uk",
-    "price": 74.97,
-    "currency": "GBP",
-    "url": "https://www.amazon.co.uk/dp/B0876Y2TMZ?tag=fraym0a-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T17:23:53Z",
-    "product": "AMD Ryzen 3 3100 Processor (4C/8T, 18 MB Cache, 3.9 GHz Max Boost)",
-    "image": null
-   },
    {
     "shop": "amazon.it",
     "price": 89.97,
@@ -4295,16 +4285,6 @@
     "image": null
    },
    {
-    "shop": "amazon.es",
-    "price": 89.97,
-    "currency": "EUR",
-    "url": "https://www.amazon.es/dp/B0876Y2TMZ?tag=fraym08-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T17:27:24Z",
-    "product": "AMD Ryzen 3 3100 - Procesador (4C/8T, 18MB Cache, 3.9 GHz MAX Boost)",
-    "image": null
-   },
-   {
     "shop": "amazon.de",
     "price": 89.97,
     "currency": "EUR",
@@ -4313,26 +4293,36 @@
     "lastSeen": "2026-11-24T17:32:18Z",
     "product": "AMD Ryzen 3 3100, Basistaktrate: 3,68GHz, Max. Leistungstaktrate: bis zu 3.9GHz, AM4 100-100000284BOX",
     "image": null
+   },
+   {
+    "shop": "amazon.co.uk",
+    "price": 74.97,
+    "currency": "GBP",
+    "url": "https://www.amazon.co.uk/dp/B0876Y2TMZ?tag=fraym0a-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T02:25:17Z",
+    "product": "AMD Ryzen 3 3100 Processor (4C/8T, 18 MB Cache, 3.9 GHz Max Boost)",
+    "image": null
+   },
+   {
+    "shop": "amazon.es",
+    "price": 89.97,
+    "currency": "EUR",
+    "url": "https://www.amazon.es/dp/B0876Y2TMZ?tag=fraym08-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T02:27:50Z",
+    "product": "AMD Ryzen 3 3100 - Procesador (4C/8T, 18MB Cache, 3.9 GHz MAX Boost)",
+    "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-24T17:32:18Z"
+  "lastUpdated": "2026-11-25T02:27:50Z"
  },
  {
   "id": "amd-ryzen-3-3300x",
   "name": "Ryzen 3 3300X",
   "priceMin": 127.87,
   "prices": [
-   {
-    "shop": "amazon.co.uk",
-    "price": 109.97,
-    "currency": "GBP",
-    "url": "https://www.amazon.co.uk/dp/B0876YS2T4?tag=fraym0a-21",
-    "inStock": true,
-    "lastSeen": "2026-11-22T23:40:04Z",
-    "product": "AMD Ryzen 3 3300X Processor (4C/8T, 18 MB Cache, 4.3 GHz Max Boost)",
-    "image": null
-   },
    {
     "shop": "amazon.de",
     "price": 159.97,
@@ -4354,18 +4344,28 @@
     "image": null
    },
    {
+    "shop": "amazon.co.uk",
+    "price": 109.97,
+    "currency": "GBP",
+    "url": "https://www.amazon.co.uk/dp/B0876YS2T4?tag=fraym0a-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T02:22:14Z",
+    "product": "AMD Ryzen 3 3300X Processor (4C/8T, 18 MB Cache, 4.3 GHz Max Boost)",
+    "image": null
+   },
+   {
     "shop": "amazon.es",
     "price": 159.97,
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B0876YS2T4?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:32:57Z",
+    "lastSeen": "2026-11-25T02:31:46Z",
     "product": "AMD Ryzen 3 3300X - Procesador (4C/8T, 18 MB Cache, 4.3 GHz MAX Boost)",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-24T17:32:57Z"
+  "lastUpdated": "2026-11-25T02:31:46Z"
  },
  {
   "id": "amd-ryzen-5-5600g",
@@ -4373,23 +4373,13 @@
   "priceMin": null,
   "prices": [],
   "image": null,
-  "lastUpdated": "2026-11-23T17:57:12Z"
+  "lastUpdated": "2026-11-25T02:34:28Z"
  },
  {
   "id": "amd-ryzen-7-1800x",
   "name": "Ryzen 7 1800X",
   "priceMin": 104.97,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 848.39,
-    "currency": "PLN",
-    "url": "https://www.morele.net/router-totolink-nr1800x-12594616/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Router TotoLink NR1800X",
-    "image": "https://images.morele.net/i256/12594616_0_i256.jpg"
-   },
    {
     "shop": "amazon.it",
     "price": 164.47,
@@ -4409,26 +4399,26 @@
     "lastSeen": "2026-11-24T17:27:04Z",
     "product": "AMD RYZEN 7 1800X AM4 CPU ohne Kühler",
     "image": null
+   },
+   {
+    "shop": "morele.net",
+    "price": 848.39,
+    "currency": "PLN",
+    "url": "https://www.morele.net/router-totolink-nr1800x-12594616/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Router TotoLink NR1800X",
+    "image": "https://images.morele.net/i256/12594616_0_i256.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-24T17:27:04Z"
+  "lastUpdated": "2026-11-25T01:55:38Z"
  },
  {
   "id": "amd-ryzen-7-2700x",
   "name": "Ryzen 7 2700X",
   "priceMin": 74.06,
   "prices": [
-   {
-    "shop": "amazon.de",
-    "price": 134.97,
-    "currency": "EUR",
-    "url": "https://www.amazon.de/dp/B07B428M7F?tag=fraym03-21",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:45:34Z",
-    "product": "AMD Ryzen 7 2700X Prozessor YD270XBGAFBOX",
-    "image": null
-   },
    {
     "shop": "amazon.com",
     "price": 79.99,
@@ -4438,26 +4428,26 @@
     "lastSeen": "2026-11-24T17:39:26Z",
     "product": "AMD Ryzen 7 2700X Processor with Wraith Prism LED Cooler - YD270XBGAFBOX, RGB : Electronics",
     "image": null
+   },
+   {
+    "shop": "amazon.de",
+    "price": 134.97,
+    "currency": "EUR",
+    "url": "https://www.amazon.de/dp/B07B428M7F?tag=fraym03-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T02:23:19Z",
+    "product": "AMD Ryzen 7 2700X Prozessor YD270XBGAFBOX",
+    "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-24T17:39:26Z"
+  "lastUpdated": "2026-11-25T02:23:19Z"
  },
  {
   "id": "amd-ryzen-7-3700x",
   "name": "Ryzen 7 3700X",
   "priceMin": 164.97,
   "prices": [
-   {
-    "shop": "amazon.it",
-    "price": 179.97,
-    "currency": "EUR",
-    "url": "https://www.amazon.it/dp/B084F5Q2QD?tag=fraym06-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T04:23:45Z",
-    "product": "AMD Ryzen 7 3700X - Processore 3.6 GHz 8 core - 16 filettature - 32 MB Cache - Socket AM4 - Box 100-100000071MPK",
-    "image": null
-   },
    {
     "shop": "amazon.de",
     "price": 179.97,
@@ -4477,10 +4467,20 @@
     "lastSeen": "2026-11-24T17:34:06Z",
     "product": "AMD Ryzen 7 3700X – Procesador 3,6 GHz, 8 núcleos, 16 roscas, 32 MB Cache – Socket AM4 – Box 100-100000071MPK",
     "image": null
+   },
+   {
+    "shop": "amazon.it",
+    "price": 179.97,
+    "currency": "EUR",
+    "url": "https://www.amazon.it/dp/B084F5Q2QD?tag=fraym06-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T02:24:14Z",
+    "product": "AMD Ryzen 7 3700X - Processore 3.6 GHz 8 core - 16 filettature - 32 MB Cache - Socket AM4 - Box 100-100000071MPK",
+    "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-24T17:34:06Z"
+  "lastUpdated": "2026-11-25T02:24:14Z"
  },
  {
   "id": "amd-ryzen-7-3800x",
@@ -4488,44 +4488,34 @@
   "priceMin": 194.97,
   "prices": [
    {
-    "shop": "amazon.de",
-    "price": 194.97,
-    "currency": "EUR",
-    "url": "https://www.amazon.de/dp/B08669ZRP7?tag=fraym03-21",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:46:35Z",
-    "product": "AMD Ryzen 7 3800X – 3,9 GHz – 8 Kerne – 16 Gewinde – 32 MB Cache – Sockel AM4 – Box",
-    "image": null
-   },
-   {
     "shop": "amazon.es",
     "price": 204.97,
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B08669ZRP7?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-24T04:20:44Z",
+    "lastSeen": "2026-11-25T02:23:06Z",
     "product": "AMD Ryzen 7 3800X - 3.9 GHz - 8 c(16 roscas - 32 MB caché - Socket AM4)",
+    "image": null
+   },
+   {
+    "shop": "amazon.de",
+    "price": 194.97,
+    "currency": "EUR",
+    "url": "https://www.amazon.de/dp/B08669ZRP7?tag=fraym03-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T02:23:57Z",
+    "product": "AMD Ryzen 7 3800X – 3,9 GHz – 8 Kerne – 16 Gewinde – 32 MB Cache – Sockel AM4 – Box",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-24T04:20:44Z"
+  "lastUpdated": "2026-11-25T02:23:57Z"
  },
  {
   "id": "amd-ryzen-9-7900x3d",
   "name": "Ryzen 9 7900X3D",
   "priceMin": 412.95,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 3132.2,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-amd-ryzen-9-7900x3d-4-4-ghz-128-mb-oem-100-000000909-12816587/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor AMD Ryzen 9 7900X3D, 4.4 GHz, 128 MB, OEM (100-000000909)",
-    "image": "https://images.morele.net/i256/12816587_0_i256.jpg"
-   },
    {
     "shop": "amazon.fr",
     "price": 510.38,
@@ -4555,26 +4545,26 @@
     "lastSeen": "2026-11-24T17:35:34Z",
     "product": "Processore AMD Ryzen 9 7900X3D (scheda grafica integrata Radeon, 12 cores/ 24threads,120W TDP, Socket AM5, Cache 140MB, Boost di Frequenza fino a 5.6 GHz max, senza ventole)",
     "image": null
+   },
+   {
+    "shop": "morele.net",
+    "price": 3000.99,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-amd-ryzen-9-7900x3d-4-4-ghz-128-mb-oem-100-000000909-12816587/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor AMD Ryzen 9 7900X3D, 4.4 GHz, 128 MB, OEM (100-000000909)",
+    "image": "https://images.morele.net/i256/12816587_0_i256.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-24T17:35:34Z"
+  "lastUpdated": "2026-11-25T01:55:38Z"
  },
  {
   "id": "amd-ryzen-9-7950x",
   "name": "Ryzen 9 7950X",
   "priceMin": 710.93,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 3056.99,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-amd-ryzen-9-7950x-4-5-ghz-64-mb-oem-100-000000514-13127996/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor AMD Ryzen 9 7950X, 4.5 GHz, 64 MB, OEM (100-000000514)",
-    "image": "https://images.morele.net/i256/13127996_0_i256.jpg"
-   },
    {
     "shop": "canadacomputers.com",
     "price": 499.88,
@@ -4584,36 +4574,26 @@
     "lastSeen": "2026-11-24T03:48:22Z",
     "product": "AMD Ryzen 9 7950X 16-Core/32-Thread 5nm ZEN 4 CPU",
     "image": "https://ccimg.canadacomputers.com/Products/800x800/240/381/226990/37403.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 3056.99,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-amd-ryzen-9-7950x-4-5-ghz-64-mb-oem-100-000000514-13127996/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor AMD Ryzen 9 7950X, 4.5 GHz, 64 MB, OEM (100-000000514)",
+    "image": "https://images.morele.net/i256/13127996_0_i256.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-24T03:48:22Z"
+  "lastUpdated": "2026-11-25T01:55:38Z"
  },
  {
   "id": "i5_10400f",
   "name": "Core i5-10400F",
   "priceMin": 116.05,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 499.0,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-intel-core-i5-10400f-2-9-ghz-12-mb-oem-cm8070104290716-6747481/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor Intel Core i5-10400F, 2.9 GHz, 12 MB, OEM (CM8070104290716)",
-    "image": "https://images.morele.net/i256/6747481_0_i256.jpg"
-   },
-   {
-    "shop": "amazon.co.uk",
-    "price": 109.97,
-    "currency": "GBP",
-    "url": "https://www.amazon.co.uk/dp/B0BXGZHCK2?tag=fraym0a-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T17:23:55Z",
-    "product": "Intel S1200 CORE i5 10400F TRAY 6x2,9 65W GEN10",
-    "image": null
-   },
    {
     "shop": "amazon.de",
     "price": 139.97,
@@ -4625,12 +4605,32 @@
     "image": null
    },
    {
+    "shop": "morele.net",
+    "price": 499.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-intel-core-i5-10400f-2-9-ghz-12-mb-oem-cm8070104290716-6747481/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor Intel Core i5-10400F, 2.9 GHz, 12 MB, OEM (CM8070104290716)",
+    "image": "https://images.morele.net/i256/6747481_0_i256.jpg"
+   },
+   {
+    "shop": "amazon.co.uk",
+    "price": 109.97,
+    "currency": "GBP",
+    "url": "https://www.amazon.co.uk/dp/B0BXGZHCK2?tag=fraym0a-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T02:25:18Z",
+    "product": "Intel S1200 CORE i5 10400F TRAY 6x2,9 65W GEN10",
+    "image": null
+   },
+   {
     "shop": "amazon.es",
     "price": 149.97,
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B0BXGZHCK2?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:34:07Z",
+    "lastSeen": "2026-11-25T02:32:40Z",
     "product": "Intel Bandeja S1200 Core i5 10400F 6x2,9 65W GEN10",
     "image": null
    },
@@ -4640,59 +4640,19 @@
     "currency": "EUR",
     "url": "https://www.amazon.it/dp/B0BXGZHCK2?tag=fraym06-21",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:34:53Z",
+    "lastSeen": "2026-11-25T02:33:41Z",
     "product": "Intel S1200 Core i5 10400F VASSOIO 6x2,9 65W GEN10",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-24T17:34:53Z"
+  "lastUpdated": "2026-11-25T02:33:41Z"
  },
  {
   "id": "i5_13400f",
   "name": "Core i5-13400F",
   "priceMin": 155.42,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 730.04,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-intel-core-i5-13400f-2-5-ghz-20-mb-oem-cm8071504821107-13112500/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor Intel Core i5-13400F, 2.5 GHz, 20 MB, OEM (CM8071504821107)",
-    "image": "https://images.morele.net/i256/13112500_0_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 812.07,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-intel-core-i5-13400f-2-5-ghz-20-mb-oem-cm8071505093005-13112504/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor Intel Core i5-13400F, 2.5 GHz, 20 MB, OEM (CM8071505093005)",
-    "image": "https://images.morele.net/i256/13112504_0_i256.jpg"
-   },
-   {
-    "shop": "amazon.es",
-    "price": 182.86,
-    "currency": "EUR",
-    "url": "https://www.amazon.es/dp/B0BQ6BRL4T?tag=fraym08-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T04:20:54Z",
-    "product": "INTEL I5-13400F caché de 20 m, hasta 4,60 GHz",
-    "image": null
-   },
-   {
-    "shop": "amazon.co.uk",
-    "price": 241.0,
-    "currency": "GBP",
-    "url": "https://www.amazon.co.uk/dp/B0BQ6BRL4T?tag=fraym0a-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T17:24:59Z",
-    "product": "CORE I5-13400F 2.50GHZ",
-    "image": null
-   },
    {
     "shop": "amazon.fr",
     "price": 192.79,
@@ -4724,18 +4684,58 @@
     "image": null
    },
    {
+    "shop": "morele.net",
+    "price": 725.13,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-intel-core-i5-13400f-2-5-ghz-20-mb-oem-cm8071504821107-13112500/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor Intel Core i5-13400F, 2.5 GHz, 20 MB, OEM (CM8071504821107)",
+    "image": "https://images.morele.net/i256/13112500_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 813.42,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-intel-core-i5-13400f-2-5-ghz-20-mb-oem-cm8071505093005-13112504/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor Intel Core i5-13400F, 2.5 GHz, 20 MB, OEM (CM8071505093005)",
+    "image": "https://images.morele.net/i256/13112504_0_i256.jpg"
+   },
+   {
+    "shop": "amazon.es",
+    "price": 182.86,
+    "currency": "EUR",
+    "url": "https://www.amazon.es/dp/B0BQ6BRL4T?tag=fraym08-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T02:23:19Z",
+    "product": "INTEL I5-13400F caché de 20 m, hasta 4,60 GHz",
+    "image": null
+   },
+   {
+    "shop": "amazon.co.uk",
+    "price": 241.0,
+    "currency": "GBP",
+    "url": "https://www.amazon.co.uk/dp/B0BQ6BRL4T?tag=fraym0a-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T02:26:12Z",
+    "product": "CORE I5-13400F 2.50GHZ",
+    "image": null
+   },
+   {
     "shop": "amazon.com",
     "price": 183.55,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0BQ6BRL4T?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:33:51Z",
+    "lastSeen": "2026-11-25T02:32:04Z",
     "product": "Boxed INTEL I5-13400F 20M Cache, UP to 4.60GHZ : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-24T17:33:51Z"
+  "lastUpdated": "2026-11-25T02:32:04Z"
  },
  {
   "id": "i7_10700k",
@@ -4753,16 +4753,6 @@
     "image": null
    },
    {
-    "shop": "amazon.es",
-    "price": 399.97,
-    "currency": "EUR",
-    "url": "https://www.amazon.es/dp/B086ML4XSB?tag=fraym08-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T17:33:14Z",
-    "product": "Intel Core i7-10700K - Procesador de sobremesa (8 núcleos hasta 5,1 GHz Desbloqueado LGA1200 (Intel 400 Series Chipset) 125W (BX8070110700K)",
-    "image": null
-   },
-   {
     "shop": "amazon.it",
     "price": 399.97,
     "currency": "EUR",
@@ -4771,10 +4761,20 @@
     "lastSeen": "2026-11-24T17:35:48Z",
     "product": "Intel Core i7-10700K",
     "image": null
+   },
+   {
+    "shop": "amazon.es",
+    "price": 399.97,
+    "currency": "EUR",
+    "url": "https://www.amazon.es/dp/B086ML4XSB?tag=fraym08-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T02:32:00Z",
+    "product": "Intel Core i7-10700K - Procesador de sobremesa (8 núcleos hasta 5,1 GHz Desbloqueado LGA1200 (Intel 400 Series Chipset) 125W (BX8070110700K)",
+    "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-24T17:35:48Z"
+  "lastUpdated": "2026-11-25T02:32:00Z"
  },
  {
   "id": "i7_11700k",
@@ -4797,7 +4797,7 @@
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B08TX5KL5T?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:28:55Z",
+    "lastSeen": "2026-11-25T02:28:56Z",
     "product": "Intel Core i7-11700K procesador 3,6 GHz 16 MB Smart Cache Caja",
     "image": null
    },
@@ -4807,13 +4807,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B08TX5KL5T?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:40:05Z",
+    "lastSeen": "2026-11-25T02:37:52Z",
     "product": "Intel CORE Processor I7-11700K 3.6GHZ (TURBE 5.00GHZ) Cache 16MB 8 NUCLEOS 16 Threads 11th GER LGA 1200 BX8070811700K : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-24T17:40:05Z"
+  "lastUpdated": "2026-11-25T02:37:52Z"
  },
  {
   "id": "i9_13900k",
@@ -4821,34 +4821,34 @@
   "priceMin": 507.62,
   "prices": [
    {
-    "shop": "morele.net",
-    "price": 2182.77,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-intel-core-i9-13900k-3-0-ghz-36-mb-box-bx8071513900k-11789699/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor Intel Core i9-13900K, 3.0 GHz, 36 MB, BOX (BX8071513900K)",
-    "image": "https://images.morele.net/i256/11789699_0_i256.jpg"
-   },
-   {
-    "shop": "morele.net",
-    "price": 2733.44,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-intel-core-i9-13900k-3-0-ghz-36-mb-oem-cm8071505094011-13112482/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor Intel Core i9-13900K, 3.0 GHz, 36 MB, OEM (CM8071505094011)",
-    "image": "https://images.morele.net/i256/13112482_1_i256.jpg"
-   },
-   {
     "shop": "ldlc.com",
     "price": 569.95,
     "currency": "EUR",
     "url": "https://www.ldlc.com/fiche/PB00519289.html",
     "inStock": true,
-    "lastSeen": "2026-11-23T17:11:56Z",
+    "lastSeen": "2026-11-25T01:55:38Z",
     "product": "Intel Core i9-13900K (3.0 GHz / 5.8 GHz)",
     "image": "https://media.ldlc.com/r1600/ld/products/00/05/98/23/LD0005982300.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 2182.77,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-intel-core-i9-13900k-3-0-ghz-36-mb-box-bx8071513900k-11789699/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor Intel Core i9-13900K, 3.0 GHz, 36 MB, BOX (BX8071513900K)",
+    "image": "https://images.morele.net/i256/11789699_0_i256.jpg"
+   },
+   {
+    "shop": "morele.net",
+    "price": 2733.69,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-intel-core-i9-13900k-3-0-ghz-36-mb-oem-cm8071505094011-13112482/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor Intel Core i9-13900K, 3.0 GHz, 36 MB, OEM (CM8071505094011)",
+    "image": "https://images.morele.net/i256/13112482_1_i256.jpg"
    },
    {
     "shop": "materiel.net",
@@ -4856,7 +4856,7 @@
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202208310014.html",
     "inStock": true,
-    "lastSeen": "2026-11-24T03:48:22Z",
+    "lastSeen": "2026-11-25T01:55:38Z",
     "product": "Intel Core i9 13900K",
     "image": "https://media.materiel.net/r900/products/MN0005983038.jpg"
    },
@@ -4866,29 +4866,19 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0BG67ZG5R?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:34:26Z",
+    "lastSeen": "2026-11-25T02:32:35Z",
     "product": "Intel Core i9 13900K CPU 4.3GHz (5.8GHz Turbo) 13th Gen LGA1700 24-Cores 32-Threads 36MB 125W UHD Graphic 770 Unlocked Retail Raptor Lake no Fan : Electronics",
     "image": null
    }
   ],
   "image": "images/cpus-i9_13900k.jpg",
-  "lastUpdated": "2026-11-24T17:34:26Z"
+  "lastUpdated": "2026-11-25T02:32:35Z"
  },
  {
   "id": "intel-core-i3-10100f",
   "name": "Core i3-10100F",
   "priceMin": 74.88,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 322.0,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-intel-core-i3-10100f-3-6-ghz-6-mb-box-bx8070110100f-5944564/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor Intel Core i3-10100F, 3.6 GHz, 6 MB, BOX (BX8070110100F)",
-    "image": "https://images.morele.net/i256/5944564_2_i256.jpg"
-   },
    {
     "shop": "amazon.de",
     "price": 109.97,
@@ -4930,44 +4920,34 @@
     "image": null
    },
    {
+    "shop": "morele.net",
+    "price": 322.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-intel-core-i3-10100f-3-6-ghz-6-mb-box-bx8070110100f-5944564/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor Intel Core i3-10100F, 3.6 GHz, 6 MB, BOX (BX8070110100F)",
+    "image": "https://images.morele.net/i256/5944564_2_i256.jpg"
+   },
+   {
     "shop": "amazon.com",
     "price": 98.0,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B08LKJPR5X?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:39:46Z",
+    "lastSeen": "2026-11-25T02:37:36Z",
     "product": "Intel CPU BX8070110100F Core i3-10100F / 3.6GHz / 6MB LGA1200 4C / 8T : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-24T17:39:46Z"
+  "lastUpdated": "2026-11-25T02:37:36Z"
  },
  {
   "id": "intel-core-i5-11400f",
   "name": "Core i5-11400F",
   "priceMin": 186.01,
   "prices": [
-   {
-    "shop": "amazon.co.uk",
-    "price": 159.97,
-    "currency": "GBP",
-    "url": "https://www.amazon.co.uk/dp/B093Z4DCHQ?tag=fraym0a-21",
-    "inStock": true,
-    "lastSeen": "2026-11-22T23:40:14Z",
-    "product": "Intel CPU/Core i5-11400F 2.60GHZ LGA1200 Tray",
-    "image": null
-   },
-   {
-    "shop": "amazon.de",
-    "price": 219.97,
-    "currency": "EUR",
-    "url": "https://www.amazon.de/dp/B093Z4DCHQ?tag=fraym03-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T17:27:16Z",
-    "product": "CPU/Core i5-11400F 2,60 GHz LGA1200 Tray",
-    "image": null
-   },
    {
     "shop": "amazon.it",
     "price": 219.97,
@@ -4979,34 +4959,44 @@
     "image": null
    },
    {
+    "shop": "amazon.co.uk",
+    "price": 159.97,
+    "currency": "GBP",
+    "url": "https://www.amazon.co.uk/dp/B093Z4DCHQ?tag=fraym0a-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T02:22:18Z",
+    "product": "Intel CPU/Core i5-11400F 2.60GHZ LGA1200 Tray",
+    "image": null
+   },
+   {
+    "shop": "amazon.de",
+    "price": 219.97,
+    "currency": "EUR",
+    "url": "https://www.amazon.de/dp/B093Z4DCHQ?tag=fraym03-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T02:29:36Z",
+    "product": "CPU/Core i5-11400F 2,60 GHz LGA1200 Tray",
+    "image": null
+   },
+   {
     "shop": "amazon.com",
     "price": 229.95,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B093Z4DCHQ?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:36:32Z",
+    "lastSeen": "2026-11-25T02:34:35Z",
     "product": "Intel CPU/Core i5-11400F 2.60GHZ LGA1200 Tray : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-24T17:36:32Z"
+  "lastUpdated": "2026-11-25T02:34:35Z"
  },
  {
   "id": "intel-core-i5-11600k",
   "name": "Core i5-11600K",
   "priceMin": 249.95,
   "prices": [
-   {
-    "shop": "amazon.co.uk",
-    "price": 451.54,
-    "currency": "GBP",
-    "url": "https://www.amazon.co.uk/dp/B091CTD16T?tag=fraym0a-21",
-    "inStock": true,
-    "lastSeen": "2026-11-22T23:40:16Z",
-    "product": "INTEL Core i5-11600K 3.9GHz LGA1200 Box",
-    "image": null
-   },
    {
     "shop": "amazon.de",
     "price": 279.97,
@@ -5018,26 +5008,6 @@
     "image": null
    },
    {
-    "shop": "amazon.es",
-    "price": 279.97,
-    "currency": "EUR",
-    "url": "https://www.amazon.es/dp/B091CTD16T?tag=fraym08-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T17:33:01Z",
-    "product": "Intel Core i5-11600K procesador 3,9 GHz 12 MB Smart Cache Caja",
-    "image": null
-   },
-   {
-    "shop": "amazon.com",
-    "price": 269.95,
-    "currency": "USD",
-    "url": "https://www.amazon.com/dp/B091CTD16T?tag=fraym-20",
-    "inStock": true,
-    "lastSeen": "2026-11-24T17:33:25Z",
-    "product": "INTEL CORP. BX8070811600K Core i5-11600K Processor : Electronics",
-    "image": null
-   },
-   {
     "shop": "amazon.it",
     "price": 279.97,
     "currency": "EUR",
@@ -5046,26 +5016,46 @@
     "lastSeen": "2026-11-24T17:33:31Z",
     "product": "Intel Core i5 11600K 3.9Ghz 12MB LGA 1200 BOX",
     "image": null
+   },
+   {
+    "shop": "amazon.co.uk",
+    "price": 451.54,
+    "currency": "GBP",
+    "url": "https://www.amazon.co.uk/dp/B091CTD16T?tag=fraym0a-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T02:22:20Z",
+    "product": "INTEL Core i5-11600K 3.9GHz LGA1200 Box",
+    "image": null
+   },
+   {
+    "shop": "amazon.com",
+    "price": 269.95,
+    "currency": "USD",
+    "url": "https://www.amazon.com/dp/B091CTD16T?tag=fraym-20",
+    "inStock": true,
+    "lastSeen": "2026-11-25T02:31:43Z",
+    "product": "INTEL CORP. BX8070811600K Core i5-11600K Processor : Electronics",
+    "image": null
+   },
+   {
+    "shop": "amazon.es",
+    "price": 279.97,
+    "currency": "EUR",
+    "url": "https://www.amazon.es/dp/B091CTD16T?tag=fraym08-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T02:31:51Z",
+    "product": "Intel Core i5-11600K procesador 3,9 GHz 12 MB Smart Cache Caja",
+    "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-24T17:33:31Z"
+  "lastUpdated": "2026-11-25T02:31:51Z"
  },
  {
   "id": "intel-core-i7-10700",
   "name": "Core i7-10700",
   "priceMin": 220.9,
   "prices": [
-   {
-    "shop": "amazon.co.uk",
-    "price": 189.97,
-    "currency": "GBP",
-    "url": "https://www.amazon.co.uk/dp/B0883NPRL9?tag=fraym0a-21",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:46:27Z",
-    "product": "Intel Core i7 10700 10th Gen Comet Lake 8 Core Processor",
-    "image": null
-   },
    {
     "shop": "amazon.fr",
     "price": 419.99,
@@ -5074,16 +5064,6 @@
     "inStock": true,
     "lastSeen": "2026-11-24T17:24:09Z",
     "product": "INTEL Core i7 10700 2 90GHz LGA1200",
-    "image": null
-   },
-   {
-    "shop": "amazon.es",
-    "price": 259.97,
-    "currency": "EUR",
-    "url": "https://www.amazon.es/dp/B0883NPRL9?tag=fraym08-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T17:26:30Z",
-    "product": "Intel Core i7-10700 - Procesador (2,90 GHz; Casquillo LGA1200; Caja de 65 W)",
     "image": null
    },
    {
@@ -5097,18 +5077,38 @@
     "image": null
    },
    {
+    "shop": "amazon.co.uk",
+    "price": 189.97,
+    "currency": "GBP",
+    "url": "https://www.amazon.co.uk/dp/B0883NPRL9?tag=fraym0a-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T02:23:06Z",
+    "product": "Intel Core i7 10700 10th Gen Comet Lake 8 Core Processor",
+    "image": null
+   },
+   {
+    "shop": "amazon.es",
+    "price": 259.97,
+    "currency": "EUR",
+    "url": "https://www.amazon.es/dp/B0883NPRL9?tag=fraym08-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T02:27:10Z",
+    "product": "Intel Core i7-10700 - Procesador (2,90 GHz; Casquillo LGA1200; Caja de 65 W)",
+    "image": null
+   },
+   {
     "shop": "amazon.com",
     "price": 349.99,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0883NPRL9?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:39:28Z",
+    "lastSeen": "2026-11-25T02:37:20Z",
     "product": "Intel CORE I7-10700 Processor 2.9GHZ Cache 16MB 8 NUCLEOS 16 Threads 10th Generation LGA 1200 BX8070110700 : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-24T17:39:28Z"
+  "lastUpdated": "2026-11-25T02:37:20Z"
  },
  {
   "id": "intel-core-i9-10900k",
@@ -5136,16 +5136,6 @@
     "image": null
    },
    {
-    "shop": "amazon.es",
-    "price": 579.97,
-    "currency": "EUR",
-    "url": "https://www.amazon.es/dp/B0883NZC43?tag=fraym08-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T17:27:23Z",
-    "product": "Intel Core i9-10900K (Punto de Base: 3,70 GHz; zócalo: LGA1200; 125 W) Box",
-    "image": null
-   },
-   {
     "shop": "amazon.co.uk",
     "price": 449.97,
     "currency": "GBP",
@@ -5156,34 +5146,34 @@
     "image": null
    },
    {
+    "shop": "amazon.es",
+    "price": 579.97,
+    "currency": "EUR",
+    "url": "https://www.amazon.es/dp/B0883NZC43?tag=fraym08-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T02:27:48Z",
+    "product": "Intel Core i9-10900K (Punto de Base: 3,70 GHz; zócalo: LGA1200; 125 W) Box",
+    "image": null
+   },
+   {
     "shop": "amazon.com",
     "price": 445.0,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0883NZC43?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:39:29Z",
+    "lastSeen": "2026-11-25T02:37:21Z",
     "product": "Intel BX8070110900K Core i9-10900K (Basistakt: 3,70GHz; Sockel: LGA1200; 125Watt) Box : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-24T17:39:29Z"
+  "lastUpdated": "2026-11-25T02:37:21Z"
  },
  {
   "id": "intel-core-i9-13900ks",
   "name": "Core i9-13900KS",
   "priceMin": 525.93,
   "prices": [
-   {
-    "shop": "amazon.es",
-    "price": 649.97,
-    "currency": "EUR",
-    "url": "https://www.amazon.es/dp/B0BVKX19C3?tag=fraym08-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T17:24:48Z",
-    "product": "Intel Core i9-13900KS 3,20 GHz (Raptor Lake) Sockel 1700 - Boxed",
-    "image": null
-   },
    {
     "shop": "amazon.de",
     "price": 649.97,
@@ -5215,18 +5205,28 @@
     "image": null
    },
    {
+    "shop": "amazon.es",
+    "price": 649.97,
+    "currency": "EUR",
+    "url": "https://www.amazon.es/dp/B0BVKX19C3?tag=fraym08-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T02:25:53Z",
+    "product": "Intel Core i9-13900KS 3,20 GHz (Raptor Lake) Sockel 1700 - Boxed",
+    "image": null
+   },
+   {
     "shop": "amazon.com",
     "price": 568.0,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0BVKX19C3?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:35:10Z",
+    "lastSeen": "2026-11-25T02:33:25Z",
     "product": "Intel Core i9-13900KS 3.20 GHz (Raptor Lake) Sockel 1700 Boxed : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-24T17:35:10Z"
+  "lastUpdated": "2026-11-25T02:33:25Z"
  },
  {
   "id": "r9_5900x",
@@ -5245,23 +5245,13 @@
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-24T03:48:22Z"
+  "lastUpdated": "2026-11-25T02:23:34Z"
  },
  {
   "id": "amd-ryzen-5-2600x",
   "name": "Ryzen 5 2600X",
   "priceMin": 114.97,
   "prices": [
-   {
-    "shop": "morele.net",
-    "price": 681.0,
-    "currency": "PLN",
-    "url": "https://www.morele.net/procesor-amd-ryzen-5-2600x-3-6-ghz-16-mb-box-yd260xbcafbox-980256/",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
-    "product": "Procesor AMD Ryzen 5 2600X, 3.6 GHz, 16 MB, BOX (YD260XBCAFBOX)",
-    "image": "https://images.morele.net/i256/980256_0_i256.jpg"
-   },
    {
     "shop": "amazon.de",
     "price": 114.97,
@@ -5271,10 +5261,20 @@
     "lastSeen": "2026-11-24T17:27:24Z",
     "product": "AMD Ryzen 5 2600X Prozessor 3,6 GHz 16 MB L3 Box",
     "image": null
+   },
+   {
+    "shop": "morele.net",
+    "price": 681.0,
+    "currency": "PLN",
+    "url": "https://www.morele.net/procesor-amd-ryzen-5-2600x-3-6-ghz-16-mb-box-yd260xbcafbox-980256/",
+    "inStock": true,
+    "lastSeen": "2026-11-25T01:55:38Z",
+    "product": "Procesor AMD Ryzen 5 2600X, 3.6 GHz, 16 MB, BOX (YD260XBCAFBOX)",
+    "image": "https://images.morele.net/i256/980256_0_i256.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-24T17:27:24Z"
+  "lastUpdated": "2026-11-25T01:55:38Z"
  },
  {
   "id": "intel-core-i9-11900k",
@@ -5287,7 +5287,7 @@
     "currency": "EUR",
     "url": "https://www.amazon.de/dp/B08X6PPTTH?tag=fraym03-21",
     "inStock": true,
-    "lastSeen": "2026-11-23T05:53:43Z",
+    "lastSeen": "2026-11-25T02:22:52Z",
     "product": "Intel Core i9 11900K",
     "image": null
    },
@@ -5297,13 +5297,13 @@
     "currency": "GBP",
     "url": "https://www.amazon.co.uk/dp/B08X6PPTTH?tag=fraym0a-21",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:23:40Z",
+    "lastSeen": "2026-11-25T02:25:05Z",
     "product": "Intel Core i9 11900K",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-24T17:23:40Z"
+  "lastUpdated": "2026-11-25T02:25:05Z"
  },
  {
   "id": "r9_7950x3d",
@@ -5337,31 +5337,31 @@
  {
   "id": "amd-ryzen-9-5950x",
   "name": "Ryzen 9 5950X",
-  "priceMin": 381.63,
+  "priceMin": 363.72,
   "prices": [
    {
     "shop": "morele.net",
-    "price": 1640.99,
+    "price": 1563.99,
     "currency": "PLN",
     "url": "https://www.morele.net/procesor-amd-ryzen-9-5950x-3-4-ghz-64-mb-box-100-100000059wof-7267020/",
     "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
+    "lastSeen": "2026-11-25T01:55:38Z",
     "product": "Procesor AMD Ryzen 9 5950X, 3.4 GHz, 64 MB, BOX (100-100000059WOF)",
     "image": "https://images.morele.net/i256/7267020_0_i256.jpg"
    },
    {
     "shop": "morele.net",
-    "price": 1973.38,
+    "price": 1807.97,
     "currency": "PLN",
     "url": "https://www.morele.net/procesor-amd-ryzen-9-5950x-3-4-ghz-64-mb-oem-100-000000059-7267021/",
     "inStock": true,
-    "lastSeen": "2026-11-23T05:19:51Z",
+    "lastSeen": "2026-11-25T01:55:38Z",
     "product": "Procesor AMD Ryzen 9 5950X, 3.4 GHz, 64 MB, OEM (100-000000059)",
     "image": "https://images.morele.net/i256/7267021_0_i256.jpg"
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-23T05:19:51Z"
+  "lastUpdated": "2026-11-25T01:55:38Z"
  },
  {
   "id": "amd-ryzen-9-3900x",
@@ -5398,12 +5398,12 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0BS98MM6K?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:36:29Z",
+    "lastSeen": "2026-11-25T02:34:32Z",
     "product": "Intel Core i5-13600K 6C+8c/20T 3.50-5.10GHz Tray - CM8071504821005 : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-24T17:36:29Z"
+  "lastUpdated": "2026-11-25T02:34:32Z"
  }
 ]

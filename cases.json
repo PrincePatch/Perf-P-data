@@ -165,16 +165,6 @@
     "image": "https://media.materiel.net/r250/products/MN0006180564.jpg"
    },
    {
-    "shop": "amazon.de",
-    "price": 50.34,
-    "currency": "EUR",
-    "url": "https://www.amazon.de/dp/B0D2MK6NML?tag=fraym03-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T17:23:38Z",
-    "product": "NZXT H5 Flow - Kompaktes Mid-Tower ATX PC-Gehäuse - Schwarz | Kompakter Midi-Tower mit 2 x 120mm Lüftern, 360mm Front-Radiator und gehärtetem Glas. Ideal für den ersten Airflow-Build.",
-    "image": null
-   },
-   {
     "shop": "amazon.co.uk",
     "price": 49.99,
     "currency": "GBP",
@@ -182,16 +172,6 @@
     "inStock": true,
     "lastSeen": "2026-11-24T17:24:55Z",
     "product": "NZXT H5 Flow - Compact ATX Mid-Tower PC Case - Black | Compact mid-tower with 2 included 120mm fans, 360mm front radiator support, and tempered glass. A great first airflow build.",
-    "image": null
-   },
-   {
-    "shop": "amazon.es",
-    "price": 61.9,
-    "currency": "EUR",
-    "url": "https://www.amazon.es/dp/B0D2MK6NML?tag=fraym08-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T17:29:16Z",
-    "product": "NZXT H5 Flow - Caja PC Semitorre ATX Compacta - Negro | Semitorre compacta con 2 ventiladores de 120mm, soporte de radiador frontal de 360mm y vidrio templado. Ideal primer montaje.",
     "image": null
    },
    {
@@ -205,16 +185,6 @@
     "image": null
    },
    {
-    "shop": "amazon.com",
-    "price": 59.99,
-    "currency": "USD",
-    "url": "https://www.amazon.com/dp/B0D2MK6NML?tag=fraym-20",
-    "inStock": true,
-    "lastSeen": "2026-11-24T17:35:25Z",
-    "product": "NZXT H5 Flow - Compact ATX Mid-Tower PC Case - Black | Compact mid-tower with 2 included 120mm fans, 360mm front radiator support, and tempered glass. A great first airflow build. : Electronics",
-    "image": null
-   },
-   {
     "shop": "amazon.it",
     "price": 61.39,
     "currency": "EUR",
@@ -223,10 +193,40 @@
     "lastSeen": "2026-11-24T17:35:55Z",
     "product": "NZXT H5 Flow - Case PC Mid-Tower ATX Compatto - Nero | Mid-tower compatto con 2 ventole 120mm incluse, radiatore frontale 360mm e vetro temperato. Ottima prima build airflow.",
     "image": null
+   },
+   {
+    "shop": "amazon.de",
+    "price": 50.34,
+    "currency": "EUR",
+    "url": "https://www.amazon.de/dp/B0D2MK6NML?tag=fraym03-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T02:26:31Z",
+    "product": "NZXT H5 Flow - Kompaktes Mid-Tower ATX PC-Gehäuse - Schwarz | Kompakter Midi-Tower mit 2 x 120mm Lüftern, 360mm Front-Radiator und gehärtetem Glas. Ideal für den ersten Airflow-Build.",
+    "image": null
+   },
+   {
+    "shop": "amazon.es",
+    "price": 61.9,
+    "currency": "EUR",
+    "url": "https://www.amazon.es/dp/B0D2MK6NML?tag=fraym08-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T02:29:08Z",
+    "product": "NZXT H5 Flow - Caja PC Semitorre ATX Compacta - Negro | Semitorre compacta con 2 ventiladores de 120mm, soporte de radiador frontal de 360mm y vidrio templado. Ideal primer montaje.",
+    "image": null
+   },
+   {
+    "shop": "amazon.com",
+    "price": 59.99,
+    "currency": "USD",
+    "url": "https://www.amazon.com/dp/B0D2MK6NML?tag=fraym-20",
+    "inStock": true,
+    "lastSeen": "2026-11-25T02:33:38Z",
+    "product": "NZXT H5 Flow - Compact ATX Mid-Tower PC Case - Black | Compact mid-tower with 2 included 120mm fans, 360mm front radiator support, and tempered glass. A great first airflow build. : Electronics",
+    "image": null
    }
   ],
   "image": "images/cases-nzxt-h5-flow.jpg",
-  "lastUpdated": "2026-11-24T17:35:55Z"
+  "lastUpdated": "2026-11-25T02:33:38Z"
  },
  {
   "id": "nzxt-h7-flow",
@@ -354,16 +354,6 @@
     "image": "https://images.morele.net/i256/13342565_0_i256.jpg"
    },
    {
-    "shop": "amazon.fr",
-    "price": 49.92,
-    "currency": "EUR",
-    "url": "https://www.amazon.fr/dp/B0CV4R1TWS?tag=fraym-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T04:18:18Z",
-    "product": "NZXT H7 Flow - Boîtier PC Mid-Tower ATX Airflow - Noir | Moyenne tour ATX axée flux d'air. Ventilateurs en bas pour refroidir le GPU, radiateur avant 420mm, câblage soigné.",
-    "image": null
-   },
-   {
     "shop": "materiel.net",
     "price": 99.95,
     "currency": "EUR",
@@ -422,10 +412,20 @@
     "lastSeen": "2026-11-24T17:29:51Z",
     "product": "NZXT H7 Flow - Mid-Tower ATX Airflow PC-Gehäuse - Schwarz | ATX-Midi-Tower mit Airflow-Fokus. Bodenlüfter für direkte GPU-Kühlung, 420mm Front-Radiator, sauberes Kabelmanagement.",
     "image": null
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 49.92,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B0CV4R1TWS?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T02:23:58Z",
+    "product": "NZXT H7 Flow - Boîtier PC Mid-Tower ATX Airflow - Noir | Moyenne tour ATX axée flux d'air. Ventilateurs en bas pour refroidir le GPU, radiateur avant 420mm, câblage soigné.",
+    "image": null
    }
   ],
   "image": "images/cases-nzxt-h7-flow.jpg",
-  "lastUpdated": "2026-11-24T17:29:51Z"
+  "lastUpdated": "2026-11-25T02:23:58Z"
  },
  {
   "id": "nzxt-h9-flow",
@@ -491,16 +491,6 @@
     "lastSeen": "2026-11-22T23:11:16Z",
     "product": "NZXT H9 Flow RGB+ Dual-Chamber ATX Mid Tower Chassis - All White",
     "image": "https://ccimg.canadacomputers.com/Products/800x800/213/5594/280698/06867.jpg"
-   },
-   {
-    "shop": "amazon.de",
-    "price": 83.95,
-    "currency": "EUR",
-    "url": "https://www.amazon.de/dp/B0DQPPKNSS?tag=fraym03-21",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:49:12Z",
-    "product": "NZXT H9 Flow - Dual-Kammer ATX PC-Gehäuse - Schwarz | Dual-Kammer-ATX-Flaggschiff mit 4 Lüftern, 420mm-Radiator oben und vorne und umlaufendem gehärtetem Glas.",
-    "image": null
    },
    {
     "shop": "ldlc.com",
@@ -593,16 +583,6 @@
     "image": null
    },
    {
-    "shop": "amazon.com",
-    "price": 99.99,
-    "currency": "USD",
-    "url": "https://www.amazon.com/dp/B0DQPPKNSS?tag=fraym-20",
-    "inStock": true,
-    "lastSeen": "2026-11-24T17:28:14Z",
-    "product": "NZXT H9 Flow - Dual-Chamber ATX PC Case - Black | Dual-chamber ATX flagship with 4 included fans, 420mm top and front radiator support, and wraparound tempered glass. : Electronics",
-    "image": null
-   },
-   {
     "shop": "amazon.co.uk",
     "price": 58.32,
     "currency": "GBP",
@@ -613,18 +593,38 @@
     "image": null
    },
    {
+    "shop": "amazon.de",
+    "price": 83.95,
+    "currency": "EUR",
+    "url": "https://www.amazon.de/dp/B0DQPPKNSS?tag=fraym03-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T02:22:13Z",
+    "product": "NZXT H9 Flow - Dual-Kammer ATX PC-Gehäuse - Schwarz | Dual-Kammer-ATX-Flaggschiff mit 4 Lüftern, 420mm-Radiator oben und vorne und umlaufendem gehärtetem Glas.",
+    "image": null
+   },
+   {
+    "shop": "amazon.com",
+    "price": 99.99,
+    "currency": "USD",
+    "url": "https://www.amazon.com/dp/B0DQPPKNSS?tag=fraym-20",
+    "inStock": true,
+    "lastSeen": "2026-11-25T02:28:27Z",
+    "product": "NZXT H9 Flow - Dual-Chamber ATX PC Case - Black | Dual-chamber ATX flagship with 4 included fans, 420mm top and front radiator support, and wraparound tempered glass. : Electronics",
+    "image": null
+   },
+   {
     "shop": "amazon.es",
     "price": 93.38,
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B0DQPPKNSS?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:32:22Z",
+    "lastSeen": "2026-11-25T02:31:17Z",
     "product": "NZXT H9 Flow - Caja PC ATX Doble Cámara - Negro | Insignia ATX de doble cámara con 4 ventiladores, soporte de radiador de 420mm arriba y frontal, y vidrio templado envolvente.",
     "image": null
    }
   ],
   "image": "images/cases-nzxt-h9-flow.jpg",
-  "lastUpdated": "2026-11-24T17:32:22Z"
+  "lastUpdated": "2026-11-25T02:31:17Z"
  },
  {
   "id": "fractal-north",
@@ -867,7 +867,7 @@
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B09V8HNWW9?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:32:55Z",
+    "lastSeen": "2026-11-25T02:31:45Z",
     "product": "Fractal Design North Charcoal Black Tempered Glass Dark - Frente de Madera de Nogal - Panel Lateral de Vidrio - Incluye Dos Ventiladores Aspect PWM de 140 mm - Puerto USB Tipo C",
     "image": null
    },
@@ -877,13 +877,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B09V8HNWW9?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:39:58Z",
+    "lastSeen": "2026-11-25T02:37:47Z",
     "product": "Fractal Design North Charcoal Black Tempered Glass Dark - Genuine Walnut Wood Front - Glass Side Panel - Two 140mm Aspect PWM Fans Included - Type C USB - ATX Airflow Mid Tower PC Gaming Case : Electronics",
     "image": null
    }
   ],
   "image": "images/cases-fractal-north.jpg",
-  "lastUpdated": "2026-11-24T17:39:58Z"
+  "lastUpdated": "2026-11-25T02:37:47Z"
  },
  {
   "id": "fractal-pop-air",
@@ -1051,16 +1051,6 @@
     "image": "https://images.morele.net/i256/11738540_12_i256.jpg"
    },
    {
-    "shop": "amazon.es",
-    "price": 67.76,
-    "currency": "EUR",
-    "url": "https://www.amazon.es/dp/B08SR7LPCD?tag=fraym08-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T04:18:57Z",
-    "product": "Fractal Design Pop Air Negro, Vidrio Templado, Tinte Claro",
-    "image": null
-   },
-   {
     "shop": "materiel.net",
     "price": 89.95,
     "currency": "EUR",
@@ -1121,16 +1111,6 @@
     "image": null
    },
    {
-    "shop": "amazon.com",
-    "price": 89.99,
-    "currency": "USD",
-    "url": "https://www.amazon.com/dp/B08SR7LPCD?tag=fraym-20",
-    "inStock": true,
-    "lastSeen": "2026-11-24T17:35:23Z",
-    "product": "Fractal Design Pop Air Black Tempered Glass Clear Tint : Electronics",
-    "image": null
-   },
-   {
     "shop": "amazon.it",
     "price": 77.04,
     "currency": "EUR",
@@ -1139,10 +1119,20 @@
     "lastSeen": "2026-11-24T17:36:39Z",
     "product": "Fractal Design Pop Air Black - Tempered Glass Clear Tint - Honeycomb Mesh Front – TG side panel - Three 120 mm Aspect 12 fans included – ATX High Airflow Mid Tower PC Gaming Case",
     "image": null
+   },
+   {
+    "shop": "amazon.es",
+    "price": 67.76,
+    "currency": "EUR",
+    "url": "https://www.amazon.es/dp/B08SR7LPCD?tag=fraym08-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T02:22:26Z",
+    "product": "Fractal Design Pop Air Negro, Vidrio Templado, Tinte Claro",
+    "image": null
    }
   ],
   "image": "images/cases-fractal-pop-air.jpg",
-  "lastUpdated": "2026-11-24T17:36:39Z"
+  "lastUpdated": "2026-11-25T02:22:26Z"
  },
  {
   "id": "fractal-meshify-2",
@@ -1205,13 +1195,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0822Y6H34?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:35:20Z",
+    "lastSeen": "2026-11-25T02:33:33Z",
     "product": "Fractal Design Meshify 2 Black ATX Flexible Mid Tower Computer Case : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-24T17:35:20Z"
+  "lastUpdated": "2026-11-25T02:33:33Z"
  },
  {
   "id": "fractal-torrent",
@@ -1304,13 +1294,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B08699NR75?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:34:39Z",
+    "lastSeen": "2026-11-25T02:32:48Z",
     "product": "Fractal Design Torrent RGB Black - Light Tint Tempered Glass Panels - Open Grille for Maximum air Intake - Two 180mm RGB PWM and Three 140mm RGB Fans Included - ATX Airflow Mid Tower PC Gaming Case : Electronics",
     "image": null
    }
   ],
   "image": "images/cases-fractal-torrent.jpg",
-  "lastUpdated": "2026-11-24T17:34:39Z"
+  "lastUpdated": "2026-11-25T02:32:48Z"
  },
  {
   "id": "fractal-ridge-itx",
@@ -1762,17 +1752,17 @@
    },
    {
     "shop": "amazon.com",
-    "price": 130.1,
+    "price": 130.18,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0BN3TTBKM?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:37:59Z",
+    "lastSeen": "2026-11-25T02:35:53Z",
     "product": "Lian Li Lancool 216 Mid-Tower Airflow Case-3 PWM Fans-White-LANCOOL 216R-W | High Cooling Performance, Dual Front 160MM PWM Fans & 1 Rear 140MM PWM Fan, Airflow Focused, Up to 10 Fans : Electronics",
     "image": null
    }
   ],
   "image": "images/cases-lian-li-lancool-216.jpg",
-  "lastUpdated": "2026-11-24T17:37:59Z"
+  "lastUpdated": "2026-11-25T02:35:53Z"
  },
  {
   "id": "lian-li-lancool-iii",
@@ -1963,13 +1953,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B09HCHC9WH?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:37:53Z",
+    "lastSeen": "2026-11-25T02:35:49Z",
     "product": "Cooler Master HAF 500 PC Case: Mid-Tower, 2 x 200mm Pre-Installed ARGB Fans for High-Volume Airflow, Rotatable 120mm GPU Fan, Versatile Cooling Options, Tempered Glass Side Panel, Removeable Top : Electronics",
     "image": null
    }
   ],
   "image": "images/cases-cooler-master-haf-500.jpg",
-  "lastUpdated": "2026-11-24T17:37:53Z"
+  "lastUpdated": "2026-11-25T02:35:49Z"
  },
  {
   "id": "be-quiet-silent-base-802",
@@ -2092,13 +2082,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B08NW5741Z?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:37:51Z",
+    "lastSeen": "2026-11-25T02:35:47Z",
     "product": "be quiet! Silent Base 802 Black ATX Midi Tower PC Case, 3 Installed Fans | Computer Case with I/O-Panel, Fan Controller, USB 3.2 Gen. 2 Type C, up to 420mm Water Coolings, Extra Thick Insulation Mats : Electronics",
     "image": null
    }
   ],
   "image": "images/cases-be-quiet-silent-base-802.jpg",
-  "lastUpdated": "2026-11-24T17:37:51Z"
+  "lastUpdated": "2026-11-25T02:35:47Z"
  },
  {
   "id": "phanteks-evolv-x2",
@@ -2579,16 +2569,6 @@
     "image": null
    },
    {
-    "shop": "amazon.es",
-    "price": 57.77,
-    "currency": "EUR",
-    "url": "https://www.amazon.es/dp/B0C89G9QDK?tag=fraym08-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T17:29:55Z",
-    "product": "NZXT H6 Flow - Caja PC ATX Compacta Doble Cámara - Blanco | Caja ATX de doble cámara con vidrio panorámico y 3 ventiladores de 120mm. Optimizada para montajes limpios y frescos.",
-    "image": null
-   },
-   {
     "shop": "amazon.it",
     "price": 57.3,
     "currency": "EUR",
@@ -2597,10 +2577,20 @@
     "lastSeen": "2026-11-24T17:32:47Z",
     "product": "NZXT H6 Flow - Case PC ATX Compatto a Doppia Camera - Bianco | Case ATX compatto a doppia camera con vetro panoramico e 3 ventole 120mm incluse. Ottimizzato per build pulite e fresche.",
     "image": null
+   },
+   {
+    "shop": "amazon.es",
+    "price": 57.77,
+    "currency": "EUR",
+    "url": "https://www.amazon.es/dp/B0C89G9QDK?tag=fraym08-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T02:29:38Z",
+    "product": "NZXT H6 Flow - Caja PC ATX Compacta Doble Cámara - Blanco | Caja ATX de doble cámara con vidrio panorámico y 3 ventiladores de 120mm. Optimizada para montajes limpios y frescos.",
+    "image": null
    }
   ],
   "image": "images/cases-nzxt-h6-flow.jpg",
-  "lastUpdated": "2026-11-24T17:32:47Z"
+  "lastUpdated": "2026-11-25T02:29:38Z"
  },
  {
   "id": "nzxt-h7-elite",
@@ -2806,16 +2796,6 @@
     "image": "https://images.morele.net/i256/14893746_1_i256.jpg"
    },
    {
-    "shop": "amazon.es",
-    "price": 149.58,
-    "currency": "EUR",
-    "url": "https://www.amazon.es/dp/B0CJCK95ZC?tag=fraym08-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T04:18:18Z",
-    "product": "Fractal Design North XL Charcoal Black Mesh- Incluye Tres Ventiladores Aspect PWM de 140 mm - Puerto USB Tipo C - Torre Completa EATX con Flujo de Aire para gabinete de PC para Juegos",
-    "image": null
-   },
-   {
     "shop": "materiel.net",
     "price": 180.45,
     "currency": "EUR",
@@ -2886,16 +2866,6 @@
     "image": null
    },
    {
-    "shop": "amazon.fr",
-    "price": 124.99,
-    "currency": "EUR",
-    "url": "https://www.amazon.fr/dp/B0CJCK95ZC?tag=fraym-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T17:31:22Z",
-    "product": "Fractal Design North XL Charcoal Black Mesh- Boîtier PC Gaming Grande Tour EATX à Flux d'air – Trois Ventilateurs Aspect PWM de 140 mm Inclus – Port USB Type-C.",
-    "image": null
-   },
-   {
     "shop": "amazon.it",
     "price": 135.49,
     "currency": "EUR",
@@ -2906,18 +2876,38 @@
     "image": null
    },
    {
+    "shop": "amazon.es",
+    "price": 149.56,
+    "currency": "EUR",
+    "url": "https://www.amazon.es/dp/B0CJCK95ZC?tag=fraym08-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T02:22:16Z",
+    "product": "Fractal Design North XL Charcoal Black Mesh- Incluye Tres Ventiladores Aspect PWM de 140 mm - Puerto USB Tipo C - Torre Completa EATX con Flujo de Aire para gabinete de PC para Juegos",
+    "image": null
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 124.99,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B0CJCK95ZC?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T02:31:49Z",
+    "product": "Fractal Design North XL Charcoal Black Mesh- Boîtier PC Gaming Grande Tour EATX à Flux d'air – Trois Ventilateurs Aspect PWM de 140 mm Inclus – Port USB Type-C.",
+    "image": null
+   },
+   {
     "shop": "amazon.com",
     "price": 194.99,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0CJCK95ZC?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:37:54Z",
+    "lastSeen": "2026-11-25T02:35:50Z",
     "product": "Fractal Design North XL Charcoal Black : Electronics",
     "image": null
    }
   ],
   "image": "images/cases-fractal-north-xl.jpg",
-  "lastUpdated": "2026-11-24T17:37:54Z"
+  "lastUpdated": "2026-11-25T02:35:50Z"
  },
  {
   "id": "fractal-meshify-2-compact",
@@ -2974,16 +2964,6 @@
   "priceMin": 115.8,
   "prices": [
    {
-    "shop": "amazon.co.uk",
-    "price": 129.16,
-    "currency": "GBP",
-    "url": "https://www.amazon.co.uk/dp/B08146JLXK?tag=fraym0a-21",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:53:07Z",
-    "product": "Fractal Design Define 7 Black Brushed Aluminum/Steel E-ATX Silent Modular Mid Tower Computer Case",
-    "image": null
-   },
-   {
     "shop": "morele.net",
     "price": 497.95,
     "currency": "PLN",
@@ -3034,18 +3014,28 @@
     "image": null
    },
    {
+    "shop": "amazon.co.uk",
+    "price": 128.07,
+    "currency": "GBP",
+    "url": "https://www.amazon.co.uk/dp/B08146JLXK?tag=fraym0a-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T02:21:49Z",
+    "product": "Fractal Design Define 7 Black Brushed Aluminum/Steel E-ATX Silent Modular Mid Tower Computer Case",
+    "image": null
+   },
+   {
     "shop": "amazon.com",
-    "price": 195.03,
+    "price": 195.97,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B08146JLXK?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:35:18Z",
+    "lastSeen": "2026-11-25T02:33:32Z",
     "product": "Fractal Design Define 7 Black Solid Brushed Aluminum/Steel E-ATX Silent Modular Mid Tower Computer Case : Electronics",
     "image": null
    }
   ],
   "image": "images/cases-fractal-define-7.jpg",
-  "lastUpdated": "2026-11-24T17:35:18Z"
+  "lastUpdated": "2026-11-25T02:33:32Z"
  },
  {
   "id": "fractal-pop-xl-air",
@@ -3445,7 +3435,7 @@
  {
   "id": "corsair-3500x",
   "name": "Corsair 3500X ARGB",
-  "priceMin": 52.49,
+  "priceMin": 78.22,
   "prices": [
    {
     "shop": "canadacomputers.com",
@@ -3508,16 +3498,6 @@
     "image": "https://ccimg.canadacomputers.com/Products/800x800/213/5594/271406/16083.jpg"
    },
    {
-    "shop": "amazon.de",
-    "price": 52.93,
-    "currency": "EUR",
-    "url": "https://www.amazon.de/dp/B0FJ2Y9GK1?tag=fraym03-21",
-    "inStock": true,
-    "lastSeen": "2026-11-23T05:49:40Z",
-    "product": "CORSAIR 3500X RS-R ARGB Panoramaglas Mid-Tower-PC-Gehäuse – Weiß | 3 x RS120-R ARGB-Lüfter Inklusive, Geeignet für bis zu 10 x 120-mm-Lüfter, Kompatibel mit Back-Connect-Motherboards",
-    "image": null
-   },
-   {
     "shop": "ldlc.com",
     "price": 189.95,
     "currency": "EUR",
@@ -3568,16 +3548,6 @@
     "image": "https://images.morele.net/i256/15591762_0_i256.jpg"
    },
    {
-    "shop": "amazon.fr",
-    "price": 52.49,
-    "currency": "EUR",
-    "url": "https://www.amazon.fr/dp/B0FJ2Y9GK1?tag=fraym-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T04:23:32Z",
-    "product": "CORSAIR 3500X RS-R ARGB Boîtier PC Mi-Tour avec Vitre Panoramique – Blanc | 3 Ventilateurs RS120-R ARGB Préinstallés, Système de Fixation InfiniRail, Compatible une Carte mère à Connexion Inversée",
-    "image": null
-   },
-   {
     "shop": "materiel.net",
     "price": 139.95,
     "currency": "EUR",
@@ -3596,16 +3566,6 @@
     "lastSeen": "2026-11-24T16:56:35Z",
     "product": "Corsair 3500X iCUE LINK ARGB - Noir",
     "image": "https://media.materiel.net/r250/products/MN0006157574.jpg"
-   },
-   {
-    "shop": "amazon.es",
-    "price": 61.33,
-    "currency": "EUR",
-    "url": "https://www.amazon.es/dp/B0FJ2Y9GK1?tag=fraym08-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T17:30:07Z",
-    "product": "CORSAIR 3500X RS-R ARGB Caja de PC Semitorre con Panel de Cristal Panorámico – 3X RS120-R ARGB Incluidos, Puede Incluir hasta 10 Ventiladores de 120mm, Compatible con Placas Base Inversas – Blanco",
-    "image": null
    }
   ],
   "image": "images/cases-corsair-3500x.jpg",
@@ -3801,13 +3761,13 @@
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B0C597FL85?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:34:42Z",
+    "lastSeen": "2026-11-25T02:33:08Z",
     "product": "be quiet! Shadow Base 800 FX White ATX Midi Tower Gaming Caja PC, ARGB | 4 Ventiladores ARGB preinstalados, Diseño Mesh de Alto Flujo de Aire, Hub PWM y ARGB Integrado, Panel I/O Moderno",
     "image": null
    }
   ],
   "image": "images/cases-be-quiet-shadow-base-800-fx.jpg",
-  "lastUpdated": "2026-11-24T17:34:42Z"
+  "lastUpdated": "2026-11-25T02:33:08Z"
  },
  {
   "id": "be-quiet-light-base-600-lx",
@@ -3870,13 +3830,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0D73R2CGN?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:37:47Z",
+    "lastSeen": "2026-11-25T02:35:43Z",
     "product": "be quiet! Light Base 600 LX Black PC Case, Fully Windowed Front and Side | Dual Chamber, ARGB LED Strip, Mid Tower, 4 Light Wings LX 120mm PWM Fans, Inverted and Horizontal Layout Customizable : Electronics",
     "image": null
    }
   ],
   "image": "images/cases-be-quiet-light-base-600-lx.jpg",
-  "lastUpdated": "2026-11-24T17:37:47Z"
+  "lastUpdated": "2026-11-25T02:35:43Z"
  },
  {
   "id": "montech-king-95",
@@ -4072,16 +4032,6 @@
     "image": "https://images.morele.net/i256/12801291_1_i256.jpg"
    },
    {
-    "shop": "amazon.it",
-    "price": 53.27,
-    "currency": "EUR",
-    "url": "https://www.amazon.it/dp/B0B7F8C35R?tag=fraym06-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T04:24:09Z",
-    "product": "ASUS PRIME AP201 CASE MESH, Case MicroATX Nero, Pannelli Laterali Mesh | 33 Litri, Montaggio Tool-Free e Mesh quasi Filtrante, Supporto per Dissipatori fino a 360mm e Schede Grafiche fino a 338 mm",
-    "image": null
-   },
-   {
     "shop": "amazon.de",
     "price": 44.45,
     "currency": "EUR",
@@ -4089,16 +4039,6 @@
     "inStock": true,
     "lastSeen": "2026-11-24T17:24:35Z",
     "product": "ASUS Prime AP201 MicroATX Gehäuse schwarz | 33 Liter, unterstützt 280- & 360-mm-Kühler, Grafikkarten bis 338 mm Länge und Standard-ATX-Netzteile",
-    "image": null
-   },
-   {
-    "shop": "amazon.es",
-    "price": 49.58,
-    "currency": "EUR",
-    "url": "https://www.amazon.es/dp/B0B7F8C35R?tag=fraym08-21",
-    "inStock": true,
-    "lastSeen": "2026-11-24T17:26:18Z",
-    "product": "ASUS Prime AP201 - Caja para PC Micro-ATX - Negra",
     "image": null
    },
    {
@@ -4110,10 +4050,30 @@
     "lastSeen": "2026-11-24T17:26:21Z",
     "product": "Boîtier ASUS Prime AP201 - MicroATX, Support radiateur 360 mm, Carte Graphique 338 mm, Panneaux Mesh Quasi-filtrants, Panneaux latéraux sans Outil, USB 3.2 Gen 2 Type-C Avant",
     "image": null
+   },
+   {
+    "shop": "amazon.it",
+    "price": 53.27,
+    "currency": "EUR",
+    "url": "https://www.amazon.it/dp/B0B7F8C35R?tag=fraym06-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T02:24:22Z",
+    "product": "ASUS PRIME AP201 CASE MESH, Case MicroATX Nero, Pannelli Laterali Mesh | 33 Litri, Montaggio Tool-Free e Mesh quasi Filtrante, Supporto per Dissipatori fino a 360mm e Schede Grafiche fino a 338 mm",
+    "image": null
+   },
+   {
+    "shop": "amazon.es",
+    "price": 49.58,
+    "currency": "EUR",
+    "url": "https://www.amazon.es/dp/B0B7F8C35R?tag=fraym08-21",
+    "inStock": true,
+    "lastSeen": "2026-11-25T02:27:01Z",
+    "product": "ASUS Prime AP201 - Caja para PC Micro-ATX - Negra",
+    "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-24T17:26:21Z"
+  "lastUpdated": "2026-11-25T02:27:01Z"
  },
  {
   "id": "hyte-y70",
@@ -4564,13 +4524,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B086YSG1RW?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:32:42Z",
+    "lastSeen": "2026-11-25T02:31:10Z",
     "product": "Phanteks Eclipse G400A DRGB White 4 Fans PH-EC400GA_DMW01 : Clothing, Shoes & Jewelry",
     "image": null
    }
   ],
   "image": "images/cases-phanteks-g400a.jpg",
-  "lastUpdated": "2026-11-24T17:32:42Z"
+  "lastUpdated": "2026-11-25T02:31:10Z"
  },
  {
   "id": "cooler-master-td500-mesh",
@@ -4603,13 +4563,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0BN4779ZH?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:35:17Z",
+    "lastSeen": "2026-11-25T02:33:30Z",
     "product": "Cooler Master MasterBox TD500 Mesh V2 - E-ATX Mid-Tower PC Case with Tessellated Mesh, 3 x 120mm Pre-Installed ARGB Fans, Removable Top Panel, Tempered Glass Side Panel, USB Type-C 10Gbps - White : Electronics",
     "image": null
    }
   ],
   "image": "images/cases-cooler-master-td500-mesh.jpg",
-  "lastUpdated": "2026-11-24T17:35:17Z"
+  "lastUpdated": "2026-11-25T02:33:30Z"
  },
  {
   "id": "be-quiet-pure-base-500-fx",
@@ -4895,12 +4855,12 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0CQ5CHKRB?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-24T17:32:40Z",
+    "lastSeen": "2026-11-25T02:31:07Z",
     "product": "CORSAIR 6500D Airflow Mid-Tower ATX Dual Chamber PC Case – Tempered Glass – Reverse Connection Motherboard Compatible – No Fans Included – White : CDs & Vinyl",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-24T17:32:40Z"
+  "lastUpdated": "2026-11-25T02:31:07Z"
  }
 ]

@@ -13,46 +13,6 @@
   "priceMin": 16.66,
   "prices": [
    {
-    "shop": "ldlc.com",
-    "price": 24.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00711726.html",
-    "inStock": true,
-    "lastSeen": "2026-11-25T16:44:37Z",
-    "product": "Cooler Master Hyper 212 Spectrum V3",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/29/20/LD0006292025.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 26.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00579435.html",
-    "inStock": true,
-    "lastSeen": "2026-11-25T16:44:37Z",
-    "product": "Cooler Master Hyper 212 Black",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/07/85/LD0006078521.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 27.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00714756.html",
-    "inStock": true,
-    "lastSeen": "2026-11-25T16:44:37Z",
-    "product": "Cooler Master Hyper 212 3DHP (Noir)",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/29/80/LD0006298064.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 29.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00714755.html",
-    "inStock": true,
-    "lastSeen": "2026-11-25T16:44:37Z",
-    "product": "Cooler Master Hyper 212 3DHP ARGB (Noir)",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/29/80/LD0006298047.jpg"
-   },
-   {
     "shop": "morele.net",
     "price": 74.99,
     "currency": "PLN",
@@ -143,12 +103,52 @@
     "image": "https://media.materiel.net/r250/products/MN0006110896.jpg"
    },
    {
+    "shop": "ldlc.com",
+    "price": 22.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00714756.html",
+    "inStock": true,
+    "lastSeen": "2026-11-27T01:29:44Z",
+    "product": "Cooler Master Hyper 212 3DHP (Noir)",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/29/80/LD0006298064.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 24.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00711726.html",
+    "inStock": true,
+    "lastSeen": "2026-11-27T01:29:44Z",
+    "product": "Cooler Master Hyper 212 Spectrum V3",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/29/20/LD0006292025.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 24.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00714755.html",
+    "inStock": true,
+    "lastSeen": "2026-11-27T01:29:44Z",
+    "product": "Cooler Master Hyper 212 3DHP ARGB (Noir)",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/29/80/LD0006298047.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 26.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00579435.html",
+    "inStock": true,
+    "lastSeen": "2026-11-27T01:29:44Z",
+    "product": "Cooler Master Hyper 212 Black",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/07/85/LD0006078521.jpg"
+   },
+   {
     "shop": "amazon.fr",
     "price": 16.66,
     "currency": "EUR",
     "url": "https://www.amazon.fr/dp/B0CGJ1J5KL?tag=fraym-21",
     "inStock": true,
-    "lastSeen": "2026-11-26T16:54:24Z",
+    "lastSeen": "2026-11-27T02:00:33Z",
     "product": "Cooler Master Hyper 212 Black Refroidisseur CPU Ventirad - Finition Aluminium, 4 Caloducs Compacts à Contact Direct Continu, Ventilateur SickleFlow 120 Edge, Brackets LGA1700 & AM5 - Noir",
     "image": null
    },
@@ -158,39 +158,19 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0CGJ1J5KL?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-26T16:59:44Z",
+    "lastSeen": "2026-11-27T02:04:56Z",
     "product": "Cooler Master Hyper 212 Black CPU Air Cooler - Aluminium Finish, 4 Compact Continuous Direct Contact Heat Pipes, SickleFlow 120 Edge Fan, LGA1700 & AM5 Brackets - Black : Electronics",
     "image": null
    }
   ],
   "image": "images/coolers-cooler-master-hyper-212.jpg",
-  "lastUpdated": "2026-11-26T16:59:44Z"
+  "lastUpdated": "2026-11-27T02:04:56Z"
  },
  {
   "id": "thermalright-assassin-x120-r",
   "name": "Thermalright Assassin X120 R",
   "priceMin": 18.37,
   "prices": [
-   {
-    "shop": "ldlc.com",
-    "price": 31.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00674825.html",
-    "inStock": true,
-    "lastSeen": "2026-11-25T16:44:37Z",
-    "product": "Thermalright Assassin X 120 R Digital ARGB - Noir",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/23/15/LD0006231583.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 31.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00674823.html",
-    "inStock": true,
-    "lastSeen": "2026-11-25T16:44:37Z",
-    "product": "Thermalright Assassin X 120 R Digital ARGB - Blanc",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/23/15/LD0006231563.jpg"
-   },
    {
     "shop": "morele.net",
     "price": 79.0,
@@ -260,36 +240,36 @@
     "lastSeen": "2026-11-26T16:17:43Z",
     "product": "Thermalright Assassin X 120 R Digital ARGB - Blanc",
     "image": "https://media.materiel.net/r250/products/MN0006295145.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 31.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00674825.html",
+    "inStock": true,
+    "lastSeen": "2026-11-27T01:29:44Z",
+    "product": "Thermalright Assassin X 120 R Digital ARGB - Noir",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/23/15/LD0006231583.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 31.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00674823.html",
+    "inStock": true,
+    "lastSeen": "2026-11-27T01:29:44Z",
+    "product": "Thermalright Assassin X 120 R Digital ARGB - Blanc",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/23/15/LD0006231563.jpg"
    }
   ],
   "image": "images/coolers-thermalright-assassin-x120-r.jpg",
-  "lastUpdated": "2026-11-26T16:17:43Z"
+  "lastUpdated": "2026-11-27T01:29:44Z"
  },
  {
   "id": "thermalright-peerless-assassin-120",
   "name": "Thermalright Peerless Assassin 120",
   "priceMin": 44.37,
   "prices": [
-   {
-    "shop": "ldlc.com",
-    "price": 69.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00729528.html",
-    "inStock": false,
-    "lastSeen": "2026-11-25T16:44:37Z",
-    "product": "Thermalright Peerless Assassin 120 Vision ARGB White",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/32/77/LD0006327761.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 69.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00729525.html",
-    "inStock": false,
-    "lastSeen": "2026-11-25T16:44:37Z",
-    "product": "Thermalright Peerless Assassin 120 Vision ARGB Black",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/32/77/LD0006327751.jpg"
-   },
    {
     "shop": "morele.net",
     "price": 190.81,
@@ -379,10 +359,30 @@
     "lastSeen": "2026-11-26T16:55:11Z",
     "product": "Thermalright Peerless Assassin 120 Refroidisseur d'air CPU 6 caloducs Double ventilateur TL-C12 PWM 120 mm Couvercle de dissipateur thermique en aluminium Technologie AGHP pour AMD AM4/AM5 Intel LGA",
     "image": null
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 69.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00729528.html",
+    "inStock": false,
+    "lastSeen": "2026-11-27T01:29:44Z",
+    "product": "Thermalright Peerless Assassin 120 Vision ARGB White",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/32/77/LD0006327761.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 69.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00729525.html",
+    "inStock": false,
+    "lastSeen": "2026-11-27T01:29:44Z",
+    "product": "Thermalright Peerless Assassin 120 Vision ARGB Black",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/32/77/LD0006327751.jpg"
    }
   ],
   "image": "images/coolers-thermalright-peerless-assassin-120.jpg",
-  "lastUpdated": "2026-11-26T16:55:11Z"
+  "lastUpdated": "2026-11-27T01:29:44Z"
  },
  {
   "id": "thermalright-phantom-spirit-120-se",
@@ -405,7 +405,7 @@
     "currency": "EUR",
     "url": "https://www.amazon.fr/dp/B0D976HB8D?tag=fraym-21",
     "inStock": true,
-    "lastSeen": "2026-11-26T16:55:00Z",
+    "lastSeen": "2026-11-27T02:01:08Z",
     "product": "Thermalright Phantom Spirit 120 SE Noir Refroidisseur d'air pour processeur, double ventilateur et double tour, 154 mm de haut pour AMD : AM4/AM5, Intel 1150/1151/1200/1851/1700 (PS120 SE noir)",
     "image": null
    },
@@ -415,89 +415,19 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0D976HB8D?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-26T16:59:47Z",
+    "lastSeen": "2026-11-27T02:05:00Z",
     "product": "Thermalright Phantom Spirit 120 SE Black CPU Air Cooler,Doubler CPU Fans and Double Towers,154mm High CPU Cooler,for AMD:AM4/AM5,Intel 1150/1151/1200/1851/1700(PS120 SE Black) : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-26T16:59:47Z"
+  "lastUpdated": "2026-11-27T02:05:00Z"
  },
  {
   "id": "arctic-freezer-36",
   "name": "Arctic Freezer 36",
   "priceMin": 13.51,
   "prices": [
-   {
-    "shop": "ldlc.com",
-    "price": 29.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00745159.html",
-    "inStock": true,
-    "lastSeen": "2026-11-25T16:44:37Z",
-    "product": "Arctic Freezer 36-S (Argent/Noir)",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/35/30/LD0006353013.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 34.75,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00745160.html",
-    "inStock": true,
-    "lastSeen": "2026-11-25T16:44:37Z",
-    "product": "Arctic Freezer 36-S (Noir)",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/35/30/LD0006353018.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 34.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00606846.html",
-    "inStock": true,
-    "lastSeen": "2026-11-25T16:44:37Z",
-    "product": "Arctic Freezer 36 Black",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/12/04/LD0006120447.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 39.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00606845.html",
-    "inStock": true,
-    "lastSeen": "2026-11-25T16:44:37Z",
-    "product": "Arctic Freezer 36",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/12/04/LD0006120439.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 39.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00745162.html",
-    "inStock": true,
-    "lastSeen": "2026-11-25T16:44:37Z",
-    "product": "Arctic Freezer 36-S A-RGB (Noir)",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/35/30/LD0006353032.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 39.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00745163.html",
-    "inStock": true,
-    "lastSeen": "2026-11-25T16:44:37Z",
-    "product": "Arctic Freezer 36-S A-RGB (Blanc)",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/35/30/LD0006353037.jpg"
-   },
-   {
-    "shop": "amazon.com",
-    "price": 14.59,
-    "currency": "USD",
-    "url": "https://www.amazon.com/dp/B09VG6NBSJ?tag=fraym-20",
-    "inStock": true,
-    "lastSeen": "2026-11-25T17:39:06Z",
-    "product": "ARCTIC Freezer 36 - Single-Tower CPU Cooler with Push-Pull | Two Pressure-optimised 120 mm P-Fans, Fluid Dynamic Bearing, 200-1800 rpm, 4 Heatpipes, incl. MX-6 Thermal Compound - Black : Electronics",
-    "image": null
-   },
    {
     "shop": "morele.net",
     "price": 77.19,
@@ -627,10 +557,80 @@
     "lastSeen": "2026-11-26T16:17:43Z",
     "product": "Arctic Freezer 36-S A-RGB - Blanc",
     "image": "https://media.materiel.net/r250/products/MN0006353608.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 29.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00745159.html",
+    "inStock": true,
+    "lastSeen": "2026-11-27T01:29:44Z",
+    "product": "Arctic Freezer 36-S (Argent/Noir)",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/35/30/LD0006353013.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 34.75,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00745160.html",
+    "inStock": true,
+    "lastSeen": "2026-11-27T01:29:44Z",
+    "product": "Arctic Freezer 36-S (Noir)",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/35/30/LD0006353018.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 34.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00606846.html",
+    "inStock": true,
+    "lastSeen": "2026-11-27T01:29:44Z",
+    "product": "Arctic Freezer 36 Black",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/12/04/LD0006120447.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 39.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00606845.html",
+    "inStock": true,
+    "lastSeen": "2026-11-27T01:29:44Z",
+    "product": "Arctic Freezer 36",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/12/04/LD0006120439.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 39.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00745162.html",
+    "inStock": true,
+    "lastSeen": "2026-11-27T01:29:44Z",
+    "product": "Arctic Freezer 36-S A-RGB (Noir)",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/35/30/LD0006353032.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 39.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00745163.html",
+    "inStock": true,
+    "lastSeen": "2026-11-27T01:29:44Z",
+    "product": "Arctic Freezer 36-S A-RGB (Blanc)",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/35/30/LD0006353037.jpg"
+   },
+   {
+    "shop": "amazon.com",
+    "price": 14.59,
+    "currency": "USD",
+    "url": "https://www.amazon.com/dp/B09VG6NBSJ?tag=fraym-20",
+    "inStock": true,
+    "lastSeen": "2026-11-27T01:53:35Z",
+    "product": "ARCTIC Freezer 36 - Single-Tower CPU Cooler with Push-Pull | Two Pressure-optimised 120 mm P-Fans, Fluid Dynamic Bearing, 200-1800 rpm, 4 Heatpipes, incl. MX-6 Thermal Compound - Black : Electronics",
+    "image": null
    }
   ],
   "image": "images/coolers-arctic-freezer-36.jpg",
-  "lastUpdated": "2026-11-26T16:17:43Z"
+  "lastUpdated": "2026-11-27T01:53:35Z"
  },
  {
   "id": "deepcool-ak400",
@@ -821,16 +821,6 @@
   "priceMin": 55.51,
   "prices": [
    {
-    "shop": "ldlc.com",
-    "price": 66.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00433276.html",
-    "inStock": true,
-    "lastSeen": "2026-11-25T16:44:37Z",
-    "product": "Noctua NH-U12S Redux",
-    "image": "https://media.ldlc.com/r1600/ld/products/00/05/83/34/LD0005833442_1.jpg"
-   },
-   {
     "shop": "morele.net",
     "price": 258.6,
     "currency": "PLN",
@@ -839,16 +829,6 @@
     "lastSeen": "2026-11-26T01:32:21Z",
     "product": "Chłodzenie CPU Noctua NH-U12S redux",
     "image": "https://images.morele.net/i256/8403681_0_i256.jpg"
-   },
-   {
-    "shop": "amazon.co.uk",
-    "price": 64.6,
-    "currency": "GBP",
-    "url": "https://www.amazon.co.uk/dp/B08WPDD6GD?tag=fraym0a-21",
-    "inStock": true,
-    "lastSeen": "2026-11-26T02:18:41Z",
-    "product": "Noctua NH-U12S redux, Quiet High-Performance Single Tower CPU Cooler | 158mm Height, Low-Noise Cooling, 5 Heatpipes, For Intel & AMD, 120mm Fan, 100% RAM Compatibility",
-    "image": null
    },
    {
     "shop": "materiel.net",
@@ -861,34 +841,44 @@
     "image": "https://media.materiel.net/r900/products/MN0005840616_1.jpg"
    },
    {
+    "shop": "ldlc.com",
+    "price": 66.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00433276.html",
+    "inStock": true,
+    "lastSeen": "2026-11-27T01:29:44Z",
+    "product": "Noctua NH-U12S Redux",
+    "image": "https://media.ldlc.com/r1600/ld/products/00/05/83/34/LD0005833442_1.jpg"
+   },
+   {
+    "shop": "amazon.co.uk",
+    "price": 65.46,
+    "currency": "GBP",
+    "url": "https://www.amazon.co.uk/dp/B08WPDD6GD?tag=fraym0a-21",
+    "inStock": true,
+    "lastSeen": "2026-11-27T01:55:14Z",
+    "product": "Noctua NH-U12S redux, Quiet High-Performance Single Tower CPU Cooler | 158mm Height, Low-Noise Cooling, 5 Heatpipes, For Intel & AMD, 120mm Fan, 100% RAM Compatibility",
+    "image": null
+   },
+   {
     "shop": "amazon.com",
     "price": 59.95,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B08WPDD6GD?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-26T17:04:31Z",
+    "lastSeen": "2026-11-27T02:09:33Z",
     "product": "Noctua NH-U12S redux, Quiet High-Performance Single Tower CPU Cooler | 158mm Height, Low-Noise Cooling, 5 Heatpipes, For Intel & AMD, 120mm Fan, 100% RAM Compatibility : Electronics",
     "image": null
    }
   ],
   "image": "images/coolers-noctua-nh-u12s-redux.jpg",
-  "lastUpdated": "2026-11-26T17:04:31Z"
+  "lastUpdated": "2026-11-27T02:09:33Z"
  },
  {
   "id": "noctua-nh-u12a",
   "name": "Noctua NH-U12A",
   "priceMin": 101.81,
   "prices": [
-   {
-    "shop": "ldlc.com",
-    "price": 144.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00272562.html",
-    "inStock": false,
-    "lastSeen": "2026-11-25T16:44:37Z",
-    "product": "Noctua NH-U12A",
-    "image": "https://media.ldlc.com/r1600/ld/products/00/05/33/90/LD0005339082_2.jpg"
-   },
    {
     "shop": "morele.net",
     "price": 531.99,
@@ -920,34 +910,34 @@
     "image": "https://media.materiel.net/r900/products/MN0005290367_1.jpg"
    },
    {
+    "shop": "ldlc.com",
+    "price": 144.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00272562.html",
+    "inStock": false,
+    "lastSeen": "2026-11-27T01:29:44Z",
+    "product": "Noctua NH-U12A",
+    "image": "https://media.ldlc.com/r1600/ld/products/00/05/33/90/LD0005339082_2.jpg"
+   },
+   {
     "shop": "amazon.com",
     "price": 109.95,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B07PN4RDW3?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-26T17:03:05Z",
+    "lastSeen": "2026-11-27T02:08:13Z",
     "product": "Noctua NH-U12A, Quiet High-Performance Single Tower CPU Cooler | 158mm Height, High-End Low-Noise Cooling, For Intel & AMD, Dual 120mm Fans, 100% RAM Compatibility, Rich Accessory Kit : Electronics",
     "image": null
    }
   ],
   "image": "images/coolers-noctua-nh-u12a.jpg",
-  "lastUpdated": "2026-11-26T17:03:05Z"
+  "lastUpdated": "2026-11-27T02:08:13Z"
  },
  {
   "id": "noctua-nh-d15",
   "name": "Noctua NH-D15",
   "priceMin": 97.12,
   "prices": [
-   {
-    "shop": "ldlc.com",
-    "price": 134.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00168766.html",
-    "inStock": true,
-    "lastSeen": "2026-11-25T16:44:37Z",
-    "product": "Noctua NH-D15",
-    "image": "https://media.ldlc.com/r150/ld/products/00/01/59/97/LD0001599791_2.jpg"
-   },
    {
     "shop": "morele.net",
     "price": 469.0,
@@ -979,12 +969,22 @@
     "image": "https://media.materiel.net/r250/oproducts/AR201406170030_g1.jpg"
    },
    {
+    "shop": "ldlc.com",
+    "price": 134.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00168766.html",
+    "inStock": true,
+    "lastSeen": "2026-11-27T01:29:44Z",
+    "product": "Noctua NH-D15",
+    "image": "https://media.ldlc.com/r150/ld/products/00/01/59/97/LD0001599791_2.jpg"
+   },
+   {
     "shop": "amazon.fr",
     "price": 97.12,
     "currency": "EUR",
     "url": "https://www.amazon.fr/dp/B00L7UZMAK?tag=fraym-21",
     "inStock": true,
-    "lastSeen": "2026-11-26T16:59:02Z",
+    "lastSeen": "2026-11-27T02:04:38Z",
     "product": "Noctua NH-D15, Ventirad CPU Double Tour Silencieux Haute Performance | Ventirad Premium Silencieux Haut de 168mm, 6 Caloducs, pour Intel & AMD, Double Ventilateur 140mm, Kit Accessoire Complet",
     "image": null
    },
@@ -994,59 +994,19 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B00L7UZMAK?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-26T17:00:56Z",
+    "lastSeen": "2026-11-27T02:06:16Z",
     "product": "Noctua NH-D15, Quiet High-Performance Dual Tower CPU Cooler | 168mm Height, Enthusiast-Grade Low-Noise Cooling, 6 Heatpipes, For Intel & AMD, Dual 140mm Fans, Rich Accessory Kit : Electronics",
     "image": null
    }
   ],
   "image": "images/coolers-noctua-nh-d15.jpg",
-  "lastUpdated": "2026-11-26T17:00:56Z"
+  "lastUpdated": "2026-11-27T02:06:16Z"
  },
  {
   "id": "noctua-nh-d15-g2",
   "name": "Noctua NH-D15 G2",
   "priceMin": 148.1,
   "prices": [
-   {
-    "shop": "ldlc.com",
-    "price": 179.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00644070.html",
-    "inStock": true,
-    "lastSeen": "2026-11-25T16:44:37Z",
-    "product": "Noctua NH-D15 G2",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/17/13/LD0006171315.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 179.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00644082.html",
-    "inStock": true,
-    "lastSeen": "2026-11-25T16:44:37Z",
-    "product": "Noctua NH-D15 G2 LBC",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/17/14/LD0006171477.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 179.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00644078.html",
-    "inStock": true,
-    "lastSeen": "2026-11-25T16:44:37Z",
-    "product": "Noctua NH-D15 G2 HBC",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/17/14/LD0006171461.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 189.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00717971.html",
-    "inStock": true,
-    "lastSeen": "2026-11-25T16:44:37Z",
-    "product": "Noctua NH-D15 G2 Chromax Black",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/30/60/LD0006306072.jpg"
-   },
    {
     "shop": "morele.net",
     "price": 638.43,
@@ -1138,18 +1098,58 @@
     "image": null
    },
    {
+    "shop": "ldlc.com",
+    "price": 179.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00644070.html",
+    "inStock": true,
+    "lastSeen": "2026-11-27T01:29:44Z",
+    "product": "Noctua NH-D15 G2",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/17/13/LD0006171315.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 179.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00644082.html",
+    "inStock": true,
+    "lastSeen": "2026-11-27T01:29:44Z",
+    "product": "Noctua NH-D15 G2 LBC",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/17/14/LD0006171477.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 179.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00644078.html",
+    "inStock": true,
+    "lastSeen": "2026-11-27T01:29:44Z",
+    "product": "Noctua NH-D15 G2 HBC",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/17/14/LD0006171461.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 189.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00717971.html",
+    "inStock": true,
+    "lastSeen": "2026-11-27T01:29:44Z",
+    "product": "Noctua NH-D15 G2 Chromax Black",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/30/60/LD0006306072.jpg"
+   },
+   {
     "shop": "amazon.com",
     "price": 159.95,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0D5B5B821?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-26T17:03:02Z",
+    "lastSeen": "2026-11-27T02:08:10Z",
     "product": "Noctua NH-D15 G2 LBC, Quiet High-Performance Dual Tower CPU Cooler | 168mm Height, Ultimate Low-Noise Cooling, 8 Heatpipes, AMD AM5/AM4 Specific Low Base Convexity, Dual 140mm Fans : Electronics",
     "image": null
    }
   ],
   "image": "images/coolers-noctua-nh-d15-g2.jpg",
-  "lastUpdated": "2026-11-26T17:03:02Z"
+  "lastUpdated": "2026-11-27T02:08:10Z"
  },
  {
   "id": "scythe-fuma-3",
@@ -1199,13 +1199,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0CKXB56MS?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-26T17:02:57Z",
+    "lastSeen": "2026-11-27T02:08:05Z",
     "product": "ARCTIC Liquid Freezer III 280 A-RGB - Water Cooling PC, Fan: 200-1700 RPM : Industrial & Scientific",
     "image": null
    }
   ],
   "image": "images/coolers-arctic-liquid-freezer-iii-280.jpg",
-  "lastUpdated": "2026-11-26T17:02:57Z"
+  "lastUpdated": "2026-11-27T02:08:05Z"
  },
  {
   "id": "arctic-liquid-freezer-iii-360",
@@ -1520,86 +1520,6 @@
   "priceMin": 62.49,
   "prices": [
    {
-    "shop": "ldlc.com",
-    "price": 109.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00761459.html",
-    "inStock": true,
-    "lastSeen": "2026-11-25T16:44:37Z",
-    "product": "Corsair Nautilus II 360 RS (Noir)",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/39/44/LD0006394402.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 113.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00702772.html",
-    "inStock": true,
-    "lastSeen": "2026-11-25T16:44:37Z",
-    "product": "Corsair Nautilus 360 RS (Noir)",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/19/15/LD0006191537.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 119.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00655546.html",
-    "inStock": true,
-    "lastSeen": "2026-11-25T16:44:37Z",
-    "product": "Corsair Nautilus 360 RS (Noir)",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/19/15/LD0006191537.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 119.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00761444.html",
-    "inStock": true,
-    "lastSeen": "2026-11-25T16:44:37Z",
-    "product": "Corsair Nautilus II 360 RS ARGB (Blanc)",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/39/42/LD0006394293.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 119.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00754841.html",
-    "inStock": true,
-    "lastSeen": "2026-11-25T16:44:37Z",
-    "product": "Corsair Nautilus II 360 RS ARGB (Noir)",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/37/94/LD0006379479.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 129.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00655542.html",
-    "inStock": true,
-    "lastSeen": "2026-11-25T16:44:37Z",
-    "product": "Corsair Nautilus 360 RS ARGB (Noir)",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/19/14/LD0006191490.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 139.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00655543.html",
-    "inStock": true,
-    "lastSeen": "2026-11-25T16:44:37Z",
-    "product": "Corsair Nautilus 360 RS ARGB (Blanc)",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/19/15/LD0006191504.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 159.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00706140.html",
-    "inStock": true,
-    "lastSeen": "2026-11-25T16:44:37Z",
-    "product": "Corsair Nautilus 360 RS LCD (Noir)",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/28/12/LD0006281246.jpg"
-   },
-   {
     "shop": "morele.net",
     "price": 518.75,
     "currency": "PLN",
@@ -1648,16 +1568,6 @@
     "lastSeen": "2026-11-26T01:32:21Z",
     "product": "Chłodzenie wodne Corsair Nautilus 360 RS (CW-9060089-WW)",
     "image": "https://images.morele.net/i256/14386403_1_i256.jpg"
-   },
-   {
-    "shop": "amazon.fr",
-    "price": 62.49,
-    "currency": "EUR",
-    "url": "https://www.amazon.fr/dp/B0DF7G8JFP?tag=fraym-21",
-    "inStock": true,
-    "lastSeen": "2026-11-26T02:19:07Z",
-    "product": "CORSAIR NAUTILUS 360 RS ARGB Refroidisseur Liquide pour CPU – Blanc | 360mm AIO, Faible Bruit, Connexion Directe de Carte Mère, Intel LGA 1851/1700, AMD AM5/AM4, 3x RS120 ARGB Ventilateurs Inclus",
-    "image": null
    },
    {
     "shop": "materiel.net",
@@ -1738,10 +1648,100 @@
     "lastSeen": "2026-11-26T16:17:43Z",
     "product": "Corsair Nautilus 360 RS LCD - Noir",
     "image": "https://media.materiel.net/r250/products/MN0006281309.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 109.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00761459.html",
+    "inStock": true,
+    "lastSeen": "2026-11-27T01:29:44Z",
+    "product": "Corsair Nautilus II 360 RS (Noir)",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/39/44/LD0006394402.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 113.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00702772.html",
+    "inStock": true,
+    "lastSeen": "2026-11-27T01:29:44Z",
+    "product": "Corsair Nautilus 360 RS (Noir)",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/19/15/LD0006191537.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 119.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00655546.html",
+    "inStock": true,
+    "lastSeen": "2026-11-27T01:29:44Z",
+    "product": "Corsair Nautilus 360 RS (Noir)",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/19/15/LD0006191537.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 119.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00761444.html",
+    "inStock": true,
+    "lastSeen": "2026-11-27T01:29:44Z",
+    "product": "Corsair Nautilus II 360 RS ARGB (Blanc)",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/39/42/LD0006394293.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 119.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00754841.html",
+    "inStock": true,
+    "lastSeen": "2026-11-27T01:29:44Z",
+    "product": "Corsair Nautilus II 360 RS ARGB (Noir)",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/37/94/LD0006379479.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 129.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00655542.html",
+    "inStock": true,
+    "lastSeen": "2026-11-27T01:29:44Z",
+    "product": "Corsair Nautilus 360 RS ARGB (Noir)",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/19/14/LD0006191490.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 139.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00655543.html",
+    "inStock": true,
+    "lastSeen": "2026-11-27T01:29:44Z",
+    "product": "Corsair Nautilus 360 RS ARGB (Blanc)",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/19/15/LD0006191504.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 159.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00706140.html",
+    "inStock": true,
+    "lastSeen": "2026-11-27T01:29:44Z",
+    "product": "Corsair Nautilus 360 RS LCD (Noir)",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/28/12/LD0006281246.jpg"
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 62.49,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B0DF7G8JFP?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-27T01:54:50Z",
+    "product": "CORSAIR NAUTILUS 360 RS ARGB Refroidisseur Liquide pour CPU – Blanc | 360mm AIO, Faible Bruit, Connexion Directe de Carte Mère, Intel LGA 1851/1700, AMD AM5/AM4, 3x RS120 ARGB Ventilateurs Inclus",
+    "image": null
    }
   ],
   "image": "images/coolers-corsair-nautilus-360-rs.jpg",
-  "lastUpdated": "2026-11-26T16:17:43Z"
+  "lastUpdated": "2026-11-27T01:54:50Z"
  },
  {
   "id": "be-quiet-pure-loop-2-fx-280",
@@ -1764,13 +1764,13 @@
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B0B7NYH5RD?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-26T16:58:52Z",
+    "lastSeen": "2026-11-27T02:04:05Z",
     "product": "be quiet! Pure Loop 2 FX 280mm, refrigeración por agua todo en uno, 2 ventiladores Light Wings 140mm PWM de alta velocidad, 20 LEDs ARGB, bloque de refrigeración iluminado, hub ARGB PWM",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-26T16:58:52Z"
+  "lastUpdated": "2026-11-27T02:04:05Z"
  },
  {
   "id": "noctua-nh-d15s",
@@ -1803,49 +1803,19 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B08HM3X5ZV?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-26T17:01:33Z",
+    "lastSeen": "2026-11-27T02:06:50Z",
     "product": "Noctua NH-D15S chromax.Black, Quiet High-Performance CPU Cooler | 160mm Height, Low-Noise Cooling, 6 Heatpipes, For Intel & AMD, Dual 140mm Fans, High RAM Compatibility, Rich Accessory Kit : Electronics",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-26T17:01:33Z"
+  "lastUpdated": "2026-11-27T02:06:50Z"
  },
  {
   "id": "noctua-nh-u14s",
   "name": "Noctua NH-U14S",
   "priceMin": 83.29,
   "prices": [
-   {
-    "shop": "ldlc.com",
-    "price": 109.96,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00146613.html",
-    "inStock": true,
-    "lastSeen": "2026-11-25T16:44:37Z",
-    "product": "Noctua NH-U14S",
-    "image": "https://media.ldlc.com/r150/ld/products/00/01/27/38/LD0001273839_2.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 124.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00558922.html",
-    "inStock": true,
-    "lastSeen": "2026-11-25T16:44:37Z",
-    "product": "Noctua NH-U14S DX-4189",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/04/60/LD0006046018.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 157.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00617107.html",
-    "inStock": true,
-    "lastSeen": "2026-11-25T16:44:37Z",
-    "product": "Noctua NH-U14S TR5-SP6",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/14/17/LD0006141787.jpg"
-   },
    {
     "shop": "morele.net",
     "price": 393.62,
@@ -1907,34 +1877,54 @@
     "image": "https://media.materiel.net/r250/products/MN0006227038.jpg"
    },
    {
+    "shop": "ldlc.com",
+    "price": 109.96,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00146613.html",
+    "inStock": true,
+    "lastSeen": "2026-11-27T01:29:44Z",
+    "product": "Noctua NH-U14S",
+    "image": "https://media.ldlc.com/r150/ld/products/00/01/27/38/LD0001273839_2.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 124.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00558922.html",
+    "inStock": true,
+    "lastSeen": "2026-11-27T01:29:44Z",
+    "product": "Noctua NH-U14S DX-4189",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/04/60/LD0006046018.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 157.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00617107.html",
+    "inStock": true,
+    "lastSeen": "2026-11-27T01:29:44Z",
+    "product": "Noctua NH-U14S TR5-SP6",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/14/17/LD0006141787.jpg"
+   },
+   {
     "shop": "amazon.com",
     "price": 89.95,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B00C9FLSLY?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-26T16:58:32Z",
+    "lastSeen": "2026-11-27T02:03:39Z",
     "product": "Noctua NH-U14S, Quiet High-Performance Tower CPU Cooler 140mm Brown | 165mm Height, HighEnd Low-Noise Cooling, 6 Heatpipes, For Intel & AMD, 140mm Fan, Good RAM Compatibility, Rich Accessory Kit : Electronics",
     "image": null
    }
   ],
   "image": "images/coolers-noctua-nh-u14s.jpg",
-  "lastUpdated": "2026-11-26T16:58:32Z"
+  "lastUpdated": "2026-11-27T02:03:39Z"
  },
  {
   "id": "noctua-nh-l12s",
   "name": "Noctua NH-L12S",
   "priceMin": 69.4,
   "prices": [
-   {
-    "shop": "ldlc.com",
-    "price": 86.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00241391.html",
-    "inStock": true,
-    "lastSeen": "2026-11-25T16:44:37Z",
-    "product": "Noctua NH-L12S",
-    "image": "https://media.ldlc.com/r1600/ld/products/00/04/72/03/LD0004720358_2.jpg"
-   },
    {
     "shop": "morele.net",
     "price": 299.0,
@@ -1956,12 +1946,22 @@
     "image": "https://media.materiel.net/r900/oproducts/AR201712040068_g1.jpg"
    },
    {
+    "shop": "ldlc.com",
+    "price": 86.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00241391.html",
+    "inStock": true,
+    "lastSeen": "2026-11-27T01:29:44Z",
+    "product": "Noctua NH-L12S",
+    "image": "https://media.ldlc.com/r1600/ld/products/00/04/72/03/LD0004720358_2.jpg"
+   },
+   {
     "shop": "amazon.co.uk",
     "price": 70.52,
     "currency": "GBP",
     "url": "https://www.amazon.co.uk/dp/B075SF5QQ8?tag=fraym0a-21",
     "inStock": true,
-    "lastSeen": "2026-11-26T16:53:45Z",
+    "lastSeen": "2026-11-27T02:00:24Z",
     "product": "Noctua NH-L12S, Quiet High-Performance Low-Profile CPU Cooler | 70mm Height, ITX SFF Low-Noise Cooling, 4 Heatpipes, For Intel & AMD, 120mm Slim Fan, Rich Accessory Kit",
     "image": null
    },
@@ -1971,39 +1971,19 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B075SF5QQ8?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-26T16:58:48Z",
+    "lastSeen": "2026-11-27T02:03:57Z",
     "product": "Noctua NH-L12S, Quiet High-Performance Low-Profile CPU Cooler | 70mm Height, ITX SFF Low-Noise Cooling, 4 Heatpipes, For Intel & AMD, 120mm Slim Fan, Rich Accessory Kit : Noctua: Electronics",
     "image": null
    }
   ],
   "image": "images/coolers-noctua-nh-l12s.jpg",
-  "lastUpdated": "2026-11-26T16:58:48Z"
+  "lastUpdated": "2026-11-27T02:03:57Z"
  },
  {
   "id": "be-quiet-dark-rock-elite",
   "name": "be quiet! Dark Rock Elite",
   "priceMin": 83.49,
   "prices": [
-   {
-    "shop": "ldlc.com",
-    "price": 85.45,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00592918.html",
-    "inStock": true,
-    "lastSeen": "2026-11-25T16:44:37Z",
-    "product": "be quiet! Dark Rock Elite",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/07/42/LD0006074253.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 89.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00576701.html",
-    "inStock": true,
-    "lastSeen": "2026-11-25T16:44:37Z",
-    "product": "be quiet! Dark Rock Elite",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/07/42/LD0006074253.jpg"
-   },
    {
     "shop": "morele.net",
     "price": 359.0,
@@ -2033,10 +2013,30 @@
     "lastSeen": "2026-11-26T16:17:43Z",
     "product": "be quiet! Dark Rock Elite - Noir",
     "image": "https://media.materiel.net/r250/products/MN0006074353.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 85.45,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00592918.html",
+    "inStock": true,
+    "lastSeen": "2026-11-27T01:29:44Z",
+    "product": "be quiet! Dark Rock Elite",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/07/42/LD0006074253.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 89.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00576701.html",
+    "inStock": true,
+    "lastSeen": "2026-11-27T01:29:44Z",
+    "product": "be quiet! Dark Rock Elite",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/07/42/LD0006074253.jpg"
    }
   ],
   "image": "images/coolers-be-quiet-dark-rock-elite.jpg",
-  "lastUpdated": "2026-11-26T16:17:43Z"
+  "lastUpdated": "2026-11-27T01:29:44Z"
  },
  {
   "id": "be-quiet-dark-rock-pro-4",
@@ -2168,36 +2168,6 @@
   "priceMin": 79.95,
   "prices": [
    {
-    "shop": "ldlc.com",
-    "price": 79.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00643981.html",
-    "inStock": true,
-    "lastSeen": "2026-11-25T16:44:37Z",
-    "product": "Thermalright Frost Commander 140",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/17/07/LD0006170715.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 79.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00650360.html",
-    "inStock": false,
-    "lastSeen": "2026-11-25T16:44:37Z",
-    "product": "Thermalright Frost Commander 140 Noir",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/18/03/LD0006180365.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 79.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00650361.html",
-    "inStock": false,
-    "lastSeen": "2026-11-25T16:44:37Z",
-    "product": "Thermalright Frost Commander 140 Blanc",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/18/03/LD0006180370.jpg"
-   },
-   {
     "shop": "morele.net",
     "price": 382.48,
     "currency": "PLN",
@@ -2246,10 +2216,40 @@
     "lastSeen": "2026-11-26T16:17:43Z",
     "product": "Thermalright Frost Commander 140 - Blanc",
     "image": "https://media.materiel.net/r250/products/MN0006185360.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 79.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00643981.html",
+    "inStock": true,
+    "lastSeen": "2026-11-27T01:29:44Z",
+    "product": "Thermalright Frost Commander 140",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/17/07/LD0006170715.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 79.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00650360.html",
+    "inStock": false,
+    "lastSeen": "2026-11-27T01:29:44Z",
+    "product": "Thermalright Frost Commander 140 Noir",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/18/03/LD0006180365.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 79.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00650361.html",
+    "inStock": false,
+    "lastSeen": "2026-11-27T01:29:44Z",
+    "product": "Thermalright Frost Commander 140 Blanc",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/18/03/LD0006180370.jpg"
    }
   ],
   "image": "images/coolers-thermalright-frost-commander-140.jpg",
-  "lastUpdated": "2026-11-26T16:17:43Z"
+  "lastUpdated": "2026-11-27T01:29:44Z"
  },
  {
   "id": "thermalright-assassin-king-120-se",
@@ -2262,7 +2262,7 @@
  {
   "id": "cooler-master-hyper-212-halo",
   "name": "Cooler Master Hyper 212 Halo",
-  "priceMin": 27.71,
+  "priceMin": 27.23,
   "prices": [
    {
     "shop": "morele.net",
@@ -2275,44 +2275,54 @@
     "image": "https://images.morele.net/i256/12865915_2_i256.jpg"
    },
    {
+    "shop": "amazon.it",
+    "price": 54.97,
+    "currency": "EUR",
+    "url": "https://www.amazon.it/dp/B07NXZL1CL?tag=fraym06-21",
+    "inStock": true,
+    "lastSeen": "2026-11-27T01:53:56Z",
+    "product": "Cooler Master Hyper 212 Halo CPU Air Cooler - Finitura in Alluminio Nero Corvino, 4 Tubi Calore a Contatto Diretto Continuo con Alette, Rilevamento ARGB, MF120 Halo2, Staffe LGA1700 e AM5 - Nero",
+    "image": null
+   },
+   {
+    "shop": "amazon.fr",
+    "price": 47.51,
+    "currency": "EUR",
+    "url": "https://www.amazon.fr/dp/B07NXZL1CL?tag=fraym-21",
+    "inStock": true,
+    "lastSeen": "2026-11-27T01:55:39Z",
+    "product": "Cooler Master Hyper 212 Halo Refroidisseur Air CPU, Totalement Noir avec Finition Aluminium, 4 x Caloducs à Contact Direct Continu, Ventilateur MF120 Halo2 ARGB, Bracket LGA1700 & AM5 - Noir",
+    "image": null
+   },
+   {
     "shop": "amazon.co.uk",
     "price": 48.73,
     "currency": "GBP",
     "url": "https://www.amazon.co.uk/dp/B07NXZL1CL?tag=fraym0a-21",
     "inStock": true,
-    "lastSeen": "2026-11-26T16:50:51Z",
+    "lastSeen": "2026-11-27T01:58:01Z",
     "product": "Cooler Master Hyper 212 Halo CPU Air Cooler - Jet Black Aluminium Finish, 4 Continuous Direct Contact Heat Pipes with Fins, MF120 Halo2 ARGB Fan, ARGB Auto Detect, LGA1700 & AM5 Brackets - Black",
     "image": null
    },
    {
     "shop": "amazon.com",
-    "price": 29.93,
+    "price": 29.41,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B07NXZL1CL?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-26T17:00:22Z",
+    "lastSeen": "2026-11-27T02:05:40Z",
     "product": "Cooler Master Hyper 212 Halo CPU Sink - Black Aluminum Finish, 4 Heat Continuous Direct Contact Pipes with Fins, MF120 Halo2 ARGB Fan, ARGB Detects, LGA1700 and AM5 Support - Black : Sports & Outdoors",
     "image": null
    }
   ],
   "image": "images/coolers-cooler-master-hyper-212-halo.jpg",
-  "lastUpdated": "2026-11-26T17:00:22Z"
+  "lastUpdated": "2026-11-27T02:05:40Z"
  },
  {
   "id": "arctic-freezer-36-co",
   "name": "Arctic Freezer 36 CO",
   "priceMin": 14.34,
   "prices": [
-   {
-    "shop": "ldlc.com",
-    "price": 44.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00606843.html",
-    "inStock": true,
-    "lastSeen": "2026-11-25T16:44:37Z",
-    "product": "Arctic Freezer 36 CO",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/12/03/LD0006120399.jpg"
-   },
    {
     "shop": "morele.net",
     "price": 99.0,
@@ -2324,12 +2334,22 @@
     "image": "https://images.morele.net/i256/13177779_0_i256.jpg"
    },
    {
+    "shop": "ldlc.com",
+    "price": 44.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00606843.html",
+    "inStock": true,
+    "lastSeen": "2026-11-27T01:29:44Z",
+    "product": "Arctic Freezer 36 CO",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/12/03/LD0006120399.jpg"
+   },
+   {
     "shop": "materiel.net",
     "price": 44.95,
     "currency": "EUR",
     "url": "https://www.materiel.net/produit/202402050027.html",
     "inStock": true,
-    "lastSeen": "2026-11-26T16:17:43Z",
+    "lastSeen": "2026-11-27T01:29:44Z",
     "product": "Arctic Freezer 36 CO",
     "image": "https://media.materiel.net/r250/products/MN0006144415.jpg"
    },
@@ -2339,13 +2359,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B09VG62KBZ?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-26T17:02:56Z",
+    "lastSeen": "2026-11-27T02:08:04Z",
     "product": "ARCTIC Freezer 36 CO- Single-Tower CPU Cooler with Push-Pull | Two Pressure-optimised 120 mm P-Fans, Dual Ball Bearing, 200-1800 rpm, 4 Heatpipes, incl. MX-6 Thermal Compound - Black : Health & Household",
     "image": null
    }
   ],
   "image": "images/coolers-arctic-freezer-36-co.jpg",
-  "lastUpdated": "2026-11-26T17:02:56Z"
+  "lastUpdated": "2026-11-27T02:08:04Z"
  },
  {
   "id": "arctic-liquid-freezer-iii-420",
@@ -2396,7 +2416,7 @@
     "currency": "EUR",
     "url": "https://www.amazon.it/dp/B0BNYQVLSP?tag=fraym06-21",
     "inStock": true,
-    "lastSeen": "2026-11-26T02:15:33Z",
+    "lastSeen": "2026-11-27T01:53:46Z",
     "product": "NZXT Kraken 280 - Dissipatore CPU AIO 280mm, LCD - Nero | AIO 280mm con LCD quadrato personalizzabile da 1.54 pollici. Monitora le temp o mostra arte, tutto gestito tramite CAM.",
     "image": null
    },
@@ -2406,7 +2426,7 @@
     "currency": "GBP",
     "url": "https://www.amazon.co.uk/dp/B0BNYQVLSP?tag=fraym0a-21",
     "inStock": true,
-    "lastSeen": "2026-11-26T02:18:31Z",
+    "lastSeen": "2026-11-27T01:55:03Z",
     "product": "NZXT Kraken 280-280mm AIO Liquid CPU Cooler, LCD - Black | 280mm AIO with a customizable 1.54-inch square LCD. Monitor temps or show custom art, all controlled through CAM.",
     "image": null
    },
@@ -2416,13 +2436,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0BNYQVLSP?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-26T17:03:10Z",
+    "lastSeen": "2026-11-27T02:08:18Z",
     "product": "NZXT Kraken 280 - RL-KN280-B1-280mm AIO CPU Liquid Cooler - Customizable 1.54\" Square LCD Display for Images, Performance Metrics and More - 2 x F140P Fans - Black : Electronics",
     "image": null
    }
   ],
   "image": "images/coolers-nzxt-kraken-280.jpg",
-  "lastUpdated": "2026-11-26T17:03:10Z"
+  "lastUpdated": "2026-11-27T02:08:18Z"
  },
  {
   "id": "nzxt-kraken-elite-420",
@@ -2455,7 +2475,7 @@
     "currency": "GBP",
     "url": "https://www.amazon.co.uk/dp/B0DN4GS9FM?tag=fraym0a-21",
     "inStock": true,
-    "lastSeen": "2026-11-26T16:52:26Z",
+    "lastSeen": "2026-11-27T01:59:17Z",
     "product": "NZXT Kraken Elite 420 RGB - 420mm AIO CPU Cooler, LCD - White | Flagship 420mm RGB AIO with 2.36-inch LCD and F420 RGB Core fan. Our most powerful cooler, fully controlled via CAM.",
     "image": null
    },
@@ -2465,13 +2485,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0DN4GS9FM?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-26T17:03:11Z",
+    "lastSeen": "2026-11-27T02:08:19Z",
     "product": "NZXT Kraken Elite 420 RGB - 420mm AIO CPU Cooler, LCD - White | Flagship 420mm RGB AIO with 2.36-inch LCD and F420 RGB Core fan. Our most powerful cooler, fully controlled via CAM. : Industrial & Scientific",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-26T17:03:11Z"
+  "lastUpdated": "2026-11-27T02:08:19Z"
  },
  {
   "id": "corsair-icue-h115i-elite",
@@ -2494,46 +2514,6 @@
   "name": "Corsair iCUE Link Titan 360 RX",
   "priceMin": 138.25,
   "prices": [
-   {
-    "shop": "ldlc.com",
-    "price": 171.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00750859.html",
-    "inStock": true,
-    "lastSeen": "2026-11-25T16:44:37Z",
-    "product": "Corsair iCUE LINK TITAN II 360 RX RGB (Noir)",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/36/77/LD0006367786.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 171.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00750860.html",
-    "inStock": true,
-    "lastSeen": "2026-11-25T16:44:37Z",
-    "product": "Corsair iCUE LINK TITAN II 360 RX RGB (Blanc)",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/36/77/LD0006367798.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 239.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00755323.html",
-    "inStock": true,
-    "lastSeen": "2026-11-25T16:44:37Z",
-    "product": "Corsair iCUE LINK TITAN II 360 RX LCD (Noir)",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/38/16/LD0006381680.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 239.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00755324.html",
-    "inStock": true,
-    "lastSeen": "2026-11-25T16:44:37Z",
-    "product": "Corsair iCUE LINK TITAN II 360 RX LCD (Blanc)",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/38/16/LD0006381685.jpg"
-   },
    {
     "shop": "morele.net",
     "price": 733.99,
@@ -2683,10 +2663,50 @@
     "lastSeen": "2026-11-26T16:56:18Z",
     "product": "CORSAIR iCUE LINK TITAN 360 RX RGB Refroidisseur Liquide Pour CPU – Blanc | 360mm AIO, 3x RX120 Ventilateurs RGB Inclus, Convient à Intel LGA 1851/1700, AMD AM5/AM4, Hub du Système iCUE LINK Inclus",
     "image": null
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 171.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00750859.html",
+    "inStock": true,
+    "lastSeen": "2026-11-27T01:29:44Z",
+    "product": "Corsair iCUE LINK TITAN II 360 RX RGB (Noir)",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/36/77/LD0006367786.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 171.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00750860.html",
+    "inStock": true,
+    "lastSeen": "2026-11-27T01:29:44Z",
+    "product": "Corsair iCUE LINK TITAN II 360 RX RGB (Blanc)",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/36/77/LD0006367798.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 239.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00755323.html",
+    "inStock": true,
+    "lastSeen": "2026-11-27T01:29:44Z",
+    "product": "Corsair iCUE LINK TITAN II 360 RX LCD (Noir)",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/38/16/LD0006381680.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 239.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00755324.html",
+    "inStock": true,
+    "lastSeen": "2026-11-27T01:29:44Z",
+    "product": "Corsair iCUE LINK TITAN II 360 RX LCD (Blanc)",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/38/16/LD0006381685.jpg"
    }
   ],
   "image": "images/coolers-corsair-icue-link-titan-360.jpg",
-  "lastUpdated": "2026-11-26T16:56:18Z"
+  "lastUpdated": "2026-11-27T01:29:44Z"
  },
  {
   "id": "lian-li-galahad-ii-lcd-280",
@@ -2742,66 +2762,6 @@
   "name": "Lian Li Hydroshift LCD 360",
   "priceMin": 111.1,
   "prices": [
-   {
-    "shop": "ldlc.com",
-    "price": 179.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00698574.html",
-    "inStock": true,
-    "lastSeen": "2026-11-25T16:44:37Z",
-    "product": "Lian Li Hydroshift II LCD-C 360N Fanless (blanc)",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/26/79/LD0006267900.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 179.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00698575.html",
-    "inStock": true,
-    "lastSeen": "2026-11-25T16:44:37Z",
-    "product": "Lian Li Hydroshift II LCD-C 360N Fanless (noir)",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/26/79/LD0006267903.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 199.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00698573.html",
-    "inStock": true,
-    "lastSeen": "2026-11-25T16:44:37Z",
-    "product": "Lian Li Hydroshift II LCD-C 360CL (noir)",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/26/78/LD0006267897.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 199.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00698572.html",
-    "inStock": true,
-    "lastSeen": "2026-11-25T16:44:37Z",
-    "product": "Lian Li Hydroshift II LCD-C 360CL (blanc)",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/26/78/LD0006267889.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 254.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00698566.html",
-    "inStock": true,
-    "lastSeen": "2026-11-25T16:44:37Z",
-    "product": "Lian Li Hydroshift II LCD-C 360TL (noir)",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/26/78/LD0006267867.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 254.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00698565.html",
-    "inStock": true,
-    "lastSeen": "2026-11-25T16:44:37Z",
-    "product": "Lian Li Hydroshift II LCD-C 360TL (blanc)",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/26/78/LD0006267860.jpg"
-   },
    {
     "shop": "morele.net",
     "price": 629.0,
@@ -2943,18 +2903,78 @@
     "image": "https://media.materiel.net/r250/products/MN0006267923.jpg"
    },
    {
+    "shop": "ldlc.com",
+    "price": 179.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00698574.html",
+    "inStock": true,
+    "lastSeen": "2026-11-27T01:29:44Z",
+    "product": "Lian Li Hydroshift II LCD-C 360N Fanless (blanc)",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/26/79/LD0006267900.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 179.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00698575.html",
+    "inStock": true,
+    "lastSeen": "2026-11-27T01:29:44Z",
+    "product": "Lian Li Hydroshift II LCD-C 360N Fanless (noir)",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/26/79/LD0006267903.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 199.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00698573.html",
+    "inStock": true,
+    "lastSeen": "2026-11-27T01:29:44Z",
+    "product": "Lian Li Hydroshift II LCD-C 360CL (noir)",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/26/78/LD0006267897.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 199.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00698572.html",
+    "inStock": true,
+    "lastSeen": "2026-11-27T01:29:44Z",
+    "product": "Lian Li Hydroshift II LCD-C 360CL (blanc)",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/26/78/LD0006267889.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 254.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00698566.html",
+    "inStock": true,
+    "lastSeen": "2026-11-27T01:29:44Z",
+    "product": "Lian Li Hydroshift II LCD-C 360TL (noir)",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/26/78/LD0006267867.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 254.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00698565.html",
+    "inStock": true,
+    "lastSeen": "2026-11-27T01:29:44Z",
+    "product": "Lian Li Hydroshift II LCD-C 360TL (blanc)",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/26/78/LD0006267860.jpg"
+   },
+   {
     "shop": "amazon.com",
     "price": 119.99,
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0D83QQWDD?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-26T16:58:50Z",
+    "lastSeen": "2026-11-27T02:04:01Z",
     "product": "Lian Li Hydroshift 360 AIO LCD-Black-HSLCD36SB | Pre-Installed 3 x 28MM Fans, Side-Mounted Coolant Pathway, Capture Images, Record Videos, LGA 1851,1700, 1200, AM5,4 : Electronics",
     "image": null
    }
   ],
   "image": "images/coolers-lian-li-hydroshift-lcd-360.jpg",
-  "lastUpdated": "2026-11-26T16:58:50Z"
+  "lastUpdated": "2026-11-27T02:04:01Z"
  },
  {
   "id": "deepcool-ls720",
@@ -2990,26 +3010,6 @@
   "name": "MSI MAG CoreLiquid E360",
   "priceMin": 61.56,
   "prices": [
-   {
-    "shop": "ldlc.com",
-    "price": 139.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00569074.html",
-    "inStock": true,
-    "lastSeen": "2026-11-25T16:44:37Z",
-    "product": "MSI MAG CORELIQUID E360 White",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/06/05/LD0006060547.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 139.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00569075.html",
-    "inStock": true,
-    "lastSeen": "2026-11-25T16:44:37Z",
-    "product": "MSI MAG CORELIQUID E360",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/06/05/LD0006060562.jpg"
-   },
    {
     "shop": "morele.net",
     "price": 419.0,
@@ -3051,12 +3051,32 @@
     "image": "https://media.materiel.net/r250/products/MN0006063947.jpg"
    },
    {
+    "shop": "ldlc.com",
+    "price": 139.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00569074.html",
+    "inStock": true,
+    "lastSeen": "2026-11-27T01:29:44Z",
+    "product": "MSI MAG CORELIQUID E360 White",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/06/05/LD0006060547.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 139.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00569075.html",
+    "inStock": true,
+    "lastSeen": "2026-11-27T01:29:44Z",
+    "product": "MSI MAG CORELIQUID E360",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/06/05/LD0006060562.jpg"
+   },
+   {
     "shop": "amazon.it",
     "price": 170.38,
     "currency": "EUR",
     "url": "https://www.amazon.it/dp/B0CJX8729S?tag=fraym06-21",
     "inStock": true,
-    "lastSeen": "2026-11-26T16:50:28Z",
+    "lastSeen": "2026-11-27T01:57:16Z",
     "product": "MSI MAG CORELIQUID E360 Bianco - AIO RGB CPU Liquid Cooler - 360mm Radiatore - 3 x 120mm ARGB PWN Fans.",
     "image": null
    },
@@ -3066,13 +3086,13 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0CJX8729S?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-26T17:03:08Z",
+    "lastSeen": "2026-11-27T02:08:16Z",
     "product": "MSI MAG CoreLiquid E360 White - AIO ARGB CPU Liquid Cooler - Rotating Cap Design - 360mm Radiator - Triple 120mm ARGB PWM Fans - LGA 1700/1851 / AM5/AM4 Compatible : Electronics",
     "image": null
    }
   ],
   "image": "images/coolers-msi-mag-coreliquid-e360.jpg",
-  "lastUpdated": "2026-11-26T17:03:08Z"
+  "lastUpdated": "2026-11-27T02:08:16Z"
  },
  {
   "id": "thermalright-frozen-notte-360",
@@ -3099,26 +3119,6 @@
   "priceMin": 133.49,
   "prices": [
    {
-    "shop": "canadacomputers.com",
-    "price": 154.99,
-    "currency": "CAD",
-    "url": "https://www.canadacomputers.com/en/aio-cpu-liquid-coolers/268486/be-quiet-silent-loop-3-360mm-aio-liquid-cooler-bw025.html?keyword=be quiet silent loop 3 360",
-    "inStock": false,
-    "lastSeen": "2026-11-23T17:11:56Z",
-    "product": "be quiet! SILENT LOOP 3 360mm AIO Liquid Cooler",
-    "image": "https://ccimg.canadacomputers.com/Products/800x800/232/390/268486/43523.jpg"
-   },
-   {
-    "shop": "ldlc.com",
-    "price": 164.95,
-    "currency": "EUR",
-    "url": "https://www.ldlc.com/fiche/PB00672488.html",
-    "inStock": true,
-    "lastSeen": "2026-11-25T16:44:37Z",
-    "product": "be quiet! Silent Loop 3 360mm",
-    "image": "https://media.ldlc.com/r150/ld/products/00/06/22/48/LD0006224808.jpg"
-   },
-   {
     "shop": "morele.net",
     "price": 574.01,
     "currency": "PLN",
@@ -3137,10 +3137,20 @@
     "lastSeen": "2026-11-26T16:17:43Z",
     "product": "be quiet! Silent Loop 3 360 mm",
     "image": "https://media.materiel.net/r250/products/MN0006218609.jpg"
+   },
+   {
+    "shop": "ldlc.com",
+    "price": 139.95,
+    "currency": "EUR",
+    "url": "https://www.ldlc.com/fiche/PB00672488.html",
+    "inStock": true,
+    "lastSeen": "2026-11-27T01:29:44Z",
+    "product": "be quiet! Silent Loop 3 360mm",
+    "image": "https://media.ldlc.com/r150/ld/products/00/06/22/48/LD0006224808.jpg"
    }
   ],
   "image": "images/coolers-be-quiet-silent-loop-3-360.jpg",
-  "lastUpdated": "2026-11-26T16:17:43Z"
+  "lastUpdated": "2026-11-27T01:29:44Z"
  },
  {
   "id": "cooler-master-hyper-620s",
@@ -3153,7 +3163,7 @@
     "currency": "GBP",
     "url": "https://www.amazon.co.uk/dp/B0C6YQ8DPQ?tag=fraym0a-21",
     "inStock": true,
-    "lastSeen": "2026-11-26T02:17:57Z",
+    "lastSeen": "2026-11-27T01:54:30Z",
     "product": "Cooler Master Hyper 620S Dual Tower CPU Air Cooler, ARGB Sync, 120mm PWM Fan, 6 Copper Direct Contact Heat Pipes, 154.9mm Tall Silver",
     "image": null
    },
@@ -3163,7 +3173,7 @@
     "currency": "EUR",
     "url": "https://www.amazon.it/dp/B0C6YQ8DPQ?tag=fraym06-21",
     "inStock": true,
-    "lastSeen": "2026-11-26T02:18:16Z",
+    "lastSeen": "2026-11-27T01:54:42Z",
     "product": "Cooler Master Hyper 620S - Raffreddatore CPU Dual Tower, ARGB-Sync, ventola PWM da 120 mm, 6 tubi di calore a contatto diretto in rame, altezza 154,9 mm",
     "image": null
    },
@@ -3173,7 +3183,7 @@
     "currency": "EUR",
     "url": "https://www.amazon.fr/dp/B0C6YQ8DPQ?tag=fraym-21",
     "inStock": true,
-    "lastSeen": "2026-11-26T16:51:05Z",
+    "lastSeen": "2026-11-27T01:58:00Z",
     "product": "Cooler Master Hyper 620S - Refroidisseur d'air double tour pour processeur - Synchronisation ARGB - Ventilateur PWM de 120 mm - 6 tubes chauffants en cuivre à contact direct - 154,9 mm de haut",
     "image": null
    },
@@ -3183,7 +3193,7 @@
     "currency": "EUR",
     "url": "https://www.amazon.es/dp/B0C6YQ8DPQ?tag=fraym08-21",
     "inStock": true,
-    "lastSeen": "2026-11-26T16:59:35Z",
+    "lastSeen": "2026-11-27T02:04:47Z",
     "product": "Cooler Master Hyper 620S Dual Tower - Enfriador de aire para CPU ARGB-Sync, ventilador PWM de 120 mm, 6 tubos de calor de contacto directo de cobre, 154,9 mm de alto",
     "image": null
    },
@@ -3193,12 +3203,12 @@
     "currency": "USD",
     "url": "https://www.amazon.com/dp/B0C6YQ8DPQ?tag=fraym-20",
     "inStock": true,
-    "lastSeen": "2026-11-26T17:03:07Z",
+    "lastSeen": "2026-11-27T02:08:14Z",
     "product": "Cooler Master Hyper 620S Dual Tower ARGB CPU Air Cooler, 120mm PWM Fan, 6 Heat Pipes, Silver Nickel-Plated Copper, 154.9mm Tall, AMD Ryzen AM5|AM4, Intel LGA 1851|1700|1200 Brackets : Industrial & Scientific",
     "image": null
    }
   ],
   "image": null,
-  "lastUpdated": "2026-11-26T17:03:07Z"
+  "lastUpdated": "2026-11-27T02:08:14Z"
  }
 ]

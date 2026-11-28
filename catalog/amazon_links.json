@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T01:43:27Z",
+ "generated": "2026-11-28T15:41:28Z",
  "markets": [
   "amazon.fr",
   "amazon.de",
@@ -9,8 +9,8 @@
   "amazon.com",
   "amazon.com.au"
  ],
- "nativeLinks": 2206,
- "onelinkLinks": 1259,
+ "nativeLinks": 2204,
+ "onelinkLinks": 1261,
  "note": "Liens d'affiliation Amazon pre-calcules vers la FICHE PRODUIT (/dp/<ASIN>), utilises par l'app quand aucune offre Amazon verifiee n'est disponible. ASIN valides sur la fiche Amazon elle-meme ; les marketplaces sans fiche recoivent le lien d'une marketplace voisine, OneLink redirigeant l'acheteur.",
  "items": {
   "gpus": {
@@ -6365,7 +6365,6 @@
      "amazon.fr",
      "amazon.de",
      "amazon.it",
-     "amazon.co.uk",
      "amazon.com"
     ],
     "links": {
@@ -6373,7 +6372,7 @@
      "amazon.de": "https://www.amazon.de/dp/B0BDS873GF?tag=fraym03-21",
      "amazon.es": "https://www.amazon.fr/dp/B0BDS873GF?tag=fraym-21",
      "amazon.it": "https://www.amazon.it/dp/B0BDS873GF?tag=fraym06-21",
-     "amazon.co.uk": "https://www.amazon.co.uk/dp/B0BDS873GF?tag=fraym0a-21",
+     "amazon.co.uk": "https://www.amazon.de/dp/B0BDS873GF?tag=fraym03-21",
      "amazon.com": "https://www.amazon.com/dp/B0BDS873GF?tag=fraym-20",
      "amazon.com.au": "https://www.amazon.com/dp/B0BDS873GF?tag=fraym-20"
     }
@@ -9689,8 +9688,7 @@
      "amazon.de",
      "amazon.es",
      "amazon.it",
-     "amazon.co.uk",
-     "amazon.com.au"
+     "amazon.co.uk"
     ],
     "links": {
      "amazon.fr": "https://www.amazon.de/dp/B087VL2Z21?tag=fraym03-21",
@@ -9698,8 +9696,8 @@
      "amazon.es": "https://www.amazon.es/dp/B087VL2Z21?tag=fraym08-21",
      "amazon.it": "https://www.amazon.it/dp/B087VL2Z21?tag=fraym06-21",
      "amazon.co.uk": "https://www.amazon.co.uk/dp/B087VL2Z21?tag=fraym0a-21",
-     "amazon.com": "https://www.amazon.com.au/dp/B087VL2Z21?tag=fraym-22",
-     "amazon.com.au": "https://www.amazon.com.au/dp/B087VL2Z21?tag=fraym-22"
+     "amazon.com": "https://www.amazon.co.uk/dp/B087VL2Z21?tag=fraym0a-21",
+     "amazon.com.au": "https://www.amazon.co.uk/dp/B087VL2Z21?tag=fraym0a-21"
     }
    },
    "be-quiet-dark-rock-4": {
